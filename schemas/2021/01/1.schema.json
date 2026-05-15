@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:48+09:00",
+  "datePublished": "2021-01-17T20:08:56+09:00",
+  "description": "나는 왜 이런 매매를 했을까? 작년 바보 같은 나를 다시 되돌아보면서 글을 작성한다. 지금 같이 주식 붐이 뜨기 몇개월 전에 미리 진입 (조금만 더 늦게 들어갔더라면..) 20년 2월 소소하게 200만원 입금으로 시작 바보 같이 바로 그 달 -32만원 손해 우량주는 재미 없고, 너무 비싸서 저렴하고 거래량이 많았던 주식으로 매매한 것 같다. ps. 그냥 잡주 타고 물려서 손해봤네..",
+  "headline": "20년 2월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcokdDX%2FbtqTIo2lhz3%2FAAAAAAAAAAAAAAAAAAAAAOAMdBFZJg6JUI_fQE82fhaA6QuCpcpX4qjxA7jv7bHb%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DMY5t05oKqGZCnC8FPHM8DrFzX9Y%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/1",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/1"
+}

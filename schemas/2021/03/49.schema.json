@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:44:55+09:00",
+  "datePublished": "2021-03-17T23:13:46+09:00",
+  "description": "투자자산 1. 단기매매증권 - 단기보유목적, 시장성, 공정가액 평가, 취득수수료 => 수수료 비용 2. 만기보유증권 - 만기보유목적, 주식불가, 평가x(상각후가액), 취득수수료 => 자산 3. 매도가능증권 - 장기투자목적, 공정가액평가, 취득수수료 => 자산 4. 지분법 적용 투자주식 - 지분율이 20%이상, 주식 1. 단기매매증권 다른 유가증권 (단, 시장성상실 => 매도가능증권) 2. 매도가능증권 만기보유증권 토지 영업목적-> 토지 투기목적 -> 투자부동산 건물 영업목적 -> 건물 투기목적 -> 투자부동산 단기매매증권 평가손익 => 영업외손익 (손익계산서) 매도가능증권평가손익 => 재무상태표의 기타포괄손익누계액 매입채무 = 외상매입금 + 지급어음 매입환불 - 하자, 반품 VS 매출환입 매입에누리 - ..",
+  "headline": "투자자산, 매입채무",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbFRTAK%2Fbtq0pxQ1ijU%2FAAAAAAAAAAAAAAAAAAAAADR6xbQ-43COUisn6BpYXHIEHrNLsZVYvzZHl2gj7UZF%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DYnxDr3OED7TK4nnSK3Pa19n0Q74%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/49",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/49"
+}

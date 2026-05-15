@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4604,
+  "canonical_url": "https://mystock-note.tistory.com/37",
+  "content_hash": "2d0b7cedd11a302550b70caa23f8a1d6eaab6d8cd80beb3c0b3e9ec42c4d4c93",
+  "json_ld_count": 1,
+  "meta_description": "재무상태표 - 일정 시점의 자산, 부채, 자본의 상태 보고식 - 레포트식 계정식 - T계정   재무상태표등식 자산 = 부채 + 자본 자본등식 자본 = 자산 - 부채 재산법에 의한 이익 = 기말자본 - 기초자본 기말자본 = 기초자본 + 순이익 순이익 = 기말자본 - 기초자본",
+  "modified_time": "2021-05-19T15:45:38+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "재무상태표 - 일정 시점의 자산, 부채, 자본의 상태 보고식 - 레포트식 계정식 - T계정 < 차 변 > < 대 변 > 재무상태표등식 자산 = 부채 + 자본 자본등식 자본 = 자산 - 부채 재산법에 의한 이익 = 기말자본 - 기초자본 기말자본 = 기초자본 + 순이익 순이익 = 기말자본 - 기초자본",
+  "og_title": "재무상태표",
+  "post_id": "37",
+  "published_time": "2021-03-12T19:42:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "재무상태표",
+  "url": "https://mystock-note.tistory.com/37"
+}

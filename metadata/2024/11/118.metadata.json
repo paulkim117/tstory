@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 6236,
+  "canonical_url": "https://mystock-note.tistory.com/118",
+  "content_hash": "a151880311220c0512f3dd2c48e0b7a81b1c8b8f91e72a09ac89c2e261906be5",
+  "json_ld_count": 1,
+  "meta_description": "연초 대비(YTD) 가장 높은 성과를 낸 S&P 500, Nasdaq 100, Russell 2000의 25개 종목을 선별하여 성과를 추적하는 자료입니다.S&P 500ST Top 25 S&P 500 💪S&P 500 Top 25 리스트가 S&P 500 지수의 상승률(+4.66%)을 초과하여 **+9.43%**의 성과를 기록했습니다. 이번 주에는 4개의 주요 종목 교체가 있었습니다.NASDAQ 100대형주 중심의 Nasdaq 100 🤖Nasdaq 100 Top 25 리스트는 Nasdaq 100 지수(+5.41%)를 초과하여 **+5.81%**의 상승률을 보였습니다. 이번 주에는 2개의 주요 종목 교체가 있었습니다.RUSSELL 2000성장 중심의 Russell 2000 🦐Russell 2000 Top ..",
+  "modified_time": "2024-11-11T00:07:35+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "연초 대비(YTD) 가장 높은 성과를 낸 S&P 500, Nasdaq 100, Russell 2000의 25개 종목을 선별하여 성과를 추적하는 자료입니다.S&P 500ST Top 25 S&P 500 💪S&P 500 Top 25 리스트가 S&P 500 지수의 상승률(+4.66%)을 초과하여 **+9.43%**의 성과를 기록했습니다. 이번 주에는 4개의 주요 종목 교체가 있었습니다.NASDAQ 100대형주 중심의 Nasdaq 100 🤖Nasdaq 100 Top 25 리스트는 Nasdaq 100 지수(+5.41%)를 초과하여 **+5.81%**의 상승률을 보였습니다. 이번 주에는 2개의 주요 종목 교체가 있었습니다.RUSSELL 2000성장 중심의 Russell 2000 🦐Russell 2000 Top ..",
+  "og_title": "S&P, Nasdaq, Russell 2000 최고 수익률 종목 공개! 이번 주 가장 뜨거운 주식은?",
+  "post_id": "118",
+  "published_time": "2024-11-11T00:07:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P, Nasdaq, Russell 2000 최고 수익률 종목 공개! 이번 주 가장 뜨거운 주식은?",
+  "url": "https://mystock-note.tistory.com/118"
+}

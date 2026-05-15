@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4368,
+  "canonical_url": "https://mystock-note.tistory.com/169",
+  "content_hash": "ab3664b7ecaa341f9a1062a5f1a5a0c553b3ba407d7da262a203b828e78aff22",
+  "json_ld_count": 0,
+  "meta_description": "📢 투자자 여러분, 새로운 배당 소식을 전해드립니다!이번 주 YieldMax Weekly Payers 및 Group A ETF들의 배당금이 발표되었습니다.💰 배당률 TOP 5✅ SMCY: 101.11%✅ MSTY: 89.54%✅ AIYY: 83.75%✅ ULTY: 83.40% (3월 12일부터 매주 배당 지급 예정 🎉)✅ LFGY: 60.76%✨ 그 외 다양한 ETF들도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반..",
+  "modified_time": "2025-03-20T13:00:50+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/169\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/169\",\"headline\":\"🔥 YieldMax ETF 배당 발표! – 최신 배당률 공개 🚀\",\"description\":\"📢 투자자 여러분, 새로운 배당 소식을 전해드립니다!이번 주 YieldMax Weekly Payers 및 Group A ETF들의 배당금이 발표되었습니다.💰 배당률 TOP 5✅ SMCY: 101.11%✅ MSTY: 89.54%✅ AIYY: 83.75%✅ ULTY: 83.40% (3월 12일부터 매주 배당 지급 예정 🎉)✅ LFGY: 60.76%✨ 그 외 다양한 ETF들도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FboKR4F%2FbtsMQoztxFZ%2FAAAAAAAAAAAAAAAAAAAAAMcsRUsUpD1-DE1PXdeGGxaWTXBHgZGde3_5aSsxkLb9%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DnYSjK1FSwuxSugovfg0THKyu%252Fuw%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2025-03-20T13:00:42+09:00\",\"dateModified\":\"2025-03-20T13:00:50+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "📢 투자자 여러분, 새로운 배당 소식을 전해드립니다!이번 주 YieldMax Weekly Payers 및 Group A ETF들의 배당금이 발표되었습니다.💰 배당률 TOP 5✅ SMCY: 101.11%✅ MSTY: 89.54%✅ AIYY: 83.75%✅ ULTY: 83.40% (3월 12일부터 매주 배당 지급 예정 🎉)✅ LFGY: 60.76%✨ 그 외 다양한 ETF들도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반..",
+  "og_title": "🔥 YieldMax ETF 배당 발표! – 최신 배당률 공개 🚀",
+  "post_id": "169",
+  "published_time": "2025-03-20T13:00:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "🔥 YieldMax ETF 배당 발표! – 최신 배당률 공개 🚀",
+  "url": "https://mystock-note.tistory.com/169"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:47:32+09:00",
+  "datePublished": "2021-03-15T21:23:28+09:00",
+  "description": "유형자산의 취득원가 = 구입가격 + 부대비용(자산을 사용가능시 지출한 모든 비용) - 할인 등 부대비용 = 운반비 + 보험료 + 수수료비용 + 설치비 + 시운전비 (- 시제품판매가격) + 취득세, 등록세 + 국공채매입손실(액면가액 - 공정가치(보유시 목적에 따라 단기매매증권 등 처리)) + 차입금이자비용(선택사항) 유형자산의 철거비용 사용중인건물 - (차)감가상각누계액 / (대) 건물 유형자산처분손실(처거비용 포함) 구입한건물철거 - (차) 토지(정지비로 봄) / (대) 현금 (차) 감가상각누계액 300 / (대) 건물 1,000 유형자산처분손실 710 현금 10 (차) 토지 210 / (대) 현금 210 취득후의 원가(지출) 자본적지출 : 내용년수증가, 가치증가 => 자산처리 사례) 증축, 확장, 엘리..",
+  "headline": "유형자산",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcIZGsA%2FbtqZ4BmwiKq%2FAAAAAAAAAAAAAAAAAAAAAMMh4LaP_GQSeH6GxNFCmzKbTcoefw52J65jcX4c3zIu%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D2votnz35YXB9PAq57S2IabH15Eo%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/47",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/47"
+}

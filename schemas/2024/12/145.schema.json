@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-12-17T23:42:12+09:00",
+  "datePublished": "2024-12-17T23:42:12+09:00",
+  "description": "Nasdaq Dorsey Wright 옵션 소득 전략 지수를 추종하는 FEAT와 FIVYYieldMax™ Dorsey Wright Featured 5 Income ETF (티커: FEAT)YieldMax™ Dorsey Wright Hybrid 5 Income ETF (티커: FIVY)이 두 ETF는 Nasdaq Dorsey Wright Tactical Option Income Strategy Index와 Nasdaq Dorsey Wright Tactical Hybrid Option Income Strategy Index를 각각 추종합니다.📊 FEAT와 FIVY의 핵심 특징1️⃣ FEAT (Featured 5 Income ETF)목표: Nasdaq Dorsey Wright Tactical Option I..",
+  "headline": "🚀 YieldMax™, 두 개의 새로운 ETF 출시!",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcDkGrz%2FbtsLlKkwk1S%2FAAAAAAAAAAAAAAAAAAAAAKPuEXTvgMHBielH3UjitxVCjTf3RG2ZS8SUgVu1iM70%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DVuo4xTbYfpy0N110bS4%252FgOEluUs%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/145",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/145"
+}

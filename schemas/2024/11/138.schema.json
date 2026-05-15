@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-27T10:14:34+09:00",
+  "datePublished": "2024-11-27T10:14:34+09:00",
+  "description": "오늘의 시장 요약추수감사절 연휴를 앞두고 황소 투자자들이 주도권을 유지하고 있습니다. 기술주와 대형주로의 자금 이동이 두드러지며, 비트코인은 $100,000를 넘지 못했지만 주식 시장의 위험 선호는 여전히 강세를 보이고 있습니다. 👀오늘 뉴스레터에서는 소비자 신뢰 지수의 상승, 주요 소매 및 기술 실적 발표, 그리고 최근 논란이 된 중국 펌프 앤 덤프 사례를 분석합니다. 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.유틸리티(+1.59%) 섹터가 상승을 주도했고, 소재(-0.75%) 섹터는 가장 부진했습니다.종가 정보S&P 500: 6,022 (+0.57%)나스닥: 19,176 (+0.63%)러셀 2000: 2,424 (-0.73%)다우존스: 44,860 (+0.28%..",
+  "headline": "소비자 신뢰 상승! 연말 시장 분위기 기대감 고조",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FsWDLw%2FbtsKWYcoera%2FAAAAAAAAAAAAAAAAAAAAABoqBqegIMdq9EegafSJ2MRee3OXaaI8rrX1hgWB9dZR%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DU5537DJuab7qwSTaLOcqySky3cA%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/138",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/138"
+}

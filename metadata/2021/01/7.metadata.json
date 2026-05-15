@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2515,
+  "canonical_url": "https://mystock-note.tistory.com/7",
+  "content_hash": "0cdcb0ff4582212157e8e1afe1978eb0d2e91561d466ca29dca71c9213c5241d",
+  "json_ld_count": 1,
+  "meta_description": "월 50만 원 투자를 목표로 했기 때문에 저번 달에 160만 원 입금해서 7월에는 43만 원 정도만 입금했다. 7월에도 뭐 그냥 존버하는 거다. 그래도 총 -140만원에서 40만 원 이득을 봐서 -100만 원이 됐다. 남들은 계속 수익보고 있지만 나는 아직도 손실중이다..",
+  "modified_time": "2021-05-19T14:26:41+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "월 50만 원 투자를 목표로 했기 때문에 저번 달에 160만 원 입금해서 7월에는 43만 원 정도만 입금했다. 7월에도 뭐 그냥 존버하는 거다. 그래도 총 -140만원에서 40만 원 이득을 봐서 -100만 원이 됐다. 남들은 계속 수익보고 있지만 나는 아직도 손실중이다..",
+  "og_title": "20년 7월",
+  "post_id": "7",
+  "published_time": "2021-01-17T21:17:00+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "20년 7월",
+  "url": "https://mystock-note.tistory.com/7"
+}

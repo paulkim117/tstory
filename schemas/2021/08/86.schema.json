@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-13T01:53:48+09:00",
+  "datePublished": "2021-08-13T01:53:48+09:00",
+  "description": "1. 데이터 분석의 현황 대다수의 기업들은 빅데이터가 갖고 있는 무한한 비즈니스 잠재력을 규명하는 초기 프로젝트에 머무르고 있다. 빅데이터를 활용하기 위한 장애물은 비용보다 데이터 분석을 수행하기 위한 분석적 방법과 성과에 대한 이해의 부족이다. 2. 데이터 분석의 지향점 단순하게 데이터 분석을 자주, 많이 수행하는 것이 경쟁우위를 가져다 주는 것은 아니다. 분석은 경쟁의 본질에 영향을 미치고 기업의 경쟁전략을 이끌어 가므로, 경쟁의 본질을 제대로 바라보지 못한 분석은 불필요한 결과를 만들어 낸다. 대부분의 기업들은 업계 내부의 문제에만 중점을 두고 있으며, 주로 부서 단위로 관리되기에 전체 비즈니스 관점의 핵심적인 역할을 기대하기 어렵다. 산업군 데이터 분석 내용 금융 신용점수 산정, 사기방지, 프로그..",
+  "headline": "[빅데이터분석기사] 분석 방안 수립, 데이터 분석 기획",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbz9DL7%2Fbtrb08sKQGv%2FAAAAAAAAAAAAAAAAAAAAAFmDLQ0ZBrLEeyunrauohe8pMm1uaCk5Hk1MC3YEdUkt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DFPGRpOkDCUfCkVlpK3iI1mJ68EY%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/86",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/86"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:47:42+09:00",
+  "datePublished": "2021-03-15T21:43:20+09:00",
+  "description": "1. 감가상각 1) 감가상각대상금액 = 취득원가(=구입가격 + 취득부대비용 - 할인) 2) 감가상각 시작시점 : 사용시점(구입시점 x) 3) 내용년수 : 사용가능한 예상년수 2. 감가상각방법 - 합리적 방법 선택 3. 감가상각 계산 - 원가배분 정액법 : 매년 동일한 금액, 직선법 감가상각비 = (취득원가 - 잔존가액) -> 상각대상금액/ 내용년수 (차) 감가상각비 / (대 ) 감가상각누계액 정율법 = 체감법(초기에 과대, 후반부 갈수록 과소 계상) 감가상각비 = (취득원가 - 감가상각누계액) X 상각율 => 장부가액, 미상각잔액,상각대상금액 생산량비례법(비례법) 감가상각비 = (취득원가 - 잔존가액) X 당해년도생산량/총예정생산량 연수합계법(체감법) 감가상각비 = (취득원가 - 잔존가액) X 내용년수의..",
+  "headline": "감가상각, 무형자산",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdSd3kn%2Fbtq0c1kWNsf%2FAAAAAAAAAAAAAAAAAAAAAEVweIau64_OzVxScc94cEiSD0ndmh_iak-nKutB0MAi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DqtqCPNUnT%252BhveReV%252FDt47oO%252FoHw%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/48",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/48"
+}

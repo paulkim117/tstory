@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-12T01:17:10+09:00",
+  "datePublished": "2021-08-12T01:17:10+09:00",
+  "description": "1. 필요성 빅데이터와 관련된 기술적인 문제들은 기술의 발전으로 어느 정도 해소되었다. 데이터 분석 및 활용을 위한 조직체계나 분석 전문가 확보에 어려움이 있다. 데이터 분석 관점의 컨트롤 타워에 대한 필요성이 제기되고 있다. 2. 조직의 역할 전사 및 부서의 분석 업무를 발굴한다. 전문적인 분석 기법과 도구를 활용하여 빅데이터 속에서 인사이트를 찾아낸다. 발견한 인사이트를 전파하고 이를 실행한다. 3. 조직의 구성 비즈니스 질문을 선제적으로 찾아낼 수 있는 구조인가? 분석 전담조직과 타 부서 간 유기적인 협조와 지원이 원활한 구조인가? 효율적인 분석 업무를 수행하기 위한 분석 조직의 내부 조직구조는? 전사 및 단위부서가 필요시 접촉하며 지원할 수 있는 구조인가? 어떤 형태의 조직(집중형, 기능형, 분산..",
+  "headline": "[빅데이터분석기사] 빅데이터 개요 및 활용, 빅데이터 조직 및 인력",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcgchys%2FbtrbV1AaX9E%2FAAAAAAAAAAAAAAAAAAAAAF5R8UUlrWvQFwviIzqjcJ6RgEVmvZVHYRmJBnDlhPEx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dlq92695cwDo7vbAHDVHoQmPjSHo%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/78",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/78"
+}

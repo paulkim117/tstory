@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:41+09:00",
+  "datePublished": "2021-01-17T21:15:58+09:00",
+  "description": "역대급 단기 급성장을 보여준 6월 160만 원 추가 입금 예전 부동산 투자한다고 100만 원이 만기가 되어 추가로 월급과 함께 입금했다. MAGA의 위엄을 보여주고 RUSSELL 2000 지수도 폭등 컨택 주들의 단기 거품을 보여주었다. 이때 물려있던 DAL도 $31 부근에 탈출 모기지들도 이때 한번 대폭등..(이때 모기지 뽕에 취한 것 같다..)",
+  "headline": "20년 6월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F09BST%2FbtqTLxRzKhn%2FAAAAAAAAAAAAAAAAAAAAAPNpg70Do0-T1Awv0wxXmN01enc1ccC0b99odLeCOKVh%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D9%252FcWo%252BaI8irOSxVZIGVJXISBfE8%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/6",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/6"
+}

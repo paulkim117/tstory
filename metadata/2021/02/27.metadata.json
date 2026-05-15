@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 8244,
+  "canonical_url": "https://mystock-note.tistory.com/27",
+  "content_hash": "7b83a2cca286def6e134db537abaec051f88baad07affd936442da541d7b57bc",
+  "json_ld_count": 0,
+  "meta_description": "희토류에 관심이 많으신 분들은 MP를 더욱 많이 알고 있다고 생각한다. 그렇지만 최근 AREC도 많은 이슈를 받고 있어서 희토류 전쟁에 있어 버거들의 관심을 받기 시작한 것 같다. 그렇다면 희토류는 무엇인가? 이 점부터 알고 가야겠다. 희토류는 스마트 폰과 같은 첨단 가전제품부터 군용 장비에 이르기까지 모든 것에 사용되는 필수 원자재이다. 그럼에도 불구하고 일부는 전 세계에 매장되어 있지만 순수한 형태 나 농축된 양으로 발견되는 것은 드물기 때문에 \"희귀\"라는 타이틀을 가지고 있다. 최근 미중 무역 전쟁이 다시 떠오르면서 중요한 원자재인 희토류는 필수로 재재하려는 모습을 쉽게 국내 기사를 통해서도 확인이 가능하다. 이렇게 중요한 희토류를 생산하려는 회사는 많은데 왜 AREC를 매수한 이유를 적어보려고 한..",
+  "modified_time": "2021-05-19T15:43:48+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/27\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/27\",\"headline\":\"AREC (American Resources Corp)\",\"description\":\"희토류에 관심이 많으신 분들은 MP를 더욱 많이 알고 있다고 생각한다. 그렇지만 최근 AREC도 많은 이슈를 받고 있어서 희토류 전쟁에 있어 버거들의 관심을 받기 시작한 것 같다. 그렇다면 희토류는 무엇인가? 이 점부터 알고 가야겠다. 희토류는 스마트 폰과 같은 첨단 가전제품부터 군용 장비에 이르기까지 모든 것에 사용되는 필수 원자재이다. 그럼에도 불구하고 일부는 전 세계에 매장되어 있지만 순수한 형태 나 농축된 양으로 발견되는 것은 드물기 때문에 \"희귀\"라는 타이틀을 가지고 있다. 최근 미중 무역 전쟁이 다시 떠오르면서 중요한 원자재인 희토류는 필수로 재재하려는 모습을 쉽게 국내 기사를 통해서도 확인이 가능하다. 이렇게 중요한 희토류를 생산하려는 회사는 많은데 왜 AREC를 매수한 이유를 적어보려고 한..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbFNSt1%2FbtqXU3mvU5z%2FAAAAAAAAAAAAAAAAAAAAAOX4TSuMIB68j7o1SygntffImcytgr5H6S4Y981OKPns%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DUBd4dTAo9mOSJ9fYB2sK4ItREu8%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2021-02-20T19:16:56+09:00\",\"dateModified\":\"2021-05-19T15:43:48+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "희토류에 관심이 많으신 분들은 MP를 더욱 많이 알고 있다고 생각한다. 그렇지만 최근 AREC도 많은 이슈를 받고 있어서 희토류 전쟁에 있어 버거들의 관심을 받기 시작한 것 같다. 그렇다면 희토류는 무엇인가? 이 점부터 알고 가야겠다. 희토류는 스마트 폰과 같은 첨단 가전제품부터 군용 장비에 이르기까지 모든 것에 사용되는 필수 원자재이다. 그럼에도 불구하고 일부는 전 세계에 매장되어 있지만 순수한 형태 나 농축된 양으로 발견되는 것은 드물기 때문에 \"희귀\"라는 타이틀을 가지고 있다. 최근 미중 무역 전쟁이 다시 떠오르면서 중요한 원자재인 희토류는 필수로 재재하려는 모습을 쉽게 국내 기사를 통해서도 확인이 가능하다. 이렇게 중요한 희토류를 생산하려는 회사는 많은데 왜 AREC를 매수한 이유를 적어보려고 한..",
+  "og_title": "AREC (American Resources Corp)",
+  "post_id": "27",
+  "published_time": "2021-02-20T19:16:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AREC (American Resources Corp)",
+  "url": "https://mystock-note.tistory.com/27"
+}

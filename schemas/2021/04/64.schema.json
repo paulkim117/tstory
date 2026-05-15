@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-04-13T15:40:10+09:00",
+  "datePublished": "2021-04-01T15:56:56+09:00",
+  "description": "- EPS : 주당 순이익, 클수록 저평가된 주식. - BPS : 주당 갖게되는 회사자산의 지분, 보통 클수록 저평가된 주식. - PER : 주당 순이익EPS로 나눈 값, 작을수록 저평가된 주식. - PBR : 주당 순자산의 비율 일반적으로 작을수록 저평가된 주식. - PCR : 주가를 주당 현금흐름으로 나눠준 값. 일반적으로 작을수록 저평가 가능성 높음. - PBR도 업종별 PBR보다 낮거나, 1보다 낮다면 저평가 (PBR은 안정성 지표, 주가가 낮아도 돈만 많으면 PBR이 낮고 급등주는 PBR이 존재하지 않음) - PSR : 주가를 주당 매출액으로 나눠준 값. 작을수록 저평가된 주식. - EV/EBITDA(이브이에비따) : 순수한 영업이익과 기업가치를 비율로 나타낸것임. 작을수록 저평가된 주식된 주식..",
+  "headline": "펀더멘탈 Fundamental Analysis",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FomxE5%2Fbtq1AF2hvNI%2FAAAAAAAAAAAAAAAAAAAAAPncoVgIKMaXepF4_o28NF-C_ENM9JT2glKiUQIrzfH5%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DbXNWn3ULIMfeeS6X4whRzJ3yXYk%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/64",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/64"
+}

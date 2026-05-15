@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-20T11:12:33+09:00",
+  "datePublished": "2024-11-20T11:12:33+09:00",
+  "description": "오늘 미국 주식시장은 암호화폐와 함께 강한 상승세를 보이며 엔비디아 실적 발표를 하루 앞두고 기대감을 키웠습니다. 오늘 소식에서는 엔비디아와 반도체 섹터를 중심으로 기술적, 기본적, 그리고 투자 심리를 분석하며 실적 발표 준비에 도움을 드립니다. 👀오늘의 뉴스레터 주요 내용:암호화폐 시장의 황소장 기운엔비디아 실적 발표 사전 가이드그리고 오늘의 주목할 만한 주식들! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 6개 섹터가 상승 마감했습니다.기술 섹터(+0.83%)가 상승을 주도했으며, 금융 섹터(-0.68%)가 가장 부진했습니다.종가 정보S&P 500: 5,917 (+0.40%)나스닥: 18,987 (+1.04%)러셀 2000: 2,325 (+0.80%)다우존스: 43,269 (-0.70%)..",
+  "headline": "시장이 기다리는 '엔비디아 데이'!",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdAZpzj%2FbtsKPEKQc8l%2FAAAAAAAAAAAAAAAAAAAAAOdCnYTJ4Ng47xdSFaI38uzDkrVZd040Lu3gN8PMG2Nk%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLpYbMdsPBFhtomQAwRg%252FkTK9DO0%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/131",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/131"
+}

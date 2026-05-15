@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:46:47+09:00",
+  "datePublished": "2021-03-14T01:12:28+09:00",
+  "description": "1. 시산표 - 분개장에 분개 후, 총계정 원장에 전기가 정확히 되었는지 확인하는 일람표 전체 거래 파악 오류검증★ 재무제표 작성 2. 시산표 종류 합계 시산표 => 총계정원장의 차변합계와 대변합계를 합하여 기재 잔액 시산표 => 총계정원장의 차변합계와 대변합계의 차액(잔액)을 큰쪽에 기재 합계잔액 시산표 = 합계+잔액 분개장 분개 개인자본금 = 출자금 법인 자본금 = 주식수 X 액면가액 2/1 (차) 현금 2,000,000 / (대) 자본금 2,000,000 2/2 (차) 비품 200,000 / (대) 현금 200,000 3/3 (차) 소모품비 54,000 / (대) 현금 54,000 4/4 (차) 상품 960,000 / (대) 자본금 960,000 5/6 (차) 현금 2,000,000 / (대) 상품..",
+  "headline": "분개 및 시산표",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbWblYd%2FbtqZ1ITGTlV%2FAAAAAAAAAAAAAAAAAAAAAHFEANDfQtKlk3X_pD7TK97N2P5W4nekD_K6lAjF9mEH%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DPWZTQQ49NBxaknmhk8LWuTAUVeE%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/43",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/43"
+}

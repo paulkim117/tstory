@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:43:06+09:00",
+  "datePublished": "2021-01-18T02:45:10+09:00",
+  "description": "모두가 잘 알고 있는 IPOE에 대해서 분석해 보겠다. 글을 작성하는 시점에도 이미 IPOE를 매수해 두었으며, 주가가 하락한다면 다른 주식을 팔아서라도 들어갈 예정이다. IPOE 즉, SoFi와 DA가 확정된 SPAC 주식이다. 여기서 SPAC 주식은 정식적인 IPO 절차를 밟기보다는 우회로 상장하는 개념을 가지고 가면 좋다. 정상적으로 IPO 상장을 하게 된다면 짧으면 약 12개월 정도 걸리며 더 오래 기간이 소요된다. 그렇지만 SPAC 상장은 짧은시간에 상장을 하여 자금을 모으기 위한 형태로 보인다. 요즘 많은 기업들이 SPAC 상장을 하면서 핫한 주식들이 많이 상장되고 있다. 예로 ACTC, CCIV, IPOE 벌써 3 대장이 상장을 하려고 한다. 그리고 SPAC IPO 시리즈는 차마스 형님께서 ..",
+  "headline": "IPOE(Social Capital Hedosophia Holdings VCorp): 1편",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkCEym%2FbtqTIqzez72%2FAAAAAAAAAAAAAAAAAAAAAFpUMD7MRbRkqGTTTD61PFVa_o8e_pjZwf_q-rWgVdCI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DWcheB5f%252Fd0pUG12sI3ATUdEzsM8%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/15",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/15"
+}

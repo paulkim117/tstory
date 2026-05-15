@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 3267,
+  "canonical_url": "https://mystock-note.tistory.com/1",
+  "content_hash": "d68d999b3ee7fe1196195af1f0506ca7cf3cfdbb07b3e2e8000317ff9040bf55",
+  "json_ld_count": 1,
+  "meta_description": "나는 왜 이런 매매를 했을까? 작년 바보 같은 나를 다시 되돌아보면서 글을 작성한다. 지금 같이 주식 붐이 뜨기 몇개월 전에 미리 진입 (조금만 더 늦게 들어갔더라면..) 20년 2월 소소하게 200만원 입금으로 시작 바보 같이 바로 그 달 -32만원 손해 우량주는 재미 없고, 너무 비싸서 저렴하고 거래량이 많았던 주식으로 매매한 것 같다. ps. 그냥 잡주 타고 물려서 손해봤네..",
+  "modified_time": "2021-05-19T14:26:48+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "나는 왜 이런 매매를 했을까? 작년 바보 같은 나를 다시 되돌아보면서 글을 작성한다. 지금 같이 주식 붐이 뜨기 몇개월 전에 미리 진입 (조금만 더 늦게 들어갔더라면..) 20년 2월 소소하게 200만원 입금으로 시작 바보 같이 바로 그 달 -32만원 손해 우량주는 재미 없고, 너무 비싸서 저렴하고 거래량이 많았던 주식으로 매매한 것 같다. ps. 그냥 잡주 타고 물려서 손해봤네..",
+  "og_title": "20년 2월",
+  "post_id": "1",
+  "published_time": "2021-01-17T20:08:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "20년 2월",
+  "url": "https://mystock-note.tistory.com/1"
+}

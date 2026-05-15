@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-14T11:19:40+09:00",
+  "datePublished": "2024-11-14T11:19:40+09:00",
+  "description": "인플레이션이 상승하면서 베어스가 비트코인이 $90,000 돌파를 저지하는 데 성공했습니다. 또한, SMCI의 연례 보고서 지연 문제로 나스닥 상장폐지 가능성이 제기되면서 반도체 주들이 하락했고, AMD는 4%의 인력 감축을 발표하여 성장 우려를 자아냈습니다. 이제 모든 관심은 내일 발표될 생산자 물가지수(PPI)와 제롬 파월 연준 의장의 연설에 쏠려 있습니다. 👀오늘 소식은 10월 인플레이션 상승, 엔비디아 데이 행사 개요, 기타 주목할 만한 주식 상승 및 하락 현황을 다룹니다. 📰S&P 500의 섹터별 지도를 보면, 11개 섹터 중 8개가 상승 마감했으며, 소비재 섹터(+0.85%)가 상승을 이끌었고 기술 섹터(-0.35%)는 하락했습니다.종가 정보는 다음과 같습니다:S&P 500: 5,985 (+..",
+  "headline": "인플레이션 급등에 시장 긴장! 비트코인 9만 돌파 저지, 반도체 위기 지속",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fnrg3r%2FbtsKICfhqIq%2FAAAAAAAAAAAAAAAAAAAAACgiF5WywE4pzsT3RNmc9vfpDzWcbgLHzq_LzYNwyNlv%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FMdnLUS7RGl6gkVcPDj6jJaI2eE%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/122",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/122"
+}

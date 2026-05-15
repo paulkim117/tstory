@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 7134,
+  "canonical_url": "https://mystock-note.tistory.com/142",
+  "content_hash": "9ad55585e261836d3ac6df62b6842d232beebed2c70bec9d55d0f97e6e93e057",
+  "json_ld_count": 0,
+  "meta_description": "YieldMax™ 12월 월별 배당 소식 📢안녕하세요, YieldMax™ 투자자 여러분!이번 12월에도 YieldMax™는 투자자들을 위한 주요 ETF 배당률을 발표했습니다. 이번 달 눈길을 끄는 높은 배당률을 확인해 보세요!📈 이번 달 주목할 만한 배당률 TOP 5:PLTY: 62.10%DIPS: 60.23%NVDY: 60.21%YMAX: 67.21%YMAG: 72.96%📌 주요 ETF 배당 정보 ETF 티커  ETF 이름  분배율  30일 SEC 수익률  분배 주기  주당 배당금 YMAXUniverse Fund of Option Income ETFs67.21%67.08%주간(Weekly)$0.2377YMAGMagnificent 7 Fund of Option Income ETFs72.96%53.1..",
+  "modified_time": "2024-12-04T22:56:06+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/142\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/142\",\"headline\":\"🎉 \"YieldMax™ ETF 12월 배당률 발표! 이번 달도 높은 수익률 주목!\"\",\"description\":\"YieldMax™ 12월 월별 배당 소식 📢안녕하세요, YieldMax™ 투자자 여러분!이번 12월에도 YieldMax™는 투자자들을 위한 주요 ETF 배당률을 발표했습니다. 이번 달 눈길을 끄는 높은 배당률을 확인해 보세요!📈 이번 달 주목할 만한 배당률 TOP 5:PLTY: 62.10%DIPS: 60.23%NVDY: 60.21%YMAX: 67.21%YMAG: 72.96%📌 주요 ETF 배당 정보 ETF 티커  ETF 이름  분배율  30일 SEC 수익률  분배 주기  주당 배당금 YMAXUniverse Fund of Option Income ETFs67.21%67.08%주간(Weekly)$0.2377YMAGMagnificent 7 Fund of Option Income ETFs72.96%53.1..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbeawGl%2FbtsK6zpX2nL%2FAAAAAAAAAAAAAAAAAAAAAIWOTZeYqilOVr85EnlHU_iosHjGz376m9kWuOy3Q7Wp%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DziMBKIXnSth9rYhLgdSQzzt4TC8%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2024-12-04T22:50:07+09:00\",\"dateModified\":\"2024-12-04T22:56:06+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "YieldMax™ 12월 월별 배당 소식 📢안녕하세요, YieldMax™ 투자자 여러분!이번 12월에도 YieldMax™는 투자자들을 위한 주요 ETF 배당률을 발표했습니다. 이번 달 눈길을 끄는 높은 배당률을 확인해 보세요!📈 이번 달 주목할 만한 배당률 TOP 5:PLTY: 62.10%DIPS: 60.23%NVDY: 60.21%YMAX: 67.21%YMAG: 72.96%📌 주요 ETF 배당 정보 ETF 티커  ETF 이름  분배율  30일 SEC 수익률  분배 주기  주당 배당금 YMAXUniverse Fund of Option Income ETFs67.21%67.08%주간(Weekly)$0.2377YMAGMagnificent 7 Fund of Option Income ETFs72.96%53.1..",
+  "og_title": "🎉 \"YieldMax™ ETF 12월 배당률 발표! 이번 달도 높은 수익률 주목!\"",
+  "post_id": "142",
+  "published_time": "2024-12-04T22:50:07+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "🎉 \"YieldMax™ ETF 12월 배당률 발표! 이번 달도 높은 수익률 주목!\"",
+  "url": "https://mystock-note.tistory.com/142"
+}

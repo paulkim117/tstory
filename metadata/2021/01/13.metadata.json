@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2156,
+  "canonical_url": "https://mystock-note.tistory.com/13",
+  "content_hash": "3b9e0a4be6da4e4f8eb128d50398b0f22f13727f21163173c6dec031b9feef4d",
+  "json_ld_count": 1,
+  "meta_description": "새해를 시작하면서 바로 수익이 발생하여 기분이 좋다. 수익실현은 언제나 옳은 것 AAPL, SE, BA, BNGO, CGC, PYPL, TSM, VUZI, WPRT, SNDL, BBBY, ISR, TNXP 작년에 산거 익절이랑 1주 차에 매매한 게 이렇게나 많네 지금 되돌아 보면 엄청 오른 것들도 몇 개 보인다 BBBY는 어닝 기대감 보고 들어갔는데 시장 실망감이 컸는지 급락하고 겨우 탈출했었다. 최근에 BBBY를 찾아 봤는데 하늘로 올라가 버렸네... (믿음이 없으면 항상 날아가더라..) 추가적으로 계좌 1개를 만들어서 ETF 전용 계좌로 사용할 계획이다 note. ARKK $131 (300만 원)",
+  "modified_time": "2021-05-19T14:26:39+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "새해를 시작하면서 바로 수익이 발생하여 기분이 좋다. 수익실현은 언제나 옳은 것 AAPL, SE, BA, BNGO, CGC, PYPL, TSM, VUZI, WPRT, SNDL, BBBY, ISR, TNXP 작년에 산거 익절이랑 1주 차에 매매한 게 이렇게나 많네 지금 되돌아 보면 엄청 오른 것들도 몇 개 보인다 BBBY는 어닝 기대감 보고 들어갔는데 시장 실망감이 컸는지 급락하고 겨우 탈출했었다. 최근에 BBBY를 찾아 봤는데 하늘로 올라가 버렸네... (믿음이 없으면 항상 날아가더라..) 추가적으로 계좌 1개를 만들어서 ETF 전용 계좌로 사용할 계획이다 note. ARKK $131 (300만 원)",
+  "og_title": "1월 1주차",
+  "post_id": "13",
+  "published_time": "2021-01-17T22:20:44+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "1월 1주차",
+  "url": "https://mystock-note.tistory.com/13"
+}

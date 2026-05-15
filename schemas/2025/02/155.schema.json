@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2025-02-05T10:28:02+09:00",
+  "datePublished": "2025-02-05T10:28:02+09:00",
+  "description": "수익 창출을 목표로 하는 YieldMax가 이번 달 Target 12 ETF 배당금을 발표했습니다. 배당금은 아래와 같습니다.✅ BIGY: $0.5025✅ SOXY: $0.4883Target 12 ETF는 연 12% 수익을 목표로 하지만, 배당금 지급이 보장되지는 않습니다.배당금은 시기에 따라 변동될 수 있으며, 지급되지 않을 수도 있어요. 또한 투자자들은 기초 자산의 배당금이나 기타 분배금을 직접 받을 권리가 없습니다.📌 ETF 투자 시 주의할 점수익 제한 & 손실 가능성ETF 전략상 기초 자산의 가격이 상승해도 수익이 제한될 수 있어요.하지만 가격이 하락하면 손실을 그대로 감당해야 하죠.배당금 변동 가능성ETF의 운용 방식상 배당금 지급 여부나 금액은 크게 변할 수 있어요.ETF는 상대적으로 짧은 ..",
+  "headline": "YieldMax ETF, 최신 배당금 발표! – BIGY ($0.5025), SOXY ($0.4883)",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqvLCr%2FbtsL6IF5fas%2FAAAAAAAAAAAAAAAAAAAAAIdUnuvj_7qQ-Td7rT203Vn1c2u1S4UDTklpgc5bCL4g%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D2g%252BZ%252BKlHfvJ8gcoPH3P3IUg97FE%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/155",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/155"
+}

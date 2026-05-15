@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2025-02-06T23:49:00+09:00",
+  "datePublished": "2025-02-06T23:49:00+09:00",
+  "description": "📢 투자자 여러분, 새로운 수익 기회를 소개합니다!YieldMax가 0DTE(Zero Days to Expiry) 커버드 콜 전략 ETF를 출시했습니다.🚀 YieldMax S&P 500 0DTE Covered Call Strategy ETF (Nasdaq: SDTY)📌 SDTY 개요SDTY는 S&P 500 지수에 기반한 액티브 운용 ETF로, 0DTE 옵션 전략을 활용해 주간 수익을 창출하는 것을 목표로 합니다.✅ 0DTE 옵션 활용 – 매일 만료되는 옵션을 매도하여 수익 창출✅ S&P 500 지수 수익 노출 – 지수 상승 시 일부 상승분 참여 가능✅ 주간 배당 지급 목표 – 매주 배당을 목표로 하며, 첫 배당 발표는 2025년 2월 19일 예정📊 SDTY의 투자 전략은?SDTY는 합성 커버드 콜..",
+  "headline": "YieldMax 최초의 0DTE ETF 출시! – S&P 500 0DTE 커버드 콜 전략 ETF (SDTY)",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/157",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/157"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2454,
+  "canonical_url": "https://mystock-note.tistory.com/101",
+  "content_hash": "c7844f4c9a5ac69d4ff7763640877dd485e11518568e40e7334c534bdb802182",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TOPT ETF와 QTOP ETF는 미국 대형주 중에서도 상위 종목에 집중 투자하는 iShares ETF입니다. TOPT는 미국 시장의 상위 대형주 20개에 집중하는 성격이 강하고, QTOP은 나스닥 상위 비금융 대형주 30개에 집중하는 성격이 강합니다. 두 ETF 모두 일반적인 S&P500 ETF나 나스닥100 ETF보다 종목 수가 적기 때문에, 구성종목 집중도와 변동성 리스크를 먼저 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. TOPT와 QTOP의 구성종목, 보수, 분배금, 순자산, 거래량은 기준일에 따라 달라질 수 있습니다. 실제 투자 전에는 iShares 공식 상품 페이지, 투자설명서, 증권사 상품 화면에서 최신 정보를 확인해야 합니다.TOPT ETF란 무엇인가요?..",
+  "modified_time": "2026-05-15T10:31:59+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TOPT ETF와 QTOP ETF는 미국 대형주 중에서도 상위 종목에 집중 투자하는 iShares ETF입니다. TOPT는 미국 시장의 상위 대형주 20개에 집중하는 성격이 강하고, QTOP은 나스닥 상위 비금융 대형주 30개에 집중하는 성격이 강합니다. 두 ETF 모두 일반적인 S&P500 ETF나 나스닥100 ETF보다 종목 수가 적기 때문에, 구성종목 집중도와 변동성 리스크를 먼저 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. TOPT와 QTOP의 구성종목, 보수, 분배금, 순자산, 거래량은 기준일에 따라 달라질 수 있습니다. 실제 투자 전에는 iShares 공식 상품 페이지, 투자설명서, 증권사 상품 화면에서 최신 정보를 확인해야 합니다.TOPT ETF란 무엇인가요?..",
+  "og_title": "TOPT ETF란? QTOP과 차이, 구성종목, 배당 구조 비교",
+  "post_id": "101",
+  "published_time": "2024-10-30T20:36:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TOPT ETF란? QTOP과 차이, 구성종목, 배당 구조 비교",
+  "url": "https://mystock-note.tistory.com/101"
+}

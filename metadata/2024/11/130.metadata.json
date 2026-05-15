@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 5039,
+  "canonical_url": "https://mystock-note.tistory.com/130",
+  "content_hash": "26d94142402fc92e22913653760906fbdda6935c026b5fc43199105fa3deec47",
+  "json_ld_count": 1,
+  "meta_description": "미국 주식시장은 장 초반에는 안정세를 보였으나, 후반부에는 상승세를 이어가지 못했습니다. 시장 반전을 위한 새로운 촉매가 필요한 상황에서, 모든 관심은 수요일에 발표될 엔비디아의 실적에 집중되고 있습니다. 그 전에 투자자들은 Walmart, Lowe’s, 인기 있는 몇몇 중국 주식들의 실적 발표로 시장을 주시해야 할 것입니다. 👀금일 글에서는 SMCI의 반등, Boston Scientific의 상승 돌파, 그리고 MicroStrategy와 관련된 소식을 전달드리려고 합니. 📰S&P 500 히트맵S&P 500의 11개 섹터 중 10개 섹터가 상승 마감했습니다. 에너지 섹터(+1.33%)가 가장 크게 상승했고, 산업 섹터(-0.14%)는 유일하게 하락했습니다.출처: Finviz.com종가 정보S&P 50..",
+  "modified_time": "2024-11-19T10:13:40+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 주식시장은 장 초반에는 안정세를 보였으나, 후반부에는 상승세를 이어가지 못했습니다. 시장 반전을 위한 새로운 촉매가 필요한 상황에서, 모든 관심은 수요일에 발표될 엔비디아의 실적에 집중되고 있습니다. 그 전에 투자자들은 Walmart, Lowe’s, 인기 있는 몇몇 중국 주식들의 실적 발표로 시장을 주시해야 할 것입니다. 👀금일 글에서는 SMCI의 반등, Boston Scientific의 상승 돌파, 그리고 MicroStrategy와 관련된 소식을 전달드리려고 합니. 📰S&P 500 히트맵S&P 500의 11개 섹터 중 10개 섹터가 상승 마감했습니다. 에너지 섹터(+1.33%)가 가장 크게 상승했고, 산업 섹터(-0.14%)는 유일하게 하락했습니다.출처: Finviz.com종가 정보S&P 50..",
+  "og_title": "주식 시장, 동력 부족으로 정체!",
+  "post_id": "130",
+  "published_time": "2024-11-19T10:13:40+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "주식 시장, 동력 부족으로 정체!",
+  "url": "https://mystock-note.tistory.com/130"
+}

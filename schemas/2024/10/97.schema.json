@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-10-31T11:06:41+09:00",
+  "datePublished": "2024-10-30T11:30:43+09:00",
+  "description": "20대 후반은 많은 이들이 사회에서 자리잡고 경제적으로 안정적인 삶을 추구하는 중요한 시기입니다. 이 시기에 올바른 재테크 전략을 세운다면, 미래의 재정적 목표를 달성하는 데 큰 도움이 될 것입니다. 아래에서 20대 후반 남성을 위한 유용한 재테크 팁을 소개 드리려고 합니다.1. 재정 목표 설정하기재테크의 첫걸음은 명확한 목표를 설정하는 것입니다. 단기, 중기, 장기 목표를 구분하고, 각 목표에 맞는 자산을 축적하기 위한 계획을 세우세요. 예를 들어, 1년 내 여행 비용, 5년 내 자산 증대 목표 등을 설정할 수 있습니다.2. 예산 관리의 중요성수입과 지출을 정확하게 파악하는 것은 매우 중요합니다. 월별 예산을 작성하여 고정 지출, 변동 지출을 기록하고 불필요한 지출을 줄여 나가세요. 이를 통해 더 많은..",
+  "headline": "20대 후반 남성을 위한 재테크 팁",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/97",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/97"
+}

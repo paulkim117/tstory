@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-12T11:57:40+09:00",
+  "datePublished": "2021-08-12T11:57:40+09:00",
+  "description": "1. 빅데이터 플랫폼의 등장배경 빠른 의사결정 속도보다 장기적이고 전략적인 접근이 필요하다. 초저가의 대규모 프로세싱과 클라우드 컴퓨팅 기반의 분석 환경이 등장하였다. 다양한 형태의 데이터 수집과 복잡한 로직을 이용한 대용량 처리가 필요하다. 분산 처리가 불가피하여 이를 제어할 수 있는 고도의 기술이 필요하다. SNS 데이터나 로그 파일, 스트림 데이터 등 비정형 데이터의 비중과 실시간 처리에 대한 요구가 높아지고 있다. 약한 관계형 스키마나 반정형 데이터와 같은 정형적이지 않은 데이터가 증가하고 있다. 기존의 통계적 분석방법과 같이 정해진 절차와 과정을 따르지 않아도 분석 목정에 맞게 유연한 분석이 가능하게 되었다. 인공지능 기술의 발전으로 다양한 방법론을 통해 텍스트, 음성, 이미지, 동영상 등 다양..",
+  "headline": "[빅데이터분석기사] 빅데이터 기술 및 제도, 빅데이터 플랫폼",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FuOY1L%2Fbtrb0p8jSLw%2FAAAAAAAAAAAAAAAAAAAAABgHDWAB0x-WyECbFcscorfk89_VSfTjb9INlW0ppgsG%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D1iM1QC9VkIfdUiJDr3eUEkVwuSE%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/79",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/79"
+}

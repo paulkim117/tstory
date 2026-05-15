@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-04-13T15:40:12+09:00",
+  "datePublished": "2021-03-23T21:16:09+09:00",
+  "description": "1. 부가가치 - 각 유통단계 마다 새로이 창출된 가치 부가가치세 - 부가가치를 과세대상으로 조세 2. 과세 방법 특징 전단계 세액공제법 vs 전단계 거래공제법 (매출세액 - 매입세액 => 납부세액) (매출액 - 매입액 => 가치 X 10%) 간접세 => 담세자와 납세의무자가 다르다 과세원칙 - 유통단계별 과세원칙 - 소비지국과세원칙(수입에 대해 과세, 수출 과세 x) - 역진성 완화원칙 일반소비세 - 모든소비과세 vs 개별소비세 물세 - 인적사정 반영 x vs 인세 보통세 - 일반 국가재원 국세 - 과세권자가 국가 단일비례세율 - 10% vs 초과누진세율 3. 과세대상 - 재화의 공급 => 재산적가치, 유체물 + 무체물 - 용역의 공급 => 재산적가치, (건설업의 경우 - 용역) 서비스 - 재화의 수입..",
+  "headline": "부가가치세 기초",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FNosoY%2Fbtq0NvfIy3K%2FAAAAAAAAAAAAAAAAAAAAAPh4AyyTFMuxLVUFYq78FZDuhI-HlHnS5YViuA7E39xr%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DRvjt%252BCBDP%252FjRc%252BKI0I9xy89NUnc%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/58",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/58"
+}

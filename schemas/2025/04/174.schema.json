@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T10:32:52+09:00",
+    "datePublished": "2025-04-04T12:54:30+09:00",
+    "description": "핵심 요약: CHPY ETF는 YieldMax에서 출시한 반도체 포트폴리오 기반 옵션 인컴 ETF로, 반도체 관련 종목과 옵션 전략을 활용해 분배금을 추구하는 상품입니다. 높은 배당 또는 주간 분배금이 눈에 띌 수 있지만, 커버드콜 전략 ETF는 기초자산 상승 참여가 제한될 수 있고 NAV 하락 위험도 함께 존재합니다. 따라서 CHPY ETF를 볼 때는 배당금 규모뿐 아니라 분배 재원, 기준가격, 총수익률, NAV 변화, 옵션 전략 구조를 함께 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. CHPY ETF의 구성종목, 분배금, 분배 주기, 보수, 순자산, 옵션 전략은 운용사 공시와 시장 상황에 따라 달라질 수 있습니다. 실제 투자 전에는 YieldMax 공식 상품 페이지, 투자설명서, ..",
+    "headline": "CHPY ETF란? YieldMax 커버드콜 구조와 배당 투자 전 주의점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbHKFJL%2FbtsM9blS7BU%2FAAAAAAAAAAAAAAAAAAAAAAWtHK7xKhDCgEckwSHQUAo1HoM4iRlUGMK1hzboO5KQ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Db1pG7OCOZmwb1kgpk4cbh012MmU%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/174",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/174"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-14T00:00:00+09:00",
+    "description": "CHPY ETF의 구조와 배당 특성을 정리합니다. YieldMax의 반도체 포트폴리오 옵션 인컴 ETF가 어떤 방식으로 분배금을 만들고, 커버드콜 전략과 NAV 하락 위험을 어떻게 확인해야 하는지 설명합니다.",
+    "headline": "CHPY ETF란? YieldMax 커버드콜 구조와 배당 투자 전 주의점",
+    "url": "https://mystock-note.tistory.com/174"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-22T12:32:41+09:00",
+  "datePublished": "2024-11-22T12:31:07+09:00",
+  "description": "Target 12™ Big 50 Option Income ETF (BIGY) 소개BIGY 개요BIGY는 연간 12% 목표 수익률과 자본 증가를 추구하는 적극적으로 운용되는 ETF입니다. 이는 Big 50 기업(미국의 상위 50대 기업)의 포트폴리오에 직접 투자하고, 일부 또는 전부에 옵션 계약을 매도하여 수익을 창출합니다.Big 50 기업이란?Big 50 기업은 다음 기준을 충족하는 미국 상위 50대 기업을 의미합니다. • 시장 가치 기준 상위 50위 내 • 미국 상장 주식 • 충분한 유동성을 가진 옵션 계약 보유이 기준은 BIGY의 서브 어드바이저인 ZEGA Financial, LLC가 판단합니다.BIGY 주식 포트폴리오BIGY는 Big 50 기업에 직접 투자하여 자본 증가를 추구합니다. • ZEGA는..",
+  "headline": "YieldMax™의 첫 Target 12™ ETF 출시",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FutpXo%2FbtsKR77VoQg%2FAAAAAAAAAAAAAAAAAAAAAAiq_khHpqZZ28BQ5f4lCyNe3z3fI6qlYTTXSmN5Uw8V%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dg91X5h3i1fJNtpNZwndvFLgAc8s%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/133",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/133"
+}

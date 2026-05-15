@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 13331,
+  "canonical_url": "https://mystock-note.tistory.com/95",
+  "content_hash": "8b3fca7c4685c8be5e0da7ffd99263cf7a8a7be619efa4e8c5c9cc5a9a9c32c3",
+  "json_ld_count": 1,
+  "meta_description": "미국 월배당 ETF는 매달 분배금을 받을 수 있다는 점 때문에 은퇴 생활비, 현금흐름, 배당 투자에 관심 있는 투자자들이 자주 찾는 상품입니다. 특히 YieldMax ETF처럼 옵션 전략을 활용하는 월배당 ETF는 일반 배당주보다 높은 분배율을 보여주는 경우가 있어 더 많은 관심을 받습니다. 다만 월배당 ETF의 높은 분배금이 안정적인 수익을 의미하는 것은 아닙니다. 커버드콜 ETF나 옵션 인컴 ETF는 분배금이 높아 보일 수 있지만, 기초자산 가격 하락, NAV 감소, 분배금 변동, 원금 손실 가능성을 함께 확인해야 합니다. 이번 글에서는 미국 월배당 ETF가 은퇴 생활비를 만드는 데 실제로 도움이 될 수 있는지, YieldMax ETF는 어떤 구조인지, 투자 전에 어떤 위험을 봐야 하는지 정리하겠습니..",
+  "modified_time": "2026-05-07T10:58:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 월배당 ETF는 매달 분배금을 받을 수 있다는 점 때문에 은퇴 생활비, 현금흐름, 배당 투자에 관심 있는 투자자들이 자주 찾는 상품입니다. 특히 YieldMax ETF처럼 옵션 전략을 활용하는 월배당 ETF는 일반 배당주보다 높은 분배율을 보여주는 경우가 있어 더 많은 관심을 받습니다. 다만 월배당 ETF의 높은 분배금이 안정적인 수익을 의미하는 것은 아닙니다. 커버드콜 ETF나 옵션 인컴 ETF는 분배금이 높아 보일 수 있지만, 기초자산 가격 하락, NAV 감소, 분배금 변동, 원금 손실 가능성을 함께 확인해야 합니다. 이번 글에서는 미국 월배당 ETF가 은퇴 생활비를 만드는 데 실제로 도움이 될 수 있는지, YieldMax ETF는 어떤 구조인지, 투자 전에 어떤 위험을 봐야 하는지 정리하겠습니..",
+  "og_title": "미국 월배당 ETF로 은퇴 생활비를 만들 수 있을까? YieldMax ETF 구조와 주의할 점",
+  "post_id": "95",
+  "published_time": "2024-05-22T14:22:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 월배당 ETF로 은퇴 생활비를 만들 수 있을까? YieldMax ETF 구조와 주의할 점",
+  "url": "https://mystock-note.tistory.com/95"
+}

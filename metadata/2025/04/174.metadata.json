@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 1788,
+  "canonical_url": "https://mystock-note.tistory.com/174",
+  "content_hash": "c6026dd194d73af0756847d7877b6a542fc706d1e2567268434028fa725b851a",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: CHPY ETF는 YieldMax에서 출시한 반도체 포트폴리오 기반 옵션 인컴 ETF로, 반도체 관련 종목과 옵션 전략을 활용해 분배금을 추구하는 상품입니다. 높은 배당 또는 주간 분배금이 눈에 띌 수 있지만, 커버드콜 전략 ETF는 기초자산 상승 참여가 제한될 수 있고 NAV 하락 위험도 함께 존재합니다. 따라서 CHPY ETF를 볼 때는 배당금 규모뿐 아니라 분배 재원, 기준가격, 총수익률, NAV 변화, 옵션 전략 구조를 함께 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. CHPY ETF의 구성종목, 분배금, 분배 주기, 보수, 순자산, 옵션 전략은 운용사 공시와 시장 상황에 따라 달라질 수 있습니다. 실제 투자 전에는 YieldMax 공식 상품 페이지, 투자설명서, ..",
+  "modified_time": "2026-05-15T10:32:52+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: CHPY ETF는 YieldMax에서 출시한 반도체 포트폴리오 기반 옵션 인컴 ETF로, 반도체 관련 종목과 옵션 전략을 활용해 분배금을 추구하는 상품입니다. 높은 배당 또는 주간 분배금이 눈에 띌 수 있지만, 커버드콜 전략 ETF는 기초자산 상승 참여가 제한될 수 있고 NAV 하락 위험도 함께 존재합니다. 따라서 CHPY ETF를 볼 때는 배당금 규모뿐 아니라 분배 재원, 기준가격, 총수익률, NAV 변화, 옵션 전략 구조를 함께 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. CHPY ETF의 구성종목, 분배금, 분배 주기, 보수, 순자산, 옵션 전략은 운용사 공시와 시장 상황에 따라 달라질 수 있습니다. 실제 투자 전에는 YieldMax 공식 상품 페이지, 투자설명서, ..",
+  "og_title": "CHPY ETF란? YieldMax 커버드콜 구조와 배당 투자 전 주의점",
+  "post_id": "174",
+  "published_time": "2025-04-04T12:54:30+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CHPY ETF란? YieldMax 커버드콜 구조와 배당 투자 전 주의점",
+  "url": "https://mystock-note.tistory.com/174"
+}

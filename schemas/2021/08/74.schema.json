@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-12T00:40:26+09:00",
+  "datePublished": "2021-08-11T22:43:33+09:00",
+  "description": "1. 데이터 정의 데이터는 추론과 추정의 근거를 이루는 사실이다. 현실 세계에서 관찰하거나 측정하여 수집한 사실다. 2. 데이터 특징 단순한 객체로도 가치가 있으며 다른 객체와의 상호관계 속에서 더 큰 가치를 갖는다. 객관적 사실이라는 존재적 특성을 갖는다. 추론, 추정, 예측, 전망을 위한 근거로써 당위적 특성을 갖는다. 3. 데이터 구분 정량적 데이터: 주로 숫자로 이루어진 데이터이다. 정성적 데이터: 문자와 같은 텍스트로 구성되며 함축적 의미를 지니고 있는 데이터이다. 정량적 데이터 정성적 데이터 유형 정형 데이터, 반정형 데이터 비정형 데이터 특징 여러 요소의 결합으로 의미 부여 객체 하나가 함축된 의미 내포 관점 주로 객관적 내용 주로 주관적 내용 구성 수치나 기호 등 문자나 언어 등 형태 데이..",
+  "headline": "[빅데이터분석기사] 빅데이터 개요 및 활용, 데이터",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbfCEZs%2FbtrbW2yMRn2%2FAAAAAAAAAAAAAAAAAAAAANlM2bX3jydlRtyGK6QO0lM59BFZ4kX4LF0_wPPq6AQ8%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DxugcVPT%252BBs67POQBE%252F6GTmpQq8g%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/74",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/74"
+}

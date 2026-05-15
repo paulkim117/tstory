@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4451,
+  "canonical_url": "https://mystock-note.tistory.com/153",
+  "content_hash": "d806b219f2eb160e16f31b179db8885b09a7f186b9f07258ca8c702737e3416b",
+  "json_ld_count": 1,
+  "meta_description": "📢 YieldMax ETF, 새로운 배당금 발표!2025년 1월 29일 – YieldMax가 PLTY, MARO, NVDY 등 주간 배당 ETF 및 그룹 B ETF의 배당금을 발표했습니다.투자자 여러분께 도움이 될 정보를 쉽고 친근하게 정리해 드릴게요! 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금PLTY$2.9826MARO$2.1002NVDY$0.8294YMAX$0.1469YMAG$0.1898💡 참고: 배당금은 2025년 1월 28일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 매번 달라질 수 있어요.배당금은 시장 상황과 ETF 전략에 따라 매달 변동될 수 있으며, 어떤 달에는 지급되지 않을 수도 있습니다.2️⃣ 기초 자산의 배당금과는 다릅니..",
+  "modified_time": "2025-01-30T02:54:21+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "📢 YieldMax ETF, 새로운 배당금 발표!2025년 1월 29일 – YieldMax가 PLTY, MARO, NVDY 등 주간 배당 ETF 및 그룹 B ETF의 배당금을 발표했습니다.투자자 여러분께 도움이 될 정보를 쉽고 친근하게 정리해 드릴게요! 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금PLTY$2.9826MARO$2.1002NVDY$0.8294YMAX$0.1469YMAG$0.1898💡 참고: 배당금은 2025년 1월 28일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 매번 달라질 수 있어요.배당금은 시장 상황과 ETF 전략에 따라 매달 변동될 수 있으며, 어떤 달에는 지급되지 않을 수도 있습니다.2️⃣ 기초 자산의 배당금과는 다릅니..",
+  "og_title": "💰 YieldMax 1월 배당 발표 – PLTY($2.9826), MARO($2.1002), NVDY($0.8294) 포함 주요 ETF!",
+  "post_id": "153",
+  "published_time": "2025-01-30T02:54:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "💰 YieldMax 1월 배당 발표 – PLTY($2.9826), MARO($2.1002), NVDY($0.8294) 포함 주요 ETF!",
+  "url": "https://mystock-note.tistory.com/153"
+}

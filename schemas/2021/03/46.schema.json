@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:47:21+09:00",
+  "datePublished": "2021-03-15T05:27:05+09:00",
+  "description": "상품 판매목적으로 구입 제품 판매목적으로 제조 원재료 제조목적으로 구매 반제품 원재료 투입 제품판매 재공품 현재 가공중에 있는 제품 매입환출 하자, 반품 매입에누리 하자, 값을 깎는 것 (반품 X) 매입할인 외상대 조기 결제시 값을 깎는 것 (2/10, n/30) 1. (차) 상품 50,000 / (대) 외상매입금 50,000 2. (차) 외상매입금 600 / (대) 매입환출및에누리 600 3. (차) 외상매출금 100,000 / (대) 상품매출 100,000 4. (차) 매출할인및에누리 300 / (대) 외상매출금 300 5. (차) 상품매출원가 60,000 / (대) 상품 60,000 순매입액 = 총매입액(+운임) - 매입환출및에누리 - 매입할인 상품매출원가 = 기초상품 + 순매입액 (=판매가능상품)..",
+  "headline": "재고자산",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzGdwA%2FbtqZ3eSEUIm%2FAAAAAAAAAAAAAAAAAAAAAElyZASCbDlR1g8Y603UPJb6EdELbcsABsz4A3SYHiaQ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DsccxN1sO0rcmh%252FANQUVvhFZz440%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/46",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/46"
+}

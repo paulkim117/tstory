@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T10:32:30+09:00",
+    "datePublished": "2025-02-20T01:45:51+09:00",
+    "description": "핵심 요약: VBIL ETF는 Vanguard에서 운용하는 초단기 미국 국채 ETF로, 0~3개월 만기 미국 Treasury Bill에 투자하는 상품입니다. 검색자가 자주 비교하는 BIL ETF는 1~3개월 미국 T-Bill에 집중하는 대표 초단기 국채 ETF이고, BND는 미국 전체 채권시장에 넓게 투자하는 종합채권 ETF입니다. 따라서 VBIL을 볼 때는 단순 수익률보다 BIL·BND와의 차이, 듀레이션, 배당 지급 구조, 금리 변화에 따른 가격 변동성을 함께 확인해야 합니다.자료 기준: 2026년 5월 14일 기준입니다. VBIL, BIL, SHV, BND의 보수, 배당수익률, 순자산, 거래량, 보유 채권, 듀레이션은 기준일에 따라 달라질 수 있습니다. 실제 투자 전에는 Vanguard, State..",
+    "headline": "VBIL ETF란? BIL·BND와 차이, 배당, 단기채 투자 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/161",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/161"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-14T00:00:00+09:00",
+    "description": "VBIL ETF의 구조와 특징을 정리하고 BIL ETF, SHV, BND와의 차이를 비교합니다. 초단기 미국 국채 ETF의 배당, 듀레이션, 금리 민감도, 현금성 자산 대체 가능성을 함께 설명합니다.",
+    "headline": "VBIL ETF란? BIL·BND와 차이, 배당, 단기채 투자 기준",
+    "url": "https://mystock-note.tistory.com/161"
+  }
+]

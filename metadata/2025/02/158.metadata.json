@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4076,
+  "canonical_url": "https://mystock-note.tistory.com/158",
+  "content_hash": "9ba9f128acba85261f77130560708e89f94c6eaaa2e5346e299da7deb7508ddf",
+  "json_ld_count": 0,
+  "meta_description": "📢 투자자 여러분, 주목하세요!수익 창출을 목표로 하는 YieldMax가 이번 주 Weekly Payers 및 Group D ETF 배당금을 발표했습니다.✅ SMCY: 101.33%✅ MSTY: 100.07%✅ AIYY: 64.15%✅ YMAX: 47.62%✅ SQY: 45.38%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 SDTY ETF는 2025년 2월 5일 출시된 신규 펀드입니다..",
+  "modified_time": "2025-02-13T10:15:43+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/158\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/158\",\"headline\":\"🔥 YieldMax ETF, 새로운 배당금 발표! – SMCY 101.33%, MSTY 100.07%, AIYY 64.15% 등 🔥\",\"description\":\"📢 투자자 여러분, 주목하세요!수익 창출을 목표로 하는 YieldMax가 이번 주 Weekly Payers 및 Group D ETF 배당금을 발표했습니다.✅ SMCY: 101.33%✅ MSTY: 100.07%✅ AIYY: 64.15%✅ YMAX: 47.62%✅ SQY: 45.38%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 SDTY ETF는 2025년 2월 5일 출시된 신규 펀드입니다..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fs5gtE%2FbtsMgrjLeX6%2FAAAAAAAAAAAAAAAAAAAAAKx1Ps_-T_-qp5KDsKeW0elDhBY-8jTw_g0HBMCcqNcX%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D5UNrHeHkAHQEL%252B9briMooKLt%252F28%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2025-02-13T10:15:34+09:00\",\"dateModified\":\"2025-02-13T10:15:43+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "📢 투자자 여러분, 주목하세요!수익 창출을 목표로 하는 YieldMax가 이번 주 Weekly Payers 및 Group D ETF 배당금을 발표했습니다.✅ SMCY: 101.33%✅ MSTY: 100.07%✅ AIYY: 64.15%✅ YMAX: 47.62%✅ SQY: 45.38%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 SDTY ETF는 2025년 2월 5일 출시된 신규 펀드입니다..",
+  "og_title": "🔥 YieldMax ETF, 새로운 배당금 발표! – SMCY 101.33%, MSTY 100.07%, AIYY 64.15% 등 🔥",
+  "post_id": "158",
+  "published_time": "2025-02-13T10:15:34+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "🔥 YieldMax ETF, 새로운 배당금 발표! – SMCY 101.33%, MSTY 100.07%, AIYY 64.15% 등 🔥",
+  "url": "https://mystock-note.tistory.com/158"
+}

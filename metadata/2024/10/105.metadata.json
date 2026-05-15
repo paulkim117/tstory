@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4047,
+  "canonical_url": "https://mystock-note.tistory.com/105",
+  "content_hash": "6e3f50f0ff77f4e5ec821077c301ed8fa2b4bf331a848d8cbda2004ae93416a2",
+  "json_ld_count": 1,
+  "meta_description": "오늘 시장은 메이저 반도체 주식에 충격을 가한 Super Micro와 AMD의 부진한 실적 발표로 흔들렸습니다. 예상보다 높은 신규 일자리 보고서도 투자 심리를 악화시키며 시장 전반에 영향을 미쳤습니다. ‘Mag 7’ 대기업 실적 발표가 다소 실망스러운 가운데, 내일 발표될 애플과 아마존 실적에 대한 관심이 쏠리고 있습니다.주요 실적 요약: Super Micro, Meta, Microsoft 등1. Super Micro ($SMCI)Super Micro는 감사인 Ernst & Young(EY)이 이탈하며 주가가 33% 급락했습니다. EY는 회사의 내부 통제 문제와 회계 관행에 대한 중대한 우려를 표명하며 감사에서 손을 뗀 것으로 밝혀졌습니다. 이로 인해 Super Micro는 법률 자문 및 회계 전문가를..",
+  "modified_time": "2024-10-31T11:05:44+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "오늘 시장은 메이저 반도체 주식에 충격을 가한 Super Micro와 AMD의 부진한 실적 발표로 흔들렸습니다. 예상보다 높은 신규 일자리 보고서도 투자 심리를 악화시키며 시장 전반에 영향을 미쳤습니다. ‘Mag 7’ 대기업 실적 발표가 다소 실망스러운 가운데, 내일 발표될 애플과 아마존 실적에 대한 관심이 쏠리고 있습니다.주요 실적 요약: Super Micro, Meta, Microsoft 등1. Super Micro ($SMCI)Super Micro는 감사인 Ernst & Young(EY)이 이탈하며 주가가 33% 급락했습니다. EY는 회사의 내부 통제 문제와 회계 관행에 대한 중대한 우려를 표명하며 감사에서 손을 뗀 것으로 밝혀졌습니다. 이로 인해 Super Micro는 법률 자문 및 회계 전문가를..",
+  "og_title": "반도체 업계 흔든 Super Micro 뉴스와 대기업 실적 여파",
+  "post_id": "105",
+  "published_time": "2024-10-31T10:54:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "반도체 업계 흔든 Super Micro 뉴스와 대기업 실적 여파",
+  "url": "https://mystock-note.tistory.com/105"
+}

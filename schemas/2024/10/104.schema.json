@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-10-31T11:06:03+09:00",
+  "datePublished": "2024-10-30T21:48:29+09:00",
+  "description": "Alphabet(구글)과 Eli Lilly가 모두 예상보다 좋은 3분기 실적을 발표했지만, 주가는 상반된 반응을 보였습니다. Alphabet은 AI와 클라우드 성장 기대에 주가가 상승한 반면, Eli Lilly는 높은 밸류에이션과 성장성 우려로 하락했습니다. AI와 헬스케어 업계의 리더로서 두 기업의 상반된 성적표를 통해, 미래 기술과 제약 산업에서의 성장 가능성 및 투자자들의 기대 심리를 탐구해보겠습니다.Alphabet(구글) - 주가 상승 요인실적 요약Alphabet은 3분기 매출 867억 달러와 주당순이익(EPS) 2.14달러로 시장 예상을 상회했습니다. 검색 광고 매출 증가와 함께 YouTube 및 클라우드 부문의 성장세가 견고한 실적을 뒷받침하며 시장 기대를 웃돌았습니다​상승 요인AI 및 클라우..",
+  "headline": "Google은 날아오르고, Eli Lilly는 추락하다: 3분기 실적이 가져온 극과 극 주가 반응의 이유는?",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FeVaDqq%2FbtsKp6uKx8U%2FAAAAAAAAAAAAAAAAAAAAAEL6KPsPNmTPyd2zn33TsLJV2aPLeo43aGL5a8Dt9fwO%2Fimg.webp%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DP88zxiu4YmTUBBG3Vrvqwz32U9I%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/104",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/104"
+}

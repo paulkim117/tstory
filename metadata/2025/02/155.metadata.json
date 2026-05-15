@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2994,
+  "canonical_url": "https://mystock-note.tistory.com/155",
+  "content_hash": "17453793b01a6bc24f64113b1d1aace962d53fadbbcee37b8f88c11499e20ef7",
+  "json_ld_count": 1,
+  "meta_description": "수익 창출을 목표로 하는 YieldMax가 이번 달 Target 12 ETF 배당금을 발표했습니다. 배당금은 아래와 같습니다.✅ BIGY: $0.5025✅ SOXY: $0.4883Target 12 ETF는 연 12% 수익을 목표로 하지만, 배당금 지급이 보장되지는 않습니다.배당금은 시기에 따라 변동될 수 있으며, 지급되지 않을 수도 있어요. 또한 투자자들은 기초 자산의 배당금이나 기타 분배금을 직접 받을 권리가 없습니다.📌 ETF 투자 시 주의할 점수익 제한 & 손실 가능성ETF 전략상 기초 자산의 가격이 상승해도 수익이 제한될 수 있어요.하지만 가격이 하락하면 손실을 그대로 감당해야 하죠.배당금 변동 가능성ETF의 운용 방식상 배당금 지급 여부나 금액은 크게 변할 수 있어요.ETF는 상대적으로 짧은 ..",
+  "modified_time": "2025-02-05T10:28:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "수익 창출을 목표로 하는 YieldMax가 이번 달 Target 12 ETF 배당금을 발표했습니다. 배당금은 아래와 같습니다.✅ BIGY: $0.5025✅ SOXY: $0.4883Target 12 ETF는 연 12% 수익을 목표로 하지만, 배당금 지급이 보장되지는 않습니다.배당금은 시기에 따라 변동될 수 있으며, 지급되지 않을 수도 있어요. 또한 투자자들은 기초 자산의 배당금이나 기타 분배금을 직접 받을 권리가 없습니다.📌 ETF 투자 시 주의할 점수익 제한 & 손실 가능성ETF 전략상 기초 자산의 가격이 상승해도 수익이 제한될 수 있어요.하지만 가격이 하락하면 손실을 그대로 감당해야 하죠.배당금 변동 가능성ETF의 운용 방식상 배당금 지급 여부나 금액은 크게 변할 수 있어요.ETF는 상대적으로 짧은 ..",
+  "og_title": "YieldMax ETF, 최신 배당금 발표! – BIGY ($0.5025), SOXY ($0.4883)",
+  "post_id": "155",
+  "published_time": "2025-02-05T10:28:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "YieldMax ETF, 최신 배당금 발표! – BIGY ($0.5025), SOXY ($0.4883)",
+  "url": "https://mystock-note.tistory.com/155"
+}

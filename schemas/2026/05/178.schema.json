@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T10:33:38+09:00",
+    "datePublished": "2026-05-11T14:07:40+09:00",
+    "description": "핵심 요약: 연금저축펀드에서 ETF를 고를 때는 KODEX, TIGER, ACE 중 어느 브랜드가 더 좋은지를 먼저 정하면 안 됩니다. 같은 브랜드 안에서도 기초지수, 총보수, 거래량, 순자산, 분배 정책이 모두 다를 수 있기 때문입니다. 연금저축 ETF는 브랜드보다 투자 목적, 기초지수, 비용, 유동성, 장기 보유 적합성을 먼저 확인해야 합니다.자료 기준: 2026년 5월 11일 기준입니다. 연금계좌 세액공제 한도와 공제율은 국세청 안내 기준을 참고했으며, ETF 상품 조건은 운용사 공식 상품 페이지에서 기준일별 재확인이 필요합니다.연금저축펀드에서 ETF 브랜드가 먼저인가요?연금저축펀드에서 ETF 브랜드는 출발점일 수 있지만 최종 선택 기준은 아닙니다. KODEX는 삼성자산운용, TIGER는 미래에셋자..",
+    "headline": "연금저축펀드에서 ETF 고를 때 KODEX, TIGER, ACE 중 무엇을 봐야 할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/178",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/178"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-11",
+    "datePublished": "2026-05-11T14:07:00+09:00",
+    "description": "연금저축펀드에서 ETF를 고를 때 KODEX, TIGER, ACE 브랜드보다 먼저 확인해야 할 기초지수, 총보수, 거래량, 순자산, 분배 정책을 정리합니다.",
+    "headline": "연금저축펀드에서 ETF 고를 때 KODEX, TIGER, ACE 중 무엇을 봐야 할까?",
+    "url": "https://mystock-note.tistory.com/178"
+  }
+]

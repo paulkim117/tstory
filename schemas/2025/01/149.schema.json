@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2025-01-08T10:22:45+09:00",
+  "datePublished": "2025-01-08T10:21:58+09:00",
+  "description": "📢 YieldMax™ ETFs, 2025년 1월 배당 소식2025년 1월 7일  YieldMax™가 BIGY, SOXY, CONY, FIAT, NFLY 등 여러 ETF의 배당금 지급 소식을 발표했습니다. 아래 표에서 상세 내용을 확인하세요.주요 배당 ETF 및 금액BIGY: $0.5130SOXY: $0.5256CONY: $0.8339FIAT: $0.6530NFLY: $0.5830YMAX: $0.1395YMAG: $0.1578💡 ETF마다 배당금이 매월 다를 수 있으며, 지급이 보장되지 않습니다.💡 중요 안내 사항배당 변동성: YieldMax™ ETF의 배당금은 매월 크게 달라질 수 있습니다. 지급되지 않을 가능성도 있습니다.참고: 투자자는 ETF의 기반 자산(주식, 채권 등)에 대해 배당금을 받을 ..",
+  "headline": "💰 YieldMax™: 1월 ETF 배당 발표! – BIGY($0.5130), SOXY($0.5256), CONY($0.8339) 외 다양한 ETF 포함",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FK7tRb%2FbtsLFxFwS6P%2FAAAAAAAAAAAAAAAAAAAAANbbTyUHyMtXXjSR9gPdh3N71TSOI6aASG43pRX_FSNW%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DqcmgxGxz5ayMK43LITubL%252B9Jdfs%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/149",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/149"
+}

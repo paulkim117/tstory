@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 5419,
+  "canonical_url": "https://mystock-note.tistory.com/14",
+  "content_hash": "eb07e6b39111752c242805d4fde31746654d3aeef7232a9fc994ca80b34d0598",
+  "json_ld_count": 1,
+  "meta_description": "아르바이트비가 들어오면서 55만 원가량 1,097원에 환전하였다. 작년에 환율의 무서움을 알고난 이후 돈이 들어오면 면저 환율 추세를 보고 환전한다. 다 맞추면 좋겠지만(대부분 틀린다) 일단은 1,090원대 지지할 것 같고 살게 있어서 바로 환전 VVPR, ZOM, SVC, TSLA, U, AJAX, BNGO, CCIV, IPOF, UAVS 이번 주에는 이렇게 매매했었다. 특히 TSLA는 $880까지 올라갔다가 조금 조정을 받을 것 같기도 했고 당시 IPOE(SOFI) DA가 뜨면서 급히 예수금이 필요하여 효자 종목인 TSLA 전량 매도 후 IPOE로 진입했다. 바로 다음날인가 ACTC(PROTERRA) DA도 뜨면서 예수금이 바로 필요했기 때문에 SVC, U 손절 후 ACTC $20에 진입했다. 진입하..",
+  "modified_time": "2021-05-19T14:26:38+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "아르바이트비가 들어오면서 55만 원가량 1,097원에 환전하였다. 작년에 환율의 무서움을 알고난 이후 돈이 들어오면 면저 환율 추세를 보고 환전한다. 다 맞추면 좋겠지만(대부분 틀린다) 일단은 1,090원대 지지할 것 같고 살게 있어서 바로 환전 VVPR, ZOM, SVC, TSLA, U, AJAX, BNGO, CCIV, IPOF, UAVS 이번 주에는 이렇게 매매했었다. 특히 TSLA는 $880까지 올라갔다가 조금 조정을 받을 것 같기도 했고 당시 IPOE(SOFI) DA가 뜨면서 급히 예수금이 필요하여 효자 종목인 TSLA 전량 매도 후 IPOE로 진입했다. 바로 다음날인가 ACTC(PROTERRA) DA도 뜨면서 예수금이 바로 필요했기 때문에 SVC, U 손절 후 ACTC $20에 진입했다. 진입하..",
+  "og_title": "1월 2주차(Feat.환전)",
+  "post_id": "14",
+  "published_time": "2021-01-17T22:52:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "1월 2주차(Feat.환전)",
+  "url": "https://mystock-note.tistory.com/14"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2678,
+  "canonical_url": "https://mystock-note.tistory.com/17",
+  "content_hash": "a6df7e04c3c55dca9645777071d6f20880d4af3dcb068b68645bfca64e2c35a9",
+  "json_ld_count": 1,
+  "meta_description": "이번 주는 최대한 매매를 안 하려고 노력했는데 뇌동매매를 몇 번 하게 되었다. 1. CCIV 44만원 정도 익절 하고 다시 재진입했는데 기업에 대한 신뢰가 없었다. 결국 딴돈에 반만 가져가게 되었네 ㅋㅋ 2. CFAC 요것도 점점 떨어지면서 줍줍 하려고 했는데 다른 주식 사려고 일단 어느 정도 손절하고 나왔다. 이번 주는 운이 좋게 EH으로 65% 이득 보고 나왔다. 운이 좋게 100만 원 수익 봤지만 이번 주에 한 36만 원 정도 손실이 있어서 약간 아쉬운 한 주가 되었다. -Holding list- ACTC 20층 BB 12층 (신규 진입) CFAC 13층 GEVO 9층 (신규 진입) IPOE 18층 NGA 28층 (신규 진입) SVFAU 13층 NGA는 목표 수량에 절반도 안샀지만 더 크게 조정이 ..",
+  "modified_time": "2021-05-19T14:26:37+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "이번 주는 최대한 매매를 안 하려고 노력했는데 뇌동매매를 몇 번 하게 되었다. 1. CCIV 44만원 정도 익절 하고 다시 재진입했는데 기업에 대한 신뢰가 없었다. 결국 딴돈에 반만 가져가게 되었네 ㅋㅋ 2. CFAC 요것도 점점 떨어지면서 줍줍 하려고 했는데 다른 주식 사려고 일단 어느 정도 손절하고 나왔다. 이번 주는 운이 좋게 EH으로 65% 이득 보고 나왔다. 운이 좋게 100만 원 수익 봤지만 이번 주에 한 36만 원 정도 손실이 있어서 약간 아쉬운 한 주가 되었다. -Holding list- ACTC 20층 BB 12층 (신규 진입) CFAC 13층 GEVO 9층 (신규 진입) IPOE 18층 NGA 28층 (신규 진입) SVFAU 13층 NGA는 목표 수량에 절반도 안샀지만 더 크게 조정이 ..",
+  "og_title": "1월 3주차",
+  "post_id": "17",
+  "published_time": "2021-01-23T16:46:30+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "1월 3주차",
+  "url": "https://mystock-note.tistory.com/17"
+}

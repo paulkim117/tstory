@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-04-13T15:40:12+09:00",
+  "datePublished": "2021-03-23T21:33:56+09:00",
+  "description": "과세거래 = 과세대상 1. 실질공급과 간주공급 실질공급 계약상 - 매매계약 - 가공계약 - 교환계약 - 현물출자 법률상 - 사적 경매 간주공급 (가짜매출) 자가공급 - 면세전용 (과세 -> 면세) - 비영업용 소형승용차에 사용 - 직매장 방출(매입세액공제여부 x, 세금계산서 발행) 개인적 공급 - 개인적 사용 사업상증여 - 접대 폐업시 잔존재화 재화의 공급 X - 담보제공 - 사업의 양도(포괄) - 물납 - 공매와 강제경매 용역의 공급 X - 용역의 무상공급(저가공급) - 근로제공(종속) 2. 재화용역의 공급시기 원칙 - 재화 : 인도 - 용역 : 용역 제공 완료일 1) 일반적 매출 : 인도 ★2) - 장기할부판매(2회 이상 분할, 1년이상) - 대가의 각 부분을 받기로 할 때 - 중간지급조건부 (대금을..",
+  "headline": "과세거래",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcl2OKH%2Fbtq0OkruhgD%2FAAAAAAAAAAAAAAAAAAAAAMaaxO6-dmZLpD8OkG1hkhmmNFRH1CkEjwBHtKITtWAZ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DNs0n8H0rPkWQmPkNhNBmm6Cqjp0%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/59",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/59"
+}

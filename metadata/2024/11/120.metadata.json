@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2251,
+  "canonical_url": "https://mystock-note.tistory.com/120",
+  "content_hash": "6866f3d583bcc5058a9dc172e79da0194c372449167146ace7a6f357f01c2de0",
+  "json_ld_count": 1,
+  "meta_description": "오늘 시장은 그동안의 승리 행진을 잠시 멈췄습니다. 사실 큰 하락은 아니었지만, 내일 발표될 소비자물가지수(CPI) 발표에 대한 우려로 일부 투자자들이 차익을 실현하면서 매도세가 나타났죠. 특히 레버리지를 크게 쓴 사람이라면 이 작은 하락에도 상당히 타격을 입었을 수 있습니다.📰 오늘의 주요 소식Spirit Airlines ✈️Spirit Airlines가 파산의 길로 들어섰습니다. JetBlue와의 인수 합병이 규제 당국의 반대로 무산되었고, 그 후 고유가와 인건비 상승까지 겹치면서 상황이 급격히 악화되었습니다. **기존 주주들은 그야말로 '치킨게임'**에 돌입한 셈인데요. 결국 Frontier의 마지막 인수 시도가 실패한 지금, Spirit은 채권단과 협상 테이블에 앉아 재정 지원 방안을 논의 중입..",
+  "modified_time": "2024-11-13T10:05:13+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "오늘 시장은 그동안의 승리 행진을 잠시 멈췄습니다. 사실 큰 하락은 아니었지만, 내일 발표될 소비자물가지수(CPI) 발표에 대한 우려로 일부 투자자들이 차익을 실현하면서 매도세가 나타났죠. 특히 레버리지를 크게 쓴 사람이라면 이 작은 하락에도 상당히 타격을 입었을 수 있습니다.📰 오늘의 주요 소식Spirit Airlines ✈️Spirit Airlines가 파산의 길로 들어섰습니다. JetBlue와의 인수 합병이 규제 당국의 반대로 무산되었고, 그 후 고유가와 인건비 상승까지 겹치면서 상황이 급격히 악화되었습니다. **기존 주주들은 그야말로 '치킨게임'**에 돌입한 셈인데요. 결국 Frontier의 마지막 인수 시도가 실패한 지금, Spirit은 채권단과 협상 테이블에 앉아 재정 지원 방안을 논의 중입..",
+  "og_title": "끝인가, 새로운 시작인가?",
+  "post_id": "120",
+  "published_time": "2024-11-13T10:05:13+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "끝인가, 새로운 시작인가?",
+  "url": "https://mystock-note.tistory.com/120"
+}

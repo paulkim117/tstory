@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4089,
+  "canonical_url": "https://mystock-note.tistory.com/121",
+  "content_hash": "dc5d91bcca79d1fc7984412e5087a744cf8b7ddadb4e4f355067393bee3721b7",
+  "json_ld_count": 1,
+  "meta_description": "안녕하세요, 투자자 여러분! YieldMax™에서 이번 달 주요 ETF의 배당률을 발표했습니다. 이번 달 높은 배당률을 자랑하는 ETF들을 함께 살펴볼까요?CONY: 135.69%ULTY: 101.39%FIAT: 100.77%YMAX: 43.77%YMAG: 55.08% 알아두시면 좋은 점들 📌과거 수익률에 주의: 이번 배당률은 과거 성과를 바탕으로 한 것으로, 앞으로도 같은 수익률을 보장하진 않아요. 투자 성과는 오를 수도, 내려갈 수도 있으니 최신 정보가 궁금하다면 YieldMax™ 공식 웹사이트를 참고해 보세요!배당률은 변동 가능: 배당금은 매달 조금씩 달라질 수 있고, 심지어 배당이 없을 수도 있어요. 매달 상황에 따라 변동될 수 있으니 유의해 주세요!운용비용 안내: 대부분의 YieldMax™ E..",
+  "modified_time": "2024-11-14T00:00:47+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "안녕하세요, 투자자 여러분! YieldMax™에서 이번 달 주요 ETF의 배당률을 발표했습니다. 이번 달 높은 배당률을 자랑하는 ETF들을 함께 살펴볼까요?CONY: 135.69%ULTY: 101.39%FIAT: 100.77%YMAX: 43.77%YMAG: 55.08% 알아두시면 좋은 점들 📌과거 수익률에 주의: 이번 배당률은 과거 성과를 바탕으로 한 것으로, 앞으로도 같은 수익률을 보장하진 않아요. 투자 성과는 오를 수도, 내려갈 수도 있으니 최신 정보가 궁금하다면 YieldMax™ 공식 웹사이트를 참고해 보세요!배당률은 변동 가능: 배당금은 매달 조금씩 달라질 수 있고, 심지어 배당이 없을 수도 있어요. 매달 상황에 따라 변동될 수 있으니 유의해 주세요!운용비용 안내: 대부분의 YieldMax™ E..",
+  "og_title": "YieldMax™ ETF의 11월 월별 배당 업데이트",
+  "post_id": "121",
+  "published_time": "2024-11-14T00:00:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "YieldMax™ ETF의 11월 월별 배당 업데이트",
+  "url": "https://mystock-note.tistory.com/121"
+}

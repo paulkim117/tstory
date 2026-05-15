@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-04-13T15:40:13+09:00",
+  "datePublished": "2021-03-23T20:50:24+09:00",
+  "description": "개별원가계산 주문생산방식 - 특정작업지시서 - 원가 계산표 => 제조간접비 배부 예정배부율 = 제조간접비예산/예정배부기준 예정배부액 = 실제배부기준 X 예정배부율 직접원가 = 직접재료비 + 직접 노무비 대량샌산방식 - 계속작업지시서 - 원가를 직접재료비와 가공비로 분류 - 완성품 환산량 계산 => 일한정도 1. 단일 종합원가 -> 하나의 제품에 하나 공정 2. 공정별 종합원가 -> 하나의 제품에 둘 이상 공정 3. 조별 종합원가 -> 둘 이상의 제품에 둘 이상의 공정 4. 등급별 종합원가 -> 하나의 원재료로 질이 다른 둘 이상의 상품 5. 연산품 종합원가 -> 하나의 원재료로 동질의 다른 제품과 부산물 종합원가 계산의 절차 (5단계법) 1단계 : 물량 흐름 파악 2단계 : 완성품 환산량 계산 직접재료비..",
+  "headline": "개별원가계산과 종합원가계산",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Ft29di%2Fbtq0MVTi27U%2FAAAAAAAAAAAAAAAAAAAAANlXnZo5U_-WE1K5yeteHil0j-UQWMZTS7QwwU1mP82L%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DfDHOuRNJZBBJ4jifSYyJ9k3vnm4%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/57",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/57"
+}

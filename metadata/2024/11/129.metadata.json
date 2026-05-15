@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 1463,
+  "canonical_url": "https://mystock-note.tistory.com/129",
+  "content_hash": "ee3566eed369024c6c0fd7ce6b87c3d319b190c2f9a941bc6e2fd1fad03f30f1",
+  "json_ld_count": 1,
+  "meta_description": "이번 주 증시는 극심한 변동성을 겪으며 투자자들의 불안을 키웠습니다. S&P 500이 월요일 사상 최고치(6,000)를 기록했지만 이후 4일 연속 하락(-2.08%)하며 하락세로 마감했습니다.나스닥(-3.15%): 기술주 약세 지속.Russell 2000(-4.04%): 중소형주 급락.🔑 주간 주요 뉴스 요약인플레이션 지속 우려소비자 물가지수 상승세 지속, 금리 인상 가능성 강화.섬형 반전 패턴(Island Reversal)나스닥 100 ETF($QQQ)에서 부정적 기술적 신호가 발생하며 추가 하락 우려.Nvidia 실적 발표 기대반도체 업종 약세 속 Nvidia($NVDA)의 실적 발표가 시장 방향성의 열쇠로 주목.📊 주요 개별 종목 동향Bloom Energy: AI 데이터센터와의 협력 발표로 주가..",
+  "modified_time": "2024-11-18T10:51:53+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "이번 주 증시는 극심한 변동성을 겪으며 투자자들의 불안을 키웠습니다. S&P 500이 월요일 사상 최고치(6,000)를 기록했지만 이후 4일 연속 하락(-2.08%)하며 하락세로 마감했습니다.나스닥(-3.15%): 기술주 약세 지속.Russell 2000(-4.04%): 중소형주 급락.🔑 주간 주요 뉴스 요약인플레이션 지속 우려소비자 물가지수 상승세 지속, 금리 인상 가능성 강화.섬형 반전 패턴(Island Reversal)나스닥 100 ETF($QQQ)에서 부정적 기술적 신호가 발생하며 추가 하락 우려.Nvidia 실적 발표 기대반도체 업종 약세 속 Nvidia($NVDA)의 실적 발표가 시장 방향성의 열쇠로 주목.📊 주요 개별 종목 동향Bloom Energy: AI 데이터센터와의 협력 발표로 주가..",
+  "og_title": "4일 연속 하락! 주식시장이 흔들린 한 주와 Nvidia의 마지막 희망",
+  "post_id": "129",
+  "published_time": "2024-11-18T10:51:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "4일 연속 하락! 주식시장이 흔들린 한 주와 Nvidia의 마지막 희망",
+  "url": "https://mystock-note.tistory.com/129"
+}

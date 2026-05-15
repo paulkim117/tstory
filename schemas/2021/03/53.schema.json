@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:48:30+09:00",
+  "datePublished": "2021-03-18T02:15:25+09:00",
+  "description": "재무제표 작성 원칙 1. 계속기업 -> 청산가치 X 2. 작성 책임 - 경영자 공정 표시 - 기업회계기준 3. 회계정책결정 - 목적 적합하고 신뢰성 있는 정보가 될 수 있도록 4. 구분 : 이해하기 쉽고 명료하게 (유동, 비유동 등) 통합 : 중요성 없고, 소액이면 합하여 기재 5. 비교 재무제표 - 전기/당기분을 한장에 표시 ★계량정보, 비계량 정보 모두 6. 계속성 - 한번 선택한 원칙을 계속 사용 7. 보고양식 - 간단 명료, 이해가능 명칭 보고기간(재무상태표), 회계기간(손익) 상호, 단위 재무제표의 기본가정(공준) 1. 계속기업 2. 법인(기업) 실체가정 : 법인과 주주의 분리 법인의 권리와 의무는 법인이 이행 3. 기간별 보고가정 재무상태표 : 일정(보고기간 종료일)시점의 자산, 부채, 자본(..",
+  "headline": "재무제표작성과 표시의 일반원칙 등",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbl4Nou%2Fbtq0oavhp2E%2FAAAAAAAAAAAAAAAAAAAAANen-Mqh66qwd4pTDec3YmEHTY3-EQqhcAdgIGjGmidz%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DGQ5DMtAoGDCf3RziGdC1VSmqM3w%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/53",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/53"
+}

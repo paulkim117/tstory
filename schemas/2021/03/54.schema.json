@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:48:39+09:00",
+  "datePublished": "2021-03-18T02:52:01+09:00",
+  "description": "원가회계의 기초 1. 원가 : 제품 생산을 위해 소비된 경제적 가치 2. 원가회계 : 원가를 인식, 측정, 보고(전달) 원가회계의 목적 재무제포 작성 원가통제 의사결정 원가 : 제품의 구성원가 비용 : 수익창출의 공헌한 경제적 가치 손실 : 수익창출에 공헌 X 원가회계의 분류 1) 형태 - 3요소 재료비 - 물품 노무비 - 인적자원 경비 - 기타 2) 추적가능성 직접비 - 1:1 추적가능시 공통비(간접비) : 공통사용 3) 제조활동에 따른 분류 제조원가 직접제조비 직접노무비 제조간접비 - 변동 제조간접비 - 고정 제조간접비 비제조원가 제조와 무관 기초원가 = 직접재료비 + 직접노무비 -> 기본원가 가공원가 = 직접노무비 + 제조간접비 -> 전환원가 원가 형태 VS 형태 (모양) 변동비 순수변동비: 생산량..",
+  "headline": "원가회계기초, 요소별 원가회계",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbi9RQ1%2Fbtq0pxDxEwR%2FAAAAAAAAAAAAAAAAAAAAAMPFASQFKZth55nxu1qc3iHxJtO5AIiKjNa-1XvADVZt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D9w3zo59U%252BcHmjVaACiJxvkcRD9E%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/54",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/54"
+}

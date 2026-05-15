@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:47+09:00",
+  "datePublished": "2021-01-17T21:14:57+09:00",
+  "description": "5월에는 19만원 정도 입금한것 같다. 그래도 적립식 매매를 한다고 마음을 다잡고 적금을 넣는다고 생각했다. 이때 DIS, MAXR, SPCE를 짤짤이로 매매 하며 국밥 값을 번것 같다. (이때 왜 MAXR를 매도 했을까...) 다시 되돌아 보면서 존버는 항상 승리하는 것을 알 수 있다. 다시 되돌아보면 진짜 바보 같은 매매를 했었다. 2~5월 손익을 보니 -140만원... 이때 남들은 주식을 시작하면서 다들 돈을 벌고 있었다. 너무 배가 아팠지만 나도 언젠간 오르겠지 하는 마음으로 다시한번 존버",
+  "headline": "20년 5월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fdhzk2o%2FbtqTPyoSjJC%2FAAAAAAAAAAAAAAAAAAAAAM422NEBP58KpxFei_XbmufDWwfyIbeqMGgucuVd7VfR%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DILZa1lETHmiSozred6%252FqIJIuWgY%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/5",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/5"
+}

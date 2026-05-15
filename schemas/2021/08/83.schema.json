@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-31T07:35:37+09:00",
+  "datePublished": "2021-08-12T23:23:40+09:00",
+  "description": "1. 개인정보보호법 당사자의 동의 없는 개인정보 수집 및 활용하거나 제3자에게 제공하는 것을 금지하는 등 개인정보보호를 강화한 내용을 담아 제정한 법률이다. 상대방의 동의 없이 개인정보를 제3자에게 제공하면 5년 이하의 징역이나 5,000만 원 이하의 벌금에 처할 수 있다. 어떤 정보가 개인정보에 해당하는지는 그 정보가 특정 개인을 알아볼 수 있게 하는 다른 정보와 쉽게 결합할 수 있는가에 따라 결정된다. 법원은 그 정보 자체로는 누구의 정보인지를 알 수 없더라도 다른 정보와 결함 가능성을 비교적 넓게 인정하여 개인정보에 해당한다 판단하고 있다. 일정한 내용을 기재한 문서에 의하여 업무 위탁이 이루어져야 한다(개인정보보호법 제26조 제1항). 위탁하는 업무의 내용과 수탁자를 정보주체에게 알려야 하는바, ..",
+  "headline": "[빅데이터분석기사] 빅데이터 기술 및 제도, 개인정보, 제도",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdOitRL%2FbtrbU0CGYAx%2FAAAAAAAAAAAAAAAAAAAAANQoDanrkkfubxaecBPJmF20zydwSPa8fZcyDiv9bMWT%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252BqYR9SviFchUtzhtpjTJSe6oKjA%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/83",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/83"
+}

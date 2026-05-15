@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 3850,
+  "canonical_url": "https://mystock-note.tistory.com/171",
+  "content_hash": "8679c8caadf7bffcb716a9c10640e5646af618aae0e7283da5b0bc8d80f1b68f",
+  "json_ld_count": 1,
+  "meta_description": "안녕하세요, 투자자 여러분! 👋오늘은 YieldMax에서 새롭게 출시한 YieldMax Short MSTR Option Income Strategy ETF (NYSE: WNTR)*에 대해 소개해드릴게요. 이 ETF는 마이크로스트래티지(MSTR)의 주가 변동을 활용하여 수익을 창출하는 옵션 전략 ETF입니다. 📉📈WNTR, 어떤 ETF인가요?WNTR은 MSTR 주가 하락 시 수익을 낼 수 있도록 설계된 액티브 ETF예요. 직접 MSTR을 공매도하지 않지만, 합성 커버드 풋 전략을 활용해 MSTR 주가 움직임을 반대로 추종합니다.하지만! ⚠️ MSTR 주가 상승 시 손실이 발생할 수 있으며, 경우에 따라 최대 100%까지 손실이 날 수 있다는 점을 꼭 유의하세요.포트폴리오 구성은?WNTR은 다음과 같은..",
+  "modified_time": "2025-03-31T11:30:52+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "안녕하세요, 투자자 여러분! 👋오늘은 YieldMax에서 새롭게 출시한 YieldMax Short MSTR Option Income Strategy ETF (NYSE: WNTR)*에 대해 소개해드릴게요. 이 ETF는 마이크로스트래티지(MSTR)의 주가 변동을 활용하여 수익을 창출하는 옵션 전략 ETF입니다. 📉📈WNTR, 어떤 ETF인가요?WNTR은 MSTR 주가 하락 시 수익을 낼 수 있도록 설계된 액티브 ETF예요. 직접 MSTR을 공매도하지 않지만, 합성 커버드 풋 전략을 활용해 MSTR 주가 움직임을 반대로 추종합니다.하지만! ⚠️ MSTR 주가 상승 시 손실이 발생할 수 있으며, 경우에 따라 최대 100%까지 손실이 날 수 있다는 점을 꼭 유의하세요.포트폴리오 구성은?WNTR은 다음과 같은..",
+  "og_title": "새로운 ETF 출시! YieldMax WNTR – MSTR 주가 하락에서 수익을 노리는 전략적 선택",
+  "post_id": "171",
+  "published_time": "2025-03-31T11:30:52+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "새로운 ETF 출시! YieldMax WNTR – MSTR 주가 하락에서 수익을 노리는 전략적 선택",
+  "url": "https://mystock-note.tistory.com/171"
+}

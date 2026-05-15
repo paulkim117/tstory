@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-10-30T15:30:27+09:00",
+  "datePublished": "2024-10-30T15:16:22+09:00",
+  "description": "최근 투자에서 좋은 성과를 거두었는데요! 토스증권에서는 반도체 관련 주식으로 상위 5% 수익률 배지를 받았고, 키움증권에서는 FNGU를 통해 해외 주식 월간 수익률 30위에 올랐습니다. 두 증권사에서 받은 배지와 랭킹, 정말 뿌듯합니다! 😄 --- 📈 토스증권: 수익 상위 5% (반도체 관련 주식)반도체 산업이 글로벌 트렌드로 자리 잡으며 미래 성장 가능성이 높아진다는 판단 아래 반도체 관련 주식에 집중했습니다. 90일 동안 꾸준한 분석과 시장 흐름을 반영한 전략 덕분에 토스증권에서 상위 5% 배지를 획득하게 되었어요. 반도체는 여전히 빠르게 성장 중이고, 추가적인 가능성도 있다고 생각합니다. 🔍🏆 키움증권: 월간 수익률 30위 (FNGU)키움증권에서는 나스닥 100지수를 3배 추종하는 레버리지 ..",
+  "headline": "📊 투자 성과로 입증된 반도체·기술주 전략: 수익률 상위 5% 달성!",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb0GSSZ%2FbtsKo02GhW8%2FAAAAAAAAAAAAAAAAAAAAAMWR65Wye0ACLISrWXVvlA76RiRsGAHUpWZ-p56tQhop%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLtp9BnQ7sTOsabG6wQRnAdwQDhE%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/98",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/98"
+}

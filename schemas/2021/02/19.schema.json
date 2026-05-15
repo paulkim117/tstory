@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:37+09:00",
+  "datePublished": "2021-02-01T03:05:07+09:00",
+  "description": "1월을 마무리하는 한주는 정말로 다이내믹한 한주였다. 개미와 헤지펀드와의 싸움을 지켜보다가 나도 조금 늦게 참여하게 되었다. GME 205층 탑승 예전부터 조금씩 관심있었던 종목이었지만 진짜 지금처럼 급상승할 줄은 꿈에도 몰랐다. 마지막 주는 매매하기 너무 어려운 한주였던것 같다. 원래 홀딩하고 있었던 BB는 공매도 종목으로 reddit에 타기팅이 되어 급등하고 급락하여 일단 탈출해 버렸다. GME사태로 인해 지수가 급락하고 현금을 확보하기 위해 가지고 있었던 종목들을 손절하고, 장기적으로 가져갈 종목들만 그냥 홀딩하는 전략을 가져갔다. 특히, NOK, AMC, GME, TMBR 이런것을 단타로 하려니까 오히려 손해만 봤었던 한주였다. 다행히도 GEVO와 BB로 인해 마지막 주도 48만 원이라는 실현수익..",
+  "headline": "1월 4주차",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FckV5BE%2FbtqVbumHnNe%2FAAAAAAAAAAAAAAAAAAAAAIUs7q2Z87wADO5c-fGS6FX0Ms8I5AeIu-IzMh369jsR%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DlBudSvVQOdazAE8hDRD0BYjAI20%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/19",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/19"
+}

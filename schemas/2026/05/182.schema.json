@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T10:35:01+09:00",
+    "datePublished": "2026-05-12T10:53:00+09:00",
+    "description": "핵심 요약: IRP 안전자산 30%는 단순히 예금만 넣는 자리가 아닙니다. 예금, 채권형 상품, 채권혼합형 ETF, 적격 TDF를 비교할 수 있는 구간이며, 각 상품의 원금보장 여부와 IRP 매수 가능 여부를 별도로 확인해야 합니다. IRP ETF 운용에서는 수익률보다 먼저 위험자산 70% 한도, 안전자산 분류, 실제 매수 가능 상품 목록을 확인해야 합니다.자료 기준일: 2026-05-12 / 주요 참고: 생활법령정보 퇴직연금 안내, 생활법령정보 연금계좌 세액공제 안내, 금융위원회 퇴직연금감독규정 관련 고시 설명 자료, 고용노동부·금융감독원 2024년 우리나라 퇴직연금 투자 백서IRP는 연금저축과 무엇이 다른가요?IRP는 개인형 퇴직연금 계좌로, 퇴직금과 자기부담금을 함께 관리할 수 있는 사적연금 계좌입..",
+    "headline": "IRP에서 ETF 투자할 때 안전자산 30%는 어떻게 채워야 할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/182",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/182"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-12T00:00:00+09:00",
+    "datePublished": "2026-05-12T00:00:00+09:00",
+    "description": "IRP에서 ETF를 운용할 때는 위험자산 70% 한도와 안전자산 30% 구간을 함께 봐야 합니다. 예금, 채권형 상품, 채권혼합형 ETF, 적격 TDF를 비교할 때 확인해야 할 기준을 정리합니다.",
+    "headline": "IRP에서 ETF 투자할 때 안전자산 30%는 어떻게 채워야 할까",
+    "url": "https://mystock-note.tistory.com/182"
+  }
+]

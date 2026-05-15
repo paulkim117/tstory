@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:48:21+09:00",
+  "datePublished": "2021-03-18T00:58:44+09:00",
+  "description": "자본 1. 개인의 자본금 = 출자금 2. 법인의 자본 1. 자본금 = 주식수 X 액면가액 보통주와 우선주 자본금 2. 자본잉여금 = 자본 거래상의 이익 (사례: 주식발행초과금, 감자차익, 자기주식처분이익 등) 3. 자본조정 = 자본에 부가 or 차감 항복 (사례: 주식할인 발행차행 차금, 감자차손, 자기주식처분손실 ..) 4. 기타포괄손익누계액(미실현 손익) - 매도가능증권 평가 손익 5. 이익잉여금 처분: 준비금 등 미처분: 전기 이월 이익잉여금 + 당기순이익 주식의 발행 액면발행 = 평가발행, 액면가액 = 발행가액 (차) 현금(발행가액) 90 / (대) 자본금(주식수 X 액면가) 100 주식할인발행차금 10 할인발행 = 액면가액 > 발행가액 (차) 현금 70 / (대) 자본금 100 주식할인발행차금 ..",
+  "headline": "자본, 자본 잉여금, 수익과 비용",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FeyuAUr%2Fbtq0nNAkDBn%2FAAAAAAAAAAAAAAAAAAAAAIgi2narLTs0UtkkVuVqFS96_LEckSAV5kkG969lZu02%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D1RTUz89dJeiuRHWqi7OhkqTKSkg%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/52",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/52"
+}

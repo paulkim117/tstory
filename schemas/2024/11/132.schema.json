@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-21T11:58:09+09:00",
+  "datePublished": "2024-11-21T11:58:09+09:00",
+  "description": "안녕하세요, YieldMax™ 투자자 여러분!YieldMax™에서 11월 주요 ETF 배당률을 발표했습니다. 이번 달 주목할 만한 ETF 배당률을 아래에서 확인해 보세요!📈 높은 배당률을 기록한 ETF들MSTY: 135.72%AIYY: 105.31%SMCY: 100.24%YMAX: 69.49%YMAG: 16.05% 투자자분들이 알아두면 좋은 정보 📝과거 성과에 의존하지 마세요이번에 발표된 배당률은 과거 데이터를 기반으로 한 것입니다. 하지만 과거 수익률이 미래 수익률을 보장하지는 않아요. 투자 성과는 오르거나 떨어질 수 있고, 배당률 역시 변동될 수 있으니 참고해 주세요.배당금은 보장되지 않습니다ETF 배당금은 매달 변동될 수 있으며, 어떤 달에는 배당이 없을 수도 있어요. 특히 30일 SEC 수익률..",
+  "headline": "YieldMax™ ETF 11월 월별 배당 발표 📢",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdzRuie%2FbtsKRj0OjWG%2FAAAAAAAAAAAAAAAAAAAAAGGR6d5qCDGUAxddriwdAVvxdVOxU5OtxWC_QHliuxh0%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DY%252BpLThAfvwm7wMUmR2GTSvK94Pg%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/132",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/132"
+}

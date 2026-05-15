@@ -1,0 +1,236 @@
+<!--
+source: https://mystock-note.tistory.com/92
+backup_date: 2026-05-15
+post_id: 92
+-->
+<p><figure class="imageblock alignCenter" width="383" height="287" data-origin-width="2048" data-origin-height="1536" data-filename="fabio-oyXis2kALVg-unsplash.jpg" data-ke-mobilestyle="widthOrigin"><span data-url="https://blog.kakaocdn.net/dna/b4Were/btrdFnBhrYg/AAAAAAAAAAAAAAAAAAAAAP7L1cEJrJTQt3nW-CbZ1rpGu6gk5-GbDStjtbu-hbSk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=PPynoKndBCKw7GkAEHc%2BNlwgRK8%3D" data-phocus="https://blog.kakaocdn.net/dna/b4Were/btrdFnBhrYg/AAAAAAAAAAAAAAAAAAAAAP7L1cEJrJTQt3nW-CbZ1rpGu6gk5-GbDStjtbu-hbSk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=PPynoKndBCKw7GkAEHc%2BNlwgRK8%3D"><img src="https://blog.kakaocdn.net/dna/b4Were/btrdFnBhrYg/AAAAAAAAAAAAAAAAAAAAAP7L1cEJrJTQt3nW-CbZ1rpGu6gk5-GbDStjtbu-hbSk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=PPynoKndBCKw7GkAEHc%2BNlwgRK8%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb4Were%2FbtrdFnBhrYg%2FAAAAAAAAAAAAAAAAAAAAAP7L1cEJrJTQt3nW-CbZ1rpGu6gk5-GbDStjtbu-hbSk%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DPPynoKndBCKw7GkAEHc%252BNlwgRK8%253D" width="383" height="287" data-origin-width="2048" data-origin-height="1536" data-filename="fabio-oyXis2kALVg-unsplash.jpg" data-ke-mobilestyle="widthOrigin" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';"/></span></figure>
+</p>
+<h3 data-ke-size="size23">1. 데이터 확보를 위한 사전 검토사항</h3>
+<p data-ke-size="size18">&lt;필요 데이터의 정의&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>분석 목적에 맞는 데이터를 정의하고, 필요한 데이터를 확보할 수 있는지 확인 하여야 하며, 확보할 수 없다면 대안을 함께 고려하여야 한다.</li>
+<li>기업 내부 및 외부 공공기관이나 협력관계의 타 기업 담당자, 전문가 등 이해관계자들과 확보 가능한 데이터의 목록과 기대효과 등을 작성한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;보유 데이터의 현황파악&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>자전에 정의한 데이터의 존재 여부와 분석 품질을 보장할 만큼 데이터 품질이 우수한지, 충분한 양이 존재하는지 확인한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;분석 데이터의 유형&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>분석 데이터 확보를 위해 수집 대상 데이터의 유형을 고려해야 한다.</li>
+<li>어떤 데이터를 어떤 기법을 이용하여 분석할 것인지 수립된 계획에 따라 데이터의 유형을 선택하고 변수를 정의해야 한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;편향되지 않고 충분한 양의 데이터 규모&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터 분석 기법에 따라 훈련(Training) 데이터셋, 검증(Validation) 데이터셋, 테스트(Test) 데이터셋이 필요할 수 있다.</li>
+</ul>
+<p data-ke-size="size16">- 따라서 신뢰성 높은 데이터 분석 모형 개발과 정확한 데이터 분석을 위해 3가지 데이터 세트로 나누어 사용할 만큼 충분한 데이터가 확보되어야 한다.</p>
+<p data-ke-size="size18">&lt;내부 데이터의 사용&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>필요 데이터에 대한 데이터 목록(변수 명칭, 설명, 형태, 기간, 용량, 권한 등)을 작성한다.</li>
+<li>필요 데이터에 대한 관련 법률이나 보안적인 요소들을 확인하고, 개인정보일경우 비식별 조치방안을 함께 고려한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;외부 데이터의 수집&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>필요 데이터에 대한 데이터 목록을 데이터를 보유한 기업의 이름과 데이터 제공 방법(Open API, 복제 등)까지 고려하여 작성한다.</li>
+<li>필요 데이터의 수집이 관련 법률이나 제도상 제약이 없는지 검토한다.</li>
+</ul>
+<h3 data-ke-size="size23">2. 분석에 필요한 변수 정의</h3>
+<p data-ke-size="size16">데이터 분석 요건에 따라 도출된 활용 시나리오에 적합한 데이터의 유형 및 분석 변수를 정의한다.</p>
+<p data-ke-size="size18">&lt;데이터 수집 기획&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터 수집 기법을 활용하여 필요 데이터를 배치 자동화로 수집한다.</li>
+</ul>
+<p data-ke-size="size16">- 데이터 수집 타깃 시스템 또는 사이트를 선별한다.</p>
+<p data-ke-size="size16">- 수집 대상 화면, 덱스트를 위해 인덱스 생성을 기획한다.</p>
+<p data-ke-size="size16">- 대상 시스템별 데이터 수집을 위한 크롤러를 준비하고 저장소를 기획한다.</p>
+<p data-ke-size="size16">- 크롤링 주기, 대상 범위를 확정하고 데이터 수집을 기획한다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터 거래소, 공공 데이터에 적재된 분야별 데이터를 분류하고 선별한다.</li>
+</ul>
+<p data-ke-size="size16">- 검색한 공공데이터 중 분석 대상이 되는 도메인의 우선순위를 정의한다.</p>
+<p data-ke-size="size16">- 필요한 데이터를 다운로드받아 저장할 수 있도록 계획한다.</p>
+<p data-ke-size="size16">- 저장한 데이터를 NoSQL 데이터에 적재하고 정제할 수 있도록 설계한다.</p>
+<p data-ke-size="size18">&lt;분석 변수 정의&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>빅데이터의 특징을 고려하여 분석 변수 생성을 기획한다.</li>
+</ul>
+<p data-ke-size="size16">- 상관관계 분석을 위한 데이터 연속성 범주 등을 고려하여 분석 변수를 정의한다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>분석 변수 유형과 형성 알고리즘을 이용하여 분석 유형을 도출한다.</li>
+</ul>
+<p data-ke-size="size16">- 변수의 분포를 구별하는 정도에 따라 순수도(purity) 또는 불순도(impurity)에 의해서 측정 구간별 순수도를 가장 높이는 분석 변수를 도출한다.</p>
+<h3 data-ke-size="size23">3. 분석 변수 생성 프로세스 정의</h3>
+<p data-ke-size="size16">분석 대상에 대해 객관적으로 인식하고 논리적 인과관계 분석 및 데이터 간 상관관계 분석을 위한 분석 변수 생성 프로세스를 정의한다.</p>
+<p data-ke-size="size18">&lt;객관적 사실(Fact) 기반의 문제 접근&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>명확한 문제 인식을 위하여 분석적이고 가정(why)에 의한 접근 방법과 함께 무엇(what)이 문제인지를 파악하여 객관적 관찰 데이터 유형을 식별한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;데이터의 상관 분석&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>빅데이터 분석 대상의 연관성 분석을 통해 데이터 집합간 통계적 관련성을 분석할 수 있는 변수를 생성하고 변수의 척도를 분류한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;프로토타입을 통한 분석 변수 접근&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>의미 있는 분석 변수를 생성하기 위하여 프로토타이핑 접근법을 통해 결과를 확인하며, 반복적으로 개선하여 필요한 데이터를 식별하고 구체화하여 비정형 데이터가 갖는 문제를 해소한다.</li>
+</ul>
+<h3 data-ke-size="size23">4. 생성된 분석 변수에 정제를 위한 점검항목 정의</h3>
+<p data-ke-size="size16">분석 기획 단계에서 도출된 문제 인식, 해결을 위한 개념적 대한 설계를 통해 도출된 데이터에 대해 가용성을 평가하고 점검항목을 정의한다.</p>
+<p data-ke-size="size18">&lt;분석 변수 점검을 필요성&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터의 가용성과 적정성이 부족할 경우 문제 해결 및 활용 시나리오 적용을 통해 가치 있는 결과를 도출하기 어렵다.</li>
+<li>실행 전 분석 변수를 논리적 지표에 따라 점검한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;분석 변수 점검항목 정의&gt;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style13">
+<tbody>
+<tr>
+<td style="width: 19.0309%; text-align: center;">분류</td>
+<td style="width: 25.7752%; text-align: center;">점검 항목</td>
+<td style="width: 55.1938%; text-align: center;">내용</td>
+</tr>
+<tr>
+<td style="width: 19.0309%; text-align: center;" rowspan="3">데이터 수집</td>
+<td style="width: 25.7752%;">데이터 적정성</td>
+<td style="width: 55.1938%;">문제 해결에 적절한 분석 변수인가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">데이터 가용성</td>
+<td style="width: 55.1938%;">수집 가능한 데이터인가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">대체 분석 데이터 유무</td>
+<td style="width: 55.1938%;">수집 불가능한 데이터인 경우 간접적으로 연관성 있는 데이터로 대체 가능한가?</td>
+</tr>
+<tr>
+<td style="width: 19.0309%; text-align: center;" rowspan="4">데이터<br />적합성</td>
+<td style="width: 25.7752%;">데이터 중복</td>
+<td style="width: 55.1938%;">중복이나 노이즈 제거, 데이터값 존재 유무 등 기초 데이터 클렌징 수행 가능한가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">분석 변수별 범위</td>
+<td style="width: 55.1938%;">분석 변수별 측정될 수 있는 min/max를 확인하였는가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">분석 변수별 연관성</td>
+<td style="width: 55.1938%;">수집된 데이터 간 충분 간격으로 연관성이 있는가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">데이터 내구성</td>
+<td style="width: 55.1938%;">데이터 노이즈, 왜곡이 발생하였을 때 예측 성능을 보장할 수 있는가?</td>
+</tr>
+<tr>
+<td style="width: 19.0309%; text-align: center;" rowspan="2">특징 변수</td>
+<td style="width: 25.7752%;">특징 변수 사용</td>
+<td style="width: 55.1938%;">분석 변수 중 바로 특징 변수로 사용할 수 있는 가능성이 있는가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">변수 간 결합 가능 여부</td>
+<td style="width: 55.1938%;">분석 변수를 결합하여 Cross Validation을 할 수 있는가?</td>
+</tr>
+<tr>
+<td style="width: 19.0309%; text-align: center;" rowspan="2">타당성</td>
+<td style="width: 25.7752%;">편익/비용 검증</td>
+<td style="width: 55.1938%;">분석 비용과 분석 후 결과가 추가적 매출, 수익 등에 기여할 수 있는가?</td>
+</tr>
+<tr>
+<td style="width: 25.7752%;">기술적 타당성</td>
+<td style="width: 55.1938%;">다양한 분석 툴을 활용할 수 있는 분석 변수를 도출하였는가?</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">5. 생성된 분석 변수의 전처리 방법 수립</h3>
+<p data-ke-size="size16">데이터 정제를 위한 점검항목 정의 후 이에 맞게 논리적 모형 설계를 위한 데이터 전처리 방법을 수립한다.</p>
+<p data-ke-size="size18">&lt;데이터 전처리 수행&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>다양한 비즈니스 도메인에서 추출한 정형, 반정형, 비정형 데이터를 분석 및 처리에 적합한 데이터 형태로 조작한다.</li>
+<li>데이터 정제, 통합, 축소, 변환을 반복적으로 수행하여 분석 변수로 활용하는 방안을 수립할 수 있다.</li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 28.4884%; text-align: center;">처리 기법</td>
+<td style="width: 71.5116%; text-align: center;">내용</td>
+</tr>
+<tr>
+<td style="width: 28.4884%; text-align: center;">데이터 정제<br />(Cleaning)</td>
+<td style="width: 71.5116%;">결측값을 채우거나 이상치를 제거하는 과정을 통해 데이터의 신뢰도를 높이는 작업</td>
+</tr>
+<tr>
+<td style="width: 28.4884%; text-align: center;">데이터 통합<br />(Integration)</td>
+<td style="width: 71.5116%;">다수의 정제된 데이터를 통합하여 표현하는 작업</td>
+</tr>
+<tr>
+<td style="width: 28.4884%; text-align: center;">데이터 축소<br />(Reducation)</td>
+<td style="width: 71.5116%;">데이터 집합은 더 작지만 분석 결과는 같은 데이터 집합으로 만드는 작업</td>
+</tr>
+<tr>
+<td style="width: 28.4884%; text-align: center;">데이터 변환<br />(Transformation)</td>
+<td style="width: 71.5116%;">데이터 마이닝의 효율을 높이기 위한 변환 및 변형 작업</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size18">&nbsp;&lt;빅데이터 분석 프로세스 수행&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>다양한 업무와 도메인이 포함되어 있어 완전히 자동화하여 처리하는 것은 어렵다.</li>
+<li>데이터 전처리 과정은 정제와 통합을 통해 약 60~80% 처리된다.</li>
+</ul>
+<h3 data-ke-size="size23">6. 생성 변수의 검증 방안 수립</h3>
+<p data-ke-size="size18">&lt;분석 변수의 데이터 검증 방안 수립&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>모든 개별 데이터에 대한 타당성 보장보다는 빅데이터 개념 및 특성 측면에서 관리되어야 하는 항목과 수준에 대해 품질 검증을 정의한다.</li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 29.3023%; text-align: center;">구분</td>
+<td style="width: 70.6977%; text-align: center;">품질 관리 접근 방법</td>
+</tr>
+<tr>
+<td style="width: 29.3023%; text-align: center;">대량 데이터</td>
+<td style="width: 70.6977%;">데이터 사용자 오류는 무시<br />데이터 타당성에 치명적인 예외 상황만 탐지</td>
+</tr>
+<tr>
+<td style="width: 29.3023%; text-align: center;">정밀 데이터</td>
+<td style="width: 70.6977%;">개별 데이터에 대한 타당성 검증은 환경 및 상황에 따라 판단<br />데이터 전체가 나타내는 의미를 중심으로 검증 기준 정의</td>
+</tr>
+<tr>
+<td style="width: 29.3023%; text-align: center;">데이터 출처 불명확</td>
+<td style="width: 70.6977%;">명확한 목적이나 사전 통제 없이 생산된 데이터에 대한 별도 품질 기준 정의</td>
+</tr>
+</tbody>
+</table>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>빅데이터 품질 관리 및 검증은 정확성보다는 데이터의 양이 충분한지에 대한 충분성 개념하에 조직의 비즈니스 영역 및 목적에 따라 검증한다.</li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 26.6279%; text-align: center;">구분</td>
+<td style="width: 73.3721%; text-align: center;">품질 검증 전략</td>
+</tr>
+<tr>
+<td style="width: 26.6279%; text-align: center;">정확성<br />(Accurancy)</td>
+<td style="width: 73.3721%;">데이터 사용 목적에 따라 데이터 정확성의 기준 상이하게 적용</td>
+</tr>
+<tr>
+<td style="width: 26.6279%; text-align: center;">완전성<br />(Completeness)</td>
+<td style="width: 73.3721%;">필요한 데이터인지 식별하는 수준으로 품질 요소 적용</td>
+</tr>
+<tr>
+<td style="width: 26.6279%; text-align: center;">적시성<br />(Timeliness)</td>
+<td style="width: 73.3721%;">소명성이 강한 데이터에 대한 품질 기준 판단<br />웹로그 데이터, 트윗 데이터 등 지속적으로 생성 소멸하는 데이터에 대한 품질 기준 수립</td>
+</tr>
+<tr>
+<td style="width: 26.6279%; text-align: center;">일관성<br />(Consistency)</td>
+<td style="width: 73.3721%;">동일한 데이터의 경우에도 사용 목적에 따라 데이터의 의미가 달라지기 때문에 분석 요건에 따른 검증 요소 적용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size18">&lt;데이터 검증 체계 수립&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>수집한 데이터의 출처가 명확한지 검증한다.</li>
+<li>중복된 데이터가 존재하는지, 정보 활용에 컴플라이언스 이슈가 없는 지 데이터 관리 대상 선별을 검증한다.</li>
+<li>데이터의 다양성이 확보되었는지, 데이터 세트가 충분한지 검증한다.</li>
+<li>주요 품질 지표의 조건을 만족하는지, 분석, 검증, 테스트 데이터가 분리되어 있는지 주요 품질 지표를 분석 및 검증한다.</li>
+</ul>

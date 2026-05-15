@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:40+09:00",
+  "datePublished": "2021-01-17T21:19:40+09:00",
+  "description": "점점 예수금도 부족하던 과정에서 장학금 160만 원이 생김 교내에서도 받고 외부에서도 받았다. 코로나로 인해 학업에 어려운 학생들에게 준것 같지만 내 계좌가 가장 어려웠기 때문에 바로 분할로 85만 원 입금(환율이 계속 떨어질 것 같아 분할 환전) 아무것도 안하고 환율과 횡보장을 겪으며 순식간에 10월에만 -90만 원 증발 다시 -150만원 손실로 진입 국내장을 하고 있는 분들은 계속 승승장구 너무너무 부러웠고 왜 내가 미장을 선택했는지 후회됐다.",
+  "headline": "20년 10월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FCVgS1%2FbtqTST7jTQZ%2FAAAAAAAAAAAAAAAAAAAAAJi9wCUiqDKjhDCN9-LlgarCzAUmoKNEP2n9vqA6r9F3%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DnGEO4R0kNVF%252BR55vKo%252F1VBYt9S4%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/10",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/10"
+}

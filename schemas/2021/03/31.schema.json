@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T15:16:07+09:00",
+  "datePublished": "2021-03-05T19:38:35+09:00",
+  "description": "(1) 관세법의 목적과 성격 관세법의 목적 - 관세의 부과&징수 및 수출입물품의 통관을 적정하게 하고 관세수입을 확보함으로써 국민경제의 발전에 이바지함을 목적으로 한다. ( [관세법] 제 1조) 관세법의 성격 - 관세법은 그 목적을 달성하기 위하여 여러 일반법에 대한 특례로서 조세법적 성격, 통관법적 성격, 쟁송절차법적 성격, 국제법적 성격을 가진다. (2) 용어의 정의( [관세법] 제 2조) 1. 수 입 외국물품을 우리나라에 반입(보세구역을 경유하는 것은 보세구역으로부터 반입하는 것을 말한다)하거나 우리나라에서 소비 또는 사용하는 것(우리나라의 운송수단 안에서의 소비 or 사용을 포함, 제239조 각 호의 어느 하나에 해당하는 소비 or 사용은 제외한다)을 말한다. [관세법] 제 239조에 의한 '수입..",
+  "headline": "관세법 일반 (관세법 통칙)",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Foywlh%2FbtqZ4ANTalJ%2FAAAAAAAAAAAAAAAAAAAAADvcjQgn-NvhQWjp6Xip0cgLxOPnEeBjRexBj7KWapJz%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D27ljisjP54qa7xtoJcjXZTyqEaA%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/31",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/31"
+}

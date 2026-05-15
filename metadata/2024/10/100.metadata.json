@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2965,
+  "canonical_url": "https://mystock-note.tistory.com/100",
+  "content_hash": "51d2833b288a3d2128ae507d71d60bf1d1dad11fc344ee9f293bf2d9c1c3e2a6",
+  "json_ld_count": 1,
+  "meta_description": "2024년 11월, YieldMax™가 투자자들을 위해 매력적인 배당 일정과 주요 ETF 배당률을 발표했습니다. 이번 달에는 YBIT, TSLY, TSMY, YMAX, YMAG 등 인기 ETF가 높은 배당률로 투자자들을 찾아옵니다. 이 배당률은 최근 배당 수익을 기준으로 연간화되어, 매월 수익을 기대할 수 있는 투자자에게 좋은 기회가 될 것입니다.📌 주요 ETF와 배당률YBIT: 65.28%TSLY: 60.58%TSMY: 54.47%YMAX: 66.23%YMAG: 41.16%위 배당률은 2024년 10월 29일 기준이며, 월간 배당이 동일하게 유지된다고 가정할 때 연간화한 수익률입니다. 다만, ETF의 배당금은 매달 다를 수 있으며, 일정한 배당을 보장하지 않으므로 투자자는 신중한 판단이 필요합니다.⚠..",
+  "modified_time": "2024-10-31T11:06:50+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "2024년 11월, YieldMax™가 투자자들을 위해 매력적인 배당 일정과 주요 ETF 배당률을 발표했습니다. 이번 달에는 YBIT, TSLY, TSMY, YMAX, YMAG 등 인기 ETF가 높은 배당률로 투자자들을 찾아옵니다. 이 배당률은 최근 배당 수익을 기준으로 연간화되어, 매월 수익을 기대할 수 있는 투자자에게 좋은 기회가 될 것입니다.📌 주요 ETF와 배당률YBIT: 65.28%TSLY: 60.58%TSMY: 54.47%YMAX: 66.23%YMAG: 41.16%위 배당률은 2024년 10월 29일 기준이며, 월간 배당이 동일하게 유지된다고 가정할 때 연간화한 수익률입니다. 다만, ETF의 배당금은 매달 다를 수 있으며, 일정한 배당을 보장하지 않으므로 투자자는 신중한 판단이 필요합니다.⚠..",
+  "og_title": "11월, YieldMax™ ETF 배당 발표! 📊 월별 수익 기회를 확인하세요",
+  "post_id": "100",
+  "published_time": "2024-10-30T20:16:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "11월, YieldMax™ ETF 배당 발표! 📊 월별 수익 기회를 확인하세요",
+  "url": "https://mystock-note.tistory.com/100"
+}

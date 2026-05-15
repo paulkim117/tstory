@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 5306,
+  "canonical_url": "https://mystock-note.tistory.com/16",
+  "content_hash": "985f8482977835efd2a6970a6f119418eb7d5d47bebcd3516df07b4d8262f5fd",
+  "json_ld_count": 1,
+  "meta_description": "SOFI 홈페이지에 들어가 보면 지금 SOFI가 무엇을 하고 있는지 보여주고 있다. 먼저 SOFI APP을 사용하려면 돈을 입금하고 계좌를 개설해야 한다. Credit Card, Loan service, Insurance 등 일상생활에 필요한 서비스를 제공해 주고 있다. 우리 일상에서는 아마도 카카오 뱅크가 제일 가깝다고 생각한다. 카카오 뱅크도 대출 서비스, 증권, 통장 등 다양한 서비스를 제공해 주고 있다. 가장 중요한 것은 아직 시총이 다른 핀테크 회사들보다 낮다는 점이다. 나는 단지 sofi가 상장을 늦게 해서 경쟁사들 보다 시총이 낮다고 생각할 뿐이지 다른 부족함이 없다고 본다. Risk는 과연 시장을 선점하고 있는 타 핀테크 회사들과의 경쟁을 잘할 수 있고 미래의 성장성이 뚜렸하다는 점인 것 ..",
+  "modified_time": "2021-05-19T15:42:55+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SOFI 홈페이지에 들어가 보면 지금 SOFI가 무엇을 하고 있는지 보여주고 있다. 먼저 SOFI APP을 사용하려면 돈을 입금하고 계좌를 개설해야 한다. Credit Card, Loan service, Insurance 등 일상생활에 필요한 서비스를 제공해 주고 있다. 우리 일상에서는 아마도 카카오 뱅크가 제일 가깝다고 생각한다. 카카오 뱅크도 대출 서비스, 증권, 통장 등 다양한 서비스를 제공해 주고 있다. 가장 중요한 것은 아직 시총이 다른 핀테크 회사들보다 낮다는 점이다. 나는 단지 sofi가 상장을 늦게 해서 경쟁사들 보다 시총이 낮다고 생각할 뿐이지 다른 부족함이 없다고 본다. Risk는 과연 시장을 선점하고 있는 타 핀테크 회사들과의 경쟁을 잘할 수 있고 미래의 성장성이 뚜렸하다는 점인 것 ..",
+  "og_title": "IPOE(Social Capital Hedosophia Holdings VCorp): 2편",
+  "post_id": "16",
+  "published_time": "2021-01-18T17:28:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IPOE(Social Capital Hedosophia Holdings VCorp): 2편",
+  "url": "https://mystock-note.tistory.com/16"
+}

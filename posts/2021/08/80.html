@@ -1,0 +1,239 @@
+<!--
+source: https://mystock-note.tistory.com/80
+backup_date: 2026-05-15
+post_id: 80
+-->
+<p><figure class="imageblock alignCenter" data-origin-width="5760" data-origin-height="3840" data-filename="markus-spiske-hvSr_CVecVI-unsplash.jpg" width="423" height="282" data-ke-mobilestyle="widthOrigin"><span data-url="https://blog.kakaocdn.net/dna/zXk8V/btrbXiIvkC4/AAAAAAAAAAAAAAAAAAAAAFrbkbxovyr7QLh1ny33GovbEdLT6Nv92orHvwY7I5vN/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=Gq10AzV0qzPDf1gGfzUlYbSN%2BWc%3D" data-phocus="https://blog.kakaocdn.net/dna/zXk8V/btrbXiIvkC4/AAAAAAAAAAAAAAAAAAAAAFrbkbxovyr7QLh1ny33GovbEdLT6Nv92orHvwY7I5vN/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=Gq10AzV0qzPDf1gGfzUlYbSN%2BWc%3D"><img src="https://blog.kakaocdn.net/dna/zXk8V/btrbXiIvkC4/AAAAAAAAAAAAAAAAAAAAAFrbkbxovyr7QLh1ny33GovbEdLT6Nv92orHvwY7I5vN/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1780239599&allow_ip=&allow_referer=&signature=Gq10AzV0qzPDf1gGfzUlYbSN%2BWc%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzXk8V%2FbtrbXiIvkC4%2FAAAAAAAAAAAAAAAAAAAAAFrbkbxovyr7QLh1ny33GovbEdLT6Nv92orHvwY7I5vN%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DGq10AzV0qzPDf1gGfzUlYbSN%252BWc%253D" data-origin-width="5760" data-origin-height="3840" data-filename="markus-spiske-hvSr_CVecVI-unsplash.jpg" width="423" height="282" data-ke-mobilestyle="widthOrigin" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';"/></span></figure>
+</p>
+<h3 data-ke-size="size23">1. 빅데이터 처리과정과 요소기술</h3>
+<p data-ke-size="size18">&lt;생성&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터베이스나 파일 관리 시스템과 같은 내부 데이터가 있다.</li>
+<li>인터넷으로 연결된 외부로부터 생성된 파일이나 데이터가 있다.</li>
+</ul>
+<p data-ke-size="size18">&lt;수집&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>크롤링을 통해 데이터 원천으로부터 데이터를 검색하여 수집한다.</li>
+<li>ETL을 통해 소스 데이터로부터 추출하고, 변환하여, 적재한다.</li>
+<li>단순한 수집이 아니라 검색 및 수집, 변환 과정을 모두 포함한다.</li>
+<li>로그 수집기나, 센서 네트워크 및 Open API 등을 활용할 수 있다.</li>
+</ul>
+<p data-ke-size="size18">&lt;저장(공유)&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>저렴한 비용으로 데이터를 쉽고 빠르게 많이 저장한다.</li>
+<li>정형 데이터뿐만 아니라 반정형, 비정형 데이터도 포함한다.</li>
+<li>병렬 DBMS나 하둡, NoSQL 등 다양한 기술을 사용할 수 있다.</li>
+<li>시스템 간의 데이터를 서로 공유 가능하다.</li>
+</ul>
+<p data-ke-size="size18">&lt;처리&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터를 효과적으로 처리하는 기술이 필요한 단계이다.</li>
+<li>분산 병렬 및 인 메모리 방식으로 실시간 처리한다.</li>
+<li>대표적으로 하둡의 맵리듀스를 활용할 수 있다.</li>
+</ul>
+<p data-ke-size="size18">&lt;분석&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터를 신속하고 정확하게 분석하여 비즈니스에 기여한다.</li>
+<li>특정 분야 및 목적의 특성에 맞는 분석 기법 선택이 중요한다.</li>
+<li>통계분석, 데이터 마이닝, 텍스트 마이닝, 기계학습 방법 등이 있다.</li>
+</ul>
+<p data-ke-size="size18">&lt;시각화&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>처리 및 분석 결과를 표, 그래프 등을 이용해 쉽게 표현하고 탐색이나 해석에 활용한다.</li>
+<li>정보 시각화 기술, 시각화 도구, 편집 기술, 실시간 자료 시각화 기술로 구성되어 있다.</li>
+</ul>
+<h3 data-ke-size="size23">2. 빅데이터 수집</h3>
+<ol style="list-style-type: decimal;" data-ke-list-type="decimal">
+<li>크롤링: 무수히 많은 컴퓨터에 분산 저장되어 있는 문서를 수집하여 검색 대상의 색인으로 포함시키는 기술이다.</li>
+<li>로그 수집기: 조직 내부에 있는 웹 서버나 시스템의 로그를 수집하는 소프트웨어이다.</li>
+<li>센서 네트워크: 유비쿼터스 컴퓨팅 구현을 위한 초정량 저전력의 많은 센서들로 구성된 유무선 네트워크이다.</li>
+<li>RSS Reader/Open API: 데이터의 생산, 공유, 참여할 수 있는 환경인 웹 2.0을 구현하는 기술이다.</li>
+<li>ETL 프로세스: 데이터 추출(Extract), 변환(Transform), 적재(Load)의 약어로, 다양한 원천 데이터를 취합해 추출하고 공통된 형식으로 변환하여 데이터 웨어하우스에 적재하는 과정이다.</li>
+</ol>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style13">
+<tbody>
+<tr>
+<td style="width: 27.093%; text-align: center;">과정</td>
+<td style="width: 72.907%; text-align: center;">설명</td>
+</tr>
+<tr>
+<td style="width: 27.093%; text-align: center;">데이터 <br />추출(Extract)</td>
+<td style="width: 72.907%;">원천 데이터로 부터 적재하고자 하는 데이터를 추출한다.</td>
+</tr>
+<tr>
+<td style="width: 27.093%; text-align: center;">데이터 <br />변환(Transform)</td>
+<td style="width: 72.907%;">추출한 데이터를 변환하고 균질화하며 정재한다.<br />정재한 데이터를 적재하고자 하는 데이터 웨어하우스 구조에 맞게 변환한다.<br />통합하는 제약 조건 및 비즈니스 규칙에 따라 필터링이나 확인 작업을 한다.</td>
+</tr>
+<tr>
+<td style="width: 27.093%; text-align: center;">데이터 <br />적재(Load)</td>
+<td style="width: 72.907%;">변환된 데이터를 데이터 웨어하우스에 적재한다.</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">&nbsp;</h3>
+<h3 data-ke-size="size23">3.빅데이터 저장</h3>
+<p data-ke-size="size18">&lt;NoSQL(Not-only SQL)&gt;</p>
+<p data-ke-size="size16">전통적인 관계형 데이터베이스와는 다르게 데이터 모델을 단순화하여 설계된 비관계형 데이터베이스로 SQL을 사용하지 않는 DBMS와 데이터 저장장치이다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>기존의 RDBMS 트랜잭션 속성인 원자성(Atomicity), 일관성(Consistency), 독립성(Isolation), 지속성(Durability)을 포기한다.</li>
+<li>데이터 업데이트가 즉각적으로 가능한 데이터 저장소이다.</li>
+<li>Cloudata, Hbase, Cassandra, MongoDB 등이 대표적이다.</li>
+</ul>
+<p data-ke-size="size18">&lt;공유 데이터 시스템&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>일관성, 가용성, 네트워크 분할 감내성 중에서 최대 두개의 속성만 보유할 수 있다. (CAP 이론)</li>
+<li>네트워크 분할 감내성을 취하고 일관성과 가용성 중 하나를 포기하여 일관성과 가용성을 모두 취하는 기존 RDBMS보다 높은 성능과 확장성을 제공한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;병렬 데이터베이스 관리 시스템&gt;</p>
+<p data-ke-size="size16">다수의 마이크로프로세서를 사용하여 여러 디스크에 질의, 갱신, 입출력 등 데이터베이스 처리를 동시에 수행하는 시스템이다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>확장성을 제공하기 위해 작은 단위의 동작으로 트랜잭션 적용이 필요하다.</li>
+<li>VoltDB, SAP HANA, Vertica, Greenplum, Netezza가 대표적이다.</li>
+</ul>
+<p data-ke-size="size18">&lt;분산 파일 시스템&gt;</p>
+<p data-ke-size="size16">네트워크로 공유하는 여러 호스트의 파일에 접근할 수 있는 파일 시스템이다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>데이터를 분산하여 저장하면 데이터 추출 및 가공 시 빠르게 처리할 수 있다.</li>
+<li>GFS(Google File System), HDFS(Hadoop Distributed File System), 아마존 S3 파일 시스템이 대표적이다.</li>
+</ul>
+<p data-ke-size="size18">&lt;네트워크 저장 시스템&gt;</p>
+<p data-ke-size="size16">이기종 데이터 저장 장치를 하나의 데이터 서버에 연결하여 총괄적으로 데이터를 저장 및 관리하는 시스템이다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>SAN(Storage Area Network), NAS(Network Attached Storage)가 대표적이다.</li>
+</ul>
+<h3 data-ke-size="size23">4. 빅데이터 처리</h3>
+<p data-ke-size="size18">&lt;분산 시트템과 병렬 시스템&gt;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 18.9535%; text-align: center;">분산<br />시스템</td>
+<td style="width: 81.0465%;">네트워크상에 분산되어 있는 컴퓨터를 단일 시스템인 것처럼 구동하는 기술이다.<br />분산 시스템에 속한 각 노드는 독립된 시스템이다.<br />독립 컴퓨터의 집합으로 만들었으나 마치 단일 시스템인 것처럼 수행되어야 한다.</td>
+</tr>
+<tr>
+<td style="width: 18.9535%; text-align: center;">병렬<br />시스템</td>
+<td style="width: 81.0465%;">문제 해결을 위해 CPU 등의 자원을데이터 버스나 지역 통신 시스템 등으로 연결하여 구동하는 기술이다.<br />분할된 작업을 동시에 처리하여 계산 속도를 빠르게 한다.</td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="2">- 용어는 구분되어 사용되기도 하지만 서로 중첩되는 부분이 많아 실제 시스템에서도 이둘을 명확히 구분하기는 어렵다.<br />- 두 개념을 아우르는 분산 병렬 컴퓨팅이라는 용어를 사용한다.</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size18">&lt;분산 병렬 컴퓨팅&gt;</p>
+<p data-ke-size="size16">다수의 독립된 컴퓨팅 자원을 네트워크상에 연결하여 이를 제어하는 미들웨어를 이용해 하나의 시스템으로 동작하게 하는 기술이다.</p>
+<p data-ke-size="size16">▶ 분산 병렬 컴퓨팅시 고려사항</p>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style13">
+<tbody>
+<tr>
+<td style="width: 35.2325%; text-align: center;">문제</td>
+<td style="width: 64.7675%; text-align: center;">설명</td>
+</tr>
+<tr>
+<td style="width: 35.2325%; text-align: center;">전체 작업의 배분 문제</td>
+<td style="width: 64.7675%;">전체 작업을 잘 쪼개어 여러 개의 작은 작업으로 나눠야 한다.</td>
+</tr>
+<tr>
+<td style="width: 35.2325%; text-align: center;">각프로세서에서 계산된 중간결과물을<br />프로세서 간 주고받은 문제</td>
+<td style="width: 64.7675%;">효율적인 통신은 성능과 직결된다.<br />보통 단일 시스템은 전체 작업을 노드의 수만큼 균등하게 나눈다.<br />이종 시스템은 컴퓨팅 능력에 따라 전체 작업을 배분한다.<br />노드 간의 통신을 최소화하는 기법 등이 반영되면 자원을 좀 더 효율적으로 사용할 수 있어 성능 향상에 도움이 된다.</td>
+</tr>
+<tr>
+<td style="width: 35.2325%; text-align: center;">서로 다른 프로세서 간<br />동기화 문제</td>
+<td style="width: 64.7675%;">데이터 병렬 처리에서 동기적 방법을 사용할 경우 프로세서는 특정 계산이 끝나거나 특정 데이터를 넘겨받을 때까지 반드시 대기하여야 한다.<br />동기적 방법의 경우 송신자는 수신자에게서 데이터를 받았다는 응답이 올 때까지 대기하여야 한다.<br />비동기적 방법에서는 결과 메시지를 보낸 즉시 다음 작업을 계속할 수 있다.<br />비동기적 방법의 경우 프로세서는 기다릴 필요가 없지만, 계산 과정이 적합한지는 확인해야 한다.</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size18">&lt;하둡(Hadoop)&gt;</p>
+<p data-ke-size="size16">분산 처리 환경에서 대용량 데이터 처리 및 분석을 지원하는 오픈 소스 소프트웨어 프레임워크이다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>야후에서 최초로 개발했으며, 지금은 아파치 소프트웨어 재단에서 프로젝트로 관리되고 있다.</li>
+<li>하둡 분산파일시스템인 HDFS와 분산컬럼기반 데이터베이스인 Hbase, 분산 컴퓨팅 지원 프레임워크인 맵리듀스로 구성되어 있다.</li>
+</ul>
+<p data-ke-size="size16">- 분산 파일시스템을 통해 수 천대의 장비에 대용량 파일을 나누어 저장할 수 있는 기능을 제공한다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>하둡의 부족한 기능을 보완하는 하둡 에코시스템이 등장하여 다양한 솔루션을 제공한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;아파치 스파크(Apache Spark&gt;</p>
+<p data-ke-size="size16">실시간으로 분산형 컴퓨팅 플랫폼으로 In-Memory 방식으로 처리를 하며 하둡보다 처리속도가 빠르다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>스칼라 언어로 개발되었지만 스칼라뿐만 아니라 Java, R, Python을 지원한다.</li>
+</ul>
+<p data-ke-size="size18">&lt;맵리듀스(MapReduce)&gt;</p>
+<p data-ke-size="size16">구글에서 개발한 방대한 양의 데이터를 신속하게 처리하는 프로그래밍으로 모델로 효과적인 병렬 및 분산 처리를 지원한다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>런타임에서의 입력 데이터 분할, 작업 스케줄링, 노드 고장, 노드간의 데이터 전송 작업이 맵리듀스 처리 성능에&nbsp; 많은 영향을 미친다.</li>
+</ul>
+<p data-ke-size="size16">▶맵리듀스 처리단계</p>
+<table style="border-collapse: collapse; width: 100%; height: 100px;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr style="height: 20px;">
+<td style="width: 15.1163%; height: 20px; text-align: center;">1단계</td>
+<td style="width: 84.8837%; height: 20px;">입력 데이털르 읽고 분할한다.</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 15.1163%; height: 20px; text-align: center;">2단계</td>
+<td style="width: 84.8837%; height: 20px;">분할된 데이터를 할당해 맵 작업을 수행한 후, 그 결과인 중간 데이터를 통합 및 재분할한다.</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 15.1163%; height: 20px; text-align: center;">3단계</td>
+<td style="width: 84.8837%; height: 20px;">통합 및 재분할된 중간 데이터를 셔플한다.</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 15.1163%; height: 20px; text-align: center;">4단계</td>
+<td style="width: 84.8837%; height: 20px;">셔플된 중간 데이터를 이용해 리듀스 작업을 수행한다.</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 15.1163%; height: 20px; text-align: center;">5단계</td>
+<td style="width: 84.8837%; height: 20px;">출력 데이터를 생성하고, 맵리듀스 처리를 종료한다.</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">5. 빅데이터 분석</h3>
+<p data-ke-size="size18">&lt;데이터 분석 방법의 분류&gt;</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>탐구 요인 분석: 데이터 간 상호 관계를 파악하여 데이터를 분석하는 방법이다.</li>
+<li>확인 요인 분석: 관찰된 변수들의 집합 요소 구조를 파악하기 위한 통계적 기법을 통해 데이터를 분석하는 방법이다.</li>
+</ul>
+<p data-ke-size="size18">&lt;데이터 분석 방법&gt;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style13">
+<tbody>
+<tr>
+<td style="width: 26.2791%; text-align: center;">구분</td>
+<td style="width: 73.7209%; text-align: center;">내용</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">분류<br />(Classification)</td>
+<td style="width: 73.7209%;">미리 알려진 클래스들로 구분되는 학습 데이터 셋을 학습시켜 새로 추가되는 데이터가 속할 만한 데이터 셋을 찾는 지도학습 방법이다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">군집화<br />(Clustering)</td>
+<td style="width: 73.7209%;">특성이 비슷한 데이터를 하나의 그룹으로 분류하는 방법으로, 분류와 달리 학습 데이터 셋을 이용하지 않는 비지도학습 방법이다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">기계학습<br />(Machine Learning)</td>
+<td style="width: 73.7209%;">인공지능 분야에서 인간의 학습을 모델링한 방법이다.<br />의사결정트리 등 기호적 학습과 신경망이나 유전 알고리즘 등 비기호적 학습, 베이지안이나 은닉 마코프 등 확률적 학습 등 다양한 기법이 있다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">텍스트 마이닝<br />(Text Mining)</td>
+<td style="width: 73.7209%;">자연어 처리 기술을 이용해 인간의 언어로 쓰인 비정형 텍스트에서 유용한 정보를 추출하거나 다른 데이터와의 연관성을 파악하기 위한 방법이다.<br />분류나 군집화 등 빅데이터에 숨겨진 의미 있는 정보를 발견하는 데 사용하기도 한다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">웹 마이닝<br />(Web Mining)</td>
+<td style="width: 73.7209%;">인터넷을 통해 수집한 정보를 데이터 마이닝 방법으로 분석하는 응용분야이다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">오피니언 마이닝<br />(Opinion Mining)</td>
+<td style="width: 73.7209%;">온라인의 다양한 뉴스와 소셜 미디어 코멘트 or 사용자가 만든 콘텐츠에서 표현된 의견을 추출, 분류, 이해하여 자산화하는 응용분야이다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">리얼리티 마이닝<br />(Reality Mining)</td>
+<td style="width: 73.7209%;">휴대폰 등 기기를 사용하여 인간관계와 행동 양태 등을 추론하는 응용분야이다.<br />통화량, 통화 위치, 통화 상태, 통화 대상, 통화 내용 등을 분석하여 사용자의 인간관계나 행동 특성을 찾아낸다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">소셜 네트워크 분석<br />(Social Network Analysis)</td>
+<td style="width: 73.7209%;">수학의 그래프 이론을 바탕으로 소셜 네트워크 서비스에서 네트워크 연결 구조와 강도를 분석하여 사용자의 명성 및 영향력을 측정하는 방법이다.</td>
+</tr>
+<tr>
+<td style="width: 26.2791%; text-align: center;">감성 분석<br />(Sentiment Analysis)</td>
+<td style="width: 73.7209%;">문장의 의미를 파악하여 글의 내용에 긍정 or 부정, 좋음 or 나쁨을 분류하거나 만족 or 불만족 강도를 지수화하는 방법이다.<br />도출된 지수를 이용하여 고객의 감성 트렌드를 시계열로 분석하고, 고객의 감성 변화에 기업들이 신속하게 대응 및 부정적인 의견의 확산을 방지하는 데 활용할 수 있다.</td>
+</tr>
+</tbody>
+</table>

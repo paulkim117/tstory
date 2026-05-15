@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 2256,
+  "canonical_url": "https://mystock-note.tistory.com/103",
+  "content_hash": "90e6832f1023486b396a6839c1d3a0d70ac6dcbd6e59ade6c9718b21a02a3cea",
+  "json_ld_count": 1,
+  "meta_description": "10월 29일, 미국의 주요 기업들이 3분기 실적을 발표하며 각자의 성장과 도전 과제를 공개했습니다. 이번 실적 발표는 특히 기술, 제약, 소비재 부문에서 다양한 결과를 보였는데요, AMD, Pfizer, McDonald's의 실적과 향후 전망을 통해 각 업종의 성과와 향후 전략을 살펴보겠습니다.1. AMD (Advanced Micro Devices Inc.)성과 요약AMD는 이번 분기에서 67억 달러의 매출과 주당순이익 0.92달러를 기록하여 시장 예상과 일치했습니다. 데이터 센터와 AI 칩 부문에서의 수요는 강세를 보였으나, 소비자용 반도체 수요가 약세를 보이며 전체 성과에는 일부 제한이 있었습니다.어닝콜 요약경영진은 데이터 센터와 AI 제품 라인 확장을 위한 투자 계획을 발표하며, 고성능 칩 개발을..",
+  "modified_time": "2024-10-31T11:06:11+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "10월 29일, 미국의 주요 기업들이 3분기 실적을 발표하며 각자의 성장과 도전 과제를 공개했습니다. 이번 실적 발표는 특히 기술, 제약, 소비재 부문에서 다양한 결과를 보였는데요, AMD, Pfizer, McDonald's의 실적과 향후 전망을 통해 각 업종의 성과와 향후 전략을 살펴보겠습니다.1. AMD (Advanced Micro Devices Inc.)성과 요약AMD는 이번 분기에서 67억 달러의 매출과 주당순이익 0.92달러를 기록하여 시장 예상과 일치했습니다. 데이터 센터와 AI 칩 부문에서의 수요는 강세를 보였으나, 소비자용 반도체 수요가 약세를 보이며 전체 성과에는 일부 제한이 있었습니다.어닝콜 요약경영진은 데이터 센터와 AI 제품 라인 확장을 위한 투자 계획을 발표하며, 고성능 칩 개발을..",
+  "og_title": "AMD, Pfizer, McDonald's의 3분기 성적표: 시장 기대 그 이상인가?",
+  "post_id": "103",
+  "published_time": "2024-10-30T20:58:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AMD, Pfizer, McDonald's의 3분기 성적표: 시장 기대 그 이상인가?",
+  "url": "https://mystock-note.tistory.com/103"
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-11T17:20:40+09:00",
+    "datePublished": "2026-05-11T15:04:13+09:00",
+    "description": "핵심 요약: 커버드콜 ETF는 기초자산을 보유하면서 콜옵션을 매도해 옵션 프리미엄을 얻는 전략을 활용하는 ETF입니다. 월분배금을 만들 수 있다는 장점이 있지만, 기초자산 상승 구간에서는 수익이 제한될 수 있습니다. 커버드콜 ETF는 목표분배율보다 NAV 추이, 총수익률, 기초자산, 옵션 전략, 총비용을 먼저 확인해야 합니다.자료 기준: 2026년 5월 11일 기준입니다. 커버드콜 ETF의 분배금, 목표분배율, 순자산, 총보수, 옵션 전략은 운용사 공시와 시장 상황에 따라 달라질 수 있습니다. 본문은 투자 권유가 아니라 상품 구조를 이해하기 위한 정보 제공 목적입니다.커버드콜 ETF란 무엇인가요?커버드콜 ETF는 주식, 채권, 지수 등 기초자산을 보유하면서 콜옵션을 매도하는 전략을 활용하는 ETF입니다...",
+    "headline": "커버드콜 ETF 분배금은 왜 높아 보일까? NAV 감소와 수익 제한 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/180",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/180"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-11",
+    "datePublished": "2026-05-11T15:04:00+09:00",
+    "description": "커버드콜 ETF의 분배금 구조, 목표분배율, NAV 감소, 상승 수익 제한, 총수익률 확인 기준을 정리합니다.",
+    "headline": "커버드콜 ETF 분배금은 왜 높아 보일까? NAV 감소와 수익 제한 구조",
+    "url": "https://mystock-note.tistory.com/180"
+  }
+]

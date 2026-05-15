@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 3848,
+  "canonical_url": "https://mystock-note.tistory.com/64",
+  "content_hash": "7f0f95828c6225befcd0b57084636645f3af83e9732a72c5452c125de76613a5",
+  "json_ld_count": 1,
+  "meta_description": "- EPS : 주당 순이익, 클수록 저평가된 주식. - BPS : 주당 갖게되는 회사자산의 지분, 보통 클수록 저평가된 주식. - PER : 주당 순이익EPS로 나눈 값, 작을수록 저평가된 주식. - PBR : 주당 순자산의 비율 일반적으로 작을수록 저평가된 주식. - PCR : 주가를 주당 현금흐름으로 나눠준 값. 일반적으로 작을수록 저평가 가능성 높음. - PBR도 업종별 PBR보다 낮거나, 1보다 낮다면 저평가 (PBR은 안정성 지표, 주가가 낮아도 돈만 많으면 PBR이 낮고 급등주는 PBR이 존재하지 않음) - PSR : 주가를 주당 매출액으로 나눠준 값. 작을수록 저평가된 주식. - EV/EBITDA(이브이에비따) : 순수한 영업이익과 기업가치를 비율로 나타낸것임. 작을수록 저평가된 주식된 주식..",
+  "modified_time": "2021-04-13T15:40:10+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "- EPS : 주당 순이익, 클수록 저평가된 주식. - BPS : 주당 갖게되는 회사자산의 지분, 보통 클수록 저평가된 주식. - PER : 주당 순이익EPS로 나눈 값, 작을수록 저평가된 주식. - PBR : 주당 순자산의 비율 일반적으로 작을수록 저평가된 주식. - PCR : 주가를 주당 현금흐름으로 나눠준 값. 일반적으로 작을수록 저평가 가능성 높음. - PBR도 업종별 PBR보다 낮거나, 1보다 낮다면 저평가 (PBR은 안정성 지표, 주가가 낮아도 돈만 많으면 PBR이 낮고 급등주는 PBR이 존재하지 않음) - PSR : 주가를 주당 매출액으로 나눠준 값. 작을수록 저평가된 주식. - EV/EBITDA(이브이에비따) : 순수한 영업이익과 기업가치를 비율로 나타낸것임. 작을수록 저평가된 주식된 주식..",
+  "og_title": "펀더멘탈 Fundamental Analysis",
+  "post_id": "64",
+  "published_time": "2021-04-01T15:56:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "펀더멘탈 Fundamental Analysis",
+  "url": "https://mystock-note.tistory.com/64"
+}

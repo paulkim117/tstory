@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 3882,
+  "canonical_url": "https://mystock-note.tistory.com/151",
+  "content_hash": "4033ed67d3172f40c460b452870bb7afa64a70c4df7f80ebe47c04cb6529f3df",
+  "json_ld_count": 1,
+  "meta_description": "📢 YieldMax ETF, 새로운 배당 소식 전합니다!2025년 1월 22일 – YieldMax가 FEAT, FIVY, YBIT 등 여러 ETF의 배당금 소식을 발표했습니다. 투자자 여러분께 도움이 될 정보를 간단하고 친근하게 정리했어요. 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금FEAT$2.1944FIVY$1.6771YBIT$0.7893YMAX$0.1720YMAG$0.1002💡 참고: 배당금은 2025년 1월 21일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 크게 변동될 수 있으며, 지급되지 않을 가능성도 있어요.2️⃣ 기초 자산 배당금과는 다릅니다.투자자는 ETF의 기반 자산(예: TSLA, NVDA ..",
+  "modified_time": "2025-01-23T10:21:19+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "📢 YieldMax ETF, 새로운 배당 소식 전합니다!2025년 1월 22일 – YieldMax가 FEAT, FIVY, YBIT 등 여러 ETF의 배당금 소식을 발표했습니다. 투자자 여러분께 도움이 될 정보를 간단하고 친근하게 정리했어요. 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금FEAT$2.1944FIVY$1.6771YBIT$0.7893YMAX$0.1720YMAG$0.1002💡 참고: 배당금은 2025년 1월 21일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 크게 변동될 수 있으며, 지급되지 않을 가능성도 있어요.2️⃣ 기초 자산 배당금과는 다릅니다.투자자는 ETF의 기반 자산(예: TSLA, NVDA ..",
+  "og_title": "💰 YieldMax™ 1월 배당 발표 – FEAT($2.1944), FIVY($1.6771) 포함 주요 ETF 업데이트!",
+  "post_id": "151",
+  "published_time": "2025-01-23T10:21:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "💰 YieldMax™ 1월 배당 발표 – FEAT($2.1944), FIVY($1.6771) 포함 주요 ETF 업데이트!",
+  "url": "https://mystock-note.tistory.com/151"
+}

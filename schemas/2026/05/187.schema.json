@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T10:35:27+09:00",
+    "datePublished": "2026-05-15T09:15:02+09:00",
+    "description": "핵심 요약: 월배당 ETF를 비교할 때는 월 분배금이나 분배율만 보면 안 됩니다. 배당성장형, 커버드콜형, 리츠형, 채권형 월배당 ETF는 분배금이 나오는 구조와 위험 요인이 다릅니다. 투자자는 분배 재원, NAV 추이, 기준가격, 총수익률, 총비용, 환율 노출, 커버드콜 전략 여부를 함께 확인해야 합니다.자료 기준일은 2026년 5월 14일입니다. 본문은 금융감독원 ETF 투자 유의사항, 전국투자자교육협의회 ETF 분배금 설명, KODEX 2026년 4월 월배당 ETF 자료, 각 운용사 공식 상품 자료를 참고해 작성했습니다. ETF 정보는 기준일 이후 변경될 수 있으므로 실제 투자 전에는 운용사 공식 상품 페이지와 투자설명서를 다시 확인해야 합니다.월배당 ETF는 어떤 ETF인가요?월배당 ETF는 매월..",
+    "headline": "월배당 ETF 비교 기준: 배당성장, 커버드콜, 리츠, 채권형 무엇이 다를까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/187",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/187"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "datePublished": "2026-05-15T09:00:00+09:00",
+    "description": "월배당 ETF를 비교할 때는 분배율이나 월 분배금만 보면 안 됩니다. 배당성장형, 커버드콜형, 리츠형, 채권형 월배당 ETF의 차이와 분배 재원, NAV 추이, 총수익률, 비용, 환율 노출, 연금계좌 적합성을 기준으로 정리했습니다.",
+    "headline": "월배당 ETF 비교 기준: 배당성장, 커버드콜, 리츠, 채권형 무엇이 다를까?",
+    "url": "https://mystock-note.tistory.com/187"
+  }
+]

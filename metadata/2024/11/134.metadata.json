@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 3921,
+  "canonical_url": "https://mystock-note.tistory.com/134",
+  "content_hash": "81ad07df77b543879ad15094e4828417d9a0a49025b1632925967e12825f2059",
+  "json_ld_count": 0,
+  "meta_description": "오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..",
+  "modified_time": "2024-11-23T10:51:59+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/134\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/134\",\"headline\":\"비트코인, $100,000 돌파 실패!\",\"description\":\"오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb1fOWA%2FbtsKUv1ybhO%2FAAAAAAAAAAAAAAAAAAAAAAKnZg5WN3t5GfGYRY59v4vzyVq1NuVfvCWeENEfkDzH%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dvk3hbTQ%252BLpC%252F0%252Fzylk8tv78cAjQ%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2024-11-23T10:51:59+09:00\",\"dateModified\":\"2024-11-23T10:51:59+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..",
+  "og_title": "비트코인, $100,000 돌파 실패!",
+  "post_id": "134",
+  "published_time": "2024-11-23T10:51:59+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "비트코인, $100,000 돌파 실패!",
+  "url": "https://mystock-note.tistory.com/134"
+}

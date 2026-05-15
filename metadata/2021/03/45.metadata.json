@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 10722,
+  "canonical_url": "https://mystock-note.tistory.com/45",
+  "content_hash": "32456713d521eb2b19cd93b58247326e7fb4d11be588c87c3ee136c0840276dd",
+  "json_ld_count": 0,
+  "meta_description": "유가증권 - 주식 => 지분증권(배당/ 투자금반환) / 사채, 공채, 지방채 => 채무증권 (이자/ 원금상환) 1. 단기매매증권 : 단기보유목적, 시장성, 2. 만기보유증권 : 만기보유목적, \"주식불가\" 3. 매도가능증권 : 장기투자목적, 4. 지분법적용투자주식 : 지분 20%이상, \"주식만가능\" 수수료 기말평가 단기매매증권 수수료비용 (영업외비용) 공정가액 만기보유증권 자산합산 x (상각후가액) 매도가능증권 자산합산 공정가액 지분법적용투자주식 자산합산 지분법평가 처분손익 = 처분가액 - 장부가액 평가손익 = 공정가액 - 장부가액 1. (차) 단기매매증권 50,000 / (대) 현금 51,000 수수료비용(영.외) 10,000 2. (차) 현금 30,000 / (대) 단기매매증권 25,000 단기매매증권..",
+  "modified_time": "2021-05-19T15:47:09+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/45\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/45\",\"headline\":\"유가증권, 매출채권\",\"description\":\"유가증권 - 주식 => 지분증권(배당/ 투자금반환) / 사채, 공채, 지방채 => 채무증권 (이자/ 원금상환) 1. 단기매매증권 : 단기보유목적, 시장성, 2. 만기보유증권 : 만기보유목적, \"주식불가\" 3. 매도가능증권 : 장기투자목적, 4. 지분법적용투자주식 : 지분 20%이상, \"주식만가능\" 수수료 기말평가 단기매매증권 수수료비용 (영업외비용) 공정가액 만기보유증권 자산합산 x (상각후가액) 매도가능증권 자산합산 공정가액 지분법적용투자주식 자산합산 지분법평가 처분손익 = 처분가액 - 장부가액 평가손익 = 공정가액 - 장부가액 1. (차) 단기매매증권 50,000 / (대) 현금 51,000 수수료비용(영.외) 10,000 2. (차) 현금 30,000 / (대) 단기매매증권 25,000 단기매매증권..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqrZeH%2FbtqZ1bhLDOp%2FAAAAAAAAAAAAAAAAAAAAAGEzysmiQjKv1dJX5Tcl0O-ibeHC2xfvM1g6nOEsE2zx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DnnHBy7yjgBLYSY7q2U4McMHviVQ%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2021-03-15T04:33:47+09:00\",\"dateModified\":\"2021-05-19T15:47:09+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "유가증권 - 주식 => 지분증권(배당/ 투자금반환) / 사채, 공채, 지방채 => 채무증권 (이자/ 원금상환) 1. 단기매매증권 : 단기보유목적, 시장성, 2. 만기보유증권 : 만기보유목적, \"주식불가\" 3. 매도가능증권 : 장기투자목적, 4. 지분법적용투자주식 : 지분 20%이상, \"주식만가능\" 수수료 기말평가 단기매매증권 수수료비용 (영업외비용) 공정가액 만기보유증권 자산합산 x (상각후가액) 매도가능증권 자산합산 공정가액 지분법적용투자주식 자산합산 지분법평가 처분손익 = 처분가액 - 장부가액 평가손익 = 공정가액 - 장부가액 1. (차) 단기매매증권 50,000 / (대) 현금 51,000 수수료비용(영.외) 10,000 2. (차) 현금 30,000 / (대) 단기매매증권 25,000 단기매매증권..",
+  "og_title": "유가증권, 매출채권",
+  "post_id": "45",
+  "published_time": "2021-03-15T04:33:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "유가증권, 매출채권",
+  "url": "https://mystock-note.tistory.com/45"
+}

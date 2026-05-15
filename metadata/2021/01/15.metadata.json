@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4696,
+  "canonical_url": "https://mystock-note.tistory.com/15",
+  "content_hash": "a441742de9ec2847627d585841c456a36bf194e6be263a1baa1099365fa13559",
+  "json_ld_count": 1,
+  "meta_description": "모두가 잘 알고 있는 IPOE에 대해서 분석해 보겠다. 글을 작성하는 시점에도 이미 IPOE를 매수해 두었으며, 주가가 하락한다면 다른 주식을 팔아서라도 들어갈 예정이다. IPOE 즉, SoFi와 DA가 확정된 SPAC 주식이다. 여기서 SPAC 주식은 정식적인 IPO 절차를 밟기보다는 우회로 상장하는 개념을 가지고 가면 좋다. 정상적으로 IPO 상장을 하게 된다면 짧으면 약 12개월 정도 걸리며 더 오래 기간이 소요된다. 그렇지만 SPAC 상장은 짧은시간에 상장을 하여 자금을 모으기 위한 형태로 보인다. 요즘 많은 기업들이 SPAC 상장을 하면서 핫한 주식들이 많이 상장되고 있다. 예로 ACTC, CCIV, IPOE 벌써 3 대장이 상장을 하려고 한다. 그리고 SPAC IPO 시리즈는 차마스 형님께서 ..",
+  "modified_time": "2021-05-19T15:43:06+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "모두가 잘 알고 있는 IPOE에 대해서 분석해 보겠다. 글을 작성하는 시점에도 이미 IPOE를 매수해 두었으며, 주가가 하락한다면 다른 주식을 팔아서라도 들어갈 예정이다. IPOE 즉, SoFi와 DA가 확정된 SPAC 주식이다. 여기서 SPAC 주식은 정식적인 IPO 절차를 밟기보다는 우회로 상장하는 개념을 가지고 가면 좋다. 정상적으로 IPO 상장을 하게 된다면 짧으면 약 12개월 정도 걸리며 더 오래 기간이 소요된다. 그렇지만 SPAC 상장은 짧은시간에 상장을 하여 자금을 모으기 위한 형태로 보인다. 요즘 많은 기업들이 SPAC 상장을 하면서 핫한 주식들이 많이 상장되고 있다. 예로 ACTC, CCIV, IPOE 벌써 3 대장이 상장을 하려고 한다. 그리고 SPAC IPO 시리즈는 차마스 형님께서 ..",
+  "og_title": "IPOE(Social Capital Hedosophia Holdings VCorp): 1편",
+  "post_id": "15",
+  "published_time": "2021-01-18T02:45:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IPOE(Social Capital Hedosophia Holdings VCorp): 1편",
+  "url": "https://mystock-note.tistory.com/15"
+}

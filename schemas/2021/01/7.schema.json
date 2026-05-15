@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:41+09:00",
+  "datePublished": "2021-01-17T21:17:00+09:00",
+  "description": "월 50만 원 투자를 목표로 했기 때문에 저번 달에 160만 원 입금해서 7월에는 43만 원 정도만 입금했다. 7월에도 뭐 그냥 존버하는 거다. 그래도 총 -140만원에서 40만 원 이득을 봐서 -100만 원이 됐다. 남들은 계속 수익보고 있지만 나는 아직도 손실중이다..",
+  "headline": "20년 7월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FlG6zV%2FbtqTJnCbxuD%2FAAAAAAAAAAAAAAAAAAAAAFEVR-QKmUbuOsQYzU4qVgiiVCucbLunxGw47ufzjo8Z%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252F8NSka%252BDPRySqLYbkXIXj2UxLUY%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/7",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/7"
+}

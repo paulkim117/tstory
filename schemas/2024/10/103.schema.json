@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-10-31T11:06:11+09:00",
+  "datePublished": "2024-10-30T20:58:47+09:00",
+  "description": "10월 29일, 미국의 주요 기업들이 3분기 실적을 발표하며 각자의 성장과 도전 과제를 공개했습니다. 이번 실적 발표는 특히 기술, 제약, 소비재 부문에서 다양한 결과를 보였는데요, AMD, Pfizer, McDonald's의 실적과 향후 전망을 통해 각 업종의 성과와 향후 전략을 살펴보겠습니다.1. AMD (Advanced Micro Devices Inc.)성과 요약AMD는 이번 분기에서 67억 달러의 매출과 주당순이익 0.92달러를 기록하여 시장 예상과 일치했습니다. 데이터 센터와 AI 칩 부문에서의 수요는 강세를 보였으나, 소비자용 반도체 수요가 약세를 보이며 전체 성과에는 일부 제한이 있었습니다.어닝콜 요약경영진은 데이터 센터와 AI 제품 라인 확장을 위한 투자 계획을 발표하며, 고성능 칩 개발을..",
+  "headline": "AMD, Pfizer, McDonald's의 3분기 성적표: 시장 기대 그 이상인가?",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcv63ah%2FbtsKoRyHvmm%2FAAAAAAAAAAAAAAAAAAAAAJKvO3x_Q-lnw20ISfqNDdqVm0j03AbAn8KiZQNFTrml%2Fimg.webp%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DaxcA1RuPq5tYh8%252BQFGXQkJ6ft1Q%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/103",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/103"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4635,
+  "canonical_url": "https://mystock-note.tistory.com/63",
+  "content_hash": "a47490d093c70cd718217c5aee4e9393043d463999de60bc8c9f9832dc6b6543",
+  "json_ld_count": 1,
+  "meta_description": "이번주도 횡보하는 지루한 장이였다. 해당 수익은 himx와 ipoe를 좀 팔고 저점에서 판 물량만큼 추가 매수해 평단을 낮추고 있음금요일 장의 이슈는 중국 주식의 펌핑과 디스커버리의 블록딜이 터지면서 급락하는 모습을 보여주었다. 대부분의 중국주식이 힘을 못쓰고 나스닥은 횡보하니 정말 지루하네 Holing list Actc Fvrr Himx Ipoe Ipof 보유주식은 아직 변함이 없지만 Actc수량이 점차 늘어나면서 익절 구간이 온다면 조금 매도할 계획",
+  "modified_time": "2021-04-13T15:40:10+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "이번주도 횡보하는 지루한 장이였다. 해당 수익은 himx와 ipoe를 좀 팔고 저점에서 판 물량만큼 추가 매수해 평단을 낮추고 있음금요일 장의 이슈는 중국 주식의 펌핑과 디스커버리의 블록딜이 터지면서 급락하는 모습을 보여주었다. 대부분의 중국주식이 힘을 못쓰고 나스닥은 횡보하니 정말 지루하네 Holing list Actc Fvrr Himx Ipoe Ipof 보유주식은 아직 변함이 없지만 Actc수량이 점차 늘어나면서 익절 구간이 온다면 조금 매도할 계획",
+  "og_title": "3월 4주차",
+  "post_id": "63",
+  "published_time": "2021-03-28T21:58:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "3월 4주차",
+  "url": "https://mystock-note.tistory.com/63"
+}

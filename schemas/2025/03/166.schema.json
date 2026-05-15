@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2025-03-07T15:37:25+09:00",
+  "datePublished": "2025-03-07T15:37:25+09:00",
+  "description": "📢 YieldMax가 또 한 번 혁신을 선보입니다!이번에는 러셀 2000(Russell 2000) 지수 기반의 0DTE(제로 만기) 커버드 콜 전략 ETF, RDTY를 새롭게 출시했습니다.📍 Nasdaq: RDTY📍 첫 주간 배당 발표 예정일: 2025년 3월 19일💡 RDTY란? 어떤 ETF인가요?✅ 러셀 2000 지수 기반🔹 미국의 대표적인 소형주(Small-cap) 지수🔹 다양한 산업군(기술, 헬스케어, 금융 등) 포함✅ 0DTE(제로 만기) 옵션 활용🔹 매일 만료되는 옵션(0DTE) 활용 → 단기적인 추가 수익 창출🔹 매일 아침 OTM(외가격) 콜옵션 매도 & 매수 → 수익 + 손실 방지 전략✅ 주간 배당(Weekly Payout)🔹 배당 지급 빈도: 매주!🔹 주간 수익 창출을 ..",
+  "headline": "🔥 YieldMax 신상품 출시! – RDTY, 주간 배당 지급하는 R2000 0DTE ETF 🚀",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb9eaaz%2FbtsMC25DA5J%2FAAAAAAAAAAAAAAAAAAAAAPKaIcL44P2iUwr-eExwBBfLAkXgWYEUxerE_byPyC0h%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DKZHqZ2IpLL2mustOleRHTrCIFCA%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/166",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/166"
+}

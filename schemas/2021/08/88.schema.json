@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-30T13:29:13+09:00",
+  "datePublished": "2021-08-30T13:29:13+09:00",
+  "description": "1. 분석 문제 정의 개요 분석 과제는 해결해야 할 다양한 문제들을 데이터 분석 문제로 변환하여 분석 프로젝트로 수행할 수 있는 과제정의서 형태로 도출한다. 문제가 먼저 주어지고 이에 대한 해법을 찾아가는 하향식 접근 방식과 데이터를 기반으로 문제의 재정의 및 해결방안을 탐색하는 상향식 접근 방식이 있다. 동적인 환경에서 발산과 수렴 단계를 반복적으로 수행하며 상호 보완을 통해 분석의 가치를 극대화할 수 있다. 상향식 접근 방식의 발산(Diverge) 단계 : 가능한 옵션을 도출 하향식 접근 방식의 수렴(Converge) 단계 : 도출된 옵션을 분석하고 검증 분석 과제 정의서는 다양한 방식으로 도출한 분석 과제들을 명확하게 정의하여 상세하게 작성한다. - 필요한 데이터, 데이터 수집과 분석 난이도, 분석..",
+  "headline": "[빅데이터분석기사] 분석 방안 수립, 분석 문제 정의 개요",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FOP0TK%2FbtrdzPd3S2I%2FAAAAAAAAAAAAAAAAAAAAAPYP6rcuvn-zRahUztsujXWrWP7v3zqB5H9yi4lQ974A%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DbkMUDv6C9MIOIsRVE8M%252FunSwjNI%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/88",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/88"
+}

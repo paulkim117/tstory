@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:28+09:00",
+  "datePublished": "2021-02-20T14:05:45+09:00",
+  "description": "근본주는 이번 주에 별로 변동성이 없었겠지만 테마주를 주로 타고 있는 계좌여서 변동폭이 꽤 심했다 나름 조정이라고 추매를 하긴 했지만 otc를 잘 못 건든 바람에 실현손익이 녹아버렸다. 뭐 나름 1월달에 많이 익절 해서 내 기준에서는 충분한 수익권이었지만 이번 주에 otc주들을 손절하면서 아이패드 하나가 삭제된 기분이 들어서 머리가 띵했다.. 뭐 이번주에는 다른 게 없다.. 새로 진입하고 물린 거는 그냥 계속 물 탔다. -HOLDING LIST- ACTC -> 근본주 같이 움직임 AREC -> 슬슬 매집하고 거래량도 없다 그냥 다 존버 하는 듯 나도 씹 존버 BB -> 이건 뭐 다른 거 탈출해도 음전일 듯.. 그냥 계속 물 탈 듯 HIMX -> 디스플레이와 AR 관련 15.8에 매수, 꾸준히 매집해서 연..",
+  "headline": "2월 3주차",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FMDkWs%2FbtqX0p9dbee%2FAAAAAAAAAAAAAAAAAAAAANaeENvXDPcBvTMGf2nT1EaEXS3oxE91igduyF6fhrb_%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FRpzJlrBY1MCYVdBqRud8iRfKAs%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/25",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/25"
+}

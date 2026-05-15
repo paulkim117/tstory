@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-14T14:14:38+09:00",
+  "datePublished": "2024-11-14T14:14:38+09:00",
+  "description": "안녕하세요! 요즘 우리 주변에서 ‘은퇴 준비’, ‘퇴직연금’이라는 말이 점점 더 많이 들리죠? 특히나 평균 연령대가 높아지면서 노후 대비가 더 중요한 화두가 되고 있는데요. 단순히 예적금에만 의존하기보다는 꾸준히 현금 흐름을 만들어주는 투자 방법들이 주목받고 있습니다. 그래서 오늘은 마치 ‘월급’처럼 매달 안정적인 수익을 만들어줄 수 있는 배당형 ETF와 커버드콜 ETF에 대해 소개하려고 합니다.배당형 ETF와 커버드콜 ETF는 매달, 또는 분기마다 배당금을 지급해 주기 때문에 은퇴 준비뿐 아니라 추가적인 소득이 필요한 모든 분들께 추천할 수 있는 좋은 투자 방법이에요. 그럼, 각기 어떤 특징이 있고, 어떤 ETF들이 매력적인지 자세히 살펴볼까요?📌 매달 수익 받는 배당형 ETF란?배당형 ETF는 투자..",
+  "headline": "📅 은퇴 준비는 이제 선택이 아닌 필수! “매달 받는 월급 같은 ETF”로 안정적인 현금 흐름 만들기 💸",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/123",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/123"
+}

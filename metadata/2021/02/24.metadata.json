@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 1982,
+  "canonical_url": "https://mystock-note.tistory.com/24",
+  "content_hash": "d4afe44e82c7eda59af63d41dd980bb09a8fa152636e0a7c198302021656de5c",
+  "json_ld_count": 1,
+  "meta_description": "IPO -> S-1 DA -> 8K 2 weeks later -> S-4 or Proxy 1 month later -> S-4 amended 2 weeks later -> Voting Date Revealed 1 month later -> Vote",
+  "modified_time": "2021-05-19T14:26:28+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IPO -> S-1 DA -> 8K 2 weeks later -> S-4 or Proxy 1 month later -> S-4 amended 2 weeks later -> Voting Date Revealed 1 month later -> Vote",
+  "og_title": "<SPAC - Process>",
+  "post_id": "24",
+  "published_time": "2021-02-18T22:57:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "<SPAC - Process>",
+  "url": "https://mystock-note.tistory.com/24"
+}

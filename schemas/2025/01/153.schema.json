@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2025-01-30T02:54:21+09:00",
+  "datePublished": "2025-01-30T02:54:11+09:00",
+  "description": "📢 YieldMax ETF, 새로운 배당금 발표!2025년 1월 29일 – YieldMax가 PLTY, MARO, NVDY 등 주간 배당 ETF 및 그룹 B ETF의 배당금을 발표했습니다.투자자 여러분께 도움이 될 정보를 쉽고 친근하게 정리해 드릴게요! 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금PLTY$2.9826MARO$2.1002NVDY$0.8294YMAX$0.1469YMAG$0.1898💡 참고: 배당금은 2025년 1월 28일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 매번 달라질 수 있어요.배당금은 시장 상황과 ETF 전략에 따라 매달 변동될 수 있으며, 어떤 달에는 지급되지 않을 수도 있습니다.2️⃣ 기초 자산의 배당금과는 다릅니..",
+  "headline": "💰 YieldMax 1월 배당 발표 – PLTY($2.9826), MARO($2.1002), NVDY($0.8294) 포함 주요 ETF!",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FDKkaP%2FbtsL3OrE1gf%2FAAAAAAAAAAAAAAAAAAAAAMYNaszrMq9XK_POdXxWgOpPQ-EM0yqhCF4LY2jPoKno%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DiwSjbCaSE0LiuGjN4%252BU4NUYY1Ug%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/153",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/153"
+}

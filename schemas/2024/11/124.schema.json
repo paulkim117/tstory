@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2024-11-14T14:25:50+09:00",
+  "datePublished": "2024-11-14T14:25:50+09:00",
+  "description": "서울시는 교통 혼잡을 해결하고 이동 편의를 높이기 위해 2030년 도심항공교통(UAM) 상용화를 목표로 하고 있습니다. 한강 일대에서 UAM 실증 사업을 시작으로 관광, 의료, 비즈니스 노선을 단계적으로 구축할 예정인데요. 도로 위가 아닌 하늘을 통한 새로운 교통 수단으로 서울을 입체적 교통망으로 연결하려는 계획입니다. 이와 같은 서울시의 UAM 추진 배경에는 자율 항공기와 친환경 전기 항공기 분야에서 두각을 나타내고 있는 글로벌 선도 기업들, **이항(EHang)**과 **조비(Joby)**의 최신 기술력이 자리하고 있습니다.📌 UAM 시장의 선두주자: 이항과 조보이이항(EHang)의 최신 동향중국 기반의 **이항(EHang)**은 도심 자율 항공 기술을 선도하는 기업으로, EH216 자율 항공기를 ..",
+  "headline": "🚀 서울의 하늘을 열다: 도심항공교통(UAM)으로 미래 이동 혁신 시작",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/124",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/124"
+}

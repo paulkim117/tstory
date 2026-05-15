@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-05-19T14:26:39+09:00",
+  "datePublished": "2021-01-17T21:22:01+09:00",
+  "description": "12월에 TSLA 수익실현과 ENPH, ROKU, APPL, CRM 스윙을 하며 추가 수익을 냈다. 55만 원 추가 입금 2020년 결론 바보 같은 매매로 인해 남들 엄청 수익 날 때 꼴랑 33만 원 벌었다... 그렇지만 시드머니도 1천만원으로 모이면서 어느 정도 수익을 낼 수 있는 예수금을 장만했다. 예전에는 차트에서 사람들의 환희와 울분이 녹아져있는지 몰랐다. 1~2% 오르고 내리는 것을 반복하는 데 있어 시드가 점점 늘어날수록 더욱 민감해졌다. 과연 내가 시드가 1억이 넘었을 때 이런 매매를 한다면 버틸 수 있고 또 BULL장이라 손실을 보지 않고 한해를 마감할 수 있었다는 점에서 다시 한번 되돌아본다.",
+  "headline": "20년 12월",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FXfWzU%2FbtqTIpfVnm4%2FAAAAAAAAAAAAAAAAAAAAADSsKc2pVneTWDJ-vxPxW1Wqiy6TDk7RlW79xQ85q8kj%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DXb7bIYcygriUwWv6cay5WaAOf%252F8%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/12",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/12"
+}

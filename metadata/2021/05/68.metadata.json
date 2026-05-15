@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-05-15",
+  "body_html_length": 4967,
+  "canonical_url": "https://mystock-note.tistory.com/68",
+  "content_hash": "9aff329e84081668dfbdc708e45b6d419575c190a395b292fd1493bccfa1846a",
+  "json_ld_count": 0,
+  "meta_description": "1. 과세물건 \"수입물품에는 관세를 부과한다.\" (관세법 제14조) 수입되는 물품이 아닌 수출물품이나 통과화물은 과세대상이 아니다. 유체물이 아닌 무체물은 원칙적으로 과세대상이 아니다. 무체물 주에서도 전기에너지가 관세율표에 계기되어 있으므로 과세대상이며, 지식재산권 사용료도 그 자체로는 과세물건이 되지는 않으나 과세가격 규정에 따라 과세 대상에 포함되기도 한다. 2. 과세물건 확정시기 원칙적인 과세물건 확정시기 - 수임신고를 하는 물품인 경우 관세는 수입신고를 하는 때의 물품의 성질과 그 수량에 따라 부과한다. - 원료과세 대상물품 보세공장에서 제조된 물품을 수입하는 경우로서 원료과세를 신청한 경우에는 사용신고를 할 때의 그 원료의 성질 및 수량에 따라 관세를 부과한다. 예외적인 과세물건 확정시기 수입..",
+  "modified_time": "2021-05-19T15:36:28+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/68\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/68\",\"headline\":\"과세물건\",\"description\":\"1. 과세물건 \"수입물품에는 관세를 부과한다.\" (관세법 제14조) 수입되는 물품이 아닌 수출물품이나 통과화물은 과세대상이 아니다. 유체물이 아닌 무체물은 원칙적으로 과세대상이 아니다. 무체물 주에서도 전기에너지가 관세율표에 계기되어 있으므로 과세대상이며, 지식재산권 사용료도 그 자체로는 과세물건이 되지는 않으나 과세가격 규정에 따라 과세 대상에 포함되기도 한다. 2. 과세물건 확정시기 원칙적인 과세물건 확정시기 - 수임신고를 하는 물품인 경우 관세는 수입신고를 하는 때의 물품의 성질과 그 수량에 따라 부과한다. - 원료과세 대상물품 보세공장에서 제조된 물품을 수입하는 경우로서 원료과세를 신청한 경우에는 사용신고를 할 때의 그 원료의 성질 및 수량에 따라 관세를 부과한다. 예외적인 과세물건 확정시기 수입..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbJ0FVk%2Fbtq5i3jTtPM%2FAAAAAAAAAAAAAAAAAAAAAFAB5vMAdHOs-BfjpoQpYODSQL4aqdaL6IOrilFXchN-%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FhRyZeTlpC3t0Je8hXnJw3EEFIU%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2021-05-19T15:11:33+09:00\",\"dateModified\":\"2021-05-19T15:36:28+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "1. 과세물건 \"수입물품에는 관세를 부과한다.\" (관세법 제14조) 수입되는 물품이 아닌 수출물품이나 통과화물은 과세대상이 아니다. 유체물이 아닌 무체물은 원칙적으로 과세대상이 아니다. 무체물 주에서도 전기에너지가 관세율표에 계기되어 있으므로 과세대상이며, 지식재산권 사용료도 그 자체로는 과세물건이 되지는 않으나 과세가격 규정에 따라 과세 대상에 포함되기도 한다. 2. 과세물건 확정시기 원칙적인 과세물건 확정시기 - 수임신고를 하는 물품인 경우 관세는 수입신고를 하는 때의 물품의 성질과 그 수량에 따라 부과한다. - 원료과세 대상물품 보세공장에서 제조된 물품을 수입하는 경우로서 원료과세를 신청한 경우에는 사용신고를 할 때의 그 원료의 성질 및 수량에 따라 관세를 부과한다. 예외적인 과세물건 확정시기 수입..",
+  "og_title": "과세물건",
+  "post_id": "68",
+  "published_time": "2021-05-19T15:11:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "과세물건",
+  "url": "https://mystock-note.tistory.com/68"
+}

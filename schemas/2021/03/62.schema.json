@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-04-13T15:40:10+09:00",
+  "datePublished": "2021-03-23T22:26:13+09:00",
+  "description": "매입세액 불공제 - 불공 1. 세금계산서 불성실 - 기재 X, 의무이행 X 2. 납부세액 = 매출세액 - 매입세액 매출세액 = 공금가액 X 10% 매입세액 = 매입체별 세금계산서 합계표상의 매입세액 3. 사업과 무관한 자산 4. 비영업용 소형승용차의 구입, 임차 유지 - 비영업용 - 판매차, 운전학원차, 렌터카가 아닌 자동차 - 소형승용차 소형 - 8인승 이하 경차제외 - 1,000cc 이하 트럭제외 5. 접대비 관련 6. 면세사업관련 7. 토지 8. 틍록된 매입 세액 의제매입세액 공제 면세 농축수임산물 -> 과세재화 부가가치세법상 적격증빙 => 매입세액 공제가능 세금계산서 신용카드 현금영수증 직수출 -> 교부 X 내국신용장(Local L/C), 구매확인서 -교부 O",
+  "headline": "매입세입 불공제와 안분계산",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FnheHq%2Fbtq0OjsB4oH%2FAAAAAAAAAAAAAAAAAAAAAEp870sXHcF0ZuuuRWS4JGTs0UV6YVyH1krrJxuUfqQV%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DwndnAw7S9GdzENJM%252B1sm3LP54zg%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/62",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/62"
+}

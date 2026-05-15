@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "logo": null,
+    "name": "Blackshoot"
+  },
+  "dateModified": "2021-08-31T07:29:07+09:00",
+  "datePublished": "2021-08-12T13:52:29+09:00",
+  "description": "1. 빅데이터 처리과정과 요소기술 데이터베이스나 파일 관리 시스템과 같은 내부 데이터가 있다. 인터넷으로 연결된 외부로부터 생성된 파일이나 데이터가 있다. 크롤링을 통해 데이터 원천으로부터 데이터를 검색하여 수집한다. ETL을 통해 소스 데이터로부터 추출하고, 변환하여, 적재한다. 단순한 수집이 아니라 검색 및 수집, 변환 과정을 모두 포함한다. 로그 수집기나, 센서 네트워크 및 Open API 등을 활용할 수 있다. 저렴한 비용으로 데이터를 쉽고 빠르게 많이 저장한다. 정형 데이터뿐만 아니라 반정형, 비정형 데이터도 포함한다. 병렬 DBMS나 하둡, NoSQL 등 다양한 기술을 사용할 수 있다. 시스템 간의 데이터를 서로 공유 가능하다. 데이터를 효과적으로 처리하는 기술이 필요한 단계이다. 분산 병렬 ..",
+  "headline": "[빅데이터분석기사] 빅데이터 기술 및 제도, 빅데이터 처리기술",
+  "image": {
+    "@type": "ImageObject",
+    "height": "800px",
+    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzXk8V%2FbtrbXiIvkC4%2FAAAAAAAAAAAAAAAAAAAAAFrbkbxovyr7QLh1ny33GovbEdLT6Nv92orHvwY7I5vN%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DGq10AzV0qzPDf1gGfzUlYbSN%252BWc%253D",
+    "width": "800px"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/80",
+    "name": null
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "width": "800px"
+    },
+    "name": "TISTORY"
+  },
+  "url": "https://mystock-note.tistory.com/80"
+}
