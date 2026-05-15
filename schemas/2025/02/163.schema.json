@@ -1,0 +1,99 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:32:46+09:00",
+    "datePublished": "2025-02-26T21:06:10+09:00",
+    "description": "핵심 요약: YieldMax 주간 배당 ETF의 Distribution Rate는 높은 숫자만 보고 판단하면 안 됩니다. 2026년 5월 공식 발표 기준 BABO, PLTY, NVDY, YMAX, YMAG는 모두 50% 안팎 또는 그 이상의 Distribution Rate를 표시했지만, 이 수치는 최근 분배금을 연율화한 참고 지표입니다. 투자자는 분배금보다 30-Day SEC Yield, ROC, NAV, 옵션 전략, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2026년 5월 12일 Group 1 업데이트 공시, 2026년 5월 13일 Group 2 주간 분배금 공시, YieldMax 공식 ETF 페이지, YieldMax ..",
+    "headline": "YieldMax 주간 배당 발표 해석: BABO·PLTY·NVDY·YMAX·YMAG 고분배는 확정 수익일까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FFc9ID%2FbtsMx2wPAl0%2FAAAAAAAAAAAAAAAAAAAAAOHr8Q9LJa6l1WDB305KEEyeiv4X-kaXuCTUgcSaKKdz%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DNipawvnWQi2lEApexheLWqzhlnw%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/163",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/163"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "datePublished": "2026-05-15T09:00:00+09:00",
+    "description": "2026년 5월 YieldMax 주간 배당 발표를 기준으로 BABO, PLTY, NVDY, YMAX, YMAG의 분배금과 Distribution Rate를 정리합니다. 50% 이상 고분배율이 확정 수익률이 아닌 이유와 30-Day SEC Yield, ROC, NAV, Short ETF 위험을 함께 설명합니다.",
+    "headline": "YieldMax 주간 배당 발표 해석: BABO·PLTY·NVDY·YMAX·YMAG 고분배는 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/163"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Distribution Rate는 최근 분배금을 기준으로 연율화한 지표입니다. 일반적인 의미의 확정 배당률이나 향후 수익률 보장은 아닙니다."
+        },
+        "name": "YieldMax ETF의 Distribution Rate는 배당률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "두 지표의 계산 방식이 다르기 때문입니다. 30-Day SEC Yield는 최근 30일 순투자소득을 기준으로 하고, Distribution Rate는 최근 분배금을 연율화해 계산합니다."
+        },
+        "name": "30-Day SEC Yield가 낮은데 Distribution Rate가 높은 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "ROC가 높다고 해서 무조건 나쁘다고 단정할 수는 없습니다. 다만 분배금의 상당 부분이 자본 반환으로 구성되면 NAV, 시장가격, 장기 총수익률을 반드시 함께 확인해야 합니다."
+        },
+        "name": "ROC가 높으면 무조건 나쁜가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Short ETF는 기초자산 또는 기준지수 하락에 유리한 구조를 목표로 합니다. 반대로 기초자산이 상승하면 손실이 발생할 수 있으므로 일반 고배당 ETF와 같은 방식으로 비교하면 안 됩니다."
+        },
+        "name": "Short ETF는 일반 YieldMax ETF와 무엇이 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YMAX와 YMAG는 여러 YieldMax ETF에 투자하는 펀드오브펀드 성격의 상품입니다. 따라서 개별 단일 종목형 YieldMax ETF와는 비용 구조와 분산 방식이 다릅니다."
+        },
+        "name": "YMAX와 YMAG는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "YieldMax ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 5866,
+  "body_html_length": 6617,
   "canonical_url": "https://mystock-note.tistory.com/145",
-  "content_hash": "c5f9d15b685acd63c69f75084109026af4152a87ec4401a4eefbd501a07a1744",
-  "json_ld_count": 1,
-  "meta_description": "Nasdaq Dorsey Wright 옵션 소득 전략 지수를 추종하는 FEAT와 FIVYYieldMax™ Dorsey Wright Featured 5 Income ETF (티커: FEAT)YieldMax™ Dorsey Wright Hybrid 5 Income ETF (티커: FIVY)이 두 ETF는 Nasdaq Dorsey Wright Tactical Option Income Strategy Index와 Nasdaq Dorsey Wright Tactical Hybrid Option Income Strategy Index를 각각 추종합니다.📊 FEAT와 FIVY의 핵심 특징1️⃣ FEAT (Featured 5 Income ETF)목표: Nasdaq Dorsey Wright Tactical Option I..",
-  "modified_time": "2024-12-17T23:42:12+09:00",
+  "content_hash": "9c51c57cef6e793e6e6fa86c5b9f62fb9f23b62bb9b1e4cc35bcaaf611e50dbb",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: FEAT와 FIVY는 YieldMax가 출시한 Dorsey Wright 기반 옵션 인컴 ETF입니다. FEAT는 Nasdaq Dorsey Wright의 모멘텀 방법론으로 선별된 5개 YieldMax ETF에 집중 투자하는 구조이고, FIVY는 5개 YieldMax ETF 60%와 해당 기초증권 40%를 결합하는 하이브리드 구조입니다. 두 ETF 모두 분배금을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 편입 ETF, 기초증권, NAV, ROC, 총보수, 상승 제한, 하락 손실 가능성을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 17일 FEAT·FIVY 출시 공..",
+  "modified_time": "2026-05-15T22:19:56+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "Nasdaq Dorsey Wright 옵션 소득 전략 지수를 추종하는 FEAT와 FIVYYieldMax™ Dorsey Wright Featured 5 Income ETF (티커: FEAT)YieldMax™ Dorsey Wright Hybrid 5 Income ETF (티커: FIVY)이 두 ETF는 Nasdaq Dorsey Wright Tactical Option Income Strategy Index와 Nasdaq Dorsey Wright Tactical Hybrid Option Income Strategy Index를 각각 추종합니다.📊 FEAT와 FIVY의 핵심 특징1️⃣ FEAT (Featured 5 Income ETF)목표: Nasdaq Dorsey Wright Tactical Option I..",
-  "og_title": "🚀 YieldMax™, 두 개의 새로운 ETF 출시!",
+  "og_description": "핵심 요약: FEAT와 FIVY는 YieldMax가 출시한 Dorsey Wright 기반 옵션 인컴 ETF입니다. FEAT는 Nasdaq Dorsey Wright의 모멘텀 방법론으로 선별된 5개 YieldMax ETF에 집중 투자하는 구조이고, FIVY는 5개 YieldMax ETF 60%와 해당 기초증권 40%를 결합하는 하이브리드 구조입니다. 두 ETF 모두 분배금을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 편입 ETF, 기초증권, NAV, ROC, 총보수, 상승 제한, 하락 손실 가능성을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 17일 FEAT·FIVY 출시 공..",
+  "og_title": "FEAT·FIVY ETF란? YieldMax Dorsey Wright 옵션 인컴 ETF 구조와 배당 해석",
   "post_id": "145",
   "published_time": "2024-12-17T23:42:12+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax™, 두 개의 새로운 ETF 출시!",
+  "title": "FEAT·FIVY ETF란? YieldMax Dorsey Wright 옵션 인컴 ETF 구조와 배당 해석",
   "url": "https://mystock-note.tistory.com/145"
 }

@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3956,
+  "body_html_length": 4372,
   "canonical_url": "https://mystock-note.tistory.com/141",
-  "content_hash": "2f8abdc234254a3944e8e45c7f75f34f379adb6d279a9f1390fbbfb17201d01b",
-  "json_ld_count": 1,
-  "meta_description": "YieldMax™의 새로운 도전: SOXY ETF 출시! 🎉안녕하세요, YieldMax™ 투자자 여러분!오늘 YieldMax™에서 **반도체 옵션 소득 ETF (SOXY)**의 출시를 공식 발표했습니다. 이 새로운 ETF는 반도체 시장에서 수익과 자본 성장을 동시에 추구하며, 투자자들에게 흥미로운 선택지가 될 것입니다.💡 SOXY 한눈에 보기ETF 이름: YieldMax™ Target 12™ Semiconductor Option Income ETF티커 코드: SOXY목표 수익률: 연간 12%의 목표 소득투자 대상: 15~30개의 엄선된 반도체 기업출시일: 2024년 12월 3일🔍 SOXY의 투자 전략반도체 기업 포트폴리오SOXY는 15~30개의 우량 반도체 기업에 직접 투자합니다.포트폴리오 구성 시..",
-  "modified_time": "2024-12-04T11:26:54+09:00",
+  "content_hash": "11c426a5bb8eed169fa6309125d6c99935aa23dfce57cf2953cabb645631a7ec",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: SOXY ETF는 YieldMax Target 12 Semiconductor Option Income ETF입니다. SOXY는 15~30개 반도체 기업에 직접 투자하면서, 해당 포트폴리오 보유종목에 콜 스프레드를 매도해 월간 인컴과 자본 성장을 함께 추구합니다. 2026년 5월 최신 공시 기준 SOXY의 Distribution Rate는 12.00%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 12% 목표 소득보다 반도체 섹터 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax SOXY 공식 상품 페이지, 2026년 5월 5일..",
+  "modified_time": "2026-05-15T22:31:54+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "YieldMax™의 새로운 도전: SOXY ETF 출시! 🎉안녕하세요, YieldMax™ 투자자 여러분!오늘 YieldMax™에서 **반도체 옵션 소득 ETF (SOXY)**의 출시를 공식 발표했습니다. 이 새로운 ETF는 반도체 시장에서 수익과 자본 성장을 동시에 추구하며, 투자자들에게 흥미로운 선택지가 될 것입니다.💡 SOXY 한눈에 보기ETF 이름: YieldMax™ Target 12™ Semiconductor Option Income ETF티커 코드: SOXY목표 수익률: 연간 12%의 목표 소득투자 대상: 15~30개의 엄선된 반도체 기업출시일: 2024년 12월 3일🔍 SOXY의 투자 전략반도체 기업 포트폴리오SOXY는 15~30개의 우량 반도체 기업에 직접 투자합니다.포트폴리오 구성 시..",
-  "og_title": "🚀 YieldMax™ 신상품 출시! 12% 목표 수익률의 SOXY ETF 공개",
+  "og_description": "핵심 요약: SOXY ETF는 YieldMax Target 12 Semiconductor Option Income ETF입니다. SOXY는 15~30개 반도체 기업에 직접 투자하면서, 해당 포트폴리오 보유종목에 콜 스프레드를 매도해 월간 인컴과 자본 성장을 함께 추구합니다. 2026년 5월 최신 공시 기준 SOXY의 Distribution Rate는 12.00%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 12% 목표 소득보다 반도체 섹터 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax SOXY 공식 상품 페이지, 2026년 5월 5일..",
+  "og_title": "SOXY ETF란? YieldMax Target 12 반도체 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "141",
   "published_time": "2024-12-04T11:26:54+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax™ 신상품 출시! 12% 목표 수익률의 SOXY ETF 공개",
+  "title": "SOXY ETF란? YieldMax Target 12 반도체 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/141"
 }

@@ -1,34 +1,90 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-04-04T13:42:19+09:00",
-  "datePublished": "2025-04-04T13:30:25+09:00",
-  "description": "1. 사건 개요관세 정책의 파장:트럼프 대통령이 관세 정책을 강하게 밀어붙이면서 글로벌 공급망에 큰 영향을 준 것 같아요. 관세 인상에 대한 우려 때문에 기업들의 수익성이 떨어질까 봐 불안해진 상황이었고, 결국 4월 3일 나스닥이 급락했네요.시장 반응:뉴스가 터지자마자 투자자들 사이에서 “뭔가 크게 흔들릴 것 같아요”라는 불안감이 퍼지면서, 특히 기술주 중심의 나스닥이 큰 충격을 받은 것 같아요.2. 앞으로 주식 시장을 보는 관점가. 단기 변동성과 중장기 투자단기 변동성:당연히 관세 정책이나 정치 이슈가 나오면 주식 시장은 단기적으로 요동치는 것 같아요. 그래서 뉴스에 너무 흔들리기보다는 “내 포트폴리오는 괜찮겠지?”라는 마음으로 리스크 관리에 집중하는 게 좋을 것 같아요.중장기 투자 관점:이런 정치적 ..",
-  "headline": "트럼프 관세 이슈와 나스닥 급락: 우리 앞으로 주식 시장 보는 법📉📈",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcr0Dmi%2FbtsM8rJ59CG%2FAAAAAAAAAAAAAAAAAAAAAP4aNqCWJwpcKv6pVbndnT861_MWn57asz66_FO1HGIq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DIqGsnesuE%252FEBtVhhQHo5sccJuxg%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/175",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T20:45:27+09:00",
+    "datePublished": "2025-04-04T13:30:25+09:00",
+    "description": "핵심 요약: 2025년 4월 초 미국의 상호관세 발표 이후 나스닥을 포함한 미국 증시는 큰 폭으로 하락했습니다. 관세는 기업의 원가, 공급망, 소비자 가격, 이익률에 영향을 줄 수 있기 때문에 기술주와 글로벌 제조 기업에 특히 민감한 변수입니다. 다만 관세 이슈만 보고 매수·매도를 결정하기보다, 매출 지역, 생산 거점, 이익률, 밸류에이션, 현금흐름, 포트폴리오 비중을 함께 점검해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 백악관 상호관세 발표 자료, Reuters의 2025년 4월 3일 미국 증시 마감 보도, AP·Reuters의 관세 관련 시장 반응 보도, ETF 및 주식시장 투자 위험 관련 자료를 참고해 작성했습니다. 본문은 특정 종목이나 ETF 매수를 권유하는 내용이 아니라, 관..",
+    "headline": "트럼프 관세 쇼크와 나스닥 급락: 기술주 투자자는 무엇을 확인해야 할까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcr0Dmi%2FbtsM8rJ59CG%2FAAAAAAAAAAAAAAAAAAAAAP4aNqCWJwpcKv6pVbndnT861_MWn57asz66_FO1HGIq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DIqGsnesuE%252FEBtVhhQHo5sccJuxg%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/175",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/175"
   },
-  "url": "https://mystock-note.tistory.com/175"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "2025년 4월 트럼프 상호관세 발표 이후 나스닥과 미국 증시가 급락한 이유를 정리합니다. 관세가 기술주, 공급망, 기업 이익률, 나스닥 ETF, 포트폴리오 비중에 어떤 영향을 줄 수 있는지 투자자가 확인해야 할 기준을 설명합니다.",
+    "headline": "트럼프 관세 쇼크와 나스닥 급락: 기술주 투자자는 무엇을 확인해야 할까?",
+    "url": "https://mystock-note.tistory.com/175"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "그렇게 단정할 수 없습니다. 관세는 기술주와 글로벌 공급망 기업에 부담이 될 수 있지만, 시장은 정책 완화, 협상, 금리 전망, 기업 실적에 따라 다시 반등할 수도 있습니다."
+        },
+        "name": "관세가 오르면 나스닥은 계속 하락하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "기술주 중에서도 사업 모델에 따라 영향이 다릅니다. 하드웨어, 반도체, 전자기기 기업은 공급망과 부품 비용 영향을 받을 수 있고, 소프트웨어와 플랫폼 기업은 경기 둔화와 IT 지출 감소 영향을 받을 수 있습니다."
+        },
+        "name": "기술주는 관세에 항상 불리한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "일괄 매도 여부는 보유 기간, 비중, 손실 감내 수준에 따라 다릅니다. 장기 투자자라면 매도보다 비중 점검과 분할 매수 기준 설정이 더 중요할 수 있습니다."
+        },
+        "name": "관세 쇼크 때 나스닥 ETF를 매도해야 하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "인버스 ETF는 단기 헤지 수단이 될 수 있지만 장기 보유에 적합하지 않을 수 있습니다. 특히 레버리지·인버스 ETF는 일일 수익률 기준으로 설계되는 경우가 많아 보유 기간이 길어지면 기대와 다른 성과가 나올 수 있습니다."
+        },
+        "name": "인버스 ETF로 관세 쇼크에 대응해도 되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "기업 관점에서는 매출 지역, 생산 거점, 매출총이익률, 영업이익률, 재고, 가격 전가력이 중요합니다. 포트폴리오 관점에서는 기술주 비중, 미국 주식 비중, 현금 비중, 방어 자산 비중을 확인해야 합니다."
+        },
+        "name": "관세 이슈에서 가장 중요한 지표는 무엇인가요?"
+      }
+    ]
+  }
+]

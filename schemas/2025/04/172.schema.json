@@ -1,34 +1,99 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-04-01T20:16:55+09:00",
-  "datePublished": "2025-04-01T20:16:55+09:00",
-  "description": "BIGY ($0.4582)와 SOXY ($0.4266) 배당 소식 전격 공개2025년 4월 1일 – YieldMax가 오늘 YieldMax Target 12 ETF에 대한 배당 소식을 발표했어요. 이 펀드는 연 12%의 수익 목표를 달성하며 투자자에게 안정적인 소득을 제공하는 것을 목표로 하고 있답니다.핵심 내용 한눈에!• 배당금: BIGY는 $0.4582, SOXY는 $0.4266• 분배율: 2025년 3월 31일 종가 기준으로 계산됨• 참고: 배당은 옵션 수익을 포함하며, 만약 현재 배당 수준이 계속된다면 연 배당률이 이렇게 책정됩니다.주의!– ETF가 배당을 지급한다는 보장은 없어요.– 배당금은 시기에 따라 크게 달라질 수 있으며, 때로는 0원일 수도 있어요.– 투자자는 기초자산의 배당이나 기타 배..",
-  "headline": "YieldMax ETF, 수익 배당 대잔치!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtIWHf%2FbtsM4kYoSwX%2FAAAAAAAAAAAAAAAAAAAAAMGacMK4H62dZXN2Pn5bPbyIJWDwW4UDxVgOZnKTDyia%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DhYh%252Fs3ARoaXjfw2pIgvU%252FrGOkdA%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/172",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T20:56:42+09:00",
+    "datePublished": "2025-04-01T20:16:55+09:00",
+    "description": "핵심 요약: YieldMax Target 12 ETF의 BIGY와 SOXY는 월분배금을 지급하는 옵션 인컴 ETF입니다. 2025년 4월 1일 공시에서 BIGY는 주당 0.4582달러, SOXY는 주당 0.4266달러의 분배금을 발표했고, 두 상품 모두 분배율 12.00%로 표시되었습니다. 그러나 이 12%는 확정 수익률이 아니며, 최근 분배금이 유지된다는 가정으로 계산된 연율화 수치입니다. 투자자는 분배금보다 30-Day SEC Yield, ROC, NAV, 옵션 전략, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 4월 1일 GlobeNewswire 분배금 공시, YieldMax Target 12 공식 상품 페이지, YieldMax Di..",
+    "headline": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY 12% 분배율은 확정 수익일까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtIWHf%2FbtsM4kYoSwX%2FAAAAAAAAAAAAAAAAAAAAAMGacMK4H62dZXN2Pn5bPbyIJWDwW4UDxVgOZnKTDyia%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DhYh%252Fs3ARoaXjfw2pIgvU%252FrGOkdA%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/172",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/172"
   },
-  "url": "https://mystock-note.tistory.com/172"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "datePublished": "2025-04-01T00:00:00+09:00",
+    "description": "YieldMax Target 12 ETF인 BIGY와 SOXY의 2025년 4월 분배금 공시를 해석합니다. BIGY 0.4582달러, SOXY 0.4266달러 분배금과 12% 분배율이 확정 수익률이 아닌 이유, SEC Yield, ROC, NAV, 옵션 전략, 총수익률 확인 기준을 정리했습니다.",
+    "headline": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY 12% 분배율은 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/172"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 12% 분배율은 확정 수익률이 아닙니다. 최근 분배금을 연율화한 계산값이며, 향후 분배금은 시장 환경과 운용 결과에 따라 크게 달라질 수 있습니다."
+        },
+        "name": "BIGY와 SOXY의 12% 분배율은 확정인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2025년 4월 1일 YieldMax 공시 기준입니다. Ex-Date와 Record Date는 2025년 4월 2일, Payment Date는 2025년 4월 3일로 안내되었습니다."
+        },
+        "name": "BIGY 0.4582달러, SOXY 0.4266달러 분배금은 언제 기준인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SOXY는 YieldMax Target 12 Semiconductor Option Income ETF입니다. 반도체 섹터 노출과 옵션 인컴 전략이 결합된 상품으로 이해해야 합니다. 일반 반도체 지수 ETF와는 구조가 다릅니다."
+        },
+        "name": "SOXY는 반도체 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "무조건 나쁘다고 단정할 수는 없습니다. 다만 ROC는 투자원금 반환 성격을 가질 수 있으므로, 순수한 배당이나 이익 분배와 다르게 봐야 합니다. ROC가 높다면 NAV와 총수익률을 반드시 확인해야 합니다."
+        },
+        "name": "ROC가 높으면 무조건 나쁜 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "BIGY와 SOXY는 장기투자에 적합한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "현금흐름이 필요한 투자자가 검토할 수는 있습니다. 그러나 분배금이 보장되지 않고 NAV가 하락할 수 있으므로, 은퇴자금 전체를 Target 12 ETF에 집중하는 방식은 위험할 수 있습니다."
+        },
+        "name": "Target 12 ETF는 은퇴자에게 적합한가요?"
+      }
+    ]
+  }
+]

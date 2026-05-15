@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3677,
+  "body_html_length": 3113,
   "canonical_url": "https://mystock-note.tistory.com/166",
-  "content_hash": "349d05dbf0c6c734885c9974e2474263af596478a876178f9fef9f43add0b46c",
-  "json_ld_count": 1,
-  "meta_description": "📢 YieldMax가 또 한 번 혁신을 선보입니다!이번에는 러셀 2000(Russell 2000) 지수 기반의 0DTE(제로 만기) 커버드 콜 전략 ETF, RDTY를 새롭게 출시했습니다.📍 Nasdaq: RDTY📍 첫 주간 배당 발표 예정일: 2025년 3월 19일💡 RDTY란? 어떤 ETF인가요?✅ 러셀 2000 지수 기반🔹 미국의 대표적인 소형주(Small-cap) 지수🔹 다양한 산업군(기술, 헬스케어, 금융 등) 포함✅ 0DTE(제로 만기) 옵션 활용🔹 매일 만료되는 옵션(0DTE) 활용 → 단기적인 추가 수익 창출🔹 매일 아침 OTM(외가격) 콜옵션 매도 & 매수 → 수익 + 손실 방지 전략✅ 주간 배당(Weekly Payout)🔹 배당 지급 빈도: 매주!🔹 주간 수익 창출을 ..",
-  "modified_time": "2025-03-07T15:37:25+09:00",
+  "content_hash": "551a9848de687a3198593f08f880c485614b3bc99ccc87b2632670e3bac9bb9f",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: RDTY ETF는 YieldMax가 운용하는 Russell 2000 0DTE 커버드콜 전략 ETF입니다. Russell 2000 지수에 대한 노출을 기반으로 당일 만기 옵션, 즉 0DTE 콜옵션 매도 전략을 활용해 주간 분배금을 추구합니다. 다만 RDTY는 소형주 지수 상승에 그대로 참여하는 ETF가 아니며, 상승 수익이 제한될 수 있고 지수가 하락하면 손실이 발생할 수 있습니다. 투자 전에는 분배율, 30-Day SEC Yield, ROC, NAV, 총보수, 0DTE 옵션 전략 위험을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax RDTY 공식 상품 페이지, YieldMax 0DTE ETF 공식 페이지, YieldMax Distribution Sc..",
+  "modified_time": "2026-05-15T21:16:14+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 YieldMax가 또 한 번 혁신을 선보입니다!이번에는 러셀 2000(Russell 2000) 지수 기반의 0DTE(제로 만기) 커버드 콜 전략 ETF, RDTY를 새롭게 출시했습니다.📍 Nasdaq: RDTY📍 첫 주간 배당 발표 예정일: 2025년 3월 19일💡 RDTY란? 어떤 ETF인가요?✅ 러셀 2000 지수 기반🔹 미국의 대표적인 소형주(Small-cap) 지수🔹 다양한 산업군(기술, 헬스케어, 금융 등) 포함✅ 0DTE(제로 만기) 옵션 활용🔹 매일 만료되는 옵션(0DTE) 활용 → 단기적인 추가 수익 창출🔹 매일 아침 OTM(외가격) 콜옵션 매도 & 매수 → 수익 + 손실 방지 전략✅ 주간 배당(Weekly Payout)🔹 배당 지급 빈도: 매주!🔹 주간 수익 창출을 ..",
-  "og_title": "🔥 YieldMax 신상품 출시! – RDTY, 주간 배당 지급하는 R2000 0DTE ETF 🚀",
+  "og_description": "핵심 요약: RDTY ETF는 YieldMax가 운용하는 Russell 2000 0DTE 커버드콜 전략 ETF입니다. Russell 2000 지수에 대한 노출을 기반으로 당일 만기 옵션, 즉 0DTE 콜옵션 매도 전략을 활용해 주간 분배금을 추구합니다. 다만 RDTY는 소형주 지수 상승에 그대로 참여하는 ETF가 아니며, 상승 수익이 제한될 수 있고 지수가 하락하면 손실이 발생할 수 있습니다. 투자 전에는 분배율, 30-Day SEC Yield, ROC, NAV, 총보수, 0DTE 옵션 전략 위험을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax RDTY 공식 상품 페이지, YieldMax 0DTE ETF 공식 페이지, YieldMax Distribution Sc..",
+  "og_title": "RDTY ETF란? YieldMax Russell 2000 0DTE 커버드콜 ETF 배당과 위험 구조",
   "post_id": "166",
   "published_time": "2025-03-07T15:37:25+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🔥 YieldMax 신상품 출시! – RDTY, 주간 배당 지급하는 R2000 0DTE ETF 🚀",
+  "title": "RDTY ETF란? YieldMax Russell 2000 0DTE 커버드콜 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/166"
 }

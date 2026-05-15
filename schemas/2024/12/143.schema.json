@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-12-11T10:25:26+09:00",
-  "datePublished": "2024-12-11T10:25:26+09:00",
-  "description": "투자자들에게 새로운 소득 기회를 제공하는 YieldMax™가 MARA Holdings(MARA)를 기반으로 하는 새로운 옵션 소득 전략 ETF를 발표했습니다. 최신 트렌드에 맞춘 이번 ETF는 안정적인 소득과 전략적 포트폴리오 강화를 목표로 합니다.MARO ETF 개요ETF 이름: YieldMax™ MARA Option Income Strategy ETF티커: NYSE Arca: MARO기반 자산: MARA Holdings, Inc.운영사: ZEGA Financial직접 투자 여부: MARA 자체에 직접 투자하지 않음.출시 일정: 2024년 12월 10일MARO의 주요 특징1️⃣ 옵션 기반 소득 전략MARO는 MARA Holdings 주식을 기반으로 옵션 계약을 활용하여 현재 소득 창출을 목표로 합니다...",
-  "headline": "🚀 YieldMax™, MARA 옵션 소득 ETF(MARO) 출시!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtAbte%2FbtsLdAI57sw%2FAAAAAAAAAAAAAAAAAAAAAKZ3wf9yTn2jCC8hByiYqVLDOd5DSjnJ1vuFq-w833wB%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DtP%252Fyxxw2T5ZiBMrMhON7cVT6m2Q%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/143",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:26:23+09:00",
+    "datePublished": "2024-12-11T10:25:26+09:00",
+    "description": "핵심 요약: MARO ETF는 YieldMax가 운용하는 MARA Holdings(MARA) 기반 옵션 인컴 ETF입니다. MARO는 MARA 주식에 직접 투자하는 상품이 아니라, MARA를 기초자산으로 한 옵션 전략을 통해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 MARO의 Distribution Rate는 105.67%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 MARA 주가 변동성, 비트코인 관련 위험, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 10일 MARO 출시 공시, YieldMa..",
+    "headline": "MARO ETF란? YieldMax MARA 옵션 인컴 ETF 배당과 위험 구조",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtAbte%2FbtsLdAI57sw%2FAAAAAAAAAAAAAAAAAAAAAKZ3wf9yTn2jCC8hByiYqVLDOd5DSjnJ1vuFq-w833wB%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DtP%252Fyxxw2T5ZiBMrMhON7cVT6m2Q%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/143",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/143"
   },
-  "url": "https://mystock-note.tistory.com/143"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "MARO ETF의 구조와 최신 분배금 공시를 정리합니다. YieldMax MARA Option Income Strategy ETF가 MARA Holdings 주식에 직접 투자하지 않고 옵션 전략으로 인컴을 추구하는 방식, Distribution Rate, SEC Yield, ROC, NAV, 비트코인 관련 위험을 설명합니다.",
+    "headline": "MARO ETF란? YieldMax MARA 옵션 인컴 ETF 배당과 위험 구조",
+    "url": "https://mystock-note.tistory.com/143"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "MARO는 YieldMax MARA Option Income Strategy ETF입니다. MARA Holdings를 기초자산으로 한 옵션 전략을 활용해 주간 인컴을 추구하는 액티브 ETF입니다."
+        },
+        "name": "MARO ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YieldMax 출시 공시 기준 MARO는 MARA 주식에 직접 투자하지 않습니다. MARA를 기반으로 한 옵션 전략을 통해 인컴을 추구합니다."
+        },
+        "name": "MARO는 MARA 주식에 직접 투자하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 105.67%는 2026년 5월 13일 공시 기준 최근 분배금을 연율화한 수치입니다. 확정 수익률이나 향후 분배금 보장을 의미하지 않습니다."
+        },
+        "name": "MARO의 105.67% Distribution Rate는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 13일 공시 기준 MARO의 ROC는 98.07%로 표시되었습니다. 이는 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미하며, 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "MARO의 ROC 98.07%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. MARO는 비트코인 현물 ETF가 아니라 MARA Holdings를 기초자산으로 하는 옵션 인컴 ETF입니다. 다만 MARA가 비트코인 채굴 및 디지털 자산 산업과 연결되어 있으므로 비트코인 가격의 영향을 받을 수 있습니다."
+        },
+        "name": "MARO는 비트코인 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. MARO는 옵션 전략을 활용하기 때문에 MARA 주가가 상승하더라도 상승 참여가 제한될 수 있습니다. 반대로 MARA 주가가 하락하면 ETF 가격과 NAV도 손실을 볼 수 있습니다."
+        },
+        "name": "MARO는 MARA 주가 상승을 모두 따라가나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "MARO는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

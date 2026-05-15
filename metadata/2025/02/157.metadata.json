@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 2051,
+  "body_html_length": 3296,
   "canonical_url": "https://mystock-note.tistory.com/157",
-  "content_hash": "4e7724af50a62d3c60337159d7a25776d7c597ac4d79baea2df6a3f48fd2d21f",
-  "json_ld_count": 1,
-  "meta_description": "📢 투자자 여러분, 새로운 수익 기회를 소개합니다!YieldMax가 0DTE(Zero Days to Expiry) 커버드 콜 전략 ETF를 출시했습니다.🚀 YieldMax S&P 500 0DTE Covered Call Strategy ETF (Nasdaq: SDTY)📌 SDTY 개요SDTY는 S&P 500 지수에 기반한 액티브 운용 ETF로, 0DTE 옵션 전략을 활용해 주간 수익을 창출하는 것을 목표로 합니다.✅ 0DTE 옵션 활용 – 매일 만료되는 옵션을 매도하여 수익 창출✅ S&P 500 지수 수익 노출 – 지수 상승 시 일부 상승분 참여 가능✅ 주간 배당 지급 목표 – 매주 배당을 목표로 하며, 첫 배당 발표는 2025년 2월 19일 예정📊 SDTY의 투자 전략은?SDTY는 합성 커버드 콜..",
-  "modified_time": "2025-02-06T23:49:00+09:00",
+  "content_hash": "e2ab7ec154be31db34dc2f361d3d963883c1699380e9ef2c24e3609c0003cdf2",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: SDTY ETF는 YieldMax가 운용하는 S&P 500 0DTE 커버드콜 전략 ETF입니다. 0DTE 콜옵션을 활용해 주간 인컴을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 SDTY를 볼 때 분배금보다 0DTE 옵션 전략, 상승 참여 제한, S&P 500 하락 위험, 30-Day SEC Yield, ROC, NAV 변화를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax SDTY 공식 상품 페이지, 2025년 2월 6일 SDTY 출시 공시, 2026년 5월 12일 Group 1 주간 분배금 공시, YieldMax Distribution Schedule, YieldMax 위험 고지 자료를 기..",
+  "modified_time": "2026-05-15T21:46:58+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 투자자 여러분, 새로운 수익 기회를 소개합니다!YieldMax가 0DTE(Zero Days to Expiry) 커버드 콜 전략 ETF를 출시했습니다.🚀 YieldMax S&P 500 0DTE Covered Call Strategy ETF (Nasdaq: SDTY)📌 SDTY 개요SDTY는 S&P 500 지수에 기반한 액티브 운용 ETF로, 0DTE 옵션 전략을 활용해 주간 수익을 창출하는 것을 목표로 합니다.✅ 0DTE 옵션 활용 – 매일 만료되는 옵션을 매도하여 수익 창출✅ S&P 500 지수 수익 노출 – 지수 상승 시 일부 상승분 참여 가능✅ 주간 배당 지급 목표 – 매주 배당을 목표로 하며, 첫 배당 발표는 2025년 2월 19일 예정📊 SDTY의 투자 전략은?SDTY는 합성 커버드 콜..",
-  "og_title": "YieldMax 최초의 0DTE ETF 출시! – S&P 500 0DTE 커버드 콜 전략 ETF (SDTY)",
+  "og_description": "핵심 요약: SDTY ETF는 YieldMax가 운용하는 S&P 500 0DTE 커버드콜 전략 ETF입니다. 0DTE 콜옵션을 활용해 주간 인컴을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 SDTY를 볼 때 분배금보다 0DTE 옵션 전략, 상승 참여 제한, S&P 500 하락 위험, 30-Day SEC Yield, ROC, NAV 변화를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax SDTY 공식 상품 페이지, 2025년 2월 6일 SDTY 출시 공시, 2026년 5월 12일 Group 1 주간 분배금 공시, YieldMax Distribution Schedule, YieldMax 위험 고지 자료를 기..",
+  "og_title": "SDTY ETF란? YieldMax S&P 500 0DTE 커버드콜 ETF 배당과 위험 구조",
   "post_id": "157",
   "published_time": "2025-02-06T23:49:00+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "YieldMax 최초의 0DTE ETF 출시! – S&P 500 0DTE 커버드 콜 전략 ETF (SDTY)",
+  "title": "SDTY ETF란? YieldMax S&P 500 0DTE 커버드콜 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/157"
 }

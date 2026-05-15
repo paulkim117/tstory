@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:12:20+09:00",
+    "datePublished": "2025-03-13T08:59:27+09:00",
+    "description": "핵심 요약: 2025년 3월 12일 YieldMax는 Weekly Payers 및 Group D ETF의 분배금을 발표했습니다. 공시 기준 분배율은 SMCY 101.11%, MSTY 89.54%, AIYY 83.75%, ULTY 83.40%, LFGY 60.76%로 높게 표시되었습니다. 그러나 이 분배율은 확정 수익률이 아니며, 최근 분배금을 연율화한 수치입니다. 투자자는 분배율보다 30-Day SEC Yield, ROC(Return of Capital), NAV, 총수익률, 옵션 전략, Short ETF 여부를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 3월 12일 GlobeNewswire 분배금 공시, YieldMax Distribution S..",
+    "headline": "YieldMax ETF 배당률 TOP5 해석: SMCY·MSTY·AIYY 고분배는 확정 수익일까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbaPsAl%2FbtsMJJiWAMT%2FAAAAAAAAAAAAAAAAAAAAALWfgXXKP0uANYXfc8HftYV-cilcTEh1adTrUf49MY1j%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D0AyXq5a44sRb6zuC%252FnfmIkzAWOU%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/167",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/167"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "2025년 3월 12일 YieldMax Weekly Payers 및 Group D ETF 분배금 공시를 해석합니다. SMCY 101.11%, MSTY 89.54%, AIYY 83.75%, ULTY 83.40%, LFGY 60.76% 분배율과 함께 30-Day SEC Yield, ROC, NAV, Short ETF 구조, 총수익률 확인 기준을 정리했습니다.",
+    "headline": "YieldMax ETF 배당률 TOP5 해석: SMCY·MSTY·AIYY 고분배는 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/169"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 분배율은 최근 분배금을 연율화한 수치이며 확정 수익률이나 총수익률이 아닙니다. 향후 분배금은 크게 달라질 수 있고, 지급되지 않을 수도 있습니다."
+        },
+        "name": "YieldMax ETF의 분배율은 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2025년 3월 12일 공시에서 SMCY의 분배율은 101.11%로 표시되었습니다. 그러나 이는 총수익률이 아니며, 같은 공시에서 30-Day SEC Yield는 2.63%였습니다. 투자자는 분배율보다 NAV와 총수익률을 함께 확인해야 합니다."
+        },
+        "name": "SMCY 101.11% 분배율은 무엇을 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "ROC는 투자원금 반환 성격을 가질 수 있습니다. MSTY의 ROC 추정치가 높게 표시된 경우, 분배금이 모두 순수한 투자 이익이라고 볼 수 없습니다. NAV와 총수익률을 함께 확인해야 합니다."
+        },
+        "name": "MSTY의 ROC 97.54%는 왜 중요한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Short ETF는 기초자산 하락 방향에 유리한 구조를 가질 수 있지만, 기초자산 상승 시 손실이 발생할 수 있습니다. 또한 하락장에서의 이익도 제한될 수 있으므로 일반 옵션 인컴 ETF와 구분해야 합니다."
+        },
+        "name": "Short ETF는 일반 YieldMax ETF와 무엇이 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "ULTY는 Weekly Payers에 포함되어 주간 분배 구조를 가질 수 있지만, 분배금 지급은 보장되지 않습니다. 분배금은 시장 상황과 운용 결과에 따라 달라질 수 있고, 0원이 될 수도 있습니다."
+        },
+        "name": "ULTY는 매주 배당을 계속 지급하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다. 일반 지수형 ETF와 성과를 비교해야 합니다."
+        },
+        "name": "고분배 ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

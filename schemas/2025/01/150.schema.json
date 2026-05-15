@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:04:53+09:00",
+    "datePublished": "2025-01-15T10:10:22+09:00",
+    "description": "핵심 요약: LFGY ETF는 YieldMax가 운용하는 Crypto Industry & Tech Portfolio Option Income ETF입니다. LFGY는 15~30개 암호화폐 산업 및 기술 기업에 투자하면서, 해당 기업 또는 Crypto ETF 옵션 전략을 활용해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 LFGY의 Distribution Rate는 55.13%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 암호화폐 관련 주식 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 14일 L..",
+    "headline": "LFGY ETF란? YieldMax Crypto Industry & Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcURIVe%2FbtsLNOsJsrW%2FAAAAAAAAAAAAAAAAAAAAAJjroJgksjS9JSoDbBQtEkiNl9OfLRY2bl3AihLGDidP%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DbQkNVHwt4A97Sx2nXk2it7Ucy8Y%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/150",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/150"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "LFGY ETF의 구조와 최신 분배금 공시를 정리합니다. YieldMax Crypto Industry & Tech Portfolio Option Income ETF가 암호화폐 산업·기술 기업에 투자하고 옵션 전략으로 인컴을 추구하는 방식, Distribution Rate, SEC Yield, ROC, NAV, 디지털 자산 직접투자 여부를 설명합니다.",
+    "headline": "LFGY ETF란? YieldMax Crypto Industry & Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
+    "url": "https://mystock-note.tistory.com/150"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "LFGY는 YieldMax Crypto Industry & Tech Portfolio Option Income ETF입니다. 암호화폐 산업 및 기술 기업 15~30개에 투자하면서 옵션 전략으로 주간 인컴을 추구하는 액티브 ETF입니다."
+        },
+        "name": "LFGY ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YieldMax 공식 상품 페이지 기준 LFGY는 비트코인 같은 디지털 자산에 직접 투자하지 않고, 디지털 자산의 현물 가격에 직접 노출되는 것을 추구하지 않습니다."
+        },
+        "name": "LFGY는 비트코인에 직접 투자하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 55.13%는 2026년 5월 12일 공시 기준 최근 분배금을 연율화한 수치입니다. 확정 수익률이나 향후 분배금 보장을 의미하지 않습니다."
+        },
+        "name": "LFGY의 55.13% Distribution Rate는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 12일 공시 기준 LFGY의 ROC는 100.00%로 표시되었습니다. 이는 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미하며, 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "LFGY의 ROC 100%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. LFGY는 디지털 자산 현물 가격에 직접 노출되는 상품이 아닙니다. 또한 옵션 전략을 활용하기 때문에 보유 암호화폐 산업·기술 기업 주가가 상승하더라도 상승 참여가 제한될 수 있습니다."
+        },
+        "name": "LFGY는 암호화폐 가격 상승을 모두 따라가나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "LFGY는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

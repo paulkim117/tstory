@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 2939,
+  "body_html_length": 2300,
   "canonical_url": "https://mystock-note.tistory.com/173",
-  "content_hash": "d8380f3fbae1b138c74f3eb94204f965b3061d65aed3afe40edde7e5f1cd4a2b",
-  "json_ld_count": 1,
-  "meta_description": "📢 시카고·밀워키·뉴욕 – 2025년 4월 2일 (GLOBE NEWSWIRE)YieldMax이 Weekly Payers 및 Group C ETF 배당금 지급을 발표했습니다! 🎉📌 하이라이트 배당 종목:✅ FIAT – 127.21% 🚀✅ CVNY – 100.49% 🔥✅ ULTY – 77.62%✅ CONY – 73.33%✅ YMAX – 68.44%✅ 그리고 기타 종목들까지!💡 배당은 보장되지 않으며 변동 가능이번 발표된 배당률 및 30-Day SEC Yield는 향후 배당을 보장하지 않으며, 시장 환경에 따라 크게 변동할 수 있습니다. 배당이 없을 수도 있다는 점! 꼭 참고하세요.💡 Short ETF 전략 (DIPS, FIAT, CRSH, YQQQ, WNTR 포함)기본 ETF: 상승 시 수익 제..",
-  "modified_time": "2025-04-03T13:03:30+09:00",
+  "content_hash": "10af69550b84da601b6127adb2e1a90ace3b3a4d6f24d0a0439fb78d1bad81e4",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: YieldMax ETF의 분배율은 숫자만 보면 매우 높아 보일 수 있습니다. 2025년 4월 2일 공시에서는 FIAT 127.21%, CVNY 100.49%, ULTY 77.62%, CONY 73.33%, YMAX 68.44% 같은 높은 분배율이 제시되었습니다. 그러나 분배율은 확정 수익률이 아니며, 30-Day SEC Yield, ROC(Return of Capital), NAV 변화, 옵션 전략 구조를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 4월 2일 GlobeNewswire 분배금 공시, YieldMax Distribution Schedule, YieldMax 위험 고지 자료를 기준으로 작성했습니다. YieldMax ETF의 ..",
+  "modified_time": "2026-05-15T20:53:48+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 시카고·밀워키·뉴욕 – 2025년 4월 2일 (GLOBE NEWSWIRE)YieldMax이 Weekly Payers 및 Group C ETF 배당금 지급을 발표했습니다! 🎉📌 하이라이트 배당 종목:✅ FIAT – 127.21% 🚀✅ CVNY – 100.49% 🔥✅ ULTY – 77.62%✅ CONY – 73.33%✅ YMAX – 68.44%✅ 그리고 기타 종목들까지!💡 배당은 보장되지 않으며 변동 가능이번 발표된 배당률 및 30-Day SEC Yield는 향후 배당을 보장하지 않으며, 시장 환경에 따라 크게 변동할 수 있습니다. 배당이 없을 수도 있다는 점! 꼭 참고하세요.💡 Short ETF 전략 (DIPS, FIAT, CRSH, YQQQ, WNTR 포함)기본 ETF: 상승 시 수익 제..",
-  "og_title": "🚀 YieldMax ETF, 배당 발표!FIAT(127.21%) · CVNY(100.49%) · ULTY(77.62%) 등 고배당 라인업 공개!",
+  "og_description": "핵심 요약: YieldMax ETF의 분배율은 숫자만 보면 매우 높아 보일 수 있습니다. 2025년 4월 2일 공시에서는 FIAT 127.21%, CVNY 100.49%, ULTY 77.62%, CONY 73.33%, YMAX 68.44% 같은 높은 분배율이 제시되었습니다. 그러나 분배율은 확정 수익률이 아니며, 30-Day SEC Yield, ROC(Return of Capital), NAV 변화, 옵션 전략 구조를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 4월 2일 GlobeNewswire 분배금 공시, YieldMax Distribution Schedule, YieldMax 위험 고지 자료를 기준으로 작성했습니다. YieldMax ETF의 ..",
+  "og_title": "YieldMax 고배당 ETF 분배율 해석: FIAT·CVNY·ULTY·CONY 배당은 확정 수익일까?",
   "post_id": "173",
   "published_time": "2025-04-03T13:03:21+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax ETF, 배당 발표!FIAT(127.21%) · CVNY(100.49%) · ULTY(77.62%) 등 고배당 라인업 공개!",
+  "title": "YieldMax 고배당 ETF 분배율 해석: FIAT·CVNY·ULTY·CONY 배당은 확정 수익일까?",
   "url": "https://mystock-note.tistory.com/173"
 }

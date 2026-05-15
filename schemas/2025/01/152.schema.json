@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-01-24T10:09:38+09:00",
-  "datePublished": "2025-01-24T10:09:38+09:00",
-  "description": "📢 YieldMax AI & Tech Portfolio Option Income ETF (GPTY) 공식 출시!2025년 1월 23일 – YieldMax가 AI & 테크 산업을 중심으로 설계된 GPTY ETF를 발표했습니다! 이 ETF는 15~30개의 AI 및 기술 기업에 투자하며, 옵션 전략을 통해 수익 창출과 자본 성장을 목표로 합니다.🔍 GPTY 주요 정보ETF 이름: YieldMax AI & Tech Portfolio Option Income ETF티커 코드: GPTY투자 대상: AI 및 기술 관련 기업 15~30개목표: 현재 소득 창출과 자본 성장💼 GPTY 투자 전략1️⃣ 주식 포트폴리오구성:유동성이 높은 AI 및 기술 기업 15~30개 직접 투자기업 배당금은 GPTY의 추가 소득으로 활..",
-  "headline": "🚀 YieldMax, 새로운 AI & 테크 포트폴리오 ETF 출시 – GPTY",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FboqazS%2FbtsLZfiZNxa%2FAAAAAAAAAAAAAAAAAAAAAOqrkomegr3GBEGf_EDKG1ucFMIaUFjTRSXtXOo10LaZ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DhOissg%252Bbp%252FbRNE5pu4iJt4s8iDY%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/152",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:58:38+09:00",
+    "datePublished": "2025-01-24T10:09:38+09:00",
+    "description": "핵심 요약: GPTY ETF는 YieldMax가 운용하는 AI·테크 포트폴리오 옵션 인컴 ETF입니다. GPTY는 15~30개 AI 및 기술 기업에 직접 투자하면서, 해당 기업 또는 AI·테크 ETF 옵션 전략을 활용해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 GPTY의 Distribution Rate는 40.39%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 AI·기술주 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 23일 GPTY 출시 공시, YieldMax GPTY 공식 상품 페이지, ..",
+    "headline": "GPTY ETF란? YieldMax AI·Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FboqazS%2FbtsLZfiZNxa%2FAAAAAAAAAAAAAAAAAAAAAOqrkomegr3GBEGf_EDKG1ucFMIaUFjTRSXtXOo10LaZ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DhOissg%252Bbp%252FbRNE5pu4iJt4s8iDY%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/152",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/152"
   },
-  "url": "https://mystock-note.tistory.com/152"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "GPTY ETF의 구조와 최신 분배금 공시를 정리합니다. YieldMax AI & Tech Portfolio Option Income ETF가 15~30개 AI·기술 기업에 투자하고 옵션 전략으로 인컴을 추구하는 방식, Distribution Rate, SEC Yield, ROC, NAV, 기술주 위험을 설명합니다.",
+    "headline": "GPTY ETF란? YieldMax AI·Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
+    "url": "https://mystock-note.tistory.com/152"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GPTY는 YieldMax AI & Tech Portfolio Option Income ETF입니다. 15~30개 AI 및 기술 기업에 직접 투자하면서 옵션 전략으로 주간 인컴을 추구하는 액티브 ETF입니다."
+        },
+        "name": "GPTY ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. GPTY는 AI·기술 기업에 투자하지만, 동시에 옵션 인컴 전략을 사용하는 ETF입니다. 일반 AI 테마 ETF와 달리 상승 참여가 제한될 수 있고, 분배금 변동이 클 수 있습니다."
+        },
+        "name": "GPTY는 일반 AI ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 40.39%는 2026년 5월 12일 공시 기준 최근 분배금을 연율화한 수치입니다. 확정 수익률이나 향후 분배금 보장을 의미하지 않습니다."
+        },
+        "name": "GPTY의 40.39% Distribution Rate는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 12일 공시 기준 GPTY의 ROC는 99.72%로 표시되었습니다. 이는 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미하며, 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "GPTY의 ROC 99.72%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. GPTY는 옵션 전략을 활용하기 때문에 보유 AI·기술 기업 주가가 상승하더라도 상승 참여가 제한될 수 있습니다. 반대로 보유 기업 주가가 하락하면 ETF 가격과 NAV도 손실을 볼 수 있습니다."
+        },
+        "name": "GPTY는 AI 기업 주가 상승을 모두 따라가나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "GPTY는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

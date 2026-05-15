@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-02-20T01:58:02+09:00",
-  "datePublished": "2025-02-20T01:58:02+09:00",
-  "description": "한때 스마트폰 시장을 주름잡았던 블랙베리, 이제는 자율주행 및 보안 기술 기업으로 새롭게 떠오르고 있습니다! 최근 블랙베리의 주가가 급등한 이유와 미래 전망을 함께 살펴볼까요?🔥 블랙베리 주가 급등, 이유는?1️⃣ 자율주행 & 보안 기술에 대한 기대감🔹 사업 모델 전환: 스마트폰 제조에서 보안 소프트웨어 & 자율주행 기술(QNX 플랫폼) 중심으로 전환🔹 시장 성장 기대: 커넥티드카 & 자율주행 시장 확대에 따라 블랙베리 기술력 주목📌 QNX 플랫폼이 뭐길래?✅ 글로벌 자동차 제조사들이 사용하는 신뢰성 높은 자동차 운영체제✅ 인포테인먼트 시스템부터 ADAS(첨단 운전자 보조 시스템)까지 핵심 기술 적용✅ 자율주행 시대의 필수 요소로 평가받는 보안 솔루션 보유2️⃣ 긍정적인 뉴스 & 신규 계약 발표 ..",
-  "headline": "블랙베리 주가 급등! 자율주행과 보안 기술이 가져온 변화 🚀",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/162",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:35:53+09:00",
+    "datePublished": "2025-02-20T01:58:02+09:00",
+    "description": "핵심 요약: 블랙베리 주가 급등의 핵심은 단순한 자율주행 기대감이 아니라 QNX 자동차·임베디드 소프트웨어 매출 성장, Secure Communications 사업 회복, FY2027 가이던스 개선입니다. 블랙베리를 완성차 자율주행 기업으로 보는 것은 부정확하며, 실제 사업의 중심은 차량용 운영체제, 임베디드 소프트웨어, 보안 커뮤니케이션입니다. 투자자는 주가 급등보다 QNX 매출 성장률, royalty backlog, 현금흐름, 고객사 확대 속도를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 BlackBerry FY2026 4분기 및 연간 실적 발표, FY2027 가이던스, Reuters 보도를 기준으로 작성했습니다. BlackBerry의 매출, QNX backlog, 가이..",
+    "headline": "블랙베리 주가 급등 이유: QNX·보안 소프트웨어 실적 개선이 핵심일까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/162",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/162"
   },
-  "url": "https://mystock-note.tistory.com/162"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "블랙베리 주가 급등 배경을 QNX 자동차·임베디드 소프트웨어, Secure Communications, FY2026 실적, FY2027 가이던스 기준으로 정리합니다. 자율주행 기대감보다 QNX 매출, 백로그, 현금흐름, 보안 사업 회복을 중심으로 확인해야 할 포인트를 설명합니다.",
+    "headline": "블랙베리 주가 급등 이유: QNX·보안 소프트웨어 실적 개선이 핵심일까?",
+    "url": "https://mystock-note.tistory.com/162"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 현재 블랙베리의 핵심 사업은 스마트폰 제조가 아니라 QNX 자동차·임베디드 소프트웨어와 Secure Communications입니다."
+        },
+        "name": "블랙베리는 아직 스마트폰 회사인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "QNX는 완전 자율주행 기술 자체라기보다 차량과 임베디드 시스템에 사용되는 실시간 운영체제 및 기반 소프트웨어에 가깝습니다. 자율주행차와 소프트웨어 정의 차량에서 중요한 기반 기술로 활용될 수 있습니다."
+        },
+        "name": "QNX는 자율주행 기술인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "확인된 핵심 원인은 FY2026 실적 개선, QNX 성장, FY2027 가이던스 개선입니다. 특정 대형 계약 기대감만으로 주가 상승을 설명하는 것은 근거가 부족합니다."
+        },
+        "name": "블랙베리 주가 급등은 대형 계약 발표 때문인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "QNX royalty backlog는 향후 차량과 임베디드 시스템에서 발생할 수 있는 로열티 기반 수익 규모를 보여주는 지표입니다. 다만 백로그가 곧바로 단기 매출로 전환된다는 뜻은 아닙니다."
+        },
+        "name": "QNX royalty backlog는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FY2026 4분기 기준으로 매출, 조정 EBITDA, QNX 매출, 현금흐름에서 개선이 확인됩니다. 다만 향후 주가 흐름은 FY2027 가이던스가 실제 실적으로 이어지는지에 따라 달라질 수 있습니다."
+        },
+        "name": "블랙베리 실적은 개선되고 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 QNX 성장률, 백로그의 매출 전환, Secure Communications 수요, 현금흐름, 밸류에이션을 함께 봐야 판단할 수 있습니다. 단순히 자율주행 테마만으로 장기투자를 판단하는 것은 위험합니다."
+        },
+        "name": "블랙베리는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

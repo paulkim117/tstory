@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-12-17T23:42:12+09:00",
-  "datePublished": "2024-12-17T23:42:12+09:00",
-  "description": "Nasdaq Dorsey Wright 옵션 소득 전략 지수를 추종하는 FEAT와 FIVYYieldMax™ Dorsey Wright Featured 5 Income ETF (티커: FEAT)YieldMax™ Dorsey Wright Hybrid 5 Income ETF (티커: FIVY)이 두 ETF는 Nasdaq Dorsey Wright Tactical Option Income Strategy Index와 Nasdaq Dorsey Wright Tactical Hybrid Option Income Strategy Index를 각각 추종합니다.📊 FEAT와 FIVY의 핵심 특징1️⃣ FEAT (Featured 5 Income ETF)목표: Nasdaq Dorsey Wright Tactical Option I..",
-  "headline": "🚀 YieldMax™, 두 개의 새로운 ETF 출시!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcDkGrz%2FbtsLlKkwk1S%2FAAAAAAAAAAAAAAAAAAAAAKPuEXTvgMHBielH3UjitxVCjTf3RG2ZS8SUgVu1iM70%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DVuo4xTbYfpy0N110bS4%252FgOEluUs%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/145",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:19:56+09:00",
+    "datePublished": "2024-12-17T23:42:12+09:00",
+    "description": "핵심 요약: FEAT와 FIVY는 YieldMax가 출시한 Dorsey Wright 기반 옵션 인컴 ETF입니다. FEAT는 Nasdaq Dorsey Wright의 모멘텀 방법론으로 선별된 5개 YieldMax ETF에 집중 투자하는 구조이고, FIVY는 5개 YieldMax ETF 60%와 해당 기초증권 40%를 결합하는 하이브리드 구조입니다. 두 ETF 모두 분배금을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 편입 ETF, 기초증권, NAV, ROC, 총보수, 상승 제한, 하락 손실 가능성을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 17일 FEAT·FIVY 출시 공..",
+    "headline": "FEAT·FIVY ETF란? YieldMax Dorsey Wright 옵션 인컴 ETF 구조와 배당 해석",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcDkGrz%2FbtsLlKkwk1S%2FAAAAAAAAAAAAAAAAAAAAAKPuEXTvgMHBielH3UjitxVCjTf3RG2ZS8SUgVu1iM70%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DVuo4xTbYfpy0N110bS4%252FgOEluUs%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/145",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/145"
   },
-  "url": "https://mystock-note.tistory.com/145"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "FEAT와 FIVY ETF의 구조와 최신 분배금 지표를 정리합니다. YieldMax Dorsey Wright Featured 5 Income ETF와 Hybrid 5 Income ETF의 차이, 5개 YieldMax ETF 선별 방식, 60:40 하이브리드 구조, Distribution Rate, SEC Yield, ROC, NAV 위험을 설명합니다.",
+    "headline": "FEAT·FIVY ETF란? YieldMax Dorsey Wright 옵션 인컴 ETF 구조와 배당 해석",
+    "url": "https://mystock-note.tistory.com/145"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FEAT는 YieldMax Dorsey Wright Featured 5 Income ETF입니다. Nasdaq Dorsey Wright의 모멘텀 방법론으로 선별된 5개 YieldMax 옵션 인컴 ETF에 투자하는 상품입니다."
+        },
+        "name": "FEAT ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FIVY는 YieldMax Dorsey Wright Hybrid 5 Income ETF입니다. 5개 YieldMax ETF 60%와 해당 ETF의 기초증권 40%를 결합하는 하이브리드 구조의 상품입니다."
+        },
+        "name": "FIVY ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. FEAT와 FIVY는 단일 종목 ETF가 아닙니다. FEAT는 5개 YieldMax ETF에 투자하고, FIVY는 5개 YieldMax ETF와 5개 기초증권에 함께 투자합니다."
+        },
+        "name": "FEAT와 FIVY는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. FEAT의 Distribution Rate는 최근 분배금을 연율화한 수치일 뿐 확정 수익률이 아닙니다. NAV 변화와 편입 ETF 성과에 따라 총수익률은 크게 달라질 수 있습니다."
+        },
+        "name": "FEAT의 68.25% Distribution Rate는 확정 수익인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "단정할 수 없습니다. FIVY는 40% 기초증권 직접 노출이 있어 FEAT와 구조가 다르지만, 여전히 60%는 YieldMax 옵션 인컴 ETF에 투자합니다. 안전성은 편입 종목, NAV, 변동성, 분배금 이력, 총수익률로 판단해야 합니다."
+        },
+        "name": "FIVY가 FEAT보다 더 안전한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YieldMax 공식 자료는 분배금이 보장되지 않으며, Distribution Rate와 30-Day SEC Yield도 향후 분배금을 보장하지 않는다고 설명합니다."
+        },
+        "name": "FEAT와 FIVY의 분배금은 보장되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배금이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "FEAT와 FIVY는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-01-08T10:22:36+09:00",
-  "datePublished": "2025-01-03T10:11:10+09:00",
-  "description": "PLTY ($3.5887), MARO ($2.4950), NVDY ($0.8983) 등 새로운 배당금 발표 🎉📅 2025년 1월 2일 – YieldMax가 이번 달 ETF 배당금을 발표했습니다! 투자자분들께 유용한 정보를 빠르게 정리해 드릴게요. 😊📊 이번 달 주요 ETF 배당금 발표PLTY$3.5887MARO$2.4950NVDY$0.8983YMAX$0.1807YMAG$0.3102💡 참고: 이 배당금은 2024년 12월 31일 기준 최신 금액이에요.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 변동할 수 있고, 어떤 달에는 아예 지급되지 않을 수도 있어요.2️⃣ 기초 자산의 배당금은 받을 수 없습니다.ETF를 소유하더라도 ETF가 기반으로 하는 기초 자산(예: T..",
-  "headline": "💰 YieldMax: 1월 ETF 배당금 소식, 지금 확인하세요!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcx5gTo%2FbtsLCtvNfQg%2FAAAAAAAAAAAAAAAAAAAAAOGLR-SOTwkAU50jsnLgCT9yt3TDWk_VVA5u3G8608Qm%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DoV08KSFIBfgkljCYgZ4bah5%252FiF8%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/148",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:11:18+09:00",
+    "datePublished": "2025-01-03T10:11:10+09:00",
+    "description": "핵심 요약: 기존 글에 표시된 PLTY $3.5887, MARO $2.4950, NVDY $0.8983, YMAX $0.1807, YMAG $0.3102는 2025년 1월 2일 YieldMax 공시 기준 수치입니다. 현재 기준 최신 분배금은 다르게 바뀌었으므로, 과거 공시 수치를 최신 배당금처럼 보면 안 됩니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, 기초자산 변동성, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 2일 PLTY·MARO·NVDY·YMAX·YMAG 분배금 공시, 2026년 5월 13일 Group 2 주간 분배금 공시, 2026년 5월 12일 Gr..",
+    "headline": "YieldMax 1월 배당 공시 해석: PLTY·MARO·NVDY 수치는 지금도 유효할까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcx5gTo%2FbtsLCtvNfQg%2FAAAAAAAAAAAAAAAAAAAAAOGLR-SOTwkAU50jsnLgCT9yt3TDWk_VVA5u3G8608Qm%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DoV08KSFIBfgkljCYgZ4bah5%252FiF8%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/148",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/148"
   },
-  "url": "https://mystock-note.tistory.com/148"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "YieldMax ETF의 2025년 1월 배당 공시 수치를 최신 공식 공시와 비교합니다. PLTY, MARO, NVDY, YMAX, YMAG의 분배금, Distribution Rate, SEC Yield, ROC, NAV, 단일 종목 옵션 인컴 ETF 위험을 정리합니다.",
+    "headline": "YieldMax 1월 배당 공시 해석: PLTY·MARO·NVDY 수치는 지금도 유효할까?",
+    "url": "https://mystock-note.tistory.com/148"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. PLTY $3.5887은 2025년 1월 2일 공시 기준 분배금입니다. 2026년 5월 13일 공시 기준 PLTY의 분배금은 $0.4361로 표시되었습니다."
+        },
+        "name": "2025년 PLTY $3.5887 분배금은 지금도 유효한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. MARO의 Distribution Rate는 최근 분배금을 연율화한 수치일 뿐 확정 수익률이 아닙니다. MARA 주가와 비트코인 가격 변동, 옵션 전략 결과에 따라 총수익률은 크게 달라질 수 있습니다."
+        },
+        "name": "MARO의 100%대 Distribution Rate는 확정 수익인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "NVDY는 NVDA 주가를 기초로 한 옵션 인컴 전략 ETF입니다. 일반적인 NVDA 주식 직접 투자와 다르며, 옵션 전략으로 인해 상승 참여가 제한될 수 있습니다."
+        },
+        "name": "NVDY는 Nvidia 주식에 직접 투자하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YMAX와 YMAG는 여러 YieldMax ETF에 투자하는 펀드오브펀드 성격의 상품입니다. 따라서 개별 단일 종목형 YieldMax ETF와는 비용 구조와 분산 방식이 다릅니다."
+        },
+        "name": "YMAX와 YMAG는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YieldMax ETF의 분배금은 시장 상황, 기초자산 변동성, 옵션 전략 결과에 따라 달라질 수 있으며, 지급되지 않을 수도 있습니다."
+        },
+        "name": "YieldMax ETF의 분배금은 매달 고정되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배금이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "YieldMax ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

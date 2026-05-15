@@ -1,23 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3795,
+  "body_html_length": 4116,
   "canonical_url": "https://mystock-note.tistory.com/160",
-  "content_hash": "9f9204baa575ad458f37441cd150b3b7432d7a76b333a0949514e9ae6fbf92c6",
-  "json_ld_count": 0,
-  "meta_description": "📢 투자자 여러분, 최신 배당 소식입니다!YieldMax가 이번 주 Weekly Payers 및 Group A ETF 배당금을 발표했습니다.✅ CRSH: 75.93%✅ TSLY: 62.77%✅ YBIT: 60.33%✅ YMAX: 56.92%✅ YMAG: 39.10%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 QDTY ETF는 2025년 2월 12일 출시된 신규 펀드입니다.📊 배당률 ..",
-  "modified_time": "2025-02-19T22:58:40+09:00",
+  "content_hash": "ffee6035a7bdfadb9e08a980baab1d4137e576a77bbefa7af3441abd091b7b57",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: YieldMax 주간 배당 ETF의 Distribution Rate는 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 CRSH 75.93%, TSLY 62.77%, YBIT 60.33%, YMAX 56.92%, YMAG 39.10%는 2025년 2월 19일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 2월 19일 Weekly Payers 및 Group A 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 20..",
+  "modified_time": "2026-05-15T21:40:06+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/160\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/160\",\"headline\":\"🚀 YieldMax ETF, 신규 배당금 발표! – CRSH 75.93%, TSLY 62.77%, YBIT 60.33% 등\",\"description\":\"📢 투자자 여러분, 최신 배당 소식입니다!YieldMax가 이번 주 Weekly Payers 및 Group A ETF 배당금을 발표했습니다.✅ CRSH: 75.93%✅ TSLY: 62.77%✅ YBIT: 60.33%✅ YMAX: 56.92%✅ YMAG: 39.10%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 QDTY ETF는 2025년 2월 12일 출시된 신규 펀드입니다.📊 배당률 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcyNzJR%2FbtsMoYnMxH3%2FAAAAAAAAAAAAAAAAAAAAAMZ_LZISvQ3NipZJ7mJwCew4tVDUmPPI0RCT35KqakSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DOFxfUp2j3Oqnf1c7NVn1F0GSWe8%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2025-02-19T22:58:40+09:00\",\"dateModified\":\"2025-02-19T22:58:40+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 투자자 여러분, 최신 배당 소식입니다!YieldMax가 이번 주 Weekly Payers 및 Group A ETF 배당금을 발표했습니다.✅ CRSH: 75.93%✅ TSLY: 62.77%✅ YBIT: 60.33%✅ YMAX: 56.92%✅ YMAG: 39.10%✨ 그리고 기타 ETF도 포함!📍 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 배당금 지급, 100% 보장되지 않습니다!배당금은 변동될 수 있으며, 지급되지 않을 수도 있어요.30일 SEC 수익률 및 배당률이 향후 배당을 보장하는 것은 아닙니다.ETF 투자자는 기초 자산의 배당금이나 기타 분배금을 직접 받을 수 없습니다.📌 QDTY ETF는 2025년 2월 12일 출시된 신규 펀드입니다.📊 배당률 ..",
-  "og_title": "🚀 YieldMax ETF, 신규 배당금 발표! – CRSH 75.93%, TSLY 62.77%, YBIT 60.33% 등",
+  "og_description": "핵심 요약: YieldMax 주간 배당 ETF의 Distribution Rate는 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 CRSH 75.93%, TSLY 62.77%, YBIT 60.33%, YMAX 56.92%, YMAG 39.10%는 2025년 2월 19일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 2월 19일 Weekly Payers 및 Group A 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 20..",
+  "og_title": "YieldMax 주간 배당 발표 해석: CRSH·TSLY·YBIT·YMAX·YMAG 고분배는 확정 수익일까?",
   "post_id": "160",
   "published_time": "2025-02-19T22:58:40+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax ETF, 신규 배당금 발표! – CRSH 75.93%, TSLY 62.77%, YBIT 60.33% 등",
+  "title": "YieldMax 주간 배당 발표 해석: CRSH·TSLY·YBIT·YMAX·YMAG 고분배는 확정 수익일까?",
   "url": "https://mystock-note.tistory.com/160"
 }

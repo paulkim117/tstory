@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-02-05T10:28:02+09:00",
-  "datePublished": "2025-02-05T10:28:02+09:00",
-  "description": "수익 창출을 목표로 하는 YieldMax가 이번 달 Target 12 ETF 배당금을 발표했습니다. 배당금은 아래와 같습니다.✅ BIGY: $0.5025✅ SOXY: $0.4883Target 12 ETF는 연 12% 수익을 목표로 하지만, 배당금 지급이 보장되지는 않습니다.배당금은 시기에 따라 변동될 수 있으며, 지급되지 않을 수도 있어요. 또한 투자자들은 기초 자산의 배당금이나 기타 분배금을 직접 받을 권리가 없습니다.📌 ETF 투자 시 주의할 점수익 제한 & 손실 가능성ETF 전략상 기초 자산의 가격이 상승해도 수익이 제한될 수 있어요.하지만 가격이 하락하면 손실을 그대로 감당해야 하죠.배당금 변동 가능성ETF의 운용 방식상 배당금 지급 여부나 금액은 크게 변할 수 있어요.ETF는 상대적으로 짧은 ..",
-  "headline": "YieldMax ETF, 최신 배당금 발표! – BIGY ($0.5025), SOXY ($0.4883)",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqvLCr%2FbtsL6IF5fas%2FAAAAAAAAAAAAAAAAAAAAAIdUnuvj_7qQ-Td7rT203Vn1c2u1S4UDTklpgc5bCL4g%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D2g%252BZ%252BKlHfvJ8gcoPH3P3IUg97FE%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/155",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:51:44+09:00",
+    "datePublished": "2025-02-05T10:28:02+09:00",
+    "description": "핵심 요약: YieldMax Target 12 ETF의 12% Distribution Rate는 확정 수익률이 아닙니다. 기존 글에 표시된 BIGY $0.5025, SOXY $0.4883은 2025년 3월 4일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 12% 목표분배율의 계산 방식, 30-Day SEC Yield, ROC, NAV, 옵션 전략, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 3월 4일 BIGY·SOXY 분배금 공시, 2026년 5월 5일 BIGY·RNTY·SOXY 분배금 공시, YieldMax Target 12 공식 상품 페이지, YieldMax Distribution Schedule, Yi..",
+    "headline": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY·RNTY 12% 분배율은 확정 수익일까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqvLCr%2FbtsL6IF5fas%2FAAAAAAAAAAAAAAAAAAAAAIdUnuvj_7qQ-Td7rT203Vn1c2u1S4UDTklpgc5bCL4g%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D2g%252BZ%252BKlHfvJ8gcoPH3P3IUg97FE%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/155",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/155"
   },
-  "url": "https://mystock-note.tistory.com/155"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "YieldMax Target 12 ETF인 BIGY, SOXY, RNTY의 분배금과 12% Distribution Rate를 정리합니다. 2025년 BIGY·SOXY 공시 수치와 2026년 최신 공시 수치를 비교하고, SEC Yield, ROC, NAV, 옵션 전략 위험을 함께 설명합니다.",
+    "headline": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY·RNTY 12% 분배율은 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/155"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 12% Distribution Rate는 확정 수익률이 아닙니다. 최근 분배금을 연율화한 계산값이며, 향후 분배금은 시장 환경과 운용 결과에 따라 크게 달라질 수 있습니다."
+        },
+        "name": "BIGY와 SOXY의 12% 분배율은 확정인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2025년 3월 4일 YieldMax 공시 기준입니다. 현재 기준 최신 분배금은 2026년 5월 5일 공시에서 BIGY $0.5213, SOXY $0.8297로 표시되었습니다."
+        },
+        "name": "BIGY $0.5025, SOXY $0.4883 분배금은 언제 기준인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 5일 공시 기준 SOXY의 ROC는 100.00%로 표시되었습니다. 이는 해당 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미합니다. 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "SOXY의 ROC 100%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. BIGY는 미국 대형주 50개 기업에 대한 포트폴리오 노출과 옵션 인컴 전략이 결합된 Target 12 ETF입니다. 단일 종목형 YieldMax ETF와는 구조가 다릅니다."
+        },
+        "name": "BIGY는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SOXY는 반도체 포트폴리오 관련 옵션 인컴 전략 ETF입니다. 일반 반도체 지수 ETF와는 다르며, 옵션 전략으로 인해 상승 참여가 제한될 수 있습니다."
+        },
+        "name": "SOXY는 반도체 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. 2026년 5월 최신 Target 12 공시에는 BIGY, RNTY, SOXY가 함께 포함되어 있습니다. RNTY는 부동산 관련 포트폴리오를 기반으로 한 Target 12 ETF입니다."
+        },
+        "name": "RNTY도 Target 12 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "Target 12 ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

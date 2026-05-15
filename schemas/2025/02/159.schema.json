@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-02-14T11:27:37+09:00",
-  "datePublished": "2025-02-14T11:27:37+09:00",
-  "description": "📢 투자자 여러분, 새로운 기회를 소개합니다!YieldMax가 나스닥 100 지수를 기반으로 한 최초의 0DTE 커버드 콜 전략 ETF를 출시했습니다.✅ YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF (Nasdaq: QDTY)📌 QDTY 개요QDTY는 나스닥 100 지수를 기반으로 한 액티브 운용 ETF로, 0DTE 옵션 전략을 활용하여 주간 수익을 창출하는 것을 목표로 합니다.📌 핵심 포인트:0DTE 옵션 활용 – 매일 만료되는 옵션을 매도하여 수익 창출나스닥 100 지수 수익 노출 – 지수 상승 시 일부 상승분 참여 가능주간 배당 지급 목표 – 첫 배당 발표는 2025년 2월 26일 예정📊 QDTY의 투자 전략은?QDTY는 합성 커버드 콜 전략을 사..",
-  "headline": "🚀 YieldMax 새로운 0DTE ETF 출시! – QDTY로 나스닥 100 지수 기반 주간 수익 창출",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/159",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:42:10+09:00",
+    "datePublished": "2025-02-14T11:27:37+09:00",
+    "description": "핵심 요약: QDTY ETF는 YieldMax가 운용하는 Nasdaq 100 0DTE 커버드콜 전략 ETF입니다. 0DTE 콜옵션을 활용해 주간 인컴을 추구하지만, Distribution Rate는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 QDTY를 볼 때 분배금보다 0DTE 옵션 전략, 상승 참여 제한, Nasdaq 100 하락 위험, 30-Day SEC Yield, ROC, NAV 변화를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax QDTY 공식 상품 페이지, 2026년 5월 12일 Group 1 주간 분배금 공시, YieldMax Distribution Schedule, YieldMax 위험 고지 자료를 기준으로 작성했습니다. QDTY의 ..",
+    "headline": "QDTY ETF란? YieldMax Nasdaq 100 0DTE 커버드콜 ETF 배당과 위험 구조",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/159",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/159"
   },
-  "url": "https://mystock-note.tistory.com/159"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "QDTY ETF의 구조와 0DTE 커버드콜 전략을 정리합니다. YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF의 주간 분배금, Distribution Rate, 30-Day SEC Yield, ROC, NAV, 상승 제한과 하락 위험을 함께 설명합니다.",
+    "headline": "QDTY ETF란? YieldMax Nasdaq 100 0DTE 커버드콜 ETF 배당과 위험 구조",
+    "url": "https://mystock-note.tistory.com/159"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "QDTY는 YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF입니다. Nasdaq 100 Index 가격 수익에 제한적으로 노출되면서 0DTE 콜옵션 매도를 통해 인컴을 추구하는 액티브 ETF입니다."
+        },
+        "name": "QDTY ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 27.78%는 2026년 5월 12일 공시 기준 최근 분배금을 연율화한 수치입니다. 확정 수익률이나 향후 분배금 보장을 의미하지 않습니다."
+        },
+        "name": "QDTY의 27.78% Distribution Rate는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "30-Day SEC Yield는 순투자소득을 기준으로 계산되며, 옵션 인컴과 Distribution Rate 계산 방식과 다를 수 있습니다. 따라서 QDTY처럼 옵션 전략을 쓰는 ETF는 Distribution Rate와 SEC Yield가 크게 차이 날 수 있습니다."
+        },
+        "name": "QDTY의 30-Day SEC Yield가 0.00%인 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 12일 공시 기준 QDTY의 ROC는 100.00%로 표시되었습니다. 이는 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미하며, 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "QDTY의 ROC 100%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "그렇다고 단정할 수 없습니다. QDTY는 옵션 프리미엄을 받을 수 있지만, Nasdaq 100 하락 시 손실에 노출되고 상승장에서는 상승 참여가 제한될 수 있습니다."
+        },
+        "name": "QDTY는 일반 Nasdaq 100 ETF보다 안전한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 주간 분배금이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "QDTY는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

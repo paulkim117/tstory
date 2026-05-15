@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3882,
+  "body_html_length": 4154,
   "canonical_url": "https://mystock-note.tistory.com/151",
-  "content_hash": "4033ed67d3172f40c460b452870bb7afa64a70c4df7f80ebe47c04cb6529f3df",
-  "json_ld_count": 1,
-  "meta_description": "📢 YieldMax ETF, 새로운 배당 소식 전합니다!2025년 1월 22일 – YieldMax가 FEAT, FIVY, YBIT 등 여러 ETF의 배당금 소식을 발표했습니다. 투자자 여러분께 도움이 될 정보를 간단하고 친근하게 정리했어요. 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금FEAT$2.1944FIVY$1.6771YBIT$0.7893YMAX$0.1720YMAG$0.1002💡 참고: 배당금은 2025년 1월 21일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 크게 변동될 수 있으며, 지급되지 않을 가능성도 있어요.2️⃣ 기초 자산 배당금과는 다릅니다.투자자는 ETF의 기반 자산(예: TSLA, NVDA ..",
-  "modified_time": "2025-01-23T10:21:19+09:00",
+  "content_hash": "d157d72b0782aab841b65b265ab6491353b3ef9682e2a207c12c3345bd9a7640",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: YieldMax ETF의 분배금은 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 FEAT $2.1944, FIVY $1.6771, YBIT $0.7893, YMAX $0.1720, YMAG $0.1002는 2025년 1월 22일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, 기초자산 변동성, 펀드오브펀드 비용, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 22일 FEAT·FIVY·YBIT·YMAX·YMAG 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 2026년 5월 ..",
+  "modified_time": "2026-05-15T22:02:57+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 YieldMax ETF, 새로운 배당 소식 전합니다!2025년 1월 22일 – YieldMax가 FEAT, FIVY, YBIT 등 여러 ETF의 배당금 소식을 발표했습니다. 투자자 여러분께 도움이 될 정보를 간단하고 친근하게 정리했어요. 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금FEAT$2.1944FIVY$1.6771YBIT$0.7893YMAX$0.1720YMAG$0.1002💡 참고: 배당금은 2025년 1월 21일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 크게 변동될 수 있으며, 지급되지 않을 가능성도 있어요.2️⃣ 기초 자산 배당금과는 다릅니다.투자자는 ETF의 기반 자산(예: TSLA, NVDA ..",
-  "og_title": "💰 YieldMax™ 1월 배당 발표 – FEAT($2.1944), FIVY($1.6771) 포함 주요 ETF 업데이트!",
+  "og_description": "핵심 요약: YieldMax ETF의 분배금은 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 FEAT $2.1944, FIVY $1.6771, YBIT $0.7893, YMAX $0.1720, YMAG $0.1002는 2025년 1월 22일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, 기초자산 변동성, 펀드오브펀드 비용, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 22일 FEAT·FIVY·YBIT·YMAX·YMAG 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 2026년 5월 ..",
+  "og_title": "YieldMax 주간 배당 발표 해석: FEAT·FIVY·YBIT·YMAX·YMAG 분배금은 확정 수익일까?",
   "post_id": "151",
   "published_time": "2025-01-23T10:21:19+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "💰 YieldMax™ 1월 배당 발표 – FEAT($2.1944), FIVY($1.6771) 포함 주요 ETF 업데이트!",
+  "title": "YieldMax 주간 배당 발표 해석: FEAT·FIVY·YBIT·YMAX·YMAG 분배금은 확정 수익일까?",
   "url": "https://mystock-note.tistory.com/151"
 }

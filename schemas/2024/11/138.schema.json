@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-27T10:14:34+09:00",
-  "datePublished": "2024-11-27T10:14:34+09:00",
-  "description": "오늘의 시장 요약추수감사절 연휴를 앞두고 황소 투자자들이 주도권을 유지하고 있습니다. 기술주와 대형주로의 자금 이동이 두드러지며, 비트코인은 $100,000를 넘지 못했지만 주식 시장의 위험 선호는 여전히 강세를 보이고 있습니다. 👀오늘 뉴스레터에서는 소비자 신뢰 지수의 상승, 주요 소매 및 기술 실적 발표, 그리고 최근 논란이 된 중국 펌프 앤 덤프 사례를 분석합니다. 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.유틸리티(+1.59%) 섹터가 상승을 주도했고, 소재(-0.75%) 섹터는 가장 부진했습니다.종가 정보S&P 500: 6,022 (+0.57%)나스닥: 19,176 (+0.63%)러셀 2000: 2,424 (-0.73%)다우존스: 44,860 (+0.28%..",
-  "headline": "소비자 신뢰 상승! 연말 시장 분위기 기대감 고조",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FsWDLw%2FbtsKWYcoera%2FAAAAAAAAAAAAAAAAAAAAABoqBqegIMdq9EegafSJ2MRee3OXaaI8rrX1hgWB9dZR%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DU5537DJuab7qwSTaLOcqySky3cA%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/138",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:42:48+09:00",
+    "datePublished": "2024-11-27T10:14:34+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 26일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 S&P 500과 다우존스는 사상 최고가를 기록했고, 나스닥도 상승했지만 러셀 2000은 하락했습니다. 소비자신뢰지수는 111.7로 개선되었고, 시장은 추수감사절 연휴를 앞두고 대형주와 기술주 중심의 위험 선호를 이어갔습니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지표와 현재 주가를 별도로 확인해야 합니다.자료 기준일은 2024년 11월 26일이며, 본문 수정일은 2026년 5월 15일입니다. 본문은 AP의 주요 지수 마감 자료, 컨퍼런스보드의 2024년 11월 소비자신뢰지수 발표, 연준 2024년 11월 FOMC 의사록, Reuters·AP의 주요 기업 실적 기사..",
+    "headline": "추수감사절 전 미국 증시 흐름: S&P 500·나스닥 상승과 소비자심리 개선",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FsWDLw%2FbtsKWYcoera%2FAAAAAAAAAAAAAAAAAAAAABoqBqegIMdq9EegafSJ2MRee3OXaaI8rrX1hgWB9dZR%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DU5537DJuab7qwSTaLOcqySky3cA%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/138",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/138"
   },
-  "url": "https://mystock-note.tistory.com/138"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "2024년 11월 26일 미국 증시 흐름을 정리합니다. S&P 500과 다우존스의 최고가, 나스닥 상승, 러셀 2000 하락, 소비자신뢰지수 111.7, 연준 의사록, 소매업 실적 부진과 Ambarella 등 기술주 흐름을 함께 분석합니다.",
+    "headline": "2024년 11월 26일 미국 증시 리뷰: S&P 500 최고가와 소비자신뢰지수 111.7",
+    "url": "https://mystock-note.tistory.com/138"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글의 기준일은 2024년 11월 26일입니다. 현재 시장 상황이 아니라 당시 미국 증시 마감과 주요 뉴스 흐름을 정리한 글입니다."
+        },
+        "name": "이 글의 오늘은 현재 날짜를 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500은 6,021.63으로 마감했습니다. 전일 대비 약 0.6% 상승했고, 당시 사상 최고가를 기록했습니다."
+        },
+        "name": "2024년 11월 26일 S&P 500은 얼마에 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 111.7은 2024년 11월 컨퍼런스보드 소비자신뢰지수입니다. 현재 소비자신뢰지수는 별도로 최신 자료를 확인해야 합니다."
+        },
+        "name": "소비자신뢰지수 111.7은 현재 최신 수치인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "소비자들이 현재 상황, 특히 노동시장에 대해 더 긍정적으로 평가했기 때문입니다. 이는 경기 연착륙 기대를 높이는 요인으로 해석될 수 있었습니다."
+        },
+        "name": "당시 시장이 소비자신뢰지수를 긍정적으로 본 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "당시 대형주와 기술주가 강했지만, 중소형주는 직전 강세 이후 차익 실현이 나타났습니다. 그래서 S&P 500과 나스닥이 오른 날에도 러셀 2000은 하락했습니다."
+        },
+        "name": "러셀 2000은 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 26일 시장 기록입니다. 현재 투자 판단에는 최신 지수, 금리, 실적, 경제지표, 연준 발언을 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

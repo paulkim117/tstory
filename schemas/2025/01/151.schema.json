@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2025-01-23T10:21:19+09:00",
-  "datePublished": "2025-01-23T10:21:19+09:00",
-  "description": "📢 YieldMax ETF, 새로운 배당 소식 전합니다!2025년 1월 22일 – YieldMax가 FEAT, FIVY, YBIT 등 여러 ETF의 배당금 소식을 발표했습니다. 투자자 여러분께 도움이 될 정보를 간단하고 친근하게 정리했어요. 😊📊 이번 달 주요 ETF 배당금 내역ETF 이름주당 배당금FEAT$2.1944FIVY$1.6771YBIT$0.7893YMAX$0.1720YMAG$0.1002💡 참고: 배당금은 2025년 1월 21일 종가 기준으로 계산된 최신 금액입니다.⚠️ 꼭 알아야 할 중요한 정보1️⃣ 배당금은 보장되지 않습니다.배당금은 매달 크게 변동될 수 있으며, 지급되지 않을 가능성도 있어요.2️⃣ 기초 자산 배당금과는 다릅니다.투자자는 ETF의 기반 자산(예: TSLA, NVDA ..",
-  "headline": "💰 YieldMax™ 1월 배당 발표 – FEAT($2.1944), FIVY($1.6771) 포함 주요 ETF 업데이트!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FwGosR%2FbtsLYcstM0g%2FAAAAAAAAAAAAAAAAAAAAAKMJaSGWy6JJQMd25GfFPPYJDsB2vYhO87tv-cAiughY%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DyGRpKEUZo1TacQC0mpYYpL5FFYE%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/151",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:02:57+09:00",
+    "datePublished": "2025-01-23T10:21:19+09:00",
+    "description": "핵심 요약: YieldMax ETF의 분배금은 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 FEAT $2.1944, FIVY $1.6771, YBIT $0.7893, YMAX $0.1720, YMAG $0.1002는 2025년 1월 22일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, 기초자산 변동성, 펀드오브펀드 비용, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 22일 FEAT·FIVY·YBIT·YMAX·YMAG 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 2026년 5월 ..",
+    "headline": "YieldMax 주간 배당 발표 해석: FEAT·FIVY·YBIT·YMAX·YMAG 분배금은 확정 수익일까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FwGosR%2FbtsLYcstM0g%2FAAAAAAAAAAAAAAAAAAAAAKMJaSGWy6JJQMd25GfFPPYJDsB2vYhO87tv-cAiughY%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DyGRpKEUZo1TacQC0mpYYpL5FFYE%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/151",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/151"
   },
-  "url": "https://mystock-note.tistory.com/151"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "YieldMax ETF인 FEAT, FIVY, YBIT, YMAX, YMAG의 분배금과 Distribution Rate를 정리합니다. 2025년 1월 공시 수치와 2026년 최신 공시 수치를 비교하고, 30-Day SEC Yield, ROC, NAV, 펀드오브펀드, 비트코인 옵션 인컴 ETF 위험을 설명합니다.",
+    "headline": "YieldMax 주간 배당 발표 해석: FEAT·FIVY·YBIT·YMAX·YMAG 분배금은 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/151"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. FEAT $2.1944는 2025년 1월 22일 공시 기준 분배금입니다. 2026년 5월 12일 업데이트 공시 기준 FEAT의 분배금은 $0.2643으로 표시되었습니다."
+        },
+        "name": "2025년 FEAT $2.1944 분배금은 지금도 유효한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FIVY는 YieldMax Dorsey Wright Hybrid 5 Income ETF입니다. 공식 상품 설명 기준 포트폴리오를 60% YieldMax ETF, 40% 해당 기초 주식으로 구성하는 하이브리드 ETF입니다."
+        },
+        "name": "FIVY는 어떤 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "YBIT는 비트코인 관련 옵션 인컴 ETF입니다. 공식 상품 설명 기준 IBIT에 대한 콜 스프레드 매도를 통해 주간 인컴을 추구합니다. 일반 비트코인 현물 ETF와는 구조가 다릅니다."
+        },
+        "name": "YBIT는 비트코인 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YMAX와 YMAG는 여러 YieldMax ETF에 투자하는 펀드오브펀드 성격의 상품입니다. 따라서 개별 단일 종목형 YieldMax ETF와는 비용 구조와 분산 방식이 다릅니다."
+        },
+        "name": "YMAX와 YMAG는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "단순 운용보수만 볼 것이 아니라 간접 비용을 함께 확인해야 합니다. 2026년 5월 12일 Group 1 업데이트 공시 기준 FEAT의 총보수는 1.28%, FIVY의 총보수는 0.88%로 설명되었습니다."
+        },
+        "name": "FEAT와 FIVY는 비용이 낮은 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배금이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "YieldMax ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

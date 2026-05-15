@@ -1,23 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3412,
+  "body_html_length": 4675,
   "canonical_url": "https://mystock-note.tistory.com/144",
-  "content_hash": "4eca7a28d385928250a246e7fcf4f5d1d991ceac4acd079127c639d1874de462",
-  "json_ld_count": 0,
-  "meta_description": "YieldMax™ 12월 월별 배당 발표 📊안녕하세요, YieldMax™ 투자자 여러분!12월에도 YieldMax™가 여러분의 관심을 사로잡을 높은 배당률을 공개했습니다. 아래에서 눈에 띄는 ETF 배당률을 확인해 보세요!📈 주목할 만한 배당률 TOP 5:CONY: 105.60%FIAT: 101.57%ULTY: 92.32%NFLY: 58.16%YMAG: 43.89%이 외에도 여러 ETF가 배당률을 기록했으니, 꼭 확인해 보세요!✅ 꼭 알아두어야 할 정보들과거 성과는 미래를 보장하지 않아요발표된 배당률은 과거 데이터를 기반으로 한 것으로, 동일한 수익률이 계속 유지되리라는 보장은 없습니다. 투자 성과는 변동성이 크니 주의 깊게 지켜봐 주세요.배당금은 보장되지 않습니다배당금은 매달 달라질 수 있고, 어떤..",
-  "modified_time": "2024-12-12T10:18:51+09:00",
+  "content_hash": "b03e01c23bca17195d64cba32bc3b37d4b3703f72a0c0e458a5ef5d82cf959c4",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 기존 글에 표시된 CONY 105.60%, FIAT 101.57%, ULTY 92.32%, NFLY 58.16%, YMAG 43.89%는 2024년 12월 11일 YieldMax 공시 기준 배당률입니다. 현재 기준 최신 Distribution Rate는 다르게 바뀌었으므로, 과거 배당률을 현재 수익률처럼 보면 안 됩니다. 투자자는 배당률보다 분배금, Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 11일 CONY·FIAT·ULTY·YMAX·YMAG 분배금 공시, 2026년 5월 13일 Group 2 주간 ..",
+  "modified_time": "2026-05-15T22:22:37+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/144\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/144\",\"headline\":\"🔔 \"YieldMax™ ETF 12월 배당률 발표! 💰 높은 수익률을 확인하세요!\"\",\"description\":\"YieldMax™ 12월 월별 배당 발표 📊안녕하세요, YieldMax™ 투자자 여러분!12월에도 YieldMax™가 여러분의 관심을 사로잡을 높은 배당률을 공개했습니다. 아래에서 눈에 띄는 ETF 배당률을 확인해 보세요!📈 주목할 만한 배당률 TOP 5:CONY: 105.60%FIAT: 101.57%ULTY: 92.32%NFLY: 58.16%YMAG: 43.89%이 외에도 여러 ETF가 배당률을 기록했으니, 꼭 확인해 보세요!✅ 꼭 알아두어야 할 정보들과거 성과는 미래를 보장하지 않아요발표된 배당률은 과거 데이터를 기반으로 한 것으로, 동일한 수익률이 계속 유지되리라는 보장은 없습니다. 투자 성과는 변동성이 크니 주의 깊게 지켜봐 주세요.배당금은 보장되지 않습니다배당금은 매달 달라질 수 있고, 어떤..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FBjAvw%2FbtsLePsI6Sx%2FAAAAAAAAAAAAAAAAAAAAAH9cxGhUVabT8Y1vzwXDA9waU-xOTYCZJAWfM85fZjEc%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DifDHTmHTVXJ7DIQvdNh75DykkjE%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2024-12-12T10:18:51+09:00\",\"dateModified\":\"2024-12-12T10:18:51+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "YieldMax™ 12월 월별 배당 발표 📊안녕하세요, YieldMax™ 투자자 여러분!12월에도 YieldMax™가 여러분의 관심을 사로잡을 높은 배당률을 공개했습니다. 아래에서 눈에 띄는 ETF 배당률을 확인해 보세요!📈 주목할 만한 배당률 TOP 5:CONY: 105.60%FIAT: 101.57%ULTY: 92.32%NFLY: 58.16%YMAG: 43.89%이 외에도 여러 ETF가 배당률을 기록했으니, 꼭 확인해 보세요!✅ 꼭 알아두어야 할 정보들과거 성과는 미래를 보장하지 않아요발표된 배당률은 과거 데이터를 기반으로 한 것으로, 동일한 수익률이 계속 유지되리라는 보장은 없습니다. 투자 성과는 변동성이 크니 주의 깊게 지켜봐 주세요.배당금은 보장되지 않습니다배당금은 매달 달라질 수 있고, 어떤..",
-  "og_title": "🔔 \"YieldMax™ ETF 12월 배당률 발표! 💰 높은 수익률을 확인하세요!\"",
+  "og_description": "핵심 요약: 기존 글에 표시된 CONY 105.60%, FIAT 101.57%, ULTY 92.32%, NFLY 58.16%, YMAG 43.89%는 2024년 12월 11일 YieldMax 공시 기준 배당률입니다. 현재 기준 최신 Distribution Rate는 다르게 바뀌었으므로, 과거 배당률을 현재 수익률처럼 보면 안 됩니다. 투자자는 배당률보다 분배금, Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 11일 CONY·FIAT·ULTY·YMAX·YMAG 분배금 공시, 2026년 5월 13일 Group 2 주간 ..",
+  "og_title": "YieldMax 12월 배당률 공시 해석: CONY·FIAT·ULTY 고분배율은 지금도 유효할까?",
   "post_id": "144",
   "published_time": "2024-12-12T10:18:51+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🔔 \"YieldMax™ ETF 12월 배당률 발표! 💰 높은 수익률을 확인하세요!\"",
+  "title": "YieldMax 12월 배당률 공시 해석: CONY·FIAT·ULTY 고분배율은 지금도 유효할까?",
   "url": "https://mystock-note.tistory.com/144"
 }

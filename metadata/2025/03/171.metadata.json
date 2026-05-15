@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3850,
+  "body_html_length": 3032,
   "canonical_url": "https://mystock-note.tistory.com/171",
-  "content_hash": "8679c8caadf7bffcb716a9c10640e5646af618aae0e7283da5b0bc8d80f1b68f",
-  "json_ld_count": 1,
-  "meta_description": "안녕하세요, 투자자 여러분! 👋오늘은 YieldMax에서 새롭게 출시한 YieldMax Short MSTR Option Income Strategy ETF (NYSE: WNTR)*에 대해 소개해드릴게요. 이 ETF는 마이크로스트래티지(MSTR)의 주가 변동을 활용하여 수익을 창출하는 옵션 전략 ETF입니다. 📉📈WNTR, 어떤 ETF인가요?WNTR은 MSTR 주가 하락 시 수익을 낼 수 있도록 설계된 액티브 ETF예요. 직접 MSTR을 공매도하지 않지만, 합성 커버드 풋 전략을 활용해 MSTR 주가 움직임을 반대로 추종합니다.하지만! ⚠️ MSTR 주가 상승 시 손실이 발생할 수 있으며, 경우에 따라 최대 100%까지 손실이 날 수 있다는 점을 꼭 유의하세요.포트폴리오 구성은?WNTR은 다음과 같은..",
-  "modified_time": "2025-03-31T11:30:52+09:00",
+  "content_hash": "9c67d041cf8bda25297a05a2e6d1f4ab6697c7bedb78f2a99499908a458e10be",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: WNTR ETF는 YieldMax가 운용하는 Short MSTR 옵션 인컴 ETF입니다. MSTR, 현재 Strategy Inc., 주가 움직임에 대해 간접 역방향 노출을 제공하면서 옵션 프리미엄을 통해 주간 분배금을 추구합니다. 다만 WNTR은 MSTR을 직접 공매도하거나 직접 보유하는 ETF가 아니며, MSTR 하락분을 그대로 1대1로 반대로 따라가는 상품도 아닙니다. 투자 전에는 분배율, 30-Day SEC Yield, ROC, NAV, MSTR 상승 위험, 비트코인 간접 노출을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax WNTR 공식 상품 페이지, WNTR Prospectus, YieldMax Distribution Schedule, Yi..",
+  "modified_time": "2026-05-15T21:06:21+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "안녕하세요, 투자자 여러분! 👋오늘은 YieldMax에서 새롭게 출시한 YieldMax Short MSTR Option Income Strategy ETF (NYSE: WNTR)*에 대해 소개해드릴게요. 이 ETF는 마이크로스트래티지(MSTR)의 주가 변동을 활용하여 수익을 창출하는 옵션 전략 ETF입니다. 📉📈WNTR, 어떤 ETF인가요?WNTR은 MSTR 주가 하락 시 수익을 낼 수 있도록 설계된 액티브 ETF예요. 직접 MSTR을 공매도하지 않지만, 합성 커버드 풋 전략을 활용해 MSTR 주가 움직임을 반대로 추종합니다.하지만! ⚠️ MSTR 주가 상승 시 손실이 발생할 수 있으며, 경우에 따라 최대 100%까지 손실이 날 수 있다는 점을 꼭 유의하세요.포트폴리오 구성은?WNTR은 다음과 같은..",
-  "og_title": "새로운 ETF 출시! YieldMax WNTR – MSTR 주가 하락에서 수익을 노리는 전략적 선택",
+  "og_description": "핵심 요약: WNTR ETF는 YieldMax가 운용하는 Short MSTR 옵션 인컴 ETF입니다. MSTR, 현재 Strategy Inc., 주가 움직임에 대해 간접 역방향 노출을 제공하면서 옵션 프리미엄을 통해 주간 분배금을 추구합니다. 다만 WNTR은 MSTR을 직접 공매도하거나 직접 보유하는 ETF가 아니며, MSTR 하락분을 그대로 1대1로 반대로 따라가는 상품도 아닙니다. 투자 전에는 분배율, 30-Day SEC Yield, ROC, NAV, MSTR 상승 위험, 비트코인 간접 노출을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax WNTR 공식 상품 페이지, WNTR Prospectus, YieldMax Distribution Schedule, Yi..",
+  "og_title": "WNTR ETF란? YieldMax Short MSTR 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "171",
   "published_time": "2025-03-31T11:30:52+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "새로운 ETF 출시! YieldMax WNTR – MSTR 주가 하락에서 수익을 노리는 전략적 선택",
+  "title": "WNTR ETF란? YieldMax Short MSTR 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/171"
 }

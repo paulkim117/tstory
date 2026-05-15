@@ -5,8 +5,8 @@
 - Total URLs found: 198
 - Numeric post URLs: 181
 - Successfully backed up: 180
-- Skipped unchanged: 0
-- Updated: 180
+- Skipped unchanged: 129
+- Updated: 51
 - Failed: 1
 
 ## Failed URLs

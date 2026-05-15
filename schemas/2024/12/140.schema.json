@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:35:16+09:00",
+    "datePublished": "2024-12-02T13:53:23+09:00",
+    "description": "핵심 요약: 미국 단기채 ETF는 BIL, SGOV, SHV, VGSH처럼 만기가 짧은 미국 국채에 투자하는 ETF입니다. 예금보다 유리해 보일 수 있지만, 원금보장 상품은 아니며 원화 투자자에게는 환율, 세금, 매매수수료, ETF 가격 변동 리스크가 함께 발생합니다. 2026년 5월 기준 BIL·SGOV·SHV의 30-Day SEC Yield는 약 3.5%대, VGSH는 약 3.8%대입니다. 따라서 “예금보다 무조건 유리하다”가 아니라 “달러 단기 자금 운용 수단으로 검토할 수 있다”가 더 정확한 표현입니다.자료 확인일은 2026년 5월 15일입니다. 본문은 State Street BIL 공식 상품 페이지, iShares SGOV·SHV 공식 상품 페이지, Vanguard VGSH 공식 상품 페이지, ..",
+    "headline": "미국 단기채 ETF란? BIL·SGOV·SHV·VGSH 수익률과 예금 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdqhqnU%2FbtsK3tJLY1M%2FAAAAAAAAAAAAAAAAAAAAABCBuos0daSHtBvPAv_FydKnQrzjBfNSXVJTzbM07hLH%2Fimg.webp%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DJ7Rw56tFpzLJfUp%252BoPYXlZa%252FuFI%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/140",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/140"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "미국 단기채 ETF인 BIL, SGOV, SHV, VGSH의 최신 SEC Yield와 비용, 만기 구조를 비교합니다. 국내 예·적금과 비교할 때 확인해야 할 환율, 세금, 원금보장 여부, 금리 하락 리스크를 정리합니다.",
+    "headline": "미국 단기채 ETF란? BIL·SGOV·SHV·VGSH 수익률과 예금 비교",
+    "url": "https://mystock-note.tistory.com/140"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 미국 단기채 ETF는 미국 국채에 투자하더라도 ETF 가격은 시장에서 변동합니다. 국내 예금처럼 원금보장이나 예금자보호가 적용되는 상품이 아닙니다."
+        },
+        "name": "미국 단기채 ETF는 원금보장 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "단정할 수 없습니다. 두 ETF 모두 초단기 미국 국채 ETF입니다. SGOV는 비용이 낮고, BIL은 오래된 대표 상품입니다. 선택 시 30-Day SEC Yield, 비용, 거래량, 스프레드, 보유 증권사를 함께 확인해야 합니다."
+        },
+        "name": "BIL과 SGOV 중 무엇이 더 낫나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "VGSH는 1~3년 미국 국채에 투자하기 때문에 초단기 ETF보다 금리 노출이 더 깁니다. 수익률이 높게 보일 수 있지만 금리 변화에 따른 가격 변동도 더 커질 수 있습니다."
+        },
+        "name": "VGSH는 왜 수익률이 더 높게 보이나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "비교 기준이 다릅니다. 미국 단기채 ETF는 미국 국채 기반이라 신용위험은 낮은 편이지만, ETF 가격 변동과 환율 변동이 있습니다. 국내 예금은 예금자보호 한도 내에서 원금보장 성격이 강합니다."
+        },
+        "name": "미국 단기채 ETF는 예금보다 안전한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "보장되지 않습니다. 미국 기준금리와 단기 국채 금리가 내려가면 BIL, SGOV, SHV 같은 단기채 ETF의 향후 분배 수익률도 낮아질 수 있습니다."
+        },
+        "name": "미국 단기채 ETF 수익률은 앞으로도 유지되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "환율 리스크입니다. ETF의 달러 기준 수익률이 플러스여도 원·달러 환율이 하락하면 원화 기준 수익률은 낮아질 수 있습니다."
+        },
+        "name": "원화 투자자에게 가장 중요한 리스크는 무엇인가요?"
+      }
+    ]
+  }
+]

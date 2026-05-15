@@ -1,23 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 4349,
+  "body_html_length": 4461,
   "canonical_url": "https://mystock-note.tistory.com/150",
-  "content_hash": "fbf5044cb05567bf6655eb1d5f711e4362935a107431478ecd3a844d93123015",
-  "json_ld_count": 0,
-  "meta_description": "📢 YieldMax™, 혁신적인 ETF 'LFGY' 출시!2025년 1월 14일 – YieldMax™가 첫 번째 포트폴리오 ETF를 선보입니다! 새로운 ETF는 \"Crypto Industry & Tech Portfolio Option Income ETF (NYSE Arca: LFGY)\"로, 암호화폐 산업 및 기술 기업에 집중한 적극적 운용 ETF입니다.🔍 LFGY 개요종목명: YieldMax™ Crypto Industry & Tech Portfolio Option Income ETF운용 목표:암호화폐 및 기술 기업을 직접 투자하여 수익 창출과 자본 성장 추구옵션 포트폴리오를 통해 현재 수익 생성💼 LFGY 투자 전략1️⃣ 주식 포트폴리오구성: 15-30개의 엄선된 암호화폐 및 기술 기업목표: 자본 ..",
-  "modified_time": "2025-01-15T10:10:22+09:00",
+  "content_hash": "88a059e4d818a954b1e954834266598f7726bcdbd0268854bae71ae569e12f38",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: LFGY ETF는 YieldMax가 운용하는 Crypto Industry & Tech Portfolio Option Income ETF입니다. LFGY는 15~30개 암호화폐 산업 및 기술 기업에 투자하면서, 해당 기업 또는 Crypto ETF 옵션 전략을 활용해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 LFGY의 Distribution Rate는 55.13%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 암호화폐 관련 주식 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 14일 L..",
+  "modified_time": "2026-05-15T22:04:53+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/150\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/150\",\"headline\":\"🚀 YieldMax™, 신규 ETF 출시 – LFGY\",\"description\":\"📢 YieldMax™, 혁신적인 ETF 'LFGY' 출시!2025년 1월 14일 – YieldMax™가 첫 번째 포트폴리오 ETF를 선보입니다! 새로운 ETF는 \"Crypto Industry & Tech Portfolio Option Income ETF (NYSE Arca: LFGY)\"로, 암호화폐 산업 및 기술 기업에 집중한 적극적 운용 ETF입니다.🔍 LFGY 개요종목명: YieldMax™ Crypto Industry & Tech Portfolio Option Income ETF운용 목표:암호화폐 및 기술 기업을 직접 투자하여 수익 창출과 자본 성장 추구옵션 포트폴리오를 통해 현재 수익 생성💼 LFGY 투자 전략1️⃣ 주식 포트폴리오구성: 15-30개의 엄선된 암호화폐 및 기술 기업목표: 자본 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcURIVe%2FbtsLNOsJsrW%2FAAAAAAAAAAAAAAAAAAAAAJjroJgksjS9JSoDbBQtEkiNl9OfLRY2bl3AihLGDidP%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DbQkNVHwt4A97Sx2nXk2it7Ucy8Y%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2025-01-15T10:10:22+09:00\",\"dateModified\":\"2025-01-15T10:10:22+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 YieldMax™, 혁신적인 ETF 'LFGY' 출시!2025년 1월 14일 – YieldMax™가 첫 번째 포트폴리오 ETF를 선보입니다! 새로운 ETF는 \"Crypto Industry & Tech Portfolio Option Income ETF (NYSE Arca: LFGY)\"로, 암호화폐 산업 및 기술 기업에 집중한 적극적 운용 ETF입니다.🔍 LFGY 개요종목명: YieldMax™ Crypto Industry & Tech Portfolio Option Income ETF운용 목표:암호화폐 및 기술 기업을 직접 투자하여 수익 창출과 자본 성장 추구옵션 포트폴리오를 통해 현재 수익 생성💼 LFGY 투자 전략1️⃣ 주식 포트폴리오구성: 15-30개의 엄선된 암호화폐 및 기술 기업목표: 자본 ..",
-  "og_title": "🚀 YieldMax™, 신규 ETF 출시 – LFGY",
+  "og_description": "핵심 요약: LFGY ETF는 YieldMax가 운용하는 Crypto Industry & Tech Portfolio Option Income ETF입니다. LFGY는 15~30개 암호화폐 산업 및 기술 기업에 투자하면서, 해당 기업 또는 Crypto ETF 옵션 전략을 활용해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 LFGY의 Distribution Rate는 55.13%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 암호화폐 관련 주식 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 14일 L..",
+  "og_title": "LFGY ETF란? YieldMax Crypto Industry & Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "150",
   "published_time": "2025-01-15T10:10:22+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax™, 신규 ETF 출시 – LFGY",
+  "title": "LFGY ETF란? YieldMax Crypto Industry & Tech 포트폴리오 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/150"
 }

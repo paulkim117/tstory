@@ -1,23 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3791,
+  "body_html_length": 2493,
   "canonical_url": "https://mystock-note.tistory.com/170",
-  "content_hash": "7b8877b10de27df4717574776e1a7d3531702b7f032f320827550bf2b481bb86",
-  "json_ld_count": 0,
-  "meta_description": "💰 투자자 여러분! 이번 주 YieldMax Weekly Payers 및 Group B ETF 배당금이 발표되었습니다.🔝 배당률 TOP 5✅ PLTY: 100.21%✅ MARO: 75.43%✅ ULTY: 75.27% (매주 배당 지급 지속 📅)✅ MRNY: 69.46%✅ LFGY: 61.87%✨ 그 외 다양한 ETF들도 포함!📌 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반환(ROC) 등이 포함될 수 있습니다.🔹 배당률(D..",
-  "modified_time": "2025-03-26T22:58:23+09:00",
+  "content_hash": "7ce1f5e0184a3576b58f568b99fe879c90f2391d7e7c3ab968cc5a6fdcbd675d",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 2025년 3월 26일 YieldMax는 Weekly Payers 및 Group B ETF의 분배금을 발표했습니다. 공시 기준 분배율은 PLTY 100.21%, MARO 75.43%, ULTY 75.27%, MRNY 69.46%, LFGY 61.87%로 높게 표시되었습니다. 그러나 이 분배율은 확정 수익률이 아니며, 최근 분배금을 연율화한 수치입니다. 투자자는 분배율보다 30-Day SEC Yield, ROC(Return of Capital), NAV, 총수익률, 옵션 전략, Short ETF 여부를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 3월 26일 GlobeNewswire 분배금 공시, YieldMax Distribution S..",
+  "modified_time": "2026-05-15T21:03:32+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/170\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/170\",\"headline\":\"📢 YieldMax ETF 배당 발표 – 최신 배당률 공개! 🚀\",\"description\":\"💰 투자자 여러분! 이번 주 YieldMax Weekly Payers 및 Group B ETF 배당금이 발표되었습니다.🔝 배당률 TOP 5✅ PLTY: 100.21%✅ MARO: 75.43%✅ ULTY: 75.27% (매주 배당 지급 지속 📅)✅ MRNY: 69.46%✅ LFGY: 61.87%✨ 그 외 다양한 ETF들도 포함!📌 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반환(ROC) 등이 포함될 수 있습니다.🔹 배당률(D..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FJ6A6D%2FbtsMYtUBhJt%2FAAAAAAAAAAAAAAAAAAAAAGDkv77IP4iEUFbohhV5QGB8oXFKLevsVGtLXGeJ5-Sg%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FBEh8XiAJvyYq%252F%252BhSb8C%252BUjBvTk%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2025-03-26T22:58:23+09:00\",\"dateModified\":\"2025-03-26T22:58:23+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "💰 투자자 여러분! 이번 주 YieldMax Weekly Payers 및 Group B ETF 배당금이 발표되었습니다.🔝 배당률 TOP 5✅ PLTY: 100.21%✅ MARO: 75.43%✅ ULTY: 75.27% (매주 배당 지급 지속 📅)✅ MRNY: 69.46%✅ LFGY: 61.87%✨ 그 외 다양한 ETF들도 포함!📌 DIPS, FIAT, CRSH, YQQQ는 \"Short ETFs\"로 구분됩니다.💡 YieldMax ETF, 배당금이 보장되나요?🔹 배당금은 변동될 수 있으며, 지급되지 않을 수도 있습니다.🔹 ETF 투자자는 기초 자산의 배당금이나 분배금을 직접 받을 권리는 없습니다.🔹 배당금은 옵션 프리미엄, 자본 이득, 원금 반환(ROC) 등이 포함될 수 있습니다.🔹 배당률(D..",
-  "og_title": "📢 YieldMax ETF 배당 발표 – 최신 배당률 공개! 🚀",
+  "og_description": "핵심 요약: 2025년 3월 26일 YieldMax는 Weekly Payers 및 Group B ETF의 분배금을 발표했습니다. 공시 기준 분배율은 PLTY 100.21%, MARO 75.43%, ULTY 75.27%, MRNY 69.46%, LFGY 61.87%로 높게 표시되었습니다. 그러나 이 분배율은 확정 수익률이 아니며, 최근 분배금을 연율화한 수치입니다. 투자자는 분배율보다 30-Day SEC Yield, ROC(Return of Capital), NAV, 총수익률, 옵션 전략, Short ETF 여부를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 3월 26일 GlobeNewswire 분배금 공시, YieldMax Distribution S..",
+  "og_title": "YieldMax ETF 배당률 TOP5 해석: PLTY·MARO·ULTY 고분배는 확정 수익일까?",
   "post_id": "170",
   "published_time": "2025-03-26T22:58:23+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "📢 YieldMax ETF 배당 발표 – 최신 배당률 공개! 🚀",
+  "title": "YieldMax ETF 배당률 TOP5 해석: PLTY·MARO·ULTY 고분배는 확정 수익일까?",
   "url": "https://mystock-note.tistory.com/170"
 }

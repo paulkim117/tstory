@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 4086,
+  "body_html_length": 4274,
   "canonical_url": "https://mystock-note.tistory.com/154",
-  "content_hash": "bff89b33e64eceba37fc21a68de74ebd780810222a959e5c4a196234ff87b4d2",
-  "json_ld_count": 1,
-  "meta_description": "📢 YieldMax, 새로운 옵션 소득 ETF 'CVNY' 공식 출시!2025년 1월 30일 – YieldMax가 Carvana(CVNA)를 기반으로 하는 신규 옵션 소득 전략 ETF(CVNY)를 발표했습니다!이 ETF는 Carvana 주식에 직접 투자하지 않고, 옵션 전략을 활용해 수익을 창출하는 것을 목표로 합니다.🔍 CVNY 개요ETF 이름: YieldMax Carvana Option Income Strategy ETF티커 코드: NYSE Arca: CVNY운용사: Tidal Financial Group투자 방식:Carvana(CVNA) 주식에 직접 투자하지 않음대신 옵션 기반 전략을 활용하여 소득 창출 💼 CVNY 투자 전략1️⃣ 옵션 기반 소득 창출CVNA 주식의 상승/하락 여부와 상관없이..",
-  "modified_time": "2025-01-31T10:21:17+09:00",
+  "content_hash": "79cdbb32b6e7a9b7830ecfbdacabaff426275992de4a73209743225b841b09d9",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: CVNY ETF는 YieldMax가 운용하는 Carvana(CVNA) 기반 옵션 인컴 ETF입니다. CVNY는 CVNA 주식에 직접 투자하는 상품이 아니라, CVNA를 기초자산으로 한 옵션 전략을 통해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 CVNY의 Distribution Rate는 100.40%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 CVNA 주가 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 30일 CVNY 출시 공시, YieldMax CVNY 공식 상품 페이지, 2..",
+  "modified_time": "2026-05-15T21:54:19+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "📢 YieldMax, 새로운 옵션 소득 ETF 'CVNY' 공식 출시!2025년 1월 30일 – YieldMax가 Carvana(CVNA)를 기반으로 하는 신규 옵션 소득 전략 ETF(CVNY)를 발표했습니다!이 ETF는 Carvana 주식에 직접 투자하지 않고, 옵션 전략을 활용해 수익을 창출하는 것을 목표로 합니다.🔍 CVNY 개요ETF 이름: YieldMax Carvana Option Income Strategy ETF티커 코드: NYSE Arca: CVNY운용사: Tidal Financial Group투자 방식:Carvana(CVNA) 주식에 직접 투자하지 않음대신 옵션 기반 전략을 활용하여 소득 창출 💼 CVNY 투자 전략1️⃣ 옵션 기반 소득 창출CVNA 주식의 상승/하락 여부와 상관없이..",
-  "og_title": "🚀 YieldMax, CARVANA 옵션 소득 ETF(CVNY) 출시!",
+  "og_description": "핵심 요약: CVNY ETF는 YieldMax가 운용하는 Carvana(CVNA) 기반 옵션 인컴 ETF입니다. CVNY는 CVNA 주식에 직접 투자하는 상품이 아니라, CVNA를 기초자산으로 한 옵션 전략을 통해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 CVNY의 Distribution Rate는 100.40%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 CVNA 주가 변동성, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 1월 30일 CVNY 출시 공시, YieldMax CVNY 공식 상품 페이지, 2..",
+  "og_title": "CVNY ETF란? YieldMax Carvana 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "154",
   "published_time": "2025-01-31T10:21:17+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax, CARVANA 옵션 소득 ETF(CVNY) 출시!",
+  "title": "CVNY ETF란? YieldMax Carvana 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/154"
 }

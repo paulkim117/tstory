@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T21:40:06+09:00",
+    "datePublished": "2025-02-19T22:58:40+09:00",
+    "description": "핵심 요약: YieldMax 주간 배당 ETF의 Distribution Rate는 높은 숫자만 보고 판단하면 안 됩니다. 기존 글에 표시된 CRSH 75.93%, TSLY 62.77%, YBIT 60.33%, YMAX 56.92%, YMAG 39.10%는 2025년 2월 19일 공시 기준 수치이며, 현재 기준 최신 수치는 아닙니다. 투자자는 분배금보다 Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, Short ETF 여부, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 2월 19일 Weekly Payers 및 Group A 분배금 공시, 2026년 5월 12일 Group 1 업데이트 공시, 20..",
+    "headline": "YieldMax 주간 배당 발표 해석: CRSH·TSLY·YBIT·YMAX·YMAG 고분배는 확정 수익일까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcyNzJR%2FbtsMoYnMxH3%2FAAAAAAAAAAAAAAAAAAAAAMZ_LZISvQ3NipZJ7mJwCew4tVDUmPPI0RCT35KqakSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DOFxfUp2j3Oqnf1c7NVn1F0GSWe8%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/160",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/160"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "YieldMax 주간 배당 ETF인 CRSH, TSLY, YBIT, YMAX, YMAG의 분배금과 Distribution Rate를 정리합니다. 2025년 공시 수치와 2026년 최신 공시 수치를 비교하고, 30-Day SEC Yield, ROC, NAV, Short ETF 위험을 함께 설명합니다.",
+    "headline": "YieldMax 주간 배당 발표 해석: CRSH·TSLY·YBIT·YMAX·YMAG 고분배는 확정 수익일까?",
+    "url": "https://mystock-note.tistory.com/160"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. CRSH 75.93%는 2025년 2월 19일 공시 기준 Distribution Rate입니다. 2026년 5월 13일 공시 기준 CRSH의 Distribution Rate는 49.52%로 표시되었습니다."
+        },
+        "name": "2025년 CRSH 75.93% 배당률은 지금도 유효한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Distribution Rate는 최근 분배금을 기준으로 연율화한 지표입니다. 일반적인 의미의 확정 배당률이나 향후 수익률 보장은 아닙니다."
+        },
+        "name": "YieldMax ETF의 Distribution Rate는 배당률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TSLY는 TSLA를 기반으로 한 옵션 인컴 ETF이고, CRSH는 TSLA에 대해 Short 성격의 노출을 갖는 ETF입니다. TSLA가 상승할 때와 하락할 때의 위험 구조가 다르므로 같은 방식으로 비교하면 안 됩니다."
+        },
+        "name": "TSLY와 CRSH는 무엇이 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "YBIT는 비트코인 관련 노출과 옵션 인컴 전략이 결합된 YieldMax ETF입니다. 비트코인 가격 변동성과 옵션 전략 위험을 함께 확인해야 합니다."
+        },
+        "name": "YBIT는 비트코인 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YMAX와 YMAG는 여러 YieldMax ETF에 투자하는 펀드오브펀드 성격의 상품입니다. 따라서 개별 단일 종목형 YieldMax ETF와는 비용 구조와 분산 방식이 다릅니다."
+        },
+        "name": "YMAX와 YMAG는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "YieldMax ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

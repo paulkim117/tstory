@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 2904,
+  "body_html_length": 4322,
   "canonical_url": "https://mystock-note.tistory.com/143",
-  "content_hash": "59e77e72ac83a9d0489ae5466a41343dbdd0568d24d4d4290f4b66163d2a389f",
-  "json_ld_count": 1,
-  "meta_description": "투자자들에게 새로운 소득 기회를 제공하는 YieldMax™가 MARA Holdings(MARA)를 기반으로 하는 새로운 옵션 소득 전략 ETF를 발표했습니다. 최신 트렌드에 맞춘 이번 ETF는 안정적인 소득과 전략적 포트폴리오 강화를 목표로 합니다.MARO ETF 개요ETF 이름: YieldMax™ MARA Option Income Strategy ETF티커: NYSE Arca: MARO기반 자산: MARA Holdings, Inc.운영사: ZEGA Financial직접 투자 여부: MARA 자체에 직접 투자하지 않음.출시 일정: 2024년 12월 10일MARO의 주요 특징1️⃣ 옵션 기반 소득 전략MARO는 MARA Holdings 주식을 기반으로 옵션 계약을 활용하여 현재 소득 창출을 목표로 합니다...",
-  "modified_time": "2024-12-11T10:25:26+09:00",
+  "content_hash": "36e6f51b24bf320d6c56e601fddcf47d8b3389110b4dc6112cb790cb2a93c30d",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: MARO ETF는 YieldMax가 운용하는 MARA Holdings(MARA) 기반 옵션 인컴 ETF입니다. MARO는 MARA 주식에 직접 투자하는 상품이 아니라, MARA를 기초자산으로 한 옵션 전략을 통해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 MARO의 Distribution Rate는 105.67%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 MARA 주가 변동성, 비트코인 관련 위험, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 10일 MARO 출시 공시, YieldMa..",
+  "modified_time": "2026-05-15T22:26:23+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "투자자들에게 새로운 소득 기회를 제공하는 YieldMax™가 MARA Holdings(MARA)를 기반으로 하는 새로운 옵션 소득 전략 ETF를 발표했습니다. 최신 트렌드에 맞춘 이번 ETF는 안정적인 소득과 전략적 포트폴리오 강화를 목표로 합니다.MARO ETF 개요ETF 이름: YieldMax™ MARA Option Income Strategy ETF티커: NYSE Arca: MARO기반 자산: MARA Holdings, Inc.운영사: ZEGA Financial직접 투자 여부: MARA 자체에 직접 투자하지 않음.출시 일정: 2024년 12월 10일MARO의 주요 특징1️⃣ 옵션 기반 소득 전략MARO는 MARA Holdings 주식을 기반으로 옵션 계약을 활용하여 현재 소득 창출을 목표로 합니다...",
-  "og_title": "🚀 YieldMax™, MARA 옵션 소득 ETF(MARO) 출시!",
+  "og_description": "핵심 요약: MARO ETF는 YieldMax가 운용하는 MARA Holdings(MARA) 기반 옵션 인컴 ETF입니다. MARO는 MARA 주식에 직접 투자하는 상품이 아니라, MARA를 기초자산으로 한 옵션 전략을 통해 주간 인컴을 추구합니다. 2026년 5월 최신 공시 기준 MARO의 Distribution Rate는 105.67%로 표시되었지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 분배금보다 MARA 주가 변동성, 비트코인 관련 위험, 옵션 전략, 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC를 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 12월 10일 MARO 출시 공시, YieldMa..",
+  "og_title": "MARO ETF란? YieldMax MARA 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "143",
   "published_time": "2024-12-11T10:25:26+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "🚀 YieldMax™, MARA 옵션 소득 ETF(MARO) 출시!",
+  "title": "MARO ETF란? YieldMax MARA 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/143"
 }

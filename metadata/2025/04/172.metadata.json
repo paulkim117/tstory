@@ -1,20 +1,20 @@
 {
   "backup_date": "2026-05-15",
-  "body_html_length": 3138,
+  "body_html_length": 2863,
   "canonical_url": "https://mystock-note.tistory.com/172",
-  "content_hash": "a01297b11c08bd8b3fc13d1a4a19d2dbe50ca571b3672cfba3879b2bd36f24b9",
-  "json_ld_count": 1,
-  "meta_description": "BIGY ($0.4582)와 SOXY ($0.4266) 배당 소식 전격 공개2025년 4월 1일 – YieldMax가 오늘 YieldMax Target 12 ETF에 대한 배당 소식을 발표했어요. 이 펀드는 연 12%의 수익 목표를 달성하며 투자자에게 안정적인 소득을 제공하는 것을 목표로 하고 있답니다.핵심 내용 한눈에!• 배당금: BIGY는 $0.4582, SOXY는 $0.4266• 분배율: 2025년 3월 31일 종가 기준으로 계산됨• 참고: 배당은 옵션 수익을 포함하며, 만약 현재 배당 수준이 계속된다면 연 배당률이 이렇게 책정됩니다.주의!– ETF가 배당을 지급한다는 보장은 없어요.– 배당금은 시기에 따라 크게 달라질 수 있으며, 때로는 0원일 수도 있어요.– 투자자는 기초자산의 배당이나 기타 배..",
-  "modified_time": "2025-04-01T20:16:55+09:00",
+  "content_hash": "dd970e385fcef908cbba09524ffe49bc6daeecc547fce885d9edda07832f846f",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: YieldMax Target 12 ETF의 BIGY와 SOXY는 월분배금을 지급하는 옵션 인컴 ETF입니다. 2025년 4월 1일 공시에서 BIGY는 주당 0.4582달러, SOXY는 주당 0.4266달러의 분배금을 발표했고, 두 상품 모두 분배율 12.00%로 표시되었습니다. 그러나 이 12%는 확정 수익률이 아니며, 최근 분배금이 유지된다는 가정으로 계산된 연율화 수치입니다. 투자자는 분배금보다 30-Day SEC Yield, ROC, NAV, 옵션 전략, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 4월 1일 GlobeNewswire 분배금 공시, YieldMax Target 12 공식 상품 페이지, YieldMax Di..",
+  "modified_time": "2026-05-15T20:56:42+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "BIGY ($0.4582)와 SOXY ($0.4266) 배당 소식 전격 공개2025년 4월 1일 – YieldMax가 오늘 YieldMax Target 12 ETF에 대한 배당 소식을 발표했어요. 이 펀드는 연 12%의 수익 목표를 달성하며 투자자에게 안정적인 소득을 제공하는 것을 목표로 하고 있답니다.핵심 내용 한눈에!• 배당금: BIGY는 $0.4582, SOXY는 $0.4266• 분배율: 2025년 3월 31일 종가 기준으로 계산됨• 참고: 배당은 옵션 수익을 포함하며, 만약 현재 배당 수준이 계속된다면 연 배당률이 이렇게 책정됩니다.주의!– ETF가 배당을 지급한다는 보장은 없어요.– 배당금은 시기에 따라 크게 달라질 수 있으며, 때로는 0원일 수도 있어요.– 투자자는 기초자산의 배당이나 기타 배..",
-  "og_title": "YieldMax ETF, 수익 배당 대잔치!",
+  "og_description": "핵심 요약: YieldMax Target 12 ETF의 BIGY와 SOXY는 월분배금을 지급하는 옵션 인컴 ETF입니다. 2025년 4월 1일 공시에서 BIGY는 주당 0.4582달러, SOXY는 주당 0.4266달러의 분배금을 발표했고, 두 상품 모두 분배율 12.00%로 표시되었습니다. 그러나 이 12%는 확정 수익률이 아니며, 최근 분배금이 유지된다는 가정으로 계산된 연율화 수치입니다. 투자자는 분배금보다 30-Day SEC Yield, ROC, NAV, 옵션 전략, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2025년 4월 1일 GlobeNewswire 분배금 공시, YieldMax Target 12 공식 상품 페이지, YieldMax Di..",
+  "og_title": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY 12% 분배율은 확정 수익일까?",
   "post_id": "172",
   "published_time": "2025-04-01T20:16:55+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "YieldMax ETF, 수익 배당 대잔치!",
+  "title": "YieldMax Target 12 ETF 배당 해석: BIGY·SOXY 12% 분배율은 확정 수익일까?",
   "url": "https://mystock-note.tistory.com/172"
 }

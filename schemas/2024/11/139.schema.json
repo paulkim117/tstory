@@ -1,0 +1,106 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-15T22:39:24+09:00",
+    "datePublished": "2024-11-28T10:05:44+09:00",
+    "description": "핵심 요약: 기존 글에 표시된 YBIT 115.71%, TSLY 103.42%, SNOY 101.96%, YMAX 87.35%, YMAG 54.24%는 2024년 11월 27일 YieldMax 공시 기준 Distribution Rate입니다. 현재 기준 최신 수치는 다르게 바뀌었으므로, 과거 배당률을 현재 수익률처럼 보면 안 됩니다. 투자자는 배당률보다 분배금, Distribution Rate 계산 방식, 30-Day SEC Yield, ROC, NAV, 기초자산 변동성, 총수익률을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 YieldMax 2024년 11월 27일 YBIT·TSLY·SNOY·YMAX·YMAG 분배금 공시, 2026년 5월 13일 Group 2 주간 분배금 ..",
+    "headline": "YieldMax 11월 배당률 공시 해석: YBIT·TSLY·SNOY 고분배율은 지금도 유효할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Feaokvz%2FbtsKYxTlphb%2FAAAAAAAAAAAAAAAAAAAAAD8BOo4kBrN7F69O9jafcEOv8ntgVkrF62rMikudKIAP%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D1BSiNGcEudu3kCrNLmGLsJhGR3A%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/139",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/139"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-15T09:00:00+09:00",
+    "description": "YieldMax ETF의 2024년 11월 배당률 공시 수치를 최신 공식 공시와 비교합니다. YBIT, TSLY, SNOY, YMAX, YMAG의 분배금, Distribution Rate, SEC Yield, ROC, NAV, Bitcoin·Tesla·Snowflake 관련 옵션 인컴 ETF 위험을 정리합니다.",
+    "headline": "YieldMax 11월 배당률 공시 해석: YBIT·TSLY·SNOY 고분배율은 지금도 유효할까?",
+    "url": "https://mystock-note.tistory.com/139"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YBIT 115.71%는 2024년 11월 27일 공시 기준 Distribution Rate입니다. 2026년 5월 13일 공시 기준 YBIT의 Distribution Rate는 49.33%로 표시되었습니다."
+        },
+        "name": "2024년 YBIT 115.71% 배당률은 지금도 유효한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. TSLY 103.42%는 과거 공시 기준 Distribution Rate이며 확정 수익률이 아닙니다. TSLY는 TSLA 관련 옵션 인컴 ETF이므로 Tesla 주가와 옵션 전략 결과에 따라 성과가 크게 달라질 수 있습니다."
+        },
+        "name": "TSLY 103.42%는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. SNOY 101.96%는 2024년 11월 공시 기준입니다. 2026년 5월 13일 공시 기준 SNOY의 Distribution Rate는 106.27%로 표시되었지만, 이 역시 확정 수익률은 아닙니다."
+        },
+        "name": "SNOY 101.96% 배당률은 지금도 유지되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YBIT는 Bitcoin ETP를 기초로 한 옵션 인컴 ETF입니다. 일반 비트코인 현물 ETF와 다르며, 옵션 전략으로 인해 상승 참여가 제한될 수 있습니다."
+        },
+        "name": "YBIT는 비트코인 현물 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YMAX와 YMAG는 여러 YieldMax ETF에 투자하는 펀드오브펀드 성격의 상품입니다. 따라서 개별 단일 종목형 YieldMax ETF와는 비용 구조와 분산 방식이 다릅니다."
+        },
+        "name": "YMAX와 YMAG는 단일 종목 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. Distribution Rate는 최근 분배금을 기준으로 계산되는 값입니다. 시장 상황, 기초자산 변동성, 옵션 전략 결과, NAV 변화에 따라 달라질 수 있습니다."
+        },
+        "name": "YieldMax ETF의 Distribution Rate는 매번 고정되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 배당률이 아니라 NAV와 총수익률로 판단해야 합니다. 높은 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "YieldMax ETF는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]
