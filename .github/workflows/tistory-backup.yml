@@ -1,9 +1,17 @@
 name: Tistory Public Post Backup
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "17 18 * * *"
   workflow_dispatch:
+    inputs:
+      max_posts:
+        description: "Maximum number of numeric Tistory posts to back up in this run"
+        required: false
+        default: "250"
 
 permissions:
   contents: write
@@ -32,6 +40,8 @@ jobs:
           fi
 
       - name: Run Tistory backup
+        env:
+          TISTORY_BACKUP_MAX_POSTS: ${{ github.event.inputs.max_posts || '250' }}
         run: python scripts/backup_tistory.py
 
       - name: Commit and push changes
