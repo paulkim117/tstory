@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-07T10:27:10+09:00",
-  "datePublished": "2024-11-07T10:27:10+09:00",
-  "description": "YieldMax™ ETF 배당금 및 위험 설명YieldMax™는 다양한 ETF에 대해 월간 배당금을 발표했습니다. 주요 배당 수익률은 다음과 같습니다:MRNY: 73.00%FBY: 55.50%DIPS: 54.67%YMAX: 36.43%YMAG: 56.63%이 배당률은 ETF의 최근 배당금을 연간화한 수익률이며, 고정된 수익을 보장하지 않습니다. 매달 변동 가능하며 특정 ETF는 배당금을 지급하지 않을 수도 있습니다.투자자 유의 사항수익 변동성: 배당률과 30일 SEC 수익률이 반드시 미래의 배당금을 예측하는 지표는 아닙니다. 과거의 성과는 미래의 성과를 보장하지 않습니다.배당 수익의 구성 요소: 배당금은 일반 배당, 자본 이익, 투자자 자본의 반환 등이 포함될 수 있으며, 이는 ETF의 순자산가치(NAV..",
-  "headline": "YieldMax™ ETF 월간 배당금 및 주요 투자 위험 요약",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fr2M10%2FbtsKzL4oVwA%2FAAAAAAAAAAAAAAAAAAAAABSmNMf6twVGAFZDBnP-_BfWaRyubHETOGThyT8v2NPd%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dwdb0glXl7wK71sxuclhxFxTtWDM%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/113",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:43:41+09:00",
+    "datePublished": "2024-11-07T10:27:10+09:00",
+    "description": "핵심 요약: YieldMax는 2024년 11월 6일 MRNY, FBY, DIPS, YMAX, YMAG 등 주요 옵션 인컴 ETF의 분배금을 발표했습니다. 발표 자료 기준 분배율은 MRNY 73.00%, FBY 55.50%, DIPS 54.67%, YMAX 36.43%, YMAG 56.63%였습니다. 그러나 이 수치는 최근 분배금을 연환산한 값일 뿐, 향후 수익률이나 총수익률을 보장하지 않습니다. YieldMax ETF를 볼 때는 높은 분배율보다 분배 재원, NAV 변화, 30일 SEC 수익률, 옵션 전략 리스크, 원금 반환 가능성을 함께 확인해야 합니다.자료 기준일은 2024년 11월 6일 YieldMax 분배금 발표 자료이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 YieldMax의 Gl..",
+    "headline": "YieldMax 2024년 11월 분배금 발표: MRNY 73%, FBY 55.5%, DIPS 54.67%의 의미",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fr2M10%2FbtsKzL4oVwA%2FAAAAAAAAAAAAAAAAAAAAABSmNMf6twVGAFZDBnP-_BfWaRyubHETOGThyT8v2NPd%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dwdb0glXl7wK71sxuclhxFxTtWDM%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/113",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/113"
   },
-  "url": "https://mystock-note.tistory.com/113"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "YieldMax가 2024년 11월 6일 발표한 MRNY 73.00%, FBY 55.50%, DIPS 54.67%, YMAX 36.43%, YMAG 56.63% 분배율을 정리합니다. 분배율 계산 방식, 30일 SEC 수익률과의 차이, ROC, 옵션 전략, Short ETF 리스크, NAV 하락 가능성을 투자자 관점에서 분석합니다.",
+    "headline": "YieldMax 2024년 11월 분배금 발표: MRNY 73%, FBY 55.5%, DIPS 54.67%의 의미",
+    "url": "https://mystock-note.tistory.com/113"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. MRNY 73.00%는 최근 분배금을 연환산한 Distribution Rate입니다. 향후 분배금이나 총수익률을 보장하지 않습니다."
+        },
+        "name": "MRNY 73.00% 분배율은 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "보장되지 않습니다. YieldMax는 분배금이 시기별로 크게 달라질 수 있고, 지급되지 않을 수도 있다고 설명합니다."
+        },
+        "name": "YieldMax ETF의 분배금은 매달 보장되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "30일 SEC 수익률은 최근 30일 순투자소득을 기준으로 계산되며 옵션 수익은 제외될 수 있습니다. 반면 분배율은 최근 분배금을 연환산한 값입니다. 따라서 두 수치는 서로 다른 의미를 가집니다."
+        },
+        "name": "30일 SEC 수익률과 분배율은 왜 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "DIPS는 YieldMax Short NVDA Option Income Strategy ETF입니다. 엔비디아 주가 하락 방향에 수익 기회를 추구하는 Short ETF 성격이 있으며, NVDA가 상승하면 손실이 발생할 수 있습니다."
+        },
+        "name": "DIPS는 어떤 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "YMAX와 YMAG는 다른 YieldMax ETF에 투자하는 구조입니다. Management Fee 0.29%와 Acquired Fund Fees and Expenses 0.99%가 포함돼 gross expense ratio가 1.28%입니다."
+        },
+        "name": "YMAX와 YMAG는 왜 비용이 높나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "예. YieldMax는 분배금에 ordinary dividends, capital gain, return of capital이 포함될 수 있다고 설명합니다. ROC가 포함되면 NAV와 거래가격이 낮아질 수 있습니다."
+        },
+        "name": "YieldMax ETF 분배금에 원금 반환이 포함될 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "투자 목적에 따라 다릅니다. 현금흐름을 중시하는 투자자에게는 검토 대상이 될 수 있지만, NAV 하락, 분배금 변동, 옵션 전략 리스크, 세금과 환율을 감당할 수 있어야 합니다."
+        },
+        "name": "YieldMax ETF는 장기 투자에 적합한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "분배율이 아니라 총수익률과 NAV 추이를 먼저 봐야 합니다. 분배금을 많이 받아도 ETF 가격이 더 많이 하락하면 실제 수익률은 손실일 수 있습니다."
+        },
+        "name": "높은 분배율 ETF를 고를 때 가장 먼저 볼 것은 무엇인가요?"
+      }
+    ]
+  }
+]

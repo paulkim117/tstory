@@ -1,34 +1,130 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-12T10:08:07+09:00",
-  "datePublished": "2024-11-12T10:08:07+09:00",
-  "description": "S&P 500이 사상 최초로 6,000선을 돌파하고, 비트코인 또한 85,000달러를 넘어 상승세를 보이는 가운데, 투자자들 사이에서는 FOMO(좋은 기회를 놓칠까 두려운 마음)가 만연하고 있습니다. 오늘은 이러한 상황에서 길을 잃지 않고 시장에 대응할 수 있는 방법을 제시합니다. 📈📊 오늘의 주식 및 암호화폐 주요 뉴스S&P 500과 비트코인, 새 기록 세우다S&P 500: 6,001포인트(+0.10%)로 마감하며 사상 최고점을 기록했습니다. 섹터별로는 소비재가 2.02% 상승하며 가장 높은 수익률을 보였고, 부동산은 -0.87%로 약세를 보였습니다.비트코인: 85,000달러를 돌파하며 또다시 큰 주목을 받고 있습니다. 이러한 비트코인의 강세는 암호화폐 시장 전반에 긍정적인 분위기를 조성하고 있습니..",
-  "headline": "S&P 500 대기록 돌파와 비트코인 강세 속, 지금 투자에 대해 고민해야 할 시점! 🚀",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FczwZkX%2FbtsKFjmJiDr%2FAAAAAAAAAAAAAAAAAAAAAP9rb2xRcTPIygbK6gHOdiKw5ts_j_i07YGgRVowF5Zx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DNxx46HB1az7SwxvwTjDZN%252FHYnnA%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/119",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:18:09+09:00",
+    "datePublished": "2024-11-12T10:08:07+09:00",
+    "description": "핵심 요약: 2024년 11월 11일 미국 증시는 대선 이후 랠리를 이어가며 S&P 500이 사상 처음으로 6,000선을 넘어 마감했습니다. 비트코인은 86,000달러를 돌파하며 암호화폐 시장의 FOMO를 자극했습니다. 다만 지수와 비트코인이 동시에 신고가를 기록하는 구간에서는 신규 매수보다 리스크 관리가 더 중요합니다. 특히 Palantir처럼 200일 이동평균선 대비 과도하게 벌어진 종목은 강한 추세를 보여주지만, 동시에 조정 위험도 커진 상태로 봐야 합니다.자료 기준일은 2024년 11월 11일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Reuters, Investopedia, Interactive Brokers, Grab, RadNet, CoinMarketCap, BlackR..",
+    "headline": "S&P 500 6,000 돌파와 비트코인 8만6천 달러: FOMO 장세에서 확인할 것",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FczwZkX%2FbtsKFjmJiDr%2FAAAAAAAAAAAAAAAAAAAAAP9rb2xRcTPIygbK6gHOdiKw5ts_j_i07YGgRVowF5Zx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DNxx46HB1az7SwxvwTjDZN%252FHYnnA%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/119",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/119"
   },
-  "url": "https://mystock-note.tistory.com/119"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 11일 미국 증시를 정리합니다. S&P 500의 사상 첫 6,000선 돌파, 비트코인 86,000달러 돌파, 트럼프 랠리, FOMO 심리, Palantir 200일 이동평균선 과열, BlackRock IBIT의 금 ETF 추월, Shopify·Grab·RadNet·GameStop 등 주요 종목 변동을 분석합니다.",
+    "headline": "S&P 500 6,000 돌파와 비트코인 8만6천 달러: FOMO 장세에서 확인할 것",
+    "url": "https://mystock-note.tistory.com/119"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. 2024년 11월 11일 S&P 500은 6,001.35로 마감하며 사상 처음으로 6,000선 위에서 거래를 마쳤습니다."
+        },
+        "name": "2024년 11월 11일 S&P 500은 정말 6,000선을 넘었나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준으로 비트코인은 2024년 11월 11일 처음으로 86,000달러를 넘었습니다. Reuters도 같은 날 비트코인이 사상 최고치를 기록했다고 보도했습니다."
+        },
+        "name": "비트코인은 이날 얼마까지 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "트럼프 당선 이후 암호화폐 친화 정책 기대, 친크립토 후보들의 의회 진입, 비트코인 현물 ETF 자금 유입, 규제 완화 기대가 결합된 결과로 볼 수 있습니다."
+        },
+        "name": "비트코인 상승의 핵심 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "무조건 매수 금지는 아닙니다. 다만 신고가 추격 매수는 손익비가 나빠질 수 있습니다. 신규 매수라면 분할매수, 비중 제한, 손절 기준, 실적 확인이 필요합니다."
+        },
+        "name": "FOMO 장세에서는 매수하면 안 되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "반드시 매도 신호는 아닙니다. 강한 종목은 오래 과열될 수 있습니다. 그러나 200일 이동평균선 대비 100% 이상 벌어진 상태는 신규 매수자에게 높은 리스크 구간이라는 의미입니다."
+        },
+        "name": "Palantir가 200일 이동평균선보다 110% 위라는 것은 매도 신호인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "IBIT가 BlackRock의 IAU를 순자산 기준으로 넘어섰다는 것은 비트코인 현물 ETF에 기관 자금이 빠르게 유입됐다는 신호입니다. 다만 비트코인과 금은 변동성과 역할이 다르므로 단순 대체 관계로 보면 안 됩니다."
+        },
+        "name": "BlackRock 비트코인 ETF가 금 ETF를 넘은 것은 왜 중요한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "매출은 전년 대비 33% 증가했지만, 영업손실 확대와 영업마진 악화, 경영진 변화가 부담으로 작용했습니다. 성장주는 매출뿐 아니라 수익성도 함께 봐야 합니다."
+        },
+        "name": "monday.com은 실적이 좋았는데 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Grab은 2024년 연간 매출 전망을 상향했고, 3분기 매출도 예상치를 웃돌았습니다. 음식 배달과 차량 호출 수요 회복이 주요 배경이었습니다."
+        },
+        "name": "Grab은 왜 상승했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "단순 테마만은 아닙니다. RadNet은 3분기 매출과 조정 EBITDA가 증가했고, Digital Health와 AI 매출도 성장했습니다. GE HealthCare와의 파트너십도 주가 상승 요인으로 언급됐습니다."
+        },
+        "name": "RadNet 상승은 단순 테마인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "과열 신호 중 하나로 볼 수는 있습니다. 다만 단독으로 시장 고점을 판단할 수는 없습니다. 밈주식 상승은 투자심리, 옵션 거래, 숏커버링, 소셜미디어 관심이 결합된 결과로 보는 것이 정확합니다."
+        },
+        "name": "밈주식 상승은 시장 과열 신호인가요?"
+      }
+    ]
+  }
+]

@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-04T11:09:23+09:00",
-  "datePublished": "2024-11-04T11:09:23+09:00",
-  "description": "1. AI의 진화: 대화형 AI에서 에이전트 AI로 🚀최근 ChatGPT 같은 대화형 AI가 등장하면서 사람들은 AI와 대화하는 게 익숙해졌어요. 그런데 이제는 더 나아가 스스로 판단하고 실행하는 AI 에이전트 시대가 열리고 있답니다! 이 AI 에이전트는 단순한 보조 기능을 넘어, 일상 속에서 다양한 업무를 척척 해내면서 사람들의 시간을 더욱 효율적으로 만들어 줄 거예요.2. 미래의 변화: AI가 바꾸는 세상, 그리고 인간만의 가치 💡AI 에이전트가 늘어나면 자동화 덕분에 많은 일들이 AI에 의해 처리될 텐데요. 그렇다면 사람들 사이에서 점점 더 중요해질 것은 바로 '경험'이에요! 인간만이 할 수 있는 특별한 체험과 소통이 큰 가치를 가지게 될 거라고 봅니다.여행의 가치: 예를 들어 여행은 AI가 대..",
-  "headline": "AI 에이전트 시대가 온다면, 우리가 집중해야 할 것들 ✨",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/109",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:57:56+09:00",
+    "datePublished": "2024-11-04T11:09:23+09:00",
+    "description": "핵심 요약: AI는 이제 질문에 답하는 챗봇을 넘어, 사용자의 목표를 이해하고 여러 단계를 계획한 뒤 실제 작업을 수행하는 AI 에이전트로 진화하고 있습니다. ChatGPT agent, Claude의 computer use, Claude Cowork 같은 제품은 웹 탐색, 파일 분석, 앱 연결, 코드 실행, 문서 작성, 리서치 정리 같은 업무를 대신 수행하는 방향으로 발전하고 있습니다. 하지만 AI 에이전트가 제대로 작동하려면 정확한 데이터, 권한 관리, 검증 절차, 사람의 최종 판단이 필요합니다.자료 기준일은 2026년 5월 16일입니다. 본문은 OpenAI, Anthropic, McKinsey 자료를 기준으로 재정리했습니다. AI 제품 기능과 이용 가능 범위는 빠르게 바뀔 수 있으므로, 실제 사용 전..",
+    "headline": "AI 에이전트 시대가 온다: 대화형 AI에서 업무 실행형 AI로 바뀌는 이유",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/109",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/109"
   },
-  "url": "https://mystock-note.tistory.com/109"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "AI는 대화형 챗봇을 넘어 웹 탐색, 파일 작업, 앱 연결, 코드 실행, 업무 자동화를 수행하는 AI 에이전트로 진화하고 있습니다. ChatGPT agent, Claude computer use, Claude Cowork, McKinsey의 AI 도입 조사 자료를 바탕으로 AI 에이전트의 의미, 기업 도입 조건, 데이터 품질, 인간 경험의 가치를 정리합니다.",
+    "headline": "AI 에이전트 시대가 온다: 대화형 AI에서 업무 실행형 AI로 바뀌는 이유",
+    "url": "https://mystock-note.tistory.com/109"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI 에이전트는 사용자의 목표를 이해하고, 여러 단계를 계획한 뒤, 웹 탐색·파일 분석·앱 연결·코드 실행 같은 도구를 사용해 실제 작업을 수행하는 AI 시스템입니다."
+        },
+        "name": "AI 에이전트란 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대화형 AI는 주로 질문에 답변합니다. AI 에이전트는 목표를 받아 필요한 작업을 계획하고 실행합니다. 예를 들어 답변 생성이 아니라 보고서 작성, 파일 분석, 폼 작성, 데이터 정리까지 수행할 수 있습니다."
+        },
+        "name": "대화형 AI와 AI 에이전트의 차이는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "예. OpenAI의 ChatGPT agent, Anthropic의 computer use와 Claude Cowork처럼 실제 제품화된 기능이 있습니다. 다만 이용 가능 범위와 기능은 서비스, 요금제, 국가, 보안 정책에 따라 달라질 수 있습니다."
+        },
+        "name": "AI 에이전트는 이미 사용할 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI 사용은 빠르게 확산됐지만, AI 에이전트를 실제 가치가 나도록 확장한 기업은 아직 제한적입니다. McKinsey는 많은 기업이 실험 중이지만 데이터 한계와 업무 프로세스 문제가 확장의 병목이라고 설명합니다."
+        },
+        "name": "기업들은 AI 에이전트를 많이 쓰고 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "모든 일을 대체한다고 보기는 어렵습니다. 반복 업무와 디지털 업무는 자동화될 가능성이 높지만, 문제 정의, 최종 판단, 책임, 고객 관계, 현장 경험, 창의적 방향 설정은 여전히 사람의 역할이 큽니다."
+        },
+        "name": "AI 에이전트가 사람의 일을 모두 대체하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "업무를 반복 작업과 판단 작업으로 나누고, 파일과 데이터를 정리하며, AI 결과를 검증하는 기준을 갖추는 것이 중요합니다. 단순 프롬프트 작성보다 문제 정의와 검증 능력이 더 중요해집니다."
+        },
+        "name": "AI 에이전트 시대에 개인은 무엇을 준비해야 하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "데이터 품질과 권한 관리입니다. AI 에이전트는 데이터를 기반으로 실행하기 때문에 잘못된 데이터, 오래된 문서, 과도한 권한이 있으면 잘못된 결과나 보안 문제가 발생할 수 있습니다."
+        },
+        "name": "AI 에이전트 도입에서 가장 중요한 것은 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "인간의 가치는 판단, 책임, 경험, 관계, 창의성에 더 집중될 가능성이 큽니다. AI가 정보를 정리하고 업무를 자동화할수록, 사람이 직접 경험하고 해석하고 책임지는 영역의 중요성이 커집니다."
+        },
+        "name": "AI가 발전할수록 인간의 가치는 어디에 남나요?"
+      }
+    ]
+  }
+]

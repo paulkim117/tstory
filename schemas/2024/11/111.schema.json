@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-05T10:05:25+09:00",
-  "datePublished": "2024-11-05T10:05:25+09:00",
-  "description": "시장 소식: 불확실성 속 조용한 시작주 초반부터 시장에서 큰 움직임을 기대했던 투자자들은 다소 실망했습니다. 미국 대선과 연방준비제도의 금리 결정을 앞두고 많은 투자자들이 관망세를 보이며 신중한 태도를 유지하고 있습니다. 오늘 포스팅에서는 소매업 실적, 여론조사 동향, 그리고 주요 주식의 상승 및 하락 상황을 정리해드리겠습니다. 📰주요 지수 마감가S&P 500: 5,713 (-0.28%)나스닥: 18,180 (-0.33%)러셀 2000: 2,219 (+0.40%)다우존스: 41,795 (-0.61%)Stocktwits에서 인기 있었던 종목들상승: $MQ, $TNYA, $ADN, $ALAB, $BOWL하락: $PACS, $LSCC, $NGNE, $PLTR, $NXPI실적 발표 하이라이트 🤩컨스텔레이션 ..",
-  "headline": "대선과 금리 결정 앞둔 시장의 관망세 📉",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/111",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:50:40+09:00",
+    "datePublished": "2024-11-05T10:05:25+09:00",
+    "description": "핵심 요약: 2024년 11월 4일 미국 증시는 대선과 FOMC 금리 결정을 앞두고 혼조세를 보였습니다. S&P 500은 5,712.69로 0.3%, 나스닥은 18,179.98로 0.3%, 다우존스는 41,794.60으로 0.6% 하락했습니다. 반면 Russell 2000은 2,219.03으로 0.4% 상승했습니다. 시장은 대선 결과, 연준 금리 결정, 중국 경기부양 가능성, AI 관련 실적, 데이터센터 전력 규제 이슈를 동시에 소화하고 있었습니다.자료 기준일은 2024년 11월 4일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Reuters, Palantir, Hims & Hers, S&P Dow Jones Indices, Investopedia 자료를 기준으로 재정리했습니다. 지수..",
+    "headline": "2024년 11월 4일 미국 증시 리뷰: 대선·FOMC 앞둔 관망세와 AI 실적 기대",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/111",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/111"
   },
-  "url": "https://mystock-note.tistory.com/111"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 4일 미국 증시를 정리합니다. 대선과 FOMC를 앞두고 S&P 500 -0.3%, 나스닥 -0.3%, 다우 -0.6%, Russell 2000 +0.4%를 기록한 배경, Constellation Energy의 FERC 리스크, Palantir AI 실적, Hims & Hers 성장, Nvidia 시가총액 1위 경쟁, Chewy S&P MidCap 400 편입을 분석합니다.",
+    "headline": "2024년 11월 4일 미국 증시 리뷰: 대선·FOMC 앞둔 관망세와 AI 실적 기대",
+    "url": "https://mystock-note.tistory.com/111"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "미국 대선과 FOMC 금리 결정을 앞두고 투자자들이 관망세를 보였기 때문입니다. S&P 500과 나스닥은 각각 0.3%, 다우존스는 0.6% 하락했습니다."
+        },
+        "name": "2024년 11월 4일 미국 증시는 왜 약세였나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대형 지수는 약세였지만 Russell 2000은 0.4% 상승했습니다. 대선 전후 소형주 정책 수혜 기대와 일부 위험선호가 반영된 것으로 볼 수 있습니다."
+        },
+        "name": "Russell 2000은 왜 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Palantir는 2024년 3분기 매출이 전년 대비 30% 증가했고, 미국 매출은 44% 성장했습니다. AI 수요가 실제 실적에 반영되고 있다는 점이 핵심입니다."
+        },
+        "name": "Palantir 실적의 핵심은 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Hims & Hers는 2024년 3분기 매출 4억160만 달러, 순이익 7,560만 달러, 가입자 약 200만 명을 발표했습니다. 성장과 수익성 개선이 함께 나타났습니다."
+        },
+        "name": "Hims & Hers는 왜 주목받았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI 데이터센터 전력 수요 기대는 긍정적이지만, FERC가 Talen-Amazon 전력 연결 확대 계약을 거부하면서 원전·데이터센터 공동입지 모델의 규제 리스크가 부각됐습니다."
+        },
+        "name": "Constellation Energy의 리스크는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nvidia는 2024년 11월 4일 장중 Apple을 잠시 넘어서 세계 최대 시가총액 기업이 됐지만, 장 후반 상승폭이 줄어 종가 기준으로는 1위 자리를 유지하지 못했습니다."
+        },
+        "name": "Nvidia는 이날 세계에서 가장 가치 있는 회사였나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Chewy가 2024년 11월 6일 장 시작 전 S&P MidCap 400에 편입된다는 발표가 나왔기 때문입니다. 지수 편입은 단기 패시브 수급에 영향을 줄 수 있습니다."
+        },
+        "name": "Chewy가 오른 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "당선자 예측보다 정책 노출을 먼저 점검해야 합니다. 금융, 에너지, 친환경, 중국 관련주, 헬스케어, AI, 정치 테마주, 금리 민감 자산 비중을 확인하는 것이 중요합니다."
+        },
+        "name": "대선 전 포트폴리오는 어떻게 점검해야 하나요?"
+      }
+    ]
+  }
+]

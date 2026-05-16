@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 3836,
+  "backup_date": "2026-05-16",
+  "body_html_length": 4396,
   "canonical_url": "https://mystock-note.tistory.com/126",
-  "content_hash": "78073638c02fea68684233d25db882ceba402dcfab19199c6796518632cb3bd6",
-  "json_ld_count": 1,
-  "meta_description": "안녕하세요! 요즘 비트코인(BTC)과 이더리움(ETH)에 대한 관심이 정말 뜨겁죠? 기존 암호화폐 투자뿐 아니라, 전통 주식 투자자들까지 ETF 상품을 통해 암호화폐에 간접 투자하려는 분들이 많아지고 있어요. 그래서 오늘은 미국 주식시장에 상장된 비트코인·이더리움 관련 ETF를 쏙쏙 소개해드릴게요! 💰 레버리지·인버스 ETF까지 다양하게 준비했으니 끝까지 집중해 주세요! 🚀💡 비트코인·이더리움 ETF, 뭐가 다를까?ETF 이름종류특징상장일ProShares Bitcoin Strategy ETF (BITO)비트코인 선물 ETF미국 최초의 비트코인 선물 ETF로, 실제 비트코인을 보유하지 않고 선물 계약을 통해 가격을 추종해요!2021년 10월Valkyrie Bitcoin Strategy ETF (BTF..",
-  "modified_time": "2024-11-15T00:04:50+09:00",
+  "content_hash": "4743c41afd7c9dd6d664b3c7980f85e079206ffb1ece77a41f7e0056e8e64b0c",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 미국 암호화폐 ETF 시장은 2024년 이후 크게 바뀌었습니다. 과거에는 BITO 같은 비트코인 선물 ETF가 중심이었지만, 2024년 1월 미국 현물 비트코인 ETF가 승인되면서 IBIT, FBTC, ARKB, BITB, GBTC 같은 현물 비트코인 ETF가 핵심 상품이 됐습니다. 2024년 7월에는 현물 이더리움 ETF도 거래를 시작했습니다. 따라서 지금은 비트코인·이더리움 ETF를 볼 때 현물 ETF, 선물 ETF, 레버리지 ETF, 인버스 ETF, 암호화폐 관련 주식 ETF를 구분해서 봐야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 SEC의 현물 비트코인 ETP 승인 관련 발표, Reuters의 현물 이더리움 ETF 거래 개시 보도, iShares·Fidelity·AR..",
+  "modified_time": "2026-05-16T10:52:07+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "안녕하세요! 요즘 비트코인(BTC)과 이더리움(ETH)에 대한 관심이 정말 뜨겁죠? 기존 암호화폐 투자뿐 아니라, 전통 주식 투자자들까지 ETF 상품을 통해 암호화폐에 간접 투자하려는 분들이 많아지고 있어요. 그래서 오늘은 미국 주식시장에 상장된 비트코인·이더리움 관련 ETF를 쏙쏙 소개해드릴게요! 💰 레버리지·인버스 ETF까지 다양하게 준비했으니 끝까지 집중해 주세요! 🚀💡 비트코인·이더리움 ETF, 뭐가 다를까?ETF 이름종류특징상장일ProShares Bitcoin Strategy ETF (BITO)비트코인 선물 ETF미국 최초의 비트코인 선물 ETF로, 실제 비트코인을 보유하지 않고 선물 계약을 통해 가격을 추종해요!2021년 10월Valkyrie Bitcoin Strategy ETF (BTF..",
-  "og_title": "📈 비트코인·이더리움 ETF에 투자하는 꿀팁 대방출! 레버리지·인버스 ETF까지 완전정복 🎉",
+  "og_description": "핵심 요약: 미국 암호화폐 ETF 시장은 2024년 이후 크게 바뀌었습니다. 과거에는 BITO 같은 비트코인 선물 ETF가 중심이었지만, 2024년 1월 미국 현물 비트코인 ETF가 승인되면서 IBIT, FBTC, ARKB, BITB, GBTC 같은 현물 비트코인 ETF가 핵심 상품이 됐습니다. 2024년 7월에는 현물 이더리움 ETF도 거래를 시작했습니다. 따라서 지금은 비트코인·이더리움 ETF를 볼 때 현물 ETF, 선물 ETF, 레버리지 ETF, 인버스 ETF, 암호화폐 관련 주식 ETF를 구분해서 봐야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 SEC의 현물 비트코인 ETP 승인 관련 발표, Reuters의 현물 이더리움 ETF 거래 개시 보도, iShares·Fidelity·AR..",
+  "og_title": "미국 비트코인·이더리움 ETF 정리: 현물 ETF, 선물 ETF, 레버리지 ETF 차이",
   "post_id": "126",
   "published_time": "2024-11-15T00:04:50+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "📈 비트코인·이더리움 ETF에 투자하는 꿀팁 대방출! 레버리지·인버스 ETF까지 완전정복 🎉",
+  "title": "미국 비트코인·이더리움 ETF 정리: 현물 ETF, 선물 ETF, 레버리지 ETF 차이",
   "url": "https://mystock-note.tistory.com/126"
 }

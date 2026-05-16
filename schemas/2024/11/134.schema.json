@@ -1,0 +1,106 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:27:14+09:00",
+    "datePublished": "2024-11-23T10:51:59+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 22일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 다우존스는 사상 최고가를 기록했고, S&P 500과 나스닥도 상승했습니다. 러셀 2000은 1.8% 상승하며 소형주 강세를 이어갔습니다. 시장의 또 다른 핵심은 비트코인이 10만 달러에 근접했지만 돌파하지 못했다는 점입니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지수와 현재 가격을 별도로 확인해야 합니다.자료 기준일은 2024년 11월 22일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP의 2024년 11월 22일 미국 주요 지수 마감 자료, Fortune의 비트코인 10만 달러 근접 보도, Reuters의 DirecTV·Dish 인수 철회 기사,..",
+    "headline": "2024년 11월 22일 미국 증시 리뷰: 비트코인 10만 달러 근접과 다우 최고가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb1fOWA%2FbtsKUv1ybhO%2FAAAAAAAAAAAAAAAAAAAAAAKnZg5WN3t5GfGYRY59v4vzyVq1NuVfvCWeENEfkDzH%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dvk3hbTQ%252BLpC%252F0%252Fzylk8tv78cAjQ%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/134",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/134"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 22일 미국 증시 흐름을 정리합니다. S&P 500, 나스닥, 러셀 2000, 다우존스 마감 수치와 비트코인 10만 달러 근접, 암호화폐 관련주, DirecTV의 Dish 인수 철회, Texas Pacific Land S&P 500 편입, Reddit 지분 매각 이슈를 분석합니다.",
+    "headline": "2024년 11월 22일 미국 증시 리뷰: 비트코인 10만 달러 근접과 다우 최고가",
+    "url": "https://mystock-note.tistory.com/134"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글의 기준일은 2024년 11월 22일입니다. 현재 시장 상황이 아니라 당시 미국 증시 마감과 주요 뉴스 흐름을 정리한 글입니다."
+        },
+        "name": "이 글의 오늘은 현재 날짜를 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500은 5,969.34로 마감했습니다. 전일 대비 0.35% 상승했습니다."
+        },
+        "name": "2024년 11월 22일 S&P 500은 얼마에 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 비트코인은 10만 달러에 매우 근접했지만 돌파하지 못했습니다. 이후 차익 실현이 나타나며 단기 변동성이 확대되었습니다."
+        },
+        "name": "비트코인은 당시 10만 달러를 돌파했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dish 채권자들이 필요한 debt-exchange 조건을 받아들이지 않았기 때문입니다. DirecTV는 재무 안정성을 보호하기 위해 인수 계획을 철회했습니다."
+        },
+        "name": "DirecTV의 Dish 인수는 왜 무산됐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500 편입 예정 소식 때문입니다. S&P Dow Jones Indices는 Texas Pacific Land가 Marathon Oil을 대체해 S&P 500에 편입된다고 발표했습니다."
+        },
+        "name": "Texas Pacific Land는 왜 주목받았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "주요 주주의 지분 관련 거래와 Tencent의 지분 축소 보도가 수급 부담으로 작용했습니다. 다만 장기 판단에는 광고 매출, 데이터 라이선스, 사용자 성장률을 함께 봐야 합니다."
+        },
+        "name": "Reddit은 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 22일 시장 기록입니다. 현재 투자 판단에는 최신 지수, 금리, 실적, 경제지표, 암호화폐 가격, 기업 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

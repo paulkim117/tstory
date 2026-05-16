@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-15T00:04:50+09:00",
-  "datePublished": "2024-11-15T00:04:50+09:00",
-  "description": "안녕하세요! 요즘 비트코인(BTC)과 이더리움(ETH)에 대한 관심이 정말 뜨겁죠? 기존 암호화폐 투자뿐 아니라, 전통 주식 투자자들까지 ETF 상품을 통해 암호화폐에 간접 투자하려는 분들이 많아지고 있어요. 그래서 오늘은 미국 주식시장에 상장된 비트코인·이더리움 관련 ETF를 쏙쏙 소개해드릴게요! 💰 레버리지·인버스 ETF까지 다양하게 준비했으니 끝까지 집중해 주세요! 🚀💡 비트코인·이더리움 ETF, 뭐가 다를까?ETF 이름종류특징상장일ProShares Bitcoin Strategy ETF (BITO)비트코인 선물 ETF미국 최초의 비트코인 선물 ETF로, 실제 비트코인을 보유하지 않고 선물 계약을 통해 가격을 추종해요!2021년 10월Valkyrie Bitcoin Strategy ETF (BTF..",
-  "headline": "📈 비트코인·이더리움 ETF에 투자하는 꿀팁 대방출! 레버리지·인버스 ETF까지 완전정복 🎉",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/126",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:52:07+09:00",
+    "datePublished": "2024-11-15T00:04:50+09:00",
+    "description": "핵심 요약: 미국 암호화폐 ETF 시장은 2024년 이후 크게 바뀌었습니다. 과거에는 BITO 같은 비트코인 선물 ETF가 중심이었지만, 2024년 1월 미국 현물 비트코인 ETF가 승인되면서 IBIT, FBTC, ARKB, BITB, GBTC 같은 현물 비트코인 ETF가 핵심 상품이 됐습니다. 2024년 7월에는 현물 이더리움 ETF도 거래를 시작했습니다. 따라서 지금은 비트코인·이더리움 ETF를 볼 때 현물 ETF, 선물 ETF, 레버리지 ETF, 인버스 ETF, 암호화폐 관련 주식 ETF를 구분해서 봐야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 SEC의 현물 비트코인 ETP 승인 관련 발표, Reuters의 현물 이더리움 ETF 거래 개시 보도, iShares·Fidelity·AR..",
+    "headline": "미국 비트코인·이더리움 ETF 정리: 현물 ETF, 선물 ETF, 레버리지 ETF 차이",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/126",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/126"
   },
-  "url": "https://mystock-note.tistory.com/126"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "미국 상장 비트코인 ETF와 이더리움 ETF를 최신 기준으로 정리합니다. 현물 비트코인 ETF인 IBIT, FBTC, ARKB, BITB, GBTC와 현물 이더리움 ETF인 ETHA, FETH, EZET, ETH의 차이, 선물 ETF BITO·EETH, 레버리지·인버스 ETF BITX·BITU·BITI·SETH의 위험 구조를 설명합니다.",
+    "headline": "미국 비트코인·이더리움 ETF 정리: 현물 ETF, 선물 ETF, 레버리지 ETF 차이",
+    "url": "https://mystock-note.tistory.com/126"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. SEC는 2024년 1월 10일 다수의 현물 비트코인 ETP 상장·거래를 승인했습니다. 대표 상품으로 IBIT, FBTC, ARKB, BITB, GBTC, BTC 등이 있습니다."
+        },
+        "name": "미국에는 현물 비트코인 ETF가 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "현재 기준으로는 GBTC를 ETF가 아니라고 설명하면 부정확합니다. GBTC는 Grayscale Bitcoin Trust ETF로 거래되는 상품입니다. 기존 신탁에서 ETF로 전환된 구조로 이해하는 것이 맞습니다."
+        },
+        "name": "GBTC는 ETF가 아닌 신탁인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. 미국 현물 이더리움 ETF는 2024년 7월 23일부터 거래를 시작했습니다. 대표 상품으로 ETHA, FETH, EZET, ETH, ETHE 등이 있습니다."
+        },
+        "name": "미국 현물 이더리움 ETF도 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BITO는 비트코인 선물 ETF이고, IBIT는 현물 비트코인 ETF입니다. BITO는 선물 계약으로 가격을 추종하기 때문에 롤오버 비용과 추적 오차가 발생할 수 있습니다. IBIT는 비트코인을 직접 보유하는 구조입니다."
+        },
+        "name": "BITO와 IBIT는 무엇이 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. BITX는 Volatility Shares의 2x Bitcoin Strategy ETF입니다. ProShares의 2배 비트코인 ETF는 BITU입니다."
+        },
+        "name": "BITX는 ProShares 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "일반적으로 장기투자보다 단기 전술용에 가깝습니다. BITX와 BITU 같은 2배 상품은 하루 단위 수익률을 목표로 하기 때문에, 보유 기간이 길어지면 비트코인의 단순 2배 수익률과 크게 달라질 수 있습니다."
+        },
+        "name": "비트코인 레버리지 ETF는 장기투자에 적합한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "안전하다고 볼 수 없습니다. BITI는 비트코인의 하루 수익률 -1배를 목표로 하는 상품입니다. 비트코인이 상승하면 손실이 발생하고, 장기 보유 시 수익률이 단순 반대 방향과 달라질 수 있습니다."
+        },
+        "name": "인버스 비트코인 ETF는 하락장에서 안전한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. ETF 투자자는 ETF 지분을 보유하는 것이지, 비트코인이나 이더리움을 개인 지갑으로 인출할 권리를 갖는 것은 아닙니다. 직접 보유와 ETF 보유는 다릅니다."
+        },
+        "name": "암호화폐 ETF를 사면 실제 코인을 소유하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "가장 먼저 상품 구조를 봐야 합니다. 현물 ETF인지, 선물 ETF인지, 레버리지 ETF인지, 인버스 ETF인지에 따라 위험과 적합한 투자 기간이 완전히 달라집니다."
+        },
+        "name": "암호화폐 ETF에서 가장 먼저 봐야 할 것은 무엇인가요?"
+      }
+    ]
+  }
+]

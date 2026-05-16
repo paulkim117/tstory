@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-09T12:20:10+09:00",
-  "datePublished": "2024-11-09T12:20:11+09:00",
-  "description": "연준의 금리 인하, 트럼프의 친기업적 정책에 대한 낙관론, 그리고 선거 결과가 확정되면서 주식시장이 뜨겁게 달아오르고 있습니다. 이번 주는 2024년 최고의 주간으로 기록될 만하며, 지수는 다소 조용했지만, 시장 내부적으로 많은 주식이 큰 폭으로 상승하며 연말까지 더 큰 상승을 기대하게 하고 있습니다. 👀오늘의 이슈에서는 이번 주 기록의 요약, 전 세계로 확산되는 관세 공포, 그리고 시장의 활기를 보여주는 한 종목에 대해 다룹니다. 📰S&P 500 섹터별 상황11개 섹터 중 8개가 상승으로 마감했으며, 유틸리티(+1.92%)가 가장 큰 상승폭을 보였고 소재(-0.91%)가 가장 부진했습니다.마감 지수S&P 500: 5,996 (+0.38%)나스닥: 19,287 (+0.09%)러셀 2000: 2,400..",
-  "headline": "2024년 최고의 주간, 역사적 최고치 기록으로 마감 🎉",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/116",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:30:37+09:00",
+    "datePublished": "2024-11-09T12:20:11+09:00",
+    "description": "핵심 요약: 2024년 11월 8일 미국 증시는 대선 이후 랠리를 이어가며 강세로 마감했습니다. S&P 500은 장중 사상 처음으로 6,000선을 돌파했지만, 종가는 5,995.54였습니다. 다우존스는 43,988.99, 나스닥은 19,286.78, Russell 2000은 2,399.64로 마감했습니다. 주간 기준으로 S&P 500은 +4.7%, 나스닥은 +5.7%, Russell 2000은 +8.6% 상승했습니다. 다만 친기업 정책 기대와 금리 인하가 만든 랠리 뒤에는 관세 정책, 인플레이션 재상승, 과열된 위험자산이라는 리스크도 함께 존재했습니다.자료 기준일은 2024년 11월 8일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Reuters, Investopedia, Federa..",
+    "headline": "2024년 11월 8일 미국 증시 리뷰: S&P 500 장중 6,000 돌파와 대선 랠리",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/116",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/116"
   },
-  "url": "https://mystock-note.tistory.com/116"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 8일 미국 증시를 정리합니다. S&P 500 장중 6,000선 첫 돌파, 주간 S&P 500 +4.7%, 나스닥 +5.7%, Russell 2000 +8.6%, 연준 25bp 금리 인하, 트럼프 당선 이후 친기업 정책 기대, 비트코인 77,000달러 돌파, 보편 관세와 중국 관세 리스크를 분석합니다.",
+    "headline": "2024년 11월 8일 미국 증시 리뷰: S&P 500 장중 6,000 돌파와 대선 랠리",
+    "url": "https://mystock-note.tistory.com/116"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. S&P 500은 2024년 11월 8일 장중 6,000선을 처음 돌파했지만, 종가는 5,995.54였습니다. 6,000선 위 첫 종가 마감은 다음 거래일인 2024년 11월 11일입니다."
+        },
+        "name": "2024년 11월 8일 S&P 500은 6,000선 위에서 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준으로 해당 주간 S&P 500은 +4.7%, 다우존스는 +4.6%, 나스닥은 +5.7%, Russell 2000은 +8.6% 상승했습니다. Russell 2000 상승폭이 가장 컸습니다."
+        },
+        "name": "2024년 11월 8일 종료 주간 미국 증시는 얼마나 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "연준은 2024년 11월 7일 FOMC에서 기준금리 목표 범위를 4.50~4.75%로 25bp 인하했습니다."
+        },
+        "name": "연준은 2024년 11월에 금리를 얼마나 내렸나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CoinDesk 기준으로 비트코인은 2024년 11월 8일 미국 거래시간 중 77,105달러를 기록하며 77,000달러를 처음 돌파했습니다."
+        },
+        "name": "비트코인은 2024년 11월 8일 얼마까지 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "시장은 감세, 규제 완화, 친기업 정책, 금융주와 소형주에 유리한 정책 기대를 반영했습니다. 다만 관세 정책과 인플레이션 재상승 가능성은 별도의 리스크입니다."
+        },
+        "name": "트럼프 당선은 왜 주식시장에 긍정적으로 반영됐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "관세는 수입품 비용을 높이고 기업 마진을 압박할 수 있습니다. 기업이 비용을 소비자에게 전가하면 물가 상승 압력이 커지고, 전가하지 못하면 이익률이 낮아질 수 있습니다."
+        },
+        "name": "관세 정책은 왜 주식시장에 위험 요인인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대선 이후 규제 완화와 경기 기대, 금리 인하가 소형주 투자심리를 자극했습니다. Russell 2000이 해당 주간 +8.6% 상승한 점이 이를 보여줍니다."
+        },
+        "name": "소형주가 강하게 오른 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "정책 기대와 ETF 자금 유입은 긍정 요인이었지만, 단기 급등 이후에는 차익실현과 레버리지 청산 위험도 커집니다. 따라서 가격 상승만 보고 추격 매수하는 것은 위험할 수 있습니다."
+        },
+        "name": "비트코인 랠리는 계속될 수 있었나요?"
+      }
+    ]
+  }
+]

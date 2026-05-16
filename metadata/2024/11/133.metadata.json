@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 2937,
+  "backup_date": "2026-05-16",
+  "body_html_length": 4481,
   "canonical_url": "https://mystock-note.tistory.com/133",
-  "content_hash": "e28fc3cf08f689c4811d1f5767bf2ec2db287371f8ef9ee14455044f7987b647",
-  "json_ld_count": 1,
-  "meta_description": "Target 12™ Big 50 Option Income ETF (BIGY) 소개BIGY 개요BIGY는 연간 12% 목표 수익률과 자본 증가를 추구하는 적극적으로 운용되는 ETF입니다. 이는 Big 50 기업(미국의 상위 50대 기업)의 포트폴리오에 직접 투자하고, 일부 또는 전부에 옵션 계약을 매도하여 수익을 창출합니다.Big 50 기업이란?Big 50 기업은 다음 기준을 충족하는 미국 상위 50대 기업을 의미합니다. • 시장 가치 기준 상위 50위 내 • 미국 상장 주식 • 충분한 유동성을 가진 옵션 계약 보유이 기준은 BIGY의 서브 어드바이저인 ZEGA Financial, LLC가 판단합니다.BIGY 주식 포트폴리오BIGY는 Big 50 기업에 직접 투자하여 자본 증가를 추구합니다. • ZEGA는..",
-  "modified_time": "2024-11-22T12:32:41+09:00",
+  "content_hash": "98af5300457c23f04822404e6d7da04ba9bb19d23b615b213fa9622cc6923310",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: BIGY ETF는 YieldMax Target 12 Big 50 Option Income ETF입니다. BIGY는 미국 시가총액 상위 50개 기업에 직접 투자하면서, 해당 보유 종목에 옵션 전략을 활용해 월간 인컴과 자본 성장을 함께 추구합니다. 2026년 5월 기준 BIGY의 Distribution Rate는 12.00%로 표시되지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 12% 목표 소득보다 옵션 전략의 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC, 비용, 세금을 함께 확인해야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 YieldMax BIGY 공식 상품 페이지, 2024년 11월 21일 BIGY 출시 공시, 2026년..",
+  "modified_time": "2026-05-16T10:29:47+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "Target 12™ Big 50 Option Income ETF (BIGY) 소개BIGY 개요BIGY는 연간 12% 목표 수익률과 자본 증가를 추구하는 적극적으로 운용되는 ETF입니다. 이는 Big 50 기업(미국의 상위 50대 기업)의 포트폴리오에 직접 투자하고, 일부 또는 전부에 옵션 계약을 매도하여 수익을 창출합니다.Big 50 기업이란?Big 50 기업은 다음 기준을 충족하는 미국 상위 50대 기업을 의미합니다. • 시장 가치 기준 상위 50위 내 • 미국 상장 주식 • 충분한 유동성을 가진 옵션 계약 보유이 기준은 BIGY의 서브 어드바이저인 ZEGA Financial, LLC가 판단합니다.BIGY 주식 포트폴리오BIGY는 Big 50 기업에 직접 투자하여 자본 증가를 추구합니다. • ZEGA는..",
-  "og_title": "YieldMax™의 첫 Target 12™ ETF 출시",
+  "og_description": "핵심 요약: BIGY ETF는 YieldMax Target 12 Big 50 Option Income ETF입니다. BIGY는 미국 시가총액 상위 50개 기업에 직접 투자하면서, 해당 보유 종목에 옵션 전략을 활용해 월간 인컴과 자본 성장을 함께 추구합니다. 2026년 5월 기준 BIGY의 Distribution Rate는 12.00%로 표시되지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 12% 목표 소득보다 옵션 전략의 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC, 비용, 세금을 함께 확인해야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 YieldMax BIGY 공식 상품 페이지, 2024년 11월 21일 BIGY 출시 공시, 2026년..",
+  "og_title": "BIGY ETF란? YieldMax Target 12 Big 50 옵션 인컴 ETF 배당과 위험 구조",
   "post_id": "133",
   "published_time": "2024-11-22T12:31:07+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "YieldMax™의 첫 Target 12™ ETF 출시",
+  "title": "BIGY ETF란? YieldMax Target 12 Big 50 옵션 인컴 ETF 배당과 위험 구조",
   "url": "https://mystock-note.tistory.com/133"
 }

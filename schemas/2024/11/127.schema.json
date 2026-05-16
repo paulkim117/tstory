@@ -1,34 +1,130 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-16T14:46:18+09:00",
-  "datePublished": "2024-11-16T14:46:18+09:00",
-  "description": "지난 한 주간 미국 증시는 연이은 하락세를 기록하며 투자자들에게 어려운 시장 환경을 보여주었습니다. 특히 소매 판매 지표가 예상을 웃돌고 연준 위원들의 매파적 발언이 이어지면서 시장 약세가 심화되었습니다. 이에 따라 S&P 500(-1.32%), 나스닥(-2.24%), 러셀 2000(-1.42%) 등 주요 지수가 큰 폭으로 하락했습니다.🛠️ 나스닥 100: 섬형 반전(Island Reversal) 패턴 발생나스닥 100 ETF($QQQ)는 지난주 갭 상승 후 며칠간 박스권을 형성하다가 갭 하락을 기록하며 기술적 분석에서 부정적인 ‘섬형 반전’ 패턴을 나타냈습니다. 이 패턴은 매수자들이 손실을 감당하지 못하고 매도에 나설 가능성을 높이며, 시장이 추가적인 하락 압력을 받을 수 있음을 시사합니다.기술적 분..",
-  "headline": "📉 주간 증시 동향과 분석: 미국 시장 하락세의 주요 원인",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmDaZm%2FbtsKLfrJsIQ%2FAAAAAAAAAAAAAAAAAAAAAOf2HauUtz1Xh2vvPWQYjbkTm2wM8GRAlhks3fN6bsbQ%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DHnI16ORWTJQ8UbYxfF87tIowK8Y%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/127",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:49:20+09:00",
+    "datePublished": "2024-11-16T14:46:18+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 15일 미국 증시를 기준으로 한 일일 시장 리뷰입니다. 이날 S&P 500은 약 1.3%, 나스닥은 약 2.2%, 다우존스는 약 0.7%, Russell 2000은 약 1.5% 하락했습니다. 하락 원인은 10월 소매판매 호조, 금리 인하 지연 우려, 기술주와 반도체 약세, Nvidia 실적 발표 전 경계감이었습니다. 기존 글의 “지난 한 주간” 표현은 일부 맞지만, 본문 수치 대부분은 2024년 11월 15일 하루 움직임에 가깝기 때문에 일일 리뷰로 정리하는 것이 정확합니다.자료 기준일은 2024년 11월 15일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP와 Reuters의 2024년 11월 15일 미국 증시 마감 자료, Reuters의 10월 소..",
+    "headline": "2024년 11월 15일 미국 증시 리뷰: 나스닥 급락과 QQQ 섬형 반전",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmDaZm%2FbtsKLfrJsIQ%2FAAAAAAAAAAAAAAAAAAAAAOf2HauUtz1Xh2vvPWQYjbkTm2wM8GRAlhks3fN6bsbQ%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DHnI16ORWTJQ8UbYxfF87tIowK8Y%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/127",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/127"
   },
-  "url": "https://mystock-note.tistory.com/127"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 15일 미국 증시 흐름을 정리합니다. S&P 500, 나스닥, 다우존스, Russell 2000 하락과 10월 소매판매 호조, 금리 인하 지연 우려, QQQ 섬형 반전 패턴, 반도체 약세, Bloom Energy·Disney·SolarEdge 주요 종목 이슈를 분석합니다.",
+    "headline": "2024년 11월 15일 미국 증시 리뷰: 나스닥 급락과 QQQ 섬형 반전",
+    "url": "https://mystock-note.tistory.com/127"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 15일 미국 증시를 중심으로 한 일일 리뷰입니다. 주간 하락 흐름은 2024년 11월 11~15일 배경으로만 다뤄야 합니다."
+        },
+        "name": "이 글의 지난 한 주는 현재 주간을 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준 S&P 500은 약 1.3% 하락했습니다. Reuters 기준으로도 S&P 500과 나스닥은 2주 만의 가장 큰 하루 낙폭을 기록했습니다."
+        },
+        "name": "2024년 11월 15일 S&P 500은 얼마나 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "기술주와 반도체주 약세가 컸기 때문입니다. 금리 인하 지연 우려가 성장주 밸류에이션에 부담을 줬고, Nvidia 실적 발표 전 경계감도 반영됐습니다."
+        },
+        "name": "나스닥은 왜 더 크게 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2024년 10월 미국 소매판매는 전월 대비 0.4% 증가했습니다. 이는 Reuters가 집계한 시장 예상치 0.3%를 웃도는 수치였습니다. 9월 수치도 기존 0.4%에서 0.8%로 상향 조정됐습니다."
+        },
+        "name": "10월 소매판매는 어떻게 나왔나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "정확히는 금리 인하 지연 우려가 더 컸습니다. 파월 의장은 경제가 강하고 인플레이션이 목표보다 높기 때문에 금리 인하를 서두를 필요가 없다고 말했습니다."
+        },
+        "name": "당시 시장은 금리 인상을 걱정했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 섬형 반전 패턴은 기술적 경계 신호일 수 있지만, 확정적인 매도 신호는 아닙니다. 갭 회복 여부, 거래량, 이동평균선, Nvidia 실적, 금리 흐름을 함께 확인해야 합니다."
+        },
+        "name": "QQQ 섬형 반전은 확정적인 매도 신호인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bloom Energy는 AEP와 AI 데이터센터 전력 공급을 위한 기가와트급 연료전지 조달 계약을 발표했습니다. 이 계약이 AI 전력 인프라 수혜 기대를 키웠습니다."
+        },
+        "name": "Bloom Energy는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Disney는 2024년 4분기 실적이 시장 예상을 웃돌았고, 스트리밍 수익성 개선과 영화 흥행, 향후 성장 전망이 투자심리를 개선했습니다."
+        },
+        "name": "Disney는 왜 상승했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "이번 검토에서는 2024년 11월 15일 SolarEdge가 17% 하락했다는 수치를 주요 공식 출처로 직접 확인하지 못했습니다. 따라서 단정 표현보다 태양광 업황 부진과 재고 부담으로 약세를 보였다는 방식으로 정리하는 편이 안전합니다."
+        },
+        "name": "SolarEdge 17% 급락 수치는 그대로 써도 되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 15일 시장 기록입니다. 현재 투자 판단에는 최신 지수, 금리, 실적, 경제지표, 기업 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

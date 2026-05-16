@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-13T10:05:13+09:00",
-  "datePublished": "2024-11-13T10:05:13+09:00",
-  "description": "오늘 시장은 그동안의 승리 행진을 잠시 멈췄습니다. 사실 큰 하락은 아니었지만, 내일 발표될 소비자물가지수(CPI) 발표에 대한 우려로 일부 투자자들이 차익을 실현하면서 매도세가 나타났죠. 특히 레버리지를 크게 쓴 사람이라면 이 작은 하락에도 상당히 타격을 입었을 수 있습니다.📰 오늘의 주요 소식Spirit Airlines ✈️Spirit Airlines가 파산의 길로 들어섰습니다. JetBlue와의 인수 합병이 규제 당국의 반대로 무산되었고, 그 후 고유가와 인건비 상승까지 겹치면서 상황이 급격히 악화되었습니다. **기존 주주들은 그야말로 '치킨게임'**에 돌입한 셈인데요. 결국 Frontier의 마지막 인수 시도가 실패한 지금, Spirit은 채권단과 협상 테이블에 앉아 재정 지원 방안을 논의 중입..",
-  "headline": "끝인가, 새로운 시작인가?",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/120",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:13:00+09:00",
+    "datePublished": "2024-11-13T10:05:13+09:00",
+    "description": "핵심 요약: 2024년 11월 12일 미국 증시는 대선 이후 이어진 트럼프 랠리를 잠시 멈추고 숨 고르기에 들어갔습니다. S&P 500은 5,984로 0.29% 하락했고, 나스닥은 19,281로 0.09% 하락했습니다. 특히 Russell 2000은 1.77% 하락하며 소형주 차익실현이 뚜렷했습니다. 시장은 다음 날 발표될 10월 CPI를 앞두고 금리와 인플레이션 경로를 다시 확인하려는 분위기였습니다.자료 기준일은 2024년 11월 12일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Investopedia의 2024년 11월 12일 미국 증시 마감 자료, BLS 2024년 10월 CPI 발표, Reuters의 Shell·Shopify·UnitedHealth·Amgen 보도, Bloomberg..",
+    "headline": "2024년 11월 12일 미국 증시 리뷰: CPI 대기, Spirit 파산 우려, Shopify·Rocket Lab 급등",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/120",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/120"
   },
-  "url": "https://mystock-note.tistory.com/120"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 12일 미국 증시를 정리합니다. CPI 발표를 앞둔 차익실현, S&P 500 5,984 마감, Russell 2000 약세, Spirit Airlines 파산보호 우려, Shell 네덜란드 기후소송 항소 승소, Shopify 실적 호조, Rocket Lab 매출 55% 증가, UnitedHealth-Amedisys 인수 소송, Amgen MariTide 우려를 분석합니다.",
+    "headline": "2024년 11월 12일 미국 증시 리뷰: CPI 대기, Spirit 파산 우려, Shopify·Rocket Lab 급등",
+    "url": "https://mystock-note.tistory.com/120"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대선 이후 랠리로 주가가 빠르게 오른 뒤, 다음 날 CPI 발표를 앞두고 차익실현이 나왔기 때문입니다. 하락폭은 크지 않았지만 Russell 2000은 1.77% 하락하며 소형주 조정이 컸습니다."
+        },
+        "name": "2024년 11월 12일 미국 증시는 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2024년 11월 12일 S&P 500은 5,984로 마감했고, 등락률은 -0.29%였습니다. 나스닥은 19,281로 -0.09%, 다우존스는 43,911로 -0.86%, Russell 2000은 2,392로 -1.77%였습니다."
+        },
+        "name": "S&P 500은 얼마로 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "기준일인 2024년 11월 12일에는 아직 파산보호 신청 전이었습니다. 당시에는 Frontier와의 합병 논의 결렬 이후 파산보호 신청을 준비 중이라는 보도가 나왔습니다. 실제 Chapter 11 신청은 2024년 11월 18일에 이뤄졌습니다."
+        },
+        "name": "Spirit Airlines는 이날 파산했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네덜란드 항소법원은 Shell에 2030년까지 45% 배출 감축을 명령했던 2021년 판결을 뒤집었습니다. 다만 Shell의 온실가스 감축 책임 자체를 부정한 것은 아니며, 구체적 감축률을 법원이 강제하기 어렵다고 판단했습니다."
+        },
+        "name": "Shell 판결은 어떤 의미였나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Shopify는 2024년 3분기 매출이 전년 대비 26% 증가한 21.6억 달러를 기록했고, 4분기 매출 전망도 시장 예상보다 좋았습니다. AI 기반 도구와 판매자 확대가 성장 요인으로 작용했습니다."
+        },
+        "name": "Shopify는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Rocket Lab은 2024년 3분기 매출이 전년 대비 55% 증가한 1.05억 달러를 기록했고, 수주잔고가 10.5억 달러라고 발표했습니다. 우주항공 성장주로서 매출 가시성이 부각됐습니다."
+        },
+        "name": "Rocket Lab은 왜 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. Altimmune은 pemvidutide와 관련해 FDA와 End-of-Phase 2 미팅을 완료했고, MASH 적응증에서 Fast Track 지정을 받은 상태였습니다. 이는 승인 완료가 아니라 후속 임상 진전 가능성에 가까운 이벤트입니다."
+        },
+        "name": "Altimmune 상승은 FDA 승인 때문인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "미국 법무부와 일부 주 검찰이 UnitedHealth의 Amedisys 33억 달러 인수를 막기 위해 소송을 제기했습니다. 쟁점은 가정간호와 호스피스 시장의 경쟁 약화 가능성이었습니다."
+        },
+        "name": "UnitedHealth 소송은 무엇이었나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "비만 치료제 후보 MariTide와 관련해 골밀도 변화 가능성을 지적한 애널리스트 보고서가 나오면서 주가가 하락했습니다. Amgen은 이후 MariTide와 골밀도 변화 사이의 연관성을 부인했습니다."
+        },
+        "name": "Amgen은 왜 하락했나요?"
+      }
+    ]
+  }
+]

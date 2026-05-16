@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-14T00:00:47+09:00",
-  "datePublished": "2024-11-14T00:00:47+09:00",
-  "description": "안녕하세요, 투자자 여러분! YieldMax™에서 이번 달 주요 ETF의 배당률을 발표했습니다. 이번 달 높은 배당률을 자랑하는 ETF들을 함께 살펴볼까요?CONY: 135.69%ULTY: 101.39%FIAT: 100.77%YMAX: 43.77%YMAG: 55.08% 알아두시면 좋은 점들 📌과거 수익률에 주의: 이번 배당률은 과거 성과를 바탕으로 한 것으로, 앞으로도 같은 수익률을 보장하진 않아요. 투자 성과는 오를 수도, 내려갈 수도 있으니 최신 정보가 궁금하다면 YieldMax™ 공식 웹사이트를 참고해 보세요!배당률은 변동 가능: 배당금은 매달 조금씩 달라질 수 있고, 심지어 배당이 없을 수도 있어요. 매달 상황에 따라 변동될 수 있으니 유의해 주세요!운용비용 안내: 대부분의 YieldMax™ E..",
-  "headline": "YieldMax™ ETF의 11월 월별 배당 업데이트",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcWjhym%2FbtsKIdGLO5I%2FAAAAAAAAAAAAAAAAAAAAAHIdgz8N1ykZhbk87fttOuSMzVBjvaE5ObhLm2D7Dxvi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DE4sZo9pLkpi4Up%252FDMaheJoCRFhc%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/121",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:09:47+09:00",
+    "datePublished": "2024-11-14T00:00:47+09:00",
+    "description": "핵심 요약: YieldMax는 2024년 11월 13일 CONY, ULTY, FIAT, YMAX, YMAG 등 주요 ETF의 분배금을 발표했습니다. 발표된 분배율은 CONY 135.69%, ULTY 101.39%, FIAT 100.77%, YMAG 55.08%, YMAX 43.77%였습니다. 그러나 이 숫자는 최근 분배금을 연환산한 값일 뿐이며, 앞으로 같은 수익률이 유지된다는 뜻이 아닙니다. 특히 YieldMax ETF는 옵션 전략을 활용하므로 분배금 변동, NAV 하락, 상승 제한, 투자자본 반환, Short ETF의 방향성 리스크를 반드시 함께 확인해야 합니다.자료 기준일은 2024년 11월 13일 YieldMax 분배금 공시이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 YieldMax..",
+    "headline": "YieldMax 2024년 11월 분배금 발표: CONY 135.69%, ULTY 101.39% 의미는?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcWjhym%2FbtsKIdGLO5I%2FAAAAAAAAAAAAAAAAAAAAAHIdgz8N1ykZhbk87fttOuSMzVBjvaE5ObhLm2D7Dxvi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DE4sZo9pLkpi4Up%252FDMaheJoCRFhc%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/121",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/121"
   },
-  "url": "https://mystock-note.tistory.com/121"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "YieldMax가 2024년 11월 발표한 CONY, ULTY, FIAT, YMAX, YMAG 분배금을 정리합니다. CONY 135.69%, ULTY 101.39%, FIAT 100.77% 분배율의 계산 방식, 주당 분배금, 30일 SEC 수익률, Short ETF 구조, NAV 훼손과 투자자본 반환 리스크를 설명합니다.",
+    "headline": "YieldMax 2024년 11월 분배금 발표: CONY 135.69%, ULTY 101.39% 의미는?",
+    "url": "https://mystock-note.tistory.com/121"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. CONY 135.69%는 2024년 11월 12일 종가 기준 최근 분배금을 연환산한 Distribution Rate입니다. 실제 연간 수익률이나 미래 확정 수익률이 아닙니다."
+        },
+        "name": "CONY 135.69%는 확정 수익률인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "보장되지 않습니다. YieldMax 공시는 분배금이 지급되지 않을 수 있고, 지급되더라도 금액이 기간마다 크게 달라질 수 있다고 설명합니다."
+        },
+        "name": "YieldMax 분배금은 매달 보장되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Distribution Rate는 최근 분배금을 연환산한 수치입니다. 30-Day SEC Yield는 옵션 수익을 제외한 최근 30일 순투자소득 기준 수익률입니다. 두 지표는 의미가 다르므로 함께 봐야 합니다."
+        },
+        "name": "Distribution Rate와 30-Day SEC Yield는 무엇이 다른가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "ULTY의 Distribution Rate는 옵션 수익이 포함될 수 있는 최근 분배금 연환산 기준입니다. 반면 30-Day SEC Yield는 옵션 수익을 제외한 순투자소득 기준입니다. 그래서 두 수치가 크게 다를 수 있습니다."
+        },
+        "name": "ULTY의 30-Day SEC Yield가 0.00%인데 분배율은 왜 높나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FIAT는 YieldMax Short COIN Option Income Strategy ETF입니다. COIN을 직접 보유하지 않고, COIN에 대한 숏 성격의 옵션 전략을 통해 현재 소득을 추구합니다. COIN이 상승하면 손실을 볼 수 있습니다."
+        },
+        "name": "FIAT는 어떤 ETF인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "YMAX와 YMAG는 다른 YieldMax ETF에 투자하는 구조입니다. 운용보수 0.29%와 피투자 ETF에서 발생하는 Acquired Fund Fees and Expenses 0.99%가 더해져 총보수 1.28%로 제시됩니다."
+        },
+        "name": "YMAX와 YMAG는 왜 총보수가 1.28%인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. YieldMax 공시는 투자자가 기준 자산의 배당금이나 기타 분배금을 직접 받을 권리가 없다고 설명합니다."
+        },
+        "name": "YieldMax ETF는 기초 자산 배당금을 직접 받을 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. YieldMax ETF 분배금에는 일반 배당, 자본이익, 투자자본 반환이 포함될 수 있습니다. 이 경우 ETF의 NAV와 거래가격이 장기적으로 낮아질 수 있습니다."
+        },
+        "name": "분배금에 투자자본 반환이 포함될 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "상품 구조를 이해하지 못한 장기 보유는 위험합니다. YieldMax ETF는 옵션 전략, 기준 자산 변동성, NAV 하락, 분배금 변동, 상승 제한 리스크가 있습니다. 장기 투자 목적이라면 총수익률과 NAV 추이를 반드시 확인해야 합니다."
+        },
+        "name": "YieldMax ETF는 장기 투자에 적합한가요?"
+      }
+    ]
+  }
+]

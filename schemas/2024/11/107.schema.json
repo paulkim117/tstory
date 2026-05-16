@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-02T09:51:38+09:00",
-  "datePublished": "2024-11-02T09:51:38+09:00",
-  "description": "이번 주 주식 시장 동향 📊미국 대형주 지수들은 다음 주 예정된 대선과 연방준비제도(Fed)의 금리 결정을 앞두고 첫 하락세를 기록했습니다. 실적 발표가 기대에 미치지 못하면서, 투자자들은 점점 더 보수적인 자세를 취하고 있는 모습입니다.S&P 500: 5,729 (+0.41%)나스닥: 18,240 (+0.80%)러셀 2000: 2,210 (+0.61%)다우존스: 42,052 (+0.69%)섹터별 성과오늘의 S&P 500 히트맵에서 11개 섹터 중 7개가 상승 마감했으며, 소비재(+1.63%) 섹터가 가장 강세를 보였고 유틸리티(-2.23%)가 가장 큰 하락을 기록했습니다.인텔을 대체한 엔비디아 🤯다우존스 산업평균지수는 최근 인텔을 엔비디아로 교체하면서 더 많은 기술주 비중을 갖추게 되었습니다. 엔비..",
-  "headline": "선거 전 불안감으로 주춤한 주식 시장과 인텔을 대체한 엔비디아 - 이번 주 시장 주요 이슈 정리 📉",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/107",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T12:05:59+09:00",
+    "datePublished": "2024-11-02T09:51:38+09:00",
+    "description": "핵심 요약: 2024년 11월 1일 금요일 미국 증시는 반등했습니다. S&P 500은 5,728.80으로 +0.4%, 나스닥은 18,239.92로 +0.8%, Russell 2000은 2,210.13으로 +0.6%, 다우존스는 42,052.19로 +0.7% 상승했습니다. 다만 주간 기준으로는 S&P 500 -1.4%, 나스닥 -1.5%, 다우 -0.1%였고, Russell 2000만 +0.1%로 소폭 상승했습니다. 따라서 이날 시장은 “하락장 지속”이 아니라, 대선과 FOMC를 앞둔 주간 약세 속 금요일 반등으로 보는 것이 정확합니다.자료 기준일은 2024년 11월 1일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, S&P Dow Jones Indices, Reuters, Chevron..",
+    "headline": "2024년 11월 1일 미국 증시 리뷰: Amazon 반등, 엔비디아 다우 편입, 에너지주 실적",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/107",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/107"
   },
-  "url": "https://mystock-note.tistory.com/107"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 1일 미국 증시를 정리합니다. 금요일 S&P 500 +0.4%, 나스닥 +0.8%, 다우 +0.7%, Russell 2000 +0.6% 반등과 주간 하락 흐름을 구분하고, 엔비디아의 다우 편입, Chevron·ExxonMobil 실적, Globalstar·Apple 계약, Lexicon FDA 리스크, Atlassian 실적을 분석합니다.",
+    "headline": "2024년 11월 1일 미국 증시 리뷰: Amazon 반등, 엔비디아 다우 편입, 에너지주 실적",
+    "url": "https://mystock-note.tistory.com/107"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500은 2024년 11월 1일 5,728.80으로 마감해 하루 기준 0.4% 상승했습니다. 다만 주간 기준으로는 1.4% 하락했습니다."
+        },
+        "name": "2024년 11월 1일 S&P 500은 얼마나 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Amazon 실적 호조와 금리 인하 기대가 기술주 투자심리를 개선했습니다. 나스닥은 금요일 하루 0.8% 상승했지만, 주간 기준으로는 1.5% 하락했습니다."
+        },
+        "name": "나스닥은 왜 반등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P Dow Jones Indices는 2024년 11월 1일 엔비디아의 다우 편입을 발표했고, 변경은 2024년 11월 8일 장 시작 전 적용됐습니다."
+        },
+        "name": "엔비디아는 언제 다우존스 산업평균지수에 편입됐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "엔비디아는 인텔을 대체했습니다. 이는 전통 CPU 중심 반도체 대표주에서 AI GPU 중심 반도체 대표주로 시장의 중심이 이동했음을 보여주는 사건입니다."
+        },
+        "name": "엔비디아는 어떤 종목을 대체했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "순이익뿐 아니라 영업현금흐름, 자유현금흐름, 생산량, 주주환원, 정제 마진을 함께 봐야 합니다. ExxonMobil은 40년 이상 만의 최고 액체 생산량을 기록했습니다."
+        },
+        "name": "Chevron과 ExxonMobil 실적 중 무엇을 봐야 하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Apple과의 확장 위성 서비스 계약 때문입니다. Apple은 최대 11억 달러 선지급과 4억 달러 지분 투자를 통해 Globalstar의 확장 MSS 네트워크 구축을 지원하기로 했습니다."
+        },
+        "name": "Globalstar는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FDA 자문위원회가 sotagliflozin의 제1형 당뇨병 및 만성 신장질환 성인 대상 인슐린 보조 치료제 사용을 11대 3으로 권고하지 않았기 때문입니다."
+        },
+        "name": "Lexicon Pharmaceuticals는 왜 급락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FY2025 1분기 매출은 11억8,780만 달러로 전년 대비 21% 증가했고, 구독 매출은 33% 증가했습니다. AI 제품 Rovo 출시도 긍정적 요인이었습니다."
+        },
+        "name": "Atlassian 실적의 핵심은 무엇인가요?"
+      }
+    ]
+  }
+]

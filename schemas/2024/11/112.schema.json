@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-06T10:01:35+09:00",
-  "datePublished": "2024-11-06T10:01:35+09:00",
-  "description": "시장 동향: 대선 불확실성 속 포트폴리오 조정 준비오늘 증시는 대형 기술주의 반등에 힘입어 상승했습니다. 미국 대선의 변동성을 대비해 투자자들이 포트폴리오를 조정하는 움직임이 감지됩니다. 이제 우리는 모두 미국 대선 결과를 기다리며 그에 맞는 투자 전략을 구상하는 중입니다. 👀오늘의 주요 내용오늘의 이슈에서는 슈퍼 마이크로의 불확실한 미래, 선거 변동성에 대한 헤지 전략 그리고 주목할 만한 종목 변동 사항들을 다룹니다. 📰주요 지수 마감 가격S&P 500: 5,783 (+1.23%)나스닥: 18,439 (+1.43%)러셀 2000: 2,261 (+1.88%)다우존스: 42,222 (+1.02%)가장 강세/약세를 보인 종목들강세 종목: $QLYS, $ZCAR, $TSHA, $TDUP, $XMTR약세 종..",
-  "headline": "미 대선 주목!! 증시 반등 📈",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/112",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:47:39+09:00",
+    "datePublished": "2024-11-06T10:01:35+09:00",
+    "description": "핵심 요약: 2024년 11월 5일 미국 증시는 대선 당일 불확실성에도 상승했습니다. S&P 500은 5,782.76으로 1.2%, 나스닥은 18,439.17로 1.4%, Russell 2000은 2,260.84로 1.9%, 다우존스는 42,221.88로 1.0% 올랐습니다. 시장 상승에는 Palantir 실적에 따른 AI 기대, 미국 서비스업 지표 호조, 대선 불확실성 해소 기대가 함께 작용했습니다. 다만 Super Micro Computer는 예비 실적이 기존 가이던스를 밑돌고 10-K 제출 지연 문제가 이어지며 투자자 신뢰가 흔들렸습니다.자료 기준일은 2024년 11월 5일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Reuters, Super Micro Computer, Ast..",
+    "headline": "2024년 11월 5일 미국 증시 리뷰: 대선 당일 S&P 500 상승과 SMCI 리스크",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/112",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/112"
   },
-  "url": "https://mystock-note.tistory.com/112"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 5일 미국 증시를 정리합니다. 대선 당일 S&P 500 +1.2%, 나스닥 +1.4%, Russell 2000 +1.9% 상승, 미국 ISM 서비스업 PMI 56.0, Palantir AI 기대, Super Micro Computer의 예비 실적·10-K 지연·Nasdaq 리스크, Astera Labs·Marqeta·Qualys 실적을 분석합니다.",
+    "headline": "2024년 11월 5일 미국 증시 리뷰: 대선 당일 S&P 500 상승과 SMCI 리스크",
+    "url": "https://mystock-note.tistory.com/112"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대선 불확실성 해소 기대, Palantir 실적에 따른 AI 기대, 미국 ISM 서비스업 지표 호조가 함께 작용했습니다. S&P 500은 1.2%, 나스닥은 1.4%, Russell 2000은 1.9% 상승했습니다."
+        },
+        "name": "2024년 11월 5일 미국 증시는 왜 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준 S&P 500은 5,782.76으로 마감했습니다. 전일 대비 70.07포인트, 1.2% 상승했습니다."
+        },
+        "name": "2024년 11월 5일 S&P 500은 얼마로 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2024년 10월 ISM 서비스업 PMI는 56.0으로 상승해 2022년 8월 이후 최고치를 기록했습니다. 이는 미국 경제가 대선 시점에도 견조하다는 신호로 해석됐습니다."
+        },
+        "name": "ISM 서비스업 PMI는 왜 중요했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "가장 큰 리스크는 실적보다 공시 신뢰도였습니다. FY2024 Form 10-K 제출이 지연됐고, Nasdaq 규정 준수 이슈가 발생했습니다. 예비 매출도 기존 가이던스를 밑돌았습니다."
+        },
+        "name": "Super Micro Computer의 가장 큰 리스크는 무엇이었나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Super Micro는 2025 회계연도 1분기 순매출을 59억~60억 달러로 예상했습니다. 이는 기존 가이던스 60억~70억 달러보다 낮은 수준이었습니다."
+        },
+        "name": "SMCI의 2025 회계연도 1분기 예비 매출은 얼마였나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Astera Labs는 2024년 3분기 매출 1억 1,310만 달러를 기록했고, 전분기 대비 47%, 전년 대비 206% 성장했습니다. AI 인프라 연결 수요가 강하게 반영됐습니다."
+        },
+        "name": "Astera Labs가 급등한 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "3분기 TPV와 매출은 증가했지만, 4분기 순매출 성장률 전망이 10~12%로 낮아졌습니다. 이는 기존 기대였던 16~18%보다 낮아 투자자 실망을 키웠습니다."
+        },
+        "name": "Marqeta는 왜 급락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "당선자 예측보다 정책 노출을 점검하는 것이 우선입니다. 금리 민감도, 관세 노출, 중국 관련주, 친환경주, 금융주, 소형주, 정치 테마주 비중을 확인해야 합니다."
+        },
+        "name": "대선 전후 포트폴리오 조정은 어떻게 해야 하나요?"
+      }
+    ]
+  }
+]

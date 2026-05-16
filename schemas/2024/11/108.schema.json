@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-04T10:11:19+09:00",
-  "datePublished": "2024-11-04T10:11:19+09:00",
-  "description": "주간 요약: 지난주 시장 정리 및 다가오는 주요 이벤트지난 한 주 동안 주식시장은 많은 변동성을 보이며 하락세로 마감했지만, 이번 주에도 투자자들은 긴장을 늦추지 않고 있습니다. 이번 주에는 대선과 연방준비제도의 금리 결정 외에도 1,200개 이상의 기업들이 실적을 발표할 예정이라 시장의 변동성이 예상됩니다. 😱지난주의 주요 이벤트월요일: '매그니피센트 세븐' 기업들의 실적 발표 기대감으로 주가가 상승하며 한 주를 시작했습니다. 포드의 실적 전망이 부진했고, 사운드하운드와 소파이 주식이 주목을 받았습니다.화요일: 빅테크가 혼합된 시장을 견인하면서, 비트코인이 이 날의 주요 종목으로 떠올랐습니다.수요일: 반도체 산업이 큰 타격을 입었으며, 미국 경제는 계속해서 성장하는 모습을 보였습니다.목요일: 애플과 ..",
-  "headline": "이번 주 시장 전망: 대선과 금리 결정 앞두고 대기하는 투자자들 📈",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/108",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T12:01:55+09:00",
+    "datePublished": "2024-11-04T10:11:19+09:00",
+    "description": "핵심 요약: 2024년 11월 첫째 주 미국 증시는 대선과 FOMC를 앞두고 약세로 마감했습니다. S&P 500은 주간 -1.4%, 나스닥은 -1.5%, 다우존스는 -0.1%를 기록했고, Russell 2000만 +0.1%로 소폭 상승했습니다. 다음 주에는 2024년 11월 5일 미국 대선, 11월 7일 FOMC 금리 결정, 대규모 실적 발표가 예정돼 있어 변동성 확대 가능성이 컸습니다. 동시에 엔비디아의 다우 편입, AI 규제 논쟁, 대선 베팅시장 확대 같은 구조적 이슈도 시장의 관심을 받았습니다.자료 기준일은 2024년 11월 1일 주간 마감이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Stocktwits, Reuters, Federal Reserve, FactSet, Axios,..",
+    "headline": "2024년 11월 첫째 주 미국 증시 리뷰: 대선·FOMC·실적 시즌을 앞둔 시장",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/108",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/108"
   },
-  "url": "https://mystock-note.tistory.com/108"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 첫째 주 미국 증시를 정리합니다. S&P 500 -1.4%, 나스닥 -1.5%, 다우 -0.1%, Russell 2000 +0.1%의 주간 흐름, 미국 대선, 11월 FOMC 금리 인하 기대, 엔비디아 다우 편입, 실적 시즌, 대선 베팅시장, AI 규제 논쟁, 와인 소비 감소 이슈를 분석합니다.",
+    "headline": "2024년 11월 첫째 주 미국 증시 리뷰: 대선·FOMC·실적 시즌을 앞둔 시장",
+    "url": "https://mystock-note.tistory.com/108"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준 S&P 500은 2024년 11월 1일 5,728.80으로 마감했고, 주간 기준 1.4% 하락했습니다."
+        },
+        "name": "2024년 11월 첫째 주 S&P 500은 얼마나 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "나스닥은 주간 기준 1.5% 하락했습니다. 빅테크 실적 부담, 반도체 변동성, AI 투자 비용에 대한 우려가 함께 작용했습니다."
+        },
+        "name": "나스닥은 왜 더 약했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Russell 2000은 주간 +0.1%로 대형 지수보다 견조했습니다. 대선 전후 소형주 정책 수혜 기대와 일부 위험선호가 반영된 것으로 볼 수 있습니다."
+        },
+        "name": "Russell 2000은 왜 소폭 상승했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "가장 중요한 이벤트는 2024년 11월 5일 미국 대선과 11월 7일 FOMC였습니다. 대선은 정책 방향을, FOMC는 금리와 유동성 기대를 결정하는 핵심 변수였습니다."
+        },
+        "name": "다음 주 가장 중요한 이벤트는 무엇이었나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "예. 연준은 2024년 11월 7일 기준금리 목표 범위를 4.50~4.75%로 25bp 인하했습니다."
+        },
+        "name": "연준은 2024년 11월 FOMC에서 금리를 인하했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "엔비디아가 인텔을 대체해 다우존스 산업평균지수에 편입된 것은 AI 반도체가 미국 대표 산업 지수에서도 핵심 산업으로 인정받았다는 상징적 사건입니다."
+        },
+        "name": "엔비디아 다우 편입은 왜 중요했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대선 베팅시장은 투자심리 참고 지표로는 볼 수 있지만, 여론조사나 실제 개표를 대체할 수는 없습니다. 참여자 구성, 유동성, 고액 베팅 영향으로 왜곡될 수 있습니다."
+        },
+        "name": "대선 베팅시장은 신뢰할 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "FactSet 기준 2024년 11월 1일까지 S&P 500 기업의 70%가 실적을 발표했고, 이 중 75%가 EPS 예상치를 상회했습니다. 다만 EPS 서프라이즈 폭은 장기 평균보다 낮아 강한 호재로만 보기는 어려웠습니다."
+        },
+        "name": "실적 시즌은 시장에 긍정적이었나요?"
+      }
+    ]
+  }
+]

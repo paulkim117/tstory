@@ -1,23 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 3921,
+  "backup_date": "2026-05-16",
+  "body_html_length": 2241,
   "canonical_url": "https://mystock-note.tistory.com/134",
-  "content_hash": "81ad07df77b543879ad15094e4828417d9a0a49025b1632925967e12825f2059",
-  "json_ld_count": 0,
-  "meta_description": "오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..",
-  "modified_time": "2024-11-23T10:51:59+09:00",
+  "content_hash": "eee0ee54bfac61838a531d52c398bbc0c0f708a35a83ad2096b61c8a0f2db95d",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 이 글은 2024년 11월 22일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 다우존스는 사상 최고가를 기록했고, S&P 500과 나스닥도 상승했습니다. 러셀 2000은 1.8% 상승하며 소형주 강세를 이어갔습니다. 시장의 또 다른 핵심은 비트코인이 10만 달러에 근접했지만 돌파하지 못했다는 점입니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지수와 현재 가격을 별도로 확인해야 합니다.자료 기준일은 2024년 11월 22일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP의 2024년 11월 22일 미국 주요 지수 마감 자료, Fortune의 비트코인 10만 달러 근접 보도, Reuters의 DirecTV·Dish 인수 철회 기사,..",
+  "modified_time": "2026-05-16T10:27:14+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/134\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/134\",\"headline\":\"비트코인, $100,000 돌파 실패!\",\"description\":\"오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb1fOWA%2FbtsKUv1ybhO%2FAAAAAAAAAAAAAAAAAAAAAAKnZg5WN3t5GfGYRY59v4vzyVq1NuVfvCWeENEfkDzH%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dvk3hbTQ%252BLpC%252F0%252Fzylk8tv78cAjQ%253D\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2024-11-23T10:51:59+09:00\",\"dateModified\":\"2024-11-23T10:51:59+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "오늘 주식시장은 느린 속도로 진행되었으며, 휴일 주간에 접어든 롱 투자자들이 조심스레 베팅을 이어갔습니다. 한편, 모든 관심은 비트코인의 $100,000 돌파 여부에 쏠렸습니다. 현재로서는 단 $150 차이로 목표를 달성하지 못하며 투자자들은 주말 내내 긴장감을 유지하게 되었습니다. 👀오늘의 뉴스레터 주요 내용:비트코인의 아쉬운 마무리주목할 만한 주식의 상승/하락새로운 \"Weekend Rip With Ben & Emil\" 에피소드! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 9개가 상승 마감했습니다.소비재 섹터(+1.43%)가 상승을 주도했으며, 유틸리티 섹터(-0.55%)가 가장 부진했습니다.종가 정보S&P 500: 5,969 (+0.35%)나스닥: 19,004 (+0.16%)러셀 200..",
-  "og_title": "비트코인, $100,000 돌파 실패!",
+  "og_description": "핵심 요약: 이 글은 2024년 11월 22일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 다우존스는 사상 최고가를 기록했고, S&P 500과 나스닥도 상승했습니다. 러셀 2000은 1.8% 상승하며 소형주 강세를 이어갔습니다. 시장의 또 다른 핵심은 비트코인이 10만 달러에 근접했지만 돌파하지 못했다는 점입니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지수와 현재 가격을 별도로 확인해야 합니다.자료 기준일은 2024년 11월 22일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP의 2024년 11월 22일 미국 주요 지수 마감 자료, Fortune의 비트코인 10만 달러 근접 보도, Reuters의 DirecTV·Dish 인수 철회 기사,..",
+  "og_title": "2024년 11월 22일 미국 증시 리뷰: 비트코인 10만 달러 근접과 다우 최고가",
   "post_id": "134",
   "published_time": "2024-11-23T10:51:59+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "비트코인, $100,000 돌파 실패!",
+  "title": "2024년 11월 22일 미국 증시 리뷰: 비트코인 10만 달러 근접과 다우 최고가",
   "url": "https://mystock-note.tistory.com/134"
 }

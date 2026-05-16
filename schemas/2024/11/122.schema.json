@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-14T11:19:40+09:00",
-  "datePublished": "2024-11-14T11:19:40+09:00",
-  "description": "인플레이션이 상승하면서 베어스가 비트코인이 $90,000 돌파를 저지하는 데 성공했습니다. 또한, SMCI의 연례 보고서 지연 문제로 나스닥 상장폐지 가능성이 제기되면서 반도체 주들이 하락했고, AMD는 4%의 인력 감축을 발표하여 성장 우려를 자아냈습니다. 이제 모든 관심은 내일 발표될 생산자 물가지수(PPI)와 제롬 파월 연준 의장의 연설에 쏠려 있습니다. 👀오늘 소식은 10월 인플레이션 상승, 엔비디아 데이 행사 개요, 기타 주목할 만한 주식 상승 및 하락 현황을 다룹니다. 📰S&P 500의 섹터별 지도를 보면, 11개 섹터 중 8개가 상승 마감했으며, 소비재 섹터(+0.85%)가 상승을 이끌었고 기술 섹터(-0.35%)는 하락했습니다.종가 정보는 다음과 같습니다:S&P 500: 5,985 (+..",
-  "headline": "인플레이션 급등에 시장 긴장! 비트코인 9만 돌파 저지, 반도체 위기 지속",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fnrg3r%2FbtsKICfhqIq%2FAAAAAAAAAAAAAAAAAAAAACgiF5WywE4pzsT3RNmc9vfpDzWcbgLHzq_LzYNwyNlv%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FMdnLUS7RGl6gkVcPDj6jJaI2eE%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/122",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:07:07+09:00",
+    "datePublished": "2024-11-14T11:19:40+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 13일 미국 증시를 기준으로 한 일일 시장 리뷰입니다. 이날 S&P 500은 5,985로 보합권에서 마감했고, 나스닥은 19,231로 0.26% 하락했습니다. 10월 CPI는 전월 대비 0.2%, 전년 대비 2.6% 상승해 예상에 부합했습니다. 다만 주거비와 중고차 가격 상승이 확인되면서 인플레이션 둔화가 매끄럽지 않다는 우려도 남았습니다. 비트코인은 9만 달러를 저지당한 것이 아니라 장중 9만 달러를 돌파했고, SMCI는 보고서 지연과 나스닥 상장폐지 리스크로 시장 불안을 키웠습니다.자료 기준일은 2024년 11월 13일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 BLS의 2024년 10월 CPI 공식 발표, Investopedia와 AP의 2024..",
+    "headline": "2024년 11월 13일 미국 증시 리뷰: CPI 예상 부합, 비트코인 9만 달러 돌파, SMCI 리스크",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fnrg3r%2FbtsKICfhqIq%2FAAAAAAAAAAAAAAAAAAAAACgiF5WywE4pzsT3RNmc9vfpDzWcbgLHzq_LzYNwyNlv%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FMdnLUS7RGl6gkVcPDj6jJaI2eE%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/122",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/122"
   },
-  "url": "https://mystock-note.tistory.com/122"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 13일 미국 증시를 정리합니다. 10월 CPI 예상 부합, 주거비와 중고차 가격 상승, 비트코인 9만 달러 돌파, SMCI 보고서 지연과 나스닥 상장폐지 우려, AMD 4% 감원, Nvidia 실적 대기, PPI와 파월 연설을 앞둔 시장 흐름을 분석합니다.",
+    "headline": "2024년 11월 13일 미국 증시 리뷰: CPI 예상 부합, 비트코인 9만 달러 돌파, SMCI 리스크",
+    "url": "https://mystock-note.tistory.com/122"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2024년 10월 CPI는 전월 대비 0.2%, 전년 대비 2.6% 상승했습니다. 근원 CPI는 전월 대비 0.3%, 전년 대비 3.3% 상승했습니다."
+        },
+        "name": "2024년 11월 13일 CPI는 어떻게 나왔나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "주거비와 근원 물가 부담이 남아 있었고, 10년물 금리가 다시 상승했기 때문입니다. 또한 PPI, 파월 발언, Nvidia 실적을 앞두고 투자자들이 추가 확인을 기다렸습니다."
+        },
+        "name": "CPI가 예상에 부합했는데 왜 시장은 강하게 오르지 못했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 2024년 11월 13일 비트코인은 장중 9만 달러를 돌파했습니다. 따라서 기존 글의 베어스가 9만 달러 돌파를 저지했다는 표현은 수정해야 합니다."
+        },
+        "name": "비트코인은 9만 달러 돌파에 실패했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SMCI는 9월 분기 보고서 제출을 지연했고, 연례보고서 미제출로 나스닥 상장 규정 미준수 상태였습니다. 새 감사인을 찾는 과정과 내부통제 평가 문제가 시장의 신뢰도 우려로 이어졌습니다."
+        },
+        "name": "SMCI는 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AMD는 AI 칩 개발이라는 성장 기회에 자원을 집중하기 위해 글로벌 인력의 4%, 약 1,000명을 감원한다고 밝혔습니다. 데이터센터 부문은 성장했지만 게임 부문은 크게 부진했습니다."
+        },
+        "name": "AMD는 왜 인력을 줄였나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "주요 원인은 공매도 보고서 논란이었습니다. 회사는 데이터 수집 관행과 특정 파트너 매출 의혹을 부인했으며, 해당 파트너들의 매출 기여도가 크지 않다고 반박했습니다."
+        },
+        "name": "Zeta Global 급락은 실적 때문인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nvidia는 2024년 11월 20일 FY2025 3분기 매출 351억 달러, 데이터센터 매출 308억 달러를 발표했습니다. 이는 AI 반도체 수요가 강하다는 점을 보여줬습니다."
+        },
+        "name": "Nvidia 실적은 이후 어떻게 나왔나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2024년 11월 14일 발표된 10월 PPI는 전월 대비 0.2% 상승했습니다. 시장 예상에 부합했지만 서비스 가격 부담은 이어졌습니다."
+        },
+        "name": "다음 날 PPI는 어떻게 나왔나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "파월 의장은 경제가 금리 인하를 서두를 필요가 있다는 신호를 보내고 있지 않다고 말했습니다. 이는 시장의 빠른 금리 인하 기대를 낮추는 요인으로 작용했습니다."
+        },
+        "name": "파월 의장 발언은 시장에 어떤 영향을 줬나요?"
+      }
+    ]
+  }
+]

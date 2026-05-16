@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-19T10:13:40+09:00",
-  "datePublished": "2024-11-19T10:13:40+09:00",
-  "description": "미국 주식시장은 장 초반에는 안정세를 보였으나, 후반부에는 상승세를 이어가지 못했습니다. 시장 반전을 위한 새로운 촉매가 필요한 상황에서, 모든 관심은 수요일에 발표될 엔비디아의 실적에 집중되고 있습니다. 그 전에 투자자들은 Walmart, Lowe’s, 인기 있는 몇몇 중국 주식들의 실적 발표로 시장을 주시해야 할 것입니다. 👀금일 글에서는 SMCI의 반등, Boston Scientific의 상승 돌파, 그리고 MicroStrategy와 관련된 소식을 전달드리려고 합니. 📰S&P 500 히트맵S&P 500의 11개 섹터 중 10개 섹터가 상승 마감했습니다. 에너지 섹터(+1.33%)가 가장 크게 상승했고, 산업 섹터(-0.14%)는 유일하게 하락했습니다.출처: Finviz.com종가 정보S&P 50..",
-  "headline": "주식 시장, 동력 부족으로 정체!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FVuFxI%2FbtsKNcO3uxN%2FAAAAAAAAAAAAAAAAAAAAAMLDjQp2IAKVJtBwiY3cnrbxWtFRBNno2dfl8fV01_hq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DvnIVK9439FrCx%252FgqTbo7W17n6qs%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/130",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:38:42+09:00",
+    "datePublished": "2024-11-19T10:13:40+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 18일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 S&P 500은 0.39%, 나스닥은 0.60%, 러셀 2000은 0.1% 상승했고, 다우존스는 0.13% 하락했습니다. 시장의 핵심은 Nvidia 실적 발표를 앞둔 기술주 기대, SMCI의 BDO 감사인 선임과 나스닥 규정 준수 계획, Tesla 자율주행 규제 완화 기대, MicroStrategy의 51,780 BTC 추가 매수였습니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지수와 현재 주가를 별도로 확인해야 합니다.자료 기준일은 2024년 11월 18일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Reuters의 2024년 11월 18일 미국 시장..",
+    "headline": "2024년 11월 18일 미국 증시 리뷰: SMCI 반등, MicroStrategy 비트코인 매수, Nvidia 실적 대기",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FVuFxI%2FbtsKNcO3uxN%2FAAAAAAAAAAAAAAAAAAAAAMLDjQp2IAKVJtBwiY3cnrbxWtFRBNno2dfl8fV01_hq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DvnIVK9439FrCx%252FgqTbo7W17n6qs%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/130",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/130"
   },
-  "url": "https://mystock-note.tistory.com/130"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 18일 미국 증시 흐름을 정리합니다. S&P 500, 나스닥, 러셀 2000, 다우존스 마감 수치와 SMCI의 BDO 감사인 선임, 나스닥 규정 준수 계획, Tesla 자율주행 규제 기대, MicroStrategy의 51,780 BTC 추가 매수, Boston Scientific의 Axonics 인수와 WATCHMAN FLX 임상 결과를 분석합니다.",
+    "headline": "2024년 11월 18일 미국 증시 리뷰: SMCI 반등, MicroStrategy 비트코인 매수, Nvidia 실적 대기",
+    "url": "https://mystock-note.tistory.com/130"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글의 기준일은 2024년 11월 18일입니다. 현재 시장 상황이 아니라 당시 미국 증시 마감과 주요 뉴스 흐름을 정리한 글입니다."
+        },
+        "name": "이 글의 오늘은 현재 날짜를 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500은 5,893.62로 마감했습니다. 전일 대비 0.39% 상승했습니다."
+        },
+        "name": "2024년 11월 18일 S&P 500은 얼마에 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SMCI는 BDO USA를 신규 감사인으로 선임하고 나스닥 상장 규정 준수 계획을 제출했다고 발표했습니다. 다만 이는 회계 리스크가 완전히 해소됐다는 의미가 아니라, 상장 유지 절차상 중요한 단계로 봐야 합니다."
+        },
+        "name": "SMCI는 왜 반등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "MicroStrategy는 2024년 11월 18일 51,780 BTC를 약 46억 달러에 추가 매수했다고 공시했습니다. 매수 후 총 보유량은 331,200 BTC가 됐습니다."
+        },
+        "name": "MicroStrategy는 비트코인을 얼마나 추가 매수했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "도널드 트럼프 대통령 당선인의 인수팀이 자율주행차 관련 연방 규제 체계를 검토 중이라는 보도 이후, Tesla가 규제 완화 수혜를 받을 수 있다는 기대가 커졌기 때문입니다."
+        },
+        "name": "Tesla는 왜 상승했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Boston Scientific은 Axonics 인수를 완료했고, WATCHMAN FLX의 OPTION 임상 3년 결과에서 출혈 위험 감소와 효능 관련 긍정적 데이터를 발표했습니다."
+        },
+        "name": "Boston Scientific은 왜 주목받았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 18일 시장 기록입니다. 현재 투자 판단에는 최신 지수, 금리, 실적, 경제지표, 암호화폐 가격, 기업 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

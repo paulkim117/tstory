@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 2251,
+  "backup_date": "2026-05-16",
+  "body_html_length": 2167,
   "canonical_url": "https://mystock-note.tistory.com/120",
-  "content_hash": "6866f3d583bcc5058a9dc172e79da0194c372449167146ace7a6f357f01c2de0",
-  "json_ld_count": 1,
-  "meta_description": "오늘 시장은 그동안의 승리 행진을 잠시 멈췄습니다. 사실 큰 하락은 아니었지만, 내일 발표될 소비자물가지수(CPI) 발표에 대한 우려로 일부 투자자들이 차익을 실현하면서 매도세가 나타났죠. 특히 레버리지를 크게 쓴 사람이라면 이 작은 하락에도 상당히 타격을 입었을 수 있습니다.📰 오늘의 주요 소식Spirit Airlines ✈️Spirit Airlines가 파산의 길로 들어섰습니다. JetBlue와의 인수 합병이 규제 당국의 반대로 무산되었고, 그 후 고유가와 인건비 상승까지 겹치면서 상황이 급격히 악화되었습니다. **기존 주주들은 그야말로 '치킨게임'**에 돌입한 셈인데요. 결국 Frontier의 마지막 인수 시도가 실패한 지금, Spirit은 채권단과 협상 테이블에 앉아 재정 지원 방안을 논의 중입..",
-  "modified_time": "2024-11-13T10:05:13+09:00",
+  "content_hash": "0c28a51d82ec81d61df77a0e4049b2bea9c354508b3eab1241e6caed6c4ec712",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 2024년 11월 12일 미국 증시는 대선 이후 이어진 트럼프 랠리를 잠시 멈추고 숨 고르기에 들어갔습니다. S&P 500은 5,984로 0.29% 하락했고, 나스닥은 19,281로 0.09% 하락했습니다. 특히 Russell 2000은 1.77% 하락하며 소형주 차익실현이 뚜렷했습니다. 시장은 다음 날 발표될 10월 CPI를 앞두고 금리와 인플레이션 경로를 다시 확인하려는 분위기였습니다.자료 기준일은 2024년 11월 12일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Investopedia의 2024년 11월 12일 미국 증시 마감 자료, BLS 2024년 10월 CPI 발표, Reuters의 Shell·Shopify·UnitedHealth·Amgen 보도, Bloomberg..",
+  "modified_time": "2026-05-16T11:13:00+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "오늘 시장은 그동안의 승리 행진을 잠시 멈췄습니다. 사실 큰 하락은 아니었지만, 내일 발표될 소비자물가지수(CPI) 발표에 대한 우려로 일부 투자자들이 차익을 실현하면서 매도세가 나타났죠. 특히 레버리지를 크게 쓴 사람이라면 이 작은 하락에도 상당히 타격을 입었을 수 있습니다.📰 오늘의 주요 소식Spirit Airlines ✈️Spirit Airlines가 파산의 길로 들어섰습니다. JetBlue와의 인수 합병이 규제 당국의 반대로 무산되었고, 그 후 고유가와 인건비 상승까지 겹치면서 상황이 급격히 악화되었습니다. **기존 주주들은 그야말로 '치킨게임'**에 돌입한 셈인데요. 결국 Frontier의 마지막 인수 시도가 실패한 지금, Spirit은 채권단과 협상 테이블에 앉아 재정 지원 방안을 논의 중입..",
-  "og_title": "끝인가, 새로운 시작인가?",
+  "og_description": "핵심 요약: 2024년 11월 12일 미국 증시는 대선 이후 이어진 트럼프 랠리를 잠시 멈추고 숨 고르기에 들어갔습니다. S&P 500은 5,984로 0.29% 하락했고, 나스닥은 19,281로 0.09% 하락했습니다. 특히 Russell 2000은 1.77% 하락하며 소형주 차익실현이 뚜렷했습니다. 시장은 다음 날 발표될 10월 CPI를 앞두고 금리와 인플레이션 경로를 다시 확인하려는 분위기였습니다.자료 기준일은 2024년 11월 12일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Investopedia의 2024년 11월 12일 미국 증시 마감 자료, BLS 2024년 10월 CPI 발표, Reuters의 Shell·Shopify·UnitedHealth·Amgen 보도, Bloomberg..",
+  "og_title": "2024년 11월 12일 미국 증시 리뷰: CPI 대기, Spirit 파산 우려, Shopify·Rocket Lab 급등",
   "post_id": "120",
   "published_time": "2024-11-13T10:05:13+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "끝인가, 새로운 시작인가?",
+  "title": "2024년 11월 12일 미국 증시 리뷰: CPI 대기, Spirit 파산 우려, Shopify·Rocket Lab 급등",
   "url": "https://mystock-note.tistory.com/120"
 }

@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-20T11:12:33+09:00",
-  "datePublished": "2024-11-20T11:12:33+09:00",
-  "description": "오늘 미국 주식시장은 암호화폐와 함께 강한 상승세를 보이며 엔비디아 실적 발표를 하루 앞두고 기대감을 키웠습니다. 오늘 소식에서는 엔비디아와 반도체 섹터를 중심으로 기술적, 기본적, 그리고 투자 심리를 분석하며 실적 발표 준비에 도움을 드립니다. 👀오늘의 뉴스레터 주요 내용:암호화폐 시장의 황소장 기운엔비디아 실적 발표 사전 가이드그리고 오늘의 주목할 만한 주식들! 📰S&P 500 히트맵S&P 500의 11개 섹터 중 6개 섹터가 상승 마감했습니다.기술 섹터(+0.83%)가 상승을 주도했으며, 금융 섹터(-0.68%)가 가장 부진했습니다.종가 정보S&P 500: 5,917 (+0.40%)나스닥: 18,987 (+1.04%)러셀 2000: 2,325 (+0.80%)다우존스: 43,269 (-0.70%)..",
-  "headline": "시장이 기다리는 '엔비디아 데이'!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdAZpzj%2FbtsKPEKQc8l%2FAAAAAAAAAAAAAAAAAAAAAOdCnYTJ4Ng47xdSFaI38uzDkrVZd040Lu3gN8PMG2Nk%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLpYbMdsPBFhtomQAwRg%252FkTK9DO0%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/131",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:35:42+09:00",
+    "datePublished": "2024-11-20T11:12:33+09:00",
+    "description": "핵심 요약: 이 글은 2024년 11월 19일 미국 증시를 기준으로 한 시장 리뷰입니다. 당시 S&P 500은 0.40%, 나스닥은 1.04% 상승했고, 다우존스는 0.28% 하락했습니다. 시장의 핵심은 Nvidia 실적 발표를 하루 앞둔 기술주 강세, BlackRock IBIT 옵션 첫 거래, 비트코인 94,000달러 돌파, Walmart 실적 호조였습니다. 다만 이 내용은 현재 시장 전망이 아니라 과거 거래일 기록이므로, 투자 판단에는 최신 지수와 현재 주가를 별도로 확인해야 합니다.자료 기준일은 2024년 11월 19일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Reuters의 2024년 11월 19일 미국 시장 마감 기사, Nvidia 2025회계연도 3분기 실적 발표, Walmar..",
+    "headline": "2024년 11월 19일 미국 증시 리뷰: Nvidia 실적 대기와 비트코인 94,000달러 돌파",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdAZpzj%2FbtsKPEKQc8l%2FAAAAAAAAAAAAAAAAAAAAAOdCnYTJ4Ng47xdSFaI38uzDkrVZd040Lu3gN8PMG2Nk%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLpYbMdsPBFhtomQAwRg%252FkTK9DO0%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/131",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/131"
   },
-  "url": "https://mystock-note.tistory.com/131"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 19일 미국 증시 흐름을 정리합니다. S&P 500, 나스닥, 다우존스 마감 수치와 Nvidia 실적 발표 전 기대, IBIT 옵션 첫 거래, 비트코인 94,000달러 돌파, Walmart 실적 호조, C3.ai·Microsoft 제휴, Robinhood의 TradePMR 인수를 분석합니다.",
+    "headline": "2024년 11월 19일 미국 증시 리뷰: Nvidia 실적 대기와 비트코인 94,000달러 돌파",
+    "url": "https://mystock-note.tistory.com/131"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글의 기준일은 2024년 11월 19일입니다. 현재 시장 상황이 아니라 당시 미국 증시 마감과 주요 뉴스 흐름을 정리한 글입니다."
+        },
+        "name": "이 글의 오늘은 현재 날짜를 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500은 5,916.98로 마감했습니다. 전일 대비 0.40% 상승했습니다."
+        },
+        "name": "2024년 11월 19일 S&P 500은 얼마에 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Reuters 기준으로는 맞지 않습니다. 2024년 11월 19일 다우존스는 43,268.94로 마감했고, 등락률은 -0.28%였습니다."
+        },
+        "name": "기존 글의 다우존스 -0.70%는 맞나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "IBIT 옵션 첫 거래가 시작되며 비트코인 현물 ETF 생태계에 대한 기대가 커졌고, 대선 이후 위험자산 선호도 이어졌기 때문입니다. 다만 이후 100,000달러 부근에서는 차익 실현이 나타났습니다."
+        },
+        "name": "비트코인은 왜 94,000달러를 돌파했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "네. Nvidia는 2024년 11월 20일 FY2025 3분기 매출 351억 달러를 발표했습니다. 이는 전년 대비 94% 증가한 수치입니다. 데이터센터 매출도 308억 달러로 전년 대비 112% 증가했습니다."
+        },
+        "name": "Nvidia 실적은 실제로 좋았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Microsoft와 Azure 기반 엔터프라이즈 AI 도입을 확대하는 전략적 제휴를 발표했기 때문입니다. 다만 장기 성과는 실제 매출 성장과 수익성 개선으로 이어지는지 확인해야 합니다."
+        },
+        "name": "C3.ai는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 11월 19일 시장 기록입니다. 현재 투자 판단에는 최신 지수, 금리, 실적, 경제지표, 암호화폐 가격, 기업 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

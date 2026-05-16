@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-08T10:42:27+09:00",
-  "datePublished": "2024-11-08T10:42:27+09:00",
-  "description": "금리 인하 소식 및 경제 변화에 대한 반응연방준비제도(Fed)는 예고한 대로 기준금리를 25bp 인하했습니다. 그러나 기자들은 파월 의장의 임기와 트럼프 행정부의 영향에 대한 질문을 던지며 논란을 일으켰습니다. 한편, 위험 자산들은 트럼프 행정부의 경제 정책이 미칠 긍정적 영향에 대한 기대감 속에서 상승했습니다. 👀오늘의 주요 이슈이번 호에서는 연준의 금리 결정, 급증하는 투기적 베팅, 그리고 주요 기업 실적 발표에 따른 급등과 급락에 대해 살펴봅니다. 📰주요 지수 마감 현황S&P 500: 5,973 (+0.74%)나스닥: 19,269 (+1.51%)러셀 2000: 2,383 (-0.43%)다우존스: 43,729 (-0.01%)Stocktwits 강세/약세 종목강세: $CELU, $XRAY, $BNZ..",
-  "headline": "연준 의장, 거친 질문 속 의연한 답변 📰",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/115",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:34:30+09:00",
+    "datePublished": "2024-11-08T10:42:27+09:00",
+    "description": "핵심 요약: 2024년 11월 7일 미국 증시는 연준의 25bp 금리 인하 이후 대체로 강세를 보였습니다. S&P 500은 5,973.10으로 0.7% 상승했고, 나스닥은 19,269.46으로 1.5% 올랐습니다. 반면 Russell 2000은 0.4% 하락하며 대선 직후 강했던 소형주 랠리가 잠시 쉬어 갔습니다. 연준은 기준금리 목표 범위를 4.50~4.75%로 낮췄지만, 향후 금리 경로는 고용·물가·경제 전망에 따라 결정하겠다는 입장을 유지했습니다.자료 기준일은 2024년 11월 7일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 Federal Reserve, AP, Reuters, Toast, Lyft, Under Armour, Moderna, Business Wire 자료를 기준으로 재..",
+    "headline": "2024년 11월 7일 미국 증시 리뷰: 연준 25bp 금리 인하와 나스닥 강세",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/115",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/115"
   },
-  "url": "https://mystock-note.tistory.com/115"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 7일 미국 증시를 정리합니다. 연준의 25bp 금리 인하, 기준금리 4.50~4.75%, 파월 의장의 연준 독립성 발언, S&P 500 5,973.10 마감, 나스닥 1.5% 상승, Russell 2000 약세, Toast·Lyft·Under Armour·Moderna 실적과 AI 투기 심리를 분석합니다.",
+    "headline": "2024년 11월 7일 미국 증시 리뷰: 연준 25bp 금리 인하와 나스닥 강세",
+    "url": "https://mystock-note.tistory.com/115"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "연준은 기준금리 목표 범위를 4.50~4.75%로 25bp 인하했습니다. 이는 2024년 9월 50bp 인하 이후 이어진 두 번째 금리 인하였습니다."
+        },
+        "name": "연준은 2024년 11월 7일 금리를 얼마나 내렸나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준으로 S&P 500은 5,973.10으로 마감했고, 등락률은 +0.7%였습니다. 나스닥은 19,269.46으로 +1.5% 상승했습니다."
+        },
+        "name": "2024년 11월 7일 S&P 500은 얼마로 마감했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Russell 2000은 전날 대선 결과 이후 강하게 오른 뒤 2024년 11월 7일에는 0.4% 하락했습니다. 소형주 랠리의 일부 차익실현으로 볼 수 있습니다."
+        },
+        "name": "Russell 2000은 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "트럼프 당선 이후 연준 의장의 독립성과 임기 문제가 질문으로 나왔기 때문입니다. 파월은 정치적 압력과 무관하게 연준이 데이터 중심으로 정책을 결정한다는 입장을 유지했습니다."
+        },
+        "name": "파월 의장의 발언은 왜 중요했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Toast는 2024년 3분기 매출 13.05억 달러, GPV 417억 달러, GAAP 순이익 5,600만 달러를 기록했습니다. 매출 성장과 흑자 전환이 함께 확인됐다는 점이 핵심입니다."
+        },
+        "name": "Toast 실적의 핵심은 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Lyft는 3분기 매출 15억 달러, Gross Bookings 41억 달러, Active Riders 2,440만 명을 기록했습니다. 수요 회복과 Free Cash Flow 개선이 긍정적으로 평가됐습니다."
+        },
+        "name": "Lyft 실적은 왜 긍정적으로 평가됐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "매출은 전년 대비 11% 감소했지만, Gross margin이 49.8%로 개선됐고 조정 EPS가 0.30달러를 기록했습니다. 시장은 구조조정과 수익성 개선에 주목했습니다."
+        },
+        "name": "Under Armour는 매출이 줄었는데 왜 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Moderna는 3분기 순이익 1,300만 달러를 기록했지만, RSV 백신 mRESVIA 매출은 1,000만 달러에 그쳤습니다. 코로나 백신 의존도를 낮출 신규 파이프라인 성과가 필요합니다."
+        },
+        "name": "Moderna는 깜짝 흑자였는데 왜 조심해야 하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI 테마주는 매출 성장률만 보면 부족합니다. Gross margin, 고객 수, 현금흐름, 공매도 비율, 가이던스를 함께 확인해야 합니다. 단순히 AI 키워드만으로 투자하면 변동성이 커질 수 있습니다."
+        },
+        "name": "AI 테마주는 어떻게 봐야 하나요?"
+      }
+    ]
+  }
+]

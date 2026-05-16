@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 5763,
+  "backup_date": "2026-05-16",
+  "body_html_length": 3465,
   "canonical_url": "https://mystock-note.tistory.com/128",
-  "content_hash": "a535c7eb0a8db56f4742ae967a38a417d31358caa11df9015dede4ce23334313",
-  "json_ld_count": 1,
-  "meta_description": "이번 글에서는 S&P 500, 나스닥 100, 러셀 2000 지수에서 연초 대비(YTD) 최고 성과를 기록한 상위 25개 주식을 소개하고, 이들의 성과를 추적합니다.이번 주 주요 내용:S&P 500, 나스닥 100, 러셀 2000의 주간 성과 요약Nvidia 실적 발표 이벤트 카운트다운주간 최고 상승 주식 'Top Dawg' 하이라이트 🐶S&P 500S&P 500 Top 25 💪이번 주 S&P 500 Top 25 리스트는 -1.81%를 기록하며 S&P 500 지수(-2.08%)를 상회했습니다.이번 주에는 주요 변화가 3건 있었습니다.아래는 S&P 500 지수 대비 모멘텀 미터의 성과를 보여주는 그래프입니다.NVIDIA DAY 카운트다운최고의 실적 발표 이벤트 👑스포츠 팬에게 르브론 제임스가 있다면,..",
-  "modified_time": "2024-11-17T12:24:52+09:00",
+  "content_hash": "0630857bec823c269a79d9695049b992bd68b9d9413f6223961ac0652a083edc",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: 이 글은 Stocktwits가 2024년 11월 16일 발행한 Week 46 Top 25 자료를 기준으로 정리한 모멘텀 종목 리뷰입니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 25개 종목을 추적하는 리스트입니다. 2024년 46주차에는 S&P 500 Top 25와 Nasdaq 100 Top 25가 각각 벤치마크보다 덜 하락했지만, Russell 2000 Top 25는 Russell 2000 지수보다 크게 부진했습니다. 이번 주 Top Dawg는 Rocket Lab USA였고, Nvidia 실적 발표가 다음 주 핵심 이벤트로 주목받았습니다.자료 기준 기간은 2024년 11월 11~15일이며, 본문 수정일은 20..",
+  "modified_time": "2026-05-16T10:46:08+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "이번 글에서는 S&P 500, 나스닥 100, 러셀 2000 지수에서 연초 대비(YTD) 최고 성과를 기록한 상위 25개 주식을 소개하고, 이들의 성과를 추적합니다.이번 주 주요 내용:S&P 500, 나스닥 100, 러셀 2000의 주간 성과 요약Nvidia 실적 발표 이벤트 카운트다운주간 최고 상승 주식 'Top Dawg' 하이라이트 🐶S&P 500S&P 500 Top 25 💪이번 주 S&P 500 Top 25 리스트는 -1.81%를 기록하며 S&P 500 지수(-2.08%)를 상회했습니다.이번 주에는 주요 변화가 3건 있었습니다.아래는 S&P 500 지수 대비 모멘텀 미터의 성과를 보여주는 그래프입니다.NVIDIA DAY 카운트다운최고의 실적 발표 이벤트 👑스포츠 팬에게 르브론 제임스가 있다면,..",
-  "og_title": "주식 시장 판도를 뒤흔든 상위 25개 종목! 엔비디아 데이까지 일주일, 대박 주식은?",
+  "og_description": "핵심 요약: 이 글은 Stocktwits가 2024년 11월 16일 발행한 Week 46 Top 25 자료를 기준으로 정리한 모멘텀 종목 리뷰입니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 25개 종목을 추적하는 리스트입니다. 2024년 46주차에는 S&P 500 Top 25와 Nasdaq 100 Top 25가 각각 벤치마크보다 덜 하락했지만, Russell 2000 Top 25는 Russell 2000 지수보다 크게 부진했습니다. 이번 주 Top Dawg는 Rocket Lab USA였고, Nvidia 실적 발표가 다음 주 핵심 이벤트로 주목받았습니다.자료 기준 기간은 2024년 11월 11~15일이며, 본문 수정일은 20..",
+  "og_title": "Stocktwits Top 25 Week 46 리뷰: Nvidia 실적 대기와 Rocket Lab 급등",
   "post_id": "128",
   "published_time": "2024-11-17T12:24:52+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "주식 시장 판도를 뒤흔든 상위 25개 종목! 엔비디아 데이까지 일주일, 대박 주식은?",
+  "title": "Stocktwits Top 25 Week 46 리뷰: Nvidia 실적 대기와 Rocket Lab 급등",
   "url": "https://mystock-note.tistory.com/128"
 }

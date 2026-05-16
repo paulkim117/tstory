@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-17T12:24:52+09:00",
-  "datePublished": "2024-11-17T12:24:52+09:00",
-  "description": "이번 글에서는 S&P 500, 나스닥 100, 러셀 2000 지수에서 연초 대비(YTD) 최고 성과를 기록한 상위 25개 주식을 소개하고, 이들의 성과를 추적합니다.이번 주 주요 내용:S&P 500, 나스닥 100, 러셀 2000의 주간 성과 요약Nvidia 실적 발표 이벤트 카운트다운주간 최고 상승 주식 'Top Dawg' 하이라이트 🐶S&P 500S&P 500 Top 25 💪이번 주 S&P 500 Top 25 리스트는 -1.81%를 기록하며 S&P 500 지수(-2.08%)를 상회했습니다.이번 주에는 주요 변화가 3건 있었습니다.아래는 S&P 500 지수 대비 모멘텀 미터의 성과를 보여주는 그래프입니다.NVIDIA DAY 카운트다운최고의 실적 발표 이벤트 👑스포츠 팬에게 르브론 제임스가 있다면,..",
-  "headline": "주식 시장 판도를 뒤흔든 상위 25개 종목! 엔비디아 데이까지 일주일, 대박 주식은?",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FchpmIN%2FbtsKMINcoee%2FAAAAAAAAAAAAAAAAAAAAAMKVuEtj9Q2Iz1D_7xcCAdqidWVR0SnTmG_QIeD4Hw8C%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dw%252BuqutVTPMVAfR4A9EAmHPAVw9s%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/128",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:46:08+09:00",
+    "datePublished": "2024-11-17T12:24:52+09:00",
+    "description": "핵심 요약: 이 글은 Stocktwits가 2024년 11월 16일 발행한 Week 46 Top 25 자료를 기준으로 정리한 모멘텀 종목 리뷰입니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 25개 종목을 추적하는 리스트입니다. 2024년 46주차에는 S&P 500 Top 25와 Nasdaq 100 Top 25가 각각 벤치마크보다 덜 하락했지만, Russell 2000 Top 25는 Russell 2000 지수보다 크게 부진했습니다. 이번 주 Top Dawg는 Rocket Lab USA였고, Nvidia 실적 발표가 다음 주 핵심 이벤트로 주목받았습니다.자료 기준 기간은 2024년 11월 11~15일이며, 본문 수정일은 20..",
+    "headline": "Stocktwits Top 25 Week 46 리뷰: Nvidia 실적 대기와 Rocket Lab 급등",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FchpmIN%2FbtsKMINcoee%2FAAAAAAAAAAAAAAAAAAAAAMKVuEtj9Q2Iz1D_7xcCAdqidWVR0SnTmG_QIeD4Hw8C%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dw%252BuqutVTPMVAfR4A9EAmHPAVw9s%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/128",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/128"
   },
-  "url": "https://mystock-note.tistory.com/128"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 46주차 Stocktwits Top 25 자료를 기준으로 S&P 500, Nasdaq 100, Russell 2000의 연초 대비 상위 종목 흐름을 정리합니다. S&P 500 Top 25, Nasdaq 100 Top 25, Russell 2000 Top 25의 주간 성과와 Nvidia 실적 발표 전 기대, Rocket Lab 급등 배경, 모멘텀 투자 시 주의할 점을 분석합니다.",
+    "headline": "Stocktwits Top 25 Week 46 리뷰: Nvidia 실적 대기와 Rocket Lab 급등",
+    "url": "https://mystock-note.tistory.com/128"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 종목을 추적하는 자료입니다. 매수 추천 목록이 아니라 모멘텀 종목 관찰 자료로 보는 것이 적절합니다."
+        },
+        "name": "Stocktwits Top 25는 추천 종목 리스트인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Stocktwits 원문 기준 Top Dawg는 Rocket Lab USA였습니다. 원문은 Rocket Lab이 주간 40.64%, 연초 대비 243.58% 상승했다고 소개했습니다."
+        },
+        "name": "2024년 46주차 가장 강했던 종목은 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Rocket Lab은 2024년 3분기 매출 1억 500만 달러, 전년 대비 55% 성장, 백로그 10억 5,000만 달러를 발표했습니다. 또한 Neutron 로켓으로 2026년 중반부터 비공개 상업 위성 컨스텔레이션 고객의 두 개 전용 미션을 발사하는 계약을 발표했습니다."
+        },
+        "name": "Rocket Lab은 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. Rocket Lab은 2024년 3분기 순손실 약 5,190만 달러를 기록했습니다. 매출 성장과 백로그는 긍정적이지만, 수익성 전환 여부는 별도로 확인해야 합니다."
+        },
+        "name": "Rocket Lab은 흑자 기업인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nvidia는 Intel을 대체해 Dow Jones Industrial Average에 편입됐고, 해당 변경은 2024년 11월 8일 장 시작 전부터 적용됐습니다."
+        },
+        "name": "Nvidia는 언제 Dow Jones Industrial Average에 편입됐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nvidia는 2024년 11월 20일 FY2025 3분기 매출 351억 달러를 발표했습니다. 이는 전년 대비 94% 증가한 수치이며, 데이터센터 매출은 308억 달러로 전년 대비 112% 증가했습니다."
+        },
+        "name": "Nvidia 실적은 실제로 어떻게 나왔나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Russell 2000 Top 25는 소형 고모멘텀 종목 중심이기 때문에 시장 조정 구간에서 변동성이 더 크게 나타날 수 있습니다. 2024년 46주차에는 지수보다 훨씬 큰 -9.96% 하락을 기록했습니다."
+        },
+        "name": "Russell 2000 Top 25가 크게 하락한 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 46주차 Stocktwits 자료를 기준으로 한 과거 기록입니다. 현재 투자 판단에는 최신 주가, 실적, 지수 구성, 거래량, 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

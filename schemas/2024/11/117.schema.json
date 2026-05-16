@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-10T00:44:22+09:00",
-  "datePublished": "2024-11-10T00:44:22+09:00",
-  "description": "다가오는 11월 12일, Shopify(SHOP), SoundHound AI(SOUN), Marathon Digital(MARA) 등 다양한 기업들이 2024년 3분기 실적 발표를 앞두고 있습니다. 투자자들의 관심이 집중되는 가운데, 기대되는 실적과 시장 반응에 대한 주요 포인트를 정리해 보았습니다.Shopify (SHOP)실적 발표 일자: 11월 12일 오전 7시 (미국 동부시간)시장 컨센서스: 주당 순이익(EPS) $0.37, 매출 $21억 1천만이익 전망치 (Earnings Whisper®): $0.42 EPS주요 지표: 전년 대비 매출 성장률 23.1%, 주가는 200일 이동 평균보다 20.9% 높은 수준에 있으며, 최근 단기 공매도는 14.8% 증가했습니다.SoundHound AI (SOUN)실..",
-  "headline": "Shopify, SoundHound AI, Marathon Digital 등 주요 기업들의 2024년 3분기 실적 전망",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcYQJ9o%2FbtsKBQ0Coms%2FAAAAAAAAAAAAAAAAAAAAAPh3Ju-qTaUxiX7ZjX-gM1AccI0PAe4PiiAsn8vN-aIg%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DDdFCrCWRFow%252FCFJdDDwAigBI00Y%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/117",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:26:30+09:00",
+    "datePublished": "2024-11-10T00:44:22+09:00",
+    "description": "핵심 요약: 2024년 11월 둘째 주에는 Shopify, SoundHound AI, MARA, CAVA, monday.com, Spotify, Alibaba, Zeta Global, Disney, Applied Materials 등 주요 기업의 실적 발표가 이어졌습니다. 실적 시즌의 핵심은 단순히 EPS와 매출이 예상치를 넘었는지가 아니었습니다. 시장은 매출 성장률, 마진, 가이던스, AI 수요, 암호화폐 노출, 소비 회복, 중국 매출, 반도체 장비 수요까지 함께 평가했습니다. Shopify와 CAVA는 강한 성장성을 보여줬고, SoundHound AI는 매출 성장에도 마진 우려가 부각됐으며, MARA는 비트코인 상승 환경에서도 적자와 비용 구조를 확인해야 하는 기업으로 남았습니다.자료 기준일은 202..",
+    "headline": "2024년 11월 둘째 주 실적 리뷰: Shopify, SoundHound AI, MARA, CAVA, Disney 핵심 정리",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcYQJ9o%2FbtsKBQ0Coms%2FAAAAAAAAAAAAAAAAAAAAAPh3Ju-qTaUxiX7ZjX-gM1AccI0PAe4PiiAsn8vN-aIg%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DDdFCrCWRFow%252FCFJdDDwAigBI00Y%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/117",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/117"
   },
-  "url": "https://mystock-note.tistory.com/117"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 둘째 주 주요 기업 실적을 정리합니다. Shopify, SoundHound AI, MARA, CAVA, monday.com, Spotify, Alibaba, Zeta Global, Disney, Applied Materials의 실제 실적과 주가 반응, 매출 성장률, 마진, 가이던스, 투자자가 확인해야 할 체크포인트를 분석합니다.",
+    "headline": "2024년 11월 둘째 주 실적 리뷰: Shopify, SoundHound AI, MARA, CAVA, Disney 핵심 정리",
+    "url": "https://mystock-note.tistory.com/117"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Shopify는 2024년 3분기 매출 21.6억 달러를 기록했고, 전년 대비 26% 성장했습니다. GMV도 전년 대비 24% 증가했으며, 4분기 매출 성장 전망도 긍정적으로 제시했습니다."
+        },
+        "name": "Shopify 2024년 3분기 실적은 어땠나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SoundHound AI는 3분기 매출이 전년 대비 89% 증가했지만, 마진 하락과 순손실 우려가 부각됐습니다. 성장성은 강했지만 수익성 확인이 부족했습니다."
+        },
+        "name": "SoundHound AI는 왜 매출 성장에도 주가가 약했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "MARA는 비트코인 가격에 민감한 채굴주입니다. 3분기 매출은 증가했지만 순손실이 1억 2,480만 달러로 컸습니다. 비트코인 가격, 전력비, 채굴 효율, 해시레이트가 모두 수익성에 영향을 줍니다."
+        },
+        "name": "MARA는 비트코인 상승장에서도 왜 리스크가 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CAVA는 2024년 3분기 매출이 전년 대비 39.0% 증가했고, 동일매장 매출은 18.1% 증가했습니다. 신규 매장뿐 아니라 기존 매장 트래픽도 강했다는 점이 핵심입니다."
+        },
+        "name": "CAVA 실적의 핵심은 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "monday.com은 매출이 전년 대비 33% 증가하고 ARR이 10억 달러를 넘었지만, 영업손실 확대와 영업마진 악화, 가이던스 기대치 부담이 주가 하락 요인으로 작용했습니다."
+        },
+        "name": "monday.com은 왜 실적 발표 후 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spotify는 MAU 6억 4,000만 명, 프리미엄 가입자 2억 5,200만 명, 매출 40억 유로를 기록했습니다. 가장 중요한 점은 영업이익 4억 5,400만 유로와 Gross Margin 31.1%로 수익성이 개선됐다는 것입니다."
+        },
+        "name": "Spotify 실적에서 가장 중요한 지표는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Zeta Global은 3분기 매출 2억 6,800만 달러로 전년 대비 42% 증가했습니다. 다만 이후 공매도 보고서 논란이 발생해 실적 성장과 별개로 신뢰도 리스크를 확인해야 했습니다."
+        },
+        "name": "Zeta Global은 실적이 좋았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Disney는 2024 회계연도 4분기 매출 226억 달러를 기록했고, 조정 EPS는 1.14달러였습니다. 스트리밍 수익성 개선과 영화 흥행이 긍정적으로 작용했습니다."
+        },
+        "name": "Disney 실적은 어떤 점이 좋았나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Applied Materials는 2024 회계연도 4분기 매출 70.5억 달러, Non-GAAP EPS 2.32달러를 기록했습니다. AI 반도체와 첨단 패키징 수요는 긍정적이지만 중국 매출과 수출 규제 리스크를 함께 봐야 합니다."
+        },
+        "name": "Applied Materials 실적에서 확인할 점은 무엇인가요?"
+      }
+    ]
+  }
+]

@@ -1,34 +1,98 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-24T10:40:23+09:00",
-  "datePublished": "2024-11-24T10:39:58+09:00",
-  "description": "안녕하세요, 여러분!이번 주(47주차) 뉴스레터에서는 S&P 500, Nasdaq 100, Russell 2000의 연초 대비(YTD) 성과 상위 25개 종목을 발표하고, 이들이 주간 및 연간 성과를 어떻게 쌓아가고 있는지 분석합니다.각 지수에서 가장 뛰어난 종목과 변화 내용을 상세히 소개하니 끝까지 읽어보세요. 🎯🏆 S&P 500: ST Top 25 S&P 500Top 25 리스트 성과: 이번 주 +5.25% 상승하며, S&P 500 지수 자체 상승률(+1.68%)을 크게 웃돌았습니다.이번 주 리스트에는 3개의 주요 변경 사항이 있었습니다.새롭게 진입한 종목과 기존 종목 간 성과 차이를 분석해 보세요.아래는 모멘텀 미터와 S&P 500 지수의 비교 그래프입니다. 📊모멘텀 미터는 Stocktwits..",
-  "headline": "📈  2024년 47주차 완벽 정리 📊",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcbbHtd%2FbtsKS9SW1gT%2FAAAAAAAAAAAAAAAAAAAAAKT5YAsaZXmVdG3ieMPqDc4qo6nurOb7IUPkqpkUtyk3%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DFu8san%252FXpkpu4iMfj%252BQug%252FtHOp0%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/135",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:23:24+09:00",
+    "datePublished": "2024-11-24T10:39:58+09:00",
+    "description": "핵심 요약: 이 글은 Stocktwits가 2024년 11월 23일 발행한 Week 47 Top 25 자료를 기준으로 정리한 모멘텀 종목 리뷰입니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 25개 종목을 추적하는 리스트입니다. 2024년 47주차에는 S&P 500 Top 25가 +5.25%, Nasdaq 100 Top 25가 +3.65%, Russell 2000 Top 25가 +10.47%를 기록하며 각 벤치마크를 상회했습니다. 다만 이 수치는 과거 주간 성과이며, 향후 수익률을 보장하지 않습니다.자료 기준일은 2024년 11월 23일 Stocktwits Week 47 자료이며, 본문 수정일은 2026년 5월 16일입니다...",
+    "headline": "Stocktwits Top 25 Week 47 리뷰: S&P 500·Nasdaq 100·Russell 2000 모멘텀 종목 정리",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcbbHtd%2FbtsKS9SW1gT%2FAAAAAAAAAAAAAAAAAAAAAKT5YAsaZXmVdG3ieMPqDc4qo6nurOb7IUPkqpkUtyk3%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DFu8san%252FXpkpu4iMfj%252BQug%252FtHOp0%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/135",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/135"
   },
-  "url": "https://mystock-note.tistory.com/135"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 47주차 Stocktwits Top 25 자료를 기준으로 S&P 500, Nasdaq 100, Russell 2000의 연초 대비 상위 종목 흐름을 정리합니다. S&P 500 Top 25, Nasdaq 100 Top 25, Russell 2000 Top 25의 주간 성과와 Aclaris Therapeutics 급등 배경, 모멘텀 투자 시 주의할 점을 분석합니다.",
+    "headline": "Stocktwits Top 25 Week 47 리뷰: S&P 500·Nasdaq 100·Russell 2000 모멘텀 종목 정리",
+    "url": "https://mystock-note.tistory.com/135"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 높은 종목을 추적하는 자료입니다. 매수 추천 목록이 아니라 모멘텀 종목 관찰 자료로 보는 것이 적절합니다."
+        },
+        "name": "Stocktwits Top 25는 추천 종목 리스트인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "원문 기준 Russell 2000 Top 25입니다. 해당 리스트는 주간 +10.47% 상승하며 Russell 2000 지수 상승률 +4.46%를 크게 상회했습니다."
+        },
+        "name": "2024년 47주차 가장 강했던 Top 25 리스트는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Aclaris는 Biosion과 글로벌 라이선스 계약을 체결했고, 약 8,000만 달러 규모의 사모 자금조달을 발표했습니다. 이 두 이벤트가 파이프라인 재평가와 재무 안정성 기대를 키웠습니다."
+        },
+        "name": "Aclaris Therapeutics는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 라이선스 계약과 자금조달은 긍정적 이벤트일 수 있지만, 임상 성공과 상업화 성공을 보장하지 않습니다. 바이오텍 투자는 임상 실패, 규제 지연, 추가 자금조달 리스크를 함께 봐야 합니다."
+        },
+        "name": "Aclaris의 급등은 임상 성공을 의미하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "보장되지 않습니다. 모멘텀은 이어질 수도 있지만, 단기 과열 이후 차익 실현이 나올 수도 있습니다. 특히 소형주와 바이오텍은 변동성이 큽니다."
+        },
+        "name": "Top 25 리스트가 벤치마크를 상회하면 다음 주에도 강세가 이어지나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 이 글은 2024년 47주차 Stocktwits 자료를 기준으로 한 과거 기록입니다. 현재 투자 판단에는 최신 주가, 실적, 지수 구성, 거래량, 공시를 다시 확인해야 합니다."
+        },
+        "name": "이 글을 현재 투자 판단에 그대로 사용해도 되나요?"
+      }
+    ]
+  }
+]

@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-07T10:56:56+09:00",
-  "datePublished": "2024-11-07T10:56:56+09:00",
-  "description": "시장 개요시장은 불확실성을 싫어합니다. 이번 선거는 접전이 예상되었으나, 도널드 트럼프 대통령의 명확한 승리로 불확실성이 해소되었습니다. 투자자들은 트럼프 정부가 친기업적이고 시장 친화적인 정책을 펼칠 것이라는 기대 속에 리스크 자산들이 큰 폭으로 상승했습니다. 오늘 월스트리트에서 어떤 움직임이 있었는지 요약합니다. 📰 S&P 500 섹터별 마감•11개 섹터 중 8개 섹터가 상승 마감. •금융(+6.08%)이 가장 강세를 보였고, 부동산(-2.67%)은 하락했습니다. 주요 지수 마감가 •S&P 500: 5,929 (+2.53%) •나스닥: 18,983 (+2.95%) •Russell 2000: 2,393 (+5.84%) •다우 존스: 43,730 (+3.57%) 주식 시장 트렌드: 공포에서 FOMO로! ..",
-  "headline": "트럼프 승리로 리스크 자산 사상 최고치 경신! 🚀",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/114",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:39:57+09:00",
+    "datePublished": "2024-11-07T10:56:56+09:00",
+    "description": "핵심 요약: 2024년 11월 6일 미국 증시는 도널드 트럼프의 대선 승리 이후 강한 랠리를 보였습니다. S&P 500은 5,929.04로 2.5%, 다우존스는 43,729.93으로 3.6%, 나스닥은 18,983.47로 3.0%, Russell 2000은 2,392.92로 5.8% 상승했습니다. 시장은 감세, 규제 완화, 친기업 정책 기대를 빠르게 가격에 반영했습니다. 금융주와 소형주, 비트코인, 테슬라는 강세를 보였고, 부동산·유틸리티·태양광·중국 관련주는 상대적으로 부진했습니다.자료 기준일은 2024년 11월 6일이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 AP, Reuters, SolarEdge, AppLovin, Lyft, Dutch Bros, Federal Reserve 관련 자..",
+    "headline": "2024년 11월 6일 미국 증시 리뷰: 트럼프 당선 랠리와 Russell 2000 급등",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/114",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/114"
   },
-  "url": "https://mystock-note.tistory.com/114"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "2024년 11월 6일 미국 증시를 정리합니다. 트럼프 대선 승리 이후 S&P 500 +2.5%, 다우 +3.6%, 나스닥 +3.0%, Russell 2000 +5.8% 상승, 금융주·지역은행·비트코인·테슬라 급등, 태양광·부동산·중국 관련주 약세, 관세와 인플레이션 리스크를 분석합니다.",
+    "headline": "2024년 11월 6일 미국 증시 리뷰: 트럼프 당선 랠리와 Russell 2000 급등",
+    "url": "https://mystock-note.tistory.com/114"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "트럼프 대선 승리로 선거 불확실성이 해소됐고, 투자자들이 감세·규제 완화·친기업 정책 가능성을 반영했기 때문입니다. 금융주, 은행주, 소형주, 암호화폐 관련주가 특히 강했습니다."
+        },
+        "name": "2024년 11월 6일 미국 증시는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AP 기준으로 S&P 500은 146.28포인트, 2.5% 상승한 5,929.04로 마감했습니다. 다우존스는 3.6%, 나스닥은 3.0%, Russell 2000은 5.8% 상승했습니다."
+        },
+        "name": "S&P 500은 이날 얼마나 올랐나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "트럼프 당선 이후 은행 규제 완화, 감세, 자본 요건 완화 기대가 커졌기 때문입니다. Reuters 기준 금융 섹터는 6.16%, S&P 500 은행 지수는 10.68% 상승했습니다."
+        },
+        "name": "금융주가 가장 강했던 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "소형주는 감세, 규제 완화, 미국 내수 중심 정책 기대에 민감합니다. 다만 장기금리가 상승하면 차입비용 부담이 커질 수 있기 때문에 상승세가 항상 지속된다고 볼 수는 없습니다."
+        },
+        "name": "Russell 2000이 급등한 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "트럼프 행정부가 암호화폐에 더 우호적인 규제 환경을 만들 수 있다는 기대가 커졌기 때문입니다. Coinbase, Robinhood, 비트코인 ETF 등 암호화폐 관련 자산도 함께 주목받았습니다."
+        },
+        "name": "비트코인은 왜 사상 최고치를 기록했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "친환경 정책 지원 축소 우려, 고금리 부담, 수요 둔화, 재고 부담이 겹쳤습니다. SolarEdge는 2024년 3분기 매출이 전년 대비 64% 감소하며 실적 자체도 부진했습니다."
+        },
+        "name": "태양광주는 왜 하락했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기금리 상승 때문입니다. 부동산과 유틸리티는 금리 민감 업종입니다. 금리가 오르면 차입비용이 증가하고 배당주의 상대 매력이 낮아질 수 있습니다."
+        },
+        "name": "부동산과 유틸리티는 왜 약했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "단기적으로는 정책 기대가 이어질 수 있었지만, 관세, 인플레이션, 장기금리 상승, 재정적자, 실제 정책 집행 지연은 리스크였습니다. 따라서 랠리 지속 여부는 정책 기대보다 기업 실적과 금리 경로에 달려 있었습니다."
+        },
+        "name": "트럼프 랠리는 계속될 수 있었나요?"
+      }
+    ]
+  }
+]

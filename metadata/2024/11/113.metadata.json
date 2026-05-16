@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 3222,
+  "backup_date": "2026-05-16",
+  "body_html_length": 4089,
   "canonical_url": "https://mystock-note.tistory.com/113",
-  "content_hash": "7a80c75369ed9d0243325783b1947d2ef24a19a6311562c947607ff9d1dd6abc",
-  "json_ld_count": 1,
-  "meta_description": "YieldMax™ ETF 배당금 및 위험 설명YieldMax™는 다양한 ETF에 대해 월간 배당금을 발표했습니다. 주요 배당 수익률은 다음과 같습니다:MRNY: 73.00%FBY: 55.50%DIPS: 54.67%YMAX: 36.43%YMAG: 56.63%이 배당률은 ETF의 최근 배당금을 연간화한 수익률이며, 고정된 수익을 보장하지 않습니다. 매달 변동 가능하며 특정 ETF는 배당금을 지급하지 않을 수도 있습니다.투자자 유의 사항수익 변동성: 배당률과 30일 SEC 수익률이 반드시 미래의 배당금을 예측하는 지표는 아닙니다. 과거의 성과는 미래의 성과를 보장하지 않습니다.배당 수익의 구성 요소: 배당금은 일반 배당, 자본 이익, 투자자 자본의 반환 등이 포함될 수 있으며, 이는 ETF의 순자산가치(NAV..",
-  "modified_time": "2024-11-07T10:27:10+09:00",
+  "content_hash": "c6dfc1f1704d29323fa8e4fb52cf75e7fae6f64f638eb9800dae77a5feb87413",
+  "json_ld_count": 3,
+  "meta_description": "핵심 요약: YieldMax는 2024년 11월 6일 MRNY, FBY, DIPS, YMAX, YMAG 등 주요 옵션 인컴 ETF의 분배금을 발표했습니다. 발표 자료 기준 분배율은 MRNY 73.00%, FBY 55.50%, DIPS 54.67%, YMAX 36.43%, YMAG 56.63%였습니다. 그러나 이 수치는 최근 분배금을 연환산한 값일 뿐, 향후 수익률이나 총수익률을 보장하지 않습니다. YieldMax ETF를 볼 때는 높은 분배율보다 분배 재원, NAV 변화, 30일 SEC 수익률, 옵션 전략 리스크, 원금 반환 가능성을 함께 확인해야 합니다.자료 기준일은 2024년 11월 6일 YieldMax 분배금 발표 자료이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 YieldMax의 Gl..",
+  "modified_time": "2026-05-16T11:43:41+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "YieldMax™ ETF 배당금 및 위험 설명YieldMax™는 다양한 ETF에 대해 월간 배당금을 발표했습니다. 주요 배당 수익률은 다음과 같습니다:MRNY: 73.00%FBY: 55.50%DIPS: 54.67%YMAX: 36.43%YMAG: 56.63%이 배당률은 ETF의 최근 배당금을 연간화한 수익률이며, 고정된 수익을 보장하지 않습니다. 매달 변동 가능하며 특정 ETF는 배당금을 지급하지 않을 수도 있습니다.투자자 유의 사항수익 변동성: 배당률과 30일 SEC 수익률이 반드시 미래의 배당금을 예측하는 지표는 아닙니다. 과거의 성과는 미래의 성과를 보장하지 않습니다.배당 수익의 구성 요소: 배당금은 일반 배당, 자본 이익, 투자자 자본의 반환 등이 포함될 수 있으며, 이는 ETF의 순자산가치(NAV..",
-  "og_title": "YieldMax™ ETF 월간 배당금 및 주요 투자 위험 요약",
+  "og_description": "핵심 요약: YieldMax는 2024년 11월 6일 MRNY, FBY, DIPS, YMAX, YMAG 등 주요 옵션 인컴 ETF의 분배금을 발표했습니다. 발표 자료 기준 분배율은 MRNY 73.00%, FBY 55.50%, DIPS 54.67%, YMAX 36.43%, YMAG 56.63%였습니다. 그러나 이 수치는 최근 분배금을 연환산한 값일 뿐, 향후 수익률이나 총수익률을 보장하지 않습니다. YieldMax ETF를 볼 때는 높은 분배율보다 분배 재원, NAV 변화, 30일 SEC 수익률, 옵션 전략 리스크, 원금 반환 가능성을 함께 확인해야 합니다.자료 기준일은 2024년 11월 6일 YieldMax 분배금 발표 자료이며, 본문 수정일은 2026년 5월 16일입니다. 본문은 YieldMax의 Gl..",
+  "og_title": "YieldMax 2024년 11월 분배금 발표: MRNY 73%, FBY 55.5%, DIPS 54.67%의 의미",
   "post_id": "113",
   "published_time": "2024-11-07T10:27:10+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "YieldMax™ ETF 월간 배당금 및 주요 투자 위험 요약",
+  "title": "YieldMax 2024년 11월 분배금 발표: MRNY 73%, FBY 55.5%, DIPS 54.67%의 의미",
   "url": "https://mystock-note.tistory.com/113"
 }

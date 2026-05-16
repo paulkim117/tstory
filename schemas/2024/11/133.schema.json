@@ -1,34 +1,106 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-22T12:32:41+09:00",
-  "datePublished": "2024-11-22T12:31:07+09:00",
-  "description": "Target 12™ Big 50 Option Income ETF (BIGY) 소개BIGY 개요BIGY는 연간 12% 목표 수익률과 자본 증가를 추구하는 적극적으로 운용되는 ETF입니다. 이는 Big 50 기업(미국의 상위 50대 기업)의 포트폴리오에 직접 투자하고, 일부 또는 전부에 옵션 계약을 매도하여 수익을 창출합니다.Big 50 기업이란?Big 50 기업은 다음 기준을 충족하는 미국 상위 50대 기업을 의미합니다. • 시장 가치 기준 상위 50위 내 • 미국 상장 주식 • 충분한 유동성을 가진 옵션 계약 보유이 기준은 BIGY의 서브 어드바이저인 ZEGA Financial, LLC가 판단합니다.BIGY 주식 포트폴리오BIGY는 Big 50 기업에 직접 투자하여 자본 증가를 추구합니다. • ZEGA는..",
-  "headline": "YieldMax™의 첫 Target 12™ ETF 출시",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FutpXo%2FbtsKR77VoQg%2FAAAAAAAAAAAAAAAAAAAAAAiq_khHpqZZ28BQ5f4lCyNe3z3fI6qlYTTXSmN5Uw8V%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dg91X5h3i1fJNtpNZwndvFLgAc8s%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/133",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:29:47+09:00",
+    "datePublished": "2024-11-22T12:31:07+09:00",
+    "description": "핵심 요약: BIGY ETF는 YieldMax Target 12 Big 50 Option Income ETF입니다. BIGY는 미국 시가총액 상위 50개 기업에 직접 투자하면서, 해당 보유 종목에 옵션 전략을 활용해 월간 인컴과 자본 성장을 함께 추구합니다. 2026년 5월 기준 BIGY의 Distribution Rate는 12.00%로 표시되지만, 이는 확정 수익률이 아니며 실제 총수익률도 아닙니다. 투자자는 12% 목표 소득보다 옵션 전략의 상승 제한, 하락 손실, NAV, 30-Day SEC Yield, ROC, 비용, 세금을 함께 확인해야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 YieldMax BIGY 공식 상품 페이지, 2024년 11월 21일 BIGY 출시 공시, 2026년..",
+    "headline": "BIGY ETF란? YieldMax Target 12 Big 50 옵션 인컴 ETF 배당과 위험 구조",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FutpXo%2FbtsKR77VoQg%2FAAAAAAAAAAAAAAAAAAAAAAiq_khHpqZZ28BQ5f4lCyNe3z3fI6qlYTTXSmN5Uw8V%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3Dg91X5h3i1fJNtpNZwndvFLgAc8s%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/133",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/133"
   },
-  "url": "https://mystock-note.tistory.com/133"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "BIGY ETF의 구조와 최신 분배금 공시를 정리합니다. YieldMax Target 12 Big 50 Option Income ETF가 미국 대형주 50개에 투자하고 옵션 전략으로 월간 인컴을 추구하는 방식, Distribution Rate, SEC Yield, ROC, NAV, 상승 제한과 하락 손실 위험을 설명합니다.",
+    "headline": "BIGY ETF란? YieldMax Target 12 Big 50 옵션 인컴 ETF 배당과 위험 구조",
+    "url": "https://mystock-note.tistory.com/133"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BIGY는 YieldMax Target 12 Big 50 Option Income ETF입니다. 미국 대형주 50개에 투자하면서 옵션 전략으로 월간 인컴과 자본 성장을 함께 추구하는 액티브 ETF입니다."
+        },
+        "name": "BIGY ETF는 어떤 상품인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. 12% 목표 소득과 Distribution Rate는 확정 수익률이 아닙니다. 최근 분배금을 연율화한 수치이며, 향후 분배금과 총수익률을 보장하지 않습니다."
+        },
+        "name": "BIGY의 12% 목표 소득은 확정 수익인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BIGY는 미국 대형주 50개에 직접 투자합니다. 동시에 보유종목에 옵션 전략을 활용해 월간 인컴을 추구합니다."
+        },
+        "name": "BIGY는 미국 대형주에 직접 투자하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "2026년 5월 기준 BIGY의 추정 ROC는 99.02%로 표시되었습니다. 이는 분배금이 투자원금 반환 성격을 포함할 수 있음을 의미하며, 최종 세무 처리는 이후 Form 1099-DIV 기준으로 달라질 수 있습니다."
+        },
+        "name": "BIGY의 ROC 99.02%는 무슨 뜻인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. BIGY는 단순 S&P 500 지수 ETF가 아닙니다. 미국 대형주 50개에 직접 투자하면서 옵션 전략을 활용하는 Target 12 옵션 인컴 ETF입니다."
+        },
+        "name": "BIGY는 S&P 500 ETF와 같은가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아닙니다. BIGY는 옵션 전략을 활용하기 때문에 Big 50 보유종목 주가가 크게 상승하더라도 상승 참여가 제한될 수 있습니다. 반대로 보유 종목 주가가 하락하면 ETF 가격과 NAV도 손실을 볼 수 있습니다."
+        },
+        "name": "BIGY는 미국 대형주 상승장을 모두 따라가나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기투자 적합성은 분배율이 아니라 NAV와 총수익률로 판단해야 합니다. 목표 분배금을 받아도 NAV가 장기간 하락하면 장기 성과는 좋지 않을 수 있습니다."
+        },
+        "name": "BIGY는 장기투자에 적합한가요?"
+      }
+    ]
+  }
+]

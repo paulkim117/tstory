@@ -1,34 +1,114 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-14T14:25:50+09:00",
-  "datePublished": "2024-11-14T14:25:50+09:00",
-  "description": "서울시는 교통 혼잡을 해결하고 이동 편의를 높이기 위해 2030년 도심항공교통(UAM) 상용화를 목표로 하고 있습니다. 한강 일대에서 UAM 실증 사업을 시작으로 관광, 의료, 비즈니스 노선을 단계적으로 구축할 예정인데요. 도로 위가 아닌 하늘을 통한 새로운 교통 수단으로 서울을 입체적 교통망으로 연결하려는 계획입니다. 이와 같은 서울시의 UAM 추진 배경에는 자율 항공기와 친환경 전기 항공기 분야에서 두각을 나타내고 있는 글로벌 선도 기업들, **이항(EHang)**과 **조비(Joby)**의 최신 기술력이 자리하고 있습니다.📌 UAM 시장의 선두주자: 이항과 조보이이항(EHang)의 최신 동향중국 기반의 **이항(EHang)**은 도심 자율 항공 기술을 선도하는 기업으로, EH216 자율 항공기를 ..",
-  "headline": "🚀 서울의 하늘을 열다: 도심항공교통(UAM)으로 미래 이동 혁신 시작",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/124",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T10:57:18+09:00",
+    "datePublished": "2024-11-14T14:25:50+09:00",
+    "description": "핵심 요약: 서울 UAM은 더 이상 단순한 미래 교통 상상도가 아닙니다. 다만 바로 상용화되는 단계도 아닙니다. 국토교통부는 K-UAM 상용화 목표를 2028년으로 재설정했고, 서울시는 한강을 중심으로 서울형 UAM, 즉 S-UAM 시범운항 준비를 본격화하고 있습니다. 글로벌 기업 중 EHang은 중국에서 EH216-S 인증과 운항증명까지 확보하며 가장 빠르게 상용화 사례를 만들고 있고, Joby Aviation은 미국 FAA 인증을 위한 FAA-conforming 항공기 비행시험 단계에 들어갔습니다. 따라서 서울 UAM을 볼 때는 기대감보다 기체 인증, 버티포트, 운항 안전, 수익성, 실제 노선 구축 여부를 함께 확인해야 합니다.자료 확인일은 2026년 5월 16일입니다. 본문은 서울시·국토교통부의 U..",
+    "headline": "서울 UAM 상용화는 언제 가능할까: 한강 시범운항, Joby, EHang 비교",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/124",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/124"
   },
-  "url": "https://mystock-note.tistory.com/124"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "서울 UAM과 글로벌 eVTOL 기업 Joby, EHang의 최신 동향을 정리합니다. 서울시 한강 중심 S-UAM 시범운항 준비, K-UAM 2028년 상용화 목표 조정, Joby의 FAA 인증 진행 상황, EHang EH216-S의 중국 인증 및 상용화 사례, UAM 투자 시 확인해야 할 위험 요인을 분석합니다.",
+    "headline": "서울 UAM 상용화는 언제 가능할까: 한강 시범운항, Joby, EHang 비교",
+    "url": "https://mystock-note.tistory.com/124"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "현재 기준으로는 정부가 K-UAM 상용화 목표를 2028년으로 재설정했고, 서울시는 한강 중심 S-UAM 시범운항 준비를 본격화하고 있습니다. 2030년은 본격적인 노선 확대와 도시형 서비스 성장 단계로 보는 것이 더 적절합니다."
+        },
+        "name": "서울 UAM은 언제 상용화되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "기존에는 2025년 실증과 초기 상용화 기대가 있었지만, 글로벌 eVTOL 기체 인증 지연으로 일정이 조정됐습니다. 현재는 2028년 상용화 목표와 서울 한강 시범운항 준비가 더 중요한 기준입니다."
+        },
+        "name": "서울 UAM이 2025년에 바로 운항되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "아직 최종 형식 인증을 완료했다고 볼 수 없습니다. Joby는 2026년 3월 FAA-conforming 항공기의 비행시험을 시작했습니다. 이는 FAA 인증을 향한 중요한 단계이지만, 상업 운항 인증 완료와는 다릅니다."
+        },
+        "name": "Joby는 FAA 인증을 완료했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Joby 항공기는 조종사 1명과 승객 4명이 탑승하는 구조로 알려져 있습니다. 회사는 최대 200mph, 1회 충전 150마일 수준의 성능을 제시해 왔습니다."
+        },
+        "name": "Joby 항공기는 몇 명이 탈 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EHang EH216-S는 중국 CAAC로부터 형식증명, 생산증명, 표준감항증명을 받았고, 2025년에는 유인 무인항공 서비스 운항증명까지 확보한 사업자가 나왔습니다. 다만 이는 중국 규제 체계 기준이며, 한국이나 미국에서 바로 운항 가능하다는 뜻은 아닙니다."
+        },
+        "name": "EHang은 실제로 상용 운항이 가능한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "현재 글에서는 EHang과 Joby를 서울시 공식 도입 기업으로 단정하면 안 됩니다. 두 기업은 글로벌 UAM 상용화 흐름을 보여주는 대표 사례로 보는 것이 적절합니다."
+        },
+        "name": "서울시가 EHang이나 Joby를 공식 도입하나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "초기에는 제한적일 가능성이 큽니다. 기체 수, 버티포트 수, 요금, 운항 횟수에 한계가 있기 때문입니다. 초기 UAM은 대중교통 대체보다 공항 연결, 관광, 비즈니스, 의료·응급 이동 같은 고부가 수요부터 시작될 가능성이 높습니다."
+        },
+        "name": "UAM은 도로 교통 혼잡을 바로 해결할 수 있나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "장기 성장 가능성은 있지만 인증 지연, 자금 소모, 양산 실패, 인프라 부족, 수요 부족 리스크가 큽니다. 단순 테마주가 아니라 실제 인증, 계약, 매출, 현금흐름을 확인해야 합니다."
+        },
+        "name": "UAM 관련주는 장기 성장주로 봐도 되나요?"
+      }
+    ]
+  }
+]

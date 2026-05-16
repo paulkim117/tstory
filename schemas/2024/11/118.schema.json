@@ -1,34 +1,122 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-11T00:07:35+09:00",
-  "datePublished": "2024-11-11T00:07:35+09:00",
-  "description": "연초 대비(YTD) 가장 높은 성과를 낸 S&P 500, Nasdaq 100, Russell 2000의 25개 종목을 선별하여 성과를 추적하는 자료입니다.S&P 500ST Top 25 S&P 500 💪S&P 500 Top 25 리스트가 S&P 500 지수의 상승률(+4.66%)을 초과하여 **+9.43%**의 성과를 기록했습니다. 이번 주에는 4개의 주요 종목 교체가 있었습니다.NASDAQ 100대형주 중심의 Nasdaq 100 🤖Nasdaq 100 Top 25 리스트는 Nasdaq 100 지수(+5.41%)를 초과하여 **+5.81%**의 상승률을 보였습니다. 이번 주에는 2개의 주요 종목 교체가 있었습니다.RUSSELL 2000성장 중심의 Russell 2000 🦐Russell 2000 Top ..",
-  "headline": "S&P, Nasdaq, Russell 2000 최고 수익률 종목 공개! 이번 주 가장 뜨거운 주식은?",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbYNBD6%2FbtsKCTJxJyg%2FAAAAAAAAAAAAAAAAAAAAAI6Ru9f72bN9q6Mh-sReqIu5oxRifoEL-5SffwZ6kCbn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLmNSBKGFAzoFk95pEsuvrU%252BTFBI%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/118",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-16T11:22:43+09:00",
+    "datePublished": "2024-11-11T00:07:35+09:00",
+    "description": "핵심 요약: Stocktwits Top 25 Week 45는 2024년 11월 9일 공개된 자료로, S&P 500, Nasdaq 100, Russell 2000에서 연초 대비 성과가 가장 높은 25개 종목을 추적합니다. 해당 주간에는 S&P 500 Top 25 리스트가 +9.43%로 S&P 500 지수 +4.66%를 상회했고, Nasdaq 100 Top 25 리스트는 +5.81%, Russell 2000 Top 25 리스트는 +13.16%를 기록했습니다. 이번 주 Top Dawg는 Innodata(INOD)로, 주간 +102.46%, 연초 대비 +425.55% 상승했습니다. 다만 이런 리스트는 강한 모멘텀을 보여주는 자료일 뿐, 앞으로도 같은 성과가 이어진다는 뜻은 아닙니다.자료 기준일은 2024년 11..",
+    "headline": "Stocktwits Top 25 Week 45 리뷰: S&P 500·Nasdaq 100·Russell 2000 모멘텀 종목 정리",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbYNBD6%2FbtsKCTJxJyg%2FAAAAAAAAAAAAAAAAAAAAAI6Ru9f72bN9q6Mh-sReqIu5oxRifoEL-5SffwZ6kCbn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLmNSBKGFAzoFk95pEsuvrU%252BTFBI%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/118",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/118"
   },
-  "url": "https://mystock-note.tistory.com/118"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-16T09:00:00+09:00",
+    "description": "Stocktwits Top 25 Week 45 자료를 바탕으로 S&P 500, Nasdaq 100, Russell 2000의 연초 대비 강세 종목 리스트를 정리합니다. S&P 500 Top 25 +9.43%, Nasdaq 100 Top 25 +5.81%, Russell 2000 Top 25 +13.16%, Innodata 102.46% 급등의 배경과 모멘텀 투자 시 확인해야 할 리스크를 분석합니다.",
+    "headline": "Stocktwits Top 25 Week 45 리뷰: Innodata 102% 급등과 모멘텀 종목 해석",
+    "url": "https://mystock-note.tistory.com/118"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Stocktwits Top 25는 S&P 500, Nasdaq 100, Russell 2000 안에서 연초 대비 성과가 높은 25개 종목을 추적하는 주간 리스트입니다. 시장의 강한 모멘텀 종목을 확인하는 자료로 활용할 수 있습니다."
+        },
+        "name": "Stocktwits Top 25는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "S&P 500 Top 25 리스트는 +9.43% 상승했고, S&P 500 지수 +4.66%를 상회했습니다. 주요 종목 교체는 4개였습니다."
+        },
+        "name": "Week 45에서 S&P 500 Top 25 성과는 어땠나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nasdaq 100 Top 25 리스트는 +5.81% 상승했고, Nasdaq 100 지수는 +5.41% 상승했습니다. 초과 성과는 +0.40%p로 크지 않았습니다."
+        },
+        "name": "Nasdaq 100 Top 25는 지수를 얼마나 이겼나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Week 45에는 소형주 위험선호가 강했습니다. Russell 2000 지수 자체가 +8.57% 상승했고, Russell 2000 Top 25 리스트는 +13.16% 상승했습니다. 대선 이후 규제 완화와 경기 기대가 소형주로 확산된 영향으로 볼 수 있습니다."
+        },
+        "name": "Russell 2000 Top 25가 가장 강했던 이유는 무엇인가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "이번 주 Top Dawg는 Innodata(INOD)였습니다. Stocktwits 기준 주간 +102.46%, 연초 대비 +425.55% 상승했습니다."
+        },
+        "name": "이번 주 Top Dawg는 어떤 종목이었나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Innodata는 2024년 3분기 매출 5,220만 달러, 전년 대비 136% 성장, 조정 EBITDA 1,390만 달러를 발표했습니다. Big Tech 고객군 확대와 생성형 AI 데이터 수요도 주가 상승 배경이었습니다."
+        },
+        "name": "Innodata는 왜 급등했나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Top 25 리스트는 매수 신호가 아닙니다. 이미 강하게 오른 종목을 보여주는 자료입니다. 매수 전에는 실적, 밸류에이션, 고객 집중도, 현금흐름, 주가 급등률, 손실 가능성을 별도로 확인해야 합니다."
+        },
+        "name": "Top 25 리스트에 들어간 종목은 매수해도 되나요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "일부는 장기 성장주가 될 수 있지만, 모두 그렇지는 않습니다. 모멘텀 종목은 단기 수급과 투자심리에 크게 움직일 수 있으므로 장기 투자 전에는 사업 모델과 실적 지속성을 확인해야 합니다."
+        },
+        "name": "모멘텀 종목은 장기 투자에 적합한가요?"
+      },
+      {
+        "@type": "Question",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "급등 직후 추격 매수는 위험할 수 있습니다. 실적 개선이 지속 가능한지, 고객 집중 리스크가 있는지, 다음 분기 가이던스가 유지되는지, 주가가 이미 과도하게 반영했는지를 확인해야 합니다."
+        },
+        "name": "INOD 같은 급등주는 어떻게 접근해야 하나요?"
+      }
+    ]
+  }
+]
