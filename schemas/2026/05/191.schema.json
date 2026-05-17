@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-17T08:24:00+09:00",
+    "datePublished": "2026-05-17T08:23:59+09:00",
+    "description": "핵심 요약: IRP에서 ETF를 운용할 때 위험자산 70%는 수익률이 높아 보이는 ETF를 최대한 많이 담는 구간이 아닙니다. S&P500, 나스닥100, 미국배당다우존스, 월배당·커버드콜 ETF는 모두 위험자산으로 볼 수 있지만 성장성, 변동성, 분배금 구조가 다릅니다. 투자자는 위험자산 70% 안에서 시장대표형, 성장형, 배당성장형, 현금흐름형 ETF의 역할을 나누고 안전자산 30%와 함께 전체 포트폴리오를 설계해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 퇴직연금 위험자산 투자한도 관련 자료, 금융감독원 ETF 투자자 유의사항 관련 보도, 기존 ETF 비교 글의 내부 링크 구조를 기준으로 작성했습니다. 실제 IRP 계좌에서 ETF 편입 가능 여부와 위험자산 분류는 금융회사별로 다를..",
+    "headline": "IRP 위험자산 70% ETF 배분 기준: S&P500·나스닥100·배당 ETF 역할 나누기",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/191",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/191"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-17T09:00:00+09:00",
+    "datePublished": "2026-05-17T09:00:00+09:00",
+    "description": "IRP에서 위험자산 70%를 ETF로 구성할 때는 S&P500, 나스닥100, 미국배당다우존스, 월배당·커버드콜 ETF의 역할을 구분해야 합니다. 시장대표형, 성장형, 배당성장형, 현금흐름형 ETF의 차이와 안전자산 30%를 함께 보는 배분 기준을 정리했습니다.",
+    "headline": "IRP 위험자산 70% ETF 배분 기준: S&P500·나스닥100·배당 ETF 역할 나누기",
+    "url": "https://mystock-note.tistory.com/191"
+  }
+]

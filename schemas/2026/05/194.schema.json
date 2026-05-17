@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-18T01:31:00+09:00",
+    "datePublished": "2026-05-18T01:30:55+09:00",
+    "description": "핵심 요약: 연금저축은 세액공제 대상 납입한도가 최대 600만 원이고, IRP 등 퇴직연금을 포함하면 연금계좌 세액공제 한도는 최대 900만 원입니다. 가장 흔한 구조는 연금저축 600만 원을 먼저 채우고, 추가로 IRP 300만 원을 납입해 합산 900만 원을 맞추는 방식입니다. 다만 세액공제 혜택만 보고 무리하게 납입하면 자금이 장기간 묶일 수 있으므로 공제율, 예상 세액공제액, 중도해지 불이익, 투자 가능 상품을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 국세청 연금계좌 세액공제 안내, 생활법령정보 퇴직연금 안내, 소득세법상 연금계좌세액공제 기준을 참고해 작성했습니다. 세법과 공제 한도는 변경될 수 있으므로 연말정산 또는 종합소득세 신고 전에는 국세청과 금융회사 안내를..",
+    "headline": "연금저축 600만 원 vs IRP 포함 900만 원: 세액공제 한도와 환급액 계산",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/194",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/194"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-18T09:00:00+09:00",
+    "datePublished": "2026-05-18T09:00:00+09:00",
+    "description": "연금저축은 세액공제 한도가 최대 600만 원이고, IRP 등 퇴직연금을 포함하면 연금계좌 세액공제 한도는 최대 900만 원입니다. 소득 구간별 공제율, 세액공제액 계산 예시, 연금저축과 IRP 납입 순서, ISA 만기자금 추가 한도, 중도해지 주의사항을 정리했습니다.",
+    "headline": "연금저축 600만 원 vs IRP 포함 900만 원: 세액공제 한도와 환급액 계산",
+    "url": "https://mystock-note.tistory.com/194"
+  }
+]

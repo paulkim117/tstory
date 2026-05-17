@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-17T12:28:00+09:00",
+    "datePublished": "2026-05-17T12:27:31+09:00",
+    "description": "핵심 요약: TDF 2035·2040·2050은 은퇴 목표시점에 따라 주식과 채권 비중을 다르게 가져가는 생애주기펀드입니다. 숫자가 뒤로 갈수록 일반적으로 은퇴까지 남은 기간이 길다고 보고, 위험자산 비중이 더 높게 설계되는 경우가 많습니다. 투자자는 현재 나이만 보지 말고 실제 은퇴 예정 시점, 연금 수령 시작 시점, 손실 감내 수준, 적격 TDF 여부, 총보수, 국가별 투자 비중을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 보험연구원 TDF 운용 현황 및 제도 개선 자료, 국세청 연금계좌 세액공제 안내, TDF 적격 여부 및 공시 기준 관련 자료를 참고해 작성했습니다. TDF 상품별 자산배분과 보수는 기준일 이후 변경될 수 있으므로 실제 투자 전에는 운용사 공식 상품 페..",
+    "headline": "TDF 2035·2040·2050 비교: 목표연도는 어떻게 골라야 할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/193",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/193"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-17T09:00:00+09:00",
+    "datePublished": "2026-05-17T09:00:00+09:00",
+    "description": "TDF 2035, 2040, 2050은 은퇴 목표시점과 위험자산 비중이 다른 생애주기펀드입니다. 연금저축과 IRP에서 TDF 목표연도를 고를 때 나이, 은퇴 예정 시점, 손실 감내 수준, 적격 TDF 여부, 총보수, 국가별 투자 비중을 어떻게 확인해야 하는지 정리했습니다.",
+    "headline": "TDF 2035·2040·2050 비교: 목표연도는 어떻게 골라야 할까?",
+    "url": "https://mystock-note.tistory.com/193"
+  }
+]
