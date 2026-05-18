@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-19T02:33:00+09:00",
+    "datePublished": "2026-05-19T02:32:23+09:00",
+    "description": "핵심 요약: KODEX 반도체타겟위클리커버드콜 ETF는 국내 반도체 주식 노출과 월분배 추구 구조를 결합한 커버드콜 ETF입니다. 투자자는 상품명보다 기초지수, 총보수, 목표 분배율, 옵션 매도 구조, 상승 제한 가능성을 함께 확인해야 합니다. 특히 월분배는 확정 수익이 아니므로 분배 재원, NAV 추이, 기준가격, 총수익률, 반도체 업종 변동성을 같이 봐야 합니다.자료 기준일: 2026-05-17 / 주요 참고: 삼성자산운용 KODEX 공식 상품 자료, K-ETF 상품 정보, 한국거래소 관련 신규 상장 보도 / 확인 항목: 상품명, 종목코드, 기초지수, 총보수, 상장일, 위험등급, 커버드콜 구조KODEX 반도체타겟위클리커버드콜 ETF는 어떤 상품인가요?KODEX 반도체타겟위클리커버드콜 ETF는 삼성자산..",
+    "headline": "KODEX 반도체타겟위클리커버드콜 ETF, 월배당과 반도체 투자를 함께 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/197",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/197"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-19T09:00:00+09:00",
+    "datePublished": "2026-05-19T09:00:00+09:00",
+    "description": "KODEX 반도체타겟위클리커버드콜 ETF는 반도체 주식 노출과 월분배 추구 구조를 결합한 신규 커버드콜 ETF입니다. 기초지수, 총보수, 목표 분배율, 옵션 매도 구조, 상승 제한 위험을 기준으로 확인해야 할 점을 정리합니다.",
+    "headline": "KODEX 반도체타겟위클리커버드콜 ETF, 월배당과 반도체 투자를 함께 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/197"
+  }
+]
