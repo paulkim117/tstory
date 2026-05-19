@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-19T07:38:01+09:00",
+    "datePublished": "2026-05-19T07:37:22+09:00",
+    "description": "핵심 요약: KODEX 200타겟위클리커버드콜 ETF는 코스피200에 투자하면서 위클리 콜옵션 매도 전략으로 월중배당을 추구하는 커버드콜 ETF입니다. 2026년 5월 삼성자산운용 공지 기준 분배금은 좌당 348원, 분배율은 1.44%입니다. 다만 분배금만 보면 기준가격 하락, 총수익률, 상승 제한, 합성총보수 영향을 놓칠 수 있으므로 NAV 추이와 분배 재원을 함께 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: 삼성자산운용 KODEX 2026년 5월 월중배당 공지, K-ETF 상품 정보 / 확인 항목: 5월 분배금, 분배율, 합성총보수, 위험등급, 기초지수, 커버드콜 구조KODEX 200타겟위클리커버드콜 ETF는 어떤 상품인가요?KODEX 200타겟위클리커버드콜 ETF는 코스피200..",
+    "headline": "KODEX 200타겟위클리커버드콜 ETF, 월중배당 348원만 보고 판단하면 안 되는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/198",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/198"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-19T09:00:00+09:00",
+    "datePublished": "2026-05-19T09:00:00+09:00",
+    "description": "KODEX 200타겟위클리커버드콜 ETF는 코스피200 기반 위클리 커버드콜 전략으로 월중배당을 추구하는 상품입니다. 2026년 5월 분배금 348원, 분배율 1.44%를 기준으로 분배금 착시, 총보수, 상승 제한, 기준가격 확인 기준을 정리합니다.",
+    "headline": "KODEX 200타겟위클리커버드콜 ETF, 월중배당 348원만 보고 판단하면 안 되는 이유",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/198"
+  }
+]

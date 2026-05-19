@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-19T08:40:00+09:00",
+    "datePublished": "2026-05-19T08:39:40+09:00",
+    "description": "핵심 요약: KODEX 200타겟위클리커버드콜과 KODEX 반도체타겟위클리커버드콜은 모두 월분배를 추구하는 커버드콜 ETF입니다. 다만 하나는 코스피200 기반 시장형 상품이고, 다른 하나는 반도체 업종에 집중된 테마형 상품입니다. 월 2회 배당 루틴을 만들 수 있다는 점보다 기초자산, 목표 분배 구조, 기준가격, 총수익률, 상승 제한 가능성을 먼저 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: 삼성자산운용 KODEX 투자정보, K-ETF 상품 정보 / 확인 항목: 종목코드, 기초지수, 총보수, 상장일, 월중배당·월말배당 구조, 커버드콜 전략KODEX 200형과 반도체형은 왜 함께 비교되나요?KODEX 200타겟위클리커버드콜과 KODEX 반도체타겟위클리커버드콜은 모두 삼성자산운용 KO..",
+    "headline": "KODEX 200 vs 반도체타겟위클리커버드콜, 월 2회 배당 루틴은 어떻게 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/199",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/199"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-19T09:00:00+09:00",
+    "datePublished": "2026-05-19T09:00:00+09:00",
+    "description": "KODEX 200타겟위클리커버드콜과 KODEX 반도체타겟위클리커버드콜은 모두 월분배를 추구하는 커버드콜 ETF지만 기초자산, 목표 분배 구조, 변동성, 확인 기준이 다릅니다. 월 2회 배당 루틴을 볼 때 분배금보다 먼저 확인해야 할 기준을 정리합니다.",
+    "headline": "KODEX 200 vs 반도체타겟위클리커버드콜, 월 2회 배당 루틴은 어떻게 다른가",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/199"
+  }
+]
