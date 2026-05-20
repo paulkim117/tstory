@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-20T08:45:03+09:00",
+    "datePublished": "2026-05-20T08:43:52+09:00",
+    "description": "핵심 요약: 월배당 ETF 분배금은 일반계좌에서 배당소득세 15.4%가 원천징수될 수 있습니다. 연금저축과 IRP에서는 분배금 입금 시 바로 과세하지 않고, 연금 수령 시점까지 과세가 이연되는 구조가 일반적입니다. ISA는 계좌 내 손익을 통산한 뒤 비과세 한도와 저율 분리과세 구조가 적용될 수 있으므로, 분배금은 세전 금액이 아니라 세후 수령액과 계좌 유형까지 함께 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: KODEX ETF 투자기초가이드, 한국투자자교육재단 ETF 세금 자료, 조세특례제한법 제91조의18, 연금계좌 ETF 과세 안내 / 확인 항목: ETF 분배금 배당소득세, 국내주식형 ETF와 해외주식형 ETF 차이, 연금계좌 과세이연, ISA 과세특례월배당 ETF 분배금에는 ..",
+    "headline": "월배당 ETF 분배금 세금 15.4%, 일반계좌·연금저축·ISA는 어떻게 다를까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/201",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/201"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-20T09:00:00+09:00",
+    "datePublished": "2026-05-20T09:00:00+09:00",
+    "description": "월배당 ETF 분배금은 일반계좌에서 배당소득세 15.4%가 원천징수될 수 있습니다. 일반계좌, 연금저축, IRP, ISA에서 ETF 분배금 과세가 어떻게 달라지는지와 분배금 세후 수령액 계산법을 정리합니다.",
+    "headline": "월배당 ETF 분배금 세금 15.4%, 일반계좌·연금저축·ISA는 어떻게 다를까",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/201"
+  }
+]
