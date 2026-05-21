@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-21T13:22:42+09:00",
+    "datePublished": "2026-05-21T13:21:34+09:00",
+    "description": "핵심 요약: TIGER 반도체TOP10레버리지 ETF는 국내 반도체 핵심 기업으로 구성된 FnGuide 반도체TOP10 지수의 일간 수익률 2배를 추종하는 ETF입니다. 일반 반도체 ETF보다 상승장에서는 더 크게 움직일 수 있지만, 하락장과 횡보장에서는 손실 확대와 복리 효과를 함께 고려해야 합니다. 투자자는 수익률보다 기초지수, 2배 추종 방식, 총보수, 순자산, 거래량, 사전교육 필요 여부를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 21일입니다. TIGER 반도체TOP10레버리지 ETF의 총보수, 순자산, 투자위험, 상장일 정보는 2026년 5월 20일 기준 ETF 데이터 확인값을 사용했습니다. ETF 정보는 기준일에 따라 달라질 수 있으므로 실제 투자 전에는 운용사 공식 상품 페이지와 ..",
+    "headline": "TIGER 반도체TOP10레버리지 ETF, 일반 반도체 ETF와 무엇이 다를까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/209",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/209"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-21T09:00:00+09:00",
+    "datePublished": "2026-05-21T09:00:00+09:00",
+    "description": "TIGER 반도체TOP10레버리지 ETF는 FnGuide 반도체TOP10 지수의 일간 수익률 2배를 추종하는 구조입니다. 일반 반도체 ETF와의 차이, 복리 효과, 손실 확대 가능성, 사전교육 필요 여부를 기준으로 확인합니다.",
+    "headline": "TIGER 반도체TOP10레버리지 ETF, 일반 반도체 ETF와 무엇이 다를까?",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/209",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/208"
+  }
+]

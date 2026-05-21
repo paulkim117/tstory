@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-21T06:47:02+09:00",
+    "datePublished": "2026-05-21T06:46:58+09:00",
+    "description": "핵심 요약: 월배당 ETF는 분배금을 받았다고 해서 반드시 수익이 난 것은 아닙니다. 실제 성과는 세후 분배금과 ETF 기준가격 변화를 합친 총수익률로 계산해야 합니다. 분배금, NAV, 기준가격, 세금, 총보수, 괴리율을 함께 확인해야 월배당 ETF의 실제 성과를 판단할 수 있습니다.자료 기준일: 2026-05-17 / 주요 참고: KODEX ETF 투자기초가이드, 신한투자증권 ETF 가이드, 보험연구원 월배당 ETF 보고서 / 확인 항목: NAV, iNAV, 괴리율, 추적오차, 분배율 착시, 총수익률 계산 기준월배당 ETF는 왜 분배금만 보면 안 되나요?월배당 ETF는 매월 현금이 들어오기 때문에 수익이 발생한 것처럼 보이기 쉽습니다. 그러나 분배금은 투자 성과의 일부일 뿐이며, ETF 가격이 하락하..",
+    "headline": "월배당 ETF 총수익률 계산법, 분배금만 보면 왜 수익률을 착각할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/202",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/202"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-21T09:00:00+09:00",
+    "datePublished": "2026-05-21T09:00:00+09:00",
+    "description": "월배당 ETF는 분배금만 보면 수익이 난 것처럼 보일 수 있지만, 실제 성과는 기준가격 변화와 세후 분배금을 합친 총수익률로 봐야 합니다. 분배금, NAV, 기준가격, 세금, 비용을 반영해 월배당 ETF 수익률을 계산하는 방법을 정리합니다.",
+    "headline": "월배당 ETF 총수익률 계산법, 분배금만 보면 왜 수익률을 착각할까",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/202"
+  }
+]

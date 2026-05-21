@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-21T08:50:00+09:00",
+    "datePublished": "2026-05-21T08:49:27+09:00",
+    "description": "핵심 요약: 월배당 ETF는 분배금을 계속 지급하더라도 NAV와 기준가격이 하락하면 투자자의 원금 가치가 줄어들 수 있습니다. NAV 하락은 분배락, 기초자산 가격 하락, 커버드콜 상승 제한, 비용, 과도한 분배 구조에서 발생할 수 있습니다. 따라서 월배당 ETF는 분배금 입금액보다 NAV 추이, 기준가격, 총수익률, 분배 재원을 먼저 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: KODEX ETF 투자기초가이드, 한국투자자교육협의회 ETF 괴리율 설명, 보험연구원 월배당 ETF 보고서 / 확인 항목: NAV, iNAV, 괴리율, 추적오차, 분배락, 커버드콜 전략, 총수익률과 원금 감소 가능성NAV는 무엇인가요?NAV는 ETF가 보유한 자산에서 부채와 비용을 차감한 뒤 ETF 발행 좌..",
+    "headline": "월배당 ETF NAV가 줄어드는 이유, 분배금은 나오는데 원금이 감소할 수 있는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/203",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/203"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-21T09:00:00+09:00",
+    "datePublished": "2026-05-21T09:00:00+09:00",
+    "description": "월배당 ETF는 분배금이 계속 나오더라도 NAV와 기준가격이 하락하면 원금이 줄어들 수 있습니다. 분배락, 기초자산 하락, 커버드콜 상승 제한, 과도한 분배, 비용 구조가 NAV에 어떤 영향을 주는지 정리합니다.",
+    "headline": "월배당 ETF NAV가 줄어드는 이유, 분배금은 나오는데 원금이 감소할 수 있는 구조",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/203"
+  }
+]
