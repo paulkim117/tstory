@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-22T05:56:02+09:00",
+    "datePublished": "2026-05-22T05:55:28+09:00",
+    "description": "핵심 요약: 커버드콜 ETF는 주식이나 지수를 보유하면서 콜옵션을 매도해 옵션 프리미엄을 얻는 ETF입니다. 이 프리미엄은 월배당 ETF의 분배금 재원으로 활용될 수 있지만, 기초자산이 크게 상승할 때 수익 일부가 제한될 수 있습니다. 따라서 커버드콜 ETF는 분배금, 옵션 매도 비중, 상승 참여율, NAV, 총수익률을 함께 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: 삼성자산운용 KODEX 커버드콜 ETF 자료, 보험연구원 월배당 ETF 보고서, KB자산운용 커버드콜 전략 설명 / 확인 항목: 콜옵션 매도, 옵션 프리미엄, 월배당 재원, 상승 제한, NAV 하락, 총수익률커버드콜 ETF는 어떤 구조인가요?커버드콜 ETF는 기초자산을 보유하면서 콜옵션을 매도하는 전략을 사용하는 ET..",
+    "headline": "커버드콜 ETF란 무엇인가? 월배당 ETF에서 콜옵션 매도와 상승 제한을 이해하는 법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/205",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/205"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-22T09:00:00+09:00",
+    "datePublished": "2026-05-22T09:00:00+09:00",
+    "description": "커버드콜 ETF는 주식이나 지수를 보유하면서 콜옵션을 매도해 옵션 프리미엄을 얻는 전략입니다. 월배당 ETF에서 분배금이 높아 보이는 이유, 상승 수익이 제한되는 구조, NAV와 총수익률을 함께 확인해야 하는 이유를 정리합니다.",
+    "headline": "커버드콜 ETF란 무엇인가? 월배당 ETF에서 콜옵션 매도와 상승 제한을 이해하는 법",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/205"
+  }
+]

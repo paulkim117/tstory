@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-22T09:59:00+09:00",
+    "datePublished": "2026-05-22T09:58:05+09:00",
+    "description": "핵심 요약: 월배당 ETF와 고배당 ETF는 모두 분배금을 받을 수 있지만 같은 상품은 아닙니다. 월배당 ETF는 분배금 지급 주기를 기준으로 부르는 표현이고, 고배당 ETF는 배당수익률이나 주주환원 성향이 높은 기업에 투자하는 전략을 뜻합니다. 투자자는 분배금 지급 횟수보다 분배금 재원, 기초자산, NAV 추이, 세후 수령액, 총수익률을 함께 확인해야 합니다.자료 기준일: 2026-05-17 / 주요 참고: KODEX ETF 세금 투자기초가이드, KODEX RIA 투자 가이드북, 보험연구원 월배당 ETF 보고서 / 확인 항목: ETF 분배금 재원, 국내 주식형 ETF 분배금 과세, 고배당주 ETF 구조, 커버드콜 ETF 구조, 월분배 상품 유의사항월배당 ETF와 고배당 ETF는 같은 뜻인가요?월배당 E..",
+    "headline": "월배당 ETF와 고배당 ETF 차이, 분배금이 많다고 같은 상품은 아닙니다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/206",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/206"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-22T09:00:00+09:00",
+    "datePublished": "2026-05-22T09:00:00+09:00",
+    "description": "월배당 ETF와 고배당 ETF는 모두 분배금을 받을 수 있지만 구조가 다릅니다. 고배당 ETF는 배당성향이 높은 기업에 투자하는 방식이고, 월배당 ETF는 배당, 이자, 리츠 배당, 옵션 프리미엄 등 다양한 재원으로 분배금을 지급할 수 있습니다.",
+    "headline": "월배당 ETF와 고배당 ETF 차이, 분배금이 많다고 같은 상품은 아닙니다",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/206"
+  }
+]

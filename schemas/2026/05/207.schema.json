@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-23T01:14:00+09:00",
+    "datePublished": "2026-05-23T01:13:13+09:00",
+    "description": "핵심 요약: 국내 반도체 ETF는 모두 반도체 산업에 투자하지만, 실제 구조는 일반 지수형, 대형주 집중형, AI 반도체 집중형, 월배당 커버드콜형으로 나뉩니다. 같은 반도체 ETF라도 기초지수, 삼성전자·SK하이닉스 비중, 분배 정책, 옵션 매도 여부에 따라 수익 구조가 달라집니다. 투자자는 상품명보다 기초지수, 구성 종목 집중도, 총보수, 분배 재원, NAV 변동 가능성을 함께 확인해야 합니다.자료 기준일은 2026년 5월 21일입니다. KODEX 반도체타겟위클리커버드콜 ETF의 상장일, 기초지수, 총보수, 투자위험, 순자산 정보는 2026년 5월 20일 기준 ETF 데이터와 운용사 공시를 참고했습니다. 반도체 ETF의 세부 수치는 기준일에 따라 달라질 수 있으므로 실제 투자 전에는 각 운용사 공식 ..",
+    "headline": "국내 반도체 ETF 비교: 일반형, TOP10 집중형, 월배당 커버드콜 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/207",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/207"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-23T09:00:00+09:00",
+    "datePublished": "2026-05-23T09:00:00+09:00",
+    "description": "국내 반도체 ETF는 일반 지수형, 대형주 집중형, AI 반도체 집중형, 월배당 커버드콜형으로 나눠 볼 수 있습니다. 기초지수, 구성 종목 집중도, 분배 정책, 옵션 전략, NAV 변동 가능성을 기준으로 비교합니다.",
+    "headline": "국내 반도체 ETF 비교: 일반형, TOP10 집중형, 월배당 커버드콜 차이",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/207",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/197"
+  }
+]
