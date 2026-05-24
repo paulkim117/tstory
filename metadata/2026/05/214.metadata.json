@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-24",
+  "body_html_length": 4536,
+  "canonical_url": "https://mystock-note.tistory.com/214",
+  "content_hash": "28bca75436e6475402a1f8718d0ec92086a67110b8535ce6526aeb723b4d5bad",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 국내 상장 미국 반도체 ETF는 모두 미국 또는 글로벌 반도체 기업에 투자하지만, 추종 지수와 구성 방식이 다릅니다. TIGER 미국필라델피아반도체나스닥은 SOX 지수, KODEX 미국반도체는 MVIS 반도체 지수, ACE 글로벌반도체TOP4 Plus는 글로벌 TOP4 집중 지수, RISE 미국반도체NYSE는 NYSE 반도체 지수를 활용합니다. 투자자는 최근 수익률보다 기초지수, 구성 종목 수, 상위 종목 집중도, 총보수, 순자산, 환율 영향, 괴리율을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. TIGER 미국필라델피아반도체나스닥, KODEX 미국반도체, ACE 글로벌반도체TOP4 Plus, RISE 미국반도체NYSE의 총보수와 순자산 정보는 2026년 5월 22일 기..",
+  "modified_time": "2026-05-25T01:55:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 국내 상장 미국 반도체 ETF는 모두 미국 또는 글로벌 반도체 기업에 투자하지만, 추종 지수와 구성 방식이 다릅니다. TIGER 미국필라델피아반도체나스닥은 SOX 지수, KODEX 미국반도체는 MVIS 반도체 지수, ACE 글로벌반도체TOP4 Plus는 글로벌 TOP4 집중 지수, RISE 미국반도체NYSE는 NYSE 반도체 지수를 활용합니다. 투자자는 최근 수익률보다 기초지수, 구성 종목 수, 상위 종목 집중도, 총보수, 순자산, 환율 영향, 괴리율을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. TIGER 미국필라델피아반도체나스닥, KODEX 미국반도체, ACE 글로벌반도체TOP4 Plus, RISE 미국반도체NYSE의 총보수와 순자산 정보는 2026년 5월 22일 기..",
+  "og_title": "국내 상장 미국 반도체 ETF 비교: TIGER·KODEX·ACE·RISE 차이",
+  "post_id": "214",
+  "published_time": "2026-05-25T01:54:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "국내 상장 미국 반도체 ETF 비교: TIGER·KODEX·ACE·RISE 차이",
+  "url": "https://mystock-note.tistory.com/214"
+}

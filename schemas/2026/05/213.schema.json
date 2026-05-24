@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-24T09:52:00+09:00",
+    "datePublished": "2026-05-24T09:51:26+09:00",
+    "description": "핵심 요약: KODEX 미국반도체 ETF는 미국 상장 글로벌 반도체 대표기업 25개 종목에 투자하는 국내 상장 ETF입니다. 기초지수는 MVIS US Listed Semiconductor 25 Index이며, TIGER 미국필라델피아반도체나스닥과는 추종 지수, 구성 종목 수, 총보수에서 차이가 있습니다. 투자자는 최근 수익률보다 기초지수, 구성종목, 총보수, 환율 영향, 괴리율, 연금계좌 활용 가능성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. KODEX 미국반도체 ETF의 총보수, 순자산, 투자위험, 상장일 정보는 2026년 5월 22일 기준 ETF 데이터와 삼성자산운용 공식 상품 정보를 참고했습니다. ETF의 순자산, 기준가격, 구성종목, 괴리율, 수익률은 기준일에 따라 달라질..",
+    "headline": "KODEX 미국반도체 ETF, TIGER 미국필라델피아반도체나스닥과 무엇이 다를까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/213",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/213"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-24T09:00:00+09:00",
+    "datePublished": "2026-05-24T09:00:00+09:00",
+    "description": "KODEX 미국반도체 ETF는 MVIS US Listed Semiconductor 25 Index를 추종하는 국내 상장 미국 반도체 ETF입니다. TIGER 미국필라델피아반도체나스닥과의 차이, 기초지수, 총보수, 순자산, 환율 영향, 연금계좌 활용 기준을 정리합니다.",
+    "headline": "KODEX 미국반도체 ETF, TIGER 미국필라델피아반도체나스닥과 무엇이 다를까?",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/213",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/213"
+  }
+]
