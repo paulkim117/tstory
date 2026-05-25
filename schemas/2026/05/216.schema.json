@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-26T01:59:00+09:00",
+    "datePublished": "2026-05-26T01:58:51+09:00",
+    "description": "핵심 요약: 연금저축이나 IRP에서 미국 반도체 ETF에 투자하려면 SOXX·SMH 같은 미국 상장 ETF를 직접 매수하는 방식보다 국내 증시에 상장된 미국 반도체 ETF를 먼저 검토해야 합니다. 국내 상장 ETF는 원화로 거래되고 연금계좌에서 활용 가능한 경우가 있지만, 실제 매수 가능 여부는 증권사와 계좌 유형에 따라 달라집니다. 투자자는 상품명보다 계좌별 매수 가능 여부, 세금 구조, 환율 영향, 기초지수, 총보수, 괴리율, 반도체 섹터 집중 위험을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. 연금저축 ETF 투자 가능 기준은 금융위원회와 증권사 안내 자료를 참고했습니다. SOXX와 SMH의 보수 정보는 iShares와 VanEck 공식 자료를 참고했습니다. 세제와 계좌별 투자..",
+    "headline": "연금저축에서 미국 반도체 ETF 투자, SOXX·SMH 대신 국내 상장 ETF를 봐야 할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/216",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/216"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-26T09:00:00+09:00",
+    "datePublished": "2026-05-26T09:00:00+09:00",
+    "description": "연금저축과 IRP에서 미국 반도체 ETF에 투자하려면 SOXX·SMH 같은 미국 상장 ETF가 아니라 국내 상장 미국 반도체 ETF를 검토해야 합니다. 계좌별 매수 가능 여부, 세금, 환율, 총보수, 괴리율, 반도체 섹터 집중 위험을 정리합니다.",
+    "headline": "연금저축에서 미국 반도체 ETF 투자, SOXX·SMH 대신 국내 상장 ETF를 봐야 할까?",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/216",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/216"
+  }
+]

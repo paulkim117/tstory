@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-25",
+  "body_html_length": 5243,
+  "canonical_url": "https://mystock-note.tistory.com/216",
+  "content_hash": "d3070157a8bc502c9ca7fd85c46c36cf3101900a9e1530a9da1eb096e671497c",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 연금저축이나 IRP에서 미국 반도체 ETF에 투자하려면 SOXX·SMH 같은 미국 상장 ETF를 직접 매수하는 방식보다 국내 증시에 상장된 미국 반도체 ETF를 먼저 검토해야 합니다. 국내 상장 ETF는 원화로 거래되고 연금계좌에서 활용 가능한 경우가 있지만, 실제 매수 가능 여부는 증권사와 계좌 유형에 따라 달라집니다. 투자자는 상품명보다 계좌별 매수 가능 여부, 세금 구조, 환율 영향, 기초지수, 총보수, 괴리율, 반도체 섹터 집중 위험을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. 연금저축 ETF 투자 가능 기준은 금융위원회와 증권사 안내 자료를 참고했습니다. SOXX와 SMH의 보수 정보는 iShares와 VanEck 공식 자료를 참고했습니다. 세제와 계좌별 투자..",
+  "modified_time": "2026-05-26T01:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 연금저축이나 IRP에서 미국 반도체 ETF에 투자하려면 SOXX·SMH 같은 미국 상장 ETF를 직접 매수하는 방식보다 국내 증시에 상장된 미국 반도체 ETF를 먼저 검토해야 합니다. 국내 상장 ETF는 원화로 거래되고 연금계좌에서 활용 가능한 경우가 있지만, 실제 매수 가능 여부는 증권사와 계좌 유형에 따라 달라집니다. 투자자는 상품명보다 계좌별 매수 가능 여부, 세금 구조, 환율 영향, 기초지수, 총보수, 괴리율, 반도체 섹터 집중 위험을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. 연금저축 ETF 투자 가능 기준은 금융위원회와 증권사 안내 자료를 참고했습니다. SOXX와 SMH의 보수 정보는 iShares와 VanEck 공식 자료를 참고했습니다. 세제와 계좌별 투자..",
+  "og_title": "연금저축에서 미국 반도체 ETF 투자, SOXX·SMH 대신 국내 상장 ETF를 봐야 할까?",
+  "post_id": "216",
+  "published_time": "2026-05-26T01:58:51+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금저축에서 미국 반도체 ETF 투자, SOXX·SMH 대신 국내 상장 ETF를 봐야 할까?",
+  "url": "https://mystock-note.tistory.com/216"
+}

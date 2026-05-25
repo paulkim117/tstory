@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-25",
+  "body_html_length": 3186,
+  "canonical_url": "https://mystock-note.tistory.com/215",
+  "content_hash": "5e0df3a624b29be253c8ddf7c98a4707f81fd596d51fd3dc3de15f47bd8f880d",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: SOXX와 SMH는 모두 미국 상장 반도체 ETF이지만 같은 상품은 아닙니다. SOXX는 iShares가 운용하는 반도체 ETF이고, SMH는 VanEck이 운용하는 반도체 ETF이며, 두 상품은 추종 지수와 구성 종목 집중도에서 차이가 있습니다. 투자자는 최근 수익률보다 기초지수, 상위 종목 비중, 보수, 환전 방식, 세금, 국내 상장 대체 ETF와의 차이를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. SOXX의 보수와 벤치마크 정보는 iShares 공식 상품 페이지와 팩트시트를 참고했습니다. SMH의 기초지수와 보수 정보는 VanEck 공식 상품 페이지와 팩트시트를 참고했습니다. 해외 ETF의 운용자산, 구성 종목, 수익률, 분배금은 기준일에 따라 달라질 수 있으므로..",
+  "modified_time": "2026-05-25T04:57:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: SOXX와 SMH는 모두 미국 상장 반도체 ETF이지만 같은 상품은 아닙니다. SOXX는 iShares가 운용하는 반도체 ETF이고, SMH는 VanEck이 운용하는 반도체 ETF이며, 두 상품은 추종 지수와 구성 종목 집중도에서 차이가 있습니다. 투자자는 최근 수익률보다 기초지수, 상위 종목 비중, 보수, 환전 방식, 세금, 국내 상장 대체 ETF와의 차이를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. SOXX의 보수와 벤치마크 정보는 iShares 공식 상품 페이지와 팩트시트를 참고했습니다. SMH의 기초지수와 보수 정보는 VanEck 공식 상품 페이지와 팩트시트를 참고했습니다. 해외 ETF의 운용자산, 구성 종목, 수익률, 분배금은 기준일에 따라 달라질 수 있으므로..",
+  "og_title": "SOXX와 SMH 차이, 미국 상장 반도체 ETF는 무엇이 다를까?",
+  "post_id": "215",
+  "published_time": "2026-05-25T04:56:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SOXX와 SMH 차이, 미국 상장 반도체 ETF는 무엇이 다를까?",
+  "url": "https://mystock-note.tistory.com/215"
+}
