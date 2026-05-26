@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-26",
+  "body_html_length": 4177,
+  "canonical_url": "https://mystock-note.tistory.com/221",
+  "content_hash": "0833364d9beffebf60dbb607f5b1eac814052896b58e71c5d84aa723f85175a5",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 미국 반도체 ETF는 같은 기초지수를 추종하더라도 환노출형과 환헤지형에 따라 원화 기준 성과가 달라질 수 있습니다. RISE 미국반도체NYSE는 환노출형이고, RISE 미국반도체NYSE(H)는 환헤지형입니다. 투자자는 최근 수익률보다 환율 구조, 기초지수, 총보수, 순자산, 거래량, 괴리율, 환헤지 비용, 연금계좌 활용 가능성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. RISE 미국반도체NYSE와 RISE 미국반도체NYSE(H)의 기초지수, 총보수, 순자산, 환율 구조 정보는 KB자산운용 RISE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. 환율, 순자산, 구성종목, 기준가격, 괴리율, 분배금은 기준일에 따라 달라질 수 있으므로 실제 투자 전에..",
+  "modified_time": "2026-05-27T04:10:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 미국 반도체 ETF는 같은 기초지수를 추종하더라도 환노출형과 환헤지형에 따라 원화 기준 성과가 달라질 수 있습니다. RISE 미국반도체NYSE는 환노출형이고, RISE 미국반도체NYSE(H)는 환헤지형입니다. 투자자는 최근 수익률보다 환율 구조, 기초지수, 총보수, 순자산, 거래량, 괴리율, 환헤지 비용, 연금계좌 활용 가능성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. RISE 미국반도체NYSE와 RISE 미국반도체NYSE(H)의 기초지수, 총보수, 순자산, 환율 구조 정보는 KB자산운용 RISE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. 환율, 순자산, 구성종목, 기준가격, 괴리율, 분배금은 기준일에 따라 달라질 수 있으므로 실제 투자 전에..",
+  "og_title": "미국 반도체 ETF 환노출 vs 환헤지, RISE 미국반도체NYSE와 H 차이",
+  "post_id": "221",
+  "published_time": "2026-05-27T04:09:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 반도체 ETF 환노출 vs 환헤지, RISE 미국반도체NYSE와 H 차이",
+  "url": "https://mystock-note.tistory.com/221"
+}

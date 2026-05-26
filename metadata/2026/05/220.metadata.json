@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-26",
+  "body_html_length": 5198,
+  "canonical_url": "https://mystock-note.tistory.com/220",
+  "content_hash": "baefeba5573de3d2c42a750c7f5bb603f29b2ee889fc6f59983dc7a4974d4f44",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: RISE 미국반도체인버스(합성 H)는 SOXX와 동일한 NYSE Semiconductor Index의 일간수익률을 -1배로 추종하는 국내 상장 환헤지형 인버스 ETF입니다. 미국 반도체 지수가 하루 동안 하락하면 반대로 상승을 추구하고, 지수가 상승하면 손실이 발생할 수 있는 구조입니다. 투자자는 상품명보다 인버스 구조, 일간 -1배 추종, 합성 ETF 위험, 총보수, 사전교육 필요 여부, 장기 보유 부적합성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. RISE 미국반도체인버스(합성 H)의 기초지수, 총보수, 순자산, 상장일, 투자위험 정보는 KB자산운용 RISE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. 인버스 ETF는 일반 주식형 ETF와 ..",
+  "modified_time": "2026-05-27T02:08:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: RISE 미국반도체인버스(합성 H)는 SOXX와 동일한 NYSE Semiconductor Index의 일간수익률을 -1배로 추종하는 국내 상장 환헤지형 인버스 ETF입니다. 미국 반도체 지수가 하루 동안 하락하면 반대로 상승을 추구하고, 지수가 상승하면 손실이 발생할 수 있는 구조입니다. 투자자는 상품명보다 인버스 구조, 일간 -1배 추종, 합성 ETF 위험, 총보수, 사전교육 필요 여부, 장기 보유 부적합성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. RISE 미국반도체인버스(합성 H)의 기초지수, 총보수, 순자산, 상장일, 투자위험 정보는 KB자산운용 RISE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. 인버스 ETF는 일반 주식형 ETF와 ..",
+  "og_title": "RISE 미국반도체인버스(합성 H), 미국 반도체 하락에 투자하는 ETF인가?",
+  "post_id": "220",
+  "published_time": "2026-05-27T02:07:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "RISE 미국반도체인버스(합성 H), 미국 반도체 하락에 투자하는 ETF인가?",
+  "url": "https://mystock-note.tistory.com/220"
+}

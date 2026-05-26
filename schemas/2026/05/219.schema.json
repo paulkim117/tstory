@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T01:06:00+09:00",
+    "datePublished": "2026-05-27T01:05:46+09:00",
+    "description": "핵심 요약: RISE 미국반도체NYSE(H)는 SOXX와 동일한 NYSE Semiconductor Index를 추종하는 국내 상장 환헤지형 미국 반도체 ETF입니다. 환노출형인 RISE 미국반도체NYSE와 달리 원달러 환율 변동 위험을 줄이는 구조를 사용합니다. 투자자는 환헤지 여부만 보지 말고 기초지수, 총보수, 순자산, 거래량, 괴리율, 환헤지 비용, 연금계좌 활용 가능성을 함께 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. RISE 미국반도체NYSE(H)의 총보수, 기초지수, 순자산, 거래량, 분배금 기준일 정보는 KB자산운용 RISE ETF 공식 상품 페이지를 참고했습니다. ETF의 순자산, 기준가격, 거래량, 구성종목, 수익률, 괴리율, 분배금은 기준일에 따라 달라질 수 있으므로 ..",
+    "headline": "RISE 미국반도체NYSE(H) ETF, 환헤지형 한국형 SOXX는 언제 볼까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/219",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/219"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T09:00:00+09:00",
+    "datePublished": "2026-05-27T09:00:00+09:00",
+    "description": "RISE 미국반도체NYSE(H)는 SOXX와 동일한 NYSE Semiconductor Index를 추종하는 국내 상장 환헤지형 미국 반도체 ETF입니다. 환노출형과의 차이, 총보수, 순자산, 분배금, 환헤지 비용, 연금계좌 활용 기준을 정리합니다.",
+    "headline": "RISE 미국반도체NYSE(H) ETF, 환헤지형 한국형 SOXX는 언제 볼까?",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/219",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/219"
+  }
+]
