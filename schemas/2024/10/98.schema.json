@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-10-30T15:30:27+09:00",
-  "datePublished": "2024-10-30T15:16:22+09:00",
-  "description": "최근 투자에서 좋은 성과를 거두었는데요! 토스증권에서는 반도체 관련 주식으로 상위 5% 수익률 배지를 받았고, 키움증권에서는 FNGU를 통해 해외 주식 월간 수익률 30위에 올랐습니다. 두 증권사에서 받은 배지와 랭킹, 정말 뿌듯합니다! 😄 --- 📈 토스증권: 수익 상위 5% (반도체 관련 주식)반도체 산업이 글로벌 트렌드로 자리 잡으며 미래 성장 가능성이 높아진다는 판단 아래 반도체 관련 주식에 집중했습니다. 90일 동안 꾸준한 분석과 시장 흐름을 반영한 전략 덕분에 토스증권에서 상위 5% 배지를 획득하게 되었어요. 반도체는 여전히 빠르게 성장 중이고, 추가적인 가능성도 있다고 생각합니다. 🔍🏆 키움증권: 월간 수익률 30위 (FNGU)키움증권에서는 나스닥 100지수를 3배 추종하는 레버리지 ..",
-  "headline": "📊 투자 성과로 입증된 반도체·기술주 전략: 수익률 상위 5% 달성!",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb0GSSZ%2FbtsKo02GhW8%2FAAAAAAAAAAAAAAAAAAAAAMWR65Wye0ACLISrWXVvlA76RiRsGAHUpWZ-p56tQhop%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLtp9BnQ7sTOsabG6wQRnAdwQDhE%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/98",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:32:17+09:00",
+    "datePublished": "2024-10-30T15:16:22+09:00",
+    "description": "핵심 요약: 2024년 투자 기록 중 토스증권에서는 반도체 관련 주식 수익 상위 5% 배지를 받았고, 키움증권에서는 FNGU 투자로 해외주식 월간 수익률 30위에 올랐습니다. 다만 높은 수익률 기록이 곧 최종 실현 수익을 의미하지는 않습니다. 이번 글에서는 반도체 투자와 FNGU 레버리지 투자 성과를 정리하고, 수익 실현과 하락장 대응에서 남은 과제를 함께 기록합니다.이번 투자 기록에서 확인한 성과는 무엇인가요?이번 기록은 두 가지입니다. 첫 번째는 토스증권에서 반도체 관련 주식으로 수익 상위 5% 배지를 받은 것입니다. 두 번째는 키움증권에서 FNGU 투자로 해외주식 월간 수익률 30위에 오른 것입니다.두 기록 모두 단기적으로는 의미 있는 성과였습니다. 반도체 업종의 흐름을 추적했고, 기술주 상승 구간..",
+    "headline": "토스증권 상위 5%와 키움 월간 수익률 30위 기록: 반도체 투자와 FNGU 레버리지 투자 회고",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb0GSSZ%2FbtsKo02GhW8%2FAAAAAAAAAAAAAAAAAAAAAMWR65Wye0ACLISrWXVvlA76RiRsGAHUpWZ-p56tQhop%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DLtp9BnQ7sTOsabG6wQRnAdwQDhE%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/98",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/98"
   },
-  "url": "https://mystock-note.tistory.com/98"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T22:00:00+09:00",
+    "datePublished": "2024-10-30T09:00:00+09:00",
+    "description": "토스증권 반도체 관련 주식 상위 5% 배지와 키움증권 FNGU 월간 수익률 30위 기록을 바탕으로, 단기 성과보다 수익 실현, 하락장 대응, 레버리지 ETN 리스크를 함께 정리한 투자 회고입니다.",
+    "headline": "토스증권 상위 5%와 키움 월간 수익률 30위 기록: 반도체 투자와 FNGU 레버리지 투자 회고",
+    "url": "https://mystock-note.tistory.com/98"
+  }
+]

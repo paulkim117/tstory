@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2021-05-19T15:43:06+09:00",
-  "datePublished": "2021-01-18T02:45:10+09:00",
-  "description": "모두가 잘 알고 있는 IPOE에 대해서 분석해 보겠다. 글을 작성하는 시점에도 이미 IPOE를 매수해 두었으며, 주가가 하락한다면 다른 주식을 팔아서라도 들어갈 예정이다. IPOE 즉, SoFi와 DA가 확정된 SPAC 주식이다. 여기서 SPAC 주식은 정식적인 IPO 절차를 밟기보다는 우회로 상장하는 개념을 가지고 가면 좋다. 정상적으로 IPO 상장을 하게 된다면 짧으면 약 12개월 정도 걸리며 더 오래 기간이 소요된다. 그렇지만 SPAC 상장은 짧은시간에 상장을 하여 자금을 모으기 위한 형태로 보인다. 요즘 많은 기업들이 SPAC 상장을 하면서 핫한 주식들이 많이 상장되고 있다. 예로 ACTC, CCIV, IPOE 벌써 3 대장이 상장을 하려고 한다. 그리고 SPAC IPO 시리즈는 차마스 형님께서 ..",
-  "headline": "IPOE(Social Capital Hedosophia Holdings VCorp): 1편",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkCEym%2FbtqTIqzez72%2FAAAAAAAAAAAAAAAAAAAAAFpUMD7MRbRkqGTTTD61PFVa_o8e_pjZwf_q-rWgVdCI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DWcheB5f%252Fd0pUG12sI3ATUdEzsM8%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/15",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:48:53+09:00",
+    "datePublished": "2021-01-18T02:45:10+09:00",
+    "description": "핵심 요약: IPOE는 Social Capital Hedosophia Holdings Corp. V라는 SPAC이었고, 이후 SoFi와 합병해 현재의 SoFi Technologies가 됐습니다. 2021년 당시에는 SPAC 투자 열풍과 핀테크 성장 기대가 겹치며 IPOE에 대한 관심이 높았습니다. 다만 현재 시점에서는 IPOE 매수 관점이 아니라, SPAC 상장 사례와 SoFi의 상장 이후 흐름을 복기하는 방식으로 보는 것이 적절합니다.IPOE는 어떤 종목이었나요?IPOE는 Social Capital Hedosophia Holdings Corp. V의 티커였습니다. 이 회사는 일반 사업회사가 아니라 SPAC, 즉 기업인수목적회사였습니다.SPAC은 먼저 상장한 뒤 합병할 비상장 회사를 찾는 구조입니다. I..",
+    "headline": "IPOE는 어떻게 SoFi가 됐나? SPAC 투자 열풍과 SOFI 상장 이후 복기",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkCEym%2FbtqTIqzez72%2FAAAAAAAAAAAAAAAAAAAAAFpUMD7MRbRkqGTTTD61PFVa_o8e_pjZwf_q-rWgVdCI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DWcheB5f%252Fd0pUG12sI3ATUdEzsM8%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/15",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/15"
   },
-  "url": "https://mystock-note.tistory.com/15"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T21:00:00+09:00",
+    "datePublished": "2021-01-18T09:00:00+09:00",
+    "description": "2021년 IPOE와 SoFi의 SPAC 합병 사례를 복기합니다. IPOE가 SOFI로 전환된 과정, SPAC 투자의 장점과 위험, 당시 기대감과 현재 SoFi의 실제 사업 흐름을 구분해 정리합니다.",
+    "headline": "IPOE는 어떻게 SoFi가 됐나? SPAC 투자 열풍과 SOFI 상장 이후 복기",
+    "url": "https://mystock-note.tistory.com/15"
+  }
+]

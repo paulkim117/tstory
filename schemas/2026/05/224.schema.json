@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-28T05:16:04+09:00",
+    "datePublished": "2026-05-28T05:15:38+09:00",
+    "description": "핵심 요약: SOXX와 SMH 같은 미국 상장 반도체 ETF는 국내 상장 미국 반도체 ETF와 세금 구조가 다릅니다. 일반 해외주식 계좌에서 SOXX·SMH를 매도해 이익이 나면 해외주식 양도소득세 신고 대상이 될 수 있습니다. 투자자는 양도소득 기본공제 250만 원, 손익통산, 신고 시점, 배당세, 환율, 국내 상장 ETF와의 세후 수익률 차이를 함께 확인해야 합니다.자료 기준일은 2026년 5월 23일입니다. 해외주식 양도소득세와 기본공제 기준은 국세청 안내 자료를 참고했고, SOXX와 SMH의 상품 정보는 iShares와 VanEck 공식 자료를 참고했습니다. 세법은 개정될 수 있고 개인의 소득, 계좌 유형, 투자금 규모, 금융소득 수준에 따라 실제 세금은 달라질 수 있으므로 최종 판단은 국세청, ..",
+    "headline": "SOXX·SMH 세금 정리, 해외 상장 반도체 ETF 양도소득세는 어떻게 계산할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/224",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/224"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-28T09:00:00+09:00",
+    "datePublished": "2026-05-28T09:00:00+09:00",
+    "description": "SOXX·SMH 같은 미국 상장 반도체 ETF는 국내 상장 ETF와 세금 구조가 다릅니다. 양도소득세, 기본공제 250만 원, 손익통산, 배당세, 환율, 신고 시점, 국내 상장 ETF와의 차이를 정리합니다.",
+    "headline": "SOXX·SMH 세금 정리, 해외 상장 반도체 ETF 양도소득세는 어떻게 계산할까?",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/224",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/224"
+  }
+]

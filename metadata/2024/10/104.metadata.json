@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 2752,
+  "backup_date": "2026-05-27",
+  "body_html_length": 4928,
   "canonical_url": "https://mystock-note.tistory.com/104",
-  "content_hash": "9088aeb447ba0d2a3d406d527f6957e85594bfe78d5210ce6eed754876e295da",
-  "json_ld_count": 1,
-  "meta_description": "Alphabet(구글)과 Eli Lilly가 모두 예상보다 좋은 3분기 실적을 발표했지만, 주가는 상반된 반응을 보였습니다. Alphabet은 AI와 클라우드 성장 기대에 주가가 상승한 반면, Eli Lilly는 높은 밸류에이션과 성장성 우려로 하락했습니다. AI와 헬스케어 업계의 리더로서 두 기업의 상반된 성적표를 통해, 미래 기술과 제약 산업에서의 성장 가능성 및 투자자들의 기대 심리를 탐구해보겠습니다.Alphabet(구글) - 주가 상승 요인실적 요약Alphabet은 3분기 매출 867억 달러와 주당순이익(EPS) 2.14달러로 시장 예상을 상회했습니다. 검색 광고 매출 증가와 함께 YouTube 및 클라우드 부문의 성장세가 견고한 실적을 뒷받침하며 시장 기대를 웃돌았습니다​상승 요인AI 및 클라우..",
-  "modified_time": "2024-10-31T11:06:03+09:00",
+  "content_hash": "81c9cd95eaf64e5c51766456143f8ef303dbb89fafa6941d7f18495ab1a107a2",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 2024년 3분기 실적 발표에서 Alphabet과 Eli Lilly는 모두 성장 기업으로 분류되지만, 시장 반응은 달랐습니다. Alphabet은 Google Cloud와 AI 수요가 실적 개선으로 연결되며 긍정적 평가를 받았고, Eli Lilly는 Mounjaro와 Zepbound 매출이 기대에 미치지 못하면서 주가가 하락했습니다. 이 글에서는 두 기업의 실적 수치, 주가 반응, 투자자가 확인해야 할 핵심 기준을 비교합니다.Alphabet과 Eli Lilly의 주가 반응은 왜 엇갈렸나요?Alphabet과 Eli Lilly의 차이는 실적 성장 여부보다 시장 기대치를 충족했는지에서 갈렸습니다. Alphabet은 매출, EPS, 클라우드 성장률이 모두 시장의 AI 기대를 뒷받침했습니다.반면 Eli..",
+  "modified_time": "2026-05-27T23:22:41+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "Alphabet(구글)과 Eli Lilly가 모두 예상보다 좋은 3분기 실적을 발표했지만, 주가는 상반된 반응을 보였습니다. Alphabet은 AI와 클라우드 성장 기대에 주가가 상승한 반면, Eli Lilly는 높은 밸류에이션과 성장성 우려로 하락했습니다. AI와 헬스케어 업계의 리더로서 두 기업의 상반된 성적표를 통해, 미래 기술과 제약 산업에서의 성장 가능성 및 투자자들의 기대 심리를 탐구해보겠습니다.Alphabet(구글) - 주가 상승 요인실적 요약Alphabet은 3분기 매출 867억 달러와 주당순이익(EPS) 2.14달러로 시장 예상을 상회했습니다. 검색 광고 매출 증가와 함께 YouTube 및 클라우드 부문의 성장세가 견고한 실적을 뒷받침하며 시장 기대를 웃돌았습니다​상승 요인AI 및 클라우..",
-  "og_title": "Google은 날아오르고, Eli Lilly는 추락하다: 3분기 실적이 가져온 극과 극 주가 반응의 이유는?",
+  "og_description": "핵심 요약: 2024년 3분기 실적 발표에서 Alphabet과 Eli Lilly는 모두 성장 기업으로 분류되지만, 시장 반응은 달랐습니다. Alphabet은 Google Cloud와 AI 수요가 실적 개선으로 연결되며 긍정적 평가를 받았고, Eli Lilly는 Mounjaro와 Zepbound 매출이 기대에 미치지 못하면서 주가가 하락했습니다. 이 글에서는 두 기업의 실적 수치, 주가 반응, 투자자가 확인해야 할 핵심 기준을 비교합니다.Alphabet과 Eli Lilly의 주가 반응은 왜 엇갈렸나요?Alphabet과 Eli Lilly의 차이는 실적 성장 여부보다 시장 기대치를 충족했는지에서 갈렸습니다. Alphabet은 매출, EPS, 클라우드 성장률이 모두 시장의 AI 기대를 뒷받침했습니다.반면 Eli..",
+  "og_title": "Alphabet과 Eli Lilly 주가는 왜 엇갈렸나? AI 클라우드와 비만 치료제 실적 비교",
   "post_id": "104",
   "published_time": "2024-10-30T21:48:29+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "Google은 날아오르고, Eli Lilly는 추락하다: 3분기 실적이 가져온 극과 극 주가 반응의 이유는?",
+  "title": "Alphabet과 Eli Lilly 주가는 왜 엇갈렸나? AI 클라우드와 비만 치료제 실적 비교",
   "url": "https://mystock-note.tistory.com/104"
 }

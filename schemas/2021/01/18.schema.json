@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2021-05-19T15:43:17+09:00",
-  "datePublished": "2021-01-27T10:44:27+09:00",
-  "description": "ACTC 즉 프로테라와 합병하는 티커이다. 다들 알고 있고, 워낙 스팩 상장 전에 기대감이 많았던 회사여서 다른 블로거 분들이나 유튜버 분들이 분석을 자세히 해놓았다. 지금 이 글을 쓰는 이유는 이미 보유하고 있지만 회사에 대한 가치를 스스로 공부해 주가 변동에 매도 버튼이 클릭되지 않게 하려는 나만의 방법이다. 사업 영역 3가지로 보여진다. Proterra Powered - 배터리 시스템, 드라이브 트레인 (버스 및 부품 제작) Proterra Transit - Apex software, 버스 최적화에 사용 Proterra Energy - 전기 충전부터 관리 소프트웨어까지 전기에너지 생태계를 담당하는 영역 배터리 기술력에 대해선 전형적인 문돌이라 어떤 점이 좋은지 정확하게 알지 못하지만 PPT 상으로는..",
-  "headline": "ACTC (Arclight Clean Transition Corp)",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkRVsk%2FbtqUSpLqTVA%2FAAAAAAAAAAAAAAAAAAAAABWsTtLYDr60z4wh6KCcZEdQS8UuMN8qSiBlcJEIP6MO%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DG6jMrZEkdA6r0kvMjiIgcMrnDpI%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/18",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:55:03+09:00",
+    "datePublished": "2021-01-27T10:44:27+09:00",
+    "description": "핵심 요약: ACTC는 전기버스 기업 Proterra와 합병한 SPAC이었습니다. 2021년 당시에는 전기버스, 배터리, 충전 인프라, 바이든 정부의 친환경 정책 기대가 겹치며 높은 관심을 받았습니다. 그러나 Proterra는 2023년 Chapter 11 파산보호를 신청했고, 이후 배터리 사업은 Volvo Group, Transit 사업은 Phoenix Motor에 매각됐습니다. 이 글은 ACTC 투자 기대를 현재 기준으로 복기하고, SPAC 성장주 투자에서 무엇을 확인해야 하는지 정리합니다.ACTC는 어떤 종목이었나요?ACTC는 ArcLight Clean Transition Corp.의 티커였습니다. 이 회사는 일반 사업회사가 아니라 SPAC, 즉 기업인수목적회사였습니다.ACTC는 전기버스와 상용차 ..",
+    "headline": "ACTC와 Proterra 투자 복기: 전기버스 SPAC 기대감은 왜 실패로 끝났나",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkRVsk%2FbtqUSpLqTVA%2FAAAAAAAAAAAAAAAAAAAAABWsTtLYDr60z4wh6KCcZEdQS8UuMN8qSiBlcJEIP6MO%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DG6jMrZEkdA6r0kvMjiIgcMrnDpI%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/18",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/18"
   },
-  "url": "https://mystock-note.tistory.com/18"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T21:00:00+09:00",
+    "datePublished": "2021-01-27T09:00:00+09:00",
+    "description": "2021년 ACTC와 Proterra 합병 기대를 현재 기준으로 복기합니다. Proterra의 전기버스·배터리·충전 사업 구조, SPAC 투자 당시 기대 요인, 2023년 Chapter 11 파산보호 신청과 사업부 매각까지 정리합니다.",
+    "headline": "ACTC와 Proterra 투자 복기: 전기버스 SPAC 기대감은 왜 실패로 끝났나",
+    "url": "https://mystock-note.tistory.com/18"
+  }
+]

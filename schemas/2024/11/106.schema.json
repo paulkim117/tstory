@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-11-01T10:49:10+09:00",
-  "datePublished": "2024-11-01T10:25:23+09:00",
-  "description": "오늘 증시 요약 📉할로윈과 함께 찾아온 '스푸키 시즌'이 요즘 주식 시장을 흔들고 있어요! 주요 기업들의 실적이 기대에 미치지 못하면서, 투자자들이 곧 발표될 비농업 부문 고용 데이터, 다음 주의 연준 금리 결정 등을 앞두고 변동성을 예상하고 있습니다. 주요 지수는 모두 하락했으며, S&P 500은 -1.86%, 나스닥은 -2.76%, 러셀 2000은 -1.63%, 다우존스는 -0.90% 하락 마감했어요.가장 큰 상승: Utilities (+1.06%)가장 큰 하락: Technology (-3.14%)애플 & 아마존 실적 결과 😵‍💫1. 애플 (Apple)애플은 아이폰 부문에서 기대 이상의 성과를 보였으나, 맥(Mac), 아이패드, 기타 제품, 서비스 부문은 모두 예상치를 밑돌았습니다. 6% 성장한..",
-  "headline": "스푸키 시즌이 증시를 강타하다! 🎃 애플, 아마존 실적부터 오토 보험 주식 급등까지 - 시장 최신 이슈 요약",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/106",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:13:42+09:00",
+    "datePublished": "2024-11-01T10:25:23+09:00",
+    "description": "핵심 요약: 2024년 10월 31일 미국 증시는 빅테크 실적 부담과 AI 투자비 우려가 겹치며 하락했습니다. 다우존스는 0.90%, S&P 500은 1.86%, 나스닥은 2.76% 하락했고, 기술주 중심의 매도 압력이 시장 전반에 영향을 줬습니다. 투자자는 단순한 하루 조정보다 빅테크 실적 기대치, AI 인프라 비용, 연준 회의와 고용지표를 함께 확인할 필요가 있습니다.2024년 10월 31일 미국 증시는 왜 하락했나요?이날 미국 증시 하락의 핵심은 빅테크 실적 자체보다 투자자 기대치와 AI 비용 부담이었습니다. Microsoft와 Meta는 실적을 발표했지만, AI 인프라 투자 확대와 클라우드 성장률에 대한 우려가 커지면서 대형 기술주 전반에 매도 압력이 발생했습니다.Reuters에 따르면 이날 다우..",
+    "headline": "2024년 10월 31일 미국 증시 하락 이유: 나스닥 급락과 빅테크 실적 부담",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/106",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/106"
   },
-  "url": "https://mystock-note.tistory.com/106"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T22:00:00+09:00",
+    "datePublished": "2024-11-01",
+    "description": "2024년 10월 31일 미국 증시는 S&P 500, 나스닥, 다우가 동반 하락했습니다. 빅테크 실적, AI 투자비 부담, 애플·아마존·인텔 실적, 고용지표와 연준 회의 대기 심리를 중심으로 시장 흐름을 정리합니다.",
+    "headline": "2024년 10월 31일 미국 증시 하락 이유: 나스닥 급락과 빅테크 실적 부담",
+    "url": "https://mystock-note.tistory.com/106"
+  }
+]

@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-10-31T11:06:50+09:00",
-  "datePublished": "2024-10-30T20:16:48+09:00",
-  "description": "2024년 11월, YieldMax™가 투자자들을 위해 매력적인 배당 일정과 주요 ETF 배당률을 발표했습니다. 이번 달에는 YBIT, TSLY, TSMY, YMAX, YMAG 등 인기 ETF가 높은 배당률로 투자자들을 찾아옵니다. 이 배당률은 최근 배당 수익을 기준으로 연간화되어, 매월 수익을 기대할 수 있는 투자자에게 좋은 기회가 될 것입니다.📌 주요 ETF와 배당률YBIT: 65.28%TSLY: 60.58%TSMY: 54.47%YMAX: 66.23%YMAG: 41.16%위 배당률은 2024년 10월 29일 기준이며, 월간 배당이 동일하게 유지된다고 가정할 때 연간화한 수익률입니다. 다만, ETF의 배당금은 매달 다를 수 있으며, 일정한 배당을 보장하지 않으므로 투자자는 신중한 판단이 필요합니다.⚠..",
-  "headline": "11월, YieldMax™ ETF 배당 발표! 📊 월별 수익 기회를 확인하세요",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbBOLT2%2FbtsKqz4jYEG%2FAAAAAAAAAAAAAAAAAAAAAK-90IxfvSWL5tAAvoAgDef4CRmqo3X2Ntu_pwqg__QW%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DaoF%252BN5Z%252Fvy6IqBDiunE8ZubiOyM%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/100",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:29:57+09:00",
+    "datePublished": "2024-10-30T20:16:48+09:00",
+    "description": "핵심 요약: YieldMax는 2024년 10월 30일 YBIT, TSLY, TSMY, YMAX, YMAG 등 주요 ETF의 분배금을 발표했습니다. 발표 자료에는 YMAX 66.23%, YBIT 65.28%, TSLY 60.58%, TSMY 54.47%, YMAG 41.16%의 분배율이 제시됐지만, 이는 최근 분배금이 그대로 유지된다고 가정해 연율화한 수치입니다. 이 수치는 총수익률이나 확정 배당률이 아니므로, 분배금 규모보다 옵션 전략, NAV 변화, 분배금 지속성, 원금 반환 가능성을 함께 확인해야 합니다.YieldMax 2024년 11월 분배금 발표에서 무엇을 봐야 하나요?YieldMax는 2024년 10월 30일 여러 ETF의 분배금을 발표했습니다. 이번 발표에서 투자자 관심이 컸던 상품은 YBI..",
+    "headline": "YieldMax 2024년 11월 분배금 발표: YBIT·TSLY·TSMY·YMAX·YMAG 배당률을 어떻게 봐야 할까?",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbBOLT2%2FbtsKqz4jYEG%2FAAAAAAAAAAAAAAAAAAAAAK-90IxfvSWL5tAAvoAgDef4CRmqo3X2Ntu_pwqg__QW%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DaoF%252BN5Z%252Fvy6IqBDiunE8ZubiOyM%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/100",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/100"
   },
-  "url": "https://mystock-note.tistory.com/100"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T22:00:00+09:00",
+    "datePublished": "2024-10-30T09:00:00+09:00",
+    "description": "YieldMax가 2024년 10월 30일 발표한 YBIT, TSLY, TSMY, YMAX, YMAG 분배금과 분배율을 정리합니다. 높은 분배율을 배당수익률로 오해하지 않도록 산출 방식, 옵션 전략, NAV 하락, 원금 반환 가능성을 함께 설명합니다.",
+    "headline": "YieldMax 2024년 11월 분배금 발표: YBIT·TSLY·TSMY·YMAX·YMAG 배당률을 어떻게 봐야 할까?",
+    "url": "https://mystock-note.tistory.com/100"
+  }
+]

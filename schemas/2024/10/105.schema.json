@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2024-10-31T11:05:44+09:00",
-  "datePublished": "2024-10-31T10:54:24+09:00",
-  "description": "오늘 시장은 메이저 반도체 주식에 충격을 가한 Super Micro와 AMD의 부진한 실적 발표로 흔들렸습니다. 예상보다 높은 신규 일자리 보고서도 투자 심리를 악화시키며 시장 전반에 영향을 미쳤습니다. ‘Mag 7’ 대기업 실적 발표가 다소 실망스러운 가운데, 내일 발표될 애플과 아마존 실적에 대한 관심이 쏠리고 있습니다.주요 실적 요약: Super Micro, Meta, Microsoft 등1. Super Micro ($SMCI)Super Micro는 감사인 Ernst & Young(EY)이 이탈하며 주가가 33% 급락했습니다. EY는 회사의 내부 통제 문제와 회계 관행에 대한 중대한 우려를 표명하며 감사에서 손을 뗀 것으로 밝혀졌습니다. 이로 인해 Super Micro는 법률 자문 및 회계 전문가를..",
-  "headline": "반도체 업계 흔든 Super Micro 뉴스와 대기업 실적 여파",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/105",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-27T23:16:23+09:00",
+    "datePublished": "2024-10-31T10:54:24+09:00",
+    "description": "핵심 요약: 2024년 10월 30일 미국 증시는 Super Micro의 감사인 사임, AMD의 AI 칩 기대치 부담, 예상보다 강한 ADP 고용지표가 겹치며 하락했습니다. S&P 500은 0.3%, 나스닥은 0.6%, 다우존스는 0.2% 하락했고, 반도체주와 AI 관련주의 투자심리가 약해졌습니다. 이 글에서는 당시 시장 하락의 원인을 실적, 회계 리스크, 고용지표, 빅테크 AI 투자비 관점에서 정리합니다.2024년 10월 30일 미국 증시는 왜 하락했나요?이날 미국 증시는 반도체주 약세와 빅테크 실적 대기 심리가 겹치며 하락했습니다. AP에 따르면 S&P 500은 0.3%, 다우존스 산업평균지수는 0.2%, 나스닥 종합지수는 0.6% 하락했습니다.하락의 직접적인 원인은 Super Micro와 AMD였습..",
+    "headline": "2024년 10월 30일 미국 증시 하락 이유: Super Micro 감사인 사임과 AMD AI 기대치 부담",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/105",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/105"
   },
-  "url": "https://mystock-note.tistory.com/105"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T22:00:00+09:00",
+    "datePublished": "2024-10-31T09:00:00+09:00",
+    "description": "2024년 10월 30일 미국 증시는 Super Micro 감사인 사임, AMD 실적 후 AI 기대치 부담, ADP 고용 서프라이즈, Meta·Microsoft 실적 대기 심리로 하락했습니다. 반도체주와 빅테크 실적을 중심으로 당시 시장 흐름을 정리합니다.",
+    "headline": "2024년 10월 30일 미국 증시 하락 이유: Super Micro 감사인 사임과 AMD AI 기대치 부담",
+    "url": "https://mystock-note.tistory.com/105"
+  }
+]

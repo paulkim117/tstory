@@ -1,20 +1,20 @@
 {
-  "backup_date": "2026-05-15",
-  "body_html_length": 9483,
+  "backup_date": "2026-05-27",
+  "body_html_length": 16148,
   "canonical_url": "https://mystock-note.tistory.com/18",
-  "content_hash": "17384c2a4f95af701e7a054ba8e793db51384c4a12bf48ee2da3d176aed84a4f",
-  "json_ld_count": 1,
-  "meta_description": "ACTC 즉 프로테라와 합병하는 티커이다. 다들 알고 있고, 워낙 스팩 상장 전에 기대감이 많았던 회사여서 다른 블로거 분들이나 유튜버 분들이 분석을 자세히 해놓았다. 지금 이 글을 쓰는 이유는 이미 보유하고 있지만 회사에 대한 가치를 스스로 공부해 주가 변동에 매도 버튼이 클릭되지 않게 하려는 나만의 방법이다. 사업 영역 3가지로 보여진다. Proterra Powered - 배터리 시스템, 드라이브 트레인 (버스 및 부품 제작) Proterra Transit - Apex software, 버스 최적화에 사용 Proterra Energy - 전기 충전부터 관리 소프트웨어까지 전기에너지 생태계를 담당하는 영역 배터리 기술력에 대해선 전형적인 문돌이라 어떤 점이 좋은지 정확하게 알지 못하지만 PPT 상으로는..",
-  "modified_time": "2021-05-19T15:43:17+09:00",
+  "content_hash": "b63e1a70590878c1a2d400430fbdf84565bd715d14d98ef7a5dc9a66621c78ca",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: ACTC는 전기버스 기업 Proterra와 합병한 SPAC이었습니다. 2021년 당시에는 전기버스, 배터리, 충전 인프라, 바이든 정부의 친환경 정책 기대가 겹치며 높은 관심을 받았습니다. 그러나 Proterra는 2023년 Chapter 11 파산보호를 신청했고, 이후 배터리 사업은 Volvo Group, Transit 사업은 Phoenix Motor에 매각됐습니다. 이 글은 ACTC 투자 기대를 현재 기준으로 복기하고, SPAC 성장주 투자에서 무엇을 확인해야 하는지 정리합니다.ACTC는 어떤 종목이었나요?ACTC는 ArcLight Clean Transition Corp.의 티커였습니다. 이 회사는 일반 사업회사가 아니라 SPAC, 즉 기업인수목적회사였습니다.ACTC는 전기버스와 상용차 ..",
+  "modified_time": "2026-05-27T23:55:03+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "ACTC 즉 프로테라와 합병하는 티커이다. 다들 알고 있고, 워낙 스팩 상장 전에 기대감이 많았던 회사여서 다른 블로거 분들이나 유튜버 분들이 분석을 자세히 해놓았다. 지금 이 글을 쓰는 이유는 이미 보유하고 있지만 회사에 대한 가치를 스스로 공부해 주가 변동에 매도 버튼이 클릭되지 않게 하려는 나만의 방법이다. 사업 영역 3가지로 보여진다. Proterra Powered - 배터리 시스템, 드라이브 트레인 (버스 및 부품 제작) Proterra Transit - Apex software, 버스 최적화에 사용 Proterra Energy - 전기 충전부터 관리 소프트웨어까지 전기에너지 생태계를 담당하는 영역 배터리 기술력에 대해선 전형적인 문돌이라 어떤 점이 좋은지 정확하게 알지 못하지만 PPT 상으로는..",
-  "og_title": "ACTC (Arclight Clean Transition Corp)",
+  "og_description": "핵심 요약: ACTC는 전기버스 기업 Proterra와 합병한 SPAC이었습니다. 2021년 당시에는 전기버스, 배터리, 충전 인프라, 바이든 정부의 친환경 정책 기대가 겹치며 높은 관심을 받았습니다. 그러나 Proterra는 2023년 Chapter 11 파산보호를 신청했고, 이후 배터리 사업은 Volvo Group, Transit 사업은 Phoenix Motor에 매각됐습니다. 이 글은 ACTC 투자 기대를 현재 기준으로 복기하고, SPAC 성장주 투자에서 무엇을 확인해야 하는지 정리합니다.ACTC는 어떤 종목이었나요?ACTC는 ArcLight Clean Transition Corp.의 티커였습니다. 이 회사는 일반 사업회사가 아니라 SPAC, 즉 기업인수목적회사였습니다.ACTC는 전기버스와 상용차 ..",
+  "og_title": "ACTC와 Proterra 투자 복기: 전기버스 SPAC 기대감은 왜 실패로 끝났나",
   "post_id": "18",
   "published_time": "2021-01-27T10:44:27+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "ACTC (Arclight Clean Transition Corp)",
+  "title": "ACTC와 Proterra 투자 복기: 전기버스 SPAC 기대감은 왜 실패로 끝났나",
   "url": "https://mystock-note.tistory.com/18"
 }

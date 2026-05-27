@@ -1,34 +1,45 @@
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "author": {
-    "@type": "Person",
-    "logo": null,
-    "name": "Blackshoot"
-  },
-  "dateModified": "2021-05-19T15:43:34+09:00",
-  "datePublished": "2021-02-20T18:27:45+09:00",
-  "description": "Himax는 디스플레이 관련 회사이며 대만에 위치한 회사이다. TV, 랩톱, 모니터, 휴대폰, 태블릿, 디지털카메라, 자동차 내비게이션 및 VR, AR 장치를 생산하고 있다. Himax는 12 월 31 일 기준 전 세계적으로 3,009 개의 특허가 부여되었으며 561 개의 특허가 승인 대기 중으로 확인된다. 이건 뭐 4차 산업에 있어 꼭 필요한 소재를 생산하고 있고 이번 어닝에 굉장한 성장을 보여주고 있어 더욱 매집하고 싶은 회사로 보인다. 이 회사를 최근에 발견하고 이미 올해 초반에 엄청난 성장을 보여주고 있다. 주가의 상승폭을 보면 SEC 파일에서 확인된 재무 성장성은 엄청나다고 본다. 일단은 고점에 물려있는데 이것도 몇달 뒤면 저점이라고 확신하다. 그 이유는 파운드리 생산업체와 성공적인 계약을 확보..",
-  "headline": "HIMX (Himax Technologies Inc.)",
-  "image": {
-    "@type": "ImageObject",
-    "height": "800px",
-    "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdWYLC7%2FbtqXXjP49vp%2FAAAAAAAAAAAAAAAAAAAAAA4M_n5zjQMS4i-layzY7K2Mc83IFKu_VtqjB-kTOb_p%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DeY6aSJtJdPCn7PE14qWAe3eMJ58%253D",
-    "width": "800px"
-  },
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/26",
-    "name": null
-  },
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-28T00:02:47+09:00",
+    "datePublished": "2021-02-20T18:27:45+09:00",
+    "description": "핵심 요약: Himax Technologies는 대만에 본사를 둔 팹리스 반도체 기업으로, 디스플레이 드라이버 IC와 이미지 처리 관련 반도체를 공급합니다. 2021년 당시에는 디스플레이, AR·VR, 자동차 전장, 반도체 공급 부족 수혜 기대가 컸지만, 현재 기준에서는 매출 성장성뿐 아니라 디스플레이 업황, 고객 집중도, 평균판매단가, 자동차 디스플레이 수요, AIoT·WiseEye 같은 신규 사업의 실제 기여도를 함께 확인해야 합니다. Himax Technologies 관련 이미지입니다. 현재 투자 판단에는 최신 실적과 공식 공시를 함께 확인해야 합니다.Himax Technologies는 어떤 회사인가요?Himax Technologies는 대만 타이난에 본사를 둔 팹리스 반도체 기업입니다. 회사..",
+    "headline": "Himax Technologies 투자 복기: 디스플레이 반도체, 자동차, AR·VR 성장성을 어떻게 봐야 할까",
+    "image": {
       "@type": "ImageObject",
       "height": "800px",
-      "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdWYLC7%2FbtqXXjP49vp%2FAAAAAAAAAAAAAAAAAAAAAA4M_n5zjQMS4i-layzY7K2Mc83IFKu_VtqjB-kTOb_p%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DeY6aSJtJdPCn7PE14qWAe3eMJ58%253D",
       "width": "800px"
     },
-    "name": "TISTORY"
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/26",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/26"
   },
-  "url": "https://mystock-note.tistory.com/26"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-27T21:00:00+09:00",
+    "datePublished": "2021-02-20T09:00:00+09:00",
+    "description": "Himax Technologies는 대만의 팹리스 디스플레이 반도체 기업입니다. 디스플레이 드라이버 IC, 자동차 디스플레이, AR·VR용 LCoS, WiseEye AI 솔루션, 실적 흐름과 투자 리스크를 현재 기준으로 정리합니다.",
+    "headline": "Himax Technologies 투자 복기: 디스플레이 반도체, 자동차, AR·VR 성장성을 어떻게 봐야 할까",
+    "url": "https://mystock-note.tistory.com/26"
+  }
+]

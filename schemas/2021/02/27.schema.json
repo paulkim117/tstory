@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-28T00:05:46+09:00",
+    "datePublished": "2021-02-20T19:16:56+09:00",
+    "description": "핵심 요약: AREC는 American Resources Corporation의 티커로, 희토류와 핵심광물 공급망 관련 기업으로 분류됩니다. 2021년 당시에는 미중 갈등, 희토류 공급망 불안, Purdue University 기반 희토류 분리·정제 기술 확보 이슈로 투자자 관심을 받았습니다. 다만 현재 기준에서는 AREC를 단순한 희토류 채굴주로 보기보다, ReElement Technologies와 연결된 희토류·배터리 소재 재활용 및 정제 플랫폼 관점에서 보는 것이 더 적절합니다. American Resources Corporation 관련 이미지입니다. 현재 투자 판단에는 최신 공시와 사업 구조를 함께 확인해야 합니다.AREC는 어떤 회사인가요?AREC는 American Resources Co..",
+    "headline": "AREC와 ReElement 투자 복기: 희토류 재활용 기술은 왜 주목받았나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbFNSt1%2FbtqXU3mvU5z%2FAAAAAAAAAAAAAAAAAAAAAOX4TSuMIB68j7o1SygntffImcytgr5H6S4Y981OKPns%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1780239599%26allow_ip%3D%26allow_referer%3D%26signature%3DUBd4dTAo9mOSJ9fYB2sK4ItREu8%253D",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/27",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-28T21:00:00+09:00",
+    "datePublished": "2021-02-20T09:00:00+09:00",
+    "description": "American Resources(AREC)와 ReElement Technologies의 희토류 재활용·정제 기술을 정리합니다. Purdue 기술 라이선스, 희토류 공급망 리스크, MP Materials와의 차이, 투자 전 확인할 리스크를 현재 기준으로 복기합니다.",
+    "headline": "AREC와 ReElement 투자 복기: 희토류 재활용 기술은 왜 주목받았나",
+    "url": "https://mystock-note.tistory.com/27"
+  }
+]
