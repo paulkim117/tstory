@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-05-31T01:20:00+09:00",
+    "datePublished": "2026-05-31T01:19:52+09:00",
+    "description": "핵심 요약: KODEX CD금리액티브(합성)는 CD금리 지수를 활용하는 단기금리형 ETF입니다. 주식형 ETF처럼 큰 가격 상승을 노리는 상품이 아니라, 단기금리 수준의 수익을 매일 누적하는 구조에 가깝습니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 합성 ETF 구조, 총보수, 거래량, 괴리율, IRP 매수 가능 여부를 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. KODEX CD금리액티브(합성)의 기초지수, 총보수, 순자산, 상장일 정보는 ETF 데이터 제공 자료와 삼성자산운용 상품 페이지를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 실제 투자 전에는 본인이 사용하는 ..",
+    "headline": "KODEX CD금리액티브(합성), IRP 대기자금 ETF로 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/231",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/231"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-05-31T09:00:00+09:00",
+    "datePublished": "2026-05-31T09:00:00+09:00",
+    "description": "KODEX CD금리액티브(합성)는 CD금리 지수를 활용하는 단기금리형 ETF입니다. IRP 대기자금, 안전자산 30%, 예금 대체 여부, 합성 ETF 구조, 총보수, 순자산, 원금보장 여부, KOFR ETF와의 차이를 정리합니다.",
+    "headline": "KODEX CD금리액티브(합성), IRP 대기자금 ETF로 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/231",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/231"
+  }
+]

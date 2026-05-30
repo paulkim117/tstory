@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-30",
+  "body_html_length": 6317,
+  "canonical_url": "https://mystock-note.tistory.com/230",
+  "content_hash": "71c6d92e509194b9620cfe513899dec6b3ee6bcc1ca3e46bf3c97301d7aae94f",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: IRP에서 CD금리 ETF와 KOFR ETF는 예금 외 대기자금 운용 수단으로 자주 비교되는 금리형 ETF입니다. 둘 다 주식형 ETF처럼 큰 자본차익을 노리는 상품은 아니며, 단기금리 수준의 수익을 추구하는 성격이 강합니다. 다만 CD금리 ETF는 CD 91일물 등 양도성예금증서 금리 계열을 활용하고, KOFR ETF는 국채·통안증권 담보 익일물 RP거래 기반의 한국무위험지표금리를 활용한다는 차이가 있습니다.자료 기준일은 2026년 5월 23일입니다. KOFR 개념은 한국무위험지표금리 공식 자료와 한국은행 자료를 참고했고, CD금리 ETF와 KOFR ETF 상품 정보는 운용사 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권..",
+  "modified_time": "2026-05-30T08:31:05+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: IRP에서 CD금리 ETF와 KOFR ETF는 예금 외 대기자금 운용 수단으로 자주 비교되는 금리형 ETF입니다. 둘 다 주식형 ETF처럼 큰 자본차익을 노리는 상품은 아니며, 단기금리 수준의 수익을 추구하는 성격이 강합니다. 다만 CD금리 ETF는 CD 91일물 등 양도성예금증서 금리 계열을 활용하고, KOFR ETF는 국채·통안증권 담보 익일물 RP거래 기반의 한국무위험지표금리를 활용한다는 차이가 있습니다.자료 기준일은 2026년 5월 23일입니다. KOFR 개념은 한국무위험지표금리 공식 자료와 한국은행 자료를 참고했고, CD금리 ETF와 KOFR ETF 상품 정보는 운용사 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권..",
+  "og_title": "IRP CD금리 ETF와 KOFR ETF 차이, 안전자산 30%에 어떤 금리형 ETF를 볼까?",
+  "post_id": "230",
+  "published_time": "2026-05-30T08:30:26+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IRP CD금리 ETF와 KOFR ETF 차이, 안전자산 30%에 어떤 금리형 ETF를 볼까?",
+  "url": "https://mystock-note.tistory.com/230"
+}
