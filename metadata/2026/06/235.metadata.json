@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-31",
+  "body_html_length": 5649,
+  "canonical_url": "https://mystock-note.tistory.com/235",
+  "content_hash": "e4398e734c37346e74f525ebd55108935b2498533fc1464621e8b11f94f2e665",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: KODEX 머니마켓액티브는 KOFR, Call, CD, 기업어음, 전자단기사채, 잔존만기 1~3개월 단기채권을 활용하는 MMF형 파킹 ETF입니다. CD금리형 ETF나 KOFR ETF보다 편입자산이 넓고, 단기자금시장 전체에 가까운 성과를 추구합니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 IRP 매수 가능 여부, 안전자산 인정 여부, 신용위험, 금리위험, 거래량, 괴리율을 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. KODEX 머니마켓액티브의 비교지수, 총보수, 듀레이션, YTM, 지수 구성 정보는 삼성자산운용 자료, ETF 데이터 제공 자료, 한국자산평가 지수 설명 자료를 참고했습니다. IRP 내 안전..",
+  "modified_time": "2026-06-01T02:29:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: KODEX 머니마켓액티브는 KOFR, Call, CD, 기업어음, 전자단기사채, 잔존만기 1~3개월 단기채권을 활용하는 MMF형 파킹 ETF입니다. CD금리형 ETF나 KOFR ETF보다 편입자산이 넓고, 단기자금시장 전체에 가까운 성과를 추구합니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 IRP 매수 가능 여부, 안전자산 인정 여부, 신용위험, 금리위험, 거래량, 괴리율을 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. KODEX 머니마켓액티브의 비교지수, 총보수, 듀레이션, YTM, 지수 구성 정보는 삼성자산운용 자료, ETF 데이터 제공 자료, 한국자산평가 지수 설명 자료를 참고했습니다. IRP 내 안전..",
+  "og_title": "KODEX 머니마켓액티브 ETF, IRP 대기자금과 안전자산으로 볼 때 확인할 점",
+  "post_id": "235",
+  "published_time": "2026-06-01T02:28:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "KODEX 머니마켓액티브 ETF, IRP 대기자금과 안전자산으로 볼 때 확인할 점",
+  "url": "https://mystock-note.tistory.com/235"
+}

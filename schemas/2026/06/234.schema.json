@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-01T01:27:00+09:00",
+    "datePublished": "2026-06-01T01:26:21+09:00",
+    "description": "핵심 요약: ACE 머니마켓액티브는 CD, 초단기채권, 기업어음, 현금성 자산을 활용하는 파킹형 ETF입니다. KODEX CD금리액티브나 TIGER CD금리투자KIS처럼 CD금리만 중심으로 보는 상품과 달리 초단기채권과 기업어음까지 함께 활용해 CD금리 대비 초과수익을 추구하는 구조입니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 IRP 안전자산 인정 여부, 금리 위험, 신용위험, 거래량, 괴리율을 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. ACE 머니마켓액티브의 기초지수, 총보수, 순자산, 듀레이션, YTM, 상장일 정보는 ACE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산..",
+    "headline": "ACE 머니마켓액티브 ETF, IRP 대기자금과 파킹형 ETF로 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/234",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/234"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-01T09:00:00+09:00",
+    "datePublished": "2026-06-01T09:00:00+09:00",
+    "description": "ACE 머니마켓액티브는 CD, 초단기채권, 기업어음, 현금성 자산을 활용하는 파킹형 ETF입니다. IRP 대기자금, 안전자산 30%, 예금 대체 여부, CD금리 ETF·KOFR ETF와의 차이, 총보수, 순자산, 금리 하락기 주의점을 정리합니다.",
+    "headline": "ACE 머니마켓액티브 ETF, IRP 대기자금과 파킹형 ETF로 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/234",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/234"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-05-31",
+  "body_html_length": 5434,
+  "canonical_url": "https://mystock-note.tistory.com/234",
+  "content_hash": "4bc42ceccd7db6e4b36af61bffce20d53055ec1553aa48ec74e147f233a6a7c8",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: ACE 머니마켓액티브는 CD, 초단기채권, 기업어음, 현금성 자산을 활용하는 파킹형 ETF입니다. KODEX CD금리액티브나 TIGER CD금리투자KIS처럼 CD금리만 중심으로 보는 상품과 달리 초단기채권과 기업어음까지 함께 활용해 CD금리 대비 초과수익을 추구하는 구조입니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 IRP 안전자산 인정 여부, 금리 위험, 신용위험, 거래량, 괴리율을 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. ACE 머니마켓액티브의 기초지수, 총보수, 순자산, 듀레이션, YTM, 상장일 정보는 ACE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산..",
+  "modified_time": "2026-06-01T01:27:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: ACE 머니마켓액티브는 CD, 초단기채권, 기업어음, 현금성 자산을 활용하는 파킹형 ETF입니다. KODEX CD금리액티브나 TIGER CD금리투자KIS처럼 CD금리만 중심으로 보는 상품과 달리 초단기채권과 기업어음까지 함께 활용해 CD금리 대비 초과수익을 추구하는 구조입니다. IRP나 일반 계좌에서 대기자금 운용 수단으로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아니며 IRP 안전자산 인정 여부, 금리 위험, 신용위험, 거래량, 괴리율을 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. ACE 머니마켓액티브의 기초지수, 총보수, 순자산, 듀레이션, YTM, 상장일 정보는 ACE ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산..",
+  "og_title": "ACE 머니마켓액티브 ETF, IRP 대기자금과 파킹형 ETF로 볼 때 확인할 점",
+  "post_id": "234",
+  "published_time": "2026-06-01T01:26:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ACE 머니마켓액티브 ETF, IRP 대기자금과 파킹형 ETF로 볼 때 확인할 점",
+  "url": "https://mystock-note.tistory.com/234"
+}
