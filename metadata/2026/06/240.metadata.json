@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-02",
+  "body_html_length": 4497,
+  "canonical_url": "https://mystock-note.tistory.com/240",
+  "content_hash": "f374141d8f8293e67ffc3c23afb063a6e57ab5c18f3a4985965126b862ad663c",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: HANARO 27-06 회사채(AA-이상)액티브는 2027년 6월 만기 구조의 만기매칭형 회사채 ETF입니다. AA- 이상 회사채를 중심으로 투자하며, IRP에서 안전자산 30% 후보로 검토할 수 있습니다. 다만 예금처럼 원금이 보장되는 상품은 아니며, YTM, 듀레이션, 편입 채권 신용등급, 중도 매도 시 가격 변동, IRP 안전자산 인정 여부를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. HANARO 27-06 회사채(AA-이상)액티브의 상품 정보, 비교지수, 순자산, 총보수, 상장일 정보는 NH-Amundi HANARO ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 ..",
+  "modified_time": "2026-06-03T01:43:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: HANARO 27-06 회사채(AA-이상)액티브는 2027년 6월 만기 구조의 만기매칭형 회사채 ETF입니다. AA- 이상 회사채를 중심으로 투자하며, IRP에서 안전자산 30% 후보로 검토할 수 있습니다. 다만 예금처럼 원금이 보장되는 상품은 아니며, YTM, 듀레이션, 편입 채권 신용등급, 중도 매도 시 가격 변동, IRP 안전자산 인정 여부를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. HANARO 27-06 회사채(AA-이상)액티브의 상품 정보, 비교지수, 순자산, 총보수, 상장일 정보는 NH-Amundi HANARO ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 ..",
+  "og_title": "HANARO 27-06 회사채(AA-이상)액티브, IRP 만기매칭형 ETF로 볼 때 확인할 점",
+  "post_id": "240",
+  "published_time": "2026-06-03T01:42:16+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HANARO 27-06 회사채(AA-이상)액티브, IRP 만기매칭형 ETF로 볼 때 확인할 점",
+  "url": "https://mystock-note.tistory.com/240"
+}

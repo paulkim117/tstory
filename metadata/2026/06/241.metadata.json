@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-02",
+  "body_html_length": 6447,
+  "canonical_url": "https://mystock-note.tistory.com/241",
+  "content_hash": "8e675cb5e07235352b435bd0d5c68d9a45318e1a37b36724a66797711481077a",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: IRP에서 만기매칭형 회사채 ETF를 고를 때는 단순히 YTM이 높은 상품을 고르면 안 됩니다. KODEX 27-12 회사채(AA-이상)액티브, HANARO 27-06 회사채(AA-이상)액티브, TIGER 28-04 회사채(A+이상)액티브는 모두 만기매칭형 회사채 ETF지만 만기, 신용등급 기준, 보수, 듀레이션, 편입 채권 범위가 다릅니다. 투자자는 자금 사용 시점, IRP 안전자산 인정 여부, 중도 매도 가능성, 신용위험을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. 주요 상품 정보는 KODEX, HANARO, TIGER 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 실제 투..",
+  "modified_time": "2026-06-03T02:45:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: IRP에서 만기매칭형 회사채 ETF를 고를 때는 단순히 YTM이 높은 상품을 고르면 안 됩니다. KODEX 27-12 회사채(AA-이상)액티브, HANARO 27-06 회사채(AA-이상)액티브, TIGER 28-04 회사채(A+이상)액티브는 모두 만기매칭형 회사채 ETF지만 만기, 신용등급 기준, 보수, 듀레이션, 편입 채권 범위가 다릅니다. 투자자는 자금 사용 시점, IRP 안전자산 인정 여부, 중도 매도 가능성, 신용위험을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. 주요 상품 정보는 KODEX, HANARO, TIGER 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 실제 투..",
+  "og_title": "IRP 만기매칭형 회사채 ETF 비교, KODEX·HANARO·TIGER는 무엇이 다를까?",
+  "post_id": "241",
+  "published_time": "2026-06-03T02:44:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IRP 만기매칭형 회사채 ETF 비교, KODEX·HANARO·TIGER는 무엇이 다를까?",
+  "url": "https://mystock-note.tistory.com/241"
+}

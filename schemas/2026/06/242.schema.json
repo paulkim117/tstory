@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-03T04:48:00+09:00",
+    "datePublished": "2026-06-03T04:47:29+09:00",
+    "description": "핵심 요약: 만기매칭형 ETF는 만기가 정해진 채권형 ETF입니다. 만기일이 다가오면 일반 ETF처럼 계속 거래되는 것이 아니라, 매매거래 정지, 상장폐지, 해지상환금 지급 절차가 진행될 수 있습니다. 다만 이 과정은 부실로 인한 상장폐지와 다릅니다. 존속기한이 끝나는 구조적 상장폐지에 가깝습니다. 그러나 예금처럼 원금이 보장되는 상품은 아니므로 YTM, 순자산가치, 중도 매도 가능성, IRP 계좌 처리 기준을 함께 확인해야 합니다.자료 기준일은 2026년 5월 27일입니다. 만기매칭형 ETF의 만기 도래 절차는 KODEX 만기채 ETF 상장폐지 예정 공지, HANARO ETF 공식 상품 페이지의 존속기한형 ETF 유의사항, 삼성증권 만기매칭형 ETF 리서치 자료를 참고했습니다. 실제 일정은 상품별로 다..",
+    "headline": "만기매칭형 ETF 만기 도래하면 어떻게 될까? 상장폐지·매매정지·해지상환금 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/242",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/242"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-03T09:00:00+09:00",
+    "datePublished": "2026-06-03T09:00:00+09:00",
+    "description": "만기매칭형 ETF는 존속기한이 정해진 채권형 ETF입니다. 만기 도래 시 매매정지, 상장폐지, 해지상환금 지급 절차가 진행될 수 있습니다. IRP에서 만기매칭형 회사채 ETF를 보유할 때 만기 전 매도 여부, YTM, 원금보장 여부, 세금과 계좌 처리 기준을 정리합니다.",
+    "headline": "만기매칭형 ETF 만기 도래하면 어떻게 될까? 상장폐지·매매정지·해지상환금 정리",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/242",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/242"
+  }
+]

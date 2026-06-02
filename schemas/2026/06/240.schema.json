@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-03T01:43:00+09:00",
+    "datePublished": "2026-06-03T01:42:16+09:00",
+    "description": "핵심 요약: HANARO 27-06 회사채(AA-이상)액티브는 2027년 6월 만기 구조의 만기매칭형 회사채 ETF입니다. AA- 이상 회사채를 중심으로 투자하며, IRP에서 안전자산 30% 후보로 검토할 수 있습니다. 다만 예금처럼 원금이 보장되는 상품은 아니며, YTM, 듀레이션, 편입 채권 신용등급, 중도 매도 시 가격 변동, IRP 안전자산 인정 여부를 먼저 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. HANARO 27-06 회사채(AA-이상)액티브의 상품 정보, 비교지수, 순자산, 총보수, 상장일 정보는 NH-Amundi HANARO ETF 공식 상품 페이지와 ETF 데이터 제공 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 있으므로 ..",
+    "headline": "HANARO 27-06 회사채(AA-이상)액티브, IRP 만기매칭형 ETF로 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/240",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/240"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-03T09:00:00+09:00",
+    "datePublished": "2026-06-03T09:00:00+09:00",
+    "description": "HANARO 27-06 회사채(AA-이상)액티브는 2027년 6월 만기 구조의 AA- 이상 회사채 만기매칭형 ETF입니다. IRP 안전자산 30%, YTM, 듀레이션, 신용등급, 예금과의 차이, KODEX 27-12·TIGER 28-04 회사채 ETF와의 차이를 정리합니다.",
+    "headline": "HANARO 27-06 회사채(AA-이상)액티브, IRP 만기매칭형 ETF로 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/240",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/240"
+  }
+]
