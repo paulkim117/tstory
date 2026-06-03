@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-04T02:53:00+09:00",
+    "datePublished": "2026-06-04T02:52:15+09:00",
+    "description": "핵심 요약: KODEX 국고채10년액티브는 국내 10년 국고채에 투자하는 채권형 ETF입니다. 국고채에 투자하므로 회사채 ETF보다 신용위험은 낮게 볼 수 있지만, 금리 변화에 따른 가격 변동은 분명히 존재합니다. 특히 10년 국고채 ETF는 3년 국고채 ETF보다 금리 민감도가 높고, 30년 국고채 ETF보다는 변동성이 낮은 중장기 채권 ETF로 볼 수 있습니다. IRP에서 안전자산 30% 후보로 검토할 수 있지만, 예금처럼 원금이 보장되는 상품은 아닙니다.자료 기준일은 2026년 5월 26일입니다. KODEX 국고채10년액티브의 기초지수, 총보수, 상장일, YTM, 듀레이션 정보는 삼성자산운용, K-ETF, FunETF, 한국자산평가 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여..",
+    "headline": "KODEX 국고채10년액티브, IRP 국고채 ETF로 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/244",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/244"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-04T09:00:00+09:00",
+    "datePublished": "2026-06-04T09:00:00+09:00",
+    "description": "KODEX 국고채10년액티브는 KAP 국고채 10년 지수(TR)를 비교지수로 활용하는 국내 10년 국고채 ETF입니다. IRP 안전자산 30%, 듀레이션, YTM, 금리 상승·하락기 영향, 예금·파킹형 ETF·회사채 ETF와의 차이를 정리합니다.",
+    "headline": "KODEX 국고채10년액티브, IRP 국고채 ETF로 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/244",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/244"
+  }
+]
