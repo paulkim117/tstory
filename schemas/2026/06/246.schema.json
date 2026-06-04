@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-05T01:57:00+09:00",
+    "datePublished": "2026-06-05T01:56:58+09:00",
+    "description": "핵심 요약: KODEX 국고채3년은 국내 3년 국고채에 투자하는 채권형 ETF입니다. 국고채10년·국고채30년 ETF보다 금리 변화에 따른 가격 변동이 상대적으로 작고, IRP에서 방어적인 채권 비중 후보로 검토할 수 있습니다. 다만 예금처럼 원금이 보장되는 상품은 아니며, 금리 상승기에는 손실이 발생할 수 있습니다. 투자 전에는 YTM, 듀레이션, 총보수, IRP 안전자산 인정 여부, 파킹형 ETF와의 차이를 함께 확인해야 합니다.자료 기준일은 2026년 5월 26일입니다. KODEX 국고채3년의 기초지수, 총보수, 순자산, 상장일, YTM, 듀레이션 정보는 KODEX 공식 상품 페이지, FunETF, 펀드닥터 자료를 참고했습니다. IRP 내 안전자산 인정 여부와 매수 가능 여부는 증권사별로 다를 수 ..",
+    "headline": "KODEX 국고채3년, IRP 단기 국고채 ETF로 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/246",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/246"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-05T09:00:00+09:00",
+    "datePublished": "2026-06-05T09:00:00+09:00",
+    "description": "KODEX 국고채3년은 MKF 국고채 지수(총수익)를 추종하는 국내 3년 국고채 ETF입니다. IRP 안전자산 30%, YTM, 듀레이션, 금리 상승·하락기 영향, 예금·국고채10년 ETF·파킹형 ETF와의 차이를 정리합니다.",
+    "headline": "KODEX 국고채3년, IRP 단기 국고채 ETF로 볼 때 확인할 점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/246",
+      "@type": "WebPage"
+    },
+    "url": "https://mystock-note.tistory.com/246"
+  }
+]
