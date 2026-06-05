@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-06T01:09:00+09:00",
+    "datePublished": "2026-06-06T01:08:18+09:00",
+    "description": "핵심 요약: 연금저축에서 나스닥100 ETF와 반도체 ETF는 모두 성장형 자산으로 볼 수 있지만, 비교 기준은 다릅니다. 나스닥100 ETF는 미국 대형 기술주 중심의 분산형 대표지수 ETF에 가깝고, 반도체 ETF는 특정 산업과 일부 종목에 더 집중된 테마형 ETF에 가깝습니다. 따라서 최근 수익률만 보지 말고 기초지수, 총보수, 순자산, 환노출, 종목 집중도, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 미래에셋 TIGER ETF, SOL ETF 공식 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 구성종목, 분배 정책은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화면을 다시 확인해..",
+    "headline": "연금저축에서 나스닥100 ETF와 반도체 ETF를 함께 볼 때 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/249",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/249"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-06",
+    "datePublished": "2026-06-06",
+    "description": "연금저축과 IRP에서 나스닥100 ETF, 반도체 ETF를 비교할 때 확인해야 할 기초지수, 총보수, 순자산, 환노출, 종목 집중도, IRP 위험자산 분류 기준을 정리합니다.",
+    "headline": "연금저축에서 나스닥100 ETF와 반도체 ETF를 함께 볼 때 확인할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/249",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/249"
+  }
+]

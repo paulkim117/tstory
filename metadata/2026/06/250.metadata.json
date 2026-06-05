@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-05",
+  "body_html_length": 2279,
+  "canonical_url": "https://mystock-note.tistory.com/250",
+  "content_hash": "1b686e72a9a4ae1ff5d16da2f932638d0216e0d9427c945744f4f57e098acdea",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 국내상장 S&P500 ETF는 모두 미국 대표 대형주 지수에 투자하지만, 총보수, 순자산 규모, 환헤지 여부, 분배 정책에서 차이가 있습니다. TIGER 미국S&P500, KODEX 미국S&P500, ACE 미국S&P500은 모두 장기 투자 후보로 비교할 수 있지만, 선택 기준은 단순 수익률이 아니라 비용·규모·환율 노출·연금계좌 활용 가능성입니다. 특히 KODEX 미국S&P500은 과거 KODEX 미국S&P500TR로 검색되는 경우가 있어 명칭 변경 이력도 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, K-ETF, 운용사 공식 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 분배 정책, 위험등급은 이후 변경될 수 있으므로 실제 매수 전에는 운용사..",
+  "modified_time": "2026-06-06T02:11:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 국내상장 S&P500 ETF는 모두 미국 대표 대형주 지수에 투자하지만, 총보수, 순자산 규모, 환헤지 여부, 분배 정책에서 차이가 있습니다. TIGER 미국S&P500, KODEX 미국S&P500, ACE 미국S&P500은 모두 장기 투자 후보로 비교할 수 있지만, 선택 기준은 단순 수익률이 아니라 비용·규모·환율 노출·연금계좌 활용 가능성입니다. 특히 KODEX 미국S&P500은 과거 KODEX 미국S&P500TR로 검색되는 경우가 있어 명칭 변경 이력도 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, K-ETF, 운용사 공식 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 분배 정책, 위험등급은 이후 변경될 수 있으므로 실제 매수 전에는 운용사..",
+  "og_title": "국내상장 S&P500 ETF 비교: TIGER, KODEX, ACE 중 무엇을 봐야 할까?",
+  "post_id": "250",
+  "published_time": "2026-06-06T02:10:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "국내상장 S&P500 ETF 비교: TIGER, KODEX, ACE 중 무엇을 봐야 할까?",
+  "url": "https://mystock-note.tistory.com/250"
+}

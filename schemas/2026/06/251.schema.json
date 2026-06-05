@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-06T03:13:00+09:00",
+    "datePublished": "2026-06-06T03:12:30+09:00",
+    "description": "핵심 요약: 미국배당다우존스 ETF는 미국의 우량 배당주 100개에 투자하는 배당성장형 ETF입니다. TIGER, SOL, KODEX, ACE 상품은 모두 비슷한 지수를 활용하지만, 총보수, 순자산, 분배 기준일, 환헤지 여부, 연금계좌 활용 방식에서 차이가 있습니다. 단순히 월배당이라는 이유만으로 고르지 말고, 분배금이 지속 가능한지, 기준가격이 유지되는지, 총수익률이 함께 따라오는지를 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 신한자산운용, 운용사 공식 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 분배금, 분배 기준일, 구성종목은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화면을 다시 확인해야 합니다.미국배당다우..",
+    "headline": "미국배당다우존스 ETF 비교: TIGER, SOL, KODEX, ACE 중 무엇을 봐야 할까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/251",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/251"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-06",
+    "datePublished": "2026-06-06",
+    "description": "국내상장 미국배당다우존스 ETF를 TIGER, SOL, KODEX, ACE 중심으로 비교합니다. 총보수, 순자산, 분배 기준일, 환노출, 연금저축과 IRP 활용 기준을 함께 정리했습니다.",
+    "headline": "미국배당다우존스 ETF 비교: TIGER, SOL, KODEX, ACE 중 무엇을 봐야 할까?",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/251",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/251"
+  }
+]
