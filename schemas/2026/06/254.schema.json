@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-07T03:21:00+09:00",
+    "datePublished": "2026-06-07T03:20:28+09:00",
+    "description": "핵심 요약: VBIL은 Vanguard 0-3 Month Treasury Bill ETF의 티커입니다. 0~3개월 만기 미국 Treasury Bill에 투자하는 초단기 미국 국채 ETF로, 주식형 ETF보다 가격 변동성은 낮지만 원화 투자자에게는 환율과 세금 영향이 남아 있습니다. BIL과 비교할 때는 보수율, SEC yield, 운용 규모, 거래량, 분배 주기, 국내 투자자의 세후 수익률을 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 Vanguard, State Street, 공식 상품 페이지를 참고했습니다. VBIL과 BIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ET..",
+    "headline": "VBIL ETF란? BIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/254",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/254"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-07",
+    "datePublished": "2026-06-07",
+    "description": "VBIL ETF는 0~3개월 미국 Treasury Bill에 투자하는 Vanguard 초단기 국채 ETF입니다. BIL ETF와 비교해 보수, 만기, SEC yield, 월분배, 환율, 세금, 국내 투자자가 확인할 점을 정리했습니다.",
+    "headline": "VBIL ETF란? BIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/254",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/254"
+  }
+]

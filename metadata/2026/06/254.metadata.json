@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-06",
+  "body_html_length": 3588,
+  "canonical_url": "https://mystock-note.tistory.com/254",
+  "content_hash": "6bc2a211b27793bef348c930d714ad7c85364dd7fe9446a621edf55a732b9a44",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: VBIL은 Vanguard 0-3 Month Treasury Bill ETF의 티커입니다. 0~3개월 만기 미국 Treasury Bill에 투자하는 초단기 미국 국채 ETF로, 주식형 ETF보다 가격 변동성은 낮지만 원화 투자자에게는 환율과 세금 영향이 남아 있습니다. BIL과 비교할 때는 보수율, SEC yield, 운용 규모, 거래량, 분배 주기, 국내 투자자의 세후 수익률을 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 Vanguard, State Street, 공식 상품 페이지를 참고했습니다. VBIL과 BIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ET..",
+  "modified_time": "2026-06-07T03:21:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: VBIL은 Vanguard 0-3 Month Treasury Bill ETF의 티커입니다. 0~3개월 만기 미국 Treasury Bill에 투자하는 초단기 미국 국채 ETF로, 주식형 ETF보다 가격 변동성은 낮지만 원화 투자자에게는 환율과 세금 영향이 남아 있습니다. BIL과 비교할 때는 보수율, SEC yield, 운용 규모, 거래량, 분배 주기, 국내 투자자의 세후 수익률을 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 Vanguard, State Street, 공식 상품 페이지를 참고했습니다. VBIL과 BIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ET..",
+  "og_title": "VBIL ETF란? BIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+  "post_id": "254",
+  "published_time": "2026-06-07T03:20:28+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VBIL ETF란? BIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+  "url": "https://mystock-note.tistory.com/254"
+}

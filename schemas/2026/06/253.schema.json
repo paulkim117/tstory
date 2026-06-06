@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-07T02:19:00+09:00",
+    "datePublished": "2026-06-07T02:18:43+09:00",
+    "description": "핵심 요약: CHPY는 YieldMax Semiconductor Portfolio Option Income ETF의 티커입니다. 반도체 기업 포트폴리오에 옵션 매도 전략을 결합해 주간 분배금을 추구하는 미국 상장 ETF입니다. 다만 CHPY의 분배금은 고정 수익이 아니며, 최근 분배금에는 ROC, 즉 투자원금 반환 성격으로 추정되는 금액이 포함될 수 있으므로 분배금만 보고 판단하면 안 됩니다.이 글의 상품 정보는 2026년 5월 22일 및 2026년 5월 27일 기준 YieldMax 공식 상품 페이지를 참고했습니다. CHPY는 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수할 수 있는 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 환율, 세금, 거래 수수료, 분배금 과세를 별도..",
+    "headline": "CHPY ETF란? YieldMax 반도체 옵션 인컴 ETF 배당과 ROC를 볼 때 주의할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/253",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/253"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-07",
+    "datePublished": "2026-06-07",
+    "description": "CHPY ETF는 반도체 기업 포트폴리오에 옵션 인컴 전략을 결합한 YieldMax ETF입니다. 주간 분배금, ROC, 총보수, 보유종목, SOXY와 일반 반도체 ETF와의 차이를 정리했습니다.",
+    "headline": "CHPY ETF란? YieldMax 반도체 옵션 인컴 ETF 배당과 ROC를 볼 때 주의할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/253",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/253"
+  }
+]
