@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-08T02:25:00+09:00",
+    "datePublished": "2026-06-08T02:24:27+09:00",
+    "description": "핵심 요약: SGOV는 iShares 0-3 Month Treasury Bond ETF의 티커입니다. 0~3개월 미국 국채에 투자하는 초단기 국채 ETF로, 달러 현금성 자산 대안으로 자주 비교됩니다. BIL, VBIL과 비교할 때는 보수율, SEC yield, 월분배, 운용 규모, 거래량, 환율, 세금까지 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 iShares, State Street, Vanguard 공식 상품 정보를 참고했습니다. SGOV, BIL, VBIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ETF 분배금 과세, 양도소득세, 환율 변동을 별도로 확인해야 합니..",
+    "headline": "SGOV ETF란? BIL·VBIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/256",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/256"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-08",
+    "datePublished": "2026-06-08",
+    "description": "SGOV ETF는 0~3개월 미국 국채에 투자하는 iShares 초단기 국채 ETF입니다. BIL, VBIL과 비교해 보수율, SEC yield, 월분배, 만기, 환율, 세금, 국내 투자자가 확인할 점을 정리했습니다.",
+    "headline": "SGOV ETF란? BIL·VBIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/256",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/256"
+  }
+]

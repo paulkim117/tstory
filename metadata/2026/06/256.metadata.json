@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-07",
+  "body_html_length": 5319,
+  "canonical_url": "https://mystock-note.tistory.com/256",
+  "content_hash": "3267c52ae8e1ce282e7db5b24c069d88d2cc5f18abf7d84a85d3f23307f7eef7",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: SGOV는 iShares 0-3 Month Treasury Bond ETF의 티커입니다. 0~3개월 미국 국채에 투자하는 초단기 국채 ETF로, 달러 현금성 자산 대안으로 자주 비교됩니다. BIL, VBIL과 비교할 때는 보수율, SEC yield, 월분배, 운용 규모, 거래량, 환율, 세금까지 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 iShares, State Street, Vanguard 공식 상품 정보를 참고했습니다. SGOV, BIL, VBIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ETF 분배금 과세, 양도소득세, 환율 변동을 별도로 확인해야 합니..",
+  "modified_time": "2026-06-08T02:25:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: SGOV는 iShares 0-3 Month Treasury Bond ETF의 티커입니다. 0~3개월 미국 국채에 투자하는 초단기 국채 ETF로, 달러 현금성 자산 대안으로 자주 비교됩니다. BIL, VBIL과 비교할 때는 보수율, SEC yield, 월분배, 운용 규모, 거래량, 환율, 세금까지 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 iShares, State Street, Vanguard 공식 상품 정보를 참고했습니다. SGOV, BIL, VBIL은 모두 미국 상장 ETF이며, 국내 연금저축이나 IRP에서 직접 매수 가능한 국내상장 ETF가 아닙니다. 국내 투자자는 해외주식 계좌, 달러 환전, 미국 ETF 분배금 과세, 양도소득세, 환율 변동을 별도로 확인해야 합니..",
+  "og_title": "SGOV ETF란? BIL·VBIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+  "post_id": "256",
+  "published_time": "2026-06-08T02:24:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SGOV ETF란? BIL·VBIL과 비교할 때 미국 초단기 국채 ETF에서 확인할 점",
+  "url": "https://mystock-note.tistory.com/256"
+}
