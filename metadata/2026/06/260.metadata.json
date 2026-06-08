@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-08",
+  "body_html_length": 3144,
+  "canonical_url": "https://mystock-note.tistory.com/260",
+  "content_hash": "642e688c20bd862a54e45579f0c21313e361786d5cdbce5ba807f348292efc76",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: KODEX 반도체 ETF는 KRX 반도체 지수를 추종하는 국내 반도체 업종 ETF입니다. TIGER 반도체TOP10이 국내 반도체 대표 10종목 집중형이라면, KODEX 반도체는 KRX 반도체 업종 전반에 투자하는 구조로 볼 수 있습니다. 선택 전에는 총보수 0.45%, 합성총보수, 구성종목, 삼성전자·SK하이닉스 비중, TIGER 반도체TOP10과의 차이, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 K-ETF, 삼성자산운용 KODEX, FunETF 자료를 참고했습니다. ETF의 총보수, 합성총보수, 구성종목, 순자산, 위험등급, 분배금 기준일은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화면을 다시..",
+  "modified_time": "2026-06-09T03:34:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: KODEX 반도체 ETF는 KRX 반도체 지수를 추종하는 국내 반도체 업종 ETF입니다. TIGER 반도체TOP10이 국내 반도체 대표 10종목 집중형이라면, KODEX 반도체는 KRX 반도체 업종 전반에 투자하는 구조로 볼 수 있습니다. 선택 전에는 총보수 0.45%, 합성총보수, 구성종목, 삼성전자·SK하이닉스 비중, TIGER 반도체TOP10과의 차이, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 K-ETF, 삼성자산운용 KODEX, FunETF 자료를 참고했습니다. ETF의 총보수, 합성총보수, 구성종목, 순자산, 위험등급, 분배금 기준일은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화면을 다시..",
+  "og_title": "KODEX 반도체 ETF란? TIGER 반도체TOP10·미국 반도체 ETF와 비교할 점",
+  "post_id": "260",
+  "published_time": "2026-06-09T03:33:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "KODEX 반도체 ETF란? TIGER 반도체TOP10·미국 반도체 ETF와 비교할 점",
+  "url": "https://mystock-note.tistory.com/260"
+}

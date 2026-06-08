@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-09T02:31:00+09:00",
+    "datePublished": "2026-06-09T02:30:52+09:00",
+    "description": "핵심 요약: TIGER 반도체TOP10 ETF는 국내 반도체 대표 종목 10개에 집중 투자하는 ETF입니다. 삼성전자, SK하이닉스처럼 국내 반도체 대형주 비중이 커질 수 있어 한국 반도체 업황에 직접적으로 영향을 받습니다. TIGER 미국필라델피아반도체나스닥이 미국 반도체 기업 중심이라면, TIGER 반도체TOP10은 국내 반도체 대표주 집중형 ETF로 구분해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 미래에셋 TIGER ETF 공식 상품 정보, 한국거래소 및 언론 보도 자료를 참고했습니다. ETF의 총보수, 순자산, 구성종목, 위험등급, 분배금 기준일은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화면을 다시 확인해야 합니다.TI..",
+    "headline": "TIGER 반도체TOP10 ETF란? 삼성전자·SK하이닉스 집중형 반도체 ETF에서 확인할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/259",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/259"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-09",
+    "datePublished": "2026-06-09",
+    "description": "TIGER 반도체TOP10 ETF는 국내 반도체 대표 종목에 집중 투자하는 ETF입니다. 총보수, 순자산, 구성종목, TIGER 미국필라델피아반도체나스닥·SOL AI반도체TOP2플러스와의 차이, 연금저축·IRP 활용 기준을 정리했습니다.",
+    "headline": "TIGER 반도체TOP10 ETF란? 삼성전자·SK하이닉스 집중형 반도체 ETF에서 확인할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/259",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/259"
+  }
+]
