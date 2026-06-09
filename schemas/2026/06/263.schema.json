@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-10T03:53:00+09:00",
+    "datePublished": "2026-06-10T03:52:41+09:00",
+    "description": "핵심 요약: 연금저축에서 반도체 ETF는 코어 자산보다 위성 자산으로 보는 것이 적절합니다. S&P500 ETF나 나스닥100 ETF를 이미 보유하고 있다면 반도체 ETF를 추가할 때 기술주와 AI 테마 노출이 중복될 수 있습니다. 따라서 반도체 ETF 비중은 최근 수익률이 아니라 기초지수, 구성종목, 삼성전자·SK하이닉스 비중, 엔비디아·브로드컴 비중, 환노출, IRP 위험자산 분류 여부를 함께 확인해 정해야 합니다.이 글의 상품 정보는 2026년 5월 기준 KODEX, SOL, TIGER ETF 공식 상품 정보와 FnGuide 지수 설명을 참고했습니다. ETF의 구성종목, 총보수, 순자산, 위험등급, 분배 정책은 이후 변경될 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 증권사 연금계좌 화..",
+    "headline": "연금저축 반도체 ETF 비중은 어떻게 정할까? 나스닥100·S&P500과 함께 볼 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/263",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/263"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-10",
+    "datePublished": "2026-06-10",
+    "description": "연금저축에서 반도체 ETF를 담을 때는 최근 수익률보다 비중 관리가 중요합니다. S&P500, 나스닥100, 국내 AI 반도체 ETF, 미국 반도체 ETF를 함께 보유할 때 중복 노출과 위험자산 성격을 정리했습니다.",
+    "headline": "연금저축 반도체 ETF 비중은 어떻게 정할까? 나스닥100·S&P500과 함께 볼 기준",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/263",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/263"
+  }
+]
