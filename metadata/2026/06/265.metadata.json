@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-10",
+  "body_html_length": 5332,
+  "canonical_url": "https://mystock-note.tistory.com/265",
+  "content_hash": "2b6779562023861f0fc6292a6e85080ac33779de682a76629b8af9b95d25fbaf",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 나스닥100 ETF를 고를 때는 패시브 ETF, 액티브 ETF, 커버드콜 ETF를 구분해야 합니다. 패시브 나스닥100 ETF는 지수를 그대로 따라가는 구조이고, 액티브 ETF는 운용사가 유망 종목을 선별해 초과성과를 추구합니다. 커버드콜 ETF는 나스닥100 또는 미국 성장주에 투자하면서 옵션 매도 전략으로 월분배금을 추구하지만, 상승장에서는 수익 참여가 제한될 수 있습니다.이 글의 상품 정보는 2026년 5월 기준 삼성액티브자산운용, TIMEFOLIO, 삼성자산운용 KODEX, FunETF 상품 정보를 참고했습니다. 액티브 ETF와 커버드콜 ETF는 구성종목, 옵션 전략, 분배금, 총보수, 위험등급이 바뀔 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 구성종목 PDF를 다시 확..",
+  "modified_time": "2026-06-11T02:02:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 나스닥100 ETF를 고를 때는 패시브 ETF, 액티브 ETF, 커버드콜 ETF를 구분해야 합니다. 패시브 나스닥100 ETF는 지수를 그대로 따라가는 구조이고, 액티브 ETF는 운용사가 유망 종목을 선별해 초과성과를 추구합니다. 커버드콜 ETF는 나스닥100 또는 미국 성장주에 투자하면서 옵션 매도 전략으로 월분배금을 추구하지만, 상승장에서는 수익 참여가 제한될 수 있습니다.이 글의 상품 정보는 2026년 5월 기준 삼성액티브자산운용, TIMEFOLIO, 삼성자산운용 KODEX, FunETF 상품 정보를 참고했습니다. 액티브 ETF와 커버드콜 ETF는 구성종목, 옵션 전략, 분배금, 총보수, 위험등급이 바뀔 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 구성종목 PDF를 다시 확..",
+  "og_title": "나스닥100 액티브 ETF와 커버드콜 ETF 차이: KOACT·TIME·KODEX를 어떻게 볼까?",
+  "post_id": "265",
+  "published_time": "2026-06-11T02:01:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "나스닥100 액티브 ETF와 커버드콜 ETF 차이: KOACT·TIME·KODEX를 어떻게 볼까?",
+  "url": "https://mystock-note.tistory.com/265"
+}

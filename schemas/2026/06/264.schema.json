@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-11T01:55:00+09:00",
+    "datePublished": "2026-06-11T01:54:25+09:00",
+    "description": "핵심 요약: 연금저축 ETF 포트폴리오는 상품을 많이 담는 것이 아니라 역할을 나누는 것이 중요합니다. S&P500 ETF는 미국 대표지수 코어, 나스닥100 ETF는 성장 보완, 미국배당다우존스 ETF는 배당성장 자산, 반도체 ETF는 테마형 위성 자산으로 구분할 수 있습니다. 같은 성장형 ETF를 여러 개 담으면 분산처럼 보이지만 실제로는 기술주와 반도체 노출이 과도해질 수 있으므로, 기초지수와 구성종목 중복을 먼저 확인해야 합니다.이 글은 2026년 5월 기준 S&P Dow Jones Indices, Nasdaq, Dow Jones U.S. Dividend 100 Index, 국내 ETF 운용사와 FunETF 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 구성종목, 위험등급, 분배 정책은 이..",
+    "headline": "연금저축 ETF 포트폴리오 구성: S&P500·나스닥100·배당·반도체 ETF 역할 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/264",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/264"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-11",
+    "datePublished": "2026-06-11",
+    "description": "연금저축에서 S&P500, 나스닥100, 미국배당다우존스, 반도체 ETF를 함께 볼 때 각각 어떤 역할을 하는지 정리합니다. 코어 자산, 성장 자산, 배당 자산, 테마 자산의 차이와 비중 관리 기준을 설명합니다.",
+    "headline": "연금저축 ETF 포트폴리오 구성: S&P500·나스닥100·배당·반도체 ETF 역할 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/264",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/264"
+  }
+]

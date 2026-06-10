@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-10",
+  "body_html_length": 5488,
+  "canonical_url": "https://mystock-note.tistory.com/264",
+  "content_hash": "eaba0c970034586bb37de9e677acb3872cb2ba18cc932dd5a039eaec2cc19772",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 연금저축 ETF 포트폴리오는 상품을 많이 담는 것이 아니라 역할을 나누는 것이 중요합니다. S&P500 ETF는 미국 대표지수 코어, 나스닥100 ETF는 성장 보완, 미국배당다우존스 ETF는 배당성장 자산, 반도체 ETF는 테마형 위성 자산으로 구분할 수 있습니다. 같은 성장형 ETF를 여러 개 담으면 분산처럼 보이지만 실제로는 기술주와 반도체 노출이 과도해질 수 있으므로, 기초지수와 구성종목 중복을 먼저 확인해야 합니다.이 글은 2026년 5월 기준 S&P Dow Jones Indices, Nasdaq, Dow Jones U.S. Dividend 100 Index, 국내 ETF 운용사와 FunETF 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 구성종목, 위험등급, 분배 정책은 이..",
+  "modified_time": "2026-06-11T01:55:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 연금저축 ETF 포트폴리오는 상품을 많이 담는 것이 아니라 역할을 나누는 것이 중요합니다. S&P500 ETF는 미국 대표지수 코어, 나스닥100 ETF는 성장 보완, 미국배당다우존스 ETF는 배당성장 자산, 반도체 ETF는 테마형 위성 자산으로 구분할 수 있습니다. 같은 성장형 ETF를 여러 개 담으면 분산처럼 보이지만 실제로는 기술주와 반도체 노출이 과도해질 수 있으므로, 기초지수와 구성종목 중복을 먼저 확인해야 합니다.이 글은 2026년 5월 기준 S&P Dow Jones Indices, Nasdaq, Dow Jones U.S. Dividend 100 Index, 국내 ETF 운용사와 FunETF 상품 정보를 참고했습니다. ETF의 총보수, 순자산, 구성종목, 위험등급, 분배 정책은 이..",
+  "og_title": "연금저축 ETF 포트폴리오 구성: S&P500·나스닥100·배당·반도체 ETF 역할 비교",
+  "post_id": "264",
+  "published_time": "2026-06-11T01:54:25+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금저축 ETF 포트폴리오 구성: S&P500·나스닥100·배당·반도체 ETF 역할 비교",
+  "url": "https://mystock-note.tistory.com/264"
+}

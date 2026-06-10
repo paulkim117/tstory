@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-11T03:04:00+09:00",
+    "datePublished": "2026-06-11T03:03:46+09:00",
+    "description": "핵심 요약: KoAct 미국나스닥성장기업액티브 ETF는 나스닥에 상장된 성장기업을 리서치로 선별해 나스닥 종합주가지수 대비 초과성과를 추구하는 액티브 ETF입니다. 일반 나스닥100 ETF처럼 지수를 그대로 따라가는 상품이 아니라, 운용사가 기술 트렌드와 기업 경쟁력 변화를 반영해 구성종목을 조정할 수 있습니다. 따라서 이 ETF를 볼 때는 최근 수익률뿐 아니라 총보수, 합성총보수, 구성종목 변화, 기존 나스닥100 ETF와의 중복, 편입 종목의 실적 흐름을 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 삼성액티브자산운용, FunETF, KoAct 공식 인사이트 자료를 참고했습니다. 액티브 ETF는 구성종목과 비중이 시장 상황에 따라 달라질 수 있으므로 실제 매수 전에는 운용사 공식 상..",
+    "headline": "KoAct 미국나스닥성장기업액티브 ETF란? 나스닥100 ETF와 다른 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/266",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/266"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-11",
+    "datePublished": "2026-06-11",
+    "description": "KoAct 미국나스닥성장기업액티브 ETF는 나스닥 성장기업을 선별해 초과성과를 추구하는 액티브 ETF입니다. 총보수, 합성총보수, 구성종목 변화, 나스닥100 ETF와의 차이, 후속 미국 종목 분석 포인트를 정리했습니다.",
+    "headline": "KoAct 미국나스닥성장기업액티브 ETF란? 나스닥100 ETF와 다른 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/266",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/266"
+  }
+]

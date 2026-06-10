@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-11T02:02:00+09:00",
+    "datePublished": "2026-06-11T02:01:05+09:00",
+    "description": "핵심 요약: 나스닥100 ETF를 고를 때는 패시브 ETF, 액티브 ETF, 커버드콜 ETF를 구분해야 합니다. 패시브 나스닥100 ETF는 지수를 그대로 따라가는 구조이고, 액티브 ETF는 운용사가 유망 종목을 선별해 초과성과를 추구합니다. 커버드콜 ETF는 나스닥100 또는 미국 성장주에 투자하면서 옵션 매도 전략으로 월분배금을 추구하지만, 상승장에서는 수익 참여가 제한될 수 있습니다.이 글의 상품 정보는 2026년 5월 기준 삼성액티브자산운용, TIMEFOLIO, 삼성자산운용 KODEX, FunETF 상품 정보를 참고했습니다. 액티브 ETF와 커버드콜 ETF는 구성종목, 옵션 전략, 분배금, 총보수, 위험등급이 바뀔 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 구성종목 PDF를 다시 확..",
+    "headline": "나스닥100 액티브 ETF와 커버드콜 ETF 차이: KOACT·TIME·KODEX를 어떻게 볼까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/265",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/265"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-11",
+    "datePublished": "2026-06-11",
+    "description": "나스닥100 ETF를 고를 때 패시브, 액티브, 커버드콜 ETF는 구조가 다릅니다. KoAct 미국나스닥성장기업액티브, TIME 미국나스닥100액티브, KODEX 미국성장커버드콜액티브, KODEX 미국나스닥100데일리커버드콜OTM의 차이를 정리했습니다.",
+    "headline": "나스닥100 액티브 ETF와 커버드콜 ETF 차이: KOACT·TIME·KODEX를 어떻게 볼까?",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/265",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/265"
+  }
+]
