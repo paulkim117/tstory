@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-12T02:07:00+09:00",
+    "datePublished": "2026-06-12T02:06:43+09:00",
+    "description": "핵심 요약: KODEX 미국성장커버드콜액티브 ETF는 미국 테크 성장주 투자와 커버드콜 전략을 결합한 국내상장 해외주식형 ETF입니다. NASDAQ 100을 비교지수로 삼되, 액티브 운용을 통해 비중 변경과 일부 지수 외 종목 편입이 가능한 구조입니다. 월분배를 추구하지만 분배금만 보고 선택하면 안 되며, 나스닥100 상승 참여 정도, 옵션 매도 전략, NAV 흐름, 총수익률, 총보수 0.49%를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 삼성자산운용 KODEX, FunETF, K-ETF 상품 정보를 참고했습니다. 커버드콜 ETF는 구성종목, 옵션 전략, 분배금, 총보수, 순자산, 위험등급이 바뀔 수 있으므로 실제 매수 전에는 운용사 공식 상품 페이지와 구성종목 PDF를 다시 확인해..",
+    "headline": "KODEX 미국성장커버드콜액티브 ETF란? 월배당과 성장주 투자를 함께 볼 때 주의할 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/268",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/268"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-12",
+    "datePublished": "2026-06-12",
+    "description": "KODEX 미국성장커버드콜액티브 ETF는 미국 테크 성장주와 커버드콜 전략을 결합한 월분배형 ETF입니다. 총보수, 순자산, 나스닥100 ETF와의 차이, KODEX 미국나스닥100데일리커버드콜OTM과의 차이, NAV와 분배금 확인 기준을 정리했습니다.",
+    "headline": "KODEX 미국성장커버드콜액티브 ETF란? 월배당과 성장주 투자를 함께 볼 때 주의할 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/268",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/268"
+  }
+]

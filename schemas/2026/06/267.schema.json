@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-12T01:06:00+09:00",
+    "datePublished": "2026-06-12T01:05:03+09:00",
+    "description": "핵심 요약: TIME 미국나스닥100액티브 ETF는 NASDAQ 100을 비교지수로 하면서 액티브 운용을 통해 초과성과를 추구하는 국내상장 해외주식형 ETF입니다. 일반 나스닥100 ETF처럼 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 비중을 조정하고 비교지수 구성종목 외 종목도 선별적으로 편입할 수 있는 구조입니다. 따라서 이 ETF를 볼 때는 단순 수익률보다 총보수 0.80%, 구성종목 변화, 나스닥100 대비 초과성과, KoAct 미국나스닥성장기업액티브와의 차이, 기존 나스닥100 ETF와의 중복 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 TIMEFOLIO자산운용, FunETF, K-ETF 상품 정보를 참고했습니다. 액티브 ETF는 구성종목과 비중이 시장 ..",
+    "headline": "TIME 미국나스닥100액티브 ETF란? 일반 나스닥100 ETF와 다른 점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/267",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/267"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-12",
+    "datePublished": "2026-06-12",
+    "description": "TIME 미국나스닥100액티브 ETF는 NASDAQ 100을 비교지수로 하면서 액티브 운용을 통해 초과성과를 추구하는 ETF입니다. 총보수, 순자산, 구성종목 변화, KoAct ETF와의 차이, 패시브 나스닥100 ETF와의 차이를 정리했습니다.",
+    "headline": "TIME 미국나스닥100액티브 ETF란? 일반 나스닥100 ETF와 다른 점",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/267",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/267"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-11",
+  "body_html_length": 4534,
+  "canonical_url": "https://mystock-note.tistory.com/267",
+  "content_hash": "04810ee985ad85dbffb9cbc743f62a772217244757d2af5e8daf036676af9531",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TIME 미국나스닥100액티브 ETF는 NASDAQ 100을 비교지수로 하면서 액티브 운용을 통해 초과성과를 추구하는 국내상장 해외주식형 ETF입니다. 일반 나스닥100 ETF처럼 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 비중을 조정하고 비교지수 구성종목 외 종목도 선별적으로 편입할 수 있는 구조입니다. 따라서 이 ETF를 볼 때는 단순 수익률보다 총보수 0.80%, 구성종목 변화, 나스닥100 대비 초과성과, KoAct 미국나스닥성장기업액티브와의 차이, 기존 나스닥100 ETF와의 중복 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 TIMEFOLIO자산운용, FunETF, K-ETF 상품 정보를 참고했습니다. 액티브 ETF는 구성종목과 비중이 시장 ..",
+  "modified_time": "2026-06-12T01:06:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TIME 미국나스닥100액티브 ETF는 NASDAQ 100을 비교지수로 하면서 액티브 운용을 통해 초과성과를 추구하는 국내상장 해외주식형 ETF입니다. 일반 나스닥100 ETF처럼 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 비중을 조정하고 비교지수 구성종목 외 종목도 선별적으로 편입할 수 있는 구조입니다. 따라서 이 ETF를 볼 때는 단순 수익률보다 총보수 0.80%, 구성종목 변화, 나스닥100 대비 초과성과, KoAct 미국나스닥성장기업액티브와의 차이, 기존 나스닥100 ETF와의 중복 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 기준 TIMEFOLIO자산운용, FunETF, K-ETF 상품 정보를 참고했습니다. 액티브 ETF는 구성종목과 비중이 시장 ..",
+  "og_title": "TIME 미국나스닥100액티브 ETF란? 일반 나스닥100 ETF와 다른 점",
+  "post_id": "267",
+  "published_time": "2026-06-12T01:05:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TIME 미국나스닥100액티브 ETF란? 일반 나스닥100 ETF와 다른 점",
+  "url": "https://mystock-note.tistory.com/267"
+}
