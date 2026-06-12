@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-13T01:12:24+09:00",
+    "datePublished": "2026-06-13T01:11:03+09:00",
+    "description": "핵심 요약: Alphabet은 Google Search, YouTube, Android, Google Cloud, Gemini, Waymo를 보유한 미국 대형 성장주입니다. 과거에는 광고 기업으로 보는 해석이 강했지만, 현재는 검색 광고, 유튜브, 클라우드, AI 인프라, 자율주행을 함께 봐야 합니다. 다만 AI 투자 확대에 따른 자본지출, 검색 광고 경쟁, 규제 리스크, Other Bets 손실은 반드시 확인해야 합니다.이 글은 2026년 5월 기준 Alphabet 2025년 Form 10-K, 2026년 1분기 실적 발표, Alphabet Investor Relations 자료를 참고했습니다. 주가, 실적, 밸류에이션, 사업 전망은 이후 변경될 수 있으므로 실제 투자 전에는 최신 실적 발표와 공시 자..",
+    "headline": "Alphabet 주식 분석: 구글 검색·유튜브·클라우드·AI를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/270",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/270"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-13",
+    "datePublished": "2026-06-13",
+    "description": "Alphabet은 Google Search, YouTube, Google Cloud, Gemini, Waymo를 보유한 미국 대형 성장주입니다. 광고 매출, 클라우드 성장, AI 투자, 자본지출, 규제 리스크, 나스닥100 ETF와 액티브 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Alphabet 주식 분석: 구글 검색·유튜브·클라우드·AI를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/270",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/270"
+  }
+]

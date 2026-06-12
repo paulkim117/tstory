@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-13T03:17:01+09:00",
+    "datePublished": "2026-06-13T03:16:04+09:00",
+    "description": "핵심 요약: Broadcom은 AI 반도체, AI 네트워크, custom AI accelerator, ASIC, VMware 인프라 소프트웨어를 함께 봐야 하는 미국 대형 기술주입니다. 엔비디아가 범용 GPU 중심의 AI 가속기 기업이라면, Broadcom은 대형 고객사의 맞춤형 AI 칩과 네트워크 인프라, 그리고 VMware 기반 인프라 소프트웨어를 함께 보유한 기업으로 볼 수 있습니다. 다만 투자자는 AI 매출 성장률만 볼 것이 아니라 고객 집중도, design win 리스크, 반도체 사이클, VMware 통합 효과, 부채와 자사주 매입, 밸류에이션 부담을 함께 확인해야 합니다.이 글은 2026년 5월 기준 Broadcom FY2026 1분기 실적 발표, 2025년 Form 10-K, Broadcom..",
+    "headline": "Broadcom 주식 분석: AI 네트워크·ASIC·VMware를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/272",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/272"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-13",
+    "datePublished": "2026-06-13",
+    "description": "Broadcom은 AI 네트워크, custom AI accelerator, ASIC, VMware 인프라 소프트웨어를 함께 봐야 하는 미국 대형 반도체·소프트웨어 기업입니다. AI 매출 성장, 반도체 솔루션, 인프라 소프트웨어, VMware, 배당과 자사주 매입, 나스닥 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Broadcom 주식 분석: AI 네트워크·ASIC·VMware를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/272",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/272"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-13T02:14:00+09:00",
+    "datePublished": "2026-06-13T02:13:34+09:00",
+    "description": "핵심 요약: ARM은 반도체를 직접 대량 생산하는 회사가 아니라, 반도체 설계 IP를 라이선스하고 칩 판매에 따른 로열티를 받는 반도체 설계 플랫폼 기업입니다. 스마트폰, 데이터센터, 자동차, 엣지 AI, 피지컬 AI까지 Arm 아키텍처가 확장되면서 AI 반도체 밸류체인에서 다시 주목받고 있습니다. 다만 투자자는 높은 성장성만 볼 것이 아니라 라이선스 매출 변동성, 로열티 성장률, 고객사 칩 출하량, Armv9 전환, 데이터센터 침투율, 밸류에이션 부담을 함께 확인해야 합니다.이 글은 2026년 5월 기준 Arm Holdings 2025 Form 20-F, 2026 회계연도 4분기 실적 발표, Arm Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 밸류에이션은 이후 변경될..",
+    "headline": "ARM 주식 분석: AI 반도체 설계와 나스닥 액티브 ETF에서 보는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/271",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/271"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-13",
+    "datePublished": "2026-06-13",
+    "description": "ARM은 반도체 설계 IP와 로열티 모델을 기반으로 성장하는 AI 반도체 플랫폼 기업입니다. 라이선스 매출, 로열티 매출, Armv9, 데이터센터 침투율, AGI CPU, 나스닥 액티브 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "ARM 주식 분석: AI 반도체 설계와 나스닥 액티브 ETF에서 보는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/271",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/271"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-12",
+  "body_html_length": 4993,
+  "canonical_url": "https://mystock-note.tistory.com/272",
+  "content_hash": "672b2ae7543a7c87bc997585dadd2baa81ab6e43ae746e9044ab484ed9388daf",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Broadcom은 AI 반도체, AI 네트워크, custom AI accelerator, ASIC, VMware 인프라 소프트웨어를 함께 봐야 하는 미국 대형 기술주입니다. 엔비디아가 범용 GPU 중심의 AI 가속기 기업이라면, Broadcom은 대형 고객사의 맞춤형 AI 칩과 네트워크 인프라, 그리고 VMware 기반 인프라 소프트웨어를 함께 보유한 기업으로 볼 수 있습니다. 다만 투자자는 AI 매출 성장률만 볼 것이 아니라 고객 집중도, design win 리스크, 반도체 사이클, VMware 통합 효과, 부채와 자사주 매입, 밸류에이션 부담을 함께 확인해야 합니다.이 글은 2026년 5월 기준 Broadcom FY2026 1분기 실적 발표, 2025년 Form 10-K, Broadcom..",
+  "modified_time": "2026-06-13T03:17:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Broadcom은 AI 반도체, AI 네트워크, custom AI accelerator, ASIC, VMware 인프라 소프트웨어를 함께 봐야 하는 미국 대형 기술주입니다. 엔비디아가 범용 GPU 중심의 AI 가속기 기업이라면, Broadcom은 대형 고객사의 맞춤형 AI 칩과 네트워크 인프라, 그리고 VMware 기반 인프라 소프트웨어를 함께 보유한 기업으로 볼 수 있습니다. 다만 투자자는 AI 매출 성장률만 볼 것이 아니라 고객 집중도, design win 리스크, 반도체 사이클, VMware 통합 효과, 부채와 자사주 매입, 밸류에이션 부담을 함께 확인해야 합니다.이 글은 2026년 5월 기준 Broadcom FY2026 1분기 실적 발표, 2025년 Form 10-K, Broadcom..",
+  "og_title": "Broadcom 주식 분석: AI 네트워크·ASIC·VMware를 함께 봐야 하는 이유",
+  "post_id": "272",
+  "published_time": "2026-06-13T03:16:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Broadcom 주식 분석: AI 네트워크·ASIC·VMware를 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/272"
+}
