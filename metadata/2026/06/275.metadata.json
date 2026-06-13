@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-13",
+  "body_html_length": 8222,
+  "canonical_url": "https://mystock-note.tistory.com/275",
+  "content_hash": "06b49131ecdc637d7b0fd6a6b6497ccba63aaa9f9a184b911bda0190f39b4005",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Micron은 AI 서버 메모리 수요를 직접적으로 받는 미국 메모리 반도체 기업입니다. NVIDIA, AMD, Broadcom이 AI 연산과 네트워크 인프라에 가깝다면, Micron은 HBM, DDR5, LPDDR, 데이터센터 SSD, NAND를 통해 AI 서버의 메모리 병목과 연결됩니다. FY2026 2분기에는 매출 238.6억 달러, GAAP gross margin 74.4%, 영업현금흐름 119.0억 달러를 기록했고, FY2026 3분기에는 매출 335억 달러 안팎을 가이던스로 제시했습니다. 다만 투자자는 HBM 성장만 볼 것이 아니라 DRAM·NAND 가격 사이클, CAPEX, 공급 과잉 가능성, 고객사 재고, 메모리 업황 변동성을 함께 확인해야 합니다.이 글은 2026년 5월 기준 ..",
+  "modified_time": "2026-06-14T03:25:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Micron은 AI 서버 메모리 수요를 직접적으로 받는 미국 메모리 반도체 기업입니다. NVIDIA, AMD, Broadcom이 AI 연산과 네트워크 인프라에 가깝다면, Micron은 HBM, DDR5, LPDDR, 데이터센터 SSD, NAND를 통해 AI 서버의 메모리 병목과 연결됩니다. FY2026 2분기에는 매출 238.6억 달러, GAAP gross margin 74.4%, 영업현금흐름 119.0억 달러를 기록했고, FY2026 3분기에는 매출 335억 달러 안팎을 가이던스로 제시했습니다. 다만 투자자는 HBM 성장만 볼 것이 아니라 DRAM·NAND 가격 사이클, CAPEX, 공급 과잉 가능성, 고객사 재고, 메모리 업황 변동성을 함께 확인해야 합니다.이 글은 2026년 5월 기준 ..",
+  "og_title": "Micron 주식 분석: HBM·DRAM·AI 서버 메모리를 함께 봐야 하는 이유",
+  "post_id": "275",
+  "published_time": "2026-06-14T03:24:16+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Micron 주식 분석: HBM·DRAM·AI 서버 메모리를 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/275"
+}

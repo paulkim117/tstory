@@ -1,0 +1,178 @@
+<!--
+source: https://mystock-note.tistory.com/274
+backup_date: 2026-06-13
+post_id: 274
+-->
+<p><strong>핵심 요약:</strong> AMD는 더 이상 PC CPU 회사로만 보면 안 됩니다. 현재 AMD의 핵심은 Data Center입니다. EPYC 서버 CPU, AMD Instinct AI GPU, MI350·MI450 로드맵, ROCm 소프트웨어, AI NIC, FPGA, adaptive SoC까지 함께 봐야 합니다. 2026년 1분기 Data Center 매출은 58억 달러로 전년 대비 57% 증가했지만, NVIDIA와의 격차, CUDA 대비 ROCm 생태계, AI GPU 고객 확장, 총마진 개선 여부는 계속 확인해야 합니다.</p>
+
+<p>이 글은 2026년 5월 기준 AMD FY2026 1분기 실적 발표, AMD 2025 Form 10-K, AMD Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 제품 로드맵, 밸류에이션은 이후 변경될 수 있으므로 실제 투자 전에는 최신 실적 발표와 공시 자료를 다시 확인해야 합니다.</p>
+
+<h2>AMD는 어떤 회사일까?</h2>
+<p>AMD는 CPU, GPU, AI accelerator, FPGA, adaptive SoC, embedded processor를 공급하는 반도체 기업입니다. 과거에는 Intel과 경쟁하는 PC·서버 CPU 기업이라는 이미지가 강했지만, 현재는 AI 데이터센터와 고성능 컴퓨팅 시장에서 NVIDIA, Intel, Broadcom, ARM 생태계와 함께 비교되는 기업입니다.</p>
+
+<p>AMD의 보고 부문은 Data Center, Client and Gaming, Embedded로 구분됩니다. 이 중 투자자가 가장 먼저 봐야 할 부문은 Data Center입니다. Data Center에는 EPYC 서버 CPU, AMD Instinct AI GPU, AI accelerator, DPU, AI NIC, FPGA, adaptive SoC 제품이 포함됩니다.</p>
+
+<table>
+  <caption>AMD 사업 구조 요약</caption>
+  <thead>
+    <tr>
+      <th scope="col">사업 부문</th>
+      <th scope="col">주요 내용</th>
+      <th scope="col">투자자가 볼 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Data Center</th>
+      <td>EPYC CPU, Instinct GPU, AI accelerator, DPU, AI NIC, FPGA</td>
+      <td>AI 데이터센터 성장</td>
+    </tr>
+    <tr>
+      <th scope="row">Client and Gaming</th>
+      <td>Ryzen CPU, Radeon GPU, semi-custom console SoC</td>
+      <td>PC 수요와 게임 사이클</td>
+    </tr>
+    <tr>
+      <th scope="row">Embedded</th>
+      <td>Embedded CPU, FPGA, adaptive SoC</td>
+      <td>산업·통신·자동차 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">Software</th>
+      <td>ROCm, AI software stack</td>
+      <td>NVIDIA CUDA와의 격차</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>최근 실적에서 무엇이 중요했을까?</h2>
+<p>AMD의 2026년 1분기 매출은 102.53억 달러로 전년 대비 38% 증가했습니다. GAAP gross margin은 53%, non-GAAP gross margin은 55%였습니다. Non-GAAP diluted EPS는 1.37달러로 공시되었습니다.</p>
+
+<p>가장 중요한 수치는 Data Center 매출입니다. 2026년 1분기 Data Center 매출은 58억 달러로 전년 대비 57% 증가했습니다. AMD는 이 성장이 EPYC 프로세서 수요와 AMD Instinct GPU 출하 확대에 힘입은 것이라고 설명했습니다.</p>
+
+<table>
+  <caption>AMD 2026년 1분기 핵심 실적</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">수치</th>
+      <th scope="col">해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">매출</th>
+      <td>102.53억 달러</td>
+      <td>전년 대비 38% 증가</td>
+    </tr>
+    <tr>
+      <th scope="row">GAAP gross margin</th>
+      <td>53%</td>
+      <td>전년 대비 3%p 상승</td>
+    </tr>
+    <tr>
+      <th scope="row">Non-GAAP gross margin</th>
+      <td>55%</td>
+      <td>제품 믹스 개선 확인</td>
+    </tr>
+    <tr>
+      <th scope="row">GAAP 영업이익</th>
+      <td>14.76억 달러</td>
+      <td>전년 대비 83% 증가</td>
+    </tr>
+    <tr>
+      <th scope="row">Non-GAAP EPS</th>
+      <td>1.37달러</td>
+      <td>전년 대비 43% 증가</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Data Center 매출이 왜 핵심일까?</h2>
+<p>AMD 투자에서 가장 중요한 부문은 Data Center입니다. 2026년 1분기 Data Center 매출은 58억 달러로 전체 매출의 절반 이상을 차지했습니다. 이 부문에는 EPYC 서버 CPU와 AMD Instinct AI GPU가 포함됩니다.</p>
+
+<p>AMD의 Data Center 성장은 두 축으로 봐야 합니다. 첫째, EPYC 서버 CPU입니다. 클라우드, 기업, HPC, AI 워크로드에서 서버 CPU 수요가 계속됩니다. 둘째, AMD Instinct GPU입니다. NVIDIA GPU 중심 시장에서 AMD가 얼마나 AI accelerator 점유율을 확보하는지가 핵심입니다.</p>
+
+<table>
+  <caption>AMD Data Center 부문 확인 기준</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">내용</th>
+      <th scope="col">투자자가 볼 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">EPYC CPU</th>
+      <td>서버용 x86 CPU</td>
+      <td>클라우드·기업 서버 점유율</td>
+    </tr>
+    <tr>
+      <th scope="row">Instinct GPU</th>
+      <td>AI accelerator</td>
+      <td>MI350·MI450 고객 확장</td>
+    </tr>
+    <tr>
+      <th scope="row">AI NIC·DPU</th>
+      <td>AI 데이터센터 네트워크</td>
+      <td>시스템 단위 경쟁력</td>
+    </tr>
+    <tr>
+      <th scope="row">FPGA·Adaptive SoC</th>
+      <td>적응형 컴퓨팅</td>
+      <td>Embedded·Data Center 확장</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>MI350·MI450 로드맵은 왜 중요할까?</h2>
+<p>AMD의 AI GPU 로드맵에서 핵심은 Instinct 제품군입니다. 2025년에는 MI350 Series GPU가 데이터센터 AI 수요와 연결되었고, 2026년에는 MI450 기반 고객 프로젝트가 중요한 변수로 언급되고 있습니다.</p>
+
+<p>AMD는 Meta와 최대 6GW 규모의 AMD Instinct GPU 배포 계획을 발표했고, 첫 1GW는 custom AMD Instinct MI450 기반 GPU로 구동될 예정이라고 설명했습니다. 이는 AMD가 단순 GPU 공급을 넘어 대형 AI 인프라 고객과 장기 로드맵을 구축하고 있다는 신호입니다.</p>
+
+<table>
+  <caption>AMD Instinct 로드맵 확인 기준</caption>
+  <thead>
+    <tr>
+      <th scope="col">제품·계획</th>
+      <th scope="col">의미</th>
+      <th scope="col">확인할 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">MI350 Series</th>
+      <td>현 세대 AI GPU 확대</td>
+      <td>출하량과 고객 채택</td>
+    </tr>
+    <tr>
+      <th scope="row">MI450</th>
+      <td>차세대 custom AI GPU</td>
+      <td>Meta 프로젝트와 양산 일정</td>
+    </tr>
+    <tr>
+      <th scope="row">Helios</th>
+      <td>랙 스케일 AI 인프라 방향</td>
+      <td>시스템 단위 경쟁력</td>
+    </tr>
+    <tr>
+      <th scope="row">ROCm</th>
+      <td>AI 소프트웨어 생태계</td>
+      <td>CUDA 대비 사용성 개선</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>ROCm은 왜 AMD의 핵심 과제일까?</h2>
+<p>AI 반도체 경쟁은 하드웨어 성능만으로 끝나지 않습니다. NVIDIA가 강한 이유는 GPU 성능뿐 아니라 CUDA 생태계가 강하기 때문입니다. 개발자와 기업 고객이 이미 CUDA 기반으로 모델을 개발하고 운영하고 있기 때문에, AMD는 ROCm 소프트웨어 생태계를 개선해야 합니다.</p>
+
+<p>ROCm은 AMD GPU에서 AI와 고성능 컴퓨팅 워크로드를 실행하기 위한 소프트웨어 플랫폼입니다. AMD GPU가 가격 대비 성능을 갖추더라도, 고객이 쉽게 모델을 이전하고 운영할 수 없다면 대규모 채택은 제한될 수 있습니다. 따라서 AMD 투자자는 MI350·MI450 성능뿐 아니라 ROCm 호환성, 프레임워크 지원, 고객 실제 운영 사례를 확인해야 합니다.</p>
+
+<div style="max-width:720px;margin:24px 0;padding:18px;border:1px solid #e5e7eb;border-radius:14px;background:#fafafa;">
+  <h3 style="margin-top:0;">AMD 투자 포인트 우선순위</h3>
+
+  <div style="margin:12px 0;">
+    <p style="margin:0 0 6px 0;"><strong>Data Center 매출</strong> — EPYC CPU와 Instinct GPU 성장 확인</p>
+    <div style="height:12px;background:#e5e7eb;border-radius:999px;">
+      <div style="width:95%;height:12px;background:#2563eb;border-radius:999px;">

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-14T02:21:00+09:00",
+    "datePublished": "2026-06-14T02:20:58+09:00",
+    "description": "핵심 요약: AMD는 더 이상 PC CPU 회사로만 보면 안 됩니다. 현재 AMD의 핵심은 Data Center입니다. EPYC 서버 CPU, AMD Instinct AI GPU, MI350·MI450 로드맵, ROCm 소프트웨어, AI NIC, FPGA, adaptive SoC까지 함께 봐야 합니다. 2026년 1분기 Data Center 매출은 58억 달러로 전년 대비 57% 증가했지만, NVIDIA와의 격차, CUDA 대비 ROCm 생태계, AI GPU 고객 확장, 총마진 개선 여부는 계속 확인해야 합니다.이 글은 2026년 5월 기준 AMD FY2026 1분기 실적 발표, AMD 2025 Form 10-K, AMD Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 제..",
+    "headline": "AMD 주식 분석: MI350·MI450·EPYC·ROCm을 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/274",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/274"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-14",
+    "datePublished": "2026-06-14",
+    "description": "AMD는 EPYC 서버 CPU, Instinct AI GPU, MI350·MI450, ROCm, Ryzen, Embedded 사업을 함께 봐야 하는 미국 반도체 기업입니다. 2026년 1분기 실적, Data Center 매출, NVIDIA와의 차이, AI 가속기 경쟁, 나스닥100 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "AMD 주식 분석: MI350·MI450·EPYC·ROCm을 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/274",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/274"
+  }
+]

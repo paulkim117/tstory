@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-13",
+  "body_html_length": 5781,
+  "canonical_url": "https://mystock-note.tistory.com/274",
+  "content_hash": "9fe298417ae2b11cd23733b8af877a7c37680695311cfe352f05f0fb45a518a5",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: AMD는 더 이상 PC CPU 회사로만 보면 안 됩니다. 현재 AMD의 핵심은 Data Center입니다. EPYC 서버 CPU, AMD Instinct AI GPU, MI350·MI450 로드맵, ROCm 소프트웨어, AI NIC, FPGA, adaptive SoC까지 함께 봐야 합니다. 2026년 1분기 Data Center 매출은 58억 달러로 전년 대비 57% 증가했지만, NVIDIA와의 격차, CUDA 대비 ROCm 생태계, AI GPU 고객 확장, 총마진 개선 여부는 계속 확인해야 합니다.이 글은 2026년 5월 기준 AMD FY2026 1분기 실적 발표, AMD 2025 Form 10-K, AMD Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 제..",
+  "modified_time": "2026-06-14T02:21:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: AMD는 더 이상 PC CPU 회사로만 보면 안 됩니다. 현재 AMD의 핵심은 Data Center입니다. EPYC 서버 CPU, AMD Instinct AI GPU, MI350·MI450 로드맵, ROCm 소프트웨어, AI NIC, FPGA, adaptive SoC까지 함께 봐야 합니다. 2026년 1분기 Data Center 매출은 58억 달러로 전년 대비 57% 증가했지만, NVIDIA와의 격차, CUDA 대비 ROCm 생태계, AI GPU 고객 확장, 총마진 개선 여부는 계속 확인해야 합니다.이 글은 2026년 5월 기준 AMD FY2026 1분기 실적 발표, AMD 2025 Form 10-K, AMD Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 제..",
+  "og_title": "AMD 주식 분석: MI350·MI450·EPYC·ROCm을 함께 봐야 하는 이유",
+  "post_id": "274",
+  "published_time": "2026-06-14T02:20:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AMD 주식 분석: MI350·MI450·EPYC·ROCm을 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/274"
+}

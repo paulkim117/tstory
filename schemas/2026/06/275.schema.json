@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-14T03:25:00+09:00",
+    "datePublished": "2026-06-14T03:24:16+09:00",
+    "description": "핵심 요약: Micron은 AI 서버 메모리 수요를 직접적으로 받는 미국 메모리 반도체 기업입니다. NVIDIA, AMD, Broadcom이 AI 연산과 네트워크 인프라에 가깝다면, Micron은 HBM, DDR5, LPDDR, 데이터센터 SSD, NAND를 통해 AI 서버의 메모리 병목과 연결됩니다. FY2026 2분기에는 매출 238.6억 달러, GAAP gross margin 74.4%, 영업현금흐름 119.0억 달러를 기록했고, FY2026 3분기에는 매출 335억 달러 안팎을 가이던스로 제시했습니다. 다만 투자자는 HBM 성장만 볼 것이 아니라 DRAM·NAND 가격 사이클, CAPEX, 공급 과잉 가능성, 고객사 재고, 메모리 업황 변동성을 함께 확인해야 합니다.이 글은 2026년 5월 기준 ..",
+    "headline": "Micron 주식 분석: HBM·DRAM·AI 서버 메모리를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/275",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/275"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-14",
+    "datePublished": "2026-06-14",
+    "description": "Micron은 HBM, DRAM, NAND, 데이터센터 SSD, AI 서버 메모리를 함께 봐야 하는 미국 메모리 반도체 기업입니다. FY2026 2분기 실적, Cloud Memory, Core Data Center, HBM 수요, 메모리 업황 사이클, 나스닥100 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Micron 주식 분석: HBM·DRAM·AI 서버 메모리를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/275",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/275"
+  }
+]
