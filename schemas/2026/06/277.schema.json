@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-15T02:30:00+09:00",
+    "datePublished": "2026-06-15T02:29:54+09:00",
+    "description": "핵심 요약: Apple은 단순 iPhone 제조사가 아니라 iPhone, Services, Apple Silicon, AI 기능, 앱 생태계, 자사주 매입을 함께 봐야 하는 미국 대형 기술주입니다. FY2026 2분기 Apple 매출은 1,111.84억 달러로 전년 대비 17% 증가했고, iPhone 매출은 569.94억 달러, Services 매출은 309.76억 달러를 기록했습니다. 다만 투자자는 iPhone 판매 호조만 볼 것이 아니라 Services 마진, AI 기능 경쟁력, TSMC 선단 공정 의존, 중국·규제 리스크, 자사주 매입 지속성을 함께 확인해야 합니다.이 글은 2026년 5월 기준 Apple FY2026 2분기 실적 발표, Apple FY2026 2분기 Form 10-Q, Apple ..",
+    "headline": "Apple 주식 분석: iPhone·서비스·AI 반도체·TSMC를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/277",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/277"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-15",
+    "datePublished": "2026-06-15",
+    "description": "Apple은 iPhone, Services, Apple Silicon, AI 기능, TSMC 공급망, 자사주 매입을 함께 봐야 하는 미국 대형 기술주입니다. FY2026 2분기 실적, iPhone 매출, Services 성장, gross margin, WWDC26 AI 업데이트, 나스닥100 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Apple 주식 분석: iPhone·서비스·AI 반도체·TSMC를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/277",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/277"
+  }
+]

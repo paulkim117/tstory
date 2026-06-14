@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-15T03:33:00+09:00",
+    "datePublished": "2026-06-15T03:32:34+09:00",
+    "description": "핵심 요약: Microsoft는 단순 소프트웨어 회사가 아니라 Azure, Microsoft 365, Copilot, GitHub, Dynamics 365, LinkedIn, OpenAI 투자, AI 데이터센터를 함께 봐야 하는 미국 대형 기술주입니다. FY2026 3분기 매출은 828.86억 달러로 전년 대비 18% 증가했고, Microsoft Cloud 매출은 545억 달러로 29% 증가했습니다. Azure and other cloud services 매출은 40% 증가했고, Microsoft 365 Copilot 유료 좌석은 2,000만 개를 넘어섰습니다. 다만 투자자는 Azure 성장률만 볼 것이 아니라 AI 인프라 CapEx, Microsoft Cloud gross margin, OpenAI 투..",
+    "headline": "Microsoft 주식 분석: Azure·Copilot·OpenAI·AI 데이터센터를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/278",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/278"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-15",
+    "datePublished": "2026-06-15",
+    "description": "Microsoft는 Azure, Microsoft 365, Copilot, GitHub, OpenAI 투자, AI 데이터센터를 함께 봐야 하는 미국 대형 기술주입니다. FY2026 3분기 실적, Azure 성장률, Microsoft Cloud 매출, Copilot 유료 좌석, CapEx, 나스닥100 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Microsoft 주식 분석: Azure·Copilot·OpenAI·AI 데이터센터를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/278",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/278"
+  }
+]

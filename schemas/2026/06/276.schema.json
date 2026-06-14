@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-15T01:28:00+09:00",
+    "datePublished": "2026-06-15T01:27:02+09:00",
+    "description": "핵심 요약: TSMC는 AI 반도체 공급망에서 가장 중요한 제조 병목 중 하나입니다. NVIDIA, AMD, Broadcom, Apple 같은 고객사가 칩을 설계하더라도 실제 첨단 공정 생산과 고성능 패키징은 TSMC 의존도가 높을 수 있습니다. 2026년 1분기 기준 TSMC 매출에서 HPC는 61%, 3nm·5nm·7nm를 포함한 7nm 이하 첨단 공정은 전체 웨이퍼 매출의 74%를 차지했습니다. 따라서 TSMC를 볼 때는 단순 파운드리 점유율이 아니라 AI 고객 수요, 3nm·5nm·N2 전환, CoWoS 패키징, CapEx, 지정학 리스크를 함께 확인해야 합니다.이 글은 2026년 5월 기준 TSMC 2026년 1분기 실적 발표, 2026년 4월 월간 매출 공시, TSMC CoWoS 공식 기술 설..",
+    "headline": "TSMC 주식 분석: AI 반도체 파운드리와 CoWoS를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/276",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/276"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-15",
+    "datePublished": "2026-06-15",
+    "description": "TSMC는 NVIDIA, AMD, Broadcom, Apple 등 글로벌 반도체 고객의 첨단 공정과 CoWoS 패키징을 담당하는 세계 최대 파운드리 기업입니다. 2026년 1분기 실적, HPC 매출, 3nm·5nm 공정, CoWoS, CapEx, 지정학 리스크, 나스닥·반도체 ETF 관점에서 확인할 점을 정리했습니다.",
+    "headline": "TSMC 주식 분석: AI 반도체 파운드리와 CoWoS를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/276",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/276"
+  }
+]

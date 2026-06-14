@@ -1,0 +1,307 @@
+<!--
+source: https://mystock-note.tistory.com/276
+backup_date: 2026-06-14
+post_id: 276
+-->
+<p><strong>핵심 요약:</strong> TSMC는 AI 반도체 공급망에서 가장 중요한 제조 병목 중 하나입니다. NVIDIA, AMD, Broadcom, Apple 같은 고객사가 칩을 설계하더라도 실제 첨단 공정 생산과 고성능 패키징은 TSMC 의존도가 높을 수 있습니다. 2026년 1분기 기준 TSMC 매출에서 HPC는 61%, 3nm·5nm·7nm를 포함한 7nm 이하 첨단 공정은 전체 웨이퍼 매출의 74%를 차지했습니다. 따라서 TSMC를 볼 때는 단순 파운드리 점유율이 아니라 AI 고객 수요, 3nm·5nm·N2 전환, CoWoS 패키징, CapEx, 지정학 리스크를 함께 확인해야 합니다.</p>
+
+<p>이 글은 2026년 5월 기준 TSMC 2026년 1분기 실적 발표, 2026년 4월 월간 매출 공시, TSMC CoWoS 공식 기술 설명, TSMC Investor Relations 자료를 참고했습니다. 주가, 실적, 가이던스, 고객사 수요, 첨단 패키징 수급은 이후 변경될 수 있으므로 실제 투자 전에는 최신 실적 발표와 월간 매출 공시를 다시 확인해야 합니다. 2026년 6월 15일 발행 전에는 2026년 5월 월간 매출 공시가 새로 발표됐는지 확인하는 것이 좋습니다.</p>
+
+<h2>TSMC는 어떤 회사일까?</h2>
+<p>TSMC는 세계 최대 순수 파운드리 기업입니다. 파운드리는 팹리스 반도체 기업이 설계한 칩을 대신 생산하는 사업입니다. NVIDIA, AMD, Apple, Broadcom 같은 기업은 칩을 설계하고, TSMC는 첨단 공정과 패키징 기술을 통해 실제 반도체를 제조합니다.</p>
+
+<p>투자 관점에서 TSMC는 단순한 반도체 제조사가 아닙니다. AI 데이터센터, 스마트폰, 고성능 컴퓨팅, 자동차, IoT, 첨단 패키징이 모두 연결된 반도체 인프라 기업입니다. 특히 AI 반도체에서는 3nm·5nm 같은 선단 공정과 CoWoS 같은 첨단 패키징이 함께 중요합니다.</p>
+
+<table>
+  <caption>TSMC 사업 구조 요약</caption>
+  <thead>
+    <tr>
+      <th scope="col">구분</th>
+      <th scope="col">내용</th>
+      <th scope="col">투자자가 볼 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">파운드리</th>
+      <td>고객사가 설계한 반도체 위탁 생산</td>
+      <td>선단 공정 점유율과 수율</td>
+    </tr>
+    <tr>
+      <th scope="row">HPC</th>
+      <td>AI, 데이터센터, 고성능 컴퓨팅</td>
+      <td>NVIDIA·AMD·Broadcom 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">Smartphone</th>
+      <td>모바일 AP와 통신칩 생산</td>
+      <td>Apple·모바일 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">CoWoS</th>
+      <td>AI 칩과 HBM을 통합하는 첨단 패키징</td>
+      <td>AI 반도체 병목 여부</td>
+    </tr>
+    <tr>
+      <th scope="row">N2·N3·N5</th>
+      <td>차세대 및 현세대 첨단 공정</td>
+      <td>기술 전환과 CapEx</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>최근 실적에서 무엇이 중요했을까?</h2>
+<p>TSMC의 2026년 1분기 순매출은 359억 달러였습니다. 원화가 아니라 미국 달러 기준으로 보면 전년 동기 대비 40.6% 증가한 수치입니다. NT달러 기준 순매출은 NT$1조 1,341억이었고, 총마진은 66.2%, 영업이익률은 58.1%, 순이익률은 50.5%였습니다.</p>
+
+<p>이 실적에서 중요한 점은 매출 성장뿐 아니라 마진입니다. 파운드리 기업은 설비투자가 크기 때문에 매출이 늘어도 수율, 가동률, 제품 믹스가 나쁘면 마진이 흔들릴 수 있습니다. TSMC는 2026년 1분기에 높은 가동률, 비용 개선, 우호적 환율 효과로 총마진이 개선됐다고 설명했습니다.</p>
+
+<table>
+  <caption>TSMC 2026년 1분기 핵심 실적</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">수치</th>
+      <th scope="col">해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">순매출</th>
+      <td>359억 달러</td>
+      <td>전년 대비 40.6% 증가</td>
+    </tr>
+    <tr>
+      <th scope="row">NT달러 매출</th>
+      <td>NT$1조 1,341억</td>
+      <td>전년 대비 35.1% 증가</td>
+    </tr>
+    <tr>
+      <th scope="row">총마진</th>
+      <td>66.2%</td>
+      <td>고마진 유지</td>
+    </tr>
+    <tr>
+      <th scope="row">영업이익률</th>
+      <td>58.1%</td>
+      <td>운영 레버리지 확인</td>
+    </tr>
+    <tr>
+      <th scope="row">순이익률</th>
+      <td>50.5%</td>
+      <td>높은 수익성</td>
+    </tr>
+    <tr>
+      <th scope="row">EPS</th>
+      <td>NT$22.08</td>
+      <td>전년 대비 58.3% 증가</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>2026년 4월 월간 매출은 무엇을 보여줄까?</h2>
+<p>TSMC는 매월 매출을 공시합니다. 2026년 4월 연결 매출은 NT$4,107.26억으로 전년 동월 대비 17.5% 증가했습니다. 2026년 1월부터 4월까지 누적 매출은 NT$1조 5,448.29억으로 전년 동기 대비 29.9% 증가했습니다.</p>
+
+<p>월간 매출은 분기 실적보다 빠르게 수요 흐름을 확인할 수 있는 지표입니다. 특히 AI 반도체 수요가 강한지, 스마트폰 비수기 영향이 있는지, 선단 공정 가동률이 유지되는지를 볼 때 참고할 수 있습니다.</p>
+
+<table>
+  <caption>TSMC 2026년 4월 월간 매출</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">수치</th>
+      <th scope="col">해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2026년 4월 매출</th>
+      <td>NT$4,107.26억</td>
+      <td>전월 대비 1.1% 감소</td>
+    </tr>
+    <tr>
+      <th scope="row">전년 동월 대비</th>
+      <td>+17.5%</td>
+      <td>성장 지속</td>
+    </tr>
+    <tr>
+      <th scope="row">2026년 1~4월 누적</th>
+      <td>NT$1조 5,448.29억</td>
+      <td>전년 동기 대비 29.9% 증가</td>
+    </tr>
+    <tr>
+      <th scope="row">확인 포인트</th>
+      <td>5월 월간 매출</td>
+      <td>6월 발행 전 업데이트 필요</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>2분기 가이던스는 어떻게 봐야 할까?</h2>
+<p>TSMC는 2026년 2분기 매출 가이던스를 390억~402억 달러로 제시했습니다. 총마진은 65.5~67.5%, 영업이익률은 56.5~58.5%로 전망했습니다. 이는 1분기 이후에도 높은 매출과 마진을 유지할 것으로 본다는 의미입니다.</p>
+
+<p>또한 TSMC는 2026년 전체 매출이 달러 기준 30% 이상 증가할 것으로 전망했습니다. 투자자는 이 가이던스가 실제로 월간 매출과 분기 실적에서 유지되는지 확인해야 합니다.</p>
+
+<table>
+  <caption>TSMC 2026년 2분기 가이던스</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">가이던스</th>
+      <th scope="col">투자자가 볼 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">매출</th>
+      <td>390억~402억 달러</td>
+      <td>AI·HPC 수요 지속 여부</td>
+    </tr>
+    <tr>
+      <th scope="row">총마진</th>
+      <td>65.5~67.5%</td>
+      <td>고마진 유지 가능성</td>
+    </tr>
+    <tr>
+      <th scope="row">영업이익률</th>
+      <td>56.5~58.5%</td>
+      <td>운영 효율과 비용 관리</td>
+    </tr>
+    <tr>
+      <th scope="row">2026년 매출 전망</th>
+      <td>달러 기준 30% 이상 증가</td>
+      <td>연간 성장 가시성</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>HPC 매출 비중 61%는 왜 중요할까?</h2>
+<p>2026년 1분기 TSMC 매출에서 HPC 비중은 61%였습니다. 스마트폰은 26%였습니다. 과거에는 스마트폰이 TSMC의 핵심 성장 동력이었지만, 현재는 AI와 데이터센터 중심의 HPC가 가장 중요한 플랫폼으로 올라섰습니다.</p>
+
+<p>HPC 비중이 높다는 것은 TSMC가 AI 반도체 수요와 직접 연결되어 있다는 뜻입니다. NVIDIA Blackwell, AMD Instinct, Broadcom custom ASIC, 클라우드 AI 칩, 데이터센터 네트워크 칩이 모두 TSMC의 선단 공정과 패키징 수요로 이어질 수 있습니다.</p>
+
+<table>
+  <caption>TSMC 2026년 1분기 플랫폼별 매출 비중</caption>
+  <thead>
+    <tr>
+      <th scope="col">플랫폼</th>
+      <th scope="col">매출 비중</th>
+      <th scope="col">해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">HPC</th>
+      <td>61%</td>
+      <td>AI·데이터센터 중심 성장</td>
+    </tr>
+    <tr>
+      <th scope="row">Smartphone</th>
+      <td>26%</td>
+      <td>Apple·모바일 AP 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">IoT</th>
+      <td>6%</td>
+      <td>엣지 디바이스 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">Automotive</th>
+      <td>4%</td>
+      <td>차량용 반도체</td>
+    </tr>
+    <tr>
+      <th scope="row">DCE</th>
+      <td>1%</td>
+      <td>디지털 소비자 가전</td>
+    </tr>
+    <tr>
+      <th scope="row">Others</th>
+      <td>2%</td>
+      <td>기타 플랫폼</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>3nm·5nm·7nm 공정 비중은 왜 봐야 할까?</h2>
+<p>2026년 1분기 TSMC의 웨이퍼 매출에서 3nm는 25%, 5nm는 36%, 7nm는 13%를 차지했습니다. 이 세 공정을 합친 7nm 이하 첨단 공정은 전체 웨이퍼 매출의 74%였습니다.</p>
+
+<p>TSMC의 경쟁력은 성숙 공정보다 선단 공정에서 더 강하게 나타납니다. AI 반도체와 고성능 모바일 칩은 높은 전력 효율과 성능이 필요하기 때문에 3nm, 5nm, 향후 N2 같은 첨단 공정 수요와 연결됩니다.</p>
+
+<table>
+  <caption>TSMC 2026년 1분기 공정별 매출 비중</caption>
+  <thead>
+    <tr>
+      <th scope="col">공정</th>
+      <th scope="col">매출 비중</th>
+      <th scope="col">투자 의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">3nm</th>
+      <td>25%</td>
+      <td>최신 선단 공정 확대</td>
+    </tr>
+    <tr>
+      <th scope="row">5nm</th>
+      <td>36%</td>
+      <td>AI·모바일 핵심 공정</td>
+    </tr>
+    <tr>
+      <th scope="row">7nm</th>
+      <td>13%</td>
+      <td>고성능 칩 기반 공정</td>
+    </tr>
+    <tr>
+      <th scope="row">7nm 이하 합산</th>
+      <td>74%</td>
+      <td>첨단 공정 중심 매출 구조</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>CoWoS는 왜 AI 반도체 병목으로 봐야 할까?</h2>
+<p>CoWoS는 Chip on Wafer on Substrate의 약자입니다. TSMC는 CoWoS-S가 AI와 슈퍼컴퓨팅 같은 초고성능 컴퓨팅 애플리케이션을 위한 패키징 기술이라고 설명합니다. 이 기술은 로직 칩렛과 HBM 큐브를 대형 실리콘 인터포저 위에 통합해 고밀도 연결을 제공합니다.</p>
+
+<p>AI 반도체에서는 칩을 만드는 공정만큼 패키징이 중요합니다. NVIDIA GPU, AMD AI accelerator, Broadcom custom ASIC 같은 고성능 칩은 HBM과 함께 패키징되어야 합니다. CoWoS 병목이 발생하면 웨이퍼 생산이 가능해도 완제품 공급이 제한될 수 있습니다.</p>
+
+<table>
+  <caption>CoWoS가 중요한 이유</caption>
+  <thead>
+    <tr>
+      <th scope="col">항목</th>
+      <th scope="col">의미</th>
+      <th scope="col">확인할 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">CoWoS-S</th>
+      <td>실리콘 인터포저 기반 고성능 패키징</td>
+      <td>AI GPU·HPC 수요</td>
+    </tr>
+    <tr>
+      <th scope="row">HBM 통합</th>
+      <td>로직 칩과 HBM을 가까이 연결</td>
+      <td>메모리 대역폭</td>
+    </tr>
+    <tr>
+      <th scope="row">CoWoS-L·R</th>
+      <td>더 큰 인터포저와 다양한 연결 방식</td>
+      <td>대형 AI 칩 확장</td>
+    </tr>
+    <tr>
+      <th scope="row">병목 가능성</th>
+      <td>첨단 패키징 캐파 부족</td>
+      <td>고객사 출하 일정</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="max-width:720px;margin:24px 0;padding:18px;border:1px solid #e5e7eb;border-radius:14px;background:#fafafa;">
+  <h3 style="margin-top:0;">TSMC 투자 포인트 우선순위</h3>
+
+  <div style="margin:12px 0;">
+    <p style="margin:0 0 6px 0;"><strong>HPC 매출</strong> — AI·데이터센터 수요가 TSMC 매출로 연결되는지 확인</p>
+    <div style="height:12px;background:#e5e7eb;border-radius:999px;">
+      <div style="width:95%;height:12px;background:#2563eb;border-radius:999px;">

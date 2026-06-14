@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-14",
+  "body_html_length": 8345,
+  "canonical_url": "https://mystock-note.tistory.com/276",
+  "content_hash": "309afca184332005943bb08670830ea04a10486bbe3b7b18d39e4f6e2fdf9952",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TSMC는 AI 반도체 공급망에서 가장 중요한 제조 병목 중 하나입니다. NVIDIA, AMD, Broadcom, Apple 같은 고객사가 칩을 설계하더라도 실제 첨단 공정 생산과 고성능 패키징은 TSMC 의존도가 높을 수 있습니다. 2026년 1분기 기준 TSMC 매출에서 HPC는 61%, 3nm·5nm·7nm를 포함한 7nm 이하 첨단 공정은 전체 웨이퍼 매출의 74%를 차지했습니다. 따라서 TSMC를 볼 때는 단순 파운드리 점유율이 아니라 AI 고객 수요, 3nm·5nm·N2 전환, CoWoS 패키징, CapEx, 지정학 리스크를 함께 확인해야 합니다.이 글은 2026년 5월 기준 TSMC 2026년 1분기 실적 발표, 2026년 4월 월간 매출 공시, TSMC CoWoS 공식 기술 설..",
+  "modified_time": "2026-06-15T01:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TSMC는 AI 반도체 공급망에서 가장 중요한 제조 병목 중 하나입니다. NVIDIA, AMD, Broadcom, Apple 같은 고객사가 칩을 설계하더라도 실제 첨단 공정 생산과 고성능 패키징은 TSMC 의존도가 높을 수 있습니다. 2026년 1분기 기준 TSMC 매출에서 HPC는 61%, 3nm·5nm·7nm를 포함한 7nm 이하 첨단 공정은 전체 웨이퍼 매출의 74%를 차지했습니다. 따라서 TSMC를 볼 때는 단순 파운드리 점유율이 아니라 AI 고객 수요, 3nm·5nm·N2 전환, CoWoS 패키징, CapEx, 지정학 리스크를 함께 확인해야 합니다.이 글은 2026년 5월 기준 TSMC 2026년 1분기 실적 발표, 2026년 4월 월간 매출 공시, TSMC CoWoS 공식 기술 설..",
+  "og_title": "TSMC 주식 분석: AI 반도체 파운드리와 CoWoS를 함께 봐야 하는 이유",
+  "post_id": "276",
+  "published_time": "2026-06-15T01:27:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TSMC 주식 분석: AI 반도체 파운드리와 CoWoS를 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/276"
+}

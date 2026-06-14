@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-14",
+  "body_html_length": 7856,
+  "canonical_url": "https://mystock-note.tistory.com/278",
+  "content_hash": "09d6b08b16b31995271bd2fe6ee590212cebe8efd8c895bae722a7eb76ec8b21",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Microsoft는 단순 소프트웨어 회사가 아니라 Azure, Microsoft 365, Copilot, GitHub, Dynamics 365, LinkedIn, OpenAI 투자, AI 데이터센터를 함께 봐야 하는 미국 대형 기술주입니다. FY2026 3분기 매출은 828.86억 달러로 전년 대비 18% 증가했고, Microsoft Cloud 매출은 545억 달러로 29% 증가했습니다. Azure and other cloud services 매출은 40% 증가했고, Microsoft 365 Copilot 유료 좌석은 2,000만 개를 넘어섰습니다. 다만 투자자는 Azure 성장률만 볼 것이 아니라 AI 인프라 CapEx, Microsoft Cloud gross margin, OpenAI 투..",
+  "modified_time": "2026-06-15T03:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Microsoft는 단순 소프트웨어 회사가 아니라 Azure, Microsoft 365, Copilot, GitHub, Dynamics 365, LinkedIn, OpenAI 투자, AI 데이터센터를 함께 봐야 하는 미국 대형 기술주입니다. FY2026 3분기 매출은 828.86억 달러로 전년 대비 18% 증가했고, Microsoft Cloud 매출은 545억 달러로 29% 증가했습니다. Azure and other cloud services 매출은 40% 증가했고, Microsoft 365 Copilot 유료 좌석은 2,000만 개를 넘어섰습니다. 다만 투자자는 Azure 성장률만 볼 것이 아니라 AI 인프라 CapEx, Microsoft Cloud gross margin, OpenAI 투..",
+  "og_title": "Microsoft 주식 분석: Azure·Copilot·OpenAI·AI 데이터센터를 함께 봐야 하는 이유",
+  "post_id": "278",
+  "published_time": "2026-06-15T03:32:34+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Microsoft 주식 분석: Azure·Copilot·OpenAI·AI 데이터센터를 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/278"
+}
