@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-16T02:39:00+09:00",
+    "datePublished": "2026-06-16T02:38:10+09:00",
+    "description": "핵심 요약: Meta는 단순 SNS 기업이 아니라 Facebook, Instagram, WhatsApp, Threads, 광고 시스템, AI 추천, AI 광고 도구, Reality Labs, AI 데이터센터를 함께 봐야 하는 미국 대형 기술주입니다. 2026년 1분기 매출은 563.11억 달러로 전년 대비 33% 증가했고, 광고 매출은 550.24억 달러로 전년 대비 33% 증가했습니다. Family of Apps는 여전히 강력한 수익 창출력을 보여주지만, Reality Labs는 40.28억 달러의 영업손실을 기록했습니다. 따라서 Meta를 볼 때는 광고 성장률, 광고 단가, 사용자 수, AI 추천 효과, CapEx 급증, Reality Labs 손실을 함께 확인해야 합니다.이 글은 2026년 5월 기..",
+    "headline": "Meta 주식 분석: 광고·AI 추천·Reality Labs·데이터센터를 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/280",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/280"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-16",
+    "datePublished": "2026-06-16",
+    "description": "Meta는 Facebook, Instagram, WhatsApp, 광고, AI 추천, AI 광고 도구, Reality Labs, 데이터센터 CapEx를 함께 봐야 하는 미국 대형 기술주입니다. 2026년 1분기 실적, 광고 매출, Family of Apps, Reality Labs 손실, AI 인프라 투자, 나스닥100 ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Meta 주식 분석: 광고·AI 추천·Reality Labs·데이터센터를 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/280",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/280"
+  }
+]
