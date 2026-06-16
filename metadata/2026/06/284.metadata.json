@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-16",
+  "body_html_length": 7321,
+  "canonical_url": "https://mystock-note.tistory.com/284",
+  "content_hash": "12728f3f0b10e240eaf6856de6502040ead741633a749f129abb2bbcc320fe41",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Snowflake는 단순 데이터 웨어하우스 기업이 아니라 AI Data Cloud, Cortex AI, Snowflake Intelligence, 데이터 공유, 엔터프라이즈 데이터 거버넌스, 소비 기반 매출 모델을 함께 봐야 하는 데이터 클라우드 기업입니다. FY2026 4분기 매출은 12.8억 달러로 전년 대비 30% 증가했고, 제품 매출은 12.3억 달러로 30% 증가했습니다. RPO는 97.7억 달러로 전년 대비 42% 증가했고, 순매출유지율은 125%였습니다. 다만 투자자는 AI 기대만 볼 것이 아니라 소비 기반 매출 변동성, GAAP 적자, 주식보상비용, 클라우드 비용, Databricks·Microsoft·Google Cloud와의 경쟁, 높은 밸류에이션을 함께 확인해야 합니다.이..",
+  "modified_time": "2026-06-17T03:03:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Snowflake는 단순 데이터 웨어하우스 기업이 아니라 AI Data Cloud, Cortex AI, Snowflake Intelligence, 데이터 공유, 엔터프라이즈 데이터 거버넌스, 소비 기반 매출 모델을 함께 봐야 하는 데이터 클라우드 기업입니다. FY2026 4분기 매출은 12.8억 달러로 전년 대비 30% 증가했고, 제품 매출은 12.3억 달러로 30% 증가했습니다. RPO는 97.7억 달러로 전년 대비 42% 증가했고, 순매출유지율은 125%였습니다. 다만 투자자는 AI 기대만 볼 것이 아니라 소비 기반 매출 변동성, GAAP 적자, 주식보상비용, 클라우드 비용, Databricks·Microsoft·Google Cloud와의 경쟁, 높은 밸류에이션을 함께 확인해야 합니다.이..",
+  "og_title": "Snowflake 주식 분석: 데이터 클라우드·AI 데이터 플랫폼·Cortex AI를 함께 봐야 하는 이유",
+  "post_id": "284",
+  "published_time": "2026-06-17T03:02:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Snowflake 주식 분석: 데이터 클라우드·AI 데이터 플랫폼·Cortex AI를 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/284"
+}

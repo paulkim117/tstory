@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-17T01:01:02+09:00",
+    "datePublished": "2026-06-17T01:00:56+09:00",
+    "description": "핵심 요약: Oracle은 단순 데이터베이스 회사가 아니라 Oracle Cloud Infrastructure, Autonomous Database, Fusion Cloud ERP, NetSuite, AI 데이터센터, 대규모 AI 인프라 계약을 함께 봐야 하는 기업입니다. FY2026 3분기 총매출은 172억 달러로 전년 대비 22% 증가했고, Cloud Infrastructure 매출은 49억 달러로 84% 증가했습니다. RPO는 5,530억 달러로 전년 대비 325% 증가하며 AI 인프라 수요가 크게 반영됐습니다. 다만 투자자는 OCI 성장률만 볼 것이 아니라 CapEx 500억 달러, 대규모 부채·자본 조달, 특정 AI 고객 의존도, 데이터센터 공급능력, 현금흐름 부담을 함께 확인해야 합니다.이 글은..",
+    "headline": "Oracle 주식 분석: 클라우드 인프라·AI 데이터센터·OpenAI 계약을 함께 봐야 하는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/282",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/282"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-17",
+    "datePublished": "2026-06-17",
+    "description": "Oracle은 데이터베이스, OCI, 클라우드 인프라, SaaS, AI 데이터센터, OpenAI Stargate 계약을 함께 봐야 하는 미국 대형 기술주입니다. FY2026 3분기 실적, OCI 성장률, RPO, CapEx, 부채 조달, AI 계약 리스크, ETF 편입 관점에서 확인할 점을 정리했습니다.",
+    "headline": "Oracle 주식 분석: 클라우드 인프라·AI 데이터센터·OpenAI 계약을 함께 봐야 하는 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/282",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/282"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-16",
+  "body_html_length": 7880,
+  "canonical_url": "https://mystock-note.tistory.com/282",
+  "content_hash": "23f61b5da8e78690e8f176077d65297cd196a40f3623419c1f593e990b7e6537",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Oracle은 단순 데이터베이스 회사가 아니라 Oracle Cloud Infrastructure, Autonomous Database, Fusion Cloud ERP, NetSuite, AI 데이터센터, 대규모 AI 인프라 계약을 함께 봐야 하는 기업입니다. FY2026 3분기 총매출은 172억 달러로 전년 대비 22% 증가했고, Cloud Infrastructure 매출은 49억 달러로 84% 증가했습니다. RPO는 5,530억 달러로 전년 대비 325% 증가하며 AI 인프라 수요가 크게 반영됐습니다. 다만 투자자는 OCI 성장률만 볼 것이 아니라 CapEx 500억 달러, 대규모 부채·자본 조달, 특정 AI 고객 의존도, 데이터센터 공급능력, 현금흐름 부담을 함께 확인해야 합니다.이 글은..",
+  "modified_time": "2026-06-17T01:01:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Oracle은 단순 데이터베이스 회사가 아니라 Oracle Cloud Infrastructure, Autonomous Database, Fusion Cloud ERP, NetSuite, AI 데이터센터, 대규모 AI 인프라 계약을 함께 봐야 하는 기업입니다. FY2026 3분기 총매출은 172억 달러로 전년 대비 22% 증가했고, Cloud Infrastructure 매출은 49억 달러로 84% 증가했습니다. RPO는 5,530억 달러로 전년 대비 325% 증가하며 AI 인프라 수요가 크게 반영됐습니다. 다만 투자자는 OCI 성장률만 볼 것이 아니라 CapEx 500억 달러, 대규모 부채·자본 조달, 특정 AI 고객 의존도, 데이터센터 공급능력, 현금흐름 부담을 함께 확인해야 합니다.이 글은..",
+  "og_title": "Oracle 주식 분석: 클라우드 인프라·AI 데이터센터·OpenAI 계약을 함께 봐야 하는 이유",
+  "post_id": "282",
+  "published_time": "2026-06-17T01:00:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Oracle 주식 분석: 클라우드 인프라·AI 데이터센터·OpenAI 계약을 함께 봐야 하는 이유",
+  "url": "https://mystock-note.tistory.com/282"
+}
