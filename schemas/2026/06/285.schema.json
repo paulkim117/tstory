@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-18T01:08:00+09:00",
+    "datePublished": "2026-06-18T01:07:58+09:00",
+    "description": "핵심 요약: 액티브 ETF는 지수를 그대로 따라가는 패시브 ETF와 달리, 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. 일반 펀드처럼 운용역 판단이 들어가지만, ETF처럼 거래소에서 실시간 매매할 수 있다는 점이 특징입니다. 최근 TIME ETF, KoAct ETF처럼 나스닥100, AI, 반도체, 로봇, 코스닥, 배당 전략을 액티브 방식으로 운용하는 상품이 늘고 있습니다. 다만 액티브 ETF는 운용사의 판단이 성과에 직접 영향을 주기 때문에 보수, 비교지수, 구성종목, 회전율, 추적 성과, 상관계수 요건을 함께 확인해야 합니다.이 글은 2026년 5월 기준 한국거래소 공시, 미래에셋 TIGER ETF 액티브 ETF 설명, TIME ETF 공식 상품 목록, 삼성액티브자산운용 KoAct ETF..",
+    "headline": "액티브 ETF란? 패시브 ETF와 무엇이 다르고, 왜 TIME·KoAct ETF가 주목받을까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/285",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/285"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-18",
+    "datePublished": "2026-06-18",
+    "description": "액티브 ETF는 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. 패시브 ETF와의 차이, 상관계수 0.7 요건, TIME ETF와 KoAct ETF가 주목받는 이유, 보수·구성종목·성과 비교 기준, 투자 전 체크리스트를 정리했습니다.",
+    "headline": "액티브 ETF란? 패시브 ETF와 무엇이 다르고, 왜 TIME·KoAct ETF가 주목받을까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/285",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/285"
+  }
+]

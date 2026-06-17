@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-17",
+  "body_html_length": 4798,
+  "canonical_url": "https://mystock-note.tistory.com/285",
+  "content_hash": "686a6d62869c9efa80dff36e161044472cc4e3223dc57c462847a6873698474a",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 액티브 ETF는 지수를 그대로 따라가는 패시브 ETF와 달리, 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. 일반 펀드처럼 운용역 판단이 들어가지만, ETF처럼 거래소에서 실시간 매매할 수 있다는 점이 특징입니다. 최근 TIME ETF, KoAct ETF처럼 나스닥100, AI, 반도체, 로봇, 코스닥, 배당 전략을 액티브 방식으로 운용하는 상품이 늘고 있습니다. 다만 액티브 ETF는 운용사의 판단이 성과에 직접 영향을 주기 때문에 보수, 비교지수, 구성종목, 회전율, 추적 성과, 상관계수 요건을 함께 확인해야 합니다.이 글은 2026년 5월 기준 한국거래소 공시, 미래에셋 TIGER ETF 액티브 ETF 설명, TIME ETF 공식 상품 목록, 삼성액티브자산운용 KoAct ETF..",
+  "modified_time": "2026-06-18T01:08:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 액티브 ETF는 지수를 그대로 따라가는 패시브 ETF와 달리, 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. 일반 펀드처럼 운용역 판단이 들어가지만, ETF처럼 거래소에서 실시간 매매할 수 있다는 점이 특징입니다. 최근 TIME ETF, KoAct ETF처럼 나스닥100, AI, 반도체, 로봇, 코스닥, 배당 전략을 액티브 방식으로 운용하는 상품이 늘고 있습니다. 다만 액티브 ETF는 운용사의 판단이 성과에 직접 영향을 주기 때문에 보수, 비교지수, 구성종목, 회전율, 추적 성과, 상관계수 요건을 함께 확인해야 합니다.이 글은 2026년 5월 기준 한국거래소 공시, 미래에셋 TIGER ETF 액티브 ETF 설명, TIME ETF 공식 상품 목록, 삼성액티브자산운용 KoAct ETF..",
+  "og_title": "액티브 ETF란? 패시브 ETF와 무엇이 다르고, 왜 TIME·KoAct ETF가 주목받을까",
+  "post_id": "285",
+  "published_time": "2026-06-18T01:07:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "액티브 ETF란? 패시브 ETF와 무엇이 다르고, 왜 TIME·KoAct ETF가 주목받을까",
+  "url": "https://mystock-note.tistory.com/285"
+}
