@@ -41,7 +41,7 @@ jobs:
 
       - name: Run Tistory backup
         env:
-          TISTORY_BACKUP_MAX_POSTS: ${{ github.event.inputs.max_posts || '250' }}
+          TISTORY_BACKUP_MAX_POSTS: ${{ github.event.inputs.max_posts || '1250' }}
         run: python scripts/backup_tistory.py
 
       - name: Commit and push changes
