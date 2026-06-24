@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-25T02:34:00+09:00",
+    "datePublished": "2026-06-25T02:33:28+09:00",
+    "description": "핵심 요약: 연금저축 ETF의 세금은 매수할 때보다 인출할 때 더 중요합니다. 연금저축은 연 600만 원까지 세액공제를 받을 수 있고, IRP까지 함께 활용하면 연금계좌 세액공제 한도는 연 900만 원까지 늘어납니다. 공제율은 소득 구간에 따라 지방소득세 포함 13.2% 또는 16.5%로 계산하는 경우가 많습니다. 하지만 세액공제를 받은 돈과 운용수익을 중도해지하거나 연금 외 방식으로 인출하면 기타소득세가 부과될 수 있습니다. 반대로 만 55세 이후 요건을 갖춰 연금으로 수령하면 일반적으로 3.3~5.5%의 낮은 연금소득세율이 적용됩니다. 따라서 연금저축 ETF는 “세액공제 받는 계좌”가 아니라 “세액공제, 과세이연, 연금수령 과세를 함께 관리하는 장기 계좌”로 봐야 합니다.이 글은 2026년 5월 기준..",
+    "headline": "연금저축 ETF 세금 정리: 세액공제·과세이연·연금수령세율을 어떻게 이해할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/309",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/309"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-25",
+    "datePublished": "2026-06-25",
+    "description": "연금저축 ETF는 세액공제, 과세이연, 연금수령세율, 중도해지 과세를 함께 이해해야 합니다. 연금저축 600만 원, IRP 포함 900만 원 한도와 연금수령 시 3.3~5.5% 세율, 1,500만 원 기준을 정리했습니다.",
+    "headline": "연금저축 ETF 세금 정리: 세액공제·과세이연·연금수령세율을 어떻게 이해할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/309",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/309"
+  }
+]
