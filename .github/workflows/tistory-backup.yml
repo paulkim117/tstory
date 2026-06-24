@@ -11,7 +11,7 @@ on:
       max_posts:
         description: "Maximum number of numeric Tistory posts to back up in this run"
         required: false
-        default: "250"
+        default: "1250"
 
 permissions:
   contents: write
