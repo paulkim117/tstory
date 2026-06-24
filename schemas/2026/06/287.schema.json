@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-18T03:16:00+09:00",
+    "datePublished": "2026-06-18T03:15:26+09:00",
+    "description": "핵심 요약: KoAct ETF는 삼성액티브자산운용의 액티브 ETF 브랜드입니다. 단순히 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 산업 변화와 기업 경쟁력을 판단해 종목과 비중을 조정하는 방식이 핵심입니다. 대표 상품으로는 KoAct AI인프라액티브, KoAct 코스닥액티브, KoAct K수출핵심기업TOP30액티브, KoAct 글로벌AI메모리반도체액티브, KoAct 글로벌양자컴퓨팅액티브, KoAct 미국로봇피지컬AI액티브, KoAct 코리아밸류업액티브 등이 있습니다. 다만 KoAct ETF는 테마형 액티브 상품이 많기 때문에 구성종목, 상위 종목 쏠림, 비교지수, 보수, 거래량, 순자산, 연금 계좌 편입 가능 여부를 함께 확인해야 합니다.이 글은 2026년 5월 기준 삼성액티브자산운용 공식..",
+    "headline": "KoAct ETF 총정리: AI인프라·코스닥·K수출·양자컴퓨팅 액티브 ETF를 어떻게 볼까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/287",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/287"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-18",
+    "datePublished": "2026-06-18",
+    "description": "KoAct ETF는 삼성액티브자산운용의 액티브 ETF 브랜드입니다. KoAct AI인프라액티브, 코스닥액티브, K수출핵심기업TOP30액티브, 글로벌AI메모리반도체액티브, 글로벌양자컴퓨팅액티브, 미국로봇피지컬AI액티브의 차이와 투자 전 확인할 점을 정리했습니다.",
+    "headline": "KoAct ETF 총정리: AI인프라·코스닥·K수출·양자컴퓨팅 액티브 ETF를 어떻게 볼까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/287",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/287"
+  }
+]

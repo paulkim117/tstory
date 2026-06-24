@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-24T07:29:00+09:00",
+    "datePublished": "2026-06-24T07:28:08+09:00",
+    "description": "핵심 요약: 연금저축에서 채권형 ETF를 고를 때는 “채권 ETF는 안전하다”는 식으로 보면 안 됩니다. 단기채 ETF, CD·KOFR 금리형 ETF, 미국채 10년 ETF, 미국채 30년 장기채 ETF는 모두 채권형 상품이지만 가격 움직임이 다릅니다. CD·KOFR 금리형 ETF는 현금성 자산에 가깝고, 단기채 ETF는 금리 변동에 상대적으로 덜 민감합니다. 반면 미국채 30년 ETF는 금리 하락기에는 큰 상승을 기대할 수 있지만, 금리 상승기에는 손실폭도 커질 수 있습니다. 따라서 연금저축 채권형 ETF는 수익률보다 만기, 듀레이션, 금리 민감도, 환율, 분배금, 포트폴리오 역할을 먼저 봐야 합니다.이 글은 2026년 5월 기준 KODEX CD금리액티브(합성), KODEX KOFR금리액티브(합성), ..",
+    "headline": "연금저축 채권형 ETF 비교: 단기채·미국채·장기채 ETF를 어떻게 구분할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/307",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/307"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-24",
+    "datePublished": "2026-06-24",
+    "description": "연금저축에서 채권형 ETF를 고를 때는 단기채, CD·KOFR 금리형, 미국채 10년, 미국채 30년 장기채를 구분해야 합니다. 금리 민감도, 환율, 분배금, 듀레이션, 포트폴리오 역할을 정리했습니다.",
+    "headline": "연금저축 채권형 ETF 비교: 단기채·미국채·장기채 ETF를 어떻게 구분할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/307",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/307"
+  }
+]

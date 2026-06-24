@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-24",
+  "body_html_length": 10166,
+  "canonical_url": "https://mystock-note.tistory.com/303",
+  "content_hash": "9241984c62b1dc4e7ce0e1e5ccc5ffb09342a1502f01434558f842788664d603",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 연금저축에서 나스닥100 ETF를 고를 때는 먼저 패시브 ETF와 액티브 ETF를 구분해야 합니다. TIGER 미국나스닥100, KODEX 미국나스닥100, ACE 미국나스닥100은 나스닥100 지수를 추종하는 패시브 ETF입니다. 반면 TIME 미국나스닥100액티브는 NASDAQ 100을 비교지수로 삼되, 운용사가 종목과 비중을 조정해 초과성과를 추구하는 액티브 ETF입니다. 장기 연금계좌에서는 총보수, 순자산, 거래량, 기초지수, 환노출 여부, 분배금, S&P500 ETF와의 중복, 하락장 변동성을 함께 봐야 합니다. 단순하게 나스닥100에 장기 적립하려면 TIGER·KODEX·ACE를 먼저 비교하고, 액티브 운용을 기대한다면 TIME을 별도로 검토하는 방식이 적절합니다.이 글은 2026..",
+  "modified_time": "2026-06-23T06:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 연금저축에서 나스닥100 ETF를 고를 때는 먼저 패시브 ETF와 액티브 ETF를 구분해야 합니다. TIGER 미국나스닥100, KODEX 미국나스닥100, ACE 미국나스닥100은 나스닥100 지수를 추종하는 패시브 ETF입니다. 반면 TIME 미국나스닥100액티브는 NASDAQ 100을 비교지수로 삼되, 운용사가 종목과 비중을 조정해 초과성과를 추구하는 액티브 ETF입니다. 장기 연금계좌에서는 총보수, 순자산, 거래량, 기초지수, 환노출 여부, 분배금, S&P500 ETF와의 중복, 하락장 변동성을 함께 봐야 합니다. 단순하게 나스닥100에 장기 적립하려면 TIGER·KODEX·ACE를 먼저 비교하고, 액티브 운용을 기대한다면 TIME을 별도로 검토하는 방식이 적절합니다.이 글은 2026..",
+  "og_title": "연금저축 나스닥100 ETF 비교: TIGER·KODEX·ACE·TIME 중 무엇을 봐야 할까",
+  "post_id": "303",
+  "published_time": "2026-06-23T06:18:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금저축 나스닥100 ETF 비교: TIGER·KODEX·ACE·TIME 중 무엇을 봐야 할까",
+  "url": "https://mystock-note.tistory.com/303"
+}

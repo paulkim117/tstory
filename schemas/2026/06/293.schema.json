@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-20T03:37:02+09:00",
+    "datePublished": "2026-06-20T03:36:52+09:00",
+    "description": "핵심 요약: 배당형 액티브 ETF와 월배당 ETF는 같은 개념이 아닙니다. 월배당 ETF는 매월 분배금을 지급하는 구조에 초점이 있고, 배당성장 ETF는 시간이 지날수록 배당을 늘릴 가능성이 있는 기업을 선별하는 전략에 가깝습니다. TIME 미국배당다우존스액티브는 매월 중순 월배당을 지급하며 배당이 성장하는 미국 고배당 기업에 투자하는 액티브 ETF입니다. TIME Korea플러스배당액티브는 월배당과 자본이익을 동시에 추구하는 국내 액티브 ETF입니다. KoAct 배당성장액티브는 국내 배당성장 기업을 중심으로 운용되는 액티브 ETF입니다. 투자자는 분배금만 보지 말고 기준가격, NAV, 총수익률, 구성종목, 보수, 주가 상승 가능성, 연금 계좌 편입 가능 여부를 함께 확인해야 합니다.이 글은 2026년 ..",
+    "headline": "배당형 액티브 ETF는 월배당 ETF와 무엇이 다를까: TIME 미국배당다우존스·KoAct 배당성장 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/293",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/293"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-20",
+    "datePublished": "2026-06-20",
+    "description": "배당형 액티브 ETF와 월배당 ETF는 같지 않습니다. TIME 미국배당다우존스액티브, TIME Korea플러스배당액티브, KoAct 배당성장액티브의 차이, 분배금, 총수익률, 구성종목, 보수, 연금 계좌 활용 기준을 정리했습니다.",
+    "headline": "배당형 액티브 ETF는 월배당 ETF와 무엇이 다를까: TIME 미국배당다우존스·KoAct 배당성장 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/293",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/293"
+  }
+]

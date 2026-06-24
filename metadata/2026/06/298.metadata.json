@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-24",
+  "body_html_length": 6035,
+  "canonical_url": "https://mystock-note.tistory.com/298",
+  "content_hash": "fb7e15525e9d55387492f0fd2b1b3b37c7da48b0dda48b54fb42101d250057e6",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TRF ETF는 Target Risk Fund의 약자로, 주식과 채권 비중을 정해진 위험 수준에 맞춰 유지하는 자산배분형 ETF입니다. KODEX TRF3070은 글로벌 선진국 주식 30%, 국내 채권 70% 구조이고, KODEX TRF5050은 글로벌 선진국 주식 50%, 국내 채권 50% 구조입니다. 두 상품 모두 IRP와 퇴직연금에서 활용될 수 있지만, 원금보장 상품은 아닙니다. 주식 비중이 있는 만큼 글로벌 증시 하락에 영향을 받고, 채권도 금리 변화에 따라 가격이 움직입니다. 따라서 TRF ETF는 IRP 안전자산 구간을 예금보다 적극적으로 운용하려는 투자자에게 적합할 수 있지만, 투자 전에는 주식·채권 비중, 보수, 순자산, 거래량, 분배금, 환율, 금리 리스크를 함께 확인해야 합..",
+  "modified_time": "2026-06-22T03:01:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TRF ETF는 Target Risk Fund의 약자로, 주식과 채권 비중을 정해진 위험 수준에 맞춰 유지하는 자산배분형 ETF입니다. KODEX TRF3070은 글로벌 선진국 주식 30%, 국내 채권 70% 구조이고, KODEX TRF5050은 글로벌 선진국 주식 50%, 국내 채권 50% 구조입니다. 두 상품 모두 IRP와 퇴직연금에서 활용될 수 있지만, 원금보장 상품은 아닙니다. 주식 비중이 있는 만큼 글로벌 증시 하락에 영향을 받고, 채권도 금리 변화에 따라 가격이 움직입니다. 따라서 TRF ETF는 IRP 안전자산 구간을 예금보다 적극적으로 운용하려는 투자자에게 적합할 수 있지만, 투자 전에는 주식·채권 비중, 보수, 순자산, 거래량, 분배금, 환율, 금리 리스크를 함께 확인해야 합..",
+  "og_title": "TRF ETF란? KODEX TRF3070·TRF5050은 IRP 안전자산으로 어떻게 활용할까",
+  "post_id": "298",
+  "published_time": "2026-06-22T03:00:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TRF ETF란? KODEX TRF3070·TRF5050은 IRP 안전자산으로 어떻게 활용할까",
+  "url": "https://mystock-note.tistory.com/298"
+}

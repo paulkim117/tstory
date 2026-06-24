@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-23T02:08:00+09:00",
+    "datePublished": "2026-06-23T02:07:59+09:00",
+    "description": "핵심 요약: 연금저축과 IRP는 모두 노후자금 마련과 세액공제를 위해 활용되는 연금계좌입니다. 하지만 두 계좌는 같지 않습니다. 연금저축은 가입 문턱이 낮고 ETF 운용이 상대적으로 자유롭지만, 세액공제 한도는 연 600만 원입니다. IRP는 연금저축과 합산해 세액공제 한도를 연 900만 원까지 늘릴 수 있지만, 위험자산 70% 제한과 중도인출 제한이 있습니다. 따라서 같은 S&P500 ETF, 나스닥100 ETF, 배당 ETF, 채권혼합 ETF를 사더라도 연금저축에서 사는지 IRP에서 사는지에 따라 운용 가능 비중과 포트폴리오 설계가 달라집니다.이 글은 2026년 5월 기준 소득세법 제59조의3, 법제처 생활법령 연금계좌 설명, 금융회사 IRP 핵심설명서, 퇴직연금 상품 투자한도 안내 자료를 참고했습니..",
+    "headline": "연금저축과 IRP 차이: 같은 ETF를 사도 세액공제·한도·위험자산 규정이 다른 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/300",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/300"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-23",
+    "datePublished": "2026-06-23",
+    "description": "연금저축과 IRP는 모두 세액공제를 받을 수 있는 연금계좌지만 가입대상, 세액공제 한도, 납입한도, 중도인출, ETF 운용 규정, 위험자산 70% 제한이 다릅니다. 같은 ETF를 사도 계좌별로 달라지는 기준을 정리했습니다.",
+    "headline": "연금저축과 IRP 차이: 같은 ETF를 사도 세액공제·한도·위험자산 규정이 다른 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/300",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/300"
+  }
+]

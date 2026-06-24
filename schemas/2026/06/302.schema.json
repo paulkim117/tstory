@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-23T05:14:00+09:00",
+    "datePublished": "2026-06-23T05:13:46+09:00",
+    "description": "핵심 요약: 연금저축에서 S&P500 ETF를 고를 때는 단순히 이름만 보면 안 됩니다. TIGER 미국S&P500, KODEX 미국S&P500, ACE 미국S&P500, SOL 미국S&P500은 모두 미국 대표지수인 S&P500에 투자하는 국내 상장 ETF입니다. 하지만 총보수, 순자산, 거래량, 분배금 정책, 상장일, 운용사, 환노출 구조가 다릅니다. 장기 연금계좌에서는 수익률 차이보다 비용, 유동성, 추적 안정성, 장기 보유 편의성이 더 중요합니다. 단순하게 선택한다면 순자산과 거래량이 큰 TIGER·KODEX를 우선 비교하고, 낮은 총보수를 중시한다면 ACE·KODEX·TIGER를 함께 보고, 월분배형 성격을 중시한다면 SOL도 비교 대상에 넣을 수 있습니다.이 글은 2026년 5월 기준 미래에셋..",
+    "headline": "연금저축 S&P500 ETF 비교: TIGER·KODEX·ACE·SOL 중 무엇을 봐야 할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/302",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/302"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-23",
+    "datePublished": "2026-06-23",
+    "description": "연금저축에서 S&P500 ETF를 고를 때는 TIGER, KODEX, ACE, SOL의 보수, 순자산, 거래량, 분배금, 환노출 여부, 상장일을 함께 비교해야 합니다. 장기 연금계좌에서 어떤 기준으로 선택해야 하는지 정리했습니다.",
+    "headline": "연금저축 S&P500 ETF 비교: TIGER·KODEX·ACE·SOL 중 무엇을 봐야 할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/302",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/302"
+  }
+]

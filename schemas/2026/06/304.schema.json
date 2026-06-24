@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-24T01:22:00+09:00",
+    "datePublished": "2026-06-24T01:21:33+09:00",
+    "description": "핵심 요약: 연금저축에서 미국배당 ETF를 고를 때는 단순히 “월배당 ETF”라는 이름만 보면 안 됩니다. TIGER 미국배당다우존스, ACE 미국배당다우존스, KODEX 미국배당다우존스, SOL 미국배당다우존스는 모두 Dow Jones U.S. Dividend 100 계열 지수를 기초로 하는 국내 상장 미국배당 ETF입니다. 하지만 총보수, 순자산, 거래량, 상장일, 분배금 지급 방식, 환노출 여부, 운용사, 연금계좌 매수 가능 여부가 다릅니다. 장기 연금저축에서는 높은 분배금보다 기준가격이 유지되는지, 총수익률이 좋은지, 분배금을 재투자할 계획이 있는지를 함께 봐야 합니다.이 글은 2026년 5월 기준 TIGER, ACE, KODEX, SOL 미국배당다우존스 ETF의 공식 상품 정보와 FunETF 데..",
+    "headline": "연금저축 미국배당 ETF 비교: TIGER·ACE·KODEX·SOL 미국배당다우존스 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/304",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/304"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-24",
+    "datePublished": "2026-06-24",
+    "description": "연금저축에서 미국배당 ETF를 고를 때는 TIGER, ACE, KODEX, SOL 미국배당다우존스의 보수, 순자산, 분배금, 환노출 여부, 상장일, 월배당 구조를 함께 비교해야 합니다. 한국판 SCHD ETF 선택 기준을 정리했습니다.",
+    "headline": "연금저축 미국배당 ETF 비교: TIGER·ACE·KODEX·SOL 미국배당다우존스 차이",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/304",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/304"
+  }
+]

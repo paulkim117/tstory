@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-24T04:26:00+09:00",
+    "datePublished": "2026-06-24T04:25:11+09:00",
+    "description": "핵심 요약: 연금저축에서 커버드콜 ETF를 고를 때는 높은 월배당만 보면 안 됩니다. 커버드콜 ETF는 주식이나 지수를 보유하면서 콜옵션을 매도해 옵션 프리미엄을 얻고, 이를 분배금 재원으로 활용하는 구조입니다. 이 때문에 매월 분배금이 높아 보일 수 있지만, 기초자산이 강하게 상승할 때는 수익률 참여가 제한될 수 있습니다. 또한 분배금을 받더라도 기준가격이 계속 하락하면 총수익률은 낮아질 수 있습니다. 따라서 커버드콜 ETF는 “높은 월배당 ETF”가 아니라 “상승 여력을 일부 포기하고 현금흐름을 얻는 전략형 ETF”로 이해해야 합니다.이 글은 2026년 5월 기준 KODEX 미국AI테크TOP10타겟커버드콜, KODEX 미국나스닥100데일리커버드콜OTM, KODEX 미국배당커버드콜액티브, TIGER 미..",
+    "headline": "연금저축 커버드콜 ETF 주의점: 높은 월배당이 항상 좋은 선택은 아닌 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/306",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/306"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-24",
+    "datePublished": "2026-06-24",
+    "description": "연금저축에서 커버드콜 ETF를 고를 때는 높은 월배당보다 옵션 프리미엄 구조, 기준가격 하락, 상승장 수익 제한, 총수익률을 먼저 봐야 합니다. 커버드콜 ETF의 장점과 한계를 정리했습니다.",
+    "headline": "연금저축 커버드콜 ETF 주의점: 높은 월배당이 항상 좋은 선택은 아닌 이유",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/306",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/306"
+  }
+]

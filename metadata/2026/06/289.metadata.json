@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-24",
+  "body_html_length": 2889,
+  "canonical_url": "https://mystock-note.tistory.com/289",
+  "content_hash": "e0110332fd7578066559230516a27448426d97f4291aea69273d5e661dbc6a47",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: 미국 나스닥100 액티브 ETF는 일반 나스닥100 ETF와 달리 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. TIME 미국나스닥100액티브는 NASDAQ 100 Index(KRW)를 비교지수로 삼으면서 NVIDIA, Intel, Alphabet, Micron, ARM, Apple, Microsoft, AMD 등 AI·반도체·빅테크 비중을 조정하는 구조입니다. KoAct 미국나스닥성장기업액티브는 나스닥 성장기업 중 혁신 기술 트렌드와 산업 주도기업 변화를 반영해 포트폴리오를 조정하는 전략형 상품입니다. 다만 액티브 ETF는 일반 나스닥100 ETF보다 보수가 높을 수 있으므로, 비교지수 대비 초과성과가 실제로 있는지 반드시 확인해야 합니다.이 글은 2026년 5월 기준 TIME ..",
+  "modified_time": "2026-06-19T02:23:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: 미국 나스닥100 액티브 ETF는 일반 나스닥100 ETF와 달리 운용사의 종목 선택과 비중 조정이 반영되는 ETF입니다. TIME 미국나스닥100액티브는 NASDAQ 100 Index(KRW)를 비교지수로 삼으면서 NVIDIA, Intel, Alphabet, Micron, ARM, Apple, Microsoft, AMD 등 AI·반도체·빅테크 비중을 조정하는 구조입니다. KoAct 미국나스닥성장기업액티브는 나스닥 성장기업 중 혁신 기술 트렌드와 산업 주도기업 변화를 반영해 포트폴리오를 조정하는 전략형 상품입니다. 다만 액티브 ETF는 일반 나스닥100 ETF보다 보수가 높을 수 있으므로, 비교지수 대비 초과성과가 실제로 있는지 반드시 확인해야 합니다.이 글은 2026년 5월 기준 TIME ..",
+  "og_title": "미국 나스닥100 액티브 ETF 비교: TIME·KoAct는 일반 나스닥100 ETF와 무엇이 다를까",
+  "post_id": "289",
+  "published_time": "2026-06-19T02:22:12+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 나스닥100 액티브 ETF 비교: TIME·KoAct는 일반 나스닥100 ETF와 무엇이 다를까",
+  "url": "https://mystock-note.tistory.com/289"
+}

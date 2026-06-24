@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-18T02:13:00+09:00",
+    "datePublished": "2026-06-18T02:12:00+09:00",
+    "description": "핵심 요약: TIME ETF는 타임폴리오자산운용의 액티브 ETF 브랜드입니다. 단순히 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 시장 변화와 산업 흐름을 판단해 종목과 비중을 조정하는 방식이 핵심입니다. 대표 상품으로는 TIME 미국나스닥100액티브, TIME 글로벌AI인공지능액티브, TIME 글로벌휴머노이드로봇산업액티브, TIME 글로벌우주테크&방산액티브, TIME 미국배당다우존스액티브, TIME 미국나스닥100채권혼합50액티브 등이 있습니다. 다만 TIME ETF는 액티브 운용 성과가 장점이 될 수 있는 만큼, 보수, 비교지수, 구성종목, 상위 종목 쏠림, 연금 계좌 편입 가능 여부, 패시브 ETF 대비 초과성과를 반드시 함께 확인해야 합니다.이 글은 2026년 5월 26일 기준 TIM..",
+    "headline": "TIME ETF 총정리: 미국나스닥100·AI·로봇·배당 액티브 ETF를 어떻게 볼까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/286",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/286"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-18",
+    "datePublished": "2026-06-18",
+    "description": "TIME ETF는 타임폴리오자산운용의 액티브 ETF 브랜드입니다. TIME 미국나스닥100액티브, 글로벌AI인공지능액티브, 휴머노이드로봇산업액티브, 미국배당다우존스액티브, 채권혼합 ETF의 차이와 투자 전 확인할 점을 정리했습니다.",
+    "headline": "TIME ETF 총정리: 미국나스닥100·AI·로봇·배당 액티브 ETF를 어떻게 볼까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/286",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/286"
+  }
+]

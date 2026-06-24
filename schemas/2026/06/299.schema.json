@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-22T04:06:00+09:00",
+    "datePublished": "2026-06-22T04:05:26+09:00",
+    "description": "핵심 요약: IRP 안전자산 30% 구간은 단순히 예금만 넣는 자리가 아닙니다. 투자 성향에 따라 예금, 순수 채권형 ETF, TRF3070, TRF5050, 나스닥100 채권혼합 ETF, 삼성전자·SK하이닉스 채권혼합50 ETF를 조합할 수 있습니다. 다만 안전자산 구간이라고 해서 원금이 보장되는 것은 아닙니다. TRF와 채권혼합 ETF는 주식과 채권 가격이 모두 움직이는 실적배당형 상품입니다. 따라서 IRP 포트폴리오를 짤 때는 “위험자산 70% + 안전자산 30%”라는 형식보다, 계좌 전체의 실질 주식 비중이 몇 %인지 계산하는 것이 더 중요합니다.이 글은 2026년 5월 기준 미래에셋투자와연금센터 퇴직연금 위험자산 한도 설명, KB자산운용 연금투자 자료, KODEX TRF3070·TRF5050 상..",
+    "headline": "IRP 안전자산 30% 포트폴리오 예시: 예금·TRF·채권혼합 ETF를 어떻게 조합할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/299",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/299"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-22",
+    "datePublished": "2026-06-22",
+    "description": "IRP 안전자산 30% 구간은 예금, 순수 채권형, TRF ETF, 채권혼합 ETF로 구성할 수 있습니다. 보수형·중립형·공격형 포트폴리오 예시와 실질 주식 비중 계산법을 정리했습니다.",
+    "headline": "IRP 안전자산 30% 포트폴리오 예시: 예금·TRF·채권혼합 ETF를 어떻게 조합할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/299",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/299"
+  }
+]

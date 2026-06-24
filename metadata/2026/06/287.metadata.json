@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-06-24",
+  "body_html_length": 8446,
+  "canonical_url": "https://mystock-note.tistory.com/287",
+  "content_hash": "d2d3613f6f2231589c4aeaa01688ef94a8d4562a69621e968ab61b57e1ba3028",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: KoAct ETF는 삼성액티브자산운용의 액티브 ETF 브랜드입니다. 단순히 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 산업 변화와 기업 경쟁력을 판단해 종목과 비중을 조정하는 방식이 핵심입니다. 대표 상품으로는 KoAct AI인프라액티브, KoAct 코스닥액티브, KoAct K수출핵심기업TOP30액티브, KoAct 글로벌AI메모리반도체액티브, KoAct 글로벌양자컴퓨팅액티브, KoAct 미국로봇피지컬AI액티브, KoAct 코리아밸류업액티브 등이 있습니다. 다만 KoAct ETF는 테마형 액티브 상품이 많기 때문에 구성종목, 상위 종목 쏠림, 비교지수, 보수, 거래량, 순자산, 연금 계좌 편입 가능 여부를 함께 확인해야 합니다.이 글은 2026년 5월 기준 삼성액티브자산운용 공식..",
+  "modified_time": "2026-06-18T03:16:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: KoAct ETF는 삼성액티브자산운용의 액티브 ETF 브랜드입니다. 단순히 지수를 그대로 따라가는 패시브 ETF가 아니라, 운용사가 산업 변화와 기업 경쟁력을 판단해 종목과 비중을 조정하는 방식이 핵심입니다. 대표 상품으로는 KoAct AI인프라액티브, KoAct 코스닥액티브, KoAct K수출핵심기업TOP30액티브, KoAct 글로벌AI메모리반도체액티브, KoAct 글로벌양자컴퓨팅액티브, KoAct 미국로봇피지컬AI액티브, KoAct 코리아밸류업액티브 등이 있습니다. 다만 KoAct ETF는 테마형 액티브 상품이 많기 때문에 구성종목, 상위 종목 쏠림, 비교지수, 보수, 거래량, 순자산, 연금 계좌 편입 가능 여부를 함께 확인해야 합니다.이 글은 2026년 5월 기준 삼성액티브자산운용 공식..",
+  "og_title": "KoAct ETF 총정리: AI인프라·코스닥·K수출·양자컴퓨팅 액티브 ETF를 어떻게 볼까",
+  "post_id": "287",
+  "published_time": "2026-06-18T03:15:26+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "KoAct ETF 총정리: AI인프라·코스닥·K수출·양자컴퓨팅 액티브 ETF를 어떻게 볼까",
+  "url": "https://mystock-note.tistory.com/287"
+}

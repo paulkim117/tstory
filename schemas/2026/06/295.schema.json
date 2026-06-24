@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-21T02:45:00+09:00",
+    "datePublished": "2026-06-21T02:44:30+09:00",
+    "description": "핵심 요약: 채권혼합 ETF는 주식과 채권을 함께 담는 ETF입니다. IRP와 DC형 퇴직연금에서는 주식형 ETF 같은 위험자산을 일반적으로 70%까지만 편입할 수 있기 때문에, 나머지 30% 구간에서 예금·채권형 상품·채권혼합형 ETF를 활용하는 경우가 많습니다. 다만 채권혼합 ETF가 “안전자산으로 분류된다”는 말은 원금이 보장된다는 뜻이 아닙니다. 주식 비중이 들어간 만큼 손실 가능성이 있고, 채권도 금리 변화에 따라 가격이 움직입니다. 따라서 IRP에서 채권혼합 ETF를 고를 때는 주식 비중, 채권 종류, 만기, 보수, 순자산, 거래량, 연금 계좌 편입 가능 여부를 반드시 확인해야 합니다.이 글은 2026년 5월 기준 미래에셋투자와연금센터 퇴직연금 위험자산 한도 설명, KB증권 퇴직연금 유의사항,..",
+    "headline": "채권혼합 ETF란? IRP에서 안전자산으로 볼 수 있는 ETF 기준 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/295",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/295"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-21",
+    "datePublished": "2026-06-21",
+    "description": "채권혼합 ETF는 주식과 채권을 함께 담아 IRP·퇴직연금에서 위험자산 70% 한도 밖에서 활용되는 경우가 있습니다. 안전자산 30% 구간, 주식 50% 이하 구조, TIME·RISE·KODEX·TRF ETF 차이와 투자 전 확인할 점을 정리했습니다.",
+    "headline": "채권혼합 ETF란? IRP에서 안전자산으로 볼 수 있는 ETF 기준 정리",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/295",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/295"
+  }
+]

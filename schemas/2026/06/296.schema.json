@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-21T04:48:00+09:00",
+    "datePublished": "2026-06-21T04:47:32+09:00",
+    "description": "핵심 요약: TIME 미국나스닥100채권혼합50액티브 ETF는 IRP와 DC형 퇴직연금에서 100% 투자 가능한 채권혼합형 액티브 ETF로 소개됩니다. 하지만 이 말은 “IRP 계좌 전체를 순수 나스닥100 주식으로 100% 채운다”는 뜻이 아닙니다. 이 ETF는 미국 나스닥100 성장주와 국내 단기채를 함께 담는 구조입니다. 2026년 5월 26일 기준 순자산총액은 3,559억 원, 총보수는 연 0.2500%, 기초지수는 FnGuide 미국나스닥100 단기채권혼합 지수입니다. 따라서 IRP에서 나스닥100 성장성을 일부 가져가면서 위험자산 70% 한도 밖에서 활용할 수 있는 채권혼합 ETF로 보는 것이 정확합니다.이 글은 2026년 5월 기준 TIME ETF 공식 상품 정보, FunETF 상품 정보, ..",
+    "headline": "TIME 미국나스닥100채권혼합50액티브 ETF, IRP에서 나스닥100을 100% 담는 구조일까?",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/296",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/296"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-21",
+    "datePublished": "2026-06-21",
+    "description": "TIME 미국나스닥100채권혼합50액티브 ETF는 나스닥100 성장주와 국내 단기채를 함께 담는 채권혼합형 액티브 ETF입니다. IRP·DC에서 100% 투자 가능하다는 의미, 실제 나스닥100 노출, 보수, 구성종목, 리스크를 정리했습니다.",
+    "headline": "TIME 미국나스닥100채권혼합50액티브 ETF, IRP에서 나스닥100을 100% 담는 구조일까?",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/296",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/296"
+  }
+]

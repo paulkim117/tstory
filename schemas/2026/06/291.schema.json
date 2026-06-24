@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-20T01:32:00+09:00",
+    "datePublished": "2026-06-20T01:31:29+09:00",
+    "description": "핵심 요약: 로봇·피지컬 AI 액티브 ETF는 단순 로봇 ETF가 아닙니다. 휴머노이드 로봇, 산업 자동화, 물류 로봇, 수술 로봇, 자율주행, AI 반도체, 센서, 감속기, 배터리, 로봇 부품까지 함께 봐야 합니다. TIME 글로벌휴머노이드로봇산업액티브는 글로벌 휴머노이드 로봇 산업 대표 기업에 투자하는 상품이고, KoAct 미국로봇피지컬AI액티브는 미국 로봇 산업과 피지컬 AI 밸류체인 전반에 투자하는 상품입니다. 두 ETF 모두 로봇·피지컬 AI라는 성장 테마에 투자하지만, 국가 비중, 구성종목, 산업 노출, 보수, 비교지수, 성과 검증 기간이 다릅니다.이 글은 2026년 5월 기준 TIME ETF 공식 상품 정보, 삼성액티브자산운용 KoAct ETF 공식 상품 정보, KoAct 미국로봇피지컬AI액..",
+    "headline": "로봇·피지컬 AI 액티브 ETF 비교: TIME 휴머노이드로봇·KoAct 미국로봇피지컬AI는 무엇이 다를까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/291",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/291"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-20",
+    "datePublished": "2026-06-20",
+    "description": "로봇·피지컬 AI 액티브 ETF는 휴머노이드, 산업 자동화, 물류 로봇, 수술 로봇, 자율주행, AI 반도체를 함께 봐야 합니다. TIME 글로벌휴머노이드로봇산업액티브와 KoAct 미국로봇피지컬AI액티브의 구성종목, 보수, 비교지수, 투자 포인트, 리스크를 비교했습니다.",
+    "headline": "로봇·피지컬 AI 액티브 ETF 비교: TIME 휴머노이드로봇·KoAct 미국로봇피지컬AI는 무엇이 다를까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/291",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/291"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-22T03:01:02+09:00",
+    "datePublished": "2026-06-22T03:00:47+09:00",
+    "description": "핵심 요약: TRF ETF는 Target Risk Fund의 약자로, 주식과 채권 비중을 정해진 위험 수준에 맞춰 유지하는 자산배분형 ETF입니다. KODEX TRF3070은 글로벌 선진국 주식 30%, 국내 채권 70% 구조이고, KODEX TRF5050은 글로벌 선진국 주식 50%, 국내 채권 50% 구조입니다. 두 상품 모두 IRP와 퇴직연금에서 활용될 수 있지만, 원금보장 상품은 아닙니다. 주식 비중이 있는 만큼 글로벌 증시 하락에 영향을 받고, 채권도 금리 변화에 따라 가격이 움직입니다. 따라서 TRF ETF는 IRP 안전자산 구간을 예금보다 적극적으로 운용하려는 투자자에게 적합할 수 있지만, 투자 전에는 주식·채권 비중, 보수, 순자산, 거래량, 분배금, 환율, 금리 리스크를 함께 확인해야 합..",
+    "headline": "TRF ETF란? KODEX TRF3070·TRF5050은 IRP 안전자산으로 어떻게 활용할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/298",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/298"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-22",
+    "datePublished": "2026-06-22",
+    "description": "TRF ETF는 글로벌 주식과 국내 채권을 정해진 비율로 섞는 자산배분형 ETF입니다. KODEX TRF3070, TRF5050의 차이, IRP 100% 편입 가능 의미, 안전자산 착시, TDF·채권혼합 ETF와의 차이를 정리했습니다.",
+    "headline": "TRF ETF란? KODEX TRF3070·TRF5050은 IRP 안전자산으로 어떻게 활용할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/298",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/298"
+  }
+]

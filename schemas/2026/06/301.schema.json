@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-23T03:12:00+09:00",
+    "datePublished": "2026-06-23T03:11:19+09:00",
+    "description": "핵심 요약: 연금저축 ETF 포트폴리오는 세액공제만 보고 만들면 안 됩니다. 실제로 중요한 것은 장기적으로 어떤 ETF를 얼마의 비중으로 가져갈 것인지입니다. 연금저축은 IRP와 달리 일반적으로 위험자산 70% 제한이 없기 때문에 S&P500 ETF, 나스닥100 ETF, 미국배당 ETF를 100% 주식형으로 구성할 수 있습니다. 다만 나스닥100 비중이 높을수록 성장성은 커지지만 변동성도 커지고, 배당 ETF 비중이 높을수록 변동성은 낮아질 수 있지만 상승장 참여도는 제한될 수 있습니다. 따라서 연금저축 포트폴리오는 S&P500을 핵심 자산으로 두고, 나스닥100과 배당 ETF를 보조 자산으로 조합하는 방식이 가장 단순합니다.이 글은 2026년 5월 기준 국내 상장 S&P500 ETF, 나스닥100 E..",
+    "headline": "연금저축 ETF 포트폴리오 예시: S&P500·나스닥100·배당 ETF를 어떻게 나눌까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/301",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/301"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-23",
+    "datePublished": "2026-06-23",
+    "description": "연금저축 ETF 포트폴리오는 S&P500, 나스닥100, 미국배당 ETF를 어떻게 나누느냐에 따라 위험과 수익률이 달라집니다. 보수형·중립형·공격형 예시와 리밸런싱 기준, 세액공제 한도, ETF 선택 체크리스트를 정리했습니다.",
+    "headline": "연금저축 ETF 포트폴리오 예시: S&P500·나스닥100·배당 ETF를 어떻게 나눌까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/301",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/301"
+  }
+]
