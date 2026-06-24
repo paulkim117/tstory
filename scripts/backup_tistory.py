@@ -27,7 +27,7 @@ RSS_URL = f"{BLOG_BASE_URL}/rss"
 NUMERIC_POST_URL_RE = re.compile(r"^https://mystock-note\.tistory\.com/\d+$")
 REQUEST_TIMEOUT_SECONDS = 15
 REQUEST_SLEEP_RANGE_SECONDS = (0.5, 1.0)
-MAX_POSTS_PER_RUN = int(os.environ.get("TISTORY_BACKUP_MAX_POSTS", "250"))
+MAX_POSTS_PER_RUN = int(os.environ.get("TISTORY_BACKUP_MAX_POSTS", "1250"))
 USER_AGENT = (
     "Mozilla/5.0 (compatible; TistoryBackupBot/1.0; "
     "+https://github.com/paulkim117/tstory)"
