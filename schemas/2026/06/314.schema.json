@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-26T04:52:00+09:00",
+    "datePublished": "2026-06-26T04:51:10+09:00",
+    "description": "핵심 요약: 연금저축 ETF는 은퇴 후 인출을 시작해도 리밸런싱이 필요합니다. 은퇴 전 리밸런싱은 주로 “목표 비중으로 다시 맞추는 작업”이지만, 은퇴 후 리밸런싱은 여기에 “생활비 인출”이 함께 들어갑니다. S&P500 ETF, 나스닥100 ETF, 미국배당 ETF, CD금리형 ETF, 단기채 ETF를 보유하고 있다면 어떤 ETF를 팔아 생활비를 만들지, 어떤 ETF는 계속 보유할지, 어떤 자산으로 다음 1~3년치 인출 재원을 채울지를 정해야 합니다. 핵심은 하락장에서 성장형 ETF를 강제로 팔지 않고, 상승장에는 일부 차익을 현금성·단기채 자산으로 옮겨 다음 인출 재원을 만드는 것입니다.이 글은 2026년 5월 기준 국세청 연금수령한도 및 연금소득 과세 안내, 국내 상장 S&P500·나스닥100·미국..",
+    "headline": "연금저축 ETF 은퇴 후 리밸런싱: 인출하면서 비중을 어떻게 유지할까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/314",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/314"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-26",
+    "datePublished": "2026-06-26",
+    "description": "연금저축 ETF는 은퇴 후 인출을 시작해도 리밸런싱이 필요합니다. S&P500, 나스닥100, 미국배당, CD금리형, 단기채 ETF 비중을 인출하면서 유지하는 방법을 정리했습니다.",
+    "headline": "연금저축 ETF 은퇴 후 리밸런싱: 인출하면서 비중을 어떻게 유지할까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/314",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/314"
+  }
+]

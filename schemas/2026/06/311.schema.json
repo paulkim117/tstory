@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-26T01:41:00+09:00",
+    "datePublished": "2026-06-26T01:40:57+09:00",
+    "description": "핵심 요약: 연금저축 ETF 포트폴리오는 평생 같은 비중으로 운용하기 어렵습니다. 30~40대에는 S&P500 ETF와 나스닥100 ETF처럼 성장형 자산 비중을 높일 수 있지만, 은퇴가 가까워질수록 인출 안정성이 중요해집니다. 은퇴 직전에 나스닥100, 반도체, 커버드콜, 장기채 ETF 비중이 과도하면 하락장에서 생활비 마련을 위해 손실 상태로 ETF를 매도해야 할 수 있습니다. 따라서 은퇴 10년 전부터는 성장형 포트폴리오를 유지하되, 은퇴 5년 전부터는 미국배당 ETF, 단기채 ETF, CD금리형 ETF 비중을 점진적으로 늘리고, 은퇴 1~3년 전부터는 실제 인출 재원을 분리해두는 방식이 필요합니다.이 글은 2026년 5월 기준 국세청 연금수령 요건 자료, 소득세법 연금계좌세액공제 조항, 국내 상장..",
+    "headline": "연금저축 ETF 은퇴 전 포트폴리오 전환: 성장형에서 인출형으로 어떻게 바꿀까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/311",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/311"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-26",
+    "datePublished": "2026-06-26",
+    "description": "연금저축 ETF는 은퇴가 가까워질수록 성장형 포트폴리오에서 인출형 포트폴리오로 전환해야 합니다. S&P500, 나스닥100, 미국배당, 월배당, 채권형 ETF 비중을 은퇴 10년 전·5년 전·1년 전 기준으로 정리했습니다.",
+    "headline": "연금저축 ETF 은퇴 전 포트폴리오 전환: 성장형에서 인출형으로 어떻게 바꿀까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/311",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/311"
+  }
+]
