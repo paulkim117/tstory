@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-06-30T01:20:00+09:00",
+    "datePublished": "2026-06-30T01:19:45+09:00",
+    "description": "핵심 요약: 은퇴 후 월배당 ETF는 “어떤 상품을 살까”만큼 “어느 계좌에 둘까”가 중요합니다. 일반계좌에 월배당 ETF를 두면 분배금을 바로 생활비로 사용할 수 있지만, ETF 분배금과 국내상장 해외 ETF 매매차익이 배당소득으로 잡혀 금융소득 1,000만 원 건강보험료 기준과 금융소득종합과세 2,000만 원 기준에 영향을 줄 수 있습니다. 반면 연금저축에 월배당 ETF를 두면 계좌 안에서 과세이연 효과를 기대할 수 있고, 나중에 연금수령 요건을 충족해 인출하면 연령별 3.3~5.5% 수준의 연금소득세율을 적용받을 수 있습니다. 다만 연금저축은 연금수령한도와 사적연금 1,500만 원 기준을 확인해야 하고, IRP는 위험자산 한도와 상품 매수 가능 여부를 함께 봐야 합니다.이 글은 2026년 5월 기준..",
+    "headline": "연금저축 ETF 은퇴 후 월배당 ETF 배치 전략: 일반계좌와 연금저축 중 어디에 둘까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/323",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/323"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-06-30",
+    "datePublished": "2026-06-30",
+    "description": "은퇴 후 월배당 ETF는 일반계좌와 연금저축 중 어디에 두느냐에 따라 세금, 건강보험료, 금융소득, 현금흐름이 달라집니다. 일반계좌·연금저축·IRP별 배치 기준을 정리했습니다.",
+    "headline": "연금저축 ETF 은퇴 후 월배당 ETF 배치 전략: 일반계좌와 연금저축 중 어디에 둘까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/323",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/323"
+  }
+]
