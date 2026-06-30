@@ -1,8 +1,8 @@
 {
-  "backup_date": "2026-05-31",
+  "backup_date": "2026-06-30",
   "body_html_length": 4624,
   "canonical_url": "https://mystock-note.tistory.com/37",
-  "content_hash": "8b23ea467f74ba9d85514f0de8a7779a492752383dbe3cd2650b58dd79b64bb4",
+  "content_hash": "a951039bccf9a0d03f456a45c981d5d262ba3ba454be61a65823b6a0fd24da27",
   "json_ld_count": 1,
   "meta_description": "재무상태표 - 일정 시점의 자산, 부채, 자본의 상태 보고식 - 레포트식 계정식 - T계정   재무상태표등식 자산 = 부채 + 자본 자본등식 자본 = 자산 - 부채 재산법에 의한 이익 = 기말자본 - 기초자본 기말자본 = 기초자본 + 순이익 순이익 = 기말자본 - 기초자본",
   "modified_time": "2021-05-19T15:45:38+09:00",

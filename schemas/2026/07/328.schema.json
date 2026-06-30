@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-01T02:49:00+09:00",
+    "datePublished": "2026-07-01T02:48:44+09:00",
+    "description": "핵심 요약: 파킹형 ETF는 단기금리를 매일 조금씩 쌓아 대기자금을 굴리는 상품이지만, 이름에 들어가는 단어(CD금리·KOFR·SOFR·머니마켓)에 따라 추종 금리와 위험이 다릅니다. SOFR형만 환율에 노출돼 원금 손실이 날 수 있고, 퇴직연금 계좌에서는 일부 상품만 안전자산으로 인정됩니다. 수익률 차이가 작은 만큼 선택은 분배율이 아니라 유형(추종 금리)·환노출·실부담비용·안전자산 인정 여부·유동성에서 갈립니다.이 글은 각 운용사 공식 상품 페이지와 단기금리형 ETF 자료를 참고했습니다. 총보수·실부담비용·분배 방식·안전자산 인정 여부·거래량은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 금리·비용 예시는 구조를 설명하..",
+    "headline": "파킹형 ETF 비교: CD금리·KOFR·머니마켓 무엇이 다르고 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/328",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/328"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-01",
+    "datePublished": "2026-07-01",
+    "description": "CD금리·KOFR·SOFR·머니마켓 파킹형 ETF의 추종 금리·환노출·가격반영 구조 차이와, 퇴직연금 안전자산 인정 여부·실부담비용까지 비교해 계좌별 선택 기준을 정리합니다.",
+    "headline": "파킹형 ETF 비교: CD금리·KOFR·머니마켓 무엇이 다르고 어디에 담아야 하나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/328",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/328"
+  }
+]

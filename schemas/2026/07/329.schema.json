@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-01",
+  "datePublished": "2026-07-01",
+  "description": "연금저축 600만·IRP 합산 900만 세액공제 한도를 다 채울 때, IRP 위험자산 70% 한도 때문에 ETF를 어떤 순서로 어느 계좌에 담아야 하는지 배치 기준을 산술로 정리합니다.",
+  "headline": "연금저축·IRP 한도를 다 채울 때 ETF 배치 순서: 위험자산은 어디에 먼저",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/329",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/329"
+}

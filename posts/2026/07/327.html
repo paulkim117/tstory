@@ -1,0 +1,125 @@
+<!--
+source: https://mystock-note.tistory.com/327
+backup_date: 2026-06-30
+post_id: 327
+-->
+<p data-ke-size="size16"><b>핵심 요약:</b> USFR은 미국 재무부의 변동금리 국채(FRN)에 투자하는 미국 상장 ETF로, 쿠폰(이자)이 단기 국채금리에 맞춰 주기적으로 재설정되기 때문에 금리가 오르내려도 가격은 거의 움직이지 않습니다. 흔히 비교되는 SGOV가 잔존만기 0~3개월의 초단기 T-bill을 담는다면, USFR은 만기는 길어도 쿠폰이 계속 리셋되는 변동금리채를 담는다는 점이 핵심 차이입니다. 둘 다 현금성 자산이지만 <b>금리 반영 방식, 금리 방향별 유불리, 운용보수, 환노출</b>에서 갈립니다.</p>
+<p data-ke-size="size16">이 글은 WisdomTree USFR·iShares SGOV 공식 자료와 채권 일반 자료를 참고했습니다. 운용보수·분배수익률·순자산은 기준일마다 달라지므로, 구체 수치는 운용사 공식 페이지와 ETF CHECK 등에서 직접 확인해야 합니다. 본문의 금리·가격 예시는 구조를 설명하기 위한 가상의 수치입니다.</p>
+
+<h2 data-ke-size="size26">USFR은 어떤 ETF인가요?</h2>
+<p data-ke-size="size16">USFR(WisdomTree Floating Rate Treasury Fund)은 미국 재무부가 발행하는 변동금리 국채(Floating Rate Note, FRN)에 투자합니다. FRN의 쿠폰은 단기 국채금리에 연동되어 주기적으로 재설정(reset)됩니다. 그래서 시장금리가 오르면 받는 이자도 따라 오르고, 채권 가격 자체의 변동은 매우 작게 유지됩니다. 분배는 월배당입니다.</p>
+<table data-ke-align="alignLeft"><caption>USFR 기본 구조</caption>
+<thead>
+<tr><th scope="col">항목</th><th scope="col">내용</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">기초자산</th><td>미국 재무부 변동금리 국채(FRN)</td></tr>
+<tr><th scope="row">쿠폰</th><td>단기 국채금리에 연동, 주기적 리셋</td></tr>
+<tr><th scope="row">운용사</th><td>WisdomTree</td></tr>
+<tr><th scope="row">분배</th><td>월배당</td></tr>
+<tr><th scope="row">성격</th><td>현금성·대기자금(가격 변동 매우 작음)</td></tr>
+</tbody>
+</table>
+
+
+
+<p></p>
+
+
+<h2 data-ke-size="size26">변동금리 국채(FRN)는 어떻게 작동하나요?</h2>
+<p data-ke-size="size16">일반 국채는 발행 때 정해진 고정 쿠폰을 만기까지 지급합니다. 반면 FRN의 쿠폰은 "기준금리(단기 국채금리) + 고정 스프레드"로 정해지고, 기준금리가 바뀌면 다음 리셋 때 쿠폰이 따라 바뀝니다. 아래는 기준금리가 변할 때 쿠폰이 어떻게 따라가는지를 보여주는 예시입니다.</p>
+<table data-ke-align="alignLeft"><caption>기준금리 변화에 따른 FRN 쿠폰 (가상 예시, 스프레드 +0.15% 가정)</caption>
+<thead>
+<tr><th scope="col">시점</th><th scope="col">단기 국채금리</th><th scope="col">FRN 쿠폰</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">리셋 1</th><td>4.00%</td><td>4.15%</td></tr>
+<tr><th scope="row">리셋 2(금리 상승)</th><td>4.50%</td><td>4.65%</td></tr>
+<tr><th scope="row">리셋 3(금리 하락)</th><td>3.50%</td><td>3.65%</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">쿠폰이 시장금리를 따라 위아래로 움직이므로, 채권 가격이 금리에 맞춰 조정될 필요가 거의 없습니다. 이것이 USFR의 가격이 금리 변동에도 거의 흔들리지 않는 이유입니다.</p>
+
+<h2 data-ke-size="size26">USFR과 SGOV는 무엇이 다른가요?</h2>
+<p data-ke-size="size16">가장 큰 차이는 "무엇을 담느냐"입니다. SGOV는 잔존만기 0~3개월의 초단기 T-bill을 담아 만기 자체가 짧고, USFR은 만기는 더 길지만 쿠폰이 계속 리셋되는 변동금리채를 담습니다. 결과적으로 둘 다 금리 민감도가 매우 작지만, 금리를 반영하는 경로가 다릅니다. 초단기 T-bill ETF인 <a href="https://mystock-note.tistory.com/256">SGOV의 구조와 국내 대안은 별도 글</a>에서 더 자세히 다뤘습니다.</p>
+<table data-ke-align="alignLeft"><caption>USFR vs SGOV 구조</caption>
+<thead>
+<tr><th scope="col">구분</th><th scope="col">USFR</th><th scope="col">SGOV</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">기초자산</th><td>변동금리 국채(FRN)</td><td>초단기 T-bill(0~3개월)</td></tr>
+<tr><th scope="row">금리 반영</th><td>쿠폰 주기적 리셋</td><td>만기 도래 후 재투자</td></tr>
+<tr><th scope="row">반영 속도</th><td>리셋 시 즉시</td><td>만기 도래분만큼 시차</td></tr>
+<tr><th scope="row">운용사</th><td>WisdomTree</td><td>iShares(블랙록)</td></tr>
+<tr><th scope="row">분배</th><td>월배당</td><td>월배당</td></tr>
+</tbody>
+</table>
+
+<h2 data-ke-size="size26">금리가 1%p 변하면 가격이 얼마나 움직이나요?</h2>
+<p data-ke-size="size16">채권 가격 변동은 대략 "−듀레이션 × 금리변동"으로 가늠합니다. 듀레이션이 길수록 금리에 민감합니다. USFR·SGOV는 듀레이션이 거의 0에 가까워, 금리가 크게 움직여도 가격은 거의 그대로입니다.</p>
+<table data-ke-align="alignLeft"><caption>금리 +1%p 상승 시 가격 변동 근사 (가상 예시)</caption>
+<thead>
+<tr><th scope="col">상품</th><th scope="col">대략적 듀레이션</th><th scope="col">금리 +1%p 시 가격</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">미국 30년 장기국채</th><td>약 17</td><td>약 -17%</td></tr>
+<tr><th scope="row">미국 중기국채(7~10년)</th><td>약 7</td><td>약 -7%</td></tr>
+<tr><th scope="row">SGOV(초단기)</th><td>약 0.1</td><td>약 -0.1%</td></tr>
+<tr><th scope="row">USFR(변동금리)</th><td>약 0(리셋)</td><td>거의 0</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">같은 "미국 국채"라도 만기대에 따라 금리 1%p의 충격이 30년물은 약 17%, USFR은 사실상 0으로 갈립니다. USFR·SGOV가 "현금처럼" 쓰이는 이유가 이 표에 있습니다. 반대로 금리 하락기에 시세차익을 노리는 자산은 장기국채이며, USFR·SGOV는 차익이 아니라 이자 수취가 목적입니다.</p>
+
+<h2 data-ke-size="size26">금리가 오르거나 내릴 때 어디가 유리한가요?</h2>
+<p data-ke-size="size16">둘 다 단기금리에 연동되므로 금리가 내리면 수익(이자)도 함께 낮아집니다. 차이는 반영 속도입니다.</p>
+<table data-ke-align="alignLeft"><caption>금리 방향별 USFR·SGOV</caption>
+<thead>
+<tr><th scope="col">국면</th><th scope="col">USFR(리셋)</th><th scope="col">SGOV(재투자)</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">금리 상승·고착</th><td>리셋으로 상승분 즉시 반영</td><td>만기 도래분부터 시차 반영</td></tr>
+<tr><th scope="row">금리 하락</th><td>리셋으로 즉시 하향</td><td>재투자분부터 시차 하향</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">금리가 빠르게 오르는 국면에서는 즉시 리셋되는 USFR이 시차가 있는 SGOV보다 한발 빠르게 높아진 금리를 반영하는 경향이 있습니다. 다만 두 상품의 실제 수익률 차이는 크지 않아, 최종 선택은 보수·유동성·환노출 같은 구조 변수에서 갈리는 경우가 많습니다.</p>
+
+<h2 data-ke-size="size26">분배금은 고정인가요?</h2>
+<p data-ke-size="size16">아닙니다. USFR의 분배는 FRN 쿠폰에서 나오고, 쿠폰은 단기금리에 연동되어 리셋됩니다. 따라서 정책금리가 내려가면 분배 수익률도 함께 낮아집니다. "안전 자산이니 일정한 이자"가 아니라, 단기금리 수준에 따라 매월 분배가 달라지는 변동 인컴으로 이해해야 합니다.</p>
+
+<h2 data-ke-size="size26">현금성 자산 중에서 USFR은 어디쯤인가요?</h2>
+<p data-ke-size="size16">대기자금을 굴리는 수단은 위험·수익·유동성이 조금씩 다릅니다. USFR·SGOV는 그 스펙트럼에서 "예금·CMA보다 약간 위, 일반 채권보다 아래"에 위치합니다.</p>
+<table data-ke-align="alignLeft"><caption>현금성 자산 스펙트럼(개념)</caption>
+<thead>
+<tr><th scope="col">수단</th><th scope="col">가격 변동</th><th scope="col">즉시 출금</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">파킹통장·CMA</th><td>없음</td><td>즉시</td></tr>
+<tr><th scope="row">SGOV·USFR</th><td>매우 작음</td><td>매도 후 결제일 필요</td></tr>
+<tr><th scope="row">일반 단기채 ETF</th><td>작음</td><td>매도 후 결제일 필요</td></tr>
+<tr><th scope="row">장기국채 ETF</th><td>큼(금리 민감)</td><td>매도 후 결제일 필요</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">당일 즉시 출금이 필요한 자금은 파킹통장·CMA가 낫고, 며칠 여유가 있는 대기자금은 USFR·SGOV로 이자를 더 받을 수 있습니다. 다만 ETF는 예금자 보호 대상이 아니라는 점은 기억해야 합니다.</p>
+
+<h2 data-ke-size="size26">국내 계좌에서 USFR 대신 무엇을 담나요?</h2>
+<p data-ke-size="size16">USFR·SGOV는 미국 상장 ETF입니다. 환전·미국장 시간 없이 원화로 비슷한 노출을 원하면 국내 상장 대안을 검토할 수 있습니다.</p>
+<table data-ke-align="alignLeft"><caption>국내 대안 매핑</caption>
+<thead>
+<tr><th scope="col">원본</th><th scope="col">국내 대안 성격</th><th scope="col">확인 포인트</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">SGOV(초단기 T-bill)</th><td>국내 상장 미국 초단기국채 ETF(동일·유사 지수)</td><td>환헤지 여부·실부담비용</td></tr>
+<tr><th scope="row">USFR(변동금리채)</th><td>동일 FRN 구조 국내 상장은 제한적</td><td>"초단기 국채형"과 구분</td></tr>
+<tr><th scope="row">원화 대기자금</th><td>국내 파킹형(CD금리·KOFR·머니마켓)</td><td>안전자산 인정·환노출</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">변동금리채(USFR)와 정확히 같은 구조의 국내 상장 상품은 제한적이므로, "초단기 국채형"과 "변동금리채형"을 구분해서 봐야 합니다. 원화 대기자금이 목적이면 <a href="https://mystock-note.tistory.com/328">국내 상장 파킹형(CD금리·KOFR·머니마켓) ETF 비교</a>가 선택을 단순하게 해줍니다.</p>
+
+<h2 data-ke-size="size26">환과 세금은 어떻게 되나요?</h2>
+<p data-ke-size="size16">미국 상장 USFR을 일반계좌에서 보유하면 분배금은 배당소득, 매매차익은 양도소득세(연 250만 원 공제 후 22% 분리과세) 대상이고, 원·달러 환율이 평가금액과 분배금 원화 환산액에 직접 영향을 줍니다. "안전 자산"이라도 환율이 하락하면 원화 기준 평가손이 날 수 있다는 점이 국내 투자자에게 중요한 변수입니다. 환차익도 양도차익에 포함돼 과세됩니다.</p>
+
+<div style="max-width: 720px; margin: 24px 0; padding: 18px; border: 1px solid #e5e7eb; border-radius: 14px; background: #fafafa;">
+<h3 style="margin-top: 0;" data-ke-size="size23">USFR 점검 우선순위</h3>
+<div style="margin: 12px 0;">
+<p style="margin: 0 0 6px 0;" data-ke-size="size16"><b>1순위: 목적</b> &mdash; 대기자금(이자)인가, 시세차익인가(차익이면 부적합)</p>
+<div style="height: 12px; background: #e5e7eb; border-radius: 999px;"><div style="width: 96%; height: 12px; background: #2563eb; border-radius: 999px;">&nbsp;
