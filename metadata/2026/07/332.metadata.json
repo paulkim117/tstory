@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-01",
+  "body_html_length": 5984,
+  "canonical_url": "https://mystock-note.tistory.com/332",
+  "content_hash": "2c7064d439235bea0b345db2e3727a2a24c99df2366a967091d2efcb70422df9",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 미국 장기국채 ETF는 금리 인하기에 시세차익을 노리는 대표적인 채권 상품이지만, 듀레이션이 길어 금리가 1%p만 움직여도 가격이 크게 출렁입니다. 같은 \"미국 30년국채\"라도 미국 상장(TLT)과 국내 상장은 환·세금·분배 주기가 다르고, 국내 상품도 환헤지(H)·액티브·스트립·커버드콜·울트라선물로 위험이 갈립니다. 선택의 핵심은 듀레이션(금리 민감도), 환헤지 여부, 변형 구조, 절세계좌, 분배 방식입니다.이 글은 국내외 미국 장기국채 ETF 운용사 공식 자료와 채권 일반 자료를 참고했습니다. 총보수·분배수익률·순자산·듀레이션은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 금리·가격 예시는 구조를 설명하기 ..",
+  "modified_time": "2026-07-02T03:55:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/332\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/332\",\"headline\":\"미국 장기국채 ETF 비교: TLT와 국내 상장 30년국채, 환헤지·변형 어떻게 고르나\",\"description\":\"핵심 요약: 미국 장기국채 ETF는 금리 인하기에 시세차익을 노리는 대표적인 채권 상품이지만, 듀레이션이 길어 금리가 1%p만 움직여도 가격이 크게 출렁입니다. 같은 \"미국 30년국채\"라도 미국 상장(TLT)과 국내 상장은 환·세금·분배 주기가 다르고, 국내 상품도 환헤지(H)·액티브·스트립·커버드콜·울트라선물로 위험이 갈립니다. 선택의 핵심은 듀레이션(금리 민감도), 환헤지 여부, 변형 구조, 절세계좌, 분배 방식입니다.이 글은 국내외 미국 장기국채 ETF 운용사 공식 자료와 채권 일반 자료를 참고했습니다. 총보수·분배수익률·순자산·듀레이션은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 금리·가격 예시는 구조를 설명하기 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-02T03:54:02+09:00\",\"dateModified\":\"2026-07-02T03:55:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 미국 장기국채 ETF는 금리 인하기에 시세차익을 노리는 대표적인 채권 상품이지만, 듀레이션이 길어 금리가 1%p만 움직여도 가격이 크게 출렁입니다. 같은 \"미국 30년국채\"라도 미국 상장(TLT)과 국내 상장은 환·세금·분배 주기가 다르고, 국내 상품도 환헤지(H)·액티브·스트립·커버드콜·울트라선물로 위험이 갈립니다. 선택의 핵심은 듀레이션(금리 민감도), 환헤지 여부, 변형 구조, 절세계좌, 분배 방식입니다.이 글은 국내외 미국 장기국채 ETF 운용사 공식 자료와 채권 일반 자료를 참고했습니다. 총보수·분배수익률·순자산·듀레이션은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 금리·가격 예시는 구조를 설명하기 ..",
+  "og_title": "미국 장기국채 ETF 비교: TLT와 국내 상장 30년국채, 환헤지·변형 어떻게 고르나",
+  "post_id": "332",
+  "published_time": "2026-07-02T03:54:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 장기국채 ETF 비교: TLT와 국내 상장 30년국채, 환헤지·변형 어떻게 고르나",
+  "url": "https://mystock-note.tistory.com/332"
+}

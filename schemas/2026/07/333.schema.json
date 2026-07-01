@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-02",
+  "datePublished": "2026-07-02",
+  "description": "국내 AI반도체 ETF의 구성종목 비중을 유형별로 비교해, 어떤 ETF가 삼성·SK하이닉스에 집중하고 어떤 ETF가 소부장·장비주에 분산되는지, 엔비디아 노출은 어디서 가능한지 선택 기준을 정리합니다.",
+  "headline": "AI반도체 ETF 구성종목 비중 비교: 어디에 엔비디아가 있고 어디는 삼성·하이닉스인가",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/333",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/333"
+}

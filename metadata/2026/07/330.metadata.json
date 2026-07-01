@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-01",
+  "body_html_length": 6133,
+  "canonical_url": "https://mystock-note.tistory.com/330",
+  "content_hash": "08806e80fc7602ff34be40ea9c337827654fd702d292491a3fb7bf246b8ef4d7",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: SCHD는 미국 배당성장주 100종목에 투자하는 미국 상장 ETF로, 다우존스 미국 배당 100 지수를 추종합니다. 분배율이 가장 높은 종목을 모으는 \"고배당\"이 아니라, 배당을 키워온 우량 기업 중심의 \"배당성장\" 전략입니다. 국내에는 같은 지수를 추종하는 한국판 SCHD가 여러 운용사에서 상장돼 있어, 직접투자할지 국내상장으로 담을지 선택할 수 있습니다. 핵심은 분배율이 아니라 배당성장 성격, 절세계좌 활용, 환노출·환헤지 비용, 세금, 분배 주기입니다.이 글은 SCHD 및 한국판 SCHD(미국배당다우존스) 운용사 공식 자료를 참고했습니다. 총보수·배당수익률·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지와 ETF CHECK에서 직접 확인해야 합니다. 본문의 수..",
+  "modified_time": "2026-07-02T00:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/330\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/330\",\"headline\":\"SCHD ETF란? 한국판 SCHD와 차이, 직접투자할지 국내상장으로 담을지 비교\",\"description\":\"핵심 요약: SCHD는 미국 배당성장주 100종목에 투자하는 미국 상장 ETF로, 다우존스 미국 배당 100 지수를 추종합니다. 분배율이 가장 높은 종목을 모으는 \"고배당\"이 아니라, 배당을 키워온 우량 기업 중심의 \"배당성장\" 전략입니다. 국내에는 같은 지수를 추종하는 한국판 SCHD가 여러 운용사에서 상장돼 있어, 직접투자할지 국내상장으로 담을지 선택할 수 있습니다. 핵심은 분배율이 아니라 배당성장 성격, 절세계좌 활용, 환노출·환헤지 비용, 세금, 분배 주기입니다.이 글은 SCHD 및 한국판 SCHD(미국배당다우존스) 운용사 공식 자료를 참고했습니다. 총보수·배당수익률·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지와 ETF CHECK에서 직접 확인해야 합니다. 본문의 수..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-02T00:51:57+09:00\",\"dateModified\":\"2026-07-02T00:52:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: SCHD는 미국 배당성장주 100종목에 투자하는 미국 상장 ETF로, 다우존스 미국 배당 100 지수를 추종합니다. 분배율이 가장 높은 종목을 모으는 \"고배당\"이 아니라, 배당을 키워온 우량 기업 중심의 \"배당성장\" 전략입니다. 국내에는 같은 지수를 추종하는 한국판 SCHD가 여러 운용사에서 상장돼 있어, 직접투자할지 국내상장으로 담을지 선택할 수 있습니다. 핵심은 분배율이 아니라 배당성장 성격, 절세계좌 활용, 환노출·환헤지 비용, 세금, 분배 주기입니다.이 글은 SCHD 및 한국판 SCHD(미국배당다우존스) 운용사 공식 자료를 참고했습니다. 총보수·배당수익률·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지와 ETF CHECK에서 직접 확인해야 합니다. 본문의 수..",
+  "og_title": "SCHD ETF란? 한국판 SCHD와 차이, 직접투자할지 국내상장으로 담을지 비교",
+  "post_id": "330",
+  "published_time": "2026-07-02T00:51:57+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SCHD ETF란? 한국판 SCHD와 차이, 직접투자할지 국내상장으로 담을지 비교",
+  "url": "https://mystock-note.tistory.com/330"
+}

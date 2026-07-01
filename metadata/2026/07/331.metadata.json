@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-01",
+  "body_html_length": 5695,
+  "canonical_url": "https://mystock-note.tistory.com/331",
+  "content_hash": "6da64a09afd20e5ff2102f449a11561a815786a317f43d2dfa3266dfbb2fb89b",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: NVDY는 엔비디아(NVDA)를 직접 보유하지 않고, 옵션으로 합성 커버드콜 포지션을 만들어 옵션 프리미엄을 분배하는 미국 상장 초고배당 ETF입니다. 표면 분배율은 매우 높게 표시되지만, 운용사 공식 자료 기준 최근 분배의 대부분이 원금 환원(ROC)으로 채워졌습니다. 따라서 분배율로 평가하면 안 되며, 합성 구조, ROC 비중, NAV(기준가) 침식, 상승 캡과 하락 노출의 비대칭, 높은 보수를 먼저 확인해야 하는 전술적·고위험 상품입니다.이 글은 YieldMax NVDY 공식 페이지와 커버드콜·ROC 관련 자료를 참고했습니다. 분배금·분배 재원(ROC 비중)·NAV·30일 SEC 수익률은 분배 회차·기준일마다 달라지므로, 구체 수치는 운용사 공식 자료와 증권사 상품 설명서에서 반드시 확..",
+  "modified_time": "2026-07-02T01:53:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: NVDY는 엔비디아(NVDA)를 직접 보유하지 않고, 옵션으로 합성 커버드콜 포지션을 만들어 옵션 프리미엄을 분배하는 미국 상장 초고배당 ETF입니다. 표면 분배율은 매우 높게 표시되지만, 운용사 공식 자료 기준 최근 분배의 대부분이 원금 환원(ROC)으로 채워졌습니다. 따라서 분배율로 평가하면 안 되며, 합성 구조, ROC 비중, NAV(기준가) 침식, 상승 캡과 하락 노출의 비대칭, 높은 보수를 먼저 확인해야 하는 전술적·고위험 상품입니다.이 글은 YieldMax NVDY 공식 페이지와 커버드콜·ROC 관련 자료를 참고했습니다. 분배금·분배 재원(ROC 비중)·NAV·30일 SEC 수익률은 분배 회차·기준일마다 달라지므로, 구체 수치는 운용사 공식 자료와 증권사 상품 설명서에서 반드시 확..",
+  "og_title": "NVDY ETF란? 엔비디아 커버드콜 구조, ROC 함정, JEPQ와 차이 비교",
+  "post_id": "331",
+  "published_time": "2026-07-02T01:52:57+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NVDY ETF란? 엔비디아 커버드콜 구조, ROC 함정, JEPQ와 차이 비교",
+  "url": "https://mystock-note.tistory.com/331"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-02",
+  "datePublished": "2026-07-02",
+  "description": "미국 장기국채 ETF를 TLT와 국내 상장 30년국채로 비교하고, 듀레이션에 따른 금리 민감도·환헤지 비용·액티브/스트립/커버드콜 변형 차이와 금리 방향별 유불리를 산술로 정리합니다.",
+  "headline": "미국 장기국채 ETF 비교: TLT와 국내 상장 30년국채, 환헤지·변형 어떻게 고르나",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/332",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/332"
+}
