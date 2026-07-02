@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-02",
+  "body_html_length": 5712,
+  "canonical_url": "https://mystock-note.tistory.com/334",
+  "content_hash": "96220488bf54d6b89fa536bb4ff8add59a66dfabbbe3124534437f93d5d2686f",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: TQQQ는 나스닥100 지수의 하루 수익률을 3배로 추종하는 레버리지 ETF입니다. \"나스닥이 장기적으로 오르니 3배 수익\"이라고 생각하기 쉽지만, 매일 3배로 다시 맞추는 구조 때문에 횡보·하락장에서 변동성 감쇠(decay)가 쌓여 장기 수익률은 단순 3배에 못 미칩니다. TQQQ는 분배율이 아니라 일간 추종 구조, 변동성 감쇠, 높은 보수, 환·세금, 단기 vs 장기 적합성을 먼저 확인해야 하는 고위험 단기 상품입니다.이 글은 ProShares TQQQ 공식 자료와 레버리지 ETF 관련 규제기관 안내를 참고했습니다. 운용보수, 수익률, 순자산은 기준일에 따라 다르므로 실제 투자 전에는 운용사 공식 자료와 증권사 상품 설명서를 확인해야 합니다.TQQQ는 어떤 ETF인가요?TQQQ(ProSh..",
+  "modified_time": "2026-07-03T00:47:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/334\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/334\",\"headline\":\"TQQQ ETF란? 나스닥 3배 레버리지의 변동성 감쇠와 장기보유 함정\",\"description\":\"핵심 요약: TQQQ는 나스닥100 지수의 하루 수익률을 3배로 추종하는 레버리지 ETF입니다. \"나스닥이 장기적으로 오르니 3배 수익\"이라고 생각하기 쉽지만, 매일 3배로 다시 맞추는 구조 때문에 횡보·하락장에서 변동성 감쇠(decay)가 쌓여 장기 수익률은 단순 3배에 못 미칩니다. TQQQ는 분배율이 아니라 일간 추종 구조, 변동성 감쇠, 높은 보수, 환·세금, 단기 vs 장기 적합성을 먼저 확인해야 하는 고위험 단기 상품입니다.이 글은 ProShares TQQQ 공식 자료와 레버리지 ETF 관련 규제기관 안내를 참고했습니다. 운용보수, 수익률, 순자산은 기준일에 따라 다르므로 실제 투자 전에는 운용사 공식 자료와 증권사 상품 설명서를 확인해야 합니다.TQQQ는 어떤 ETF인가요?TQQQ(ProSh..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-03T00:46:33+09:00\",\"dateModified\":\"2026-07-03T00:47:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: TQQQ는 나스닥100 지수의 하루 수익률을 3배로 추종하는 레버리지 ETF입니다. \"나스닥이 장기적으로 오르니 3배 수익\"이라고 생각하기 쉽지만, 매일 3배로 다시 맞추는 구조 때문에 횡보·하락장에서 변동성 감쇠(decay)가 쌓여 장기 수익률은 단순 3배에 못 미칩니다. TQQQ는 분배율이 아니라 일간 추종 구조, 변동성 감쇠, 높은 보수, 환·세금, 단기 vs 장기 적합성을 먼저 확인해야 하는 고위험 단기 상품입니다.이 글은 ProShares TQQQ 공식 자료와 레버리지 ETF 관련 규제기관 안내를 참고했습니다. 운용보수, 수익률, 순자산은 기준일에 따라 다르므로 실제 투자 전에는 운용사 공식 자료와 증권사 상품 설명서를 확인해야 합니다.TQQQ는 어떤 ETF인가요?TQQQ(ProSh..",
+  "og_title": "TQQQ ETF란? 나스닥 3배 레버리지의 변동성 감쇠와 장기보유 함정",
+  "post_id": "334",
+  "published_time": "2026-07-03T00:46:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TQQQ ETF란? 나스닥 3배 레버리지의 변동성 감쇠와 장기보유 함정",
+  "url": "https://mystock-note.tistory.com/334"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-03",
+  "datePublished": "2026-07-03",
+  "description": "금현물·금선물·재간접·커버드콜 골드 ETF가 추종 방식·환노출·과세에서 어떻게 다른지 비교하고, 환율이 금 수익률을 얼마나 바꾸는지 산술로 정리해 선택 기준을 제시합니다.",
+  "headline": "골드 ETF 비교: 금현물·금선물·환헤지 무엇이 다르고 어디에 담아야 하나",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/336",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/336"
+}

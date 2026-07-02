@@ -1,0 +1,95 @@
+<!--
+source: https://mystock-note.tistory.com/337
+backup_date: 2026-07-02
+post_id: 337
+-->
+<p data-ke-size="size16"><b>핵심 요약:</b> 같은 자산에 투자하는 ETF라도 이름에 (H)가 붙은 환헤지형과 붙지 않은 환노출형은 수익률이 다르게 나옵니다. 환헤지형은 환율 변동을 줄여 자산 본래 성과에 집중하게 해주지만, 한·미 금리차만큼 숨은 헤지 비용이 들고 이 비용은 장기 복리로 누적됩니다. "(H)가 안전"이 아니라 <b>환율 전망, 투자 기간, 자산군의 환 민감도, 헤지 비용</b>에 따라 골라야 합니다.</p>
+<p data-ke-size="size16">이 글은 환헤지 구조와 ETF 과세 관련 자료를 참고했습니다. 헤지 비용은 한·미 금리차 등에 따라 수시로 변하므로, 실제 상품의 환헤지 여부·비용은 운용사 공식 자료로 확인해야 합니다. 본문의 비용·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.</p>
+
+<h2 data-ke-size="size26">환헤지(H)와 환노출은 무엇이 다른가요?</h2>
+<p data-ke-size="size16">해외 자산에 투자하는 ETF는 그 자산의 가격뿐 아니라 원·달러 환율 변동의 영향을 함께 받습니다. 환노출형은 환율 변동을 그대로 반영하고, 환헤지형(이름에 H 표기)은 선물환 등으로 환율 변동을 상쇄해 자산 자체의 성과에 가깝게 만듭니다.</p>
+<table data-ke-align="alignLeft"><caption>환헤지형 vs 환노출형</caption>
+<thead>
+<tr><th scope="col">구분</th><th scope="col">환헤지형(H)</th><th scope="col">환노출형</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">환율 영향</th><td>줄임(자산 성과에 집중)</td><td>그대로 반영</td></tr>
+<tr><th scope="row">원화 약세(환율↑)</th><td>환차익 없음</td><td>추가 이익</td></tr>
+<tr><th scope="row">원화 강세(환율↓)</th><td>환차손 방어</td><td>추가 손실</td></tr>
+<tr><th scope="row">비용</th><td>숨은 헤지 비용 발생</td><td>헤지 비용 없음</td></tr>
+</tbody>
+</table>
+
+
+
+<p></p>
+
+
+<h2 data-ke-size="size26">환헤지의 숨은 비용은 어떻게 발생하나요?</h2>
+<p data-ke-size="size16">환헤지는 선물환 계약으로 환율을 고정하는데, 이때 두 나라의 금리차가 비용 또는 이익으로 반영됩니다. 한국 금리가 미국보다 낮으면 달러를 팔고 원화를 사는 선물환 계약에서 비용이 발생해 수익률을 갉아먹습니다. 이 비용은 운용보수처럼 명시되지 않고 성과에 녹아 있어 "숨은 비용"이라 부릅니다.</p>
+<table data-ke-align="alignLeft"><caption>한·미 금리차가 헤지 비용이 되는 구조 (가상 예시)</caption>
+<thead>
+<tr><th scope="col">한국 금리</th><th scope="col">미국 금리</th><th scope="col">금리차</th><th scope="col">연간 헤지 비용(대략)</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">3.5%</th><td>5.0%</td><td>-1.5%p(한국 낮음)</td><td>약 -1.5%</td></tr>
+<tr><th scope="row">4.0%</th><td>4.0%</td><td>0</td><td>약 0</td></tr>
+<tr><th scope="row">4.5%</th><td>4.0%</td><td>+0.5%p(한국 높음)</td><td>약 +0.5%(이익)</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">한국 금리가 미국보다 낮을 때 환헤지형은 매년 그 차이만큼 비용이 생깁니다. 반대로 한국 금리가 더 높으면 헤지가 오히려 이익이 됩니다. 금리차가 바뀔 때마다 헤지 비용도 달라지므로, 과거 비용이 미래에도 같다고 볼 수 없습니다.</p>
+
+<h2 data-ke-size="size26">헤지 비용은 장기 복리로 얼마나 쌓이나요?</h2>
+<p data-ke-size="size16">연 1.5%p의 헤지 비용이 복리로 누적되면 장기 성과에 상당한 영향을 줍니다.</p>
+<table data-ke-align="alignLeft"><caption>연 헤지 비용 1.5% 복리 누적 영향 (원금 5,000만 원, 자산 수익 0% 가정, 가상 예시)</caption>
+<thead>
+<tr><th scope="col">보유 기간</th><th scope="col">환헤지형</th><th scope="col">환노출형</th><th scope="col">차이</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">5년</th><td>약 4,642만</td><td>5,000만</td><td>약 358만</td></tr>
+<tr><th scope="row">10년</th><td>약 4,307만</td><td>5,000만</td><td>약 693만</td></tr>
+<tr><th scope="row">20년</th><td>약 3,705만</td><td>5,000만</td><td>약 1,295만</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">자산 수익이 0%라고 가정해도 헤지 비용만으로 20년간 원금의 약 26%가 사라집니다. 물론 환헤지형은 환차손을 방어하므로, 원화 강세 국면에서는 이 비용이 상쇄됩니다. 문제는 환율 방향을 20년 후까지 예측할 수 없다는 점입니다. 헤지 비용을 확실히 내는 대신 환차손을 막는 보험을 드는 구조입니다.</p>
+
+<h2 data-ke-size="size26">자산군에 따라 환의 중요도가 다른가요?</h2>
+<p data-ke-size="size16">네. 자산 자체의 변동성이 작을수록 환율의 비중이 상대적으로 커집니다.</p>
+<table data-ke-align="alignLeft"><caption>자산군별 환율 민감도 (개념)</caption>
+<thead>
+<tr><th scope="col">자산군</th><th scope="col">자산 변동성</th><th scope="col">환율 비중</th><th scope="col">환 선택 중요도</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">단기채(SGOV·USFR)</th><td>매우 작음</td><td>매우 큼</td><td>최우선</td></tr>
+<tr><th scope="row">금(KRX금현물)</th><td>중간</td><td>큼</td><td>높음</td></tr>
+<tr><th scope="row">장기국채(TLT)</th><td>큼</td><td>큼</td><td>높음</td></tr>
+<tr><th scope="row">미국 주식(VOO·QQQM)</th><td>매우 큼</td><td>중간</td><td>낮음(장기 상쇄)</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">단기채는 자산 변동이 거의 없으므로 환율이 수익률 전체를 결정할 수 있습니다. 예를 들어 달러 단기채 수익이 연 5%여도 원화가 8% 강세면 원화 기준 손실입니다. 반면 주식은 자산 변동이 커서 장기적으로 환율 영향이 상대적으로 희석됩니다. 각 자산군에서 환을 어떻게 다뤄야 하는지는 <a href="https://mystock-note.tistory.com/327">USFR(단기채)</a>, <a href="https://mystock-note.tistory.com/332">미국 장기국채</a>, <a href="https://mystock-note.tistory.com/336">골드 ETF</a>, <a href="https://mystock-note.tistory.com/330">SCHD(주식)</a>에서 각각 다뤘습니다.</p>
+
+<h2 data-ke-size="size26">투자 기간은 어떻게 작용하나요?</h2>
+<p data-ke-size="size16">단기에는 환율 변동이 성과를 크게 흔들 수 있어 환 관리가 중요합니다. 장기에는 환율이 등락을 반복하며 영향이 일부 상쇄되는 경향이 있고, 대신 환헤지 비용이 매년 복리로 누적됩니다. 그래서 아주 장기로 묻어두는 주식 자산은 헤지 비용 부담 때문에 환노출형을 택하는 경우가 많습니다. 반면 단기·중기 보유 예정이거나 환율에 민감한 자산(채권·금)이라면 환헤지형이 맞을 수 있습니다.</p>
+<table data-ke-align="alignLeft"><caption>투자 기간·자산군별 환 선택 가이드</caption>
+<thead>
+<tr><th scope="col">조건</th><th scope="col">환헤지(H)</th><th scope="col">환노출</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">단기·환 민감 자산</th><td>헤지 비용 감당되면 적합</td><td>환변동 위험 큼</td></tr>
+<tr><th scope="row">장기 주식 코어</th><td>헤지 비용 누적 부담</td><td>장기 상쇄 기대 가능</td></tr>
+<tr><th scope="row">원화 약세 전망</th><td>환차익 포기</td><td>환차익 추가</td></tr>
+<tr><th scope="row">원화 강세 전망</th><td>환차손 방어</td><td>환차손 발생</td></tr>
+</tbody>
+</table>
+
+<h2 data-ke-size="size26">세금에서도 환이 작용하나요?</h2>
+<p data-ke-size="size16">미국 상장 ETF를 직접 보유하면 매도 시 환차익이 양도차익에 포함돼 과세됩니다(양도세 22%, 250만 원 공제). 환차익만 따로 비과세되지 않습니다. 국내 상장 환헤지·환노출 ETF는 매매차익이 배당소득세(15.4%) 대상인 경우가 많습니다. 환과 세금을 함께 보려면 계좌 유형(일반 vs 절세계좌)까지 고려해야 합니다. 연금계좌 배치는 <a href="https://mystock-note.tistory.com/329">연금저축·IRP ETF 배치 순서</a>를 참고하세요.</p>
+
+<h2 data-ke-size="size26">국내 상장과 미국 상장의 환 처리는 다른가요?</h2>
+<p data-ke-size="size16">국내 상장 ETF는 한국 운용사가 환헤지 여부를 상품 단위로 결정하고, 투자자는 상품 선택으로 환노출/헤지를 고릅니다. 미국 상장 ETF를 직접 보유하면 원칙적으로 환노출이고, 환차익·환차손이 모두 성과에 반영됩니다. 미국 상장 ETF 중에도 달러 기반 국채·채권 ETF는 원화 환산 기준으로 환 영향을 크게 받습니다.</p>
+
+<div style="max-width: 720px; margin: 24px 0; padding: 18px; border: 1px solid #e5e7eb; border-radius: 14px; background: #fafafa;">
+<h3 style="margin-top: 0;" data-ke-size="size23">환 선택 점검 우선순위</h3>
+<div style="margin: 12px 0;">
+<p style="margin: 0 0 6px 0;" data-ke-size="size16"><b>1순위: 자산군</b> &mdash; 단기채·금·채권은 환 중요, 장기 주식은 상대적으로 낮음</p>
+<div style="height: 12px; background: #e5e7eb; border-radius: 999px;"><div style="width: 96%; height: 12px; background: #2563eb; border-radius: 999px;">&nbsp;

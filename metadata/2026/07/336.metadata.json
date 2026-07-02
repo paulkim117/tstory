@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-02",
+  "body_html_length": 6022,
+  "canonical_url": "https://mystock-note.tistory.com/336",
+  "content_hash": "211949d505bfd47356b1c2b2b7e98fd82738cc67cbb558ba16aa6b02f598aef4",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 골드 ETF는 금에 간접 투자하는 상품이지만, 같은 \"금 ETF\"라도 금현물을 담는지 금선물을 담는지, 환헤지(H)를 하는지에 따라 추종 정확도·비용·수익이 달라집니다. 특히 금은 달러로 거래되므로 환율이 수익률을 크게 바꿉니다. 금현물형(KRX)은 환노출, 금선물형은 대체로 환헤지(H)라 같은 금값 상승에도 원화 환산 수익이 다르게 나옵니다. 선택의 핵심은 현물 vs 선물 방식, 환헤지 여부, 롤오버 비용, 과세, 절세계좌입니다.이 글은 각 운용사 공식 자료와 금 ETF 관련 자료를 참고했습니다. 총보수·순자산·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 수익률·비용 예시는 구조를 설명하기 위한 가..",
+  "modified_time": "2026-07-03T02:49:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/336\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/336\",\"headline\":\"골드 ETF 비교: 금현물·금선물·환헤지 무엇이 다르고 어디에 담아야 하나\",\"description\":\"핵심 요약: 골드 ETF는 금에 간접 투자하는 상품이지만, 같은 \"금 ETF\"라도 금현물을 담는지 금선물을 담는지, 환헤지(H)를 하는지에 따라 추종 정확도·비용·수익이 달라집니다. 특히 금은 달러로 거래되므로 환율이 수익률을 크게 바꿉니다. 금현물형(KRX)은 환노출, 금선물형은 대체로 환헤지(H)라 같은 금값 상승에도 원화 환산 수익이 다르게 나옵니다. 선택의 핵심은 현물 vs 선물 방식, 환헤지 여부, 롤오버 비용, 과세, 절세계좌입니다.이 글은 각 운용사 공식 자료와 금 ETF 관련 자료를 참고했습니다. 총보수·순자산·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 수익률·비용 예시는 구조를 설명하기 위한 가..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-03T02:48:00+09:00\",\"dateModified\":\"2026-07-03T02:49:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 골드 ETF는 금에 간접 투자하는 상품이지만, 같은 \"금 ETF\"라도 금현물을 담는지 금선물을 담는지, 환헤지(H)를 하는지에 따라 추종 정확도·비용·수익이 달라집니다. 특히 금은 달러로 거래되므로 환율이 수익률을 크게 바꿉니다. 금현물형(KRX)은 환노출, 금선물형은 대체로 환헤지(H)라 같은 금값 상승에도 원화 환산 수익이 다르게 나옵니다. 선택의 핵심은 현물 vs 선물 방식, 환헤지 여부, 롤오버 비용, 과세, 절세계좌입니다.이 글은 각 운용사 공식 자료와 금 ETF 관련 자료를 참고했습니다. 총보수·순자산·추적오차는 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 수익률·비용 예시는 구조를 설명하기 위한 가..",
+  "og_title": "골드 ETF 비교: 금현물·금선물·환헤지 무엇이 다르고 어디에 담아야 하나",
+  "post_id": "336",
+  "published_time": "2026-07-03T02:48:00+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "골드 ETF 비교: 금현물·금선물·환헤지 무엇이 다르고 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/336"
+}

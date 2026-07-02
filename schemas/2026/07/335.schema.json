@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-03T01:48:00+09:00",
+    "datePublished": "2026-07-03T01:47:20+09:00",
+    "description": "핵심 요약: QQQM은 QQQ와 동일한 나스닥100 지수를 추종하는 미국 상장 ETF로, 같은 운용사가 장기 투자자를 겨냥해 운용보수를 낮춘 버전입니다. 지수가 같아 성과 차이는 작지만, 보수 차이는 장기 복리로 누적되고 주당 가격과 유동성·옵션 시장 규모도 다릅니다. 선택 기준은 분배율이 아니라 보유 기간, 매매 빈도, 보수 누적, 나스닥100 업종 집중도, 환·절세계좌입니다.이 글은 QQQ·QQQM 운용사 공식 자료를 참고했습니다. 운용보수·순자산·거래량은 기준일에 따라 다르므로, 실제 투자 전에는 운용사 공식 페이지에서 직접 확인해야 합니다. 본문의 보수 누적·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.QQQM은 어떤 ETF인가요?QQQM(Invesco NASDAQ 100 ETF)은 나스닥..",
+    "headline": "QQQM ETF란? QQQ와 차이, 나스닥100 장기투자 저보수 선택",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/335",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/335"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-03",
+    "datePublished": "2026-07-03",
+    "description": "QQQM ETF가 QQQ와 같은 나스닥100을 추종하면서 보수가 낮은 이유, 보수 차이가 장기 복리로 얼마나 누적되는지, 유동성·옵션 차이와 국내 상장 대안까지 산술로 정리했습니다.",
+    "headline": "QQQM ETF란? QQQ와 차이, 나스닥100 장기투자 저보수 선택",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/335",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/335"
+  }
+]

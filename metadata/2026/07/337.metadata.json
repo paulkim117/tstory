@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-02",
+  "body_html_length": 5868,
+  "canonical_url": "https://mystock-note.tistory.com/337",
+  "content_hash": "504e19fcae9e80465655a2c3ab1e6851e6f8aea2cec983cbdae33891748c2e8a",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 같은 자산에 투자하는 ETF라도 이름에 (H)가 붙은 환헤지형과 붙지 않은 환노출형은 수익률이 다르게 나옵니다. 환헤지형은 환율 변동을 줄여 자산 본래 성과에 집중하게 해주지만, 한·미 금리차만큼 숨은 헤지 비용이 들고 이 비용은 장기 복리로 누적됩니다. \"(H)가 안전\"이 아니라 환율 전망, 투자 기간, 자산군의 환 민감도, 헤지 비용에 따라 골라야 합니다.이 글은 환헤지 구조와 ETF 과세 관련 자료를 참고했습니다. 헤지 비용은 한·미 금리차 등에 따라 수시로 변하므로, 실제 상품의 환헤지 여부·비용은 운용사 공식 자료로 확인해야 합니다. 본문의 비용·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.환헤지(H)와 환노출은 무엇이 다른가요?해외 자산에 투자하는 ETF는 그 자산의 가격뿐..",
+  "modified_time": "2026-07-03T03:49:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/337\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/337\",\"headline\":\"환헤지 ETF vs 환노출 ETF, 무엇을 골라야 하나 — 환율·기간·자산군별 결정\",\"description\":\"핵심 요약: 같은 자산에 투자하는 ETF라도 이름에 (H)가 붙은 환헤지형과 붙지 않은 환노출형은 수익률이 다르게 나옵니다. 환헤지형은 환율 변동을 줄여 자산 본래 성과에 집중하게 해주지만, 한·미 금리차만큼 숨은 헤지 비용이 들고 이 비용은 장기 복리로 누적됩니다. \"(H)가 안전\"이 아니라 환율 전망, 투자 기간, 자산군의 환 민감도, 헤지 비용에 따라 골라야 합니다.이 글은 환헤지 구조와 ETF 과세 관련 자료를 참고했습니다. 헤지 비용은 한·미 금리차 등에 따라 수시로 변하므로, 실제 상품의 환헤지 여부·비용은 운용사 공식 자료로 확인해야 합니다. 본문의 비용·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.환헤지(H)와 환노출은 무엇이 다른가요?해외 자산에 투자하는 ETF는 그 자산의 가격뿐..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-03T03:48:43+09:00\",\"dateModified\":\"2026-07-03T03:49:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 같은 자산에 투자하는 ETF라도 이름에 (H)가 붙은 환헤지형과 붙지 않은 환노출형은 수익률이 다르게 나옵니다. 환헤지형은 환율 변동을 줄여 자산 본래 성과에 집중하게 해주지만, 한·미 금리차만큼 숨은 헤지 비용이 들고 이 비용은 장기 복리로 누적됩니다. \"(H)가 안전\"이 아니라 환율 전망, 투자 기간, 자산군의 환 민감도, 헤지 비용에 따라 골라야 합니다.이 글은 환헤지 구조와 ETF 과세 관련 자료를 참고했습니다. 헤지 비용은 한·미 금리차 등에 따라 수시로 변하므로, 실제 상품의 환헤지 여부·비용은 운용사 공식 자료로 확인해야 합니다. 본문의 비용·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.환헤지(H)와 환노출은 무엇이 다른가요?해외 자산에 투자하는 ETF는 그 자산의 가격뿐..",
+  "og_title": "환헤지 ETF vs 환노출 ETF, 무엇을 골라야 하나 — 환율·기간·자산군별 결정",
+  "post_id": "337",
+  "published_time": "2026-07-03T03:48:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "환헤지 ETF vs 환노출 ETF, 무엇을 골라야 하나 — 환율·기간·자산군별 결정",
+  "url": "https://mystock-note.tistory.com/337"
+}

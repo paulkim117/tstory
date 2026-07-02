@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-03",
+  "datePublished": "2026-07-03",
+  "description": "환헤지(H) ETF와 환노출 ETF의 차이, 숨은 헤지 비용이 장기 복리로 얼마나 쌓이는지, 자산군·투자 기간·환율 전망에 따른 선택 기준을 산술로 정리했습니다.",
+  "headline": "환헤지 ETF vs 환노출 ETF, 무엇을 골라야 하나 — 환율·기간·자산군별 결정",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/337",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/337"
+}
