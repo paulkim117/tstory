@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-04",
+  "datePublished": "2026-07-04",
+  "description": "국내 상장 인도 ETF를 Nifty50 대표지수형·소비/그룹 테마형·레버리지로 비교하고, 모든 상품이 환노출(루피)이라는 점과 루피 환율이 수익률을 얼마나 바꾸는지, TR·합성 구조까지 산술로 정리합니다.",
+  "headline": "인도 ETF 비교: Nifty50·테마형·레버리지 무엇이 다르고 어디에 담아야 하나",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/340",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/340"
+}

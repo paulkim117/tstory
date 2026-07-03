@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-04T01:53:00+09:00",
+    "datePublished": "2026-07-04T01:52:14+09:00",
+    "description": "핵심 요약: VNQ는 미국 리츠(REIT, 부동산투자회사)에 분산 투자하는 미국 상장 ETF로, 부동산 임대수익과 FFO(운영자금)를 배당으로 지급합니다. 리츠는 금리에 민감해 금리가 오르면 약세, 내리면 강세를 보이는 경향이 있고, 오피스·물류·데이터센터·주거 등 섹터마다 위험·수익 특성이 다릅니다. VNQ를 볼 때는 배당률만이 아니라 FFO 기반 배당 재원, 금리 민감 메커니즘, 섹터 구성, NAV, 환·세금을 함께 확인해야 합니다.이 글은 미국 리츠 ETF 운용사 공식 자료와 리츠 일반 자료를 참고했습니다. 운용보수·배당률·순자산은 기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지에서 직접 확인해야 합니다. 본문의 금리·가격 예시는 구조를 설명하기 위한 가상의 수치입니다.VNQ는 어떤 ET..",
+    "headline": "VNQ ETF란? 미국 리츠 ETF의 배당 구조와 금리 민감도, 국내 대안 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/339",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/339"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-04",
+    "datePublished": "2026-07-04",
+    "description": "VNQ ETF가 미국 리츠 배당을 만드는 FFO 구조와 금리에 민감한 이유, 금리 시나리오별 리츠 가격 영향, 섹터별 특성, 국내 상장 대안까지 산술로 정리했습니다.",
+    "headline": "VNQ ETF란? 미국 리츠 ETF의 배당 구조와 금리 민감도, 국내 대안 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/339",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/339"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-03",
+  "body_html_length": 5750,
+  "canonical_url": "https://mystock-note.tistory.com/340",
+  "content_hash": "367ed808eb6e9f0260d167d874e35703ebafbbecff289645855851d169ef83ca",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 인도 ETF는 인도 경제 성장에 투자하는 상품이지만, 같은 \"인도 ETF\"라도 Nifty50 대표지수를 담는지, 소비·그룹 테마에 집중하는지, 레버리지인지에 따라 위험·수익이 다릅니다. 특히 국내 상장 인도 ETF는 대부분 환헤지를 하지 않아 원·루피 환율 변동에 그대로 노출됩니다. 루피가 약세면 인도 주가가 올라도 원화 수익이 깎입니다. 선택의 핵심은 대표지수 vs 테마, 루피 환노출 산술, TR 구조, 합성 여부, 절세계좌입니다.이 글은 국내 상장 인도 ETF 운용사 공식 자료를 참고했습니다. 총보수·순자산·수익률·구성종목은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 루피 환율·수익 예시는 구조를 설명하기..",
+  "modified_time": "2026-07-04T02:53:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/340\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/340\",\"headline\":\"인도 ETF 비교: Nifty50·테마형·레버리지 무엇이 다르고 어디에 담아야 하나\",\"description\":\"핵심 요약: 인도 ETF는 인도 경제 성장에 투자하는 상품이지만, 같은 \"인도 ETF\"라도 Nifty50 대표지수를 담는지, 소비·그룹 테마에 집중하는지, 레버리지인지에 따라 위험·수익이 다릅니다. 특히 국내 상장 인도 ETF는 대부분 환헤지를 하지 않아 원·루피 환율 변동에 그대로 노출됩니다. 루피가 약세면 인도 주가가 올라도 원화 수익이 깎입니다. 선택의 핵심은 대표지수 vs 테마, 루피 환노출 산술, TR 구조, 합성 여부, 절세계좌입니다.이 글은 국내 상장 인도 ETF 운용사 공식 자료를 참고했습니다. 총보수·순자산·수익률·구성종목은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 루피 환율·수익 예시는 구조를 설명하기..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-04T02:52:53+09:00\",\"dateModified\":\"2026-07-04T02:53:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 인도 ETF는 인도 경제 성장에 투자하는 상품이지만, 같은 \"인도 ETF\"라도 Nifty50 대표지수를 담는지, 소비·그룹 테마에 집중하는지, 레버리지인지에 따라 위험·수익이 다릅니다. 특히 국내 상장 인도 ETF는 대부분 환헤지를 하지 않아 원·루피 환율 변동에 그대로 노출됩니다. 루피가 약세면 인도 주가가 올라도 원화 수익이 깎입니다. 선택의 핵심은 대표지수 vs 테마, 루피 환노출 산술, TR 구조, 합성 여부, 절세계좌입니다.이 글은 국내 상장 인도 ETF 운용사 공식 자료를 참고했습니다. 총보수·순자산·수익률·구성종목은 상품·기준일마다 다르므로, 실제 투자 전에는 운용사 공식 페이지, KRX, ETF CHECK에서 직접 확인해야 합니다. 본문의 루피 환율·수익 예시는 구조를 설명하기..",
+  "og_title": "인도 ETF 비교: Nifty50·테마형·레버리지 무엇이 다르고 어디에 담아야 하나",
+  "post_id": "340",
+  "published_time": "2026-07-04T02:52:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "인도 ETF 비교: Nifty50·테마형·레버리지 무엇이 다르고 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/340"
+}

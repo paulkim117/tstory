@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-03",
+  "body_html_length": 5964,
+  "canonical_url": "https://mystock-note.tistory.com/341",
+  "content_hash": "1b03864067e57ab7586e399d80c0a49b22bbb440a33bac68fc9f3ff4e4f4bf09",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 미국 지수 투자의 대표 선택지는 S&P500과 나스닥100입니다. S&P500은 업종이 고르게 분산된 미국 500대 기업, 나스닥100은 기술·성장주 비중이 높은 100종목입니다. 두 지수는 상위 종목(애플·마이크로소프트·엔비디아 등)이 크게 겹쳐, 같은 비중으로 함께 담으면 기술주 비중만 중복으로 늘어납니다. 정답은 \"어느 쪽이 더 낫다\"가 아니라 업종 집중도, 변동성 감내, 조합 시 중복 비중, 투자 기간, 계좌에 달려 있습니다.이 글은 S&P500·나스닥100 지수 및 추종 ETF 공식 자료를 참고했습니다. 구성종목 비중과 수익률은 기준일에 따라 변동되므로, 실제 수치는 운용사 공식 자료에서 확인해야 합니다. 본문의 비중·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.S&P500과..",
+  "modified_time": "2026-07-04T03:54:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/341\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/341\",\"headline\":\"S&P500 vs 나스닥100, 어디에 투자해야 하나 — 차이와 선택 기준\",\"description\":\"핵심 요약: 미국 지수 투자의 대표 선택지는 S&P500과 나스닥100입니다. S&P500은 업종이 고르게 분산된 미국 500대 기업, 나스닥100은 기술·성장주 비중이 높은 100종목입니다. 두 지수는 상위 종목(애플·마이크로소프트·엔비디아 등)이 크게 겹쳐, 같은 비중으로 함께 담으면 기술주 비중만 중복으로 늘어납니다. 정답은 \"어느 쪽이 더 낫다\"가 아니라 업종 집중도, 변동성 감내, 조합 시 중복 비중, 투자 기간, 계좌에 달려 있습니다.이 글은 S&P500·나스닥100 지수 및 추종 ETF 공식 자료를 참고했습니다. 구성종목 비중과 수익률은 기준일에 따라 변동되므로, 실제 수치는 운용사 공식 자료에서 확인해야 합니다. 본문의 비중·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.S&P500과..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-04T03:53:38+09:00\",\"dateModified\":\"2026-07-04T03:54:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 미국 지수 투자의 대표 선택지는 S&P500과 나스닥100입니다. S&P500은 업종이 고르게 분산된 미국 500대 기업, 나스닥100은 기술·성장주 비중이 높은 100종목입니다. 두 지수는 상위 종목(애플·마이크로소프트·엔비디아 등)이 크게 겹쳐, 같은 비중으로 함께 담으면 기술주 비중만 중복으로 늘어납니다. 정답은 \"어느 쪽이 더 낫다\"가 아니라 업종 집중도, 변동성 감내, 조합 시 중복 비중, 투자 기간, 계좌에 달려 있습니다.이 글은 S&P500·나스닥100 지수 및 추종 ETF 공식 자료를 참고했습니다. 구성종목 비중과 수익률은 기준일에 따라 변동되므로, 실제 수치는 운용사 공식 자료에서 확인해야 합니다. 본문의 비중·수익 예시는 구조를 설명하기 위한 가상의 수치입니다.S&P500과..",
+  "og_title": "S&P500 vs 나스닥100, 어디에 투자해야 하나 — 차이와 선택 기준",
+  "post_id": "341",
+  "published_time": "2026-07-04T03:53:38+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P500 vs 나스닥100, 어디에 투자해야 하나 — 차이와 선택 기준",
+  "url": "https://mystock-note.tistory.com/341"
+}
