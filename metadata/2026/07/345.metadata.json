@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-04",
+  "body_html_length": 7677,
+  "canonical_url": "https://mystock-note.tistory.com/345",
+  "content_hash": "e8402db784ee3f42f102c63fed0f43d1f5861446701301f27f2d9654b4733c4e",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 미국 커버드콜 ETF의 분배금을 받으려면 배당락일 전 거래일까지 매수가 체결돼야 합니다. 다만 이게 끝이 아닙니다. 배당락일에 주가는 분배금만큼 내려서 출발하고, 분배금에는 세금이 붙습니다. 그래서 \"분배금 받으려고 배당락 직전에 사는\" 전략은 구조상 이득이 없습니다. 진짜 따져야 할 것은 분배금 받는 날짜가 아니라, 이 상품을 장기 보유할 가치가 있는가(총수익)입니다. 이 글은 배당락일·기준일·지급일 구조와 매수 타이밍, 그리고 그 타이밍이 왜 생각만큼 중요하지 않은지를 정리합니다.이 글은 미국 증권당국(SEC)의 투자자 안내(Investor.gov)와 운용사 공식 분배 자료를 참고했습니다. 특정 배당락일·지급일·분배율은 상품과 시점에 따라 달라지므로, 실제 날짜와 금액은 운용사 공식 일정..",
+  "modified_time": "2026-07-05T03:05:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/345\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/345\",\"headline\":\"미국 커버드콜 ETF 분배금, 언제 사야 받나 — 배당락일·지급일·매수 타이밍 정리\",\"description\":\"핵심 요약: 미국 커버드콜 ETF의 분배금을 받으려면 배당락일 전 거래일까지 매수가 체결돼야 합니다. 다만 이게 끝이 아닙니다. 배당락일에 주가는 분배금만큼 내려서 출발하고, 분배금에는 세금이 붙습니다. 그래서 \"분배금 받으려고 배당락 직전에 사는\" 전략은 구조상 이득이 없습니다. 진짜 따져야 할 것은 분배금 받는 날짜가 아니라, 이 상품을 장기 보유할 가치가 있는가(총수익)입니다. 이 글은 배당락일·기준일·지급일 구조와 매수 타이밍, 그리고 그 타이밍이 왜 생각만큼 중요하지 않은지를 정리합니다.이 글은 미국 증권당국(SEC)의 투자자 안내(Investor.gov)와 운용사 공식 분배 자료를 참고했습니다. 특정 배당락일·지급일·분배율은 상품과 시점에 따라 달라지므로, 실제 날짜와 금액은 운용사 공식 일정..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-05T03:04:05+09:00\",\"dateModified\":\"2026-07-05T03:05:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 미국 커버드콜 ETF의 분배금을 받으려면 배당락일 전 거래일까지 매수가 체결돼야 합니다. 다만 이게 끝이 아닙니다. 배당락일에 주가는 분배금만큼 내려서 출발하고, 분배금에는 세금이 붙습니다. 그래서 \"분배금 받으려고 배당락 직전에 사는\" 전략은 구조상 이득이 없습니다. 진짜 따져야 할 것은 분배금 받는 날짜가 아니라, 이 상품을 장기 보유할 가치가 있는가(총수익)입니다. 이 글은 배당락일·기준일·지급일 구조와 매수 타이밍, 그리고 그 타이밍이 왜 생각만큼 중요하지 않은지를 정리합니다.이 글은 미국 증권당국(SEC)의 투자자 안내(Investor.gov)와 운용사 공식 분배 자료를 참고했습니다. 특정 배당락일·지급일·분배율은 상품과 시점에 따라 달라지므로, 실제 날짜와 금액은 운용사 공식 일정..",
+  "og_title": "미국 커버드콜 ETF 분배금, 언제 사야 받나 — 배당락일·지급일·매수 타이밍 정리",
+  "post_id": "345",
+  "published_time": "2026-07-05T03:04:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 커버드콜 ETF 분배금, 언제 사야 받나 — 배당락일·지급일·매수 타이밍 정리",
+  "url": "https://mystock-note.tistory.com/345"
+}

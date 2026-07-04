@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-05T02:04:00+09:00",
+    "datePublished": "2026-07-05T02:03:02+09:00",
+    "description": "핵심 요약: 국내 상장 일본 ETF는 ① 어떤 지수를 따르나(닛케이225 vs TOPIX), ② 환헤지인가 환노출인가, ③ 어느 운용사·보수인가, 이 세 축으로 갈립니다. 닛케이225는 주가가 높은 종목이 지수를 더 움직이는 가격가중, TOPIX는 시가총액 가중이라 더 넓게 분산됩니다. 환노출형은 엔화 방향이 수익에 그대로 얹히고, 환헤지형은 엔화 방향을 제거합니다. 특히 원화 투자자에게 일본 환헤지는 미국과 달리 비용이 아니라 금리차 이익이 될 수 있고, 세금도 미국 상장 ETF와 다릅니다. 수익률 숫자보다 지수·환헤지·보수·세금 구조를 먼저 봐야 합니다.이 글은 미래에셋(TIGER)·삼성(KODEX)·한국투자신탁운용(ACE) 등 운용사 공식 자료를 참고했습니다. 총보수·분배율·수익률은 기준일에 따라 ..",
+    "headline": "일본 ETF 비교: 닛케이225·TOPIX·환헤지 무엇이 다르고 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/344",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/344"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-05",
+    "datePublished": "2026-07-05",
+    "description": "국내 상장 일본 ETF를 닛케이225·TOPIX 지수 차이, 환헤지·환노출, 운용사별 차이로 비교하고, 원화 투자자의 환헤지 금리차·세금까지 어디에 담아야 하는지 정리했습니다.",
+    "headline": "일본 ETF 비교: 닛케이225·TOPIX·환헤지 무엇이 다르고 어디에 담아야 하나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/344",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/344"
+  }
+]

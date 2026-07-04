@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-05T00:07:00+09:00",
+    "datePublished": "2026-07-05T00:06:49+09:00",
+    "description": "핵심 요약: MSTY(YieldMax MSTR Option Income Strategy ETF)는 마이크로스트래티지(MSTR) 주식을 직접 담지 않고, 옵션으로 MSTR과 비슷한 노출을 만든 뒤 콜옵션을 팔아 매달 분배금을 만드는 합성 커버드콜 ETF입니다. 분배율이 커 보이지만, 상승은 콜 매도로 막혀 있고(상단 캡) 분배금에는 내 원금을 돌려주는 ROC(원금 환급)가 섞여 있어, 받는 분배금이 곧 수익은 아닙니다. MSTY는 분배율이 아니라 기초자산(MSTR) 변동성, 상승 캡, ROC·NAV 침식, 환율, 세금을 먼저 확인해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서를 참고했습니다. 운용보수·분배율·순자산(AUM)은 기준일에 따라 크게 ..",
+    "headline": "MSTY ETF란? 마이크로스트래티지 커버드콜 구조와 ROC 함정, NVDY와 차이 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/342",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/342"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-05",
+    "datePublished": "2026-07-05",
+    "description": "MSTY ETF가 마이크로스트래티지(MSTR)를 합성 커버드콜로 추종하는 구조, 상승 캡과 ROC·NAV 침식 함정, 분배율 착시, NVDY와 차이, 환율·세금까지 정리했습니다.",
+    "headline": "MSTY ETF란? 마이크로스트래티지 커버드콜 구조와 ROC 함정, NVDY와 차이 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/342",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/342"
+  }
+]

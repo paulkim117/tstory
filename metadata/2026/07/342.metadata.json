@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-04",
+  "body_html_length": 9899,
+  "canonical_url": "https://mystock-note.tistory.com/342",
+  "content_hash": "13c9199072d5f1cccc3968bac4c37a0dde5eaf931ea3e1fea21b94f112ef004d",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: MSTY(YieldMax MSTR Option Income Strategy ETF)는 마이크로스트래티지(MSTR) 주식을 직접 담지 않고, 옵션으로 MSTR과 비슷한 노출을 만든 뒤 콜옵션을 팔아 매달 분배금을 만드는 합성 커버드콜 ETF입니다. 분배율이 커 보이지만, 상승은 콜 매도로 막혀 있고(상단 캡) 분배금에는 내 원금을 돌려주는 ROC(원금 환급)가 섞여 있어, 받는 분배금이 곧 수익은 아닙니다. MSTY는 분배율이 아니라 기초자산(MSTR) 변동성, 상승 캡, ROC·NAV 침식, 환율, 세금을 먼저 확인해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서를 참고했습니다. 운용보수·분배율·순자산(AUM)은 기준일에 따라 크게 ..",
+  "modified_time": "2026-07-05T00:07:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: MSTY(YieldMax MSTR Option Income Strategy ETF)는 마이크로스트래티지(MSTR) 주식을 직접 담지 않고, 옵션으로 MSTR과 비슷한 노출을 만든 뒤 콜옵션을 팔아 매달 분배금을 만드는 합성 커버드콜 ETF입니다. 분배율이 커 보이지만, 상승은 콜 매도로 막혀 있고(상단 캡) 분배금에는 내 원금을 돌려주는 ROC(원금 환급)가 섞여 있어, 받는 분배금이 곧 수익은 아닙니다. MSTY는 분배율이 아니라 기초자산(MSTR) 변동성, 상승 캡, ROC·NAV 침식, 환율, 세금을 먼저 확인해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서를 참고했습니다. 운용보수·분배율·순자산(AUM)은 기준일에 따라 크게 ..",
+  "og_title": "MSTY ETF란? 마이크로스트래티지 커버드콜 구조와 ROC 함정, NVDY와 차이 비교",
+  "post_id": "342",
+  "published_time": "2026-07-05T00:06:49+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "MSTY ETF란? 마이크로스트래티지 커버드콜 구조와 ROC 함정, NVDY와 차이 비교",
+  "url": "https://mystock-note.tistory.com/342"
+}

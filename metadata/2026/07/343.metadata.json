@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-04",
+  "body_html_length": 8575,
+  "canonical_url": "https://mystock-note.tistory.com/343",
+  "content_hash": "8c78fa9906c861562c8a124d295c715d8078a950d10f2fafc5a4b5e170df8157",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: BIL(State Street SPDR Bloomberg 1-3 Month T-Bill ETF)은 잔존만기 1~3개월인 미국 단기국채(T-Bill)를 담는 ETF입니다. 쿠폰(이자)을 주는 채권이 아니라 액면보다 싸게 사서 만기에 액면을 받는 할인채라, 그 차이가 수익이 됩니다. 만기가 매우 짧아 금리가 올라도 가격(NAV)이 거의 움직이지 않는 것이 특징입니다. 다만 달러 자산이라 원화 투자자에게는 금리보다 환율이 더 결정적인 변수입니다. BIL은 수익률이 아니라 할인채 구조, 금리 반영 경로, SGOV·USFR과 차이, 환율, 세금을 먼저 확인해야 하는 현금성 파킹 상품입니다.이 글은 State Street(SPDR) 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서를 참고했습니다...",
+  "modified_time": "2026-07-05T01:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: BIL(State Street SPDR Bloomberg 1-3 Month T-Bill ETF)은 잔존만기 1~3개월인 미국 단기국채(T-Bill)를 담는 ETF입니다. 쿠폰(이자)을 주는 채권이 아니라 액면보다 싸게 사서 만기에 액면을 받는 할인채라, 그 차이가 수익이 됩니다. 만기가 매우 짧아 금리가 올라도 가격(NAV)이 거의 움직이지 않는 것이 특징입니다. 다만 달러 자산이라 원화 투자자에게는 금리보다 환율이 더 결정적인 변수입니다. BIL은 수익률이 아니라 할인채 구조, 금리 반영 경로, SGOV·USFR과 차이, 환율, 세금을 먼저 확인해야 하는 현금성 파킹 상품입니다.이 글은 State Street(SPDR) 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서를 참고했습니다...",
+  "og_title": "BIL ETF란? SGOV·USFR과 차이, 미국 단기국채 파킹 구조 비교",
+  "post_id": "343",
+  "published_time": "2026-07-05T01:16:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BIL ETF란? SGOV·USFR과 차이, 미국 단기국채 파킹 구조 비교",
+  "url": "https://mystock-note.tistory.com/343"
+}
