@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-07-06",
+  "datePublished": "2026-07-06",
+  "description": "방산 ETF를 국내 방산주(TIGER K방산&우주·KODEX 방산TOP10·SOL K방산)와 미국 방산(ITA·PPA·XAR)으로 나눠 지수 산출 방식, 종목 집중도, 환노출, 과세 3경로 차이까지 비교했습니다.",
+  "headline": "방산 ETF 비교: 국내 방산지수·미국 방산(ITA·PPA)·환헤지 어디에 담아야 하나",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/348",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

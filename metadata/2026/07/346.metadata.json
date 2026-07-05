@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-05",
+  "body_html_length": 9357,
+  "canonical_url": "https://mystock-note.tistory.com/346",
+  "content_hash": "01a06efc385944b78e090de9b082604ffe86c4429da176ae0b848c4df8288319",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: JEPI(JPMorgan Equity Premium Income ETF)는 S&P500에서 고른 저변동성 대형주를 담고, 그 위에 ELN(주식연계증권)을 통해 S&P500 콜옵션을 파는 방식으로 매달 분배금을 만드는 커버드콜형 인컴 ETF입니다. 분배금이 커 보여도 상승은 콜 매도로 막혀 있고(상단 캡), 분배금을 받아도 주가(NAV)가 내리면 총수익은 마이너스일 수 있습니다. JEPI는 표면 분배율이 아니라 분배 재원의 구성, 상승 캡, ELN 위험, 환율, 세금을 먼저 확인해야 하는 상품입니다.이 글은 JPMorgan 자산운용 공식 자료와 투자설명서를 참고했습니다. 운용보수·분배율·순자산(AUM)·30일 수익률은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지와 증권사 상품 설명..",
+  "modified_time": "2026-07-06T00:22:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: JEPI(JPMorgan Equity Premium Income ETF)는 S&P500에서 고른 저변동성 대형주를 담고, 그 위에 ELN(주식연계증권)을 통해 S&P500 콜옵션을 파는 방식으로 매달 분배금을 만드는 커버드콜형 인컴 ETF입니다. 분배금이 커 보여도 상승은 콜 매도로 막혀 있고(상단 캡), 분배금을 받아도 주가(NAV)가 내리면 총수익은 마이너스일 수 있습니다. JEPI는 표면 분배율이 아니라 분배 재원의 구성, 상승 캡, ELN 위험, 환율, 세금을 먼저 확인해야 하는 상품입니다.이 글은 JPMorgan 자산운용 공식 자료와 투자설명서를 참고했습니다. 운용보수·분배율·순자산(AUM)·30일 수익률은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지와 증권사 상품 설명..",
+  "og_title": "JEPI ETF란? JEPQ와 차이, S&P500 커버드콜 월배당 구조 비교",
+  "post_id": "346",
+  "published_time": "2026-07-06T00:21:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "JEPI ETF란? JEPQ와 차이, S&P500 커버드콜 월배당 구조 비교",
+  "url": "https://mystock-note.tistory.com/346"
+}

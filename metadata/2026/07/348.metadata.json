@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-05",
+  "body_html_length": 6682,
+  "canonical_url": "https://mystock-note.tistory.com/348",
+  "content_hash": "ed9fc0226ce421837f866f10a9218884c7693103b273fec3ba795fe3b664eab3",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: \"방산 ETF\"는 한 종류가 아닙니다. ① 국내 방산주를 국내 상장으로 담는 K방산 ETF(TIGER K방산&우주·KODEX 방산TOP10·SOL K방산 등), ② 국내 방산주를 미국 등 해외 상장으로 담는 ETF(KDEF·SHLD 등), ③ 미국·글로벌 방산주를 담는 미국 상장 ETF(ITA·PPA·XAR)로 나뉩니다. 이 셋은 지수 산출 방식, 종목 집중도, 환노출, 세금이 모두 다릅니다. 이름이 같은 \"방산\"이라도 어느 경로를 고르느냐에 따라 편입 종목·환위험·과세가 달라집니다.이 글은 각 운용사 공식 자료와 지수 방법론을 참고했습니다. 운용보수·분배율·순자산(AUM)·구성종목 비중은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지에서 직접 확인해야 합니다. 본문의 레버리지·환..",
+  "modified_time": "2026-07-06T02:38:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/348\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/348\",\"headline\":\"방산 ETF 비교: 국내 방산지수·미국 방산(ITA·PPA)·환헤지 어디에 담아야 하나\",\"description\":\"핵심 요약: \"방산 ETF\"는 한 종류가 아닙니다. ① 국내 방산주를 국내 상장으로 담는 K방산 ETF(TIGER K방산&우주·KODEX 방산TOP10·SOL K방산 등), ② 국내 방산주를 미국 등 해외 상장으로 담는 ETF(KDEF·SHLD 등), ③ 미국·글로벌 방산주를 담는 미국 상장 ETF(ITA·PPA·XAR)로 나뉩니다. 이 셋은 지수 산출 방식, 종목 집중도, 환노출, 세금이 모두 다릅니다. 이름이 같은 \"방산\"이라도 어느 경로를 고르느냐에 따라 편입 종목·환위험·과세가 달라집니다.이 글은 각 운용사 공식 자료와 지수 방법론을 참고했습니다. 운용보수·분배율·순자산(AUM)·구성종목 비중은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지에서 직접 확인해야 합니다. 본문의 레버리지·환..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-06T02:37:53+09:00\",\"dateModified\":\"2026-07-06T02:38:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: \"방산 ETF\"는 한 종류가 아닙니다. ① 국내 방산주를 국내 상장으로 담는 K방산 ETF(TIGER K방산&우주·KODEX 방산TOP10·SOL K방산 등), ② 국내 방산주를 미국 등 해외 상장으로 담는 ETF(KDEF·SHLD 등), ③ 미국·글로벌 방산주를 담는 미국 상장 ETF(ITA·PPA·XAR)로 나뉩니다. 이 셋은 지수 산출 방식, 종목 집중도, 환노출, 세금이 모두 다릅니다. 이름이 같은 \"방산\"이라도 어느 경로를 고르느냐에 따라 편입 종목·환위험·과세가 달라집니다.이 글은 각 운용사 공식 자료와 지수 방법론을 참고했습니다. 운용보수·분배율·순자산(AUM)·구성종목 비중은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지에서 직접 확인해야 합니다. 본문의 레버리지·환..",
+  "og_title": "방산 ETF 비교: 국내 방산지수·미국 방산(ITA·PPA)·환헤지 어디에 담아야 하나",
+  "post_id": "348",
+  "published_time": "2026-07-06T02:37:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "방산 ETF 비교: 국내 방산지수·미국 방산(ITA·PPA)·환헤지 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/348"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-06T04:33:00+09:00",
+    "datePublished": "2026-07-06T04:32:12+09:00",
+    "description": "핵심 요약: 같은 ETF라도 연금저축·IRP에 담을 때와 일반계좌에 담을 때 세금이 다릅니다. 연금계좌는 납입 시 세액공제(13.2~16.5%), 운용 중 과세이연, 인출 시 저율 연금소득세(3.3~5.5%)를 받지만 55세·5년 요건과 중도해지 페널티(16.5%)가 붙습니다. 일반계좌는 제약이 없는 대신 세금 혜택이 없습니다. 그런데 모든 ETF를 연금계좌에 넣는 것이 절세는 아닙니다. 국내 주식형 ETF는 일반계좌에서도 매매차익이 비과세라 이연 효과가 없고, 일반계좌에서 세금이 큰 ETF(해외·채권·고분배)일수록 연금계좌 절세 효과가 큽니다.이 글의 세율·한도·과세 기준은 국세청과 소득세법 규정을 참고했습니다(작성 시점 2026년). 세법은 개정될 수 있고 개인 소득 구조에 따라 실제 세부담이 달라지..",
+    "headline": "연금저축·일반계좌 ETF 세금 차이로 본 선택: 배당소득세 vs 연금소득세, 과세이연",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/349",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/349"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-06",
+    "datePublished": "2026-07-06",
+    "description": "같은 ETF라도 연금저축·IRP와 일반계좌는 세금이 다릅니다. 세액공제·과세이연·연금소득세(3.3~5.5%)·1,500만원 분리과세 기준으로 어느 계좌에 어떤 ETF를 담아야 절세되는지 정리했습니다.",
+    "headline": "연금저축·일반계좌 ETF 세금 차이로 본 선택: 배당소득세 vs 연금소득세, 과세이연",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/349",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

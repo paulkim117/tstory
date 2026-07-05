@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-06T01:28:04+09:00",
+    "datePublished": "2026-07-06T01:27:19+09:00",
+    "description": "핵심 요약: DGRO(iShares Core Dividend Growth ETF)는 배당을 꾸준히 키워온 미국 기업을 담는 배당성장 ETF입니다. 단순히 배당을 많이 주는 종목이 아니라, ① 최소 5년 연속 배당을 늘렸고 ② 이익이 늘 것으로 전망되며 ③ 배당이 이익 대비 과도하지 않은(페이아웃 상한) 기업만 고르고, ④ 오히려 고배당 상위 10%는 배제합니다. 그래서 현재 배당률은 낮아 보일 수 있지만 배당의 지속가능성과 성장에 무게가 실린 상품입니다. SCHD와는 추종 지수·배당 이력 요건·분산도·가중 방식이 다릅니다.이 글은 iShares(BlackRock) 공식 자료와 지수 방법론을 참고했습니다. 운용보수·분배율·순자산(AUM)·수익률은 기준일에 따라 달라지므로 구체 수치는 운용사 공식 페이지와 ..",
+    "headline": "DGRO ETF란? SCHD와 차이, 배당성장 지수 방식과 국내 대안 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/347",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/347"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-06",
+    "datePublished": "2026-07-06",
+    "description": "DGRO ETF가 배당을 꾸준히 키운 미국 기업을 담는 방식(5년 연속 성장·페이아웃 상한·고배당 배제), SCHD와 지수·선정 기준 차이, 국내 대안과 환율·세금까지 정리했습니다.",
+    "headline": "DGRO ETF란? SCHD와 차이, 배당성장 지수 방식과 국내 대안 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/347",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
