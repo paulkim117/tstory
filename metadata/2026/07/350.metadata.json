@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-06",
+  "body_html_length": 11091,
+  "canonical_url": "https://mystock-note.tistory.com/350",
+  "content_hash": "63c8edffc9cecfd0ef05492800c082d918da6fcae2120bd3fab89f42a396d921",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: VYM(Vanguard High Dividend Yield ETF)은 미국 고배당주를 지수 방법론으로 골라 시가총액 비중대로 담는 배당 ETF입니다. 핵심은 종목을 \"품질\"이나 \"배당 성장\"이 아니라 현재 배당수익률이 평균 이상인가로만 거르고, REIT을 뺀 뒤 시총 순서로 담는다는 점입니다. 그래서 SCHD(품질+수익률+성장 균형)나 DGRO(배당 성장 중심)와는 담기는 종목·섹터가 다릅니다. 또 하나 중요한 사실은, 국내 상장 \"미국배당다우존스\" ETF들은 VYM의 지수가 아니라 SCHD와 같은 지수를 추종한다는 것입니다. 즉 VYM식 넓은 고배당을 국내 절세계좌에 그대로 옮겨 담기는 어렵습니다.이 글은 Vanguard 공식 자료와 S&P Dow Jones Indices·Morningst..",
+  "modified_time": "2026-07-07T00:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/350\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/350\",\"headline\":\"VYM ETF란? SCHD·DGRO와 차이, 고배당 지수 방식과 국내 대안 비교\",\"description\":\"핵심 요약: VYM(Vanguard High Dividend Yield ETF)은 미국 고배당주를 지수 방법론으로 골라 시가총액 비중대로 담는 배당 ETF입니다. 핵심은 종목을 \"품질\"이나 \"배당 성장\"이 아니라 현재 배당수익률이 평균 이상인가로만 거르고, REIT을 뺀 뒤 시총 순서로 담는다는 점입니다. 그래서 SCHD(품질+수익률+성장 균형)나 DGRO(배당 성장 중심)와는 담기는 종목·섹터가 다릅니다. 또 하나 중요한 사실은, 국내 상장 \"미국배당다우존스\" ETF들은 VYM의 지수가 아니라 SCHD와 같은 지수를 추종한다는 것입니다. 즉 VYM식 넓은 고배당을 국내 절세계좌에 그대로 옮겨 담기는 어렵습니다.이 글은 Vanguard 공식 자료와 S&P Dow Jones Indices·Morningst..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-07T00:35:07+09:00\",\"dateModified\":\"2026-07-07T00:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: VYM(Vanguard High Dividend Yield ETF)은 미국 고배당주를 지수 방법론으로 골라 시가총액 비중대로 담는 배당 ETF입니다. 핵심은 종목을 \"품질\"이나 \"배당 성장\"이 아니라 현재 배당수익률이 평균 이상인가로만 거르고, REIT을 뺀 뒤 시총 순서로 담는다는 점입니다. 그래서 SCHD(품질+수익률+성장 균형)나 DGRO(배당 성장 중심)와는 담기는 종목·섹터가 다릅니다. 또 하나 중요한 사실은, 국내 상장 \"미국배당다우존스\" ETF들은 VYM의 지수가 아니라 SCHD와 같은 지수를 추종한다는 것입니다. 즉 VYM식 넓은 고배당을 국내 절세계좌에 그대로 옮겨 담기는 어렵습니다.이 글은 Vanguard 공식 자료와 S&P Dow Jones Indices·Morningst..",
+  "og_title": "VYM ETF란? SCHD·DGRO와 차이, 고배당 지수 방식과 국내 대안 비교",
+  "post_id": "350",
+  "published_time": "2026-07-07T00:35:07+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VYM ETF란? SCHD·DGRO와 차이, 고배당 지수 방식과 국내 대안 비교",
+  "url": "https://mystock-note.tistory.com/350"
+}

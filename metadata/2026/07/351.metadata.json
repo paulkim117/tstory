@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-06",
+  "body_html_length": 9769,
+  "canonical_url": "https://mystock-note.tistory.com/351",
+  "content_hash": "5a81e1c9ecc5f79123a98b332fcfe14b5b043acbe8b401d7c4750e9a702c9681",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: CONY(YieldMax COIN Option Income Strategy ETF)는 코인베이스(COIN) 주식을 직접 사지 않고, 옵션으로 COIN 가격 움직임을 흉내 낸 뒤 그 위에 콜 옵션을 팔아 월/주 단위 분배금을 만드는 커버드콜 ETF입니다. 겉으로 보이는 분배율이 매우 높아 보이지만, 상승은 일정 수준에서 막히고 하락은 거의 그대로 받으며, 분배금 상당 부분이 내 원금을 돌려받는 자본환급(ROC)일 수 있습니다. CONY는 \"분배율\"이 아니라 합성 커버드콜 구조, 상승 제한, NAV(순자산) 침식, ROC 과세, 기초자산 코인베이스의 변동성을 먼저 이해해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서(Form 497)를 ..",
+  "modified_time": "2026-07-07T01:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/351\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/351\",\"headline\":\"CONY ETF란? NVDY·MSTY와 차이, 코인베이스 합성 커버드콜 구조와 ROC 함정\",\"description\":\"핵심 요약: CONY(YieldMax COIN Option Income Strategy ETF)는 코인베이스(COIN) 주식을 직접 사지 않고, 옵션으로 COIN 가격 움직임을 흉내 낸 뒤 그 위에 콜 옵션을 팔아 월/주 단위 분배금을 만드는 커버드콜 ETF입니다. 겉으로 보이는 분배율이 매우 높아 보이지만, 상승은 일정 수준에서 막히고 하락은 거의 그대로 받으며, 분배금 상당 부분이 내 원금을 돌려받는 자본환급(ROC)일 수 있습니다. CONY는 \"분배율\"이 아니라 합성 커버드콜 구조, 상승 제한, NAV(순자산) 침식, ROC 과세, 기초자산 코인베이스의 변동성을 먼저 이해해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서(Form 497)를 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-07T01:35:47+09:00\",\"dateModified\":\"2026-07-07T01:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: CONY(YieldMax COIN Option Income Strategy ETF)는 코인베이스(COIN) 주식을 직접 사지 않고, 옵션으로 COIN 가격 움직임을 흉내 낸 뒤 그 위에 콜 옵션을 팔아 월/주 단위 분배금을 만드는 커버드콜 ETF입니다. 겉으로 보이는 분배율이 매우 높아 보이지만, 상승은 일정 수준에서 막히고 하락은 거의 그대로 받으며, 분배금 상당 부분이 내 원금을 돌려받는 자본환급(ROC)일 수 있습니다. CONY는 \"분배율\"이 아니라 합성 커버드콜 구조, 상승 제한, NAV(순자산) 침식, ROC 과세, 기초자산 코인베이스의 변동성을 먼저 이해해야 하는 고위험 상품입니다.이 글은 YieldMax 공식 자료와 미국 증권당국(SEC)에 제출된 투자설명서(Form 497)를 ..",
+  "og_title": "CONY ETF란? NVDY·MSTY와 차이, 코인베이스 합성 커버드콜 구조와 ROC 함정",
+  "post_id": "351",
+  "published_time": "2026-07-07T01:35:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CONY ETF란? NVDY·MSTY와 차이, 코인베이스 합성 커버드콜 구조와 ROC 함정",
+  "url": "https://mystock-note.tistory.com/351"
+}

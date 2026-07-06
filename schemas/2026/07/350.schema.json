@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-07",
+  "datePublished": "2026-07-07",
+  "description": "VYM은 FTSE 고배당 지수를 추종하는 미국 배당 ETF입니다. SCHD·DGRO와 지수 방법론 차이, 국내 미국배당다우존스가 SCHD 지수를 추종한다는 점, 절세계좌·세금·환율까지 정리했습니다.",
+  "headline": "VYM ETF란? SCHD·DGRO와 차이, 고배당 지수 방식과 국내 대안 비교",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/350",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

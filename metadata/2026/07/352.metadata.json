@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-06",
+  "body_html_length": 9254,
+  "canonical_url": "https://mystock-note.tistory.com/352",
+  "content_hash": "c932f2dd9bc0e9ac42e3ce20a81438699eb375f8e2ff5e2c0f94736a587ca08b",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: \"2차전지 ETF\"는 하나가 아닙니다. 국내에 상장된 2차전지 ETF만 십수 종이며, 어떤 지수를 추종하느냐에 따라 담기는 종목·집중도·밸류체인 노출이 완전히 달라집니다. 크게 (1) 리포트 키워드로 넓게 담는 테마형(WISE 2차전지 테마), (2) 대표 10종목에 몰아 담는 집중형(KRX 2차전지 K-뉴딜/TOP10), (3) 산업 밸류체인 전반을 담는 산업형(FnGuide 2차전지산업), (4) 소재·부품·장비에 특화한 소부장형(FnGuide 2차전지 소부장)으로 나뉩니다. 여기에 해외형(중국·글로벌 리튬)과 레버리지·인버스가 더해집니다. 이 글은 추종지수의 차이를 기준으로 어떤 2차전지 ETF가 내 목적에 맞는지 정리합니다.이 글은 한국거래소(KRX)와 미래에셋·삼성·신한 등 운용사의..",
+  "modified_time": "2026-07-07T02:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/352\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/352\",\"headline\":\"2차전지 ETF 비교: 테마·TOP10·산업·소부장 지수 방식과 어디에 담아야 하나\",\"description\":\"핵심 요약: \"2차전지 ETF\"는 하나가 아닙니다. 국내에 상장된 2차전지 ETF만 십수 종이며, 어떤 지수를 추종하느냐에 따라 담기는 종목·집중도·밸류체인 노출이 완전히 달라집니다. 크게 (1) 리포트 키워드로 넓게 담는 테마형(WISE 2차전지 테마), (2) 대표 10종목에 몰아 담는 집중형(KRX 2차전지 K-뉴딜/TOP10), (3) 산업 밸류체인 전반을 담는 산업형(FnGuide 2차전지산업), (4) 소재·부품·장비에 특화한 소부장형(FnGuide 2차전지 소부장)으로 나뉩니다. 여기에 해외형(중국·글로벌 리튬)과 레버리지·인버스가 더해집니다. 이 글은 추종지수의 차이를 기준으로 어떤 2차전지 ETF가 내 목적에 맞는지 정리합니다.이 글은 한국거래소(KRX)와 미래에셋·삼성·신한 등 운용사의..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-07T02:41:15+09:00\",\"dateModified\":\"2026-07-07T02:42:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: \"2차전지 ETF\"는 하나가 아닙니다. 국내에 상장된 2차전지 ETF만 십수 종이며, 어떤 지수를 추종하느냐에 따라 담기는 종목·집중도·밸류체인 노출이 완전히 달라집니다. 크게 (1) 리포트 키워드로 넓게 담는 테마형(WISE 2차전지 테마), (2) 대표 10종목에 몰아 담는 집중형(KRX 2차전지 K-뉴딜/TOP10), (3) 산업 밸류체인 전반을 담는 산업형(FnGuide 2차전지산업), (4) 소재·부품·장비에 특화한 소부장형(FnGuide 2차전지 소부장)으로 나뉩니다. 여기에 해외형(중국·글로벌 리튬)과 레버리지·인버스가 더해집니다. 이 글은 추종지수의 차이를 기준으로 어떤 2차전지 ETF가 내 목적에 맞는지 정리합니다.이 글은 한국거래소(KRX)와 미래에셋·삼성·신한 등 운용사의..",
+  "og_title": "2차전지 ETF 비교: 테마·TOP10·산업·소부장 지수 방식과 어디에 담아야 하나",
+  "post_id": "352",
+  "published_time": "2026-07-07T02:41:15+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "2차전지 ETF 비교: 테마·TOP10·산업·소부장 지수 방식과 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/352"
+}

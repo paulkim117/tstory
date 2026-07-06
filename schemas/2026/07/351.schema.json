@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "dateModified": "2026-07-07",
+  "datePublished": "2026-07-07",
+  "description": "CONY는 코인베이스(COIN)를 직접 보유하지 않고 합성 커버드콜로 분배금을 만드는 YieldMax ETF다. 상승 제한·NAV 침식·ROC 함정, NVDY·MSTY와의 기초자산 차이, 세금·환율까지 정리했다.",
+  "headline": "CONY ETF란? NVDY·MSTY와 차이, 코인베이스 합성 커버드콜 구조와 ROC 함정",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/351",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

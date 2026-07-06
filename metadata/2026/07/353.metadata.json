@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-06",
+  "body_html_length": 8832,
+  "canonical_url": "https://mystock-note.tistory.com/353",
+  "content_hash": "fe52e4af65ab25582a7bb322e5c7a6e9d19c20732d979a80fb83d3d1e942e7fd",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: DIVO(Amplify CWP Enhanced Dividend Income ETF)는 우량 배당주를 직접 골라 담고, 그 위에 전술적으로 커버드콜을 씌우는 혼합형 인컴 ETF입니다. 핵심은 \"전술적·부분\"입니다. QYLD·CONY 같은 순수 커버드콜이 포트폴리오 전체에 상시 콜을 팔아 상승을 대부분 반납하는 것과 달리, DIVO는 강세이거나 변동성이 커진 일부 종목에만 선별적으로 콜을 팔아 상승 여력을 일부 남깁니다. 그래서 DIVO는 순수 배당(SCHD·VYM)과 순수 커버드콜(QYLD·CONY)의 중간에 위치하며, 배당·옵션 프리미엄·자본이득 세 가지로 수익을 노립니다. 이 글은 DIVO의 구조와 JEPI·순수 커버드콜·순수 배당과의 차이를 정리합니다.이 글은 Amplify 공식 자료와 ..",
+  "modified_time": "2026-07-07T03:48:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/353\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/353\",\"headline\":\"DIVO ETF란? JEPI와 차이, 배당+전술적 커버드콜 혼합 구조와 확인 기준\",\"description\":\"핵심 요약: DIVO(Amplify CWP Enhanced Dividend Income ETF)는 우량 배당주를 직접 골라 담고, 그 위에 전술적으로 커버드콜을 씌우는 혼합형 인컴 ETF입니다. 핵심은 \"전술적·부분\"입니다. QYLD·CONY 같은 순수 커버드콜이 포트폴리오 전체에 상시 콜을 팔아 상승을 대부분 반납하는 것과 달리, DIVO는 강세이거나 변동성이 커진 일부 종목에만 선별적으로 콜을 팔아 상승 여력을 일부 남깁니다. 그래서 DIVO는 순수 배당(SCHD·VYM)과 순수 커버드콜(QYLD·CONY)의 중간에 위치하며, 배당·옵션 프리미엄·자본이득 세 가지로 수익을 노립니다. 이 글은 DIVO의 구조와 JEPI·순수 커버드콜·순수 배당과의 차이를 정리합니다.이 글은 Amplify 공식 자료와 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-07T03:47:29+09:00\",\"dateModified\":\"2026-07-07T03:48:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: DIVO(Amplify CWP Enhanced Dividend Income ETF)는 우량 배당주를 직접 골라 담고, 그 위에 전술적으로 커버드콜을 씌우는 혼합형 인컴 ETF입니다. 핵심은 \"전술적·부분\"입니다. QYLD·CONY 같은 순수 커버드콜이 포트폴리오 전체에 상시 콜을 팔아 상승을 대부분 반납하는 것과 달리, DIVO는 강세이거나 변동성이 커진 일부 종목에만 선별적으로 콜을 팔아 상승 여력을 일부 남깁니다. 그래서 DIVO는 순수 배당(SCHD·VYM)과 순수 커버드콜(QYLD·CONY)의 중간에 위치하며, 배당·옵션 프리미엄·자본이득 세 가지로 수익을 노립니다. 이 글은 DIVO의 구조와 JEPI·순수 커버드콜·순수 배당과의 차이를 정리합니다.이 글은 Amplify 공식 자료와 ..",
+  "og_title": "DIVO ETF란? JEPI와 차이, 배당+전술적 커버드콜 혼합 구조와 확인 기준",
+  "post_id": "353",
+  "published_time": "2026-07-07T03:47:29+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DIVO ETF란? JEPI와 차이, 배당+전술적 커버드콜 혼합 구조와 확인 기준",
+  "url": "https://mystock-note.tistory.com/353"
+}
