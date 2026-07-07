@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-07",
+  "body_html_length": 7974,
+  "canonical_url": "https://mystock-note.tistory.com/357",
+  "content_hash": "6a348ae4d1979013f09f76bc0da0e196374e0495b05c703058b449de7b479c83",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 국내 상장 월배당 ETF의 분배금을 받으려면 지급기준일에 주주로 등재돼 있어야 하고, 한국 결제 제도(T+2)상 지급기준일 2영업일 전까지 매수해야 합니다. 분배금이 지급되면 그만큼 순자산가치(NAV)가 차감되는 분배락이 발생하므로, 분배금은 공짜가 아니라 내 자산의 일부가 현금으로 나오는 것입니다. 여기에 15.4% 배당소득세가 원천징수되므로, 분배 직전에 사서 직후에 파는 \"배당 따먹기\"는 세금만큼 손해입니다. 이 글은 매수 타이밍, 분배락, 세금, 지급 절차를 국내 상장 월배당 ETF 기준으로 정리합니다.이 글은 국내 자산운용사 공식 ETF 세금 가이드와 전국투자자교육협의회 자료를 확인해 작성했습니다. 개별 상품명·분배율·지급액 실측은 기준일마다 달라지므로 싣지 않으며, 각 ETF 공시..",
+  "modified_time": "2026-07-08T03:01:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/357\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/357\",\"headline\":\"월배당 ETF 배당락일·지급일 총정리: 분배금 받으려면 언제 사야 하나\",\"description\":\"핵심 요약: 국내 상장 월배당 ETF의 분배금을 받으려면 지급기준일에 주주로 등재돼 있어야 하고, 한국 결제 제도(T+2)상 지급기준일 2영업일 전까지 매수해야 합니다. 분배금이 지급되면 그만큼 순자산가치(NAV)가 차감되는 분배락이 발생하므로, 분배금은 공짜가 아니라 내 자산의 일부가 현금으로 나오는 것입니다. 여기에 15.4% 배당소득세가 원천징수되므로, 분배 직전에 사서 직후에 파는 \"배당 따먹기\"는 세금만큼 손해입니다. 이 글은 매수 타이밍, 분배락, 세금, 지급 절차를 국내 상장 월배당 ETF 기준으로 정리합니다.이 글은 국내 자산운용사 공식 ETF 세금 가이드와 전국투자자교육협의회 자료를 확인해 작성했습니다. 개별 상품명·분배율·지급액 실측은 기준일마다 달라지므로 싣지 않으며, 각 ETF 공시..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-08T03:00:24+09:00\",\"dateModified\":\"2026-07-08T03:01:01+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 국내 상장 월배당 ETF의 분배금을 받으려면 지급기준일에 주주로 등재돼 있어야 하고, 한국 결제 제도(T+2)상 지급기준일 2영업일 전까지 매수해야 합니다. 분배금이 지급되면 그만큼 순자산가치(NAV)가 차감되는 분배락이 발생하므로, 분배금은 공짜가 아니라 내 자산의 일부가 현금으로 나오는 것입니다. 여기에 15.4% 배당소득세가 원천징수되므로, 분배 직전에 사서 직후에 파는 \"배당 따먹기\"는 세금만큼 손해입니다. 이 글은 매수 타이밍, 분배락, 세금, 지급 절차를 국내 상장 월배당 ETF 기준으로 정리합니다.이 글은 국내 자산운용사 공식 ETF 세금 가이드와 전국투자자교육협의회 자료를 확인해 작성했습니다. 개별 상품명·분배율·지급액 실측은 기준일마다 달라지므로 싣지 않으며, 각 ETF 공시..",
+  "og_title": "월배당 ETF 배당락일·지급일 총정리: 분배금 받으려면 언제 사야 하나",
+  "post_id": "357",
+  "published_time": "2026-07-08T03:00:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "월배당 ETF 배당락일·지급일 총정리: 분배금 받으려면 언제 사야 하나",
+  "url": "https://mystock-note.tistory.com/357"
+}

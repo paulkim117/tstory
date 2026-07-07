@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-07",
+  "body_html_length": 11251,
+  "canonical_url": "https://mystock-note.tistory.com/354",
+  "content_hash": "9069f30190e6ccd88e8e928db2835f8dadb08218d896ab012f542562b71c44c3",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TSLY(YieldMax TSLA Option Income Strategy ETF)는 테슬라(TSLA) 주식을 직접 사지 않고, 옵션으로 테슬라 가격을 흉내 낸 뒤 그 위에 콜옵션(현재는 콜스프레드)을 팔아 프리미엄을 분배금으로 지급하는 미국 상장 액티브 ETF입니다. 2022년 11월에 상장된 YieldMax 최초 그룹 펀드로, 운용 이력이 가장 길어 이 전략의 장기 결과를 실제로 보여주는 사례이기도 합니다. 상장 후 액면병합(주식병합)을 두 차례(1:2, 1:5) 거쳤다는 사실은, 분배금을 받는 동안 주가 수준이 계속 내려왔다는 구조적 결과를 그대로 보여줍니다. TSLY는 분배율 숫자가 아니라 분배 재원, ROC 비율, 상승 제한·하락 비대칭, 주간 분배의 연환산 착시, 환·세금을 먼저 ..",
+  "modified_time": "2026-07-08T00:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TSLY(YieldMax TSLA Option Income Strategy ETF)는 테슬라(TSLA) 주식을 직접 사지 않고, 옵션으로 테슬라 가격을 흉내 낸 뒤 그 위에 콜옵션(현재는 콜스프레드)을 팔아 프리미엄을 분배금으로 지급하는 미국 상장 액티브 ETF입니다. 2022년 11월에 상장된 YieldMax 최초 그룹 펀드로, 운용 이력이 가장 길어 이 전략의 장기 결과를 실제로 보여주는 사례이기도 합니다. 상장 후 액면병합(주식병합)을 두 차례(1:2, 1:5) 거쳤다는 사실은, 분배금을 받는 동안 주가 수준이 계속 내려왔다는 구조적 결과를 그대로 보여줍니다. TSLY는 분배율 숫자가 아니라 분배 재원, ROC 비율, 상승 제한·하락 비대칭, 주간 분배의 연환산 착시, 환·세금을 먼저 ..",
+  "og_title": "TSLY ETF란? NVDY·CONY와 차이, 테슬라 커버드콜 구조와 분배율 함정",
+  "post_id": "354",
+  "published_time": "2026-07-08T00:58:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TSLY ETF란? NVDY·CONY와 차이, 테슬라 커버드콜 구조와 분배율 함정",
+  "url": "https://mystock-note.tistory.com/354"
+}
