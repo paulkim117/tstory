@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-08",
+  "body_html_length": 8867,
+  "canonical_url": "https://mystock-note.tistory.com/360",
+  "content_hash": "5e62bf349f925d356181dc33a64f86a6b52d177ca3e8e678f4f00c235fc05942",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: 원자력 ETF는 이름이 같아도 투자 대상이 크게 다릅니다. 우라늄을 캐는 채굴 기업, 원전을 돌려 전기를 파는 유틸리티, 소형모듈원전(SMR)을 개발하는 기업, 원전을 짓는 건설·기자재 기업은 전혀 다른 사업이고 위험도 다릅니다. 특히 한국 원자력 ETF는 건설·기자재·전력설비 중심이고 서구 원자력 ETF는 우라늄 채굴·원전 운영 중심이라, 같은 \"원자력\"을 검색해도 담기는 것이 다릅니다. 여기에 국내 상장이냐 해외 상장이냐에 따라 세금까지 갈립니다. 이 글은 밸류체인·지역·과세 세 축으로 원자력 ETF를 비교합니다.이 글은 국내외 운용사 공식 자료, SEC 제출 서류, 증권사 리서치를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산·보수·분배율은 기준일마다 달라지므로 싣지 않..",
+  "modified_time": "2026-07-09T02:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/360\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/360\",\"headline\":\"원자력 ETF 비교: 우라늄 채굴·SMR·원전 건설 무엇이 다르고 어디에 담아야 하나\",\"description\":\"핵심 요약: 원자력 ETF는 이름이 같아도 투자 대상이 크게 다릅니다. 우라늄을 캐는 채굴 기업, 원전을 돌려 전기를 파는 유틸리티, 소형모듈원전(SMR)을 개발하는 기업, 원전을 짓는 건설·기자재 기업은 전혀 다른 사업이고 위험도 다릅니다. 특히 한국 원자력 ETF는 건설·기자재·전력설비 중심이고 서구 원자력 ETF는 우라늄 채굴·원전 운영 중심이라, 같은 \"원자력\"을 검색해도 담기는 것이 다릅니다. 여기에 국내 상장이냐 해외 상장이냐에 따라 세금까지 갈립니다. 이 글은 밸류체인·지역·과세 세 축으로 원자력 ETF를 비교합니다.이 글은 국내외 운용사 공식 자료, SEC 제출 서류, 증권사 리서치를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산·보수·분배율은 기준일마다 달라지므로 싣지 않..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-09T02:36:11+09:00\",\"dateModified\":\"2026-07-09T02:37:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: 원자력 ETF는 이름이 같아도 투자 대상이 크게 다릅니다. 우라늄을 캐는 채굴 기업, 원전을 돌려 전기를 파는 유틸리티, 소형모듈원전(SMR)을 개발하는 기업, 원전을 짓는 건설·기자재 기업은 전혀 다른 사업이고 위험도 다릅니다. 특히 한국 원자력 ETF는 건설·기자재·전력설비 중심이고 서구 원자력 ETF는 우라늄 채굴·원전 운영 중심이라, 같은 \"원자력\"을 검색해도 담기는 것이 다릅니다. 여기에 국내 상장이냐 해외 상장이냐에 따라 세금까지 갈립니다. 이 글은 밸류체인·지역·과세 세 축으로 원자력 ETF를 비교합니다.이 글은 국내외 운용사 공식 자료, SEC 제출 서류, 증권사 리서치를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산·보수·분배율은 기준일마다 달라지므로 싣지 않..",
+  "og_title": "원자력 ETF 비교: 우라늄 채굴·SMR·원전 건설 무엇이 다르고 어디에 담아야 하나",
+  "post_id": "360",
+  "published_time": "2026-07-09T02:36:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "원자력 ETF 비교: 우라늄 채굴·SMR·원전 건설 무엇이 다르고 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/360"
+}

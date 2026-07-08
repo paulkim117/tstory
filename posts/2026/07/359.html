@@ -1,0 +1,205 @@
+<!--
+source: https://mystock-note.tistory.com/359
+backup_date: 2026-07-08
+post_id: 359
+-->
+<p data-ke-size="size16"><b>핵심 요약:</b> RYLD(Global X Russell 2000 Covered Call ETF)는 미국 소형주 지수인 러셀2000을 보유하면서, 그 지수에 <b>등가격(ATM) 월간 콜옵션을 매도</b>해 받은 프리미엄을 매달 분배하는 커버드콜 ETF입니다. 같은 운용사의 QYLD(나스닥100)&middot;XYLD(S&amp;P500)와 구조는 같고 기초 지수만 다릅니다. RYLD의 특징은 두 가지입니다. 첫째, 소형주라 변동성이 커서 옵션 프리미엄이 크지만 하락 위험도 큽니다. 둘째, 등가격 콜을 매도하므로 지수 상승분을 거의 전부 포기합니다. 확인할 것은 분배율 숫자가 아니라 상승 제한&middot;하락 비대칭, 분배 재원, NAV 침식, 환&middot;세금입니다.</p>
+<p data-ke-size="size16">이 글은 운용사 Global X 공식 자료와 투자설명서를 확인해 작성했습니다. 총보수&middot;분배율&middot;순자산&middot;수익률은 기준일마다 달라지므로 싣지 않으며, 운용사 공식 자료에서 직접 확인해야 합니다. 본문의 등락&middot;분배 예시는 구조 설명을 위한 가상의 수치입니다. 이 글은 특정 상품의 매수&middot;매도 추천이 아닙니다.</p>
+<h2 data-ke-size="size26">RYLD는 어떤 ETF인가요?</h2>
+<p data-ke-size="size16">RYLD는 Global X가 운용하는 커버드콜 ETF로, Cboe Russell 2000 BuyWrite Index를 추종합니다. 러셀2000(미국 소형주 약 2,000종목) 주식을 보유하면서, 러셀2000 지수에 매월 콜옵션을 매도해 프리미엄을 얻고 이를 월 분배하는 것이 목표입니다. Global X의 커버드콜 3종 세트 중 하나로, 나스닥100을 대상으로 하는 QYLD, S&amp;P500을 대상으로 하는 XYLD와 <b>구조는 동일하고 기초 지수만 다릅니다.</b></p>
+<table data-ke-align="alignLeft"><caption>RYLD 기본 구조 (출처: Global X 공식&middot;투자설명서)</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">정식 명칭</th>
+<td>Global X Russell 2000 Covered Call ETF</td>
+</tr>
+<tr>
+<th scope="row">운용사</th>
+<td>Global X (미래에셋 계열)</td>
+</tr>
+<tr>
+<th scope="row">추종 지수</th>
+<td>Cboe Russell 2000 BuyWrite Index</td>
+</tr>
+<tr>
+<th scope="row">기초 자산</th>
+<td>러셀2000 &mdash; 미국 소형주 약 2,000종목</td>
+</tr>
+<tr>
+<th scope="row">옵션 전략</th>
+<td>러셀2000 지수에 <b>등가격(ATM) 월간 콜옵션 매도</b></td>
+</tr>
+<tr>
+<th scope="row">분배 주기</th>
+<td>월간</td>
+</tr>
+<tr>
+<th scope="row">상장</th>
+<td>2019년 4월</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">표에서 두 지점이 RYLD의 성격을 결정합니다. 기초가 <b>소형주(러셀2000)</b>라는 점과, 콜옵션을 <b>등가격(ATM)</b>으로 매도한다는 점입니다. 소형주는 변동성이 커서 프리미엄이 크고, 등가격 매도는 상승을 거의 전부 포기하게 만듭니다. 이 두 가지가 아래 내용의 축입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+
+<h2 data-ke-size="size26">커버드콜을 어떻게 구현하나요?</h2>
+<p data-ke-size="size16">RYLD의 작동은 네 단계로 분해됩니다. ① 러셀2000 지수 종목(또는 이를 추종하는 ETF)을 보유합니다. ② 매월 러셀2000 지수(RTY)에 만기 1개월의 등가격 콜옵션을 매도합니다. ③ 그 대가로 프리미엄을 받습니다. ④ 월말에 그 프리미엄 수입의 일부를 투자자에게 분배합니다. 이 과정을 매월 반복합니다.</p>
+<p data-ke-size="size16">중요한 것은 RYLD가 개별 종목이 아니라 <b>지수에 콜을 매도</b>한다는 점입니다. 러셀2000 지수 전체 규모에 해당하는 콜을 매도하므로, 지수가 오르면 그 상승분을 옵션 매수자에게 넘겨주게 됩니다. 프리미엄은 확보하지만 상승은 내주는 구조이며, 이 교환의 정도를 결정하는 것이 다음 항목의 "등가격" 개념입니다.</p>
+<h2 data-ke-size="size26">등가격(ATM) 콜 매도가 왜 중요한가요?</h2>
+<p data-ke-size="size16">콜옵션은 행사가를 어디에 두느냐에 따라 상승 참여 정도가 달라집니다. RYLD는 <b>등가격(ATM, 현재 지수와 같은 행사가)</b>에 매도합니다. 이는 현재 지수 위로의 상승을 사실상 전부 포기하는 대신, 프리미엄을 가장 크게 받는 방식입니다.</p>
+<table data-ke-align="alignLeft"><caption>콜 매도 행사가별 상승 참여 (구조 대조)</caption>
+<thead>
+<tr>
+<th scope="col">방식</th>
+<th scope="col">행사가 위치</th>
+<th scope="col">상승 참여</th>
+<th scope="col">프리미엄</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">등가격(ATM) &mdash; RYLD</th>
+<td>현재 지수와 동일</td>
+<td>거의 전부 포기</td>
+<td>가장 큼</td>
+</tr>
+<tr>
+<th scope="row">외가격(OTM)</th>
+<td>현재 지수보다 위</td>
+<td>행사가까지는 참여</td>
+<td>더 작음</td>
+</tr>
+<tr>
+<th scope="row">부분 매도</th>
+<td>일부 물량만 콜 매도</td>
+<td>매도 안 한 부분은 참여</td>
+<td>가장 작음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">RYLD는 표의 첫 줄, 상승 참여를 가장 많이 포기하고 프리미엄을 가장 크게 받는 방식입니다. 그래서 분배는 두텁지만, 러셀2000이 크게 올라도 RYLD 주가는 거의 따라가지 못합니다. 이 점이 뒤에서 다룰 JEPI&middot;DIVO(외가격&middot;부분 매도로 상승을 일부 남기는 방식)와의 결정적 차이입니다.</p>
+<h2 data-ke-size="size26">러셀2000(소형주)이 기초라서 무엇이 다른가요?</h2>
+<p data-ke-size="size16">RYLD를 QYLD&middot;XYLD와 가르는 유일한 변수는 기초 지수입니다. 러셀2000은 미국 소형주 지수로, 대형주 지수인 나스닥100&middot;S&amp;P500보다 변동성이 큽니다. 커버드콜에서 변동성은 곧 프리미엄의 크기를 좌우합니다. 변동성이 클수록 콜옵션이 비싸게 팔리므로, 소형주 지수에 콜을 매도하는 RYLD는 대형주 대상 상품보다 프리미엄(분배 재원)이 커지는 경향이 있습니다.</p>
+<p data-ke-size="size16">그러나 이는 양날입니다. 변동성이 크다는 것은 하락 폭도 크다는 뜻입니다. 소형주는 경기&middot;유동성에 민감해 하락장에서 대형주보다 더 깊이 빠지는 경우가 많습니다. RYLD는 그 하락을 프리미엄으로 일부만 완충하고 대부분 그대로 반영합니다. 즉 RYLD는 "큰 프리미엄"과 "큰 하락 위험"을 함께 사는 상품입니다.</p>
+<h2 data-ke-size="size26">상승은 막고 하락은 여는 비대칭인가요?</h2>
+<p data-ke-size="size16">그렇습니다. 등가격 콜 매도 + 소형주 기초의 조합은 상승을 막고 하락을 여는 비대칭을 만듭니다. 가상의 수치로 보면 다음과 같습니다.</p>
+<table data-ke-align="alignLeft"><caption>러셀2000 등락별 RYLD 반영 구조 (가상 예시)</caption>
+<thead>
+<tr>
+<th scope="col">러셀2000 한 달 등락</th>
+<th scope="col">RYLD 반영(개념)</th>
+<th scope="col">이유</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">+15%</th>
+<td>프리미엄 수준까지만(예: +2~3%)</td>
+<td>등가격 콜 매도로 상승 대부분 포기</td>
+</tr>
+<tr>
+<th scope="row">+3%</th>
+<td>소폭 + 프리미엄</td>
+<td>행사가 근처까지만 반영</td>
+</tr>
+<tr>
+<th scope="row">0%</th>
+<td>프리미엄만큼 우위</td>
+<td>횡보장이 최적 환경</td>
+</tr>
+<tr>
+<th scope="row">&minus;15%</th>
+<td>&minus;15%에 근접(프리미엄만큼만 완충)</td>
+<td>소형주 하락 대부분 반영</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">가상 예시가 보여주듯, 러셀2000이 크게 오르는 달에 RYLD는 프리미엄 수준의 제한된 수익만 얻고, 크게 내리는 달에는 하락을 거의 그대로 맞습니다. 이 비대칭이 여러 달 누적되면, 분배금을 계속 받았는데도 원금(NAV)이 내려가 있는 상태가 만들어질 수 있습니다. 특히 소형주가 강하게 반등하는 국면에서 RYLD가 그 반등을 놓치는 것이 이 상품의 가장 큰 약점입니다.</p>
+<h2 data-ke-size="size26">분배금은 어디서 나오나요?</h2>
+<p data-ke-size="size16">RYLD 분배의 주 재원은 <b>매월 콜옵션을 매도해 받는 프리미엄</b>입니다. 여기에 보유 주식의 배당이 일부 더해집니다. 주의할 점은 분배금이 "펀드가 그만큼 벌었다"는 뜻이 아니라는 것입니다. 같은 달에 러셀2000이 하락해 보유 주식에서 손실이 났다면, 프리미엄으로 분배는 지급되더라도 펀드 전체로는 손실일 수 있습니다. 이 경우 분배의 일부가 회계상 자본 반환(ROC, 원금 반환)으로 분류될 수 있습니다. 각 분배의 재원 구성은 운용사가 공시하는 자료에서 확인해야 하며, ROC 비중이 높은 상태로 NAV가 지속 하락한다면 원금을 헐어 분배하는 것에 가깝다고 해석할 수 있습니다.</p>
+<h2 data-ke-size="size26">분배율 숫자를 어떻게 봐야 하나요?</h2>
+<p data-ke-size="size16">표면 분배율은 착시가 큽니다. 분배율은 대개 "분배금 &divide; 현재 주가"로 계산되는데, 커버드콜의 상승 제한&middot;하락 반영으로 주가(NAV)가 내려가면 분배금이 줄어도 표면 분배율은 유지되거나 오히려 올라갑니다.</p>
+<table data-ke-align="alignLeft"><caption>주가 하락과 표면 분배율 착시 (가상 예시)</caption>
+<thead>
+<tr>
+<th scope="col">시점</th>
+<th scope="col">주가</th>
+<th scope="col">월 분배금</th>
+<th scope="col">표면 분배율(연환산)</th>
+<th scope="col">실제 받는 돈(연간)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">시점 A</th>
+<td>20달러</td>
+<td>0.20달러</td>
+<td>12%</td>
+<td>2.4달러</td>
+</tr>
+<tr>
+<th scope="row">시점 B</th>
+<td>14달러</td>
+<td>0.14달러</td>
+<td>12%</td>
+<td>1.68달러</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 시점의 표면 분배율은 똑같이 12%지만, 실제 연간 분배금은 2.4달러에서 1.68달러로 30% 줄었습니다(가상 예시). 게다가 주가가 20달러에서 14달러로 내려간 손실은 분배율 숫자에 나타나지 않습니다. 확인해야 할 것은 분배율이 아니라 <b>분배금 절대액 추이와 주가(NAV) 추이를 나란히 놓은 것</b>, 그리고 <b>분배를 포함한 총수익</b>입니다.</p>
+<h2 data-ke-size="size26">QYLD&middot;XYLD와 무엇이 다른가요?</h2>
+<p data-ke-size="size16">세 상품은 Global X의 동일한 커버드콜(등가격 지수 콜 매도&middot;월 분배) 구조를 공유합니다. 차이는 <b>어느 지수에 콜을 매도하느냐</b> 하나뿐입니다.</p>
+<table data-ke-align="alignLeft"><caption>Global X 커버드콜 3종 &mdash; 기초 지수 대조</caption>
+<thead>
+<tr>
+<th scope="col">티커</th>
+<th scope="col">기초 지수</th>
+<th scope="col">성격</th>
+<th scope="col">변동성&middot;프리미엄</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">RYLD</th>
+<td>러셀2000(소형주)</td>
+<td>소형주 전반</td>
+<td>변동성 가장 큼 &rarr; 프리미엄 큼, 하락도 큼</td>
+</tr>
+<tr>
+<th scope="row">QYLD</th>
+<td>나스닥100(대형 기술주)</td>
+<td>기술주 집중</td>
+<td>변동성 큼</td>
+</tr>
+<tr>
+<th scope="row">XYLD</th>
+<td>S&amp;P500(대형주)</td>
+<td>대형주 전반</td>
+<td>변동성 상대적 낮음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 세 상품은 "어떤 시장의 변동성을 팔 것인가"의 선택지입니다. RYLD는 소형주의 큰 변동성을 파는 쪽이라 프리미엄이 크지만 하락 위험도 가장 큽니다. QYLD는 기술주, XYLD는 대형주 전반의 변동성을 팝니다. 어느 쪽이든 등가격 매도라 상승을 거의 포기한다는 공통점은 같으며, 기초 지수의 성격이 위험&middot;프리미엄의 크기를 결정합니다.</p>
+<h2 data-ke-size="size26">JEPI&middot;DIVO와 무엇이 다른가요?</h2>
+<p data-ke-size="size16">RYLD와 JEPI&middot;DIVO는 모두 커버드콜 계열 인컴 상품이지만, 상승을 얼마나 남기느냐에서 갈립니다. RYLD는 등가격 콜을 지수 전체에 매도해 상승을 거의 전부 포기하고 분배를 극대화합니다. 반면 JEPI는 옵션 연계 증권(ELN)을 통해 프리미엄을 얻으며 외가격 지향으로 상승을 일부 남기고, DIVO는 강세 종목을 선별해 일부 물량에만 콜을 매도하는 전술적 방식으로 상승 여력을 상당 부분 보존합니다. 정리하면 상승 참여는 DIVO &gt; JEPI &gt; RYLD 순이고, 표면 분배는 대체로 그 반대 순서입니다. RYLD는 이 스펙트럼에서 "분배 최대&middot;상승 최소" 극단에 위치합니다. 각 상품의 상세 구조는 JEPI&middot;DIVO 글에서 다뤘습니다.</p>
+<h2 data-ke-size="size26">러셀2000을 직접 사는 것과 무엇이 다른가요?</h2>
+<p data-ke-size="size16">결정 축은 세 가지입니다. 첫째, <b>상승 참여</b>. 러셀2000 지수 ETF를 직접 사면 소형주 반등을 전부 가져가지만, RYLD는 등가격 매도로 그 상승을 거의 포기합니다. 소형주의 큰 반등 가능성을 믿고 투자하는 것이라면 RYLD는 그 목적과 구조적으로 어긋납니다. 둘째, <b>현금흐름</b>. 러셀2000 지수 ETF는 배당이 크지 않지만, RYLD는 매월 프리미엄 기반 분배가 나옵니다. 셋째, <b>하락 완충</b>. RYLD는 프리미엄만큼 하락을 일부 완충하지만, 소형주의 큰 하락을 상쇄하기엔 부족합니다. 요약하면 "소형주의 상승에 베팅"할 것인지, "소형주의 변동성을 현금흐름으로 바꿀"것인지의 차이입니다.</p>
+<h2 data-ke-size="size26">환율과 세금은 어떻게 적용되나요?</h2>
+<p data-ke-size="size16">RYLD는 미국 상장 ETF이므로 국내 투자자에게 해외주식 과세가 적용됩니다. 매매차익은 연간 손익 통산 후 250만 원 기본공제를 제외한 금액에 양도소득세 22%(지방소득세 포함)가 부과됩니다. 분배금은 미국에서 15% 원천징수되고 국내에서 금융소득종합과세에 합산됩니다. 분배가 큰 상품이므로 연간 금융소득 2,000만 원 기준을 넘는지 점검해야 합니다. 미국 상장 상품이라 연금저축&middot;IRP&middot;ISA 같은 절세계좌에는 편입할 수 없습니다. 달러 자산이므로 러셀2000 등락과 옵션 손익 위에 원/달러 환율이 한 겹 더 얹힙니다. 세율&middot;공제는 세법 개정으로 바뀔 수 있으므로 신고 시점 기준을 확인해야 합니다.</p>
+<h2 data-ke-size="size26">어떤 투자자에게 맞고, 누구에게 맞지 않나요?</h2>
+<p data-ke-size="size16"><b>맞는 경우</b>: 소형주의 큰 상승 참여를 포기하는 대신 큰 프리미엄을 매월 현금흐름으로 받으려는 투자자, 횡보&middot;완만한 등락장에서 인컴을 원하는 투자자, 이미 다른 커버드콜과 기초를 분산하려는 투자자입니다. <b>맞지 않는 경우</b>: ① 소형주 반등에 베팅하려는 투자자 &mdash; 상승을 포기하는 상품으로 상승에 베팅하는 모순이 됩니다. ② 원금 보존이 우선인 투자자 &mdash; 소형주 하락을 거의 그대로 반영합니다. ③ 분배금을 확정 수입처럼 여기는 투자자 &mdash; 분배는 변동하고 원금 손실이 가능합니다. ④ 절세계좌 중심 투자자 &mdash; 편입이 불가능합니다.</p>
+<h2 data-ke-size="size26">매수 전 무엇부터 확인해야 하나요?</h2>
+<p data-ke-size="size16">확인 순서를 중요도순으로 정리하면 다음과 같습니다.</p>
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 20px; margin: 16px 0;">
+<p style="margin: 0 0 12px 0;" data-ke-size="size16"><b>RYLD 매수 전 점검 우선순위</b></p>
+<p style="margin: 8px 0 4px 0;" data-ke-size="size16">1. 상승 포기 수용 &mdash; 등가격 매도로 소형주 상승을 거의 못 따라감을 이해했는가</p>
+<div style="background: #e9ecef; border-radius: 4px; height: 14px; margin-bottom: 10px;">
+<div style="background: #4a90d9; width: 95%; height: 14px; border-radius: 4px;">&nbsp;

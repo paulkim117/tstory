@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-09T01:36:00+09:00",
+    "datePublished": "2026-07-09T01:35:48+09:00",
+    "description": "핵심 요약: RYLD(Global X Russell 2000 Covered Call ETF)는 미국 소형주 지수인 러셀2000을 보유하면서, 그 지수에 등가격(ATM) 월간 콜옵션을 매도해 받은 프리미엄을 매달 분배하는 커버드콜 ETF입니다. 같은 운용사의 QYLD(나스닥100)·XYLD(S&P500)와 구조는 같고 기초 지수만 다릅니다. RYLD의 특징은 두 가지입니다. 첫째, 소형주라 변동성이 커서 옵션 프리미엄이 크지만 하락 위험도 큽니다. 둘째, 등가격 콜을 매도하므로 지수 상승분을 거의 전부 포기합니다. 확인할 것은 분배율 숫자가 아니라 상승 제한·하락 비대칭, 분배 재원, NAV 침식, 환·세금입니다.이 글은 운용사 Global X 공식 자료와 투자설명서를 확인해 작성했습니다. 총보수·분배율·..",
+    "headline": "RYLD ETF란? QYLD·XYLD와 차이, 러셀2000 커버드콜 구조와 분배율 함정",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/359",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/359"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-09",
+    "datePublished": "2026-07-09",
+    "description": "RYLD는 러셀2000 소형주 지수에 등가격 콜옵션을 매도해 월 분배를 만드는 Global X 커버드콜 ETF입니다. 상승을 거의 전부 포기하는 ATM 방식, 소형주 고변동성, 분배율 착시, QYLD·XYLD·JEPI와의 차이를 정리했습니다.",
+    "headline": "RYLD ETF란? QYLD·XYLD와 차이, 러셀2000 커버드콜 구조와 분배율 함정",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/359",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    }
+  }
+]

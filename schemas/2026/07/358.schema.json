@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-09T00:05:14+09:00",
+    "datePublished": "2026-07-09T00:02:29+09:00",
+    "description": "핵심 요약: SOXL(Direxion Daily Semiconductor Bull 3X)은 미국 반도체 지수(NYSE Semiconductor Index)의 하루 수익률의 3배를 추종하는 레버리지 ETF입니다. 지수가 하루에 +1% 오르면 약 +3%, −1% 내리면 약 −3%를 목표로 합니다. 결정적으로 이 3배는 하루 단위로만 성립합니다. 레버리지가 매일 리셋되기 때문에 이틀 이상 보유하면 누적 수익률은 지수 누적 수익률의 3배가 아니며, 등락이 반복되는 장에서는 지수가 제자리로 돌아와도 SOXL은 손실이 나는 변동성 감쇄가 발생합니다. SOXL은 장기투자 상품이 아니라 단기 트레이딩 도구이며, 원금 전액 손실이 가능한 최고 위험군입니다.이 글은 운용사 Direxion 공식 자료와 투자설명서를 확인해 ..",
+    "headline": "SOXL ETF란? 나스닥 3배 TQQQ와 차이, 반도체 3배 레버리지의 변동성 감쇄와 장기보유 함정",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/358",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/358"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-09",
+    "datePublished": "2026-07-09",
+    "description": "SOXL은 NYSE 반도체 지수의 일간 3배를 추종하는 Direxion 레버리지 ETF입니다. 일간 리셋으로 하루 넘게 보유하면 3배가 아니며, 변동성 감쇄로 지수가 제자리여도 손실이 날 수 있습니다. TQQQ와의 차이, 장기보유 함정을 정리했습니다.",
+    "headline": "SOXL ETF란? 나스닥 3배 TQQQ와 차이, 반도체 3배 레버리지의 변동성 감쇄와 장기보유 함정",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/358",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    }
+  }
+]

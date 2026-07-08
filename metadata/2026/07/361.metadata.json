@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-08",
+  "body_html_length": 7440,
+  "canonical_url": "https://mystock-note.tistory.com/361",
+  "content_hash": "f78ad92cd60d97aa1c4233c2ffa54fb386e1880a0147cec38dc0536774394dff",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: \"우주 ETF\"는 이름이 비슷해도 담는 것이 크게 다릅니다. 로켓랩 같은 순수 우주개발(뉴스페이스) 기업에 압축 투자하는 상품, 발사체·위성·통신·방산까지 우주항공 밸류체인 전반에 분산하는 상품, 변동성을 낮추려 방산 대형주를 섞는 상품, 국내 방산·우주 기업에 투자하는 상품이 모두 \"우주 ETF\"로 묶여 있습니다. 세그먼트에 따라 위험과 성격이 전혀 다르고, 국내 상장이냐 해외 투자냐에 따라 세금도 갈립니다. 특히 스페이스X는 현재 어느 국내 상장 우주 ETF에도 직접 담겨 있지 않다는 점을 먼저 확인해야 합니다. 이 글은 세그먼트·지역·과세 세 축으로 우주 ETF를 비교합니다.이 글은 국내 운용사 공식 자료와 금융 매체 보도를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산..",
+  "modified_time": "2026-07-09T03:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/361\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/361\",\"headline\":\"미국 우주 ETF 비교: 우주테크·우주항공·방산·UAM 무엇이 다르고 어디에 담아야 하나\",\"description\":\"핵심 요약: \"우주 ETF\"는 이름이 비슷해도 담는 것이 크게 다릅니다. 로켓랩 같은 순수 우주개발(뉴스페이스) 기업에 압축 투자하는 상품, 발사체·위성·통신·방산까지 우주항공 밸류체인 전반에 분산하는 상품, 변동성을 낮추려 방산 대형주를 섞는 상품, 국내 방산·우주 기업에 투자하는 상품이 모두 \"우주 ETF\"로 묶여 있습니다. 세그먼트에 따라 위험과 성격이 전혀 다르고, 국내 상장이냐 해외 투자냐에 따라 세금도 갈립니다. 특히 스페이스X는 현재 어느 국내 상장 우주 ETF에도 직접 담겨 있지 않다는 점을 먼저 확인해야 합니다. 이 글은 세그먼트·지역·과세 세 축으로 우주 ETF를 비교합니다.이 글은 국내 운용사 공식 자료와 금융 매체 보도를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-09T03:36:36+09:00\",\"dateModified\":\"2026-07-09T03:37:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: \"우주 ETF\"는 이름이 비슷해도 담는 것이 크게 다릅니다. 로켓랩 같은 순수 우주개발(뉴스페이스) 기업에 압축 투자하는 상품, 발사체·위성·통신·방산까지 우주항공 밸류체인 전반에 분산하는 상품, 변동성을 낮추려 방산 대형주를 섞는 상품, 국내 방산·우주 기업에 투자하는 상품이 모두 \"우주 ETF\"로 묶여 있습니다. 세그먼트에 따라 위험과 성격이 전혀 다르고, 국내 상장이냐 해외 투자냐에 따라 세금도 갈립니다. 특히 스페이스X는 현재 어느 국내 상장 우주 ETF에도 직접 담겨 있지 않다는 점을 먼저 확인해야 합니다. 이 글은 세그먼트·지역·과세 세 축으로 우주 ETF를 비교합니다.이 글은 국내 운용사 공식 자료와 금융 매체 보도를 확인해 작성했습니다. 개별 상품의 구성종목·비중·수익률·순자산..",
+  "og_title": "미국 우주 ETF 비교: 우주테크·우주항공·방산·UAM 무엇이 다르고 어디에 담아야 하나",
+  "post_id": "361",
+  "published_time": "2026-07-09T03:36:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 우주 ETF 비교: 우주테크·우주항공·방산·UAM 무엇이 다르고 어디에 담아야 하나",
+  "url": "https://mystock-note.tistory.com/361"
+}
