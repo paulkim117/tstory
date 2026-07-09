@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-09",
+  "body_html_length": 10203,
+  "canonical_url": "https://mystock-note.tistory.com/362",
+  "content_hash": "570461e46b5bc7c7dcd8c72f8d064563e568ba047ef3f8628ae07ad1f9409913",
+  "json_ld_count": 2,
+  "meta_description": "엔비디아(NVDA) 하루 등락을 2배로 따라가는 미국 상장 ETF가 NVDL이다. 나스닥100 3배(TQQQ)나 반도체 3배(SOXL)와는 배율도, 기초자산도, 국내에서 담을 수 있느냐도 다르다. 이 글은 NVDL의 구조·변동성 감쇄·단일종목 집중 위험, 그리고 국내에서 엔비디아 개별 2배 레버리지를 상장할 수 없는 규제 이유를 사실 위주로 정리한다. (변동 스펙인 총보수·순자산·수익률·주가는 값이 자주 바뀌므로 본문에 수치로 적지 않는다. 산술은 전부 가상 예시다.)NVDL은 어떤 ETF인가?NVDL의 정식 명칭은 GraniteShares 2x Long NVDA Daily ETF다. 발행사는 GraniteShares, 상장 거래소는 나스닥(NASDAQ), 기초자산은 엔비디아 보통주(NVDA) 단일 종목..",
+  "modified_time": "2026-07-10T00:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "엔비디아(NVDA) 하루 등락을 2배로 따라가는 미국 상장 ETF가 NVDL이다. 나스닥100 3배(TQQQ)나 반도체 3배(SOXL)와는 배율도, 기초자산도, 국내에서 담을 수 있느냐도 다르다. 이 글은 NVDL의 구조·변동성 감쇄·단일종목 집중 위험, 그리고 국내에서 엔비디아 개별 2배 레버리지를 상장할 수 없는 규제 이유를 사실 위주로 정리한다. (변동 스펙인 총보수·순자산·수익률·주가는 값이 자주 바뀌므로 본문에 수치로 적지 않는다. 산술은 전부 가상 예시다.)NVDL은 어떤 ETF인가?NVDL의 정식 명칭은 GraniteShares 2x Long NVDA Daily ETF다. 발행사는 GraniteShares, 상장 거래소는 나스닥(NASDAQ), 기초자산은 엔비디아 보통주(NVDA) 단일 종목..",
+  "og_title": "NVDL ETF란? TQQQ·SOXL과 차이, 엔비디아 2배 레버리지의 변동성 감쇄와 단일종목 집중 위험",
+  "post_id": "362",
+  "published_time": "2026-07-10T00:37:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NVDL ETF란? TQQQ·SOXL과 차이, 엔비디아 2배 레버리지의 변동성 감쇄와 단일종목 집중 위험",
+  "url": "https://mystock-note.tistory.com/362"
+}

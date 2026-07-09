@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-10T03:14:00+09:00",
+    "datePublished": "2026-07-10T03:13:41+09:00",
+    "description": "'바이오'와 '헬스케어'는 자주 같은 말처럼 쓰이지만 ETF에서는 성격이 정반대에 가깝다. 바이오는 신약 개발에 특화된 고변동 베팅이고, 헬스케어는 제약·의료기기·보험·서비스를 아우르는 방어적 섹터다. 여기에 같은 바이오라도 가중 방식(XBI vs IBB)에 따라 위험이 갈리고, 미국 상장·국내 상장·국내 바이오에 따라 환과 세금이 달라진다. 이 글은 대표 상품을 축별로 갈라 무엇이 다르고 누구에게 어느 것이 맞는지 정리한다. (총보수·수익률·순자산·구성 비중 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수·가중 방식 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)바이오와 헬스케어는 같은 말이 아니다?아니다. 헬스케어(Health Care)는 제약, 바이오, 의료기기, 건강보험, 병원·서비스를 ..",
+    "headline": "바이오 ETF와 헬스케어 ETF 비교: XBI·IBB·XLV 무엇이 다르고 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/365",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/365"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-10",
+    "datePublished": "2026-07-10",
+    "description": "바이오(XBI·IBB)와 헬스케어(XLV·VHT) ETF를 범위·가중(동일가중·시총가중)·상장지(미국·국내 상장 미국·국내 바이오) 세 축으로 비교하고, 과세 차이와 목적별 선택 기준을 정리한다.",
+    "headline": "바이오 ETF와 헬스케어 ETF 비교: XBI·IBB·XLV 무엇이 다르고 어디에 담아야 하나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/365",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

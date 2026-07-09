@@ -1,0 +1,162 @@
+<!--
+source: https://mystock-note.tistory.com/362
+backup_date: 2026-07-09
+post_id: 362
+-->
+<p data-ke-size="size18">엔비디아(NVDA) 하루 등락을 2배로 따라가는 미국 상장 ETF가 NVDL이다. 나스닥100 3배(TQQQ)나 반도체 3배(SOXL)와는 배율도, 기초자산도, 국내에서 담을 수 있느냐도 다르다. 이 글은 NVDL의 구조·변동성 감쇄·단일종목 집중 위험, 그리고 국내에서 엔비디아 개별 2배 레버리지를 상장할 수 없는 규제 이유를 사실 위주로 정리한다. (변동 스펙인 총보수·순자산·수익률·주가는 값이 자주 바뀌므로 본문에 수치로 적지 않는다. 산술은 전부 가상 예시다.)</p>
+
+<h2 data-ke-size="size26">NVDL은 어떤 ETF인가?</h2>
+<p data-ke-size="size18">NVDL의 정식 명칭은 GraniteShares 2x Long NVDA Daily ETF다. 발행사는 GraniteShares, 상장 거래소는 나스닥(NASDAQ), 기초자산은 엔비디아 보통주(NVDA) 단일 종목이다. 운용 목표는 <strong>엔비디아 주가의 하루(일간) 변동률의 2배(200%)</strong>를 추구하는 것이다. 여러 종목을 담는 일반 ETF와 달리 단일 종목만을 대상으로 하고, 레버리지·파생을 쓰는 액티브 운용 상품이라는 점에서 성격이 크게 다르다. 상장은 2022년 12월이다(소스 간 12/12~12/13 하루 차, 발행 시점 운용사 공식으로 확인).</p>
+
+
+
+
+
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>NVDL 기본 개요 (구조 사실, 변동 스펙 제외)</caption>
+<thead><tr><th>항목</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>정식 명칭</td><td>GraniteShares 2x Long NVDA Daily ETF</td></tr>
+<tr><td>발행사 / 거래소</td><td>GraniteShares / 나스닥(NASDAQ)</td></tr>
+<tr><td>기초자산</td><td>엔비디아(NVDA) 보통주 — 단일 종목</td></tr>
+<tr><td>운용 목표</td><td>엔비디아 <strong>일간</strong> 변동률의 2배(200%)</td></tr>
+<tr><td>운용 방식</td><td>액티브, 총수익스왑(TRS) 중심 + 옵션·현물 보조, 일간 리밸런싱</td></tr>
+<tr><td>분산 여부</td><td>비분산(단일 종목 집중)</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">핵심은 "일간 2배"라는 두 단어다. 하루 단위로만 2배를 맞추도록 설계됐고, 며칠·몇 달을 누적하면 2배에서 어긋난다. 이 어긋남의 방향과 크기가 이 상품의 위험 대부분을 만든다.</p>
+
+<h2 data-ke-size="size26">'2배'인데 원래 1.5배였다?</h2>
+<p data-ke-size="size18">NVDL은 처음부터 2배는 아니었다. GraniteShares 공식 자료에 따르면 <strong>2024년 1월 22일 이전에는 엔비디아 일간 변동률의 1.5배(150%)</strong>를 추구했고, 그 이후 2배(200%)로 상향됐다. 같은 티커라도 시기에 따라 배율이 달랐다는 뜻이라, 과거 장기 성과를 볼 때는 이 배율 변경 구간을 감안해야 한다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>NVDL 배율 변경 이력 (GraniteShares 공식)</caption>
+<thead><tr><th>구간</th><th>목표 배율</th></tr></thead>
+<tbody>
+<tr><td>~ 2024-01-21</td><td>일간 1.5배(150%)</td></tr>
+<tr><td>2024-01-22 ~</td><td>일간 2배(200%)</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">배율이 오르면 같은 기초자산 움직임에도 상품 변동폭과 변동성 감쇄가 더 커진다. 과거 차트를 '지금 배율' 기준으로 오해하지 않도록, 배율 전환일을 기억해 두는 편이 안전하다.</p>
+
+<h2 data-ke-size="size26">2배는 어떻게 만들어지나?</h2>
+<p data-ke-size="size18">NVDL은 엔비디아 주식을 2주치 사서 2배를 만드는 방식이 아니다. 투자설명서(SEC Form 497K) 기준, 주된 수단은 <strong>총수익스왑(swap)</strong>이다. 주요 금융기관과 "엔비디아 명목금액(notional)의 수익률을 교환"하는 계약을 맺어, 하루 마감 시점 기준 순자산의 약 200%에 해당하는 노출을 만든다. 스왑 확대가 제한될 때는 옵션(딥 인더머니 콜, 또는 합성 롱)이나 현물 매수로 보조한다. 자산의 약 35~45%는 스왑 담보로 예치하고, 나머지 현금은 미국 국채·머니마켓·단기채 ETF·투자등급 단기채 등에 둔다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>2배 노출 구성 방식 (SEC 497K 구조)</caption>
+<thead><tr><th>구성</th><th>역할</th></tr></thead>
+<tbody>
+<tr><td>총수익스왑(TRS)</td><td>주 노출원. 명목금액 수익률 교환으로 2배 노출 확보</td></tr>
+<tr><td>옵션 / 현물</td><td>스왑 제약 시 보조 노출(딥ITM 콜·합성 롱·현물 매수)</td></tr>
+<tr><td>담보 예치</td><td>자산의 약 35~45%를 스왑 담보로</td></tr>
+<tr><td>현금 운용</td><td>미국 국채·MMF·단기채 ETF·투자등급 단기채</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">스왑 기반이라는 점에서 <strong>거래상대방 위험(counterparty risk)</strong>이 따라붙는다. 상대 금융기관이 의무를 이행하지 못하면 노출이 흔들릴 수 있다. 지수를 통째로 복제하는 일반 ETF에는 없는 위험 축이다.</p>
+
+<h2 data-ke-size="size26">'일간 2배'가 왜 장기 2배가 아닌가?</h2>
+<p data-ke-size="size18">매일 마감마다 노출을 순자산의 200%로 다시 맞추는 <strong>일간 리셋</strong> 때문이다. 리셋은 "오늘의 2배"를 매일 새로 계산하므로, 여러 날을 누적하면 각 날의 2배 수익률이 복리로 곱해진다. 그 결과는 "기간 전체 상승률의 2배"와 거의 항상 다르다. 상승만 이어지는 추세장에서는 2배보다 더 벌기도 하지만, 오르내림이 반복되면 2배에 못 미치거나 손실이 난다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>일간 리셋 경로 예시 — 5일간 엔비디아와 NVDL(2배) (가상 예시)</caption>
+<thead><tr><th>일차</th><th>NVDA 일간</th><th>NVDL 일간(2배)</th><th>NVDL 누적</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>+5%</td><td>+10%</td><td>110.0</td></tr>
+<tr><td>2</td><td>−5%</td><td>−10%</td><td>99.0</td></tr>
+<tr><td>3</td><td>+5%</td><td>+10%</td><td>108.9</td></tr>
+<tr><td>4</td><td>−5%</td><td>−10%</td><td>98.0</td></tr>
+<tr><td>5</td><td>0%</td><td>0%</td><td>98.0</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">(가상 예시) 5일간 엔비디아가 사실상 제자리(±5% 반복 후 0)인데도 NVDL은 100→98로 약 −2% 뒤처진다. 방향이 아니라 '흔들림' 자체가 값을 깎는다. 보유 기간이 길고 변동성이 클수록 이 이탈이 커진다.</p>
+
+<h2 data-ke-size="size26">변동성 감쇄(음의 복리)는 얼마나 깎나?</h2>
+<p data-ke-size="size18">가장 단순한 예로 기초자산이 하루 +10%, 다음 날 −10% 움직이면, 기초는 1.1×0.9=0.99로 −1%다. 2배 상품은 +20% 뒤 −20%라 1.2×0.8=0.96, 즉 <strong>−4%</strong>가 된다. 같은 왕복인데 손실이 4배로 벌어진다. 참고로 3배(TQQQ·SOXL류)는 +30%/−30%=0.91로 −9%까지 깎인다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>±10% 왕복 1회 시 배율별 결과 (가상 예시)</caption>
+<thead><tr><th>배율</th><th>왕복 후 값</th><th>손실</th></tr></thead>
+<tbody>
+<tr><td>1배(기초)</td><td>0.99</td><td>−1%</td></tr>
+<tr><td>2배(NVDL 구조)</td><td>0.96</td><td>−4%</td></tr>
+<tr><td>3배(TQQQ·SOXL 구조)</td><td>0.91</td><td>−9%</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">(가상 예시) 배율이 오를수록 왕복 손실이 비선형으로 커진다. NVDL은 2배라 3배 상품보다 감쇄가 덜하지만, 기초가 엔비디아 '단일 종목'이라 일간 변동폭 자체가 지수보다 큰 경향이 있어 감쇄가 현실적으로 작동할 여지가 크다.</p>
+
+<h2 data-ke-size="size26">폭락 후 회복은 얼마나 필요한가?</h2>
+<p data-ke-size="size18">어떤 상품이든 X% 하락 후 원금 회복에 필요한 반등은 X÷(100−X)다. 이 공식은 상품 자체 낙폭에 그대로 적용된다. 문제는 2배 상품은 같은 기초 하락에도 낙폭이 2배 수준으로 커지기 쉬워, 회복 문턱이 급격히 높아진다는 점이다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>상품 자체 낙폭별 회복에 필요한 반등 (가상 예시)</caption>
+<thead><tr><th>낙폭</th><th>필요 반등</th></tr></thead>
+<tbody>
+<tr><td>−25%</td><td>+33%</td></tr>
+<tr><td>−50%</td><td>+100%</td></tr>
+<tr><td>−75%</td><td>+300%</td></tr>
+<tr><td>−90%</td><td>+900%</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">(가상 예시) 상품이 −75%면 원금 회복에 +300%가 필요하다. 레버리지·감쇄가 겹치면 이 깊은 낙폭에 도달하기 쉬워지고, 한 번 깊이 파이면 기초자산이 전고점을 회복해도 상품은 회복하지 못할 수 있다.</p>
+
+<h2 data-ke-size="size26">TQQQ·SOXL과 무엇이 다른가?</h2>
+<p data-ke-size="size18">셋 다 레버리지·일간 리셋 상품이지만 축이 다르다. TQQQ는 나스닥100 지수의 3배, SOXL은 미국 반도체 지수의 3배로 '지수'를 기초로 한다. NVDL은 엔비디아 '단일 종목'의 2배다. 배율(3배 vs 2배)과 기초(지수 vs 단일 종목)가 동시에 다르다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>NVDL · TQQQ · SOXL 축 대조 (구조 사실)</caption>
+<thead><tr><th>구분</th><th>NVDL</th><th>TQQQ</th><th>SOXL</th></tr></thead>
+<tbody>
+<tr><td>기초</td><td>엔비디아 단일 종목</td><td>나스닥100 지수</td><td>미국 반도체 지수</td></tr>
+<tr><td>배율</td><td>일간 2배</td><td>일간 3배</td><td>일간 3배</td></tr>
+<tr><td>분산</td><td>없음(1종목)</td><td>100종목</td><td>지수 구성종목</td></tr>
+<tr><td>주 위험</td><td>단일종목 이벤트 + 감쇄</td><td>지수 감쇄</td><td>섹터 집중 + 감쇄</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">배율만 보면 NVDL(2배)이 TQQQ·SOXL(3배)보다 순해 보이지만, 기초가 '지수'가 아니라 '한 종목'이라 개별 기업 이벤트(실적·규제·공급망·경쟁)가 그대로, 2배로 꽂힌다. 분산이 없다는 점이 3배와 다른 방향의 위험이다. 관련 글로 <a href="/334">TQQQ</a>, <a href="/358">SOXL</a> 편을 함께 보면 지수 3배와의 차이가 선명해진다.</p>
+
+<h2 data-ke-size="size26">단일종목 집중은 왜 더 위험한가?</h2>
+<p data-ke-size="size18">지수 레버리지는 한 종목이 급락해도 다른 종목이 완충한다. 단일종목 레버리지는 완충이 없다. 엔비디아 하나의 하루 급락이 2배로 증폭돼 상품 전체를 결정한다. 실적 발표일, 수출 규제 뉴스, 대형 고객 이탈설 같은 개별 이벤트가 있는 날에는 지수보다 훨씬 큰 일간 변동이 나올 수 있고, 그날의 큰 변동은 앞서 본 변동성 감쇄를 키운다. 커버드콜로 엔비디아에 접근하는 <a href="/331">NVDY</a>와는 방향이 정반대다. NVDY는 상승을 일부 포기하고 분배를 받는 구조, NVDL은 상승·하락을 2배로 키우는 구조다.</p>
+
+<h2 data-ke-size="size26">국내에서 엔비디아 2배 레버리지를 못 담는 이유는?</h2>
+<p data-ke-size="size18">국내에는 엔비디아를 기초로 한 개별종목 2배 레버리지 ETF가 없다. 규제 때문이다. 국내 ETF는 분산투자 요건(종목당 30% 운용한도, 지수 10종목 이상 구성)이 있어 단일종목 ETF 자체가 오래 불가능했다. 2026년 4월 21일 국무회의에서 자본시장법 시행령 개정안이 의결돼 4월 28일 공포·시행되면서 <strong>국내 우량주식 기초 단일종목 ±2배 레버리지 ETF</strong>가 허용됐고, 2026년 5월 27일 첫 상품이 상장됐다. (출처: 금융위원회 보도자료, 2026-04-21)</p>
+<p data-ke-size="size18">그러나 허용 대상은 좁다. 금융투자업규정 시행세칙 기준 <strong>시가총액 10% 이상·거래량 5% 이상·적격투자등급·파생거래량 1% 이상</strong>을 모두 충족해야 하고, 2026년 1분기 기준 이 요건을 만족하는 종목은 <strong>삼성전자·SK하이닉스 2종목뿐</strong>이다. 즉 국내에 상장되는 단일종목 레버리지는 국내 종목 기반이며, 엔비디아 같은 미국 개별종목 2배 레버리지는 국내 상장 경로가 없다. 미국 상장 상품(NVDL 등)을 직접 사는 것이 사실상 유일한 접근이다.</p>
+
+<h2 data-ke-size="size26">국내 단일종목 레버리지와 무엇이 다른가?</h2>
+<p data-ke-size="size18">국내 단일종목 레버리지와 NVDL은 겉으로 '개별종목 2배'라는 점은 같지만, 기초종목·상장지·표기·진입 규제가 다르다. 특히 국내 상품은 분산이 아니라는 점을 명확히 알리도록 'ETF'라는 명칭 사용을 제한하고 '단일종목·레버리지·인버스'를 표기하게 한다. 진입 규제로는 기본예탁금 1,000만 원과 사전 온라인 교육(일반 1시간+심화 1시간)이 요구된다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>국내 단일종목 레버리지 vs NVDL (제도·구조 사실)</caption>
+<thead><tr><th>구분</th><th>국내 단일종목 레버리지</th><th>NVDL(미국 상장)</th></tr></thead>
+<tbody>
+<tr><td>기초종목</td><td>삼성전자·SK하이닉스(2026 1분기 기준)</td><td>엔비디아</td></tr>
+<tr><td>상장지</td><td>한국거래소</td><td>미국(나스닥)</td></tr>
+<tr><td>최대 배율</td><td>±2배</td><td>2배</td></tr>
+<tr><td>명칭</td><td>'ETF' 표기 제한, 단일종목·레버리지 표기</td><td>ETF(미국 규정)</td></tr>
+<tr><td>진입요건</td><td>기본예탁금 1,000만·심화 교육 이수</td><td>미국 상장 ETF 매매 요건</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">검색 시 "단일종목 레버리지"만 넣으면 국내 삼성전자·SK하이닉스 상품이 먼저 나올 수 있다. 기초종목이 아예 다르므로, 엔비디아 노출을 원한다면 상품의 기초종목·상장지·배율을 반드시 직접 확인해야 한다.</p>
+
+<h2 data-ke-size="size26">2026년 6월의 분할은 무엇이었나?</h2>
+<p data-ke-size="size18">GraniteShares는 2026년 6월 26일 장 시작 전 NVDL에 대해 <strong>정방향 분할(forward split)</strong>을 시행했다(기준일 6/24, 지급일 6/25). 정방향 분할은 보유 수량이 늘고 1주당 가격(NAV)이 그만큼 낮아지는 것으로, 보유 평가액 총액은 변하지 않는다. 분할 비율은 2차 출처에서 3:1로 보도됐으나, 정확한 비율은 발행 시점 운용사 공시로 확인하는 편이 안전하다.</p>
+<p data-ke-size="size18">주의할 점은 이 분할이 '주가가 싸졌다'는 신호가 아니라는 것이다. 레버리지 상품의 분할·병합은 주로 주당 가격 관리 목적이며, 변동성 감쇄나 장기 보유 위험을 바꾸지 않는다. 과거 차트의 급격한 가격 점프가 분할 때문인지 실제 손익인지 구분해서 봐야 한다.</p>
+
+<h2 data-ke-size="size26">세금은 어떻게 되나?</h2>
+<p data-ke-size="size18">NVDL은 미국 상장 ETF이므로 국내 투자자에게는 <strong>매매차익이 양도소득세 대상</strong>이다. 연 250만 원 기본공제 후 22%(지방소득세 포함) 세율이 적용되고, 다음 해 5월 자진신고·납부한다(손익통산 가능). 분배금이 발생하면 배당소득세 15.4%가 원천징수된다(레버리지 상품 특성상 분배는 없거나 미미한 경우가 많으나, 발생 시 과세 대상). 세율·공제 기준은 세법 개정 대상이므로 매도·신고 시점 기준으로 확인해야 한다.</p>
+<div style="border:1px solid #e0e0e0; border-radius:8px; padding:16px; margin:16px 0;" data-ke-size="size16">
+<p data-ke-size="size16"><strong>NVDL 매수 전 점검 우선순위</strong></p>
+<p data-ke-size="size16">보유기간이 당일~단기인가 &nbsp;<progress value="95" max="100"></progress>&nbsp; 최우선</p>
+<p data-ke-size="size16">손실 감내 한도를 정했는가 &nbsp;<progress value="90" max="100"></progress>&nbsp; 최우선</p>
+<p data-ke-size="size16">엔비디아 개별 이벤트(실적·규제) 일정 확인 &nbsp;<progress value="75" max="100"></progress>&nbsp; 높음</p>
+<p data-ke-size="size16">배율(2배)·일간 리셋 구조 이해 &nbsp;<progress value="70" max="100"></progress>&nbsp; 높음</p>
+<p data-ke-size="size16">분할 이력으로 인한 차트 착시 확인 &nbsp;<progress value="45" max="100"></progress>&nbsp; 보통</p>
+<p data-ke-size="size16">양도세(22%·250만 공제) 반영 &nbsp;<progress value="40" max="100"></progress>&nbsp; 보통</p>

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-10T02:13:00+09:00",
+    "datePublished": "2026-07-10T02:12:58+09:00",
+    "description": "미국 회사채 ETF는 '회사채'라는 한 단어로 묶기엔 갈래가 많다. 투자등급이냐 하이일드냐(신용등급), 만기가 짧냐 기냐(듀레이션), 미국 상장이냐 국내 상장이냐(환), 이 세 축에 따라 위험과 성격이 완전히 달라진다. 이 글은 대표 상품을 축별로 갈라 무엇이 다르고 누구에게 어느 것이 맞는지 정리한다. (총보수·분배율·수익률·순자산·듀레이션 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 만기 구간·신용등급 기준 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)미국 회사채 ETF는 무엇으로 갈리나?회사채 ETF를 고를 때 실제로 갈리는 축은 셋이다. 첫째 신용등급(투자등급 vs 하이일드), 둘째 듀레이션(만기 길이 → 금리 민감도), 셋째 환(미국 상장 달러 노출 vs 국내 상장 환헤지·환노출..",
+    "headline": "미국 회사채 ETF 비교: 투자등급·하이일드·환헤지 무엇이 다르고 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/364",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/364"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-10",
+    "datePublished": "2026-07-10",
+    "description": "미국 회사채 ETF를 신용등급(투자등급·하이일드), 듀레이션(단·중·장기), 환(미국 상장·국내 상장 환헤지) 세 축으로 비교하고, 지수·과세 차이와 목적별 선택 기준을 정리한다.",
+    "headline": "미국 회사채 ETF 비교: 투자등급·하이일드·환헤지 무엇이 다르고 어디에 담아야 하나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/364",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

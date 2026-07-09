@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-10T00:38:00+09:00",
+    "datePublished": "2026-07-10T00:37:35+09:00",
+    "description": "엔비디아(NVDA) 하루 등락을 2배로 따라가는 미국 상장 ETF가 NVDL이다. 나스닥100 3배(TQQQ)나 반도체 3배(SOXL)와는 배율도, 기초자산도, 국내에서 담을 수 있느냐도 다르다. 이 글은 NVDL의 구조·변동성 감쇄·단일종목 집중 위험, 그리고 국내에서 엔비디아 개별 2배 레버리지를 상장할 수 없는 규제 이유를 사실 위주로 정리한다. (변동 스펙인 총보수·순자산·수익률·주가는 값이 자주 바뀌므로 본문에 수치로 적지 않는다. 산술은 전부 가상 예시다.)NVDL은 어떤 ETF인가?NVDL의 정식 명칭은 GraniteShares 2x Long NVDA Daily ETF다. 발행사는 GraniteShares, 상장 거래소는 나스닥(NASDAQ), 기초자산은 엔비디아 보통주(NVDA) 단일 종목..",
+    "headline": "NVDL ETF란? TQQQ·SOXL과 차이, 엔비디아 2배 레버리지의 변동성 감쇄와 단일종목 집중 위험",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/362",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/362"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-10",
+    "datePublished": "2026-07-10",
+    "description": "NVDL(GraniteShares 2x Long NVDA Daily ETF)의 2배 일간 레버리지 구조, 변동성 감쇄, 단일종목 집중 위험, 국내 개별종목 레버리지 규제와의 차이를 정리한다.",
+    "headline": "NVDL ETF란? TQQQ·SOXL과 차이, 엔비디아 2배 레버리지의 변동성 감쇄와 단일종목 집중 위험",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/362",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
