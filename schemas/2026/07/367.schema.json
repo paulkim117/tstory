@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-11T01:15:00+09:00",
+    "datePublished": "2026-07-11T01:14:53+09:00",
+    "description": "COWZ는 미국 대·중형주 중 '잉여현금흐름(FCF)이 많은' 100개 기업을 골라 담는 밸류 팩터 ETF다. 시가총액으로 담는 VOO나 배당으로 고르는 SCHD와 달리, 선정·가중 기준이 '현금흐름'이라는 점이 핵심이다. 이 글은 COWZ의 캐시카우 선정 규칙, FCF 가중의 의미, 후행 현금흐름만 쓰는 한계, 그리고 SCHD·VOO와의 차이를 사실 위주로 정리한다. (총보수·분배율·순자산·수익률·주가는 자주 바뀌므로 수치로 적지 않는다. 지수 규칙·가중 방식 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)COWZ는 어떤 ETF인가?COWZ의 정식 명칭은 Pacer US Cash Cows 100 ETF다. 발행사는 Pacer, 2016년 상장했고, 추종 지수는 Pacer US Cash Cows ..",
+    "headline": "COWZ ETF란? SCHD·VOO와 차이, 잉여현금흐름(FCF) 가중과 캐시카우 선정 방식",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/367",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/367"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-11",
+    "datePublished": "2026-07-11",
+    "description": "COWZ(Pacer US Cash Cows 100 ETF)의 캐시카우 선정 규칙(러셀1000·FCF yield 상위 100), FCF 가중, 후행 FCF 한계, SCHD·VOO와의 차이를 정리한다.",
+    "headline": "COWZ ETF란? SCHD·VOO와 차이, 잉여현금흐름(FCF) 가중과 캐시카우 선정 방식",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/367",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

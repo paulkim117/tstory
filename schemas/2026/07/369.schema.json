@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-07-11",
+  "datePublished": "2026-07-11",
+  "description": "연금저축·IRP·ISA에서 미국 회사채(LQD·HYG)에 노출하는 방법 — 해외 상장 직접 불가와 국내 상장 대안, 채권형의 IRP 위험자산 70% 면제, 과세이연·인출 세금을 결정 중심으로 정리한다.",
+  "headline": "연금·IRP·ISA에서 미국 회사채에 투자하는 법: 해외 상장 대신 국내 상장으로, 채권형 70% 면제와 과세이연",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/369",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

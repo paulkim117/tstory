@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-10",
+  "body_html_length": 7224,
+  "canonical_url": "https://mystock-note.tistory.com/369",
+  "content_hash": "6430dd7a35468767dc212916929d50b95aa43733f4d380c39ce74dde9660aec5",
+  "json_ld_count": 1,
+  "meta_description": "미국 회사채 ETF(LQD·HYG 등)를 연금저축·IRP·ISA 같은 절세계좌에서 사려다 \"메뉴에 안 보인다\"며 막히는 경우가 많다. 이유는 단순하다. 이 계좌들은 해외 상장 ETF를 직접 담을 수 없기 때문이다. 이 글은 절세계좌에서 미국 회사채에 노출되는 실제 방법(국내 상장 대안), IRP 채권형의 위험자산 70% 면제, 과세이연 효과를 결정 중심으로 정리한다. (총보수·분배율·수익률·세율 수치는 자주 바뀌므로 본문에 수치로 적지 않는다. 계좌 규정·상품 구조 등 사실만 기재하고, 산술은 전부 가상 예시다.)왜 연금·ISA에서 LQD가 안 보이나?연금저축·IRP·ISA는 해외 상장 ETF를 직접 거래할 수 없다. 미국 증시에 상장된 LQD·HYG·VCIT 같은 상품은 일반 주식계좌(종합계좌)에서만 ..",
+  "modified_time": "2026-07-11T03:00:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/369\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/369\",\"headline\":\"연금·IRP·ISA에서 미국 회사채에 투자하는 법: 해외 상장 대신 국내 상장으로, 채권형 70% 면제와 과세이연\",\"description\":\"미국 회사채 ETF(LQD·HYG 등)를 연금저축·IRP·ISA 같은 절세계좌에서 사려다 \"메뉴에 안 보인다\"며 막히는 경우가 많다. 이유는 단순하다. 이 계좌들은 해외 상장 ETF를 직접 담을 수 없기 때문이다. 이 글은 절세계좌에서 미국 회사채에 노출되는 실제 방법(국내 상장 대안), IRP 채권형의 위험자산 70% 면제, 과세이연 효과를 결정 중심으로 정리한다. (총보수·분배율·수익률·세율 수치는 자주 바뀌므로 본문에 수치로 적지 않는다. 계좌 규정·상품 구조 등 사실만 기재하고, 산술은 전부 가상 예시다.)왜 연금·ISA에서 LQD가 안 보이나?연금저축·IRP·ISA는 해외 상장 ETF를 직접 거래할 수 없다. 미국 증시에 상장된 LQD·HYG·VCIT 같은 상품은 일반 주식계좌(종합계좌)에서만 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-11T02:59:16+09:00\",\"dateModified\":\"2026-07-11T03:00:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 회사채 ETF(LQD·HYG 등)를 연금저축·IRP·ISA 같은 절세계좌에서 사려다 \"메뉴에 안 보인다\"며 막히는 경우가 많다. 이유는 단순하다. 이 계좌들은 해외 상장 ETF를 직접 담을 수 없기 때문이다. 이 글은 절세계좌에서 미국 회사채에 노출되는 실제 방법(국내 상장 대안), IRP 채권형의 위험자산 70% 면제, 과세이연 효과를 결정 중심으로 정리한다. (총보수·분배율·수익률·세율 수치는 자주 바뀌므로 본문에 수치로 적지 않는다. 계좌 규정·상품 구조 등 사실만 기재하고, 산술은 전부 가상 예시다.)왜 연금·ISA에서 LQD가 안 보이나?연금저축·IRP·ISA는 해외 상장 ETF를 직접 거래할 수 없다. 미국 증시에 상장된 LQD·HYG·VCIT 같은 상품은 일반 주식계좌(종합계좌)에서만 ..",
+  "og_title": "연금·IRP·ISA에서 미국 회사채에 투자하는 법: 해외 상장 대신 국내 상장으로, 채권형 70% 면제와 과세이연",
+  "post_id": "369",
+  "published_time": "2026-07-11T02:59:16+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금·IRP·ISA에서 미국 회사채에 투자하는 법: 해외 상장 대신 국내 상장으로, 채권형 70% 면제와 과세이연",
+  "url": "https://mystock-note.tistory.com/369"
+}
