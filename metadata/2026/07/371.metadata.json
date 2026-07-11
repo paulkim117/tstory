@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-11",
+  "body_html_length": 6863,
+  "canonical_url": "https://mystock-note.tistory.com/371",
+  "content_hash": "2c5d5cbe9e95b8c52dde21c0b66b5911a3020fc3641ba0014f1a504423f12a6c",
+  "json_ld_count": 2,
+  "meta_description": "ULTY는 같은 YieldMax 계열이지만 NVDY·AMZY처럼 한 종목이 아니라 여러 종목을 담아 옵션으로 수익을 내는 다종목 액티브 커버드콜 ETF다. 기초가 한 종목이 아니라는 점, 운용역이 종목·옵션을 능동적으로 바꾼다는 점, 그리고 상장 후 이미 역분할을 거쳤다는 점이 단일종목 YieldMax와 다르다. 이 글은 ULTY의 다종목 구조, 분배율 착시, ROC, 역분할 이력, 그리고 AMZY·NVDY와의 차이를 사실 위주로 정리한다. (총보수·분배율·순자산·수익률·주가는 자주 바뀌므로 수치로 적지 않는다. 산술은 전부 가상 예시다.)ULTY는 어떤 ETF인가?ULTY의 정식 명칭은 YieldMax Ultra Option Income Strategy ETF다. 발행은 YieldMax(Tidal Tr..",
+  "modified_time": "2026-07-12T01:01:09+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ULTY는 같은 YieldMax 계열이지만 NVDY·AMZY처럼 한 종목이 아니라 여러 종목을 담아 옵션으로 수익을 내는 다종목 액티브 커버드콜 ETF다. 기초가 한 종목이 아니라는 점, 운용역이 종목·옵션을 능동적으로 바꾼다는 점, 그리고 상장 후 이미 역분할을 거쳤다는 점이 단일종목 YieldMax와 다르다. 이 글은 ULTY의 다종목 구조, 분배율 착시, ROC, 역분할 이력, 그리고 AMZY·NVDY와의 차이를 사실 위주로 정리한다. (총보수·분배율·순자산·수익률·주가는 자주 바뀌므로 수치로 적지 않는다. 산술은 전부 가상 예시다.)ULTY는 어떤 ETF인가?ULTY의 정식 명칭은 YieldMax Ultra Option Income Strategy ETF다. 발행은 YieldMax(Tidal Tr..",
+  "og_title": "ULTY ETF란? AMZY·NVDY 단일주와 차이, 다종목 커버드콜 구조와 역분할·분배율 함정",
+  "post_id": "371",
+  "published_time": "2026-07-12T01:00:20+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ULTY ETF란? AMZY·NVDY 단일주와 차이, 다종목 커버드콜 구조와 역분할·분배율 함정",
+  "url": "https://mystock-note.tistory.com/371"
+}

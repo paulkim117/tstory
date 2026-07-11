@@ -1,0 +1,111 @@
+<!--
+source: https://mystock-note.tistory.com/370
+backup_date: 2026-07-11
+post_id: 370
+-->
+<p data-ke-size="size18">USMV는 미국 주식 중 변동성이 낮은 종목에 투자해 하락장에서 덜 빠지도록 설계된 저변동(low volatility) 팩터 ETF다. 같은 저변동으로 묶이는 SPLV와 이름은 비슷하지만, 종목을 고르고 담는 방식이 근본적으로 달라 기술주 비중과 방어력이 크게 갈린다. 이 글은 USMV의 최소변동성 '최적화' 방식, SPLV와의 차이, 저변동 팩터의 한계를 사실 위주로 정리한다. (총보수·수익률·순자산·구성 비중 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수 규칙·산출 방식 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)</p>
+
+<h2 data-ke-size="size26">USMV는 어떤 ETF인가?</h2>
+<p data-ke-size="size18">USMV의 정식 명칭은 iShares MSCI USA Min Vol Factor ETF다. 발행사는 iShares(BlackRock), 2011년 상장했고, 추종 지수는 <strong>MSCI USA Minimum Volatility Index</strong>다. 미국 대·중형주를 대상으로, 개별 종목의 변동성뿐 아니라 종목 간 상관관계까지 고려해 <strong>포트폴리오 전체의 변동성이 최소가 되도록 최적화</strong>하는 방식으로 구성된다. 목적은 주식 노출을 유지하되 전체 위험을 낮추는 것이다.</p>
+
+
+
+
+
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>USMV 기본 개요 (구조 사실, 변동 스펙 제외)</caption>
+<thead><tr><th>항목</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>정식 명칭</td><td>iShares MSCI USA Min Vol Factor ETF</td></tr>
+<tr><td>발행사 / 상장</td><td>iShares(BlackRock) / 2011년</td></tr>
+<tr><td>추종 지수</td><td>MSCI USA Minimum Volatility Index</td></tr>
+<tr><td>대상</td><td>미국 대·중형주</td></tr>
+<tr><td>구성 방식</td><td>최소변동성 최적화(상관관계 반영 + 제약 조건)</td></tr>
+<tr><td>팩터</td><td>저변동(minimum volatility)</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">핵심은 '개별 저변동 종목을 단순히 모으는' 것이 아니라, '포트폴리오 전체 변동성을 최소화하도록 최적화'한다는 점이다. 이 차이가 SPLV와의 결정적 구분점이다.</p>
+
+<h2 data-ke-size="size26">'최소변동성 최적화'는 무슨 뜻인가?</h2>
+<p data-ke-size="size18">단순히 변동성이 낮은 종목만 뽑으면 특정 방어 섹터(유틸리티 등)에 쏠린다. USMV의 MSCI 지수는 이를 피하려고 <strong>제약 조건(constraints)을 건 최적화</strong>를 쓴다. 개별 종목·섹터·회전율에 한도를 두고, 그 안에서 포트폴리오 전체 변동성이 가장 낮아지는 조합을 계산한다. 대표적으로 개별 종목 비중 상한(약 1.5%)과 <strong>섹터 비중을 모지수(MSCI USA)의 ±5% 이내로 제한</strong>하는 규칙이 있다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>USMV 최적화 제약의 효과 (지수 규칙)</caption>
+<thead><tr><th>제약</th><th>효과</th></tr></thead>
+<tbody>
+<tr><td>종목 비중 상한(약 1.5%)</td><td>초대형주 쏠림 억제</td></tr>
+<tr><td>섹터 ±5%(모지수 대비)</td><td>방어 섹터 과도 집중 방지</td></tr>
+<tr><td>상관관계 반영</td><td>종목 간 분산으로 전체 변동성↓</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">이 섹터 제약 때문에 USMV는 변동성이 큰 기술 섹터도 완전히 버리지 못하고 상당 비중 보유한다. 방어력을 얻는 대신 시장 구성과 크게 어긋나지 않도록 묶인 구조다.</p>
+
+<h2 data-ke-size="size26">SPLV와 무엇이 다른가?</h2>
+<p data-ke-size="size18">SPLV(Invesco S&P 500 Low Volatility)는 방식이 훨씬 단순하다. S&P500에서 <strong>후행 12개월 변동성이 가장 낮은 100종목</strong>을 뽑아 담는다. 상관관계나 섹터 제약이 없어, 저변동 종목이 몰린 유틸리티·금융 등 방어 섹터로 자연스럽게 쏠리고 기술 비중은 매우 낮아진다. USMV는 최적화·섹터 제약으로 기술을 상당 부분 유지하는 반면, SPLV는 사실상 기술을 크게 덜어낸다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>USMV vs SPLV — 방법론 대조 (구조·지수 사실)</caption>
+<thead><tr><th>구분</th><th>USMV</th><th>SPLV</th></tr></thead>
+<tbody>
+<tr><td>지수</td><td>MSCI USA Minimum Volatility</td><td>S&P 500 Low Volatility</td></tr>
+<tr><td>선정</td><td>최적화(상관·제약)</td><td>후행 12개월 변동성 최저 100종목</td></tr>
+<tr><td>섹터 제약</td><td>모지수 ±5%</td><td>없음(방어 섹터로 쏠림)</td></tr>
+<tr><td>기술 비중</td><td>상당 부분 유지</td><td>매우 낮음</td></tr>
+<tr><td>대상</td><td>대·중형(MSCI USA)</td><td>S&P500 대형</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">결과적으로 기술주가 흔들리는 국면에서는 기술을 덜어낸 SPLV가 유리하고, 기술 조정이 일시적이라 보면 기술을 유지한 USMV가 회복 국면에서 앞설 수 있다. 같은 '저변동'이라도 베팅의 성격이 다르다.</p>
+
+<h2 data-ke-size="size26">저변동 팩터는 왜 하락장에서 유리한가?</h2>
+<p data-ke-size="size18">저변동 종목은 시장이 급락할 때 상대적으로 덜 빠지는 경향이 있다. 그래서 저변동 ETF는 하락장에서 시장 지수보다 낙폭이 작은 '방어' 성격을 띤다. 하락을 줄이면 회복에 필요한 반등도 작아져(하락률 X → 회복 필요 반등 X÷(100−X)) 장기 복리에 유리할 수 있다. 다만 이것은 '덜 빠지는' 것이지 '안 빠지는' 것이 아니다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>낙폭별 회복에 필요한 반등 (가상 예시)</caption>
+<thead><tr><th>낙폭</th><th>필요 반등</th></tr></thead>
+<tbody>
+<tr><td>−10%</td><td>+11%</td></tr>
+<tr><td>−20%</td><td>+25%</td></tr>
+<tr><td>−35%</td><td>+54%</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">(가상 예시) 낙폭이 작을수록 회복 문턱이 크게 낮아진다. 저변동의 가치는 '큰 하락을 피해 회복 부담을 줄이는' 데 있다.</p>
+
+<h2 data-ke-size="size26">상승장에서는 왜 뒤처지나?</h2>
+<p data-ke-size="size18">저변동 팩터는 하락 방어의 대가로 상승장, 특히 소수 고변동 성장주가 시장을 끌어올리는 국면에서 시장 지수에 뒤처지기 쉽다. 방어적 종목·저변동 종목은 강세장에서 덜 오르기 때문이다. USMV는 섹터 제약으로 기술을 일부 유지해 SPLV보다는 강세장 참여가 나을 수 있으나, 시장 지수(S&P500)보다는 완만한 상승에 그치는 경향이 있다.</p>
+
+<h2 data-ke-size="size26">저변동 팩터의 한계는?</h2>
+<p data-ke-size="size18">저변동 전략에는 구조적 한계가 지적된다. 첫째, 방어 섹터(유틸리티 등) 편중과 그에 따른 <strong>금리 민감도</strong>다(금리 상승기에 불리할 수 있음). 둘째, <strong>과밀 효과(overcrowding)</strong> — 저변동 투자가 유행하며 자금이 몰리면 해당 종목 밸류에이션이 높아져 이상현상(저변동 초과수익)이 약해질 수 있다는 지적이다. 셋째, '역사적' 저변동이 미래 저변동을 보장하지 않는다.</p>
+<figure class="table" data-ke-align="alignLeft">
+<table>
+<caption>저변동 팩터의 한계 (개념)</caption>
+<thead><tr><th>쟁점</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>섹터 편중·금리 민감</td><td>방어 섹터 쏠림 → 금리 상승기 불리 가능</td></tr>
+<tr><td>과밀 효과</td><td>자금 유입 → 밸류에이션 부담 → 효과 약화 지적</td></tr>
+<tr><td>후행성</td><td>과거 저변동이 미래를 보장하지 않음</td></tr>
+</tbody>
+</table>
+</figure>
+<p data-ke-size="size18">USMV는 섹터 제약으로 편중을 완화하려 하지만, 저변동 팩터 자체의 한계에서 완전히 자유롭지는 않다. '저변동=안전'이라는 단순 등식은 성립하지 않는다.</p>
+
+<h2 data-ke-size="size26">VOO·COWZ와는 어떤 관계인가?</h2>
+<p data-ke-size="size18">VOO(S&P500 시총가중)는 시장 그 자체, COWZ(잉여현금흐름 밸류)는 밸류 기울기, USMV는 저변동 기울기다. 셋 다 미국 주식이지만 목적이 다르다. USMV는 시장 코어를 대체하기보다, 코어 포트폴리오의 전체 위험을 낮추는 <strong>보완 도구</strong>로 쓰는 경우가 많다. 시장 대표 노출은 VOO, 밸류는 COWZ, 하락 방어는 USMV로 역할을 나눌 수 있다.</p>
+
+<h2 data-ke-size="size26">국내에서 담을 대안은 있나?</h2>
+<p data-ke-size="size18"><strong>이번 확인에서 USMV(MSCI USA Minimum Volatility 지수)를 직접 추종하는 국내 상장 ETF는 특정하지 못했다.</strong> 국내에는 저변동 ETF가 있으나(예: 코스피 종목 대상 저변동 상품), 이는 <strong>한국 종목 기반</strong>이라 미국 저변동인 USMV와 담는 시장 자체가 다르다. 즉 국내 저변동 상품은 USMV의 대체가 아니다. 미국 저변동 노출을 원하면 미국 상장 직접 매수가 사실상의 경로이며, 국내 상장 미국 저변동 대응 상품의 존재 여부는 발행 시점에 재확인해야 한다(확인 전 특정 상품을 대안으로 단정하지 않는다).</p>
+
+<h2 data-ke-size="size26">세금은 어떻게 되나?</h2>
+<p data-ke-size="size18">USMV는 미국 상장 ETF다. 분배금은 배당소득세 15.4%가 원천징수되고, 매매차익은 양도소득세(연 250만 공제 후 22%, 지방세 포함)로 다음 해 5월 신고한다(손익통산 가능). 절세계좌(연금·ISA)에는 해외 상장 ETF를 직접 담을 수 없다. 세율·공제는 개정 대상이므로 시점 기준으로 확인한다.</p>
+<div style="border:1px solid #e0e0e0; border-radius:8px; padding:16px; margin:16px 0;" data-ke-size="size16">
+<p data-ke-size="size16"><strong>USMV 매수 전 점검 우선순위</strong></p>
+<p data-ke-size="size16">'덜 빠지되 덜 오르는' 방어 성격을 이해했는가 &nbsp;<progress value="95" max="100"></progress>&nbsp; 최우선</p>
+<p data-ke-size="size16">SPLV와 기술 비중 차이를 아는가 &nbsp;<progress value="85" max="100"></progress>&nbsp; 최우선</p>
+<p data-ke-size="size16">코어가 아닌 위험 완충 보완재로 둘지 정했는가 &nbsp;<progress value="70" max="100"></progress>&nbsp; 높음</p>
+<p data-ke-size="size16">과밀·금리 민감 등 팩터 한계를 아는가 &nbsp;<progress value="55" max="100"></progress>&nbsp; 보통</p>
+<p data-ke-size="size16">국내 저변동(한국 종목)과 다른 시장임을 아는가 &nbsp;<progress value="45" max="100"></progress>&nbsp; 보통</p>
+<p data-ke-size="size16">분배 배당세 15.4%·양도세 반영했는가 &nbsp;<progress value="40" max="100"></progress>&nbsp; 보통</p>

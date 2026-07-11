@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-12T03:02:00+09:00",
+    "datePublished": "2026-07-12T03:01:14+09:00",
+    "description": "한국 투자자가 분산하겠다고 신흥국 ETF를 담았는데, 그 안에 이미 보유한 삼성전자·SK하이닉스가 또 들어 있는 경우가 많다. 신흥국 ETF가 어떤 지수를 따르느냐에 따라 한국이 크게 들어가기도, 아예 빠지기도 하기 때문이다. 이 글은 '이미 한국 주식을 가진 투자자'가 신흥국을 얹을 때 자국 중복(home bias)을 어떻게 피하고 어떤 상품·계좌에 배치할지를 결정 중심으로 정리한다. 상품 스펙 자체 비교는 별도 글에서 다루고, 여기서는 '내 포트폴리오에 어떻게 넣나'에 집중한다. (국가 비중·수익률 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 분류 기준 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)왜 신흥국 ETF에서 자국 중복이 생기나?신흥국 ETF가 따르는 지수 제공사가 한국을 어..",
+    "headline": "한국 투자자의 신흥국 ETF 배치법: 삼성·하이닉스 자국 중복 피하는 VWO·ex-China 선택",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/373",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/373"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-12",
+    "datePublished": "2026-07-12",
+    "description": "이미 한국 주식을 보유한 투자자가 신흥국 ETF를 얹을 때 자국 중복(home bias)을 피하는 배치법 — MSCI(IEMG)/FTSE(VWO) 한국 편입 차이, ex-China, 위성 비중·상장지·과세 결정을 정리한다.",
+    "headline": "한국 투자자의 신흥국 ETF 배치법: 삼성·하이닉스 자국 중복 피하는 VWO·ex-China 선택",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/373",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

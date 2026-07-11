@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-12T02:01:02+09:00",
+    "datePublished": "2026-07-12T02:00:51+09:00",
+    "description": "TDF(타깃데이트펀드)는 목표 은퇴 시점에 맞춰 주식과 채권 비중을 알아서 조정해 주는 자산배분 상품이다. 이름 뒤 숫자(2030·2050 등)가 은퇴 목표 연도(빈티지)이고, 비중이 바뀌는 경로를 글라이드패스라 부른다. 최근에는 펀드 형태 외에 TDF ETF도 여러 운용사가 내놓아 선택지가 늘었다. 이 글은 빈티지·글라이드패스 개념, 적격 TDF의 연금계좌 활용(안전자산 100% 편입), 운용사별 자산배분 차이를 사실 위주로 정리한다. (순자산·수익률·점유율·총보수 실측치는 자주 바뀌므로 수치로 적지 않는다. 빈티지·규정 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)TDF란 무엇인가?TDF는 투자자의 예상 은퇴 시점에 맞춰 주식(위험자산)과 채권(안전자산)의 비중을 자동으로 조절해 주는 자산배..",
+    "headline": "TDF ETF 비교: 빈티지·글라이드패스·운용사별 자산배분, 연금계좌에서 어떻게 고르나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/372",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/372"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-12",
+    "datePublished": "2026-07-12",
+    "description": "TDF(타깃데이트펀드)의 빈티지·글라이드패스 개념, 운용사별 자산배분 차이, 적격 TDF의 연금계좌 안전자산 100% 편입, TDF ETF와 공모펀드형의 차이를 정리한다.",
+    "headline": "TDF ETF 비교: 빈티지·글라이드패스·운용사별 자산배분, 연금계좌에서 어떻게 고르나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/372",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
