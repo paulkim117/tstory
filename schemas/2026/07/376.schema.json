@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-13T02:04:00+09:00",
+    "datePublished": "2026-07-13T02:03:06+09:00",
+    "description": "핵심 요약: 국내 상장 '미국 월배당 커버드콜 ETF'는 미국 지수·배당주를 기초로 콜옵션을 매도해 그 프리미엄을 매월 분배하는 상품입니다. 이름이 비슷해 보여도 커버드콜을 거는 방식(전량형·타겟형·데일리형), 기초자산(S&P500·나스닥100·배당주·반도체·빅테크), 옵션 가격도(ATM·OTM)에 따라 분배금과 상승 참여가 크게 달라집니다. 또 하나 중요한 점은 이 상품들은 국내 상장이라 연금저축·IRP·ISA에서 담을 수 있다는 것입니다(미국에 상장된 커버드콜은 절세계좌에서 직접 매수 불가). 분배율 숫자만 보지 말고 방식·기초자산·환·세금·계좌를 함께 비교해야 합니다.이 글은 국내 운용사(미래에셋·삼성 등) 공식 상품·지수 자료를 참고했습니다. 총보수·분배율·순자산·수익률은 기준일에 따라 달라지므로..",
+    "headline": "미국 월배당 커버드콜 ETF 비교: 전량·타겟·데일리 방식 차이와 연금계좌 활용법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/376",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/376"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-13",
+    "datePublished": "2026-07-13",
+    "description": "미국 지수·배당주를 기초로 한 월배당 커버드콜 ETF(국내 상장)를 전량형·타겟형·데일리형 커버드콜 방식과 S&P500·나스닥100·배당(SCHD) 기초로 나눠 비교하고, 연금계좌 활용과 세금까지 정리했습니다.",
+    "headline": "미국 월배당 커버드콜 ETF 비교: 전량·타겟·데일리 방식 차이와 연금계좌 활용법",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/376",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/376"
+  }
+]

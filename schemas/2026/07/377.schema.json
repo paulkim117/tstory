@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-13T03:04:00+09:00",
+    "datePublished": "2026-07-13T03:03:33+09:00",
+    "description": "핵심 요약: IRP(개인형퇴직연금)와 DC형은 위험자산을 최대 70%까지만 담을 수 있고, 나머지 30% 이상은 안전자산으로 채워야 합니다. 문제는 '위험자산 70%'를 어떻게 나눌지입니다. 성장 ETF·배당 ETF·월배당(커버드콜) ETF는 대부분 같은 위험자산 바구니에 들어가므로, 이 바구니 안에서 역할을 어떻게 배분하느냐가 실제 결정입니다. 이 글은 안정형·성장형·TDF 활용형 세 가지 조합을 자산 역할 중심으로 정리합니다. 아래 배분 숫자는 이해를 돕기 위한 예시이며 특정 상품·비중을 권하는 것이 아닙니다.이 글은 금융위원회 퇴직연금감독규정과 고용노동부·금융감독원 업무매뉴얼 등 공개 규정 자료를 참고했습니다. 편입 가능한 실제 상품은 가입한 증권사·퇴직연금 사업자의 상품 목록에서 다를 수 있으므로..",
+    "headline": "IRP 위험자산 70% 한도 안에서 ETF 조합 3가지: 안정·성장·TDF 활용형",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/377",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/377"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-13",
+    "datePublished": "2026-07-13",
+    "description": "IRP·DC 위험자산 70% 한도와 안전자산 30% 규정 안에서 ETF를 배치하는 3가지 조합(안정형·성장형·TDF 활용형)을 자산 역할 중심으로 정리하고, 흔한 오해와 한도 초과 대응까지 다룹니다.",
+    "headline": "IRP 위험자산 70% 한도 안에서 ETF 조합 3가지: 안정·성장·TDF 활용형",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/377",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/377"
+  }
+]
