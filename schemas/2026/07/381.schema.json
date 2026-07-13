@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-14T03:20:00+09:00",
+    "datePublished": "2026-07-14T03:19:16+09:00",
+    "description": "내부가 티스토리 본문에 붙여넣는 HTML. SCHY와 SCHD는 무엇이 다른가요?가장 큰 차이는 투자 지역이다. SCHD는 미국 주식만, SCHY는 미국을 제외한 선진국·신흥국 주식을 담는다. 이 하나의 차이에서 통화·세금·지수 상한 규칙의 세부 차이가 파생된다.표 2. SCHY vs SCHD 핵심 대조 (출처: Schwab 공식·S&P DJI·SEC)구분SCHY (국제)SCHD (미국)추종지수Dow Jones International Dividend 100Dow Jones U.S. Dividend 100투자 지역미국 외 선진국 + 신흥국미국신흥국 포함포함 (상한 15%)해당 없음섹터 상한15%25%종목 상한4%4%통화다통화·무헤지(현지 통화 노출)단일(USD)기초 배당 원천징수원천지국 단계 존재 (다층..",
+    "headline": "SCHY ETF란? SCHD와 차이, 국제 배당주 지수 방식·이중 원천징수 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/381",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/381"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-14T03:20:00+09:00",
+    "datePublished": "2026-07-14T03:19:16+09:00",
+    "description": "내부가 티스토리 본문에 붙여넣는 HTML. SCHY와 SCHD는 무엇이 다른가요?가장 큰 차이는 투자 지역이다. SCHD는 미국 주식만, SCHY는 미국을 제외한 선진국·신흥국 주식을 담는다. 이 하나의 차이에서 통화·세금·지수 상한 규칙의 세부 차이가 파생된다.표 2. SCHY vs SCHD 핵심 대조 (출처: Schwab 공식·S&P DJI·SEC)구분SCHY (국제)SCHD (미국)추종지수Dow Jones International Dividend 100Dow Jones U.S. Dividend 100투자 지역미국 외 선진국 + 신흥국미국신흥국 포함포함 (상한 15%)해당 없음섹터 상한15%25%종목 상한4%4%통화다통화·무헤지(현지 통화 노출)단일(USD)기초 배당 원천징수원천지국 단계 존재 (다층..",
+    "headline": "SCHY ETF란? SCHD와 차이, 국제 배당주 지수 방식·이중 원천징수 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/381",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/381"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-14",
+    "datePublished": "2026-07-14",
+    "description": "SCHY(슈왑 국제 배당 ETF)와 SCHD의 차이를 지수 선별 방식·섹터/신흥국 상한·통화 노출·해외 이중 원천징수 구조로 비교합니다. 미국 배당 ETF만으로 부족한 국제 분산과 세금 유의점을 확인하세요.",
+    "headline": "SCHY ETF란? SCHD와 차이, 국제 배당주 지수 방식·이중 원천징수 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/381",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/381"
+  }
+]

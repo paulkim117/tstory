@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-13",
+  "body_html_length": 7253,
+  "canonical_url": "https://mystock-note.tistory.com/380",
+  "content_hash": "d303ed9f73b6f00daf7302d1b9dc76ad1a0707f9d44500fc7c0f5922bafaa3b0",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: SCHD와 VYM은 둘 다 미국 배당주에 투자하는 대표 ETF지만 종목을 고르는 철학이 반대입니다. SCHD는 배당의 품질(10년 연속 배당, 재무 지표)을 먼저 거른 뒤 약 100종목에 집중하고, VYM은 배당수익률이 시장 중앙값보다 높은 기업을 넓게 담아 수백 종목으로 분산합니다. 즉 SCHD는 '거른 집중형', VYM은 '넓은 분산형'입니다. 배당수익률 숫자만 보지 말고 선정 방식·종목수·섹터·세금을 함께 비교해야 합니다.이 글은 지수 제공사(S&P Dow Jones Indices, FTSE)와 운용사(Schwab·Vanguard) 공식 자료를 참고했습니다. 배당수익률·총보수·순자산·구성종목 비중은 기준일에 따라 달라지므로 본문에 실수치를 적지 않았습니다. 실제 투자 전에는 운용사 공식..",
+  "modified_time": "2026-07-14T02:15:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: SCHD와 VYM은 둘 다 미국 배당주에 투자하는 대표 ETF지만 종목을 고르는 철학이 반대입니다. SCHD는 배당의 품질(10년 연속 배당, 재무 지표)을 먼저 거른 뒤 약 100종목에 집중하고, VYM은 배당수익률이 시장 중앙값보다 높은 기업을 넓게 담아 수백 종목으로 분산합니다. 즉 SCHD는 '거른 집중형', VYM은 '넓은 분산형'입니다. 배당수익률 숫자만 보지 말고 선정 방식·종목수·섹터·세금을 함께 비교해야 합니다.이 글은 지수 제공사(S&P Dow Jones Indices, FTSE)와 운용사(Schwab·Vanguard) 공식 자료를 참고했습니다. 배당수익률·총보수·순자산·구성종목 비중은 기준일에 따라 달라지므로 본문에 실수치를 적지 않았습니다. 실제 투자 전에는 운용사 공식..",
+  "og_title": "SCHD vs VYM 비교: 미국 배당 ETF, 품질 스크린과 고배당 분산 중 무엇을 담을까",
+  "post_id": "380",
+  "published_time": "2026-07-14T02:14:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SCHD vs VYM 비교: 미국 배당 ETF, 품질 스크린과 고배당 분산 중 무엇을 담을까",
+  "url": "https://mystock-note.tistory.com/380"
+}

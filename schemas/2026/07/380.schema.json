@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-14T02:15:00+09:00",
+    "datePublished": "2026-07-14T02:14:45+09:00",
+    "description": "핵심 요약: SCHD와 VYM은 둘 다 미국 배당주에 투자하는 대표 ETF지만 종목을 고르는 철학이 반대입니다. SCHD는 배당의 품질(10년 연속 배당, 재무 지표)을 먼저 거른 뒤 약 100종목에 집중하고, VYM은 배당수익률이 시장 중앙값보다 높은 기업을 넓게 담아 수백 종목으로 분산합니다. 즉 SCHD는 '거른 집중형', VYM은 '넓은 분산형'입니다. 배당수익률 숫자만 보지 말고 선정 방식·종목수·섹터·세금을 함께 비교해야 합니다.이 글은 지수 제공사(S&P Dow Jones Indices, FTSE)와 운용사(Schwab·Vanguard) 공식 자료를 참고했습니다. 배당수익률·총보수·순자산·구성종목 비중은 기준일에 따라 달라지므로 본문에 실수치를 적지 않았습니다. 실제 투자 전에는 운용사 공식..",
+    "headline": "SCHD vs VYM 비교: 미국 배당 ETF, 품질 스크린과 고배당 분산 중 무엇을 담을까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/380",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/380"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-14",
+    "datePublished": "2026-07-14",
+    "description": "미국 배당 ETF SCHD와 VYM을 추종 지수·선정 방식(품질 필터 vs 고배당 수익률)·종목수·섹터·세금으로 비교합니다. SCHD는 품질로 거른 집중형, VYM은 수익률로 담는 분산형이라는 구조 차이를 정리했습니다.",
+    "headline": "SCHD vs VYM 비교: 미국 배당 ETF, 품질 스크린과 고배당 분산 중 무엇을 담을까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/380",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/380"
+  }
+]

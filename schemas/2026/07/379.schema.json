@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-14T01:01:04+09:00",
+    "datePublished": "2026-07-14T01:00:23+09:00",
+    "description": "핵심 요약: MTUM은 미국 대형·중형주 가운데 최근 주가가 강하게 오른 종목을 골라 담는 '모멘텀 팩터' ETF입니다. 여기서 중요한 점은, MTUM이 회사의 재무가 좋은지를 보지 않고 순전히 가격 추세(6개월·12개월 위험조정 수익률)로 종목을 고른다는 것입니다. 또 업종을 가리지 않기 때문에 정기 재구성 때마다 담기는 업종이 크게 바뀔 수 있고, 급반전 장세에서는 취약합니다. MTUM을 볼 때는 선정 기준(가격 추세), 재구성 방식과 회전, 급반전 위험, 퀄리티·밸류 같은 다른 팩터와의 차이를 함께 확인해야 합니다.이 글은 운용사(iShares) 공식 자료와 SEC 제출 투자설명서, 지수 제공사(MSCI) 문서를 참고했습니다. 총보수·수익률·순자산·구성종목 비중은 기준일에 따라 크게 달라지므로 본문..",
+    "headline": "MTUM ETF란? 미국 모멘텀 팩터 선정 방식(가격 추세)과 리밸런싱, 퀄리티·밸류 팩터와 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/379",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/379"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-14",
+    "datePublished": "2026-07-14",
+    "description": "MTUM(iShares 미국 모멘텀 팩터 ETF)이 재무가 아니라 6·12개월 위험조정 가격 추세로 종목을 고르는 방식, 정기 재구성과 높은 회전·급반전 위험, 퀄리티(QUAL)·밸류(COWZ) 팩터와의 차이를 정리했습니다.",
+    "headline": "MTUM ETF란? 미국 모멘텀 팩터 선정 방식(가격 추세)과 리밸런싱, 퀄리티·밸류 팩터와 차이",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/379",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/379"
+  }
+]
