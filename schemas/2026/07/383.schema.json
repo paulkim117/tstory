@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-15T01:22:00+09:00",
+    "datePublished": "2026-07-15T01:21:04+09:00",
+    "description": "핵심 요약: DGRO는 배당수익률이 높은 종목이 아니라 배당을 꾸준히 '늘려온' 미국 기업을 담는 배당성장 ETF입니다. 5년 이상 연속으로 배당을 늘리고, 이익 성장이 예상되며, 배당 지급 여력(payout ratio)이 과하지 않은 기업만 담습니다. 특히 수익률이 가장 높은 상위 10% 종목은 오히려 제외해 이른바 '배당 함정'을 피합니다. 즉 DGRO는 '지금 많이 주는 배당'이 아니라 '앞으로 늘어날 배당'에 초점을 둡니다. 배당수익률 숫자만 보고 SCHD·VYM과 비교하면 성격을 잘못 이해하게 됩니다.이 글은 운용사(iShares/BlackRock) 공식 자료와 지수 방법론 설명을 참고했습니다. 배당수익률·총보수·순자산·구성종목 비중은 기준일에 따라 달라지므로 본문에 실수치를 적지 않았습니다. ..",
+    "headline": "DGRO ETF란? 배당 '성장' 선정 기준(5년 증가·고수익률 제외)과 SCHD·VYM과 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/383",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/383"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-15",
+    "datePublished": "2026-07-15",
+    "description": "DGRO(iShares 배당성장 ETF)가 5년 연속 배당 증가·이익 전망·payout 75% 미만·최고수익률 상위 10% 제외로 종목을 고르는 방식, 배당 함정을 오히려 제외하는 이유, SCHD·VYM과의 차이를 정리했습니다.",
+    "headline": "DGRO ETF란? 배당 '성장' 선정 기준(5년 증가·고수익률 제외)과 SCHD·VYM과 차이",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/383",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/383"
+  }
+]

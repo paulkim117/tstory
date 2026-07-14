@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-15T02:05:00+09:00",
+    "datePublished": "2026-07-15T02:04:32+09:00",
+    "description": "핵심 요약: VOO와 VTI는 둘 다 뱅가드(Vanguard)의 미국 대표 지수 ETF입니다. VOO는 S&P500(대형주 약 500종목)을, VTI는 미국 전체 시장(대형+중형+소형, 약 3,500종목 이상)을 담습니다. 중요한 점은, VTI가 VOO를 이미 포함하고 있고 둘 다 시가총액 가중이라 상위 종목과 성과가 거의 같다는 것입니다. 따라서 둘 다 담으면 대부분 중복이며, 실제 차이는 VTI가 추가로 담는 중소형주(전체의 일부)에서만 나옵니다. 어느 하나를 코어로 고르는 문제이지, 둘을 함께 담아 분산되는 구조가 아닙니다.이 글은 운용사(Vanguard) 공식 자료와 공개된 비교 자료를 참고했습니다. 총보수·수익률·순자산·배당수익률·구성종목 비중은 기준일에 따라 달라지므로 본문에 실수치를 적지 않..",
+    "headline": "VOO vs VTI 비교: S&P500과 미국 전체 시장, 무엇을 코어로 담을까",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/384",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/384"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-15",
+    "datePublished": "2026-07-15",
+    "description": "미국 코어 ETF VOO(S&P500)와 VTI(전체 시장)를 추종 지수·종목수·중소형 포함 여부·선정 방식·성과 차이로 비교합니다. VOO가 VTI 안에 포함돼 둘 다 담으면 중복이라는 점, 시총가중이라 성과가 거의 같은 이유를 정리했습니다.",
+    "headline": "VOO vs VTI 비교: S&P500과 미국 전체 시장, 무엇을 코어로 담을까",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/384",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/384"
+  }
+]
