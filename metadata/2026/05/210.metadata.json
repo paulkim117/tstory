@@ -1,23 +1,20 @@
 {
-  "backup_date": "2026-06-09",
-  "body_html_length": 3819,
+  "backup_date": "2026-07-15",
+  "body_html_length": 11666,
   "canonical_url": "https://mystock-note.tistory.com/210",
-  "content_hash": "d90400b38d0871dff96d0cca226019a170a592fd3ed509fedef1ef15104f332d",
-  "json_ld_count": 1,
-  "meta_description": "핵심 요약: SOL AI반도체TOP2플러스 ETF는 삼성전자, SK하이닉스, SK스퀘어를 중심으로 국내 반도체 핵심 종목 약 10개에 집중 투자하는 ETF입니다. 일반 반도체 ETF보다 상위 종목 집중도가 높고, AI 반도체 소부장 종목까지 함께 담는 구조입니다. \"삼성전자·SK하이닉스에만 투자한다\"는 인식은 정확하지 않으며, 운용사가 상장 초기 비중 표현을 정정한 이력이 있어 실제 편입 비중은 구성종목 PDF로 직접 확인해야 합니다. 투자자는 상품명보다 기초지수, TOP2 비중, 실제 편입 종목, 총보수, 순자산, 연금계좌 편입 가능 여부를 먼저 확인해야 합니다.이 글은 운용사 공식 상품 페이지, 정정보도 안내, ETF 데이터를 직접 대조해 광고 문구와 실제 구조의 차이를 정리한 것입니다. 자료 기준일..",
-  "modified_time": "2026-06-09T20:18:24+09:00",
+  "content_hash": "44bbeae011c9e6987ac7cf11b021449b5eb363931b56f80c5b9eef540226b75e",
+  "json_ld_count": 2,
+  "meta_description": "SOL AI반도체TOP2플러스(0167A0)를 어느 계좌에 담을지 정하는 기준은 하나입니다. 이 상품이 세법상 국내 주식형 ETF로 분류된다는 점입니다. 국내 주식형 ETF의 매매차익은 일반계좌에서 과세되지 않습니다. 그런데 같은 상품을 연금저축이나 IRP에 담으면, 원래 내지 않았을 세금이 인출 시점에 생깁니다. 절세계좌가 항상 유리하다는 통념이 이 상품에서는 뒤집힙니다. 이 글은 구성종목 비중이 아니라 계좌 선택을 다룹니다. 일반계좌·ISA·연금저축·IRP 네 경로의 과세 구조를 비교하고, 어떤 경우에 판단이 뒤집히는지까지 정리했습니다.SOL AI반도체TOP2플러스는 세법상 어떤 ETF로 분류되나?국내 거래소에 상장된 ETF는 과세 방식에 따라 크게 세 갈래로 나뉩니다. 이 상품은 국내 유가증권시장과..",
+  "modified_time": "2026-07-15T23:54:04+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
-    {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/210\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/210\",\"headline\":\"SOL AI반도체TOP2플러스 ETF란? 삼성전자·SK하이닉스 비중과 일반 반도체 ETF 차이\",\"description\":\"핵심 요약: SOL AI반도체TOP2플러스 ETF는 삼성전자, SK하이닉스, SK스퀘어를 중심으로 국내 반도체 핵심 종목 약 10개에 집중 투자하는 ETF입니다. 일반 반도체 ETF보다 상위 종목 집중도가 높고, AI 반도체 소부장 종목까지 함께 담는 구조입니다. \"삼성전자·SK하이닉스에만 투자한다\"는 인식은 정확하지 않으며, 운용사가 상장 초기 비중 표현을 정정한 이력이 있어 실제 편입 비중은 구성종목 PDF로 직접 확인해야 합니다. 투자자는 상품명보다 기초지수, TOP2 비중, 실제 편입 종목, 총보수, 순자산, 연금계좌 편입 가능 여부를 먼저 확인해야 합니다.이 글은 운용사 공식 상품 페이지, 정정보도 안내, ETF 데이터를 직접 대조해 광고 문구와 실제 구조의 차이를 정리한 것입니다. 자료 기준일..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-05-23T03:24:40+09:00\",\"dateModified\":\"2026-06-09T20:18:24+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
-    }
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
-  "og_description": "핵심 요약: SOL AI반도체TOP2플러스 ETF는 삼성전자, SK하이닉스, SK스퀘어를 중심으로 국내 반도체 핵심 종목 약 10개에 집중 투자하는 ETF입니다. 일반 반도체 ETF보다 상위 종목 집중도가 높고, AI 반도체 소부장 종목까지 함께 담는 구조입니다. \"삼성전자·SK하이닉스에만 투자한다\"는 인식은 정확하지 않으며, 운용사가 상장 초기 비중 표현을 정정한 이력이 있어 실제 편입 비중은 구성종목 PDF로 직접 확인해야 합니다. 투자자는 상품명보다 기초지수, TOP2 비중, 실제 편입 종목, 총보수, 순자산, 연금계좌 편입 가능 여부를 먼저 확인해야 합니다.이 글은 운용사 공식 상품 페이지, 정정보도 안내, ETF 데이터를 직접 대조해 광고 문구와 실제 구조의 차이를 정리한 것입니다. 자료 기준일..",
-  "og_title": "SOL AI반도체TOP2플러스 ETF란? 삼성전자·SK하이닉스 비중과 일반 반도체 ETF 차이",
+  "og_description": "SOL AI반도체TOP2플러스(0167A0)를 어느 계좌에 담을지 정하는 기준은 하나입니다. 이 상품이 세법상 국내 주식형 ETF로 분류된다는 점입니다. 국내 주식형 ETF의 매매차익은 일반계좌에서 과세되지 않습니다. 그런데 같은 상품을 연금저축이나 IRP에 담으면, 원래 내지 않았을 세금이 인출 시점에 생깁니다. 절세계좌가 항상 유리하다는 통념이 이 상품에서는 뒤집힙니다. 이 글은 구성종목 비중이 아니라 계좌 선택을 다룹니다. 일반계좌·ISA·연금저축·IRP 네 경로의 과세 구조를 비교하고, 어떤 경우에 판단이 뒤집히는지까지 정리했습니다.SOL AI반도체TOP2플러스는 세법상 어떤 ETF로 분류되나?국내 거래소에 상장된 ETF는 과세 방식에 따라 크게 세 갈래로 나뉩니다. 이 상품은 국내 유가증권시장과..",
+  "og_title": "SOL AI반도체TOP2플러스 세금, 연금·ISA·일반계좌 중 어디에 담아야 하나",
   "post_id": "210",
   "published_time": "2026-05-23T03:24:40+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "SOL AI반도체TOP2플러스 ETF란? 삼성전자·SK하이닉스 비중과 일반 반도체 ETF 차이",
+  "title": "SOL AI반도체TOP2플러스 세금, 연금·ISA·일반계좌 중 어디에 담아야 하나",
   "url": "https://mystock-note.tistory.com/210"
 }

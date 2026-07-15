@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-15",
+  "body_html_length": 2499,
+  "canonical_url": "https://mystock-note.tistory.com/388",
+  "content_hash": "5eed2cac1c703ec0fdd53389a2e671236abf6835f57f8e91ff22c9873b91ad75",
+  "json_ld_count": 3,
+  "meta_description": "SPYI는 S&P500 주식을 담고 SPX 지수옵션을 활용해 월 인컴을 추구하는 NEOS의 액티브 ETF다. JEPI·JEPQ가 ELN(주가연계증권)으로 커버드콜 재원을 만드는 것과 달리, SPYI는 SPX 콜을 팔고 그 일부로 더 높은 행사가의 콜을 되사 상승의 일부에 참여할 여지를 남긴다. 다만 미국 자료가 강조하는 'Section 1256 절세'는 미국 투자자 기준이며, 한국 투자자에겐 그대로 적용되지 않는다. 이 글은 SPYI의 인컴 구조, JEPI·JEPQ와의 차이, 한국 세금 처리를 직접 대조한다.SPYI는 어떤 ETF인가요?SPYI는 NEOS가 운용하는 액티브 ETF로, S&P500 구성종목을 복제 보유하면서 SPX(S&P500 지수) 콜옵션 전략으로 월 인컴을 만든다. 순수 지수 추종이 아..",
+  "modified_time": "2026-07-16T02:07:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SPYI는 S&P500 주식을 담고 SPX 지수옵션을 활용해 월 인컴을 추구하는 NEOS의 액티브 ETF다. JEPI·JEPQ가 ELN(주가연계증권)으로 커버드콜 재원을 만드는 것과 달리, SPYI는 SPX 콜을 팔고 그 일부로 더 높은 행사가의 콜을 되사 상승의 일부에 참여할 여지를 남긴다. 다만 미국 자료가 강조하는 'Section 1256 절세'는 미국 투자자 기준이며, 한국 투자자에겐 그대로 적용되지 않는다. 이 글은 SPYI의 인컴 구조, JEPI·JEPQ와의 차이, 한국 세금 처리를 직접 대조한다.SPYI는 어떤 ETF인가요?SPYI는 NEOS가 운용하는 액티브 ETF로, S&P500 구성종목을 복제 보유하면서 SPX(S&P500 지수) 콜옵션 전략으로 월 인컴을 만든다. 순수 지수 추종이 아..",
+  "og_title": "SPYI ETF란? JEPI·JEPQ와 차이, S&P500 지수옵션 인컴·세제 구조 비교",
+  "post_id": "388",
+  "published_time": "2026-07-16T02:06:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPYI ETF란? JEPI·JEPQ와 차이, S&P500 지수옵션 인컴·세제 구조 비교",
+  "url": "https://mystock-note.tistory.com/388"
+}

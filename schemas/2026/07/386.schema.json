@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-16T00:06:01+09:00",
+    "datePublished": "2026-07-16T00:05:25+09:00",
+    "description": "SOXY는 반도체 기업 15~30곳을 직접 담고 그 종목들에 콜옵션을 팔아 연 12% 분배를 목표로 하는 YieldMax의 액티브 ETF다. NVDY·SMCY 같은 단일종목 YieldMax와 달리 특정 한 종목이 아니라 반도체 바스켓에 분산한다는 점이 핵심 차이다. 다만 목표 분배를 채우기 위해 원금환급(ROC)이 쓰일 수 있어 순자산(NAV)이 줄 수 있다는 구조적 위험을 함께 확인해야 한다. 이 글은 SOXY의 분배 재원, 단일종목형과의 차이, 손익 비대칭, 세금 층위를 직접 대조한다.SOXY는 어떤 ETF인가요?SOXY는 YieldMax의 Target 12™ 시리즈 중 반도체판으로, 연 12% 목표 분배와 자본 성장을 동시에 노리는 액티브 ETF다. 반도체 기업 15~30종목을 직접 보유하고 그 종..",
+    "headline": "SOXY ETF란? YieldMax 단일종목형과 차이, 목표 12% 분배·ROC 구조 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/386",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/386"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-16T00:06:01+09:00",
+    "datePublished": "2026-07-16T00:05:25+09:00",
+    "description": "SOXY는 반도체 기업 15~30곳을 직접 담고 그 종목들에 콜옵션을 팔아 연 12% 분배를 목표로 하는 YieldMax의 액티브 ETF다. NVDY·SMCY 같은 단일종목 YieldMax와 달리 특정 한 종목이 아니라 반도체 바스켓에 분산한다는 점이 핵심 차이다. 다만 목표 분배를 채우기 위해 원금환급(ROC)이 쓰일 수 있어 순자산(NAV)이 줄 수 있다는 구조적 위험을 함께 확인해야 한다. 이 글은 SOXY의 분배 재원, 단일종목형과의 차이, 손익 비대칭, 세금 층위를 직접 대조한다.SOXY는 어떤 ETF인가요?SOXY는 YieldMax의 Target 12™ 시리즈 중 반도체판으로, 연 12% 목표 분배와 자본 성장을 동시에 노리는 액티브 ETF다. 반도체 기업 15~30종목을 직접 보유하고 그 종..",
+    "headline": "SOXY ETF란? YieldMax 단일종목형과 차이, 목표 12% 분배·ROC 구조 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/386",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/386"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-16",
+    "datePublished": "2026-07-16",
+    "description": "SOXY(YieldMax 타깃12 반도체 옵션 인컴 ETF)의 구조를 NVDY·SMCY 같은 단일종목형과 비교합니다. 반도체 15~30종목 직접보유+콜옵션 매도, 목표 연 12% 분배와 원금환급(ROC)·NAV 잠식 위험을 확인하세요.",
+    "headline": "SOXY ETF란? YieldMax 단일종목형과 차이, 목표 12% 분배·ROC 구조 비교",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/386",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/386"
+  }
+]

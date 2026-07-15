@@ -1,14 +1,58 @@
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "dateModified": "2026-06-09T09:00:00+09:00",
-  "datePublished": "2026-05-23T09:00:00+09:00",
-  "description": "SOL AI반도체TOP2플러스 ETF는 삼성전자·SK하이닉스 영향이 큰 집중형 반도체 ETF입니다. 운용사 정정보도까지 대조해 TOP2 비중, 구성종목, 총보수, 일반 반도체 ETF와의 차이, 연금계좌 편입 가능성을 선택 기준으로 정리했습니다.",
-  "headline": "SOL AI반도체TOP2플러스 ETF란? 삼성전자·SK하이닉스 비중과 일반 반도체 ETF 차이",
-  "inLanguage": "ko-KR",
-  "mainEntityOfPage": {
-    "@id": "https://mystock-note.tistory.com/210",
-    "@type": "WebPage"
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-15T23:54:04+09:00",
+    "datePublished": "2026-05-23T03:24:40+09:00",
+    "description": "SOL AI반도체TOP2플러스(0167A0)를 어느 계좌에 담을지 정하는 기준은 하나입니다. 이 상품이 세법상 국내 주식형 ETF로 분류된다는 점입니다. 국내 주식형 ETF의 매매차익은 일반계좌에서 과세되지 않습니다. 그런데 같은 상품을 연금저축이나 IRP에 담으면, 원래 내지 않았을 세금이 인출 시점에 생깁니다. 절세계좌가 항상 유리하다는 통념이 이 상품에서는 뒤집힙니다. 이 글은 구성종목 비중이 아니라 계좌 선택을 다룹니다. 일반계좌·ISA·연금저축·IRP 네 경로의 과세 구조를 비교하고, 어떤 경우에 판단이 뒤집히는지까지 정리했습니다.SOL AI반도체TOP2플러스는 세법상 어떤 ETF로 분류되나?국내 거래소에 상장된 ETF는 과세 방식에 따라 크게 세 갈래로 나뉩니다. 이 상품은 국내 유가증권시장과..",
+    "headline": "SOL AI반도체TOP2플러스 세금, 연금·ISA·일반계좌 중 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/210",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/210"
   },
-  "url": "https://mystock-note.tistory.com/210"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-07-15",
+    "datePublished": "2026-05-23",
+    "description": "SOL AI반도체TOP2플러스는 국내 주식형 ETF로 분류돼 일반계좌 매매차익이 비과세됩니다. 연금저축·IRP에 담으면 이 비과세가 과세로 전환되는 구조를 계좌별로 비교하고, 어떤 계좌에 담을지 판단 기준을 정리했습니다.",
+    "headline": "SOL AI반도체TOP2플러스 세금, 연금·ISA·일반계좌 중 어디에 담아야 하나",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/210",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/210"
+  }
+]
