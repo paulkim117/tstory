@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-17T02:48:00+09:00",
+    "datePublished": "2026-07-17T02:47:30+09:00",
+    "description": "국내 상장 일본 반도체 ETF는 이름은 비슷해도 추종지수가 달라 담기는 기업과 성격이 갈린다. PLUS 일본반도체소부장은 소재·부품·장비(소부장) 특화(Solactive 지수), TIGER 일본반도체FACTSET은 제조까지 아우르는 광의(FactSet 지수·시총가중), ACE 일본반도체는 대표 25종목 동일가중(Bloomberg 지수)이다. 이 글은 세 상품의 산출기관·범위·가중·종목수와 환·세금 차이를 직접 대조한다.국내 상장 일본 반도체 ETF는 왜 상품마다 다른가요?가장 큰 이유는 추종지수가 다르기 때문이다. 세 상품 모두 '일본 반도체'를 표방하지만, 어떤 지수를 따르느냐에 따라 산출기관, 담는 범위(소부장이냐 제조 포함이냐), 가중 방식, 종목 수가 달라진다. 상품명이 아니라 기초지수부터 확인해..",
+    "headline": "일본 반도체 ETF 비교: PLUS 소부장·TIGER FACTSET·ACE 지수와 선별 방식 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/391",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/391"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-17T02:48:00+09:00",
+    "datePublished": "2026-07-17T02:47:30+09:00",
+    "description": "국내 상장 일본 반도체 ETF는 이름은 비슷해도 추종지수가 달라 담기는 기업과 성격이 갈린다. PLUS 일본반도체소부장은 소재·부품·장비(소부장) 특화(Solactive 지수), TIGER 일본반도체FACTSET은 제조까지 아우르는 광의(FactSet 지수·시총가중), ACE 일본반도체는 대표 25종목 동일가중(Bloomberg 지수)이다. 이 글은 세 상품의 산출기관·범위·가중·종목수와 환·세금 차이를 직접 대조한다.국내 상장 일본 반도체 ETF는 왜 상품마다 다른가요?가장 큰 이유는 추종지수가 다르기 때문이다. 세 상품 모두 '일본 반도체'를 표방하지만, 어떤 지수를 따르느냐에 따라 산출기관, 담는 범위(소부장이냐 제조 포함이냐), 가중 방식, 종목 수가 달라진다. 상품명이 아니라 기초지수부터 확인해..",
+    "headline": "일본 반도체 ETF 비교: PLUS 소부장·TIGER FACTSET·ACE 지수와 선별 방식 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/391",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/391"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-17",
+    "datePublished": "2026-07-17",
+    "description": "국내 상장 일본 반도체 ETF(PLUS 일본반도체소부장·TIGER 일본반도체FACTSET·ACE 일본반도체)를 추종지수·산출기관·범위·가중 방식으로 비교합니다. 소부장 특화와 광의 반도체, 시총가중과 동일가중의 차이, 환·세금까지 확인하세요.",
+    "headline": "일본 반도체 ETF 비교: PLUS 소부장·TIGER FACTSET·ACE 지수와 선별 방식 차이",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/391",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/391"
+  }
+]

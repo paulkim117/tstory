@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-17T00:47:01+09:00",
+    "datePublished": "2026-07-17T00:46:33+09:00",
+    "description": "AVUV는 미국 소형주 중 저평가(밸류)이면서 수익성이 높은 기업에 비중을 더 싣는 Avantis의 액티브 ETF다. 특정 지수를 그대로 복제하지 않고, 장부가·현금흐름 등 재무지표로 기대수익이 높은 소형가치주를 선별한다. 이 글은 AVUV의 팩터 선별 방식, '밸류 트랩' 회피 장치, 다른 팩터 ETF와의 차이, 해외상장 세금과 국내 대안 유무를 정리한다.AVUV는 어떤 ETF인가요?AVUV는 Avantis(운용사 American Century)가 운용하는 미국 소형가치 액티브 ETF다. 지수를 복제하는 패시브가 아니라, 규칙 기반으로 소형·저평가·고수익성 종목을 골라 비중을 조절한다. 정상적인 시장 상황에서 자산의 80% 이상을 미국 소형주에 투자한다.표 1. AVUV 기본 구조 (출처: Avanti..",
+    "headline": "AVUV ETF란? 미국 소형가치 팩터 방식, 밸류+수익성 선별과 세금 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/389",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/389"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-17T00:47:01+09:00",
+    "datePublished": "2026-07-17T00:46:33+09:00",
+    "description": "AVUV는 미국 소형주 중 저평가(밸류)이면서 수익성이 높은 기업에 비중을 더 싣는 Avantis의 액티브 ETF다. 특정 지수를 그대로 복제하지 않고, 장부가·현금흐름 등 재무지표로 기대수익이 높은 소형가치주를 선별한다. 이 글은 AVUV의 팩터 선별 방식, '밸류 트랩' 회피 장치, 다른 팩터 ETF와의 차이, 해외상장 세금과 국내 대안 유무를 정리한다.AVUV는 어떤 ETF인가요?AVUV는 Avantis(운용사 American Century)가 운용하는 미국 소형가치 액티브 ETF다. 지수를 복제하는 패시브가 아니라, 규칙 기반으로 소형·저평가·고수익성 종목을 골라 비중을 조절한다. 정상적인 시장 상황에서 자산의 80% 이상을 미국 소형주에 투자한다.표 1. AVUV 기본 구조 (출처: Avanti..",
+    "headline": "AVUV ETF란? 미국 소형가치 팩터 방식, 밸류+수익성 선별과 세금 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/389",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/389"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-17",
+    "datePublished": "2026-07-17",
+    "description": "AVUV(Avantis 미국 소형가치 ETF)의 구조를 정리합니다. 지수 복제가 아닌 액티브 방식으로 소형·저평가·고수익성 종목을 선별하는 팩터 로직, 밸류 트랩 회피, 해외상장 세금과 국내 대안 유무를 확인하세요.",
+    "headline": "AVUV ETF란? 미국 소형가치 팩터 방식, 밸류+수익성 선별과 세금 구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/389",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/389"
+  }
+]
