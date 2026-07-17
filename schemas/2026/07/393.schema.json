@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-18T00:49:00+09:00",
+    "datePublished": "2026-07-18T00:48:18+09:00",
+    "description": "AVDV는 미국을 제외한 선진국의 소형주 중 저평가(밸류)이면서 수익성이 높은 기업에 비중을 싣는 Avantis의 액티브 ETF다. 앞서 다룬 미국판 AVUV와 방법론(소형+밸류+수익성)은 같지만, 투자 지역이 선진국 ex-US로 바뀌면서 다통화 노출이라는 변수가 붙는다. 이 글은 AVUV와의 차이(지역·통화), 팩터 선별 방식, 해외상장 세금과 국내 대안을 정리한다.AVDV는 어떤 ETF인가요?AVDV는 Avantis(운용사 American Century)가 운용하는 국제 소형가치 액티브 ETF다. 미국을 제외한 선진국(유럽·일본·호주 등) 소형주 중 저평가·고수익성 기업에 비중을 실으며, 특정 지수를 복제하지 않는다. 정상 상황에서 자산의 80% 이상을 소형주에 투자한다. 상장일은 2019년 9월 2..",
+    "headline": "AVDV ETF란? AVUV와 차이, 국제(선진국) 소형가치 팩터·환·세금 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/393",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/393"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-18T00:49:00+09:00",
+    "datePublished": "2026-07-18T00:48:18+09:00",
+    "description": "AVDV는 미국을 제외한 선진국의 소형주 중 저평가(밸류)이면서 수익성이 높은 기업에 비중을 싣는 Avantis의 액티브 ETF다. 앞서 다룬 미국판 AVUV와 방법론(소형+밸류+수익성)은 같지만, 투자 지역이 선진국 ex-US로 바뀌면서 다통화 노출이라는 변수가 붙는다. 이 글은 AVUV와의 차이(지역·통화), 팩터 선별 방식, 해외상장 세금과 국내 대안을 정리한다.AVDV는 어떤 ETF인가요?AVDV는 Avantis(운용사 American Century)가 운용하는 국제 소형가치 액티브 ETF다. 미국을 제외한 선진국(유럽·일본·호주 등) 소형주 중 저평가·고수익성 기업에 비중을 실으며, 특정 지수를 복제하지 않는다. 정상 상황에서 자산의 80% 이상을 소형주에 투자한다. 상장일은 2019년 9월 2..",
+    "headline": "AVDV ETF란? AVUV와 차이, 국제(선진국) 소형가치 팩터·환·세금 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/393",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/393"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-18",
+    "datePublished": "2026-07-18",
+    "description": "AVDV(Avantis 국제 소형가치 ETF)를 미국판 AVUV와 비교합니다. 미국을 제외한 선진국 소형·저평가·고수익성 기업을 액티브로 선별하는 팩터 구조, 다통화 무헤지 노출, 해외상장 세금과 국내 대안 유무를 확인하세요.",
+    "headline": "AVDV ETF란? AVUV와 차이, 국제(선진국) 소형가치 팩터·환·세금 구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/393",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/393"
+  }
+]
