@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-18",
+  "body_html_length": 12351,
+  "canonical_url": "https://mystock-note.tistory.com/397",
+  "content_hash": "6e318c68db0a36cb74aa8ba0b2b8e61cf74978f9502a05c8496f415249c2a70d",
+  "json_ld_count": 2,
+  "meta_description": "AGG는 미국의 투자등급 채권 시장 전체를 한 종목으로 담는 채권 ETF다. 미국 국채부터 정부관련채, 투자등급 회사채, 모기지·자산유동화채권(MBS·CMBS·ABS)까지 광범위한 미국 달러 표시 우량 채권을 시가총액 가중으로 편입한다. 하이일드(투자등급 미만) 채권 하나에 집중하는 상품도, 30년 장기국채만 담는 상품도 아니라는 점이 핵심 구분선이다. 이 글은 AGG의 지수 구조, 유사 상품(BND)과의 관계, 하이일드·장기국채와의 차이, 그리고 국내 상장 '미국 종합채권' 상품이 AGG와 정말 같은지까지 확인 기준으로 정리한다.AGG는 어떤 채권에 투자하는 ETF인가요?AGG는 미국 투자등급 채권 시장에 폭넓게 분산투자하는 ETF다. 정식 명칭은 iShares Core U.S. Aggregate Bo..",
+  "modified_time": "2026-07-19T00:48:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AGG는 미국의 투자등급 채권 시장 전체를 한 종목으로 담는 채권 ETF다. 미국 국채부터 정부관련채, 투자등급 회사채, 모기지·자산유동화채권(MBS·CMBS·ABS)까지 광범위한 미국 달러 표시 우량 채권을 시가총액 가중으로 편입한다. 하이일드(투자등급 미만) 채권 하나에 집중하는 상품도, 30년 장기국채만 담는 상품도 아니라는 점이 핵심 구분선이다. 이 글은 AGG의 지수 구조, 유사 상품(BND)과의 관계, 하이일드·장기국채와의 차이, 그리고 국내 상장 '미국 종합채권' 상품이 AGG와 정말 같은지까지 확인 기준으로 정리한다.AGG는 어떤 채권에 투자하는 ETF인가요?AGG는 미국 투자등급 채권 시장에 폭넓게 분산투자하는 ETF다. 정식 명칭은 iShares Core U.S. Aggregate Bo..",
+  "og_title": "AGG ETF란? BND와 차이, 미국 종합채권 지수 구조와 국내 대안 비교",
+  "post_id": "397",
+  "published_time": "2026-07-19T00:47:53+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AGG ETF란? BND와 차이, 미국 종합채권 지수 구조와 국내 대안 비교",
+  "url": "https://mystock-note.tistory.com/397"
+}

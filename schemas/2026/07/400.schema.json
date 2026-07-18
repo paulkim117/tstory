@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-19T03:01:02+09:00",
+    "datePublished": "2026-07-19T03:00:45+09:00",
+    "description": "같은 미국 지수를 담는 ETF라도 어디서 사느냐에 따라 세금·손익통산·계좌 활용이 완전히 달라진다. 미국에서 직접 사면 매매차익에 양도소득세(22%, 연 250만원 공제)가, 국내 상장으로 담으면 매매차익·분배금 모두 배당소득세(15.4%)가 붙는다. 세율만 보면 15.4%가 낮아 보이지만, 큰 차익·고소득 구간에서는 오히려 미국 직접이 유리해질 수 있다. 정답은 금액·소득·계좌·원하는 상품에 따라 갈린다. 이 글은 두 경로를 세금·환전·계좌·상품 다양성 기준으로 비교해, 어떤 상황에서 어느 쪽을 골라야 하는지 정리한다.같은 미국 지수 ETF인데 왜 사는 경로에 따라 세금이 달라지나요?세법이 두 경로를 다른 소득으로 분류하기 때문이다. 미국 상장 ETF를 직접 사면 매매차익이 양도소득으로, 국내 상장 해..",
+    "headline": "미국 ETF 직접투자 vs 국내 상장, 세금·환전·계좌 어디가 유리한가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/400",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/400"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/400/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "미국 상장 직접투자와 국내 상장 해외형 ETF의 과세·계좌·환전 비교",
+      "name": "미국 ETF 투자 경로 세금 비교"
+    },
+    "dateModified": "2026-07-19",
+    "datePublished": "2026-07-19",
+    "description": "같은 미국 지수 ETF라도 미국 직접은 양도세 22%(250만 공제), 국내 상장은 배당세 15.4%로 갈립니다. 금융소득종합과세·손익통산·연금 편입·환전까지 경로별로 비교해 어느 쪽이 유리한지 정리합니다.",
+    "headline": "미국 ETF 직접투자 vs 국내 상장, 세금·환전·계좌 어디가 유리한가",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/400"
+  }
+]

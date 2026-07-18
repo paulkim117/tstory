@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-19T02:01:01+09:00",
+    "datePublished": "2026-07-19T02:00:51+09:00",
+    "description": "배당성장 ETF는 지금 배당을 많이 주는 기업이 아니라, 배당을 늘려왔거나 늘릴 것으로 기대되는 기업을 담는 상품이다. 그래서 '현재 배당수익률'을 앞세우는 고배당 ETF와는 설계 목표가 다르다. 국내 배당성장 ETF는 종류가 많지 않고, 대표 2종(KODEX 코리아배당성장·TIGER 배당성장)은 사실상 같은 지수를 추종한다. 이 글은 배당성장·고배당·배당귀족의 지수 선정 방식 차이, 같은 지수를 따르는 두 상품이 무엇으로 갈리는지, 그리고 일반계좌와 연금계좌에서 세금이 어떻게 달라지는지까지 비교해 정리한다.배당성장 ETF는 고배당 ETF와 무엇이 다른가요?가장 먼저 잡아야 할 구분이다. 고배당은 '지금 배당수익률이 높은' 종목을, 배당성장은 '배당을 꾸준히 늘려온·늘릴' 종목을 담는다. 당장의 현금흐름..",
+    "headline": "배당성장 ETF 비교: KODEX·TIGER·배당귀족, 지수 방식과 고배당과의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/399",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/399"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/399/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "코스피 배당성장 50 지수를 추종하는 국내 배당성장 ETF 비교",
+      "name": "코스피 배당성장 50 지수 기반 배당성장 ETF"
+    },
+    "dateModified": "2026-07-19",
+    "datePublished": "2026-07-19",
+    "description": "국내 배당성장 ETF(KODEX 코리아배당성장·TIGER 배당성장)와 배당귀족·고배당의 지수 선정 방식 차이, 같은 지수를 추종할 때 무엇으로 갈리는지, 계좌·세금 기준까지 비교해 어디에 담을지 정리합니다.",
+    "headline": "배당성장 ETF 비교: KODEX·TIGER·배당귀족, 지수 방식과 고배당과의 차이",
+    "inLanguage": "ko-KR",
+    "url": "https://mystock-note.tistory.com/399"
+  }
+]

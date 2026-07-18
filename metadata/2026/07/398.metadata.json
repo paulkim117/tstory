@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-18",
+  "body_html_length": 9037,
+  "canonical_url": "https://mystock-note.tistory.com/398",
+  "content_hash": "fc72e37103374f57c52e44e83576e9c3aad4e15449fff78d570848481ced1d83",
+  "json_ld_count": 2,
+  "meta_description": "VXUS는 미국을 제외한 전 세계 주식을 한 종목으로 담는 ETF다. 선진국과 신흥국을 모두 포함하고, 대형주뿐 아니라 중형·소형주까지 시가총액 가중으로 편입한다. 미국 전체시장을 담는 VTI와 짝을 이뤄 '미국 + 미국 외 전세계'를 조립하는 용도로 자주 쓰인다. 이 글은 VXUS의 지수 구조, VTI·VEU·VT와의 관계, 그리고 국내 상장 상품으로 VXUS를 그대로 재현하기 어려운 이유(국내 '선진국' 상품 대부분이 미국을 포함)까지 확인 기준으로 정리한다.VXUS는 어떤 주식에 투자하는 ETF인가요?VXUS는 미국을 뺀 전 세계 주식시장에 폭넓게 분산투자하는 ETF다. 정식 명칭은 Vanguard Total International Stock ETF, 운용사는 뱅가드다. 기초지수는 FTSE Glo..",
+  "modified_time": "2026-07-19T01:49:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VXUS는 미국을 제외한 전 세계 주식을 한 종목으로 담는 ETF다. 선진국과 신흥국을 모두 포함하고, 대형주뿐 아니라 중형·소형주까지 시가총액 가중으로 편입한다. 미국 전체시장을 담는 VTI와 짝을 이뤄 '미국 + 미국 외 전세계'를 조립하는 용도로 자주 쓰인다. 이 글은 VXUS의 지수 구조, VTI·VEU·VT와의 관계, 그리고 국내 상장 상품으로 VXUS를 그대로 재현하기 어려운 이유(국내 '선진국' 상품 대부분이 미국을 포함)까지 확인 기준으로 정리한다.VXUS는 어떤 주식에 투자하는 ETF인가요?VXUS는 미국을 뺀 전 세계 주식시장에 폭넓게 분산투자하는 ETF다. 정식 명칭은 Vanguard Total International Stock ETF, 운용사는 뱅가드다. 기초지수는 FTSE Glo..",
+  "og_title": "VXUS ETF란? VTI 조합·VEU 차이, 미국 제외 전세계 주식과 국내 대안 비교",
+  "post_id": "398",
+  "published_time": "2026-07-19T01:48:25+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VXUS ETF란? VTI 조합·VEU 차이, 미국 제외 전세계 주식과 국내 대안 비교",
+  "url": "https://mystock-note.tistory.com/398"
+}
