@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-19",
+  "body_html_length": 6956,
+  "canonical_url": "https://mystock-note.tistory.com/403",
+  "content_hash": "17475bc535dff1b7560933123995774074b9c08a682b2c23e37b5849086195f1",
+  "json_ld_count": 1,
+  "meta_description": "코스피200 ETF는 운용사가 KODEX·TIGER·RISE·ACE·SOL 등으로 달라도 담는 기초지수는 모두 같은 코스피200(KOSPI 200)이다. 그래서 \"어느 운용사 상품을 사느냐\"보다 \"총보수, TR형인지 분배형인지, 유동성, 어느 계좌에 담는지\"가 실제 성과를 가른다. 이 글에서는 같은 지수를 추종하는 코스피200 ETF들이 무엇으로 갈리는지, 특히 분배금을 재투자하는 TR형과 분배금을 지급하는 일반형의 세금 차이, 계좌별 과세까지 비교해 어떤 투자자에게 어느 상품이 맞는지 선택 순서를 정리한다.코스피200 ETF는 운용사가 달라도 같은 지수를 담나요?그렇다. 코스피200 ETF의 기초지수는 상품마다 다르지 않고 모두 한국거래소(KRX)가 산출하는 코스피200 지수 하나다. KODEX 200..",
+  "modified_time": "2026-07-20T02:16:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/403\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/403\",\"headline\":\"코스피200 ETF 비교: KODEX·TIGER·RISE·ACE 차이와 TR형·총보수·유동성 선택 기준\",\"description\":\"코스피200 ETF는 운용사가 KODEX·TIGER·RISE·ACE·SOL 등으로 달라도 담는 기초지수는 모두 같은 코스피200(KOSPI 200)이다. 그래서 \"어느 운용사 상품을 사느냐\"보다 \"총보수, TR형인지 분배형인지, 유동성, 어느 계좌에 담는지\"가 실제 성과를 가른다. 이 글에서는 같은 지수를 추종하는 코스피200 ETF들이 무엇으로 갈리는지, 특히 분배금을 재투자하는 TR형과 분배금을 지급하는 일반형의 세금 차이, 계좌별 과세까지 비교해 어떤 투자자에게 어느 상품이 맞는지 선택 순서를 정리한다.코스피200 ETF는 운용사가 달라도 같은 지수를 담나요?그렇다. 코스피200 ETF의 기초지수는 상품마다 다르지 않고 모두 한국거래소(KRX)가 산출하는 코스피200 지수 하나다. KODEX 200..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-20T02:15:58+09:00\",\"dateModified\":\"2026-07-20T02:16:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "코스피200 ETF는 운용사가 KODEX·TIGER·RISE·ACE·SOL 등으로 달라도 담는 기초지수는 모두 같은 코스피200(KOSPI 200)이다. 그래서 \"어느 운용사 상품을 사느냐\"보다 \"총보수, TR형인지 분배형인지, 유동성, 어느 계좌에 담는지\"가 실제 성과를 가른다. 이 글에서는 같은 지수를 추종하는 코스피200 ETF들이 무엇으로 갈리는지, 특히 분배금을 재투자하는 TR형과 분배금을 지급하는 일반형의 세금 차이, 계좌별 과세까지 비교해 어떤 투자자에게 어느 상품이 맞는지 선택 순서를 정리한다.코스피200 ETF는 운용사가 달라도 같은 지수를 담나요?그렇다. 코스피200 ETF의 기초지수는 상품마다 다르지 않고 모두 한국거래소(KRX)가 산출하는 코스피200 지수 하나다. KODEX 200..",
+  "og_title": "코스피200 ETF 비교: KODEX·TIGER·RISE·ACE 차이와 TR형·총보수·유동성 선택 기준",
+  "post_id": "403",
+  "published_time": "2026-07-20T02:15:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "코스피200 ETF 비교: KODEX·TIGER·RISE·ACE 차이와 TR형·총보수·유동성 선택 기준",
+  "url": "https://mystock-note.tistory.com/403"
+}

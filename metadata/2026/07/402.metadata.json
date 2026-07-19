@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-19",
+  "body_html_length": 8917,
+  "canonical_url": "https://mystock-note.tistory.com/402",
+  "content_hash": "d37dfda0162de6fcb229a74c9c0c39033f3a4d86c98f2edb54654b41f9ab084d",
+  "json_ld_count": 2,
+  "meta_description": "TIP은 미국 물가연동국채(TIPS)를 담아 인플레이션에 대응하려는 미국 상장 채권 ETF다. 정식 명칭은 iShares TIPS Bond ETF이며, 일반 국채와 달리 물가가 오르면 채권의 원금이 소비자물가지수(CPI)에 맞춰 커지는 구조를 가진다. 이 글에서는 TIPS의 원금 연동 원리와 월분배 구조, 명목 채권만 담는 종합채권 AGG가 빠뜨린 인플레 보호 조각으로서의 역할, 그리고 같은 지수를 추종하는 국내 상장 대안과의 운용·과세 차이를 비교해 어떤 상황에서 어느 쪽이 맞는지 판단 기준을 정리한다.TIP은 어떤 ETF이고 무엇을 노리는 상품인가요?TIP은 미국 재무부가 발행하는 물가연동국채(Treasury Inflation-Protected Securities, TIPS)를 폭넓게 담는 패시브 채..",
+  "modified_time": "2026-07-20T01:01:10+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "TIP은 미국 물가연동국채(TIPS)를 담아 인플레이션에 대응하려는 미국 상장 채권 ETF다. 정식 명칭은 iShares TIPS Bond ETF이며, 일반 국채와 달리 물가가 오르면 채권의 원금이 소비자물가지수(CPI)에 맞춰 커지는 구조를 가진다. 이 글에서는 TIPS의 원금 연동 원리와 월분배 구조, 명목 채권만 담는 종합채권 AGG가 빠뜨린 인플레 보호 조각으로서의 역할, 그리고 같은 지수를 추종하는 국내 상장 대안과의 운용·과세 차이를 비교해 어떤 상황에서 어느 쪽이 맞는지 판단 기준을 정리한다.TIP은 어떤 ETF이고 무엇을 노리는 상품인가요?TIP은 미국 재무부가 발행하는 물가연동국채(Treasury Inflation-Protected Securities, TIPS)를 폭넓게 담는 패시브 채..",
+  "og_title": "TIP ETF란? 미국 물가연동국채(TIPS) 구조와 종합채권(AGG)·국내 대안 차이 비교",
+  "post_id": "402",
+  "published_time": "2026-07-20T01:00:16+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TIP ETF란? 미국 물가연동국채(TIPS) 구조와 종합채권(AGG)·국내 대안 차이 비교",
+  "url": "https://mystock-note.tistory.com/402"
+}

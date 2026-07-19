@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-20T00:06:00+09:00",
+    "datePublished": "2026-07-20T00:05:15+09:00",
+    "description": "QYLD는 미국 나스닥100 지수를 그대로 보유하면서 그 지수에 대한 콜옵션을 매도(커버드콜)해 옵션 프리미엄을 월분배로 지급하는 미국 상장 ETF다. 정식 명칭은 Global X NASDAQ 100 Covered Call ETF이며, 상승장에서 지수 수익을 일부 포기하는 대신 매달 현금흐름을 만들어내는 인컴형 상품이다. 이 글에서는 QYLD의 옵션 매도 구조와 분배 재원의 지속가능성, 그리고 같은 지수를 추종하는 국내 상장 대안(TIGER·KODEX)과의 복제 방식·과세 차이를 비교해 어떤 투자자에게 어느 쪽이 맞는지 판단 기준을 정리한다.QYLD는 어떤 ETF이고 무엇을 노리는 상품인가요?QYLD는 나스닥100 커버드콜(바이라이트) 전략을 지수화한 상품이다. 나스닥100 구성 종목을 보유해 지수 상승..",
+    "headline": "QYLD ETF란? 나스닥100 커버드콜 구조와 국내 상장 대안(TIGER·KODEX) 차이 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/401",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/401"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-20",
+    "datePublished": "2026-07-20",
+    "description": "QYLD(글로벌X 나스닥100 커버드콜) ETF의 바이라이트 구조와 월분배 원리를 정리하고, 같은 지수를 추종하는 국내 상장 대안(TIGER 합성·KODEX 데일리)과 물리·합성 복제 방식, 과세 차이까지 비교해 선택 기준을 제시한다.",
+    "headline": "QYLD ETF란? 나스닥100 커버드콜 구조와 국내 상장 대안(TIGER·KODEX) 차이 비교",
+    "url": "https://mystock-note.tistory.com/401"
+  }
+]
