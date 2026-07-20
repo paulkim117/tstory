@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-21T02:53:00+09:00",
+    "datePublished": "2026-07-21T02:52:06+09:00",
+    "description": "IWM은 미국 소형주 2000종목을 폭넓게 담는 미국 상장 ETF다. 정식 명칭은 iShares Russell 2000 ETF이며, 대형주 중심의 S&P500·나스닥100과 달리 미국 중소형 기업 전반에 분산 투자한다. 이 글에서는 IWM이 추종하는 러셀2000 지수의 구성과 6월 리컨스티튜션(연례 재구성), 특정 종목에 쏠리지 않는 초분산 구조, 대형주 지수와의 차이, 그리고 대부분 환헤지·일부 합성 방식인 국내 상장 러셀2000 대안과의 환·과세 차이를 비교해 어떤 투자자에게 어느 쪽이 맞는지 정리한다.IWM은 어떤 ETF이고 무엇을 노리는 상품인가요?IWM은 미국 소형주에 분산 투자하는 패시브 ETF다. 목표는 특정 대형주에 올라타는 것이 아니라, 미국 중소형 기업 전반의 흐름을 담는 데 있다. 소..",
+    "headline": "IWM ETF란? 미국 소형주(러셀2000) 구조와 대형주·국내 상장 대안 차이 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/407",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/407"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-21",
+    "datePublished": "2026-07-21",
+    "description": "IWM(아이셰어즈 러셀2000) ETF가 담는 미국 소형주 2000종목의 구조와 6월 리컨스티튜션, 초분산 특성을 정리하고, 대형주 지수(S&P500·나스닥100)와의 집중도 차이, 그리고 대부분 환헤지·일부 합성인 국내 상장 러셀2000 대안과의 환·과세 차이를 비교한다.",
+    "headline": "IWM ETF란? 미국 소형주(러셀2000) 구조와 대형주·국내 상장 대안 차이 비교",
+    "url": "https://mystock-note.tistory.com/407"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-21T01:50:00+09:00",
+    "datePublished": "2026-07-21T01:49:46+09:00",
+    "description": "XYLD는 미국 S&P500 지수를 보유하면서 그 지수에 대한 콜옵션을 매도(커버드콜)해 옵션 프리미엄을 월분배로 지급하는 미국 상장 ETF다. 정식 명칭은 Global X S&P 500 Covered Call ETF이며, 앞서 다룬 나스닥100판 QYLD와 같은 발행사·같은 전략을 쓰되 기초자산이 S&P500이라는 점이 다르다. 이 글에서는 XYLD의 옵션 매도 구조와 분배 재원, QYLD와의 차이, 그리고 대부분 데일리·부분매도 방식으로 설계된 국내 상장 S&P500 커버드콜 대안과의 구조·과세 차이를 비교해 어떤 투자자에게 어느 쪽이 맞는지 정리한다.XYLD는 어떤 ETF이고 무엇을 노리는 상품인가요?XYLD는 S&P500 커버드콜(바이라이트) 전략을 지수화한 상품이다. S&P500 구성 종목을 보..",
+    "headline": "XYLD ETF란? S&P500 커버드콜 구조와 QYLD·국내 상장 대안 차이 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/406",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/406"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-21",
+    "datePublished": "2026-07-21",
+    "description": "XYLD(글로벌X S&P500 커버드콜) ETF의 바이라이트 구조와 월분배 원리를 정리하고, 같은 발행사의 나스닥100판 QYLD와의 차이, 그리고 대부분 데일리·부분매도 방식인 국내 상장 S&P500 커버드콜 대안과의 매도 방식·과세 차이를 비교해 선택 기준을 제시한다.",
+    "headline": "XYLD ETF란? S&P500 커버드콜 구조와 QYLD·국내 상장 대안 차이 비교",
+    "url": "https://mystock-note.tistory.com/406"
+  }
+]

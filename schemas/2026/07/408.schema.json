@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-21T03:56:00+09:00",
+    "datePublished": "2026-07-21T03:55:21+09:00",
+    "description": "KODEX 200커버드콜액티브는 2026년 7월 14일 상장한 코스피200 기반 커버드콜 ETF다. 삼성자산운용이 내놓은 이 상품은 코스피200 지수를 추종하면서 콜옵션을 매도해 월말배당을 추구하되, 옵션 매도 비중과 종목 비중을 시장 국면에 따라 조절하는 '액티브' 전략을 쓴다는 점이 특징이다. 이 글에서는 이 신상품이 기존 코스피200 커버드콜(타겟위클리)과 무엇이 다른지, 국내 코스피200 커버드콜 특유의 옵션 프리미엄 비과세 구조가 무슨 뜻인지, 그리고 해외 커버드콜(QYLD·XYLD)과 세금이 어떻게 갈리는지 비교한다.KODEX 200커버드콜액티브는 어떤 ETF인가요?KODEX 200커버드콜액티브는 코스피200 주식을 보유하면서 코스피200 콜옵션을 매도하는 커버드콜 ETF다. 옵션 매도로 받은..",
+    "headline": "KODEX 200커버드콜액티브 신규상장: 기존 코스피200 커버드콜과 액티브·세금 차이 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/408",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/408"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-21",
+    "datePublished": "2026-07-21",
+    "description": "2026년 7월 상장한 KODEX 200커버드콜액티브 ETF의 액티브 커버드콜 구조와 월말배당을 정리하고, 기존 코스피200 타겟위클리 커버드콜과의 옵션 매도 방식 차이, 국내 코스피200 커버드콜 특유의 옵션 프리미엄 비과세·금융소득종합과세 미합산 구조를 해외 커버드콜과 비교한다.",
+    "headline": "KODEX 200커버드콜액티브 신규상장: 기존 코스피200 커버드콜과 액티브·세금 차이 비교",
+    "url": "https://mystock-note.tistory.com/408"
+  }
+]
