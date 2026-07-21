@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-22T02:29:00+09:00",
+    "datePublished": "2026-07-22T02:28:47+09:00",
+    "description": "'미국 빅테크 ETF'는 이름이 비슷해도 담는 종목과 규칙이 제각각입니다. 어떤 상품은 7종목에 집중하고, 어떤 상품은 10종목을 동일 비중으로 담으며, 지수 산출기관도 Indxx·Solactive·NYSE FANG+·iSelect로 다릅니다. 여기에 환헤지 여부와 세금 그릇까지 겹치면 같은 '빅테크'라도 결과가 갈립니다. 이 글은 국내 상장 미국 빅테크 ETF를 기초지수·종목 범위·가중방식·환헤지·세금 기준으로 교차 비교하고, 누구에게 어느 유형이 맞는지 정리합니다. 총보수·분배율·순자산·괴리율·수익률 같은 시점 변동 수치는 기재하지 않으며, 매수 전 직접 확인할 항목으로 안내합니다.미국 빅테크 ETF, 왜 상품마다 결과가 갈리나?같은 '빅테크'를 표방해도 상품마다 ① 추종하는 지수, ② 담는 종목 수..",
+    "headline": "미국 빅테크 ETF 비교: M7·테크TOP10·빅테크10 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/411",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/411"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-22",
+    "datePublished": "2026-07-22",
+    "description": "국내 상장 미국 빅테크 ETF(TIGER 테크TOP10·ACE 빅테크TOP7 Plus·KODEX 빅테크10 등)를 기초지수·종목 범위·가중방식·환헤지·세금 기준으로 교차 비교했습니다.",
+    "headline": "미국 빅테크 ETF 비교: M7·테크TOP10·빅테크10 무엇이 다른가",
+    "url": "https://mystock-note.tistory.com/411"
+  }
+]

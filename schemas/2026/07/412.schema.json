@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-22T03:30:00+09:00",
+    "datePublished": "2026-07-22T03:29:30+09:00",
+    "description": "IRP는 원하는 ETF 하나로 계좌를 100% 채울 수 없습니다. 위험자산은 최대 70%까지만 담을 수 있고, 나머지 30%는 안전자산으로 채워야 하는 규제가 있기 때문입니다. 문제는 '70% 바구니를 무엇으로 채우고, 30% 바구니를 무엇으로 채우느냐'인데, 이 둘을 섞어서 생각하면 규정을 어기거나 세금에서 손해를 봅니다. 이 글은 위험자산 바구니와 안전자산 바구니를 각각 어떤 ETF로 채울지, 채권혼합·디폴트옵션을 활용해 실질 주식 비중을 어디까지 끌어올릴 수 있는지를 결정 기준으로 정리합니다. 상품별 수익률·총보수·분배율 같은 시점 변동 수치는 기재하지 않으며, 규제 사실과 라벨된 예시 계산만 사용합니다.IRP는 왜 원하는 ETF로 100% 못 채우나?[사실] IRP·DC 퇴직연금은 위험자산 투자 ..",
+    "headline": "IRP 위험자산 70%·안전자산 30% ETF 조합: 무엇으로 채워야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/412",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/412"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-22",
+    "datePublished": "2026-07-22",
+    "description": "IRP 위험자산 70%·안전자산 30% 규제 안에서 위험자산 바구니와 안전자산 바구니를 각각 무슨 ETF로 채울지, 채권혼합·디폴트옵션 활용까지 결정 기준으로 정리했습니다.",
+    "headline": "IRP 위험자산 70%·안전자산 30% ETF 조합: 무엇으로 채워야 하나",
+    "url": "https://mystock-note.tistory.com/412"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-22T00:58:00+09:00",
+    "datePublished": "2026-07-22T00:57:05+09:00",
+    "description": "SCHV는 찰스슈왑이 운용하는 미국 대형 가치주 ETF입니다. 흔히 SCHD(배당)·SCHG(성장)와 뭉뚱그려 이해되지만, 세 상품은 추종 지수와 선정 로직이 서로 다릅니다. 이 글은 SCHV의 기초지수와 방법론, SCHG·SCHD와의 구조적 차이, 국내에 동일지수 대안이 있는지, 직접 투자 시 세금까지 확인 순서대로 정리합니다. 총보수·분배율·수익률·구성 비중 같은 시점 변동 수치는 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.SCHV ETF란 무엇이고 어떤 지수를 추종하나?[사실] SCHV(Schwab U.S. Large-Cap Value ETF)는 찰스슈왑(슈왑자산운용)이 운용하며 2009년 12월 11일 뉴욕증권거래소(NYSE Arca)에 상장한 패시브 ETF입니다. ..",
+    "headline": "SCHV ETF란? 미국 대형 가치주 투자, SCHG·SCHD와 어떻게 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/409",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/409"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-22",
+    "datePublished": "2026-07-22",
+    "description": "SCHV(슈왑 미국 대형 가치주 ETF)의 기초지수·선정 방법론과 SCHG(성장)·SCHD(배당)의 구조적 차이, 국내 동일지수 대안 유무, 직접투자 세금까지 정리했습니다.",
+    "headline": "SCHV ETF란? 미국 대형 가치주 투자, SCHG·SCHD와 어떻게 다른가",
+    "url": "https://mystock-note.tistory.com/409"
+  }
+]

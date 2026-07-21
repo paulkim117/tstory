@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-21",
+  "body_html_length": 7337,
+  "canonical_url": "https://mystock-note.tistory.com/410",
+  "content_hash": "bd05dd5166ff5bf4546f04e84206f47d14a4998540ae8e809cb884a48fa1922b",
+  "json_ld_count": 2,
+  "meta_description": "VO는 뱅가드가 운용하는 미국 중형주 ETF입니다. 서학개미의 미국 투자는 대형(S&P500·나스닥100)과 소형(러셀2000)에 몰려 있어, 그 사이의 '중형' 구간은 자주 비어 있습니다. VO는 바로 그 중형 밴드를 담는 상품입니다. 이 글은 VO의 기초지수(CRSP US Mid Cap)가 '중형'을 어떻게 정의하는지, 대형·소형과 무엇이 다른지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떻게 되는지를 확인 순서대로 정리합니다. 총보수·수익률·AUM·구성 비중 같은 시점 변동 수치는 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.VO ETF란 무엇이고 어떤 지수를 추종하나?[사실] VO(Vanguard Mid-Cap ETF)는 뱅가드가 운용하며 뉴욕증권거래소(..",
+  "modified_time": "2026-07-22T01:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VO는 뱅가드가 운용하는 미국 중형주 ETF입니다. 서학개미의 미국 투자는 대형(S&P500·나스닥100)과 소형(러셀2000)에 몰려 있어, 그 사이의 '중형' 구간은 자주 비어 있습니다. VO는 바로 그 중형 밴드를 담는 상품입니다. 이 글은 VO의 기초지수(CRSP US Mid Cap)가 '중형'을 어떻게 정의하는지, 대형·소형과 무엇이 다른지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떻게 되는지를 확인 순서대로 정리합니다. 총보수·수익률·AUM·구성 비중 같은 시점 변동 수치는 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.VO ETF란 무엇이고 어떤 지수를 추종하나?[사실] VO(Vanguard Mid-Cap ETF)는 뱅가드가 운용하며 뉴욕증권거래소(..",
+  "og_title": "VO ETF란? 미국 중형주 투자, 대형·소형 ETF와 무엇이 다른가",
+  "post_id": "410",
+  "published_time": "2026-07-22T01:58:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VO ETF란? 미국 중형주 투자, 대형·소형 ETF와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/410"
+}
