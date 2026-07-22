@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-22",
+  "body_html_length": 6550,
+  "canonical_url": "https://mystock-note.tistory.com/415",
+  "content_hash": "a040284551742fa9b3f9da29c9b3e3c65d53d4603249dd4bad92b5d8c4491732",
+  "json_ld_count": 2,
+  "meta_description": "VB는 미국 소형주에 투자하는 뱅가드 ETF입니다. 앞서 본 IWM(러셀2000)·IJR(S&P600)과 같은 '소형주'지만, VB가 따르는 CRSP US Small Cap은 규모를 정의하는 방식이 달라 더 넓고 덩치 큰 소형주를 담습니다. 사실상 중형 경계까지 걸치는 셈입니다. 이 글은 CRSP가 소형을 어떻게 정의하는지, IWM·IJR과 무엇이 다른지, 소형 3대 지수를 어떻게 구분하는지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·종목수·median 시총 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.VB ETF란 무엇이고 어떤 지수를 추종하나?[사실] VB(Vanguard Small-Cap ..",
+  "modified_time": "2026-07-23T02:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VB는 미국 소형주에 투자하는 뱅가드 ETF입니다. 앞서 본 IWM(러셀2000)·IJR(S&P600)과 같은 '소형주'지만, VB가 따르는 CRSP US Small Cap은 규모를 정의하는 방식이 달라 더 넓고 덩치 큰 소형주를 담습니다. 사실상 중형 경계까지 걸치는 셈입니다. 이 글은 CRSP가 소형을 어떻게 정의하는지, IWM·IJR과 무엇이 다른지, 소형 3대 지수를 어떻게 구분하는지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·종목수·median 시총 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.VB ETF란 무엇이고 어떤 지수를 추종하나?[사실] VB(Vanguard Small-Cap ..",
+  "og_title": "VB ETF란? 미국 소형주 CRSP 투자, 러셀2000·S&P600과 어떻게 다른가",
+  "post_id": "415",
+  "published_time": "2026-07-23T02:31:40+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VB ETF란? 미국 소형주 CRSP 투자, 러셀2000·S&P600과 어떻게 다른가",
+  "url": "https://mystock-note.tistory.com/415"
+}

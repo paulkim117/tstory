@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-22",
+  "body_html_length": 6879,
+  "canonical_url": "https://mystock-note.tistory.com/413",
+  "content_hash": "2974538bbb4ca4279825d8478e1b4c31ee4de026e666bfa898a1884876547464",
+  "json_ld_count": 2,
+  "meta_description": "STIP은 미국의 단기 물가연동국채(TIPS)에 투자하는 ETF입니다. 물가채는 인플레이션이 오르면 원금이 함께 커지도록 설계된 국채인데, STIP은 그중에서도 만기가 짧은 종목만 담아 금리 변동 위험을 줄입니다. 이 글은 TIPS가 인플레를 어떻게 방어하는지, STIP이 전체 만기 상품인 TIP과 무엇이 다른지, 명목 파킹형(BIL·SGOV)과 어떻게 구분되는지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·분배율·수익률·듀레이션 수치 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.STIP ETF란 무엇이고 어떤 지수를 추종하나?[사실] STIP(iShares 0-5 Year TIPS Bond ETF)는 ..",
+  "modified_time": "2026-07-23T00:31:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "STIP은 미국의 단기 물가연동국채(TIPS)에 투자하는 ETF입니다. 물가채는 인플레이션이 오르면 원금이 함께 커지도록 설계된 국채인데, STIP은 그중에서도 만기가 짧은 종목만 담아 금리 변동 위험을 줄입니다. 이 글은 TIPS가 인플레를 어떻게 방어하는지, STIP이 전체 만기 상품인 TIP과 무엇이 다른지, 명목 파킹형(BIL·SGOV)과 어떻게 구분되는지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·분배율·수익률·듀레이션 수치 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.STIP ETF란 무엇이고 어떤 지수를 추종하나?[사실] STIP(iShares 0-5 Year TIPS Bond ETF)는 ..",
+  "og_title": "STIP ETF란? 미국 단기 물가채(TIPS) 투자, TIP과 어떻게 다른가",
+  "post_id": "413",
+  "published_time": "2026-07-23T00:30:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "STIP ETF란? 미국 단기 물가채(TIPS) 투자, TIP과 어떻게 다른가",
+  "url": "https://mystock-note.tistory.com/413"
+}

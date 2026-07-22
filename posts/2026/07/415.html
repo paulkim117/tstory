@@ -1,0 +1,121 @@
+<!--
+source: https://mystock-note.tistory.com/415
+backup_date: 2026-07-22
+post_id: 415
+-->
+<p>VB는 미국 <strong>소형주</strong>에 투자하는 뱅가드 ETF입니다. 앞서 본 IWM(러셀2000)·IJR(S&amp;P600)과 같은 '소형주'지만, VB가 따르는 CRSP US Small Cap은 규모를 정의하는 방식이 달라 <strong>더 넓고 덩치 큰 소형주</strong>를 담습니다. 사실상 중형 경계까지 걸치는 셈입니다. 이 글은 CRSP가 소형을 어떻게 정의하는지, IWM·IJR과 무엇이 다른지, 소형 3대 지수를 어떻게 구분하는지, 국내에 동일지수 대안이 있는지, 직접 매수 시 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·종목수·median 시총 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.</p>
+
+<h2>VB ETF란 무엇이고 어떤 지수를 추종하나?</h2>
+<p>[사실] VB(Vanguard Small-Cap ETF)는 뱅가드가 운용하는 패시브 ETF로, 기초지수는 <strong>CRSP US Small Cap Index</strong>이며 완전복제 방식입니다. 뱅가드 소형주 인덱스펀드의 ETF 클래스입니다. 같은 뱅가드 소형 라인에 가치(VBR)·성장(VBK)이 따로 있어, VB는 그 둘을 합친 혼합(blend) 버전입니다. 지수는 과거 러셀2000·MSCI를 거쳐 2013년 CRSP로 변경됐습니다.</p>
+<figure>
+<table>
+<caption>표1. VB 기본 구조 (출처: 뱅가드·Morningstar / 확인일 2026-07-22 / 변동 수치 제외)</caption>
+<thead><tr><th>항목</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>정식 명칭</td><td>Vanguard Small-Cap ETF (VB)</td></tr>
+<tr><td>운용사</td><td>뱅가드</td></tr>
+<tr><td>기초지수</td><td>CRSP US Small Cap Index (2013-01 이전 MSCI)</td></tr>
+<tr><td>스타일</td><td>혼합(blend) — 가치(VBR)·성장(VBK) 별도</td></tr>
+<tr><td>운용 방식</td><td>패시브, 완전복제</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: VB의 정체성은 'CRSP 방식으로 고른 넓은 소형주'입니다. 같은 소형이라도 러셀2000·S&amp;P600과 규모 정의가 달라 성격이 갈립니다.</p>
+
+
+
+<h2>CRSP US Small Cap은 '소형'을 어떻게 정의하나?</h2>
+<p>[사실] CRSP US Small Cap Index는 미국 전체 시장을 시가총액 순으로 정렬한 뒤 <strong>누적 시총 기준 하위 85%~98% 구간</strong>을 소형으로 봅니다. 즉 상위 85%(대형·중형)를 빼고, 가장 작은 미세소형 일부도 제외한 구간입니다. CRSP는 규모 경계에서 종목이 자주 오가지 않도록 버퍼(완충 구간)를 두고, 리밸런싱 거래를 여러 날에 나눠 실행해 회전율과 거래비용을 낮춥니다. 러셀2000·CRSP 모두 흑자 요건은 없습니다.</p>
+<p>[판단] 핵심은 CRSP가 '가장 작은 최하단'까지 내려가지 않고, 소형 중에서도 규모대가 높은 쪽을 담는다는 점입니다. 그래서 VB는 러셀2000보다 덩치 큰 소형, 사실상 중형 경계까지 포함하는 경향이 있습니다.</p>
+
+
+
+<h2>VB는 IWM(러셀2000)과 무엇이 다른가?</h2>
+<p>[사실] 러셀2000(IWM)은 러셀3000에서 큰 종목을 뺀 하위 2000종목을 기계적으로 담고, 시총 스펙트럼의 <strong>최하단(마이크로캡 포함)</strong>까지 내려가며, 버퍼가 약해 경계 종목 교체가 잦고 매년 6월 한 번 리컨스티튜션합니다. 반면 CRSP(VB)는 규모대가 더 높고 버퍼·분산 거래로 회전을 줄입니다.</p>
+<figure>
+<table>
+<caption>표2. VB(CRSP) vs IWM(러셀2000) 구조 대조 (출처: Morningstar·각 지수 / 확인일 2026-07-22)</caption>
+<thead><tr><th>구분</th><th>VB (CRSP)</th><th>IWM (러셀2000)</th></tr></thead>
+<tbody>
+<tr><td>규모대</td><td>높은 편(중형 경계 포함)</td><td>최하단·마이크로캡 포함</td></tr>
+<tr><td>회전율 관리</td><td>버퍼+분산 거래</td><td>기계적, 6월 1회</td></tr>
+<tr><td>흑자 필터</td><td>없음</td><td>없음</td></tr>
+<tr><td>성격</td><td>넓고 덜 극단적</td><td>순수 소형(변동성 큼)</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: [판단] 러셀2000이 소형의 '최하단'까지 담아 변동성이 큰 편이라면, VB는 규모대가 높아 상대적으로 덜 극단적인 소형 노출입니다.</p>
+
+<h2>VB는 IJR(S&P600)과 무엇이 다른가?</h2>
+<p>[사실] IJR(S&amp;P600)의 특징은 <strong>흑자 요건</strong>입니다. 반면 VB(CRSP)는 수익성 필터가 없어 적자 기업도 포함할 수 있습니다. 대신 VB는 규모대가 더 높고 종목을 폭넓게 담습니다. 즉 IJR은 '품질(흑자) 필터', VB는 '넓은 규모 커버리지'가 차별점입니다.</p>
+<figure>
+<table>
+<caption>표3. VB(CRSP) vs IJR(S&P600) 구조 대조 (출처: 각 지수 산출기관 / 확인일 2026-07-22)</caption>
+<thead><tr><th>구분</th><th>VB (CRSP)</th><th>IJR (S&P600)</th></tr></thead>
+<tbody>
+<tr><td>흑자 필터</td><td>없음</td><td>있음(4분기+최근 분기)</td></tr>
+<tr><td>편입 방식</td><td>규칙 기반+버퍼</td><td>위원회 심사+버퍼</td></tr>
+<tr><td>규모대</td><td>더 넓게(중형 경계)</td><td>소형 집중(600 규모)</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: [판단] '적자 기업 배제'를 원하면 IJR, '규모대 넓은 소형 전체'를 원하면 VB입니다. 두 상품은 필터 유무에서 갈립니다.</p>
+
+<h2>소형 3대 지수를 한눈에 정리하면?</h2>
+<p>[사실] 미국 소형주 ETF는 추종 지수에 따라 세 갈래입니다.</p>
+<figure>
+<table>
+<caption>표4. 미국 소형주 3대 지수 (출처: CRSP·Russell·S&P DJI / 확인일 2026-07-22)</caption>
+<thead><tr><th>지수</th><th>ETF</th><th>규모대</th><th>필터/회전</th></tr></thead>
+<tbody>
+<tr><td>러셀2000</td><td>IWM</td><td>최하단·마이크로캡</td><td>무필터, 기계적 6월</td></tr>
+<tr><td>S&amp;P600</td><td>IJR</td><td>소형 집중</td><td>흑자 필터, 위원회</td></tr>
+<tr><td>CRSP 소형</td><td>VB</td><td>중형 경계까지 넓게</td><td>무필터, 버퍼</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: [판단] '가장 순수한 소형'은 IWM, '품질 필터'는 IJR, '가장 넓은 소형'은 VB입니다. 이름이 아니라 지수를 봐야 담기는 회사를 알 수 있습니다.</p>
+
+<h2>VB의 '더 큰 소형'은 어떤 의미인가?</h2>
+<p>[판단] VB가 러셀2000보다 규모대가 높다는 것은, 하락장에서 최하단 소형주만큼 크게 흔들리지 않는 완충 효과가 있을 수 있다는 뜻입니다. Morningstar도 CRSP의 상대적 품질·규모 tilt가 러셀2000 대비 하방에서 방어 성격을 낼 수 있다고 봅니다. 다만 그만큼 '순수한 소형주 특유의 급반등'은 러셀2000보다 덜 담길 수 있습니다. 규모대가 높아질수록 중형과 성격이 가까워집니다.</p>
+
+<h2>VB는 국내에 동일지수 대안이 있나?</h2>
+<p>절세계좌(ISA·연금) 관점에서 중요한 질문입니다. [사실] 국내 상장 미국 소형주 ETF는 러셀2000 계열(KODEX 미국러셀2000(H) 등)이 있습니다. 그러나 <strong>CRSP US Small Cap이나 S&amp;P600을 추종하는 국내 상장 ETF는 확인 시점(2026-07-22) 기준 확인되지 않았습니다.</strong> 즉 소형주 중에서도 CRSP(VB)·S&amp;P600(IJR) 버전은 국내 동일지수로 복제하기 어렵습니다.</p>
+<figure>
+<table>
+<caption>표5. 미국 소형주의 국내 동일지수 대안 (확인일 2026-07-22 / [정보부족] 부재 단정 아님·미확인)</caption>
+<thead><tr><th>지수</th><th>미국 ETF</th><th>국내 동일지수 상장</th></tr></thead>
+<tbody>
+<tr><td>러셀2000</td><td>IWM</td><td>KODEX 미국러셀2000(H) 등</td></tr>
+<tr><td>S&amp;P600</td><td>IJR</td><td>확인 시점 기준 미확인</td></tr>
+<tr><td>CRSP 소형</td><td>VB</td><td>확인 시점 기준 미확인</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: [판단] 러셀2000 노출만 국내 상장으로 절세계좌 활용이 가능하고, CRSP(VB)의 넓은 소형 노출은 미국 상장 직접 매수가 기본입니다. 신규 상장 가능성은 재확인이 필요합니다.</p>
+
+<h2>VB를 직접 사면 세금은 어떻게 되나?</h2>
+<p>[사실] 미국 상장 VB를 직접 매수하면 해외주식으로 과세됩니다. 매매차익은 연 250만 원 공제 후 <strong>양도소득세 22%</strong>, 분배금은 <strong>배당소득세 15.4%</strong> 원천징수, 금융소득 2000만 원 초과 시 종합과세에 합산됩니다. 해외 상장이라 ISA·연금 직접 편입은 불가합니다.</p>
+<figure>
+<table>
+<caption>표6. VB 직접투자 과세(국내 거주자 일반계좌) (출처: 국세청 현행 세제 / 확인일 2026-07-22)</caption>
+<thead><tr><th>구분</th><th>과세</th></tr></thead>
+<tbody>
+<tr><td>매매차익</td><td>연 250만 원 공제 후 양도세 22%(분류과세)</td></tr>
+<tr><td>분배금</td><td>배당소득세 15.4% 원천징수</td></tr>
+<tr><td>종합과세</td><td>금융소득 2000만 원 초과 시 합산</td></tr>
+<tr><td>절세계좌</td><td>해외 상장이라 ISA·연금 직접 편입 불가</td></tr>
+</tbody>
+</table>
+</figure>
+<p>해석: [판단] 절세계좌를 우선한다면 국내 상장 러셀2000 상품이 우회로가 되지만, CRSP(VB)는 그 경로가 확인되지 않습니다. 세 소형 지수는 담기는 회사가 다르므로 '소형주면 다 같다'고 대체하면 안 됩니다.</p>
+
+<h2>VB·VO·IWM·IJR, 규모 지도에서 어디인가?</h2>
+<p>[판단] 규모 사다리로 보면 대형(VOO·SCHG) → 중형(VO) → 소형(VB·IJR·IWM) 순입니다. 그중 VB는 규모대가 가장 높아 중형(VO)과 경계가 겹치는 쪽, IWM은 최하단, IJR은 그 사이에서 흑자 필터로 걸러진 자리입니다. 이미 중형(VO)을 보유했다면 VB와 규모가 일부 겹칠 수 있으니, 순수 소형 분산을 원하면 IWM이, 품질 소형을 원하면 IJR이 역할이 더 뚜렷합니다.</p>
+
+<h2>VB 매수 전 직접 확인해야 할 것은?</h2>
+<p>[판단] 총보수, 시장가와 순자산가치(NAV)의 괴리, 거래량, 최신 종목·규모 구성은 모두 시점 변동값입니다. 이 글은 이 수치를 싣지 않으며, 매수 직전 뱅가드 공식 페이지와 국내 증권사 해외주식 화면에서 직접 대조할 것을 권합니다. 특히 국내에 CRSP 소형 동일지수 ETF가 상장되었는지는 VB 접근 경로 자체를 바꾸므로 최신 확인이 필요합니다.</p>
+
+<div style="border:1px solid #d9d9d9;border-radius:8px;padding:16px 18px;margin:18px 0;background:#fafafa;">
+  <p style="margin:0 0 12px;font-weight:700;">VB 판단 우선순위</p>
+  <div style="margin:8px 0;"><span style="display:inline-block;width:160px;">CRSP 규모 정의 이해</span><span style="display:inline-block;width:55%;background:#e6e6e6;border-radius:4px;"><span style="display:inline-block;width:95%;background:#4a7dbd;color:#fff;border-radius:4px;padding:2px 6px;font-size:13px;">95</span></span>
