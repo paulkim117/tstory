@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-23",
+  "body_html_length": 5533,
+  "canonical_url": "https://mystock-note.tistory.com/420",
+  "content_hash": "529bb3b0c59cd40e350c7123b6c3f1532c66093ce79e35ec18e47755b3af4364",
+  "json_ld_count": 1,
+  "meta_description": "\"IRP에서 왜 나스닥 2배 레버리지나 곱버스가 안 사지나요?\"라는 질문은 흔합니다. 답은 상품이 나빠서가 아니라, 계좌마다 담을 수 있는 상품이 규제로 정해져 있기 때문입니다. 레버리지·인버스·곱버스는 노후 자금을 지키기 위한 규제로 연금 계좌에서 막혀 있고, 대신 살 수 있는 계좌가 따로 있습니다. 이 글은 이들 상품이 왜 연금에서 막히는지, 어느 계좌에서는 되는지, 못 담을 때 대안은 무엇인지를 결정 기준으로 정리합니다. 감쇄(변동성 잠식) 같은 상품 자체의 위험 구조는 별도 글에서 다뤘으니, 여기서는 '계좌와 규제' 관점에 집중합니다. 상품 수익률·거래량·순위 같은 시점 변동값은 다루지 않습니다.왜 연금에서는 레버리지·인버스가 안 사지나?[사실] 퇴직연금(DC·IRP)과 연금저축은 노후 자금을 장..",
+  "modified_time": "2026-07-24T03:58:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/420\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/420\",\"headline\":\"레버리지·인버스·곱버스 ETF, 왜 연금엔 못 담나 — 계좌별 규제와 대안\",\"description\":\"\"IRP에서 왜 나스닥 2배 레버리지나 곱버스가 안 사지나요?\"라는 질문은 흔합니다. 답은 상품이 나빠서가 아니라, 계좌마다 담을 수 있는 상품이 규제로 정해져 있기 때문입니다. 레버리지·인버스·곱버스는 노후 자금을 지키기 위한 규제로 연금 계좌에서 막혀 있고, 대신 살 수 있는 계좌가 따로 있습니다. 이 글은 이들 상품이 왜 연금에서 막히는지, 어느 계좌에서는 되는지, 못 담을 때 대안은 무엇인지를 결정 기준으로 정리합니다. 감쇄(변동성 잠식) 같은 상품 자체의 위험 구조는 별도 글에서 다뤘으니, 여기서는 '계좌와 규제' 관점에 집중합니다. 상품 수익률·거래량·순위 같은 시점 변동값은 다루지 않습니다.왜 연금에서는 레버리지·인버스가 안 사지나?[사실] 퇴직연금(DC·IRP)과 연금저축은 노후 자금을 장..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-24T03:57:20+09:00\",\"dateModified\":\"2026-07-24T03:58:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"IRP에서 왜 나스닥 2배 레버리지나 곱버스가 안 사지나요?\"라는 질문은 흔합니다. 답은 상품이 나빠서가 아니라, 계좌마다 담을 수 있는 상품이 규제로 정해져 있기 때문입니다. 레버리지·인버스·곱버스는 노후 자금을 지키기 위한 규제로 연금 계좌에서 막혀 있고, 대신 살 수 있는 계좌가 따로 있습니다. 이 글은 이들 상품이 왜 연금에서 막히는지, 어느 계좌에서는 되는지, 못 담을 때 대안은 무엇인지를 결정 기준으로 정리합니다. 감쇄(변동성 잠식) 같은 상품 자체의 위험 구조는 별도 글에서 다뤘으니, 여기서는 '계좌와 규제' 관점에 집중합니다. 상품 수익률·거래량·순위 같은 시점 변동값은 다루지 않습니다.왜 연금에서는 레버리지·인버스가 안 사지나?[사실] 퇴직연금(DC·IRP)과 연금저축은 노후 자금을 장..",
+  "og_title": "레버리지·인버스·곱버스 ETF, 왜 연금엔 못 담나 — 계좌별 규제와 대안",
+  "post_id": "420",
+  "published_time": "2026-07-24T03:57:20+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "레버리지·인버스·곱버스 ETF, 왜 연금엔 못 담나 — 계좌별 규제와 대안",
+  "url": "https://mystock-note.tistory.com/420"
+}

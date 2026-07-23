@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-24T02:57:00+09:00",
+    "datePublished": "2026-07-24T02:56:51+09:00",
+    "description": "LQD는 미국 투자등급 회사채에 투자하는 대표 ETF입니다. '투자등급'이라 안전하게 들리지만, LQD는 만기가 긴 채권을 담아 금리 위험(듀레이션)이 상당합니다. 신용위험은 낮은 대신 금리가 오르면 가격이 크게 흔들리는 성격이라, 하이일드(HYG)와는 위험의 종류가 정반대입니다. 이 글은 투자등급이 무엇인지, LQD가 HYG·국채(IEF)·종합채권(AGG)과 무엇이 다른지, 왜 금리에 민감한지, 국내 대안과 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·듀레이션·분배율 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.LQD ETF란 무엇이고 어떤 지수를 추종하나?[사실] LQD(iShares iBoxx $ Investment Grade Corpor..",
+    "headline": "LQD ETF란? 미국 투자등급 회사채 투자, HYG·국채와 어떻게 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/419",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/419"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-24",
+    "datePublished": "2026-07-24",
+    "description": "LQD(미국 투자등급 회사채 ETF)의 지수 구조와 HYG(하이일드)·국채(IEF)·종합채권(AGG)과의 차이, 금리위험(듀레이션), 국내 대안·세금까지 정리했습니다.",
+    "headline": "LQD ETF란? 미국 투자등급 회사채 투자, HYG·국채와 어떻게 다른가",
+    "url": "https://mystock-note.tistory.com/419"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-23",
+  "body_html_length": 6302,
+  "canonical_url": "https://mystock-note.tistory.com/419",
+  "content_hash": "e0ee33e2539d917e24c110b2e0deeba9cd0ea90a36be3964bd801c765c9dd350",
+  "json_ld_count": 2,
+  "meta_description": "LQD는 미국 투자등급 회사채에 투자하는 대표 ETF입니다. '투자등급'이라 안전하게 들리지만, LQD는 만기가 긴 채권을 담아 금리 위험(듀레이션)이 상당합니다. 신용위험은 낮은 대신 금리가 오르면 가격이 크게 흔들리는 성격이라, 하이일드(HYG)와는 위험의 종류가 정반대입니다. 이 글은 투자등급이 무엇인지, LQD가 HYG·국채(IEF)·종합채권(AGG)과 무엇이 다른지, 왜 금리에 민감한지, 국내 대안과 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·듀레이션·분배율 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.LQD ETF란 무엇이고 어떤 지수를 추종하나?[사실] LQD(iShares iBoxx $ Investment Grade Corpor..",
+  "modified_time": "2026-07-24T02:57:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "LQD는 미국 투자등급 회사채에 투자하는 대표 ETF입니다. '투자등급'이라 안전하게 들리지만, LQD는 만기가 긴 채권을 담아 금리 위험(듀레이션)이 상당합니다. 신용위험은 낮은 대신 금리가 오르면 가격이 크게 흔들리는 성격이라, 하이일드(HYG)와는 위험의 종류가 정반대입니다. 이 글은 투자등급이 무엇인지, LQD가 HYG·국채(IEF)·종합채권(AGG)과 무엇이 다른지, 왜 금리에 민감한지, 국내 대안과 세금은 어떤지를 확인 순서대로 정리합니다. 총보수·수익률·듀레이션·분배율 같은 시점 변동값은 기재하지 않으며, 매수 전 1차 출처에서 직접 확인할 항목으로 안내합니다.LQD ETF란 무엇이고 어떤 지수를 추종하나?[사실] LQD(iShares iBoxx $ Investment Grade Corpor..",
+  "og_title": "LQD ETF란? 미국 투자등급 회사채 투자, HYG·국채와 어떻게 다른가",
+  "post_id": "419",
+  "published_time": "2026-07-24T02:56:51+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "LQD ETF란? 미국 투자등급 회사채 투자, HYG·국채와 어떻게 다른가",
+  "url": "https://mystock-note.tistory.com/419"
+}
