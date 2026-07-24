@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-25T02:03:00+09:00",
+    "datePublished": "2026-07-25T02:02:05+09:00",
+    "description": "VEA는 미국을 제외한 선진국 주식에 투자하는 뱅가드(Vanguard) ETF다. 그런데 한국 투자자가 반드시 알아야 할 함정이 하나 있다. VEA는 FTSE 지수를 쓰기 때문에 한국을 '선진국'으로 분류해, 삼성전자 같은 한국 대표 기업이 VEA 안에 담긴다. 즉 '미국 빼고 분산한다'며 VEA를 샀는데 자국 주식이 다시 들어오는 셈이다. 같은 '미국 제외 선진국'이라도 MSCI 지수를 쓰는 EFA·IEFA는 한국을 신흥국으로 봐 제외한다. 이 글은 VEA의 지수 구조, 한국 포함 문제, VXUS·EFA와의 차이, 지수 변경 이력, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·배당률·국가 비중 같은 변동 수치는 다루지 않는다.VEA는 어떤 ETF인가?VEA의 정식 명칭은 Vanguard FTS..",
+    "headline": "VEA ETF란? 미국 제외 선진국 투자, '한국이 포함된다'는 함정과 EFA 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/423",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/423"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-25",
+    "datePublished": "2026-07-25",
+    "description": "VEA는 미국을 제외한 선진국 주식에 투자하는 뱅가드 ETF다. FTSE 지수를 써 한국을 선진국으로 분류하므로 삼성전자 등 한국 주식이 편입된다. MSCI를 쓰는 EFA·IEFA와는 한국 포함 여부가 갈린다. VXUS와의 관계, 지수 이력, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "VEA ETF란? 미국 제외 선진국 투자, '한국이 포함된다'는 함정과 EFA 차이",
+    "url": "https://mystock-note.tistory.com/423"
+  }
+]

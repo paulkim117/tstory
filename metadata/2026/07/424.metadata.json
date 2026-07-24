@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-24",
+  "body_html_length": 7742,
+  "canonical_url": "https://mystock-note.tistory.com/424",
+  "content_hash": "e2f01b9d7c26ba8759f3f77369044dceab6c39e6ae9c7c6a8443624f1bcb0ce9",
+  "json_ld_count": 2,
+  "meta_description": "XLK는 S&P500 안에서 정보기술(IT) 섹터만 뽑아 담는 State Street(SPDR)의 섹터 ETF다. '미국 기술주'라고 하면 흔히 나스닥100(QQQ)을 떠올리지만, XLK와 QQQ는 담는 종목이 크게 다르다. 특히 2018년 지수 분류 체계(GICS) 개편으로 구글(알파벳)·메타 같은 기업이 XLK에서 빠져 커뮤니케이션 서비스 섹터로 이동했다. 그 결과 XLK는 애플·마이크로소프트·엔비디아 중심의 순수 IT 섹터가 됐다. 이 글은 XLK의 지수 구조, QQQ와의 차이, 섹터 재분류 이력, 섹터별 빅테크(M7) 분포, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLK는 어떤 ETF인가?XLK의 정식 명칭은 Technology Select..",
+  "modified_time": "2026-07-25T03:03:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLK는 S&P500 안에서 정보기술(IT) 섹터만 뽑아 담는 State Street(SPDR)의 섹터 ETF다. '미국 기술주'라고 하면 흔히 나스닥100(QQQ)을 떠올리지만, XLK와 QQQ는 담는 종목이 크게 다르다. 특히 2018년 지수 분류 체계(GICS) 개편으로 구글(알파벳)·메타 같은 기업이 XLK에서 빠져 커뮤니케이션 서비스 섹터로 이동했다. 그 결과 XLK는 애플·마이크로소프트·엔비디아 중심의 순수 IT 섹터가 됐다. 이 글은 XLK의 지수 구조, QQQ와의 차이, 섹터 재분류 이력, 섹터별 빅테크(M7) 분포, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLK는 어떤 ETF인가?XLK의 정식 명칭은 Technology Select..",
+  "og_title": "XLK ETF란? S&P500 IT 섹터만 담는다, 나스닥100(QQQ)과 무엇이 다른가",
+  "post_id": "424",
+  "published_time": "2026-07-25T03:02:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLK ETF란? S&P500 IT 섹터만 담는다, 나스닥100(QQQ)과 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/424"
+}

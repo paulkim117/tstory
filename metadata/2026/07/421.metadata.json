@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-24",
+  "body_html_length": 8260,
+  "canonical_url": "https://mystock-note.tistory.com/421",
+  "content_hash": "6ffb8ea00bab352accae269997a2052ca96d27bae58403ff55251bcfaab83014",
+  "json_ld_count": 2,
+  "meta_description": "SHY는 미국 재무부가 발행한 국채 중 잔존만기 1년 이상 3년 미만 종목만 담는 iShares(블랙록) ETF다. 하루 이틀 세워두는 파킹형(SGOV·BIL, 3개월 이하)보다는 길고, 자산배분의 축이 되는 중기 국채(IEF, 7~10년)보다는 짧은 '단기(short-term)' 자리를 맡는다. 이 글은 SHY의 지수 구조, 초단기·중기·물가채와의 차이, 국내 상장 대안의 만기대, 그리고 미국에 직접 상장된 SHY를 살 때의 세금까지 사실 기준으로 정리한다. 총보수·수익률·분배율 같은 변동 수치는 시점마다 달라지므로 이 글에서는 다루지 않는다.SHY는 어떤 ETF인가?SHY의 정식 명칭은 iShares 1-3 Year Treasury Bond ETF다. 운용사는 블랙록(BlackRock Fund Adv..",
+  "modified_time": "2026-07-25T00:04:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SHY는 미국 재무부가 발행한 국채 중 잔존만기 1년 이상 3년 미만 종목만 담는 iShares(블랙록) ETF다. 하루 이틀 세워두는 파킹형(SGOV·BIL, 3개월 이하)보다는 길고, 자산배분의 축이 되는 중기 국채(IEF, 7~10년)보다는 짧은 '단기(short-term)' 자리를 맡는다. 이 글은 SHY의 지수 구조, 초단기·중기·물가채와의 차이, 국내 상장 대안의 만기대, 그리고 미국에 직접 상장된 SHY를 살 때의 세금까지 사실 기준으로 정리한다. 총보수·수익률·분배율 같은 변동 수치는 시점마다 달라지므로 이 글에서는 다루지 않는다.SHY는 어떤 ETF인가?SHY의 정식 명칭은 iShares 1-3 Year Treasury Bond ETF다. 운용사는 블랙록(BlackRock Fund Adv..",
+  "og_title": "SHY ETF란? 미국 1-3년 국채 단기 자리, SGOV·IEF와 무엇이 다른가",
+  "post_id": "421",
+  "published_time": "2026-07-25T00:01:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SHY ETF란? 미국 1-3년 국채 단기 자리, SGOV·IEF와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/421"
+}
