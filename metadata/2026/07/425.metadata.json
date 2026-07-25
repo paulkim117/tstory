@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-25",
+  "body_html_length": 8566,
+  "canonical_url": "https://mystock-note.tistory.com/425",
+  "content_hash": "5bbabaad2280dece2fe5b0d87b3e98bb46a456ec3ff8b475927913f4dfe94cbd",
+  "json_ld_count": 2,
+  "meta_description": "BND는 미국 투자등급 채권시장 전체를 한 번에 담는 뱅가드(Vanguard)의 종합채권 ETF다. 국채·회사채·모기지채(MBS) 등 미국의 과세 투자등급 채권을 폭넓게 묶어, 채권 한 종목만 골라 담을 필요 없이 '미국 채권시장 평균'에 투자하게 해준다. 그런데 거의 똑같은 상품이 하나 더 있다. iShares의 AGG다. 둘은 사실상 쌍둥이지만, BND는 float 조정 지수를 써서 미세하게 다르다. 이 글은 BND가 담는 것과 빼는 것, AGG와의 차이, 채권 사다리에서의 위치, 그리고 세금까지 사실 기준으로 정리한다. 총보수·듀레이션 수치·수익률 같은 변동 수치는 다루지 않는다.BND는 어떤 ETF인가?BND의 정식 명칭은 Vanguard Total Bond Market ETF다. 운용사는 뱅가드..",
+  "modified_time": "2026-07-26T00:03:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "BND는 미국 투자등급 채권시장 전체를 한 번에 담는 뱅가드(Vanguard)의 종합채권 ETF다. 국채·회사채·모기지채(MBS) 등 미국의 과세 투자등급 채권을 폭넓게 묶어, 채권 한 종목만 골라 담을 필요 없이 '미국 채권시장 평균'에 투자하게 해준다. 그런데 거의 똑같은 상품이 하나 더 있다. iShares의 AGG다. 둘은 사실상 쌍둥이지만, BND는 float 조정 지수를 써서 미세하게 다르다. 이 글은 BND가 담는 것과 빼는 것, AGG와의 차이, 채권 사다리에서의 위치, 그리고 세금까지 사실 기준으로 정리한다. 총보수·듀레이션 수치·수익률 같은 변동 수치는 다루지 않는다.BND는 어떤 ETF인가?BND의 정식 명칭은 Vanguard Total Bond Market ETF다. 운용사는 뱅가드..",
+  "og_title": "BND ETF란? 미국 채권시장 전체를 한 번에, AGG와 무엇이 다른가(float 조정)",
+  "post_id": "425",
+  "published_time": "2026-07-26T00:02:55+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BND ETF란? 미국 채권시장 전체를 한 번에, AGG와 무엇이 다른가(float 조정)",
+  "url": "https://mystock-note.tistory.com/425"
+}

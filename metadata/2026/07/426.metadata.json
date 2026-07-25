@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-25",
+  "body_html_length": 7479,
+  "canonical_url": "https://mystock-note.tistory.com/426",
+  "content_hash": "fa0dbb6d4100bb739ce68925eca183be208154f35dda33a49fb8de3654e788de",
+  "json_ld_count": 2,
+  "meta_description": "XLV는 S&P500 안에서 헬스케어 섹터만 뽑아 담는 State Street(SPDR)의 섹터 ETF다. 어제 다룬 XLK가 기술 섹터를 담았다면, XLV는 제약·바이오테크·의료기기·헬스케어 보험까지 '건강 관련 산업'을 폭넓게 묶는다. 한 가지 자주 오해하는 점은, XLV를 '바이오 ETF'로 여기는 것이다. XLV는 바이오테크만 담는 상품(IBB·XBI)보다 훨씬 넓고, 대형 제약·보험사를 포함해 변동성이 낮은 방어 섹터로 분류된다. 이 글은 XLV가 담는 산업, 바이오 특화와의 차이, XLK(기술)와의 대비, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLV는 어떤 ETF인가?XLV의 정식 명칭은 Health Care Select Sector ..",
+  "modified_time": "2026-07-26T01:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLV는 S&P500 안에서 헬스케어 섹터만 뽑아 담는 State Street(SPDR)의 섹터 ETF다. 어제 다룬 XLK가 기술 섹터를 담았다면, XLV는 제약·바이오테크·의료기기·헬스케어 보험까지 '건강 관련 산업'을 폭넓게 묶는다. 한 가지 자주 오해하는 점은, XLV를 '바이오 ETF'로 여기는 것이다. XLV는 바이오테크만 담는 상품(IBB·XBI)보다 훨씬 넓고, 대형 제약·보험사를 포함해 변동성이 낮은 방어 섹터로 분류된다. 이 글은 XLV가 담는 산업, 바이오 특화와의 차이, XLK(기술)와의 대비, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLV는 어떤 ETF인가?XLV의 정식 명칭은 Health Care Select Sector ..",
+  "og_title": "XLV ETF란? S&P500 헬스케어 섹터, 제약·바이오·보험을 한 번에(방어 섹터)",
+  "post_id": "426",
+  "published_time": "2026-07-26T01:40:50+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLV ETF란? S&P500 헬스케어 섹터, 제약·바이오·보험을 한 번에(방어 섹터)",
+  "url": "https://mystock-note.tistory.com/426"
+}

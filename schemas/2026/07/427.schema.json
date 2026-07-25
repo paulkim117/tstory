@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-26T02:42:00+09:00",
+    "datePublished": "2026-07-26T02:41:11+09:00",
+    "description": "VIGI는 미국을 제외한 선진국·신흥국에서 오랜 기간 배당을 늘려온 기업을 담는 뱅가드(Vanguard)의 국제 배당성장 ETF다. 어제 다룬 VIG가 '미국의 배당성장주'였다면, VIGI는 그 국제판 짝이다. 미국 밖에서 같은 논리(배당을 꾸준히 키워온 기업)를 적용한다. 다만 요건이 조금 다르다. VIG는 10년 연속 증배를 요구하지만, VIGI는 7년 연속 증배를 요건으로 한다. 또 같은 '미국 제외 해외'라도 어제 다룬 VEA와는 배당 필터·지수·한국 분류에서 차이가 있다. 이 글은 VIGI의 구조, VIG·VEA와의 차이, 한국 분류, 지수 이력, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·배당률 같은 변동 수치는 다루지 않는다.VIGI는 어떤 ETF인가?VIGI의 정식 명칭은 Van..",
+    "headline": "VIGI ETF란? VIG의 국제판, 미국 제외 배당성장주(7년 증배)와 VEA 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/427",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/427"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-26",
+    "datePublished": "2026-07-26",
+    "description": "VIGI는 미국을 제외한 선진국·신흥국에서 7년 이상 배당을 늘려온 기업을 담는 뱅가드 국제 배당성장 ETF다. 미국판 VIG(10년 증배)의 짝으로, VEA(시장 전체)와 달리 배당성장 필터를 적용한다. VIG·VEA와의 차이, 한국 분류, 지수 이력, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "VIGI ETF란? VIG의 국제판, 미국 제외 배당성장주(7년 증배)와 VEA 차이",
+    "url": "https://mystock-note.tistory.com/427"
+  }
+]
