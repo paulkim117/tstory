@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-27T01:44:00+09:00",
+    "datePublished": "2026-07-27T01:43:08+09:00",
+    "description": "IEFA는 미국과 캐나다를 제외한 선진국 주식에 투자하는 iShares(블랙록) ETF다. 어제 다룬 VEA와 같은 '미국 제외 선진국'처럼 보이지만, 실제로는 정반대에 가까운 차이가 있다. IEFA는 MSCI 지수(EAFE)를 쓰기 때문에 한국을 신흥국으로 보고 제외하고, 캐나다도 뺀다. 반면 VEA는 FTSE 지수를 써 한국과 캐나다를 모두 포함했다. 한국 투자자에게는 이 차이가 특히 중요하다. 자국(한국) 중복을 피하려면 IEFA, FTSE 기준으로 담으려면 VEA가 갈린다. 이 글은 IEFA의 구조, VEA·EFA와의 차이, 운용사 혼용 시 주의점, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·국가 비중 같은 변동 수치는 다루지 않는다.IEFA는 어떤 ETF인가?IEFA의 정식 명칭은 i..",
+    "headline": "IEFA ETF란? 미국·캐나다 제외 선진국(한국도 빠짐), VEA와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/430",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/430"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-27",
+    "datePublished": "2026-07-27",
+    "description": "IEFA는 미국과 캐나다를 제외한 선진국 주식에 투자하는 iShares 블랙록 ETF다. MSCI EAFE 지수를 써 한국을 신흥국으로 보고 제외하며 캐나다도 뺀다. FTSE를 쓰는 VEA(한국·캐나다 포함)와 정반대다. VEA·EFA와의 차이, 운용사 혼용 주의점, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "IEFA ETF란? 미국·캐나다 제외 선진국(한국도 빠짐), VEA와 무엇이 다른가",
+    "url": "https://mystock-note.tistory.com/430"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-26",
+  "body_html_length": 7348,
+  "canonical_url": "https://mystock-note.tistory.com/431",
+  "content_hash": "1cb9ab1b0843d9c4fe8f0c09e5a2b3900076fa9a25520eb429a4bbf33540313d",
+  "json_ld_count": 2,
+  "meta_description": "XLF는 S&P500의 금융 섹터를 담는 State Street(SPDR)의 섹터 ETF다. '금융'이라고 하면 은행만 떠올리기 쉽지만, XLF에는 은행뿐 아니라 투자은행·보험·자산운용, 그리고 비자·마스터카드 같은 결제 기업까지 들어 있다. 또 한 가지 알아둘 이력이 있다. 과거 XLF에는 부동산(리츠)이 포함돼 있었는데, 2016년 지수 분류(GICS) 개편으로 부동산이 별도 섹터(XLRE)로 분리되면서 XLF에서 빠졌다. 이 글은 XLF가 담는 산업, 경기민감 성격, 어제까지 다룬 XLK·XLV·XLC와의 관계, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLF는 어떤 ETF인가?XLF의 정식 명칭은 Financial Select Sector S..",
+  "modified_time": "2026-07-27T02:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLF는 S&P500의 금융 섹터를 담는 State Street(SPDR)의 섹터 ETF다. '금융'이라고 하면 은행만 떠올리기 쉽지만, XLF에는 은행뿐 아니라 투자은행·보험·자산운용, 그리고 비자·마스터카드 같은 결제 기업까지 들어 있다. 또 한 가지 알아둘 이력이 있다. 과거 XLF에는 부동산(리츠)이 포함돼 있었는데, 2016년 지수 분류(GICS) 개편으로 부동산이 별도 섹터(XLRE)로 분리되면서 XLF에서 빠졌다. 이 글은 XLF가 담는 산업, 경기민감 성격, 어제까지 다룬 XLK·XLV·XLC와의 관계, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLF는 어떤 ETF인가?XLF의 정식 명칭은 Financial Select Sector S..",
+  "og_title": "XLF ETF란? S&P500 금융 섹터(은행·보험·카드), 2016년 부동산이 빠진 이유",
+  "post_id": "431",
+  "published_time": "2026-07-27T02:31:17+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLF ETF란? S&P500 금융 섹터(은행·보험·카드), 2016년 부동산이 빠진 이유",
+  "url": "https://mystock-note.tistory.com/431"
+}

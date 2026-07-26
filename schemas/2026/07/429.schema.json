@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-27T00:43:00+09:00",
+    "datePublished": "2026-07-27T00:42:39+09:00",
+    "description": "XLC는 S&P500의 커뮤니케이션 서비스 섹터를 담는 State Street(SPDR)의 섹터 ETF다. 이름만 보면 '통신주 ETF'처럼 들리지만, 실제 안을 들여다보면 구글(알파벳)과 메타가 압도적 비중을 차지하고 넷플릭스·게임사까지 들어 있다. 어제 다룬 XLK(기술) 편에서 '구글·메타가 2018년 개편으로 XLK에서 빠져 XLC로 이동했다'고 했는데, 그 XLC가 바로 이 상품이다. 즉 XLC는 XLK에서 빠진 빅테크가 모인 곳이면서, 동시에 AT&T·버라이즌 같은 전통 통신주도 함께 담는 이질적인 섹터다. 이 글은 XLC의 구조, XLK와의 관계, 이질적 구성 리스크, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.XLC는 어떤 ETF인가?X..",
+    "headline": "XLC ETF란? 이름은 '통신'인데 실속은 구글·메타(2018 GICS 신설 섹터)",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/429",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/429"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-27",
+    "datePublished": "2026-07-27",
+    "description": "XLC는 S&P500의 커뮤니케이션 서비스 섹터를 담는 State Street SPDR ETF다. 2018년 GICS 개편으로 신설된 섹터라 XLK(기술)에서 빠진 구글·메타와 넷플릭스, 전통 통신(AT&T·버라이즌)이 한데 묶여 있다. 담는 산업, XLK와의 관계, 이질적 구성 리스크, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "XLC ETF란? 이름은 '통신'인데 실속은 구글·메타(2018 GICS 신설 섹터)",
+    "url": "https://mystock-note.tistory.com/429"
+  }
+]

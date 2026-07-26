@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-26",
+  "body_html_length": 5878,
+  "canonical_url": "https://mystock-note.tistory.com/432",
+  "content_hash": "bfefdca25fee0618eb5e54739d2f6b4f8cf1243cf0b842075aacae1446a4decc",
+  "json_ld_count": 2,
+  "meta_description": "미국 지수 ETF(S&P500·나스닥100)를 이미 갖고 있는데, 여기에 XLK(기술)·XLV(헬스케어)·XLF(금융) 같은 섹터 ETF를 더 사도 될까? 결론부터 말하면, 가능하지만 중복을 이해하고 얹어야 한다. S&P500 안에는 이미 11개 섹터가 시가총액 비중대로 담겨 있다. 여기에 특정 섹터 ETF를 더하면 그 섹터를 시장 평균보다 더 많이 담는 '오버웨이트'가 된다. 이 글은 섹터 ETF를 코어(핵심 지수) 위에 얹을 때의 중복 점검, 코어위성 구조, 섹터 성격 구분, 그리고 얼마나 얹을지를 결정 프레임으로 정리한다. 개별 섹터 상품의 상세는 각 ETF 글(XLK·XLV·XLC·XLF)을 참고하면 된다.섹터 ETF를 '얹는다'는 게 무슨 뜻인가?S&P500은 미국 대형주 500개를 시가총액대로..",
+  "modified_time": "2026-07-27T03:32:55+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 지수 ETF(S&P500·나스닥100)를 이미 갖고 있는데, 여기에 XLK(기술)·XLV(헬스케어)·XLF(금융) 같은 섹터 ETF를 더 사도 될까? 결론부터 말하면, 가능하지만 중복을 이해하고 얹어야 한다. S&P500 안에는 이미 11개 섹터가 시가총액 비중대로 담겨 있다. 여기에 특정 섹터 ETF를 더하면 그 섹터를 시장 평균보다 더 많이 담는 '오버웨이트'가 된다. 이 글은 섹터 ETF를 코어(핵심 지수) 위에 얹을 때의 중복 점검, 코어위성 구조, 섹터 성격 구분, 그리고 얼마나 얹을지를 결정 프레임으로 정리한다. 개별 섹터 상품의 상세는 각 ETF 글(XLK·XLV·XLC·XLF)을 참고하면 된다.섹터 ETF를 '얹는다'는 게 무슨 뜻인가?S&P500은 미국 대형주 500개를 시가총액대로..",
+  "og_title": "이미 S&P500 있는데 섹터 ETF(XLK·XLV·XLF) 더 사도 될까 — 중복과 오버웨이트",
+  "post_id": "432",
+  "published_time": "2026-07-27T03:31:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "이미 S&P500 있는데 섹터 ETF(XLK·XLV·XLF) 더 사도 될까 — 중복과 오버웨이트",
+  "url": "https://mystock-note.tistory.com/432"
+}
