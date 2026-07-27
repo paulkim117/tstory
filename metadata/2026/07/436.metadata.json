@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-27",
+  "body_html_length": 7977,
+  "canonical_url": "https://mystock-note.tistory.com/436",
+  "content_hash": "4aa02c2c4b37f2ffda11ab3673116a047aafc6b04027b8bf376d66b92ec60265",
+  "json_ld_count": 2,
+  "meta_description": "XLP는 S&P500의 필수소비재 섹터를 담는 State Street(SPDR)의 섹터 ETF다. 어제 다룬 XLY(임의소비재)와 이름이 비슷해 헷갈리기 쉽지만, 둘은 성격이 정반대다. XLY가 자동차·여행·이커머스 같은 '원해서 사는' 선택적 소비였다면, XLP는 식품·생활용품·대형마트 같은 '꼭 사야 하는' 필수 소비를 담는다. 월마트·코스트코·P&G·코카콜라처럼 경기가 좋든 나쁘든 사람들이 계속 쓰는 제품을 만드는 회사들이다. 그래서 XLP는 경기 둔화·시장 불안기에 상대적으로 잘 버티는 대표적인 방어(defensive) 섹터로 꼽힌다. 이 글은 XLP가 담는 산업, 방어 성격, XLY·XLV와의 관계, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·배당률·구성 비중 같은 변동 수치는 다루지..",
+  "modified_time": "2026-07-28T03:09:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLP는 S&P500의 필수소비재 섹터를 담는 State Street(SPDR)의 섹터 ETF다. 어제 다룬 XLY(임의소비재)와 이름이 비슷해 헷갈리기 쉽지만, 둘은 성격이 정반대다. XLY가 자동차·여행·이커머스 같은 '원해서 사는' 선택적 소비였다면, XLP는 식품·생활용품·대형마트 같은 '꼭 사야 하는' 필수 소비를 담는다. 월마트·코스트코·P&G·코카콜라처럼 경기가 좋든 나쁘든 사람들이 계속 쓰는 제품을 만드는 회사들이다. 그래서 XLP는 경기 둔화·시장 불안기에 상대적으로 잘 버티는 대표적인 방어(defensive) 섹터로 꼽힌다. 이 글은 XLP가 담는 산업, 방어 성격, XLY·XLV와의 관계, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·배당률·구성 비중 같은 변동 수치는 다루지..",
+  "og_title": "XLP ETF란? S&P500 필수소비재(월마트·P&G·코카콜라), 방어 섹터의 대표",
+  "post_id": "436",
+  "published_time": "2026-07-28T03:08:54+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLP ETF란? S&P500 필수소비재(월마트·P&G·코카콜라), 방어 섹터의 대표",
+  "url": "https://mystock-note.tistory.com/436"
+}

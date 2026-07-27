@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-28T00:33:00+09:00",
+    "datePublished": "2026-07-28T00:32:05+09:00",
+    "description": "XLRE는 S&P500의 부동산 섹터(리츠)를 담는 State Street(SPDR)의 섹터 ETF다. 어제 다룬 XLF(금융) 편에서 '2016년 GICS 개편으로 부동산이 금융에서 분리돼 XLRE로 빠졌다'고 했는데, 그 XLRE가 바로 이 상품이다. 즉 XLRE는 금융에서 독립한 부동산 섹터를 담는다. 그런데 미국 리츠 ETF로는 이미 VNQ가 유명하다. XLRE와 VNQ는 둘 다 미국 부동산에 투자하지만 담는 범위가 다르다. XLRE는 S&P500의 대형 리츠 약 30개에 집중하고, VNQ는 중소형까지 훨씬 넓게 담는다. 이 글은 XLRE가 담는 리츠 유형, VNQ와의 차이, 리츠의 금리 민감성, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·배당률·구성 비중 같은 변동 수치는 다루지 않는..",
+    "headline": "XLRE ETF란? S&P500 부동산 섹터(리츠), VNQ와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/433",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/433"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-28",
+    "datePublished": "2026-07-28",
+    "description": "XLRE는 S&P500의 부동산 섹터(리츠)를 담는 State Street SPDR ETF다. 2016년 GICS 개편으로 금융에서 독립한 섹터로, 대형 리츠 약 30개에 집중한다. 더 넓은 VNQ와 달리 중소형은 담지 않고 모기지 리츠도 제외한다. 담는 리츠 유형, VNQ와의 차이, 금리 민감성, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "XLRE ETF란? S&P500 부동산 섹터(리츠), VNQ와 무엇이 다른가",
+    "url": "https://mystock-note.tistory.com/433"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-28T01:33:00+09:00",
+    "datePublished": "2026-07-28T01:32:25+09:00",
+    "description": "XLY는 S&P500의 임의소비재 섹터를 담는 State Street(SPDR)의 섹터 ETF다. '소비재'라는 이름만 보면 마트에서 파는 생활용품을 떠올리기 쉽지만, XLY의 실제 구성은 다르다. 아마존과 테슬라 두 종목이 시가총액의 40%가 넘는 비중을 차지해 사실상 상품 성격을 좌우한다. 앞서 다룬 XLK(기술)에는 애플·마이크로소프트·엔비디아가, XLC(커뮤니케이션)에는 구글·메타가 있었는데, 이제 아마존·테슬라는 여기 XLY에 있다. 즉 흔히 빅테크로 묶는 M7이 세 섹터에 흩어져 있고, XLY가 그 마지막 조각이다. 이 글은 XLY가 담는 산업, 빅테크 분산 구조, 필수소비재(XLP)와의 차이, 국내 대안, 세금까지 사실 기준으로 정리한다. 총보수·구성 비중 같은 변동 수치는 다루지 않는다.X..",
+    "headline": "XLY ETF란? S&P500 임의소비재(아마존·테슬라 지배), 필수소비재와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/434",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/434"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-28",
+    "datePublished": "2026-07-28",
+    "description": "XLY는 S&P500의 임의소비재 섹터를 담는 State Street SPDR ETF다. 이름은 소비재지만 아마존·테슬라 두 종목이 시가총액의 40% 넘게 좌우한다. 필수소비재(XLP)와 달리 경기에 민감한 선택적 소비 섹터다. 담는 산업, 빅테크 3섹터 분산, XLP와의 차이, 국내 대안, 세금까지 사실 기준으로 정리했다.",
+    "headline": "XLY ETF란? S&P500 임의소비재(아마존·테슬라 지배), 필수소비재와 무엇이 다른가",
+    "url": "https://mystock-note.tistory.com/434"
+  }
+]
