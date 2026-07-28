@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-29T02:11:01+09:00",
+    "datePublished": "2026-07-29T02:10:10+09:00",
+    "description": "VCIT(Vanguard Intermediate-Term Corporate Bond ETF)는 미국 투자등급(IG) 회사채 중에서도 만기 5~10년(중기) 구간만 골라 담는 뱅가드 ETF다. 회사채 ETF는 신용등급(투자등급 vs 하이일드)뿐 아니라 만기 구간으로도 나뉘는데, VCIT는 단기(VCSH, 1~5년)와 장기(VCLT, 10년+) 사이의 '중기' 조각이다. 만기가 길수록 금리 변동에 가격이 더 민감하므로, 만기 세그먼트를 고르는 것은 곧 금리 민감도를 조절하는 일이다. LQD(만기 3년 초과 광의 IG)와 신용등급은 같지만 만기 프로파일이 다르다는 점이 핵심 구분이다. 아래에서 기초지수·만기 사다리·LQD와의 차이·금리 민감도·국내 대안·세금을 1차 출처(뱅가드·모닝스타) 기준으로 정리한다.V..",
+    "headline": "VCIT ETF란? 미국 중기(5-10년) 투자등급 회사채에 투자하는 법 — LQD와 차이·만기 사다리·세금",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/439",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/439"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-29",
+    "datePublished": "2026-07-29",
+    "description": "VCIT는 미국 투자등급 회사채 중 만기 5~10년(중기) 세그먼트에 투자하는 뱅가드 ETF다. LQD(광의 IG)와의 만기 프로파일 차이, 단기 VCSH·장기 VCLT 만기 사다리, 금리 민감도, 국내 대안·세금을 1차 출처 기준으로 정리한다.",
+    "headline": "VCIT ETF란? 미국 중기(5-10년) 투자등급 회사채에 투자하는 법 — LQD와 차이·만기 사다리·세금",
+    "url": "https://mystock-note.tistory.com/439"
+  }
+]

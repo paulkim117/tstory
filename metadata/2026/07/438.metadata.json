@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-28",
+  "body_html_length": 7708,
+  "canonical_url": "https://mystock-note.tistory.com/438",
+  "content_hash": "0308f66fad1370c186f48db81c69618e84051d4bbcb62333582ff59978524167",
+  "json_ld_count": 2,
+  "meta_description": "XLI(Industrial Select Sector SPDR Fund)는 S&P500의 산업재(Industrials) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. '산업재'라는 이름은 막연하게 들리지만 실제 구성은 항공·방산, 산업 컨글로머릿, 기계, 운송(철도·항공화물·물류), 전기장비, 건설·엔지니어링, 상업·전문 서비스 등 자본재 중심이다. 자본재·제조 사이클에 민감한 '경기민감(cyclical)' 섹터로 분류되며, XLP·XLV 같은 방어 섹터와 성격이 반대다. 특히 XLI는 다른 SPDR 섹터와 달리 국내 상장 대안(KODEX 미국S&P500산업재, 합성)이 존재한다는 점에서 XLE와 함께 예외적이다. 아래에서 실제 구성·방산 오해·경기민감 성격·광의 산업재(VI..",
+  "modified_time": "2026-07-29T01:10:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLI(Industrial Select Sector SPDR Fund)는 S&P500의 산업재(Industrials) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. '산업재'라는 이름은 막연하게 들리지만 실제 구성은 항공·방산, 산업 컨글로머릿, 기계, 운송(철도·항공화물·물류), 전기장비, 건설·엔지니어링, 상업·전문 서비스 등 자본재 중심이다. 자본재·제조 사이클에 민감한 '경기민감(cyclical)' 섹터로 분류되며, XLP·XLV 같은 방어 섹터와 성격이 반대다. 특히 XLI는 다른 SPDR 섹터와 달리 국내 상장 대안(KODEX 미국S&P500산업재, 합성)이 존재한다는 점에서 XLE와 함께 예외적이다. 아래에서 실제 구성·방산 오해·경기민감 성격·광의 산업재(VI..",
+  "og_title": "XLI ETF란? 미국 산업재 섹터에 투자하는 법 — 방산·기계·운송 구성과 국내 대안(KODEX 미국S&P500산업재) 확인",
+  "post_id": "438",
+  "published_time": "2026-07-29T01:09:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLI ETF란? 미국 산업재 섹터에 투자하는 법 — 방산·기계·운송 구성과 국내 대안(KODEX 미국S&P500산업재) 확인",
+  "url": "https://mystock-note.tistory.com/438"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-28",
+  "body_html_length": 8694,
+  "canonical_url": "https://mystock-note.tistory.com/437",
+  "content_hash": "d259f972c5b9ca5fde859611820af45fc76ef8ffb2b1b2edf4b95e4f6c2af32a",
+  "json_ld_count": 2,
+  "meta_description": "BNDX(Vanguard Total International Bond ETF)는 미국을 제외한 전 세계 투자등급 채권에 투자하면서, 편입 채권의 외화(유로·엔·파운드 등) 노출을 미국 달러로 환헤지하는 뱅가드 ETF다. 미국 종합채권(BND·AGG)의 지역 공백을 메우는 '미국 밖' 조각으로, 두 개를 합치면 글로벌 채권 전체에 가까워진다. 다만 한국 원화 투자자에게 'USD 헤지'는 원화 무위험을 뜻하지 않는다는 점, 국내 상장에는 같은 성격의 대안이 잘 보이지 않는다는 점, 미국 상장 직접 매매의 세금 구조가 국내 상장 해외채권형과 다르다는 점이 확인 포인트다. 아래에서 기초자산·환 구조·BND와의 차이·세금·국내 대안을 1차 출처(뱅가드·SEC) 기준으로 정리한다.BNDX는 어떤 ETF이고, 무엇을..",
+  "modified_time": "2026-07-29T00:10:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "BNDX(Vanguard Total International Bond ETF)는 미국을 제외한 전 세계 투자등급 채권에 투자하면서, 편입 채권의 외화(유로·엔·파운드 등) 노출을 미국 달러로 환헤지하는 뱅가드 ETF다. 미국 종합채권(BND·AGG)의 지역 공백을 메우는 '미국 밖' 조각으로, 두 개를 합치면 글로벌 채권 전체에 가까워진다. 다만 한국 원화 투자자에게 'USD 헤지'는 원화 무위험을 뜻하지 않는다는 점, 국내 상장에는 같은 성격의 대안이 잘 보이지 않는다는 점, 미국 상장 직접 매매의 세금 구조가 국내 상장 해외채권형과 다르다는 점이 확인 포인트다. 아래에서 기초자산·환 구조·BND와의 차이·세금·국내 대안을 1차 출처(뱅가드·SEC) 기준으로 정리한다.BNDX는 어떤 ETF이고, 무엇을..",
+  "og_title": "BNDX ETF란? 미국 빼고 전 세계 채권에 투자하는 법 — BND와 차이·환헤지·세금 확인 기준",
+  "post_id": "437",
+  "published_time": "2026-07-29T00:09:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BNDX ETF란? 미국 빼고 전 세계 채권에 투자하는 법 — BND와 차이·환헤지·세금 확인 기준",
+  "url": "https://mystock-note.tistory.com/437"
+}

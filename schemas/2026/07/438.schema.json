@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-29T01:10:00+09:00",
+    "datePublished": "2026-07-29T01:09:43+09:00",
+    "description": "XLI(Industrial Select Sector SPDR Fund)는 S&P500의 산업재(Industrials) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. '산업재'라는 이름은 막연하게 들리지만 실제 구성은 항공·방산, 산업 컨글로머릿, 기계, 운송(철도·항공화물·물류), 전기장비, 건설·엔지니어링, 상업·전문 서비스 등 자본재 중심이다. 자본재·제조 사이클에 민감한 '경기민감(cyclical)' 섹터로 분류되며, XLP·XLV 같은 방어 섹터와 성격이 반대다. 특히 XLI는 다른 SPDR 섹터와 달리 국내 상장 대안(KODEX 미국S&P500산업재, 합성)이 존재한다는 점에서 XLE와 함께 예외적이다. 아래에서 실제 구성·방산 오해·경기민감 성격·광의 산업재(VI..",
+    "headline": "XLI ETF란? 미국 산업재 섹터에 투자하는 법 — 방산·기계·운송 구성과 국내 대안(KODEX 미국S&P500산업재) 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/438",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/438"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-29",
+    "datePublished": "2026-07-29",
+    "description": "XLI는 S&P500 산업재 섹터에 투자하는 State Street SPDR ETF다. 항공·방산·기계·운송 등 실제 구성, 경기민감 성격, 광의 산업재(VIS·IYJ)와의 차이, 국내 상장 대안(합성)과 세금을 1차 출처 기준으로 정리한다.",
+    "headline": "XLI ETF란? 미국 산업재 섹터에 투자하는 법 — 방산·기계·운송 구성과 국내 대안(KODEX 미국S&P500산업재) 확인",
+    "url": "https://mystock-note.tistory.com/438"
+  }
+]

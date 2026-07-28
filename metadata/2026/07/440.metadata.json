@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-28",
+  "body_html_length": 5811,
+  "canonical_url": "https://mystock-note.tistory.com/440",
+  "content_hash": "e2d0d3bed3be9af38bd1cd711dad8f68ed844c69d4b8d0cb7ab644d78ba95ee3",
+  "json_ld_count": 1,
+  "meta_description": "미국 ETF에 관심이 생겼을 때 흔히 '어떤 상품이 좋은가'부터 따진다. 그러나 한국 투자자에게 실제로 먼저 갈리는 것은 \"그 노출에 대응하는 국내 상장 대안이 있는가\"다. 대안이 있으면 국내 상장(절세계좌 가능·배당소득세)과 미국 직접(양도세 분리과세) 중 고를 수 있지만, 대안이 없으면 미국 직접이 사실상 유일한 경로가 되어 절세계좌 편입 불가·양도세·원화 환위험을 그대로 떠안는다. 문제는 이 가용성이 노출 종류마다 다르다는 점이다. 대표지수(S&P500 등)는 국내 대안이 풍부하지만, 개별 섹터·채권 세그먼트로 내려갈수록 갈린다. 이 글은 '가용성 → 계좌·세금·환 결정'의 흐름을 정리한다. 각 상품의 최신 상장 여부는 시점에 따라 바뀌므로, 마지막에 확인 방법을 함께 둔다.'국내 대안이 있나?'가..",
+  "modified_time": "2026-07-29T03:11:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/440\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/440\",\"headline\":\"미국 ETF의 국내 상장 대안, 있나 없나부터 — 가용성이 계좌·세금·환을 가른다\",\"description\":\"미국 ETF에 관심이 생겼을 때 흔히 '어떤 상품이 좋은가'부터 따진다. 그러나 한국 투자자에게 실제로 먼저 갈리는 것은 \"그 노출에 대응하는 국내 상장 대안이 있는가\"다. 대안이 있으면 국내 상장(절세계좌 가능·배당소득세)과 미국 직접(양도세 분리과세) 중 고를 수 있지만, 대안이 없으면 미국 직접이 사실상 유일한 경로가 되어 절세계좌 편입 불가·양도세·원화 환위험을 그대로 떠안는다. 문제는 이 가용성이 노출 종류마다 다르다는 점이다. 대표지수(S&P500 등)는 국내 대안이 풍부하지만, 개별 섹터·채권 세그먼트로 내려갈수록 갈린다. 이 글은 '가용성 → 계좌·세금·환 결정'의 흐름을 정리한다. 각 상품의 최신 상장 여부는 시점에 따라 바뀌므로, 마지막에 확인 방법을 함께 둔다.'국내 대안이 있나?'가..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-29T03:10:48+09:00\",\"dateModified\":\"2026-07-29T03:11:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 ETF에 관심이 생겼을 때 흔히 '어떤 상품이 좋은가'부터 따진다. 그러나 한국 투자자에게 실제로 먼저 갈리는 것은 \"그 노출에 대응하는 국내 상장 대안이 있는가\"다. 대안이 있으면 국내 상장(절세계좌 가능·배당소득세)과 미국 직접(양도세 분리과세) 중 고를 수 있지만, 대안이 없으면 미국 직접이 사실상 유일한 경로가 되어 절세계좌 편입 불가·양도세·원화 환위험을 그대로 떠안는다. 문제는 이 가용성이 노출 종류마다 다르다는 점이다. 대표지수(S&P500 등)는 국내 대안이 풍부하지만, 개별 섹터·채권 세그먼트로 내려갈수록 갈린다. 이 글은 '가용성 → 계좌·세금·환 결정'의 흐름을 정리한다. 각 상품의 최신 상장 여부는 시점에 따라 바뀌므로, 마지막에 확인 방법을 함께 둔다.'국내 대안이 있나?'가..",
+  "og_title": "미국 ETF의 국내 상장 대안, 있나 없나부터 — 가용성이 계좌·세금·환을 가른다",
+  "post_id": "440",
+  "published_time": "2026-07-29T03:10:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 ETF의 국내 상장 대안, 있나 없나부터 — 가용성이 계좌·세금·환을 가른다",
+  "url": "https://mystock-note.tistory.com/440"
+}
