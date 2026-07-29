@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-30T01:54:00+09:00",
+    "datePublished": "2026-07-30T01:53:04+09:00",
+    "description": "XLB(Materials Select Sector SPDR Fund)는 S&P500의 소재(Materials) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. 가장 먼저 바로잡을 오해는 '소재 = 원자재'라는 착각이다. XLB는 금·구리 같은 원자재 자체가 아니라, 소재를 만드는 기업의 주식에 투자한다. 그리고 그 구성은 이름이 주는 '광물' 이미지와 달리 화학(산업가스·특수화학·페인트 등)이 가장 큰 비중을 차지하고, 금속·광업이 그다음이다. 소재는 원자재·건설·제조 수요에 연동되는 경기민감 섹터이며, 구성 종목 수가 적고 상위 소수 종목에 크게 좌우되는 집중형이라는 점도 특징이다. 아래에서 실제 구성·원자재와의 차이·경기민감·집중도·국내 대안·세금을 1차 출처(SSGA·S..",
+    "headline": "XLB ETF란? 미국 소재 섹터에 투자하는 법 — '소재'는 원자재가 아니다(화학 중심), 국내 대안·세금까지",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/442",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/442"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-30",
+    "datePublished": "2026-07-30",
+    "description": "XLB는 S&P500 소재 섹터(화학·금속광업·건자재 등)에 투자하는 State Street SPDR ETF다. '소재'가 원자재 자체가 아니라 소재 기업 주식이라는 점, 화학 중심 구성과 경기민감 성격, 높은 집중도, 국내 대안(미확인)과 세금을 1차 출처 기준으로 정리한다.",
+    "headline": "XLB ETF란? 미국 소재 섹터에 투자하는 법 — '소재'는 원자재가 아니다(화학 중심), 국내 대안·세금까지",
+    "url": "https://mystock-note.tistory.com/442"
+  }
+]

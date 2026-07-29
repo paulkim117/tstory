@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-30T00:53:00+09:00",
+    "datePublished": "2026-07-30T00:52:42+09:00",
+    "description": "XLU(Utilities Select Sector SPDR Fund)는 S&P500의 유틸리티(Utilities) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. 전기·가스·수도 같은 필수 서비스는 경기가 나빠도 수요가 크게 줄지 않아, 유틸리티는 대표적인 방어(defensive) 섹터로 분류된다. 직전에 다룬 산업재(XLI, 경기민감)와 정반대 성격이다. 다만 방어 섹터라고 위험이 없는 것은 아니다. 유틸리티는 자본집약적이고 부채·배당 비중이 커서 금리에 민감하며, 이 점이 '방어 섹터인데 금리 오르면 눌린다'는 흔한 오해 지점을 만든다. 또 최근에는 AI 데이터센터 전력 수요 급증으로 성장 테마로도 부각된다. 아래에서 구성·방어 성격·금리 민감 메커니즘·집중도·국내 대안·..",
+    "headline": "XLU ETF란? 미국 유틸리티 섹터에 투자하는 법 — 방어 섹터인데 왜 금리에 민감한가, 국내 대안(KODEX 미국S&P500유틸리티)까지",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/441",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/441"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-30",
+    "datePublished": "2026-07-30",
+    "description": "XLU는 S&P500 유틸리티 섹터(전기·가스·수도)에 투자하는 State Street SPDR ETF다. 방어 섹터이지만 금리에 민감한 이유, 집중도, AI 전력 수요, 국내 상장 대안(실물형)과 세금을 1차 출처 기준으로 정리한다.",
+    "headline": "XLU ETF란? 미국 유틸리티 섹터에 투자하는 법 — 방어 섹터인데 왜 금리에 민감한가, 국내 대안(KODEX 미국S&P500유틸리티)까지",
+    "url": "https://mystock-note.tistory.com/441"
+  }
+]

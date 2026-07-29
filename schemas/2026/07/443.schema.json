@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-30T02:54:00+09:00",
+    "datePublished": "2026-07-30T02:53:24+09:00",
+    "description": "MUB(iShares National Muni Bond ETF)는 미국의 투자등급 지방채(municipal bond)에 투자하는 iShares(블랙록) ETF다. 미국 지방채의 핵심은 이자(분배금)가 미국 연방소득세에서 면제된다는 점이다. 그래서 '면세채권(tax-exempt bond)'으로 불린다. 그런데 여기에 한국 투자자가 반드시 알아야 할 함정이 있다. 이 면세 혜택은 미국 납세자에게만 적용된다. 한국 거주 투자자는 MUB 분배금에 대해 한국에서 배당소득세(15.4%)를 낸다. 게다가 지방채는 면세 혜택의 대가로 표면금리(수익률)가 과세채권보다 낮게 형성되는데, 한국 투자자는 낮은 수익률만 취하고 세제 혜택은 받지 못하는 구조가 된다. 아래에서 지방채의 정의·면세 구조·한국 과세·과세채권과의 비교..",
+    "headline": "MUB ETF란? 미국 지방채(면세채권)에 투자하는 법 — '면세'는 미국인 얘기, 한국 투자자에겐 왜 불리한가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/443",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/443"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-30",
+    "datePublished": "2026-07-30",
+    "description": "MUB는 미국 투자등급 지방채에 투자하는 iShares ETF다. 지방채의 연방소득세 면제는 미국 납세자에게만 적용되며, 한국 투자자는 분배금에 배당세가 과세된다. 면세 대가로 낮은 표면금리가 형성되므로 한국 투자자에겐 구조적으로 불리한 이유를 1차 출처 기준으로 정리한다.",
+    "headline": "MUB ETF란? 미국 지방채(면세채권)에 투자하는 법 — '면세'는 미국인 얘기, 한국 투자자에겐 왜 불리한가",
+    "url": "https://mystock-note.tistory.com/443"
+  }
+]

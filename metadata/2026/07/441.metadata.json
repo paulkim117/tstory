@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-29",
+  "body_html_length": 7540,
+  "canonical_url": "https://mystock-note.tistory.com/441",
+  "content_hash": "c462a62c05f4395f213201c86a016ae5b94049ab1e9526d9f44f4def33d745eb",
+  "json_ld_count": 2,
+  "meta_description": "XLU(Utilities Select Sector SPDR Fund)는 S&P500의 유틸리티(Utilities) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. 전기·가스·수도 같은 필수 서비스는 경기가 나빠도 수요가 크게 줄지 않아, 유틸리티는 대표적인 방어(defensive) 섹터로 분류된다. 직전에 다룬 산업재(XLI, 경기민감)와 정반대 성격이다. 다만 방어 섹터라고 위험이 없는 것은 아니다. 유틸리티는 자본집약적이고 부채·배당 비중이 커서 금리에 민감하며, 이 점이 '방어 섹터인데 금리 오르면 눌린다'는 흔한 오해 지점을 만든다. 또 최근에는 AI 데이터센터 전력 수요 급증으로 성장 테마로도 부각된다. 아래에서 구성·방어 성격·금리 민감 메커니즘·집중도·국내 대안·..",
+  "modified_time": "2026-07-30T00:53:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XLU(Utilities Select Sector SPDR Fund)는 S&P500의 유틸리티(Utilities) 섹터에 투자하는 State Street(SSGA)의 SPDR 섹터 ETF다. 전기·가스·수도 같은 필수 서비스는 경기가 나빠도 수요가 크게 줄지 않아, 유틸리티는 대표적인 방어(defensive) 섹터로 분류된다. 직전에 다룬 산업재(XLI, 경기민감)와 정반대 성격이다. 다만 방어 섹터라고 위험이 없는 것은 아니다. 유틸리티는 자본집약적이고 부채·배당 비중이 커서 금리에 민감하며, 이 점이 '방어 섹터인데 금리 오르면 눌린다'는 흔한 오해 지점을 만든다. 또 최근에는 AI 데이터센터 전력 수요 급증으로 성장 테마로도 부각된다. 아래에서 구성·방어 성격·금리 민감 메커니즘·집중도·국내 대안·..",
+  "og_title": "XLU ETF란? 미국 유틸리티 섹터에 투자하는 법 — 방어 섹터인데 왜 금리에 민감한가, 국내 대안(KODEX 미국S&P500유틸리티)까지",
+  "post_id": "441",
+  "published_time": "2026-07-30T00:52:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLU ETF란? 미국 유틸리티 섹터에 투자하는 법 — 방어 섹터인데 왜 금리에 민감한가, 국내 대안(KODEX 미국S&P500유틸리티)까지",
+  "url": "https://mystock-note.tistory.com/441"
+}
