@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-07-31T01:17:00+09:00",
+    "datePublished": "2026-07-31T01:16:25+09:00",
+    "description": "IAU(iShares Gold Trust)는 실물 금을 금고에 보관하고 그 지분을 거래하게 만든 미국 상장 상품으로, 앞서 다룬 GLD와 담는 자산도 법적 구조도 사실상 같다. 둘 다 일반 펀드(RIC)가 아닌 그랜터트러스트이고, 둘 다 실물 금을 보관하며, 둘 다 LBMA 금 가격을 기준으로 한다. 한국 투자자에게 적용되는 세금도 동일하다. 그렇다면 왜 두 개가 따로 있고, 무엇으로 고르는가? 실제 차이는 보관기관(커스터디언)·발행 단위(바스켓)·스폰서·1주가 대표하는 금의 양·비용에 있다. 특히 IAU는 1주당 금량이 작아 소액으로 시작하기 쉽다는 실무적 차이가 있다. 이 글은 구조 설명을 반복하는 대신(구조는 관련 글 참조) 두 상품 중 무엇을 고를지에 필요한 차이만 1차 출처(iShares 프로스..",
+    "headline": "IAU ETF란? GLD와 같은 금인데 무엇이 다른가 — 보관기관·주당 금량·비용으로 고르는 법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/446",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/446"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "dateModified": "2026-07-31",
+    "datePublished": "2026-07-31",
+    "description": "IAU는 실물 금을 보관하는 iShares의 미국 상장 금 상품이다. GLD와 자산·법적 구조·세금이 사실상 같지만 보관기관·바스켓 단위·주당 금량·비용이 다르다. 무엇을 기준으로 고르는지, 미니 버전(GLDM·IAUM)은 무엇인지 1차 출처 기준으로 정리한다.",
+    "headline": "IAU ETF란? GLD와 같은 금인데 무엇이 다른가 — 보관기관·주당 금량·비용으로 고르는 법",
+    "url": "https://mystock-note.tistory.com/446"
+  }
+]

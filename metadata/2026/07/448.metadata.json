@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-30",
+  "body_html_length": 6620,
+  "canonical_url": "https://mystock-note.tistory.com/448",
+  "content_hash": "4ae11ece894f3ada0f25ed34a1cc70e0a54edabb83f6f68e406735469d158cc2",
+  "json_ld_count": 1,
+  "meta_description": "\"금을 얼마나 담아야 하나요?\"는 자주 나오는 질문이지만, 순서가 틀렸다. 금은 이자도 배당도 만들지 않는 자산이라 주식·채권과 결정 방식이 다르다. 주식은 이익, 채권은 이자라는 현금흐름이 가치의 근거가 되지만, 금은 오직 가격 변동뿐이다. 그래서 '왜 담는지'가 정해지지 않으면 '얼마나'는 답이 나오지 않는다. 게다가 금을 담기로 해도 결정은 끝나지 않는다 — 미국 상장으로 살지 국내 상장으로 살지에 따라 절세계좌 사용 가능성과 세금 방식이 통째로 달라지고, 환 처리도 갈린다. 이 글은 금 배분을 (1) 왜 담나 → (2) 얼마나 담나 → (3) 어떤 형태로 담나 → (4) 어떻게 관리하나의 순서로 정리한다. 개별 상품 비교나 유형 비교는 관련 글에서 다룬다.왜 '얼마나'보다 '왜'가 먼저인가?금을 ..",
+  "modified_time": "2026-07-31T03:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/448\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/448\",\"headline\":\"금을 포트폴리오에 담아야 하나 — 얼마나·어떤 형태로 정하는 결정 프레임\",\"description\":\"\"금을 얼마나 담아야 하나요?\"는 자주 나오는 질문이지만, 순서가 틀렸다. 금은 이자도 배당도 만들지 않는 자산이라 주식·채권과 결정 방식이 다르다. 주식은 이익, 채권은 이자라는 현금흐름이 가치의 근거가 되지만, 금은 오직 가격 변동뿐이다. 그래서 '왜 담는지'가 정해지지 않으면 '얼마나'는 답이 나오지 않는다. 게다가 금을 담기로 해도 결정은 끝나지 않는다 — 미국 상장으로 살지 국내 상장으로 살지에 따라 절세계좌 사용 가능성과 세금 방식이 통째로 달라지고, 환 처리도 갈린다. 이 글은 금 배분을 (1) 왜 담나 → (2) 얼마나 담나 → (3) 어떤 형태로 담나 → (4) 어떻게 관리하나의 순서로 정리한다. 개별 상품 비교나 유형 비교는 관련 글에서 다룬다.왜 '얼마나'보다 '왜'가 먼저인가?금을 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-31T03:17:50+09:00\",\"dateModified\":\"2026-07-31T03:18:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"금을 얼마나 담아야 하나요?\"는 자주 나오는 질문이지만, 순서가 틀렸다. 금은 이자도 배당도 만들지 않는 자산이라 주식·채권과 결정 방식이 다르다. 주식은 이익, 채권은 이자라는 현금흐름이 가치의 근거가 되지만, 금은 오직 가격 변동뿐이다. 그래서 '왜 담는지'가 정해지지 않으면 '얼마나'는 답이 나오지 않는다. 게다가 금을 담기로 해도 결정은 끝나지 않는다 — 미국 상장으로 살지 국내 상장으로 살지에 따라 절세계좌 사용 가능성과 세금 방식이 통째로 달라지고, 환 처리도 갈린다. 이 글은 금 배분을 (1) 왜 담나 → (2) 얼마나 담나 → (3) 어떤 형태로 담나 → (4) 어떻게 관리하나의 순서로 정리한다. 개별 상품 비교나 유형 비교는 관련 글에서 다룬다.왜 '얼마나'보다 '왜'가 먼저인가?금을 ..",
+  "og_title": "금을 포트폴리오에 담아야 하나 — 얼마나·어떤 형태로 정하는 결정 프레임",
+  "post_id": "448",
+  "published_time": "2026-07-31T03:17:50+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "금을 포트폴리오에 담아야 하나 — 얼마나·어떤 형태로 정하는 결정 프레임",
+  "url": "https://mystock-note.tistory.com/448"
+}

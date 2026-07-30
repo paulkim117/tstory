@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-07-30",
+  "body_html_length": 8357,
+  "canonical_url": "https://mystock-note.tistory.com/447",
+  "content_hash": "2dbfb68b32337cd532d412eef40eeb2976bbe851cfff5e7cc6c2c6edf93ca042",
+  "json_ld_count": 1,
+  "meta_description": "MOAT(VanEck Morningstar Wide Moat ETF)는 경제적 해자(economic moat), 즉 경쟁자가 쉽게 넘볼 수 없는 지속적 경쟁우위를 가진 미국 기업에 투자하는 ETF다. 다른 팩터 ETF와 결정적으로 다른 점이 있다. QUAL 같은 퀄리티 팩터가 ROE·부채비율·이익변동성 같은 정량 지표로 기계적으로 고르는 반면, MOAT는 모닝스타 애널리스트가 \"이 회사는 20년 이상 경쟁우위를 지킬 수 있다\"고 판단한 기업만 대상으로 삼는다. 즉 사람의 정성 평가가 지수 규칙 안에 들어가 있다. 게다가 해자만으로 끝나지 않고 공정가치 대비 저평가된 종목을 우선 고르며, 시가총액 가중이 아니라 동일가중으로 담는다. 이 조합 때문에 시장을 이끄는 대형 성장주가 '고평가'로 분류되어 빠질 수..",
+  "modified_time": "2026-07-31T02:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/447\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/447\",\"headline\":\"MOAT ETF란? 경제적 해자에 투자하는 법 — 애널리스트가 고르는 지수, 왜 엔비디아·애플이 빠질 수 있나\",\"description\":\"MOAT(VanEck Morningstar Wide Moat ETF)는 경제적 해자(economic moat), 즉 경쟁자가 쉽게 넘볼 수 없는 지속적 경쟁우위를 가진 미국 기업에 투자하는 ETF다. 다른 팩터 ETF와 결정적으로 다른 점이 있다. QUAL 같은 퀄리티 팩터가 ROE·부채비율·이익변동성 같은 정량 지표로 기계적으로 고르는 반면, MOAT는 모닝스타 애널리스트가 \"이 회사는 20년 이상 경쟁우위를 지킬 수 있다\"고 판단한 기업만 대상으로 삼는다. 즉 사람의 정성 평가가 지수 규칙 안에 들어가 있다. 게다가 해자만으로 끝나지 않고 공정가치 대비 저평가된 종목을 우선 고르며, 시가총액 가중이 아니라 동일가중으로 담는다. 이 조합 때문에 시장을 이끄는 대형 성장주가 '고평가'로 분류되어 빠질 수..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-07-31T02:17:11+09:00\",\"dateModified\":\"2026-07-31T02:18:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "MOAT(VanEck Morningstar Wide Moat ETF)는 경제적 해자(economic moat), 즉 경쟁자가 쉽게 넘볼 수 없는 지속적 경쟁우위를 가진 미국 기업에 투자하는 ETF다. 다른 팩터 ETF와 결정적으로 다른 점이 있다. QUAL 같은 퀄리티 팩터가 ROE·부채비율·이익변동성 같은 정량 지표로 기계적으로 고르는 반면, MOAT는 모닝스타 애널리스트가 \"이 회사는 20년 이상 경쟁우위를 지킬 수 있다\"고 판단한 기업만 대상으로 삼는다. 즉 사람의 정성 평가가 지수 규칙 안에 들어가 있다. 게다가 해자만으로 끝나지 않고 공정가치 대비 저평가된 종목을 우선 고르며, 시가총액 가중이 아니라 동일가중으로 담는다. 이 조합 때문에 시장을 이끄는 대형 성장주가 '고평가'로 분류되어 빠질 수..",
+  "og_title": "MOAT ETF란? 경제적 해자에 투자하는 법 — 애널리스트가 고르는 지수, 왜 엔비디아·애플이 빠질 수 있나",
+  "post_id": "447",
+  "published_time": "2026-07-31T02:17:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "MOAT ETF란? 경제적 해자에 투자하는 법 — 애널리스트가 고르는 지수, 왜 엔비디아·애플이 빠질 수 있나",
+  "url": "https://mystock-note.tistory.com/447"
+}
