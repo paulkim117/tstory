@@ -1,20 +1,23 @@
 {
-  "backup_date": "2026-05-24",
-  "body_html_length": 4781,
+  "backup_date": "2026-07-31",
+  "body_html_length": 9008,
   "canonical_url": "https://mystock-note.tistory.com/213",
-  "content_hash": "7682c8e867bbc27642af1ca50cbd390c45fea558873e61991dc382e01f73f812",
-  "json_ld_count": 2,
-  "meta_description": "핵심 요약: KODEX 미국반도체 ETF는 미국 상장 글로벌 반도체 대표기업 25개 종목에 투자하는 국내 상장 ETF입니다. 기초지수는 MVIS US Listed Semiconductor 25 Index이며, TIGER 미국필라델피아반도체나스닥과는 추종 지수, 구성 종목 수, 총보수에서 차이가 있습니다. 투자자는 최근 수익률보다 기초지수, 구성종목, 총보수, 환율 영향, 괴리율, 연금계좌 활용 가능성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. KODEX 미국반도체 ETF의 총보수, 순자산, 투자위험, 상장일 정보는 2026년 5월 22일 기준 ETF 데이터와 삼성자산운용 공식 상품 정보를 참고했습니다. ETF의 순자산, 기준가격, 구성종목, 괴리율, 수익률은 기준일에 따라 달라질..",
-  "modified_time": "2026-05-24T09:52:00+09:00",
+  "content_hash": "c53111de1a7901d394333cff1fde474a584eac013f5412eca8be434ffff65936",
+  "json_ld_count": 1,
+  "meta_description": "이 글이 다루는 판단: KODEX 미국반도체를 한국 장중에 매수할 때, 화면의 가격은 미국 반도체 기업들의 현재 주가를 그대로 반영한 값이 아닙니다. 미국 시장은 닫혀 있고, 그 사이 환율은 움직이며, 가격은 국내 수급으로 형성됩니다. 그래서 \"지금 이 가격이 적정한가\"를 판단하려면 현재가 하나가 아니라 세 가지를 함께 봐야 합니다. 무엇을 보고 어떻게 읽는지가 이 글의 내용입니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 공식 상품 정보와 지수 산출사 방법론을 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률·괴리율 수치는 수시로 변하므로 본문에 기재하지 않았습니다. 해당 값은 운용사 공식 페이지와 증권사 화면에서 기준일과 함께 확인해야 합니다.이 ETF가 추종하는 지수는 정확..",
+  "modified_time": "2026-07-31T09:57:20+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/213\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/213\",\"headline\":\"KODEX 미국반도체 ETF, 장중 가격이 미국 반도체 주가와 어긋날 때 어떻게 판단할까\",\"description\":\"이 글이 다루는 판단: KODEX 미국반도체를 한국 장중에 매수할 때, 화면의 가격은 미국 반도체 기업들의 현재 주가를 그대로 반영한 값이 아닙니다. 미국 시장은 닫혀 있고, 그 사이 환율은 움직이며, 가격은 국내 수급으로 형성됩니다. 그래서 \"지금 이 가격이 적정한가\"를 판단하려면 현재가 하나가 아니라 세 가지를 함께 봐야 합니다. 무엇을 보고 어떻게 읽는지가 이 글의 내용입니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 공식 상품 정보와 지수 산출사 방법론을 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률·괴리율 수치는 수시로 변하므로 본문에 기재하지 않았습니다. 해당 값은 운용사 공식 페이지와 증권사 화면에서 기준일과 함께 확인해야 합니다.이 ETF가 추종하는 지수는 정확..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-05-24T09:51:26+09:00\",\"dateModified\":\"2026-07-31T09:57:20+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
   ],
-  "og_description": "핵심 요약: KODEX 미국반도체 ETF는 미국 상장 글로벌 반도체 대표기업 25개 종목에 투자하는 국내 상장 ETF입니다. 기초지수는 MVIS US Listed Semiconductor 25 Index이며, TIGER 미국필라델피아반도체나스닥과는 추종 지수, 구성 종목 수, 총보수에서 차이가 있습니다. 투자자는 최근 수익률보다 기초지수, 구성종목, 총보수, 환율 영향, 괴리율, 연금계좌 활용 가능성을 먼저 확인해야 합니다.자료 기준일은 2026년 5월 22일입니다. KODEX 미국반도체 ETF의 총보수, 순자산, 투자위험, 상장일 정보는 2026년 5월 22일 기준 ETF 데이터와 삼성자산운용 공식 상품 정보를 참고했습니다. ETF의 순자산, 기준가격, 구성종목, 괴리율, 수익률은 기준일에 따라 달라질..",
-  "og_title": "KODEX 미국반도체 ETF, TIGER 미국필라델피아반도체나스닥과 무엇이 다를까?",
+  "og_description": "이 글이 다루는 판단: KODEX 미국반도체를 한국 장중에 매수할 때, 화면의 가격은 미국 반도체 기업들의 현재 주가를 그대로 반영한 값이 아닙니다. 미국 시장은 닫혀 있고, 그 사이 환율은 움직이며, 가격은 국내 수급으로 형성됩니다. 그래서 \"지금 이 가격이 적정한가\"를 판단하려면 현재가 하나가 아니라 세 가지를 함께 봐야 합니다. 무엇을 보고 어떻게 읽는지가 이 글의 내용입니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 공식 상품 정보와 지수 산출사 방법론을 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률·괴리율 수치는 수시로 변하므로 본문에 기재하지 않았습니다. 해당 값은 운용사 공식 페이지와 증권사 화면에서 기준일과 함께 확인해야 합니다.이 ETF가 추종하는 지수는 정확..",
+  "og_title": "KODEX 미국반도체 ETF, 장중 가격이 미국 반도체 주가와 어긋날 때 어떻게 판단할까",
   "post_id": "213",
   "published_time": "2026-05-24T09:51:26+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "KODEX 미국반도체 ETF, TIGER 미국필라델피아반도체나스닥과 무엇이 다를까?",
+  "title": "KODEX 미국반도체 ETF, 장중 가격이 미국 반도체 주가와 어긋날 때 어떻게 판단할까",
   "url": "https://mystock-note.tistory.com/213"
 }

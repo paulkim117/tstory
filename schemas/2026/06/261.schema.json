@@ -1,53 +1,17 @@
-[
-  {
-    "@context": "http://schema.org",
-    "@type": "BlogPosting",
-    "author": {
-      "@type": "Person",
-      "logo": null,
-      "name": "Blackshoot"
-    },
-    "dateModified": "2026-06-10T01:49:00+09:00",
-    "datePublished": "2026-06-10T01:48:41+09:00",
-    "description": "핵심 요약: KODEX AI반도체TOP2플러스 ETF는 국내 AI 반도체 대표 종목 비중을 강화한 국내주식형 반도체 ETF입니다. 기존 KODEX AI반도체 ETF가 2026년 5월 13일부터 KODEX AI반도체TOP2플러스로 명칭과 기초지수 산출 기준이 변경되었기 때문에, 과거 상품명으로 검색하는 투자자도 현재 구조를 다시 확인해야 합니다. 이 ETF를 볼 때는 삼성전자·SK하이닉스 등 TOP2 비중, 총보수, 순자산, SOL AI반도체TOP2플러스와의 차이, TIGER 반도체TOP10과의 차이, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 삼성자산운용 KODEX 공지, FnGuide 지수 설명, SOL ETF 공식 상품 정보를 참..",
-    "headline": "KODEX AI반도체TOP2플러스 ETF란? SOL·TIGER 반도체 ETF와 비교할 점",
-    "image": {
-      "@type": "ImageObject",
-      "height": "800px",
-      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-      "width": "800px"
-    },
-    "mainEntityOfPage": {
-      "@id": "https://mystock-note.tistory.com/261",
-      "name": null
-    },
-    "publisher": {
-      "@type": "Organization",
-      "logo": {
-        "@type": "ImageObject",
-        "height": "800px",
-        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
-        "width": "800px"
-      },
-      "name": "TISTORY"
-    },
-    "url": "https://mystock-note.tistory.com/261"
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
   },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "dateModified": "2026-06-10",
-    "datePublished": "2026-06-10",
-    "description": "KODEX AI반도체TOP2플러스 ETF는 삼성전자·SK하이닉스 등 국내 AI 반도체 핵심 종목 비중을 강화한 ETF입니다. 총보수, 순자산, 기초지수 변경, SOL AI반도체TOP2플러스·TIGER 반도체TOP10과의 차이를 정리했습니다.",
-    "headline": "KODEX AI반도체TOP2플러스 ETF란? SOL·TIGER 반도체 ETF와 비교할 점",
-    "mainEntityOfPage": {
-      "@id": "https://mystock-note.tistory.com/261",
-      "@type": "WebPage"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Stock Memo"
-    },
-    "url": "https://mystock-note.tistory.com/261"
-  }
-]
+  "dateModified": "2026-07-31T09:00:00+09:00",
+  "datePublished": "2026-06-10T09:00:00+09:00",
+  "description": "KODEX AI반도체TOP2플러스는 상장 이후 기초지수가 두 차례 바뀐 ETF입니다. 지수 교체 이력, 2026년 5월 개편 내용, 과거 차트를 어디까지 참고할 수 있는지, 다른 국내 반도체 ETF와 겹치는지를 판단 기준 중심으로 정리했습니다.",
+  "headline": "KODEX AI반도체TOP2플러스, 지수가 두 번 바뀐 ETF를 어떤 기준으로 판단할까",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/261",
+    "@type": "WebPage"
+  },
+  "url": "https://mystock-note.tistory.com/261"
+}

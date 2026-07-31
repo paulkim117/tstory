@@ -5,16 +5,16 @@
   "content_hash": "a08cdfe22e1e1075c919f87867326f47d92b9959588f68093ff9a1930da8f408",
   "json_ld_count": 2,
   "meta_description": "핵심 요약: 국내 미국배당다우존스 ETF를 비교할 때는 브랜드명보다 기초지수, 총보수, 순자산 규모, 월분배 정책, 환율 노출, 연금계좌 투자 가능 여부를 먼저 확인해야 합니다. TIGER, SOL, ACE, KODEX 미국배당다우존스는 모두 Dow Jones U.S. Dividend 100 계열 지수를 기반으로 하지만, 상장일, 순자산 규모, 분배금 지급 기준일, 비용 구조에서 차이가 있습니다. 월배당 ETF로 접근하더라도 분배금만 보지 말고 배당 재원, 기준가격, 총수익률, 환율 영향, 장기 보유 비용을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 S&P Dow Jones Indices, 삼성자산운용, 미래에셋자산운용, 한국투자신탁운용, 신한자산운용 공식 자료와 ETF 데..",
-  "modified_time": "2026-05-15T20:20:32+09:00",
+  "modified_time": "2026-07-31T09:34:48+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
   ],
   "og_description": "핵심 요약: 국내 미국배당다우존스 ETF를 비교할 때는 브랜드명보다 기초지수, 총보수, 순자산 규모, 월분배 정책, 환율 노출, 연금계좌 투자 가능 여부를 먼저 확인해야 합니다. TIGER, SOL, ACE, KODEX 미국배당다우존스는 모두 Dow Jones U.S. Dividend 100 계열 지수를 기반으로 하지만, 상장일, 순자산 규모, 분배금 지급 기준일, 비용 구조에서 차이가 있습니다. 월배당 ETF로 접근하더라도 분배금만 보지 말고 배당 재원, 기준가격, 총수익률, 환율 영향, 장기 보유 비용을 함께 확인해야 합니다.자료 확인일은 2026년 5월 15일입니다. 본문은 S&P Dow Jones Indices, 삼성자산운용, 미래에셋자산운용, 한국투자신탁운용, 신한자산운용 공식 자료와 ETF 데..",
-  "og_title": "국내 미국배당다우존스 ETF 비교: TIGER·SOL·ACE·KODEX 선택 기준",
+  "og_title": "미국배당다우존스 ETF 비교: TIGER·SOL·ACE·KODEX 선택 기준",
   "post_id": "186",
   "published_time": "2026-05-15T08:12:26+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "국내 미국배당다우존스 ETF 비교: TIGER·SOL·ACE·KODEX 선택 기준",
+  "title": "미국배당다우존스 ETF 비교: TIGER·SOL·ACE·KODEX 선택 기준",
   "url": "https://mystock-note.tistory.com/186"
 }

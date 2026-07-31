@@ -1,8 +1,8 @@
 {
-  "backup_date": "2026-06-30",
+  "backup_date": "2026-07-31",
   "body_html_length": 5016,
   "canonical_url": "https://mystock-note.tistory.com/40",
-  "content_hash": "63301fd2ef2dc302a6a597d24634381ca4a3341f82cc46345caad67d80acf978",
+  "content_hash": "8409fb807a4ba0e87dcf29cbbd8a8559afeb93e0aac43367ef7cb9b334954ac2",
   "json_ld_count": 1,
   "meta_description": "1. 거래 - 자산, 부채, 자본의 증감 - 수익, 비용의 발생 소멸-> 원천무효 회계상 거래 o/ 일반적 거래 x - 화재, 도난, 분실, 침수, 지진 등 회계상 거래 o/ 일반적 거래 o - 매매, 채권회수, 채무상환 회계상 거래 x/ 일반적 거래 o - 주문, 채용, 임대차 계약, 약속, 보관 감가상각 - 가치가 감소하는 것을 비용처리 대손상각 - 못 받는 돈 비용처리 2. 거래의 결합관계 차변 대변 1. 자산 증가 -----------> 2. 자산 감소 4. 부채감소",
   "modified_time": "2021-05-19T15:45:59+09:00",

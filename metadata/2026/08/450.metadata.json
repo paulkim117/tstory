@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-31",
+  "body_html_length": 13588,
+  "canonical_url": "https://mystock-note.tistory.com/450",
+  "content_hash": "7cfdd93e1e85d832e1030e2350b4f8527776889780ef3935394817fc29e791f8",
+  "json_ld_count": 2,
+  "meta_description": "RSP(Invesco S&P 500 Equal Weight ETF)는 VOO와 똑같은 500개 기업을 담되, 비중만 다르게 주는 ETF입니다. 시가총액 가중인 VOO가 대형주에 비중을 몰아주는 반면, RSP는 분기마다 모든 종목에 같은 비중을 다시 부여합니다. 종목은 같고 비중만 다른데, 이 하나의 차이가 섹터 구성·회전율·수익 패턴을 전부 바꿉니다. 이 글은 동일가중이 실제로 무엇을 사고파는 행위인지, VOO와 어떤 위험을 맞바꾸는지, 그리고 국내 동일가중 대안이 RSP와 같은 지수를 추종하지 않는다는 점까지 확인 순서대로 정리합니다.RSP ETF는 어떤 지수를 추종하나요?S&P 500 Equal Weight Index 하나입니다. 운용사인 Invesco의 공식 팩트시트 기준으로, 이 펀드는 총자산의 ..",
+  "modified_time": "2026-08-01T01:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "RSP(Invesco S&P 500 Equal Weight ETF)는 VOO와 똑같은 500개 기업을 담되, 비중만 다르게 주는 ETF입니다. 시가총액 가중인 VOO가 대형주에 비중을 몰아주는 반면, RSP는 분기마다 모든 종목에 같은 비중을 다시 부여합니다. 종목은 같고 비중만 다른데, 이 하나의 차이가 섹터 구성·회전율·수익 패턴을 전부 바꿉니다. 이 글은 동일가중이 실제로 무엇을 사고파는 행위인지, VOO와 어떤 위험을 맞바꾸는지, 그리고 국내 동일가중 대안이 RSP와 같은 지수를 추종하지 않는다는 점까지 확인 순서대로 정리합니다.RSP ETF는 어떤 지수를 추종하나요?S&P 500 Equal Weight Index 하나입니다. 운용사인 Invesco의 공식 팩트시트 기준으로, 이 펀드는 총자산의 ..",
+  "og_title": "RSP ETF란? VOO와 차이, S&P500 동일가중 구조와 국내 대안 비교",
+  "post_id": "450",
+  "published_time": "2026-08-01T01:18:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "RSP ETF란? VOO와 차이, S&P500 동일가중 구조와 국내 대안 비교",
+  "url": "https://mystock-note.tistory.com/450"
+}

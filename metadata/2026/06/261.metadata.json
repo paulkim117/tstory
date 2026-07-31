@@ -1,20 +1,23 @@
 {
-  "backup_date": "2026-06-09",
-  "body_html_length": 4466,
+  "backup_date": "2026-07-31",
+  "body_html_length": 9404,
   "canonical_url": "https://mystock-note.tistory.com/261",
-  "content_hash": "2f0099741dd6ce7566721b2597b2bf1019d890fab2cf1c287dc23727b0531ca8",
-  "json_ld_count": 2,
-  "meta_description": "핵심 요약: KODEX AI반도체TOP2플러스 ETF는 국내 AI 반도체 대표 종목 비중을 강화한 국내주식형 반도체 ETF입니다. 기존 KODEX AI반도체 ETF가 2026년 5월 13일부터 KODEX AI반도체TOP2플러스로 명칭과 기초지수 산출 기준이 변경되었기 때문에, 과거 상품명으로 검색하는 투자자도 현재 구조를 다시 확인해야 합니다. 이 ETF를 볼 때는 삼성전자·SK하이닉스 등 TOP2 비중, 총보수, 순자산, SOL AI반도체TOP2플러스와의 차이, TIGER 반도체TOP10과의 차이, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 삼성자산운용 KODEX 공지, FnGuide 지수 설명, SOL ETF 공식 상품 정보를 참..",
-  "modified_time": "2026-06-10T01:49:00+09:00",
+  "content_hash": "704f50fe33d73ff484e78229fe319805c76dc6c17432f2f31ea3e74ffce54b69",
+  "json_ld_count": 1,
+  "meta_description": "이 글이 다루는 판단: KODEX AI반도체TOP2플러스는 지금의 이름과 지금의 지수로 처음부터 운용된 상품이 아닙니다. 상장 이후 기초지수가 두 차례 바뀌었고, 가장 최근 변경은 2026년 5월 13일입니다. 그래서 이 ETF를 볼 때 먼저 정할 것은 매수 여부가 아니라 \"과거 차트를 어디까지 참고할 수 있는가\"입니다. 이 판단이 정리되지 않으면 실제로 존재한 적 없는 포트폴리오의 성과를 근거로 결정하게 됩니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 KODEX 공식 상품 페이지와 명칭·기초지수 변경 공지, 한국거래소 상장 정보를 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률은 수시로 변하므로 본문에 기재하지 않았습니다. 해당 수치는 운용사 공식 상품 페이지에서 기준일과 ..",
+  "modified_time": "2026-07-31T09:50:55+09:00",
   "notes": [
-    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/261\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/261\",\"headline\":\"KODEX AI반도체TOP2플러스, 지수가 두 번 바뀐 ETF를 어떤 기준으로 판단할까\",\"description\":\"이 글이 다루는 판단: KODEX AI반도체TOP2플러스는 지금의 이름과 지금의 지수로 처음부터 운용된 상품이 아닙니다. 상장 이후 기초지수가 두 차례 바뀌었고, 가장 최근 변경은 2026년 5월 13일입니다. 그래서 이 ETF를 볼 때 먼저 정할 것은 매수 여부가 아니라 \"과거 차트를 어디까지 참고할 수 있는가\"입니다. 이 판단이 정리되지 않으면 실제로 존재한 적 없는 포트폴리오의 성과를 근거로 결정하게 됩니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 KODEX 공식 상품 페이지와 명칭·기초지수 변경 공지, 한국거래소 상장 정보를 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률은 수시로 변하므로 본문에 기재하지 않았습니다. 해당 수치는 운용사 공식 상품 페이지에서 기준일과 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-06-10T01:48:41+09:00\",\"dateModified\":\"2026-07-31T09:50:55+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
   ],
-  "og_description": "핵심 요약: KODEX AI반도체TOP2플러스 ETF는 국내 AI 반도체 대표 종목 비중을 강화한 국내주식형 반도체 ETF입니다. 기존 KODEX AI반도체 ETF가 2026년 5월 13일부터 KODEX AI반도체TOP2플러스로 명칭과 기초지수 산출 기준이 변경되었기 때문에, 과거 상품명으로 검색하는 투자자도 현재 구조를 다시 확인해야 합니다. 이 ETF를 볼 때는 삼성전자·SK하이닉스 등 TOP2 비중, 총보수, 순자산, SOL AI반도체TOP2플러스와의 차이, TIGER 반도체TOP10과의 차이, IRP 위험자산 분류 여부를 함께 확인해야 합니다.이 글의 상품 정보는 2026년 5월 26일 기준 FunETF, 삼성자산운용 KODEX 공지, FnGuide 지수 설명, SOL ETF 공식 상품 정보를 참..",
-  "og_title": "KODEX AI반도체TOP2플러스 ETF란? SOL·TIGER 반도체 ETF와 비교할 점",
+  "og_description": "이 글이 다루는 판단: KODEX AI반도체TOP2플러스는 지금의 이름과 지금의 지수로 처음부터 운용된 상품이 아닙니다. 상장 이후 기초지수가 두 차례 바뀌었고, 가장 최근 변경은 2026년 5월 13일입니다. 그래서 이 ETF를 볼 때 먼저 정할 것은 매수 여부가 아니라 \"과거 차트를 어디까지 참고할 수 있는가\"입니다. 이 판단이 정리되지 않으면 실제로 존재한 적 없는 포트폴리오의 성과를 근거로 결정하게 됩니다.확인일은 2026년 7월 31일입니다. 본문은 삼성자산운용 KODEX 공식 상품 페이지와 명칭·기초지수 변경 공지, 한국거래소 상장 정보를 기준으로 작성했습니다. 총보수·순자산·구성종목 비중·수익률은 수시로 변하므로 본문에 기재하지 않았습니다. 해당 수치는 운용사 공식 상품 페이지에서 기준일과 ..",
+  "og_title": "KODEX AI반도체TOP2플러스, 지수가 두 번 바뀐 ETF를 어떤 기준으로 판단할까",
   "post_id": "261",
   "published_time": "2026-06-10T01:48:41+09:00",
   "source": "tistory_public_html",
   "status": "published",
-  "title": "KODEX AI반도체TOP2플러스 ETF란? SOL·TIGER 반도체 ETF와 비교할 점",
+  "title": "KODEX AI반도체TOP2플러스, 지수가 두 번 바뀐 ETF를 어떤 기준으로 판단할까",
   "url": "https://mystock-note.tistory.com/261"
 }

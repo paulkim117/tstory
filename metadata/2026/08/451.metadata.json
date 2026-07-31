@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-07-31",
+  "body_html_length": 12142,
+  "canonical_url": "https://mystock-note.tistory.com/451",
+  "content_hash": "e0ed9d1eddaae7cbabec4c9fdaef79d94ef980abac576b01a4683bc2aa317478",
+  "json_ld_count": 2,
+  "meta_description": "EWY(iShares MSCI South Korea ETF)는 미국 증시에 상장된 한국 주식 ETF로, MSCI Korea 25/50 지수를 추종합니다. 여기서 한국 투자자에게 곧바로 이상한 질문이 생깁니다. 한국에 사는 사람이 왜 한국 주식을 미국 거래소에서 달러로 사야 하는가? 결론부터 말하면 대부분의 경우 합리적 이유가 없고, 오히려 세금이 역전됩니다. 일반계좌에서 코스피200 ETF의 매매차익은 비과세인데, EWY로 같은 한국 주식을 담으면 해외주식 양도소득세 22% 과세 대상이 됩니다. 이 글은 EWY의 지수 구조를 해부하고, 코스피200과 무엇이 다른지, 그리고 이 상품이 한국 투자자에게 말이 되는 예외적 상황이 있는지까지 정리합니다.EWY ETF는 어떤 지수를 추종하나요?MSCI Korea ..",
+  "modified_time": "2026-08-01T02:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWY(iShares MSCI South Korea ETF)는 미국 증시에 상장된 한국 주식 ETF로, MSCI Korea 25/50 지수를 추종합니다. 여기서 한국 투자자에게 곧바로 이상한 질문이 생깁니다. 한국에 사는 사람이 왜 한국 주식을 미국 거래소에서 달러로 사야 하는가? 결론부터 말하면 대부분의 경우 합리적 이유가 없고, 오히려 세금이 역전됩니다. 일반계좌에서 코스피200 ETF의 매매차익은 비과세인데, EWY로 같은 한국 주식을 담으면 해외주식 양도소득세 22% 과세 대상이 됩니다. 이 글은 EWY의 지수 구조를 해부하고, 코스피200과 무엇이 다른지, 그리고 이 상품이 한국 투자자에게 말이 되는 예외적 상황이 있는지까지 정리합니다.EWY ETF는 어떤 지수를 추종하나요?MSCI Korea ..",
+  "og_title": "EWY ETF란? 코스피200과 차이, MSCI Korea 25/50 구조와 한국 투자자의 세금 함정",
+  "post_id": "451",
+  "published_time": "2026-08-01T02:41:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWY ETF란? 코스피200과 차이, MSCI Korea 25/50 구조와 한국 투자자의 세금 함정",
+  "url": "https://mystock-note.tistory.com/451"
+}

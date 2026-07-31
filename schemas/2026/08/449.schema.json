@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-01T00:19:00+09:00",
+    "datePublished": "2026-08-01T00:18:13+09:00",
+    "description": "SCHG(Schwab U.S. Large-Cap Growth ETF)는 다우존스 미국 대형성장 지수(Dow Jones U.S. Large-Cap Growth Total Stock Market Index)를 추종하는 미국 상장 성장주 ETF입니다. 같은 '미국 대형 성장주'를 표방하는 VUG와는 지수 제공사·유니버스·성장주 분류 방식이 모두 다르고, 2026년 3월부터는 동일 기초지수를 추종하는 국내 상장 대안도 생겼습니다. 이 글은 SCHG의 구조를 지수 단계에서 해부하고, VUG·SCHV와의 차이, 그리고 미국 직접매수와 국내 대안 중 어느 쪽을 어느 계좌에 담아야 하는지 판단 기준을 정리합니다.SCHG ETF는 어떤 지수를 추종하나요?Dow Jones U.S. Large-Cap Growth Total..",
+    "headline": "SCHG ETF란? VUG·SCHV와 차이, 다우존스 성장주 선별 방식과 국내 대안 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/449",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/449"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Dow Jones U.S. Large-Cap Growth Total Stock Market Index를 추종하는 Schwab Asset Management의 미국 상장 대형 성장주 ETF",
+      "name": "SCHG ETF"
+    },
+    "dateModified": "2026-08-01",
+    "datePublished": "2026-08-01",
+    "description": "SCHG ETF는 다우존스 미국 대형성장 지수를 추종합니다. VUG·SCHV와의 지수 차이, 성장주 선별 방식, 미국 직접매수와 국내 대안의 세금 경로를 비교해 계좌별 선택 기준을 정리했습니다.",
+    "headline": "SCHG ETF란? VUG·SCHV와 차이, 다우존스 성장주 선별 방식과 국내 대안 비교",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/449"
+  }
+]
