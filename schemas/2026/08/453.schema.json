@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-02T01:43:00+09:00",
+    "datePublished": "2026-08-02T01:42:01+09:00",
+    "description": "VYMI(Vanguard International High Dividend Yield ETF)는 미국을 제외한 전 세계 고배당 기업에 투자하는 ETF로, FTSE의 미국 제외 고배당 지수를 추종합니다. 그런데 한국 투자자가 반드시 먼저 알아야 할 사실이 하나 있습니다. 이 지수 안에 한국 주식이 들어 있습니다. FTSE는 2009년부터 한국을 선진국으로 분류하기 때문입니다. MSCI가 한국을 여전히 신흥국으로 두는 것과 정반대입니다. 이 글은 VYMI의 고배당 선별 방식, VYM·VIGI와의 관계, 그리고 지수 제공사에 따라 한국의 위치가 갈리는 구조와 그것이 한국 투자자에게 만드는 자국 중복 문제까지 정리합니다.VYMI ETF는 어떤 지수를 추종하나요?FTSE All-World ex U.S. High ..",
+    "headline": "VYMI ETF란? VYM·VIGI와 차이, 미국 제외 고배당 지수에 한국이 들어 있는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/453",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/453"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "FTSE All-World ex U.S. High Dividend Yield Index를 추종하는 Vanguard의 미국 상장 국제 고배당 ETF",
+      "name": "VYMI ETF"
+    },
+    "dateModified": "2026-08-02",
+    "datePublished": "2026-08-02",
+    "description": "VYMI ETF는 FTSE 미국 제외 고배당 지수를 추종합니다. VYM·VIGI와의 지수·선별 방식 차이, FTSE가 한국을 선진국으로 분류해 한국 주식이 편입되는 구조, 그로 인한 자국 중복 문제를 정리했습니다.",
+    "headline": "VYMI ETF란? VYM·VIGI와 차이, 미국 제외 고배당 지수에 한국이 들어 있는 이유",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/453"
+  }
+]

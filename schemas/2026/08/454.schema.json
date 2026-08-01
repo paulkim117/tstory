@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "퀄리티·잉여현금흐름·저변동성·모멘텀·해자 팩터 ETF의 선택 기준과 계좌별 배치 판단",
+    "name": "팩터 ETF 선택"
+  },
+  "dateModified": "2026-08-02",
+  "datePublished": "2026-08-02",
+  "description": "팩터 ETF 5종을 고르는 기준을 정리했습니다. 왜 팩터를 원하는지, 이미 뭘 갖고 있는지, 어느 계좌에 담을지, 몇 년을 감내할지 4단계로 분기해 QUAL·COWZ·USMV·MTUM·MOAT 중 맞는 것을 찾습니다.",
+  "headline": "팩터 ETF 어떤 걸 골라야 하나? QUAL·COWZ·USMV·MTUM·MOAT 선택 기준과 계좌 배치",
+  "inLanguage": "ko",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/454"
+}

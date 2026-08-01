@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-01",
+  "body_html_length": 14898,
+  "canonical_url": "https://mystock-note.tistory.com/453",
+  "content_hash": "3624799b12042efc2c69f5fe3d9d6c502654f5f48a3ae70d7a91f1591da7ddb5",
+  "json_ld_count": 2,
+  "meta_description": "VYMI(Vanguard International High Dividend Yield ETF)는 미국을 제외한 전 세계 고배당 기업에 투자하는 ETF로, FTSE의 미국 제외 고배당 지수를 추종합니다. 그런데 한국 투자자가 반드시 먼저 알아야 할 사실이 하나 있습니다. 이 지수 안에 한국 주식이 들어 있습니다. FTSE는 2009년부터 한국을 선진국으로 분류하기 때문입니다. MSCI가 한국을 여전히 신흥국으로 두는 것과 정반대입니다. 이 글은 VYMI의 고배당 선별 방식, VYM·VIGI와의 관계, 그리고 지수 제공사에 따라 한국의 위치가 갈리는 구조와 그것이 한국 투자자에게 만드는 자국 중복 문제까지 정리합니다.VYMI ETF는 어떤 지수를 추종하나요?FTSE All-World ex U.S. High ..",
+  "modified_time": "2026-08-02T01:43:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VYMI(Vanguard International High Dividend Yield ETF)는 미국을 제외한 전 세계 고배당 기업에 투자하는 ETF로, FTSE의 미국 제외 고배당 지수를 추종합니다. 그런데 한국 투자자가 반드시 먼저 알아야 할 사실이 하나 있습니다. 이 지수 안에 한국 주식이 들어 있습니다. FTSE는 2009년부터 한국을 선진국으로 분류하기 때문입니다. MSCI가 한국을 여전히 신흥국으로 두는 것과 정반대입니다. 이 글은 VYMI의 고배당 선별 방식, VYM·VIGI와의 관계, 그리고 지수 제공사에 따라 한국의 위치가 갈리는 구조와 그것이 한국 투자자에게 만드는 자국 중복 문제까지 정리합니다.VYMI ETF는 어떤 지수를 추종하나요?FTSE All-World ex U.S. High ..",
+  "og_title": "VYMI ETF란? VYM·VIGI와 차이, 미국 제외 고배당 지수에 한국이 들어 있는 이유",
+  "post_id": "453",
+  "published_time": "2026-08-02T01:42:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VYMI ETF란? VYM·VIGI와 차이, 미국 제외 고배당 지수에 한국이 들어 있는 이유",
+  "url": "https://mystock-note.tistory.com/453"
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-01",
+  "body_html_length": 12854,
+  "canonical_url": "https://mystock-note.tistory.com/454",
+  "content_hash": "646c6dfe2deed94df4116b25dffc36fceaa7f840b3735c7d0e9e2c45e1190b5d",
+  "json_ld_count": 1,
+  "meta_description": "팩터 ETF를 고르려는 분들이 가장 먼저 하는 질문은 보통 \"어느 팩터가 제일 좋은가\"입니다. 이 질문에는 답이 없습니다. 팩터마다 잘되는 국면이 다르고, 그 국면이 언제 올지는 아무도 모르기 때문입니다. 대신 답이 있는 질문은 따로 있습니다. \"내가 지금 팩터 ETF를 사야 하는 상황인가, 산다면 어느 것인가\"입니다. 이 글은 4단계 질문으로 그 답을 찾아가는 라우팅 도구입니다. 순서대로 답하다 보면 QUAL·COWZ·USMV·MTUM·MOAT 중 어디로 갈지, 혹은 아무 데도 가지 말아야 할지가 나옵니다.팩터 ETF를 고르기 전에 무엇부터 확인해야 하나요?순서가 있습니다. 그리고 대부분은 3단계에서 걸러집니다.단계질문여기서 걸리면1왜 팩터를 원하는가?목적이 없으면 사지 않는 것이 정답2이미 무엇을 갖..",
+  "modified_time": "2026-08-02T02:45:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/454\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/454\",\"headline\":\"팩터 ETF 어떤 걸 골라야 하나? QUAL·COWZ·USMV·MTUM·MOAT 선택 기준과 계좌 배치\",\"description\":\"팩터 ETF를 고르려는 분들이 가장 먼저 하는 질문은 보통 \"어느 팩터가 제일 좋은가\"입니다. 이 질문에는 답이 없습니다. 팩터마다 잘되는 국면이 다르고, 그 국면이 언제 올지는 아무도 모르기 때문입니다. 대신 답이 있는 질문은 따로 있습니다. \"내가 지금 팩터 ETF를 사야 하는 상황인가, 산다면 어느 것인가\"입니다. 이 글은 4단계 질문으로 그 답을 찾아가는 라우팅 도구입니다. 순서대로 답하다 보면 QUAL·COWZ·USMV·MTUM·MOAT 중 어디로 갈지, 혹은 아무 데도 가지 말아야 할지가 나옵니다.팩터 ETF를 고르기 전에 무엇부터 확인해야 하나요?순서가 있습니다. 그리고 대부분은 3단계에서 걸러집니다.단계질문여기서 걸리면1왜 팩터를 원하는가?목적이 없으면 사지 않는 것이 정답2이미 무엇을 갖..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-02T02:44:35+09:00\",\"dateModified\":\"2026-08-02T02:45:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "팩터 ETF를 고르려는 분들이 가장 먼저 하는 질문은 보통 \"어느 팩터가 제일 좋은가\"입니다. 이 질문에는 답이 없습니다. 팩터마다 잘되는 국면이 다르고, 그 국면이 언제 올지는 아무도 모르기 때문입니다. 대신 답이 있는 질문은 따로 있습니다. \"내가 지금 팩터 ETF를 사야 하는 상황인가, 산다면 어느 것인가\"입니다. 이 글은 4단계 질문으로 그 답을 찾아가는 라우팅 도구입니다. 순서대로 답하다 보면 QUAL·COWZ·USMV·MTUM·MOAT 중 어디로 갈지, 혹은 아무 데도 가지 말아야 할지가 나옵니다.팩터 ETF를 고르기 전에 무엇부터 확인해야 하나요?순서가 있습니다. 그리고 대부분은 3단계에서 걸러집니다.단계질문여기서 걸리면1왜 팩터를 원하는가?목적이 없으면 사지 않는 것이 정답2이미 무엇을 갖..",
+  "og_title": "팩터 ETF 어떤 걸 골라야 하나? QUAL·COWZ·USMV·MTUM·MOAT 선택 기준과 계좌 배치",
+  "post_id": "454",
+  "published_time": "2026-08-02T02:44:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "팩터 ETF 어떤 걸 골라야 하나? QUAL·COWZ·USMV·MTUM·MOAT 선택 기준과 계좌 배치",
+  "url": "https://mystock-note.tistory.com/454"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "ICE Exchange-Listed Preferred & Hybrid Securities Index를 추종하는 BlackRock iShares의 미국 상장 우선증권·하이브리드 증권 ETF",
+    "name": "PFF ETF"
+  },
+  "dateModified": "2026-08-02",
+  "datePublished": "2026-08-02",
+  "description": "PFF ETF는 ICE 우선증권·하이브리드 지수를 추종합니다. 한국 우선주와 전혀 다른 구조, 발행사의 배당 이연·만기 연장 권리, 금융 섹터 집중, 국내 대안과의 지수·과세 차이를 정리했습니다.",
+  "headline": "PFF ETF란? 미국 우선증권 구조, 배당 이연 위험과 국내 대안 비교",
+  "inLanguage": "ko",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/452"
+}

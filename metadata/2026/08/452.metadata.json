@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-01",
+  "body_html_length": 15676,
+  "canonical_url": "https://mystock-note.tistory.com/452",
+  "content_hash": "dabb5b2c2d63a3c2b34dd95848a943b3b6cd922ececae230fd83b4fd6bc1bb3b",
+  "json_ld_count": 1,
+  "meta_description": "PFF(iShares Preferred and Income Securities ETF)는 미국에 상장된 우선증권·하이브리드 증권에 투자하는 ETF로, ICE Exchange-Listed Preferred & Hybrid Securities Index를 추종합니다. 국내에서 흔히 \"미국 우선주 ETF\"로 번역되는데, 이 번역이 오해의 출발점입니다. 미국의 preferred securities는 삼성전자우 같은 한국 우선주가 아니라, 액면가와 고정 배당이 있고 발행사가 배당을 미루거나 만기를 늘릴 수 있는 채권성 하이브리드 증권입니다. 이 글은 PFF가 실제로 무엇을 담는지, 채권과 무엇이 다른지, 그리고 국내 대안이 PFF와 다른 지수를 추종한다는 점까지 확인 순서대로 정리합니다.PFF ETF는 어떤 지수..",
+  "modified_time": "2026-08-02T00:42:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/452\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/452\",\"headline\":\"PFF ETF란? 미국 우선증권 구조, 배당 이연 위험과 국내 대안 비교\",\"description\":\"PFF(iShares Preferred and Income Securities ETF)는 미국에 상장된 우선증권·하이브리드 증권에 투자하는 ETF로, ICE Exchange-Listed Preferred & Hybrid Securities Index를 추종합니다. 국내에서 흔히 \"미국 우선주 ETF\"로 번역되는데, 이 번역이 오해의 출발점입니다. 미국의 preferred securities는 삼성전자우 같은 한국 우선주가 아니라, 액면가와 고정 배당이 있고 발행사가 배당을 미루거나 만기를 늘릴 수 있는 채권성 하이브리드 증권입니다. 이 글은 PFF가 실제로 무엇을 담는지, 채권과 무엇이 다른지, 그리고 국내 대안이 PFF와 다른 지수를 추종한다는 점까지 확인 순서대로 정리합니다.PFF ETF는 어떤 지수..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-02T00:41:38+09:00\",\"dateModified\":\"2026-08-02T00:42:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "PFF(iShares Preferred and Income Securities ETF)는 미국에 상장된 우선증권·하이브리드 증권에 투자하는 ETF로, ICE Exchange-Listed Preferred & Hybrid Securities Index를 추종합니다. 국내에서 흔히 \"미국 우선주 ETF\"로 번역되는데, 이 번역이 오해의 출발점입니다. 미국의 preferred securities는 삼성전자우 같은 한국 우선주가 아니라, 액면가와 고정 배당이 있고 발행사가 배당을 미루거나 만기를 늘릴 수 있는 채권성 하이브리드 증권입니다. 이 글은 PFF가 실제로 무엇을 담는지, 채권과 무엇이 다른지, 그리고 국내 대안이 PFF와 다른 지수를 추종한다는 점까지 확인 순서대로 정리합니다.PFF ETF는 어떤 지수..",
+  "og_title": "PFF ETF란? 미국 우선증권 구조, 배당 이연 위험과 국내 대안 비교",
+  "post_id": "452",
+  "published_time": "2026-08-02T00:41:38+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PFF ETF란? 미국 우선증권 구조, 배당 이연 위험과 국내 대안 비교",
+  "url": "https://mystock-note.tistory.com/452"
+}
