@@ -1,0 +1,261 @@
+<!--
+source: https://mystock-note.tistory.com/455
+backup_date: 2026-08-02
+post_id: 455
+-->
+<p><strong>MBB(iShares MBS ETF)</strong>는 미국 정부기관이 발행하거나 보증하는 <strong>모기지담보증권(MBS)</strong>에 투자하는 ETF로, Bloomberg U.S. MBS Index를 추종합니다. 그런데 이 상품을 검토하기 전에 먼저 확인해야 할 것이 있습니다. <strong>미국 종합채권 ETF(AGG 등)를 이미 갖고 있다면, 이 자산은 이미 상당 부분 보유 중입니다.</strong> AGG의 기초지수 구성에서 agency MBS가 큰 축을 차지하기 때문입니다. 이 글은 MBB가 담는 자산이 정확히 무엇인지, 왜 이 채권만 <strong>금리가 내려도 덜 오르는지</strong>, 그리고 AGG와의 중복을 어떻게 판단할지 순서대로 정리합니다.</p>
+
+<h2>MBB ETF는 어떤 지수를 추종하나요?</h2>
+
+<p>Bloomberg U.S. MBS Index입니다. SEC 제출서류 기준으로 이 지수는 <strong>미국 정부기관이 발행하거나 보증하는 투자등급 모기지 pass-through 증권</strong>의 성과를 측정합니다. 상장 연도는 2007년입니다.</p>
+
+<table>
+<thead>
+<tr><th>항목</th><th>내용</th><th>출처 확인</th></tr>
+</thead>
+<tbody>
+<tr><td>정식 명칭</td><td>iShares MBS ETF</td><td>운용사 공식</td></tr>
+<tr><td>기초지수</td><td>Bloomberg U.S. MBS Index</td><td>SEC 제출서류</td></tr>
+<tr><td>지수 제공사</td><td>Bloomberg Index Services Limited</td><td>SEC 제출서류</td></tr>
+<tr><td>운용사</td><td>BlackRock (iShares)</td><td>운용사 공식</td></tr>
+<tr><td>담는 자산</td><td>투자등급 모기지 pass-through 증권 (정부기관 발행·보증)</td><td>SEC 제출서류</td></tr>
+<tr><td>발행기관</td><td><strong>Ginnie Mae · Fannie Mae · Freddie Mac</strong></td><td>SEC 제출서류</td></tr>
+<tr><td>지수 구성</td><td>30년·20년·15년 만기 고정금리 pass-through + <strong>하이브리드 ARM</strong></td><td>SEC 제출서류</td></tr>
+<tr><td>투자 규정</td><td>자산 80% 이상 = 지수 구성증권 <strong>+ TBA</strong> / 90% 이상 = 지수 유형 채권</td><td>SEC 제출서류</td></tr>
+<tr><td>상장 연도</td><td>2007년</td><td>운용사 공식</td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 두 가지를 먼저 짚습니다</strong>: 첫째, <strong>'하이브리드 ARM'</strong>이 지수에 들어 있습니다. 고정금리 모기지만 담는 것이 아니라 <strong>변동금리로 전환되는 대출</strong>도 일부 포함됩니다. 둘째, 80% 투자 규정에 <strong>'+ TBA'</strong>가 붙어 있습니다. 이는 실물 MBS가 아닌 <strong>선도 계약</strong>도 규정 충족에 포함된다는 뜻이며, 아래에서 별도로 다룹니다.</p>
+
+<p><strong>[확인 필요]</strong> 이 지수는 과거 <strong>Barclays U.S. MBS Index</strong>라는 이름으로 SEC 문서에 기재돼 있었습니다. Bloomberg가 Barclays의 지수 사업을 인수하면서 명칭이 바뀐 것으로 보이나, <strong>명칭 승계인지 방법론 변경을 수반했는지는 본 글에서 확정하지 못했습니다.</strong> 장기 성과 데이터를 볼 때 이 점을 감안하시기 바랍니다.</p>
+
+
+
+
+
+<h2>모기지담보증권(MBS)은 무엇인가요?</h2>
+
+<p>수많은 주택담보대출을 한데 모아 묶은 뒤, 그 대출자들이 매달 내는 <strong>원리금을 그대로 통과시켜 투자자에게 전달하는 증권</strong>입니다. 이름의 <strong>'pass-through'</strong>가 이 구조를 그대로 표현합니다.</p>
+
+<table>
+<thead>
+<tr><th>단계</th><th>일어나는 일</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>수많은 미국 가구가 은행에서 주택담보대출을 받음</td></tr>
+<tr><td>2</td><td>정부기관(Ginnie Mae·Fannie Mae·Freddie Mac)이 이 대출들을 <strong>풀(pool)</strong>로 묶음</td></tr>
+<tr><td>3</td><td>그 풀을 담보로 증권을 발행 → <strong>MBS</strong></td></tr>
+<tr><td>4</td><td>대출자들이 매달 내는 원금·이자가 <strong>그대로 통과</strong>해 증권 보유자에게 전달됨</td></tr>
+<tr><td>5</td><td>MBB는 이 증권들을 담음</td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 일반 채권과의 결정적 차이</strong>: 국채나 회사채는 <strong>만기까지 이자만 주고 만기에 원금을 한 번에 돌려줍니다.</strong> MBS는 다릅니다. <strong>매달 이자와 함께 원금 일부가 계속 들어옵니다.</strong> 대출자가 원리금을 균등상환하기 때문입니다.</p>
+
+<p>그리고 여기서 이 자산군 고유의 문제가 시작됩니다. <strong>원금이 언제 얼마나 들어올지 아무도 모릅니다.</strong> 대출자들이 언제 집을 팔지, 언제 대출을 갈아탈지에 달려 있기 때문입니다.</p>
+
+
+
+<h2>AGG를 갖고 있는데 MBB를 또 사도 되나요?</h2>
+
+<p><strong>대부분의 독자에게 이 글에서 가장 중요한 질문입니다.</strong></p>
+
+<p>SEC 제출서류는 명시적으로 밝히고 있습니다. <strong>AGG가 추종하는 Bloomberg U.S. Aggregate Bond Index의 구성에서 미국 고정금리 agency MBS가 상당한 축을 차지합니다.</strong> 즉 <strong>AGG를 사면 이미 MBS를 사고 있습니다.</strong></p>
+
+<table>
+<thead>
+<tr><th>보유 상황</th><th>MBB 추가 시 실제로 일어나는 일</th><th>판단</th></tr>
+</thead>
+<tbody>
+<tr><td>AGG(또는 BND)만 보유</td><td>이미 담고 있는 자산의 <strong>비중을 늘리는 것</strong></td><td><strong>신규 노출 아님</strong></td></tr>
+<tr><td>국채 ETF만 보유 (IEF·SHY 등)</td><td>새로운 자산군 추가</td><td>신규 노출 성립</td></tr>
+<tr><td>회사채 ETF만 보유 (LQD 등)</td><td>새로운 자산군 추가</td><td>신규 노출 성립</td></tr>
+<tr><td>AGG + MBB 동시 보유</td><td>종합채권 안의 MBS 비중을 <strong>의도적으로 증폭</strong></td><td><strong>의도한 것이면 OK</strong></td></tr>
+</tbody>
+</table>
+
+<p><strong>해석</strong>: 첫 행이 핵심입니다. <strong>"채권을 분산해야지"라며 AGG에 MBB를 더하는 것은 분산이 아닙니다.</strong> 같은 자산의 비중 확대입니다. 이것이 나쁘다는 뜻이 아니라, <strong>본인이 무엇을 하고 있는지 알아야 한다</strong>는 뜻입니다. MBS 비중을 의도적으로 늘리려는 것이라면 합리적 선택이고, 분산이 목적이었다면 잘못 고른 것입니다.</p>
+
+<p><strong>[확인 필요]</strong> AGG 기초지수 내 agency MBS의 <strong>현재 비중</strong>은 수시로 변동하므로 본 글에 기재하지 않았습니다. 운용사 공식 자료의 섹터 구성에서 직접 확인하시기 바랍니다. AGG의 지수 구조는 <a href="https://mystock-note.tistory.com/397">AGG의 미국 종합채권 지수 구성을 정리한 글</a>에서 다뤘습니다.</p>
+
+<h2>조기상환 위험이란 무엇인가요?</h2>
+
+<p>iShares 공식 자료는 이 상품의 위험을 명시합니다. <strong>"MBS와 CMBS는 조기상환(prepayment) 및 만기연장(extension) 위험의 대상이며, 따라서 다른 채권과는 금리 변화에 다르게 반응한다."</strong></p>
+
+<p>구조는 단순합니다.</p>
+
+<table>
+<thead>
+<tr><th>금리 상황</th><th>대출자의 행동</th><th>MBS 보유자에게 일어나는 일</th><th>이름</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>금리 하락</strong></td><td>더 낮은 금리로 <strong>대출 갈아타기(차환)</strong></td><td>원금이 <strong>예상보다 빨리</strong> 돌아옴 → 낮아진 금리로 재투자해야 함</td><td><strong>조기상환 위험</strong></td></tr>
+<tr><td><strong>금리 상승</strong></td><td>기존 저금리 대출 <strong>그대로 유지</strong></td><td>원금이 <strong>예상보다 늦게</strong> 돌아옴 → 낮은 금리에 돈이 묶임</td><td><strong>만기연장 위험</strong></td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 양쪽 모두 불리합니다</strong>: 이 표를 다시 보십시오. <strong>금리가 내려도 손해, 올라도 손해입니다.</strong></p>
+
+<ul>
+<li><strong>금리가 내리면</strong>: 일반 채권은 가격이 오릅니다. 그런데 MBS는 대출자들이 우르르 차환해버려 원금이 조기에 돌아옵니다. 받은 돈을 다시 굴리려니 <strong>이미 금리가 내려간 뒤</strong>입니다. 즉 좋은 채권을 빼앗기고 나쁜 채권을 사게 됩니다.</li>
+<li><strong>금리가 오르면</strong>: 일반 채권은 가격이 내립니다. MBS는 여기에 더해 <strong>아무도 차환하지 않아 만기가 길어집니다.</strong> 만기가 길어지면 금리 상승에 더 민감해지므로 가격이 <strong>더</strong> 내립니다.</li>
+</ul>
+
+<p><strong>[판단]</strong> 즉 MBS 보유자는 <strong>대출자에게 공짜 옵션을 준 셈</strong>입니다. 대출자는 유리할 때만 차환하고 불리할 때는 가만히 있습니다. 그 옵션의 대가로 MBS는 같은 신용등급의 국채보다 높은 이자를 지급합니다. <strong>MBS의 추가 수익은 공짜가 아니라 이 옵션을 팔아서 받는 돈입니다.</strong></p>
+
+<h2>왜 금리가 내려도 덜 오르나요?</h2>
+
+<p>앞의 구조를 채권 용어로 옮기면 <strong>음의 볼록성(negative convexity)</strong>입니다. 일반 채권과 정반대입니다.</p>
+
+<table>
+<thead>
+<tr><th>구분</th><th>일반 채권 (IEF·LQD 등)</th><th>MBS (MBB)</th></tr>
+</thead>
+<tbody>
+<tr><td>금리 큰 폭 하락 시</td><td>가격 상승폭이 <strong>가속</strong>됨</td><td>가격 상승이 <strong>제한</strong>됨 (차환으로 원금 회수)</td></tr>
+<tr><td>금리 큰 폭 상승 시</td><td>가격 하락폭이 <strong>둔화</strong>됨</td><td>가격 하락이 <strong>가속</strong>됨 (만기 연장)</td></tr>
+<tr><td>비대칭 방향</td><td><strong>투자자에게 유리</strong></td><td><strong>투자자에게 불리</strong></td></tr>
+<tr><td>보유자가 가진 것</td><td>—</td><td><strong>매도한 옵션</strong> (대출자의 차환권)</td></tr>
+<tr><td>대가</td><td>—</td><td>같은 신용등급 대비 <strong>높은 이자</strong></td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 통념 정정</strong>: "채권은 금리가 내리면 오른다"는 명제는 MBS에서 <strong>절반만 성립합니다.</strong> 방향은 맞지만 <strong>폭이 잘립니다.</strong> 따라서 금리 인하를 기대하고 채권 가격 상승을 노린다면 <strong>MBS는 논리적으로 맞지 않는 도구</strong>입니다. 그 목적에는 조기상환이 없는 국채가 정합적입니다. 국채의 금리 민감도 구조는 <a href="https://mystock-note.tistory.com/416">IEF의 중기 국채 구조를 정리한 글</a>에서 다뤘습니다.</p>
+
+<h2>한국 주택담보대출과 무엇이 다른가요?</h2>
+
+<p>조기상환 위험이 왜 그렇게 큰지는 <strong>한국과 미국의 주택담보대출 관행 차이</strong>를 보면 직관적으로 이해됩니다.</p>
+
+<table>
+<thead>
+<tr><th>구분</th><th>한국 (일반적 관행)</th><th>미국 (일반적 관행)</th></tr>
+</thead>
+<tbody>
+<tr><td>대표 상품</td><td>변동금리 비중이 큼 / 고정 기간 제한적</td><td><strong>30년 고정금리</strong>가 표준</td></tr>
+<tr><td>중도상환</td><td><strong>중도상환수수료</strong> 존재</td><td>수수료 없이 자유로운 경우가 일반적</td></tr>
+<tr><td>차환(갈아타기)</td><td>비용·절차 부담</td><td><strong>금리 내리면 광범위하게 발생</strong></td></tr>
+<tr><td>결과</td><td>조기상환이 제한적</td><td><strong>조기상환이 대규모·집단적으로 발생</strong></td></tr>
+</tbody>
+</table>
+
+<p><strong>해석</strong>: 미국에서는 금리가 내리면 <strong>수백만 가구가 동시에 대출을 갈아탑니다.</strong> 위약금이 없으니 갈아타지 않을 이유가 없습니다. 이 집단적 행동이 MBS 보유자에게 원금을 한꺼번에 되돌려주는 것입니다. <strong>한국의 중도상환수수료 문화에 익숙하면 이 위험의 크기를 과소평가하기 쉽습니다.</strong></p>
+
+<p><strong>[확인 필요]</strong> 위 표의 미국 모기지 관행(30년 고정 표준, 차환 위약금 부재)은 일반적으로 알려진 사항이나 본 글에서 1차 출처로 대조하지 못했습니다. 또한 한국의 중도상환수수료 규정은 상품·시기별로 다르며 정책 변경 대상입니다. 구조 이해를 위한 대비이며 정확한 제도는 별도 확인이 필요합니다.</p>
+
+<h2>정부기관이 보증하면 안전한가요?</h2>
+
+<p><strong>신용위험은 낮지만 세 기관의 성격이 같지 않습니다.</strong></p>
+
+<table>
+<thead>
+<tr><th>기관</th><th>정식 명칭</th><th>성격</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Ginnie Mae</strong></td><td>Government National Mortgage Association</td><td>미국 <strong>정부 기관</strong></td></tr>
+<tr><td><strong>Fannie Mae</strong></td><td>Federal National Mortgage Association</td><td>정부지원기업(GSE)</td></tr>
+<tr><td><strong>Freddie Mac</strong></td><td>Federal Home Loan Mortgage Corporation</td><td>정부지원기업(GSE)</td></tr>
+</tbody>
+</table>
+
+<p><strong>[확인 필요 — 중요]</strong> 세 기관의 <strong>보증 강도가 동일한지</strong>는 본 글에서 1차 출처로 확정하지 못했습니다. 일반적으로 Ginnie Mae 보증은 미국 정부의 완전한 신뢰와 신용(full faith and credit)에 근거하는 반면, Fannie Mae·Freddie Mac은 정부지원기업으로서 명시적 정부 보증이 없다고 알려져 있으나, <strong>본 글은 이를 사실로 단정하지 않습니다.</strong> MBB의 실제 발행기관별 구성과 각 보증의 법적 성격은 SEC 투자설명서 원문과 각 기관 공시로 확인하시기 바랍니다.</p>
+
+<p><strong>해석 [판단]</strong>: 다만 확실한 것이 하나 있습니다. <strong>정부기관 보증은 신용위험(대출자가 안 갚는 위험)을 낮출 뿐, 조기상환 위험과는 무관합니다.</strong> 보증기관이 대신 갚아주는 상황도 결국 <strong>원금 조기 회수</strong>입니다. 즉 "정부가 보증하니 안전하다"는 이 상품의 <strong>주된 위험을 전혀 커버하지 못하는 문장</strong>입니다.</p>
+
+<h2>MBB는 실물 MBS를 갖고 있나요?</h2>
+
+<p><strong>상당 부분 선도 계약일 수 있습니다.</strong> iShares 공식 자료가 이를 명시합니다.</p>
+
+<p>공식 문서는 이렇게 밝힙니다. <strong>"고정금리 모기지 pass-through 증권의 거래 대부분은 TBA(to-be-announced) 거래를 통해 이뤄지며, 펀드는 정기적으로 TBA 계약을 체결한다."</strong></p>
+
+<table>
+<thead>
+<tr><th>항목</th><th>내용</th></tr>
+</thead>
+<tbody>
+<tr><td>TBA란</td><td><strong>인도할 모기지 풀을 결제 며칠 전까지 특정하지 않는</strong> 표준화된 선도 계약</td></tr>
+<tr><td>80% 규정 계산</td><td>지수 구성증권 <strong>+ 경제적 특성이 실질적으로 동일한 TBA</strong>를 <strong>합산</strong></td></tr>
+<tr><td>결제 대기 중 자금</td><td>고품질 유동성 단기물에 투자 — <strong>BFA(운용사) 계열 MMF 포함</strong></td></tr>
+<tr><td>추가 비용</td><td>MMF에 투자 시 <strong>해당 MMF의 수수료를 프로라타로 추가 부담</strong> (SEC 명시)</td></tr>
+<tr><td>실물 취득</td><td>표준화 선도계약 외의 방법으로도 모기지 풀 취득 가능</td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 확인해야 할 두 가지</strong>:</p>
+
+<ul>
+<li><strong>"무엇을 살지 모른 채 사는 계약"</strong>: TBA는 "30년 만기 Fannie Mae 5% 쿠폰 MBS를 다음 달에 이 가격에 사겠다"고 약속하되, <strong>구체적으로 어느 대출 풀인지는 결제 직전에야 정해집니다.</strong> 이는 모기지 시장의 표준 관행이며 유동성을 만드는 장치입니다. 오류나 편법이 아닙니다.</li>
+<li><strong>수수료가 두 번 붙을 수 있음</strong>: SEC 문서는 결제 대기 자금을 <strong>운용사 계열 MMF</strong>에 넣을 수 있고, 그 경우 <strong>MMF 수수료를 펀드 자체 비용에 더해 부담</strong>한다고 명시합니다. 표시된 총보수 외에 발생하는 비용입니다.</li>
+</ul>
+
+<p><strong>[확인 필요]</strong> TBA가 펀드 자산에서 차지하는 실제 비중은 본 글에서 확인하지 않았습니다. 운용사 보유종목 자료에서 직접 확인하시기 바랍니다.</p>
+
+<h2>국내에 대안이 있나요?</h2>
+
+<p><strong>[정보부족]</strong> 본 글 작성 시점에 <strong>미국 MBS를 추종하는 국내 상장 ETF를 확인하지 못했습니다.</strong></p>
+
+<p>국내 상장 미국 채권 라인업에서 확인된 유형은 다음과 같습니다.</p>
+
+<table>
+<thead>
+<tr><th>유형</th><th>국내 상장 확인</th><th>MBB 대체 여부</th></tr>
+</thead>
+<tbody>
+<tr><td>미국 초단기 국채</td><td>확인됨 (SGOV와 동일 지수 상품 존재)</td><td>불가 — 국채</td></tr>
+<tr><td>미국 장기 국채</td><td>확인됨</td><td>불가 — 국채</td></tr>
+<tr><td>미국 투자등급 회사채</td><td>확인됨 (액티브형)</td><td>불가 — 회사채</td></tr>
+<tr><td>미국 하이일드</td><td>확인됨 (액티브형)</td><td>불가 — 하이일드</td></tr>
+<tr><td>미국 종합채권</td><td><strong>[확인 필요]</strong> — 아래 참조</td><td><strong>부분 포함 가능</strong></td></tr>
+<tr><td><strong>미국 MBS 단독</strong></td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+</tbody>
+</table>
+
+<p><strong>중요 — 부재로 단정하지 않습니다.</strong> 확인하지 못했을 뿐입니다. 한국거래소(KRX) 정보데이터시스템 및 각 운용사 공식 자료에서 직접 확인하시기 바랍니다. 국내 대안 존재 여부를 판단하는 절차는 <a href="https://mystock-note.tistory.com/440">미국 ETF의 국내 대안 가용성을 판단하는 기준을 정리한 글</a>에 정리돼 있습니다.</p>
+
+<p><strong>[확인 필요 — 별도로 중요]</strong> 국내 상장 "미국 종합채권" 상품이 AGG와 <strong>동일한 자산 범위를 담는지</strong>는 반드시 개별 확인이 필요합니다. 기초지수가 다르거나 <strong>증권화 채권(MBS 등)을 제외</strong>하는 경우, <strong>"국내에서 AGG를 샀다"고 생각했는데 MBS 부분이 통째로 빠져 있을 수 있습니다.</strong> 본 글은 이를 사실로 단정하지 않으며, 해당 상품의 투자설명서에서 <strong>기초지수 구성과 제외 자산을 직접 대조</strong>하실 것을 권합니다. 관련 논점은 <a href="https://mystock-note.tistory.com/397">AGG의 지수 구성을 정리한 글</a>에서 다뤘습니다.</p>
+
+<p><strong>[판단] 국내 대안이 드문 구조적 이유</strong>: MBS는 개별 종목 단위 거래가 어렵고 TBA 시장 접근이 필요한 자산입니다. 국내 운용사가 실물로 복제하기에는 인프라 장벽이 높습니다. 다만 이는 추정이며 상장 여부는 직접 확인해야 합니다.</p>
+
+<h2>세금은 어떻게 되나요?</h2>
+
+<table>
+<thead>
+<tr><th>구분</th><th>MBB (미국 상장)</th><th>비고</th></tr>
+</thead>
+<tbody>
+<tr><td>매매차익 세목</td><td>양도소득세 22% (지방세 포함)</td><td>해외주식 취급</td></tr>
+<tr><td>연간 공제</td><td>250만 원 기본공제</td><td>연 단위 리셋</td></tr>
+<tr><td>과세 방식</td><td><strong>분리과세</strong></td><td>종합소득에 합산하지 않음</td></tr>
+<tr><td>손익통산</td><td>해외주식 간 통산 가능</td><td>—</td></tr>
+<tr><td>분배금</td><td>미국 원천징수 후 국내 처리 — <strong>[확인 필요]</strong></td><td>월 분배 구조</td></tr>
+<tr><td>연금·IRP·ISA</td><td><strong>불가</strong></td><td>국내 상장 상품만 편입 가능</td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 — 이 상품 특유의 논점</strong>: MBB는 <strong>월 분배 구조</strong>이므로 보유하는 동안 <strong>매달 과세 사건이 발생</strong>합니다. 성장형 ETF가 매도 시점에 한 번 정산되는 것과 다릅니다. 여기에 더해 MBS 분배금은 <strong>이자 부분과 원금 상환 부분이 섞여</strong> 있는데, 세법상 이를 어떻게 구분·처리하는지는 별도 확인이 필요합니다.</p>
+
+<p><strong>[확인 필요]</strong> 미국 상장 채권형 ETF 분배금의 미국 원천징수 및 국내 처리 방식, 특히 <strong>원금 상환분(return of capital)이 포함된 경우의 취급</strong>은 본 글에서 확정하지 못했습니다. 반드시 세무 전문가 및 증권사 실무 안내로 확인하시기 바랍니다. 상장지별 과세 경로의 일반 프레임은 <a href="https://mystock-note.tistory.com/400">미국 직접 매수와 국내 상장 상품의 과세 경로를 비교한 글</a>에 정리돼 있습니다.</p>
+
+<h2>연금·IRP·ISA에서는 어떻게 되나요?</h2>
+
+<table>
+<thead>
+<tr><th>계좌</th><th>MBB</th><th>대안</th><th>판단</th></tr>
+</thead>
+<tbody>
+<tr><td>일반 위탁계좌</td><td>가능</td><td>—</td><td>월 분배 → 매달 과세 사건</td></tr>
+<tr><td>연금저축펀드</td><td>불가</td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+<tr><td>IRP</td><td>불가</td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+<tr><td>ISA</td><td>불가</td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+</tbody>
+</table>
+
+<p><strong>해석 [판단]</strong>: MBS는 <strong>원래 과세되는 인컴 자산</strong>이므로 연금계좌 배정의 이연 효익이 큰 부류입니다. 그런데 <strong>단독 노출 경로가 확인되지 않습니다.</strong> 현실적 접근은 국내 상장 종합채권 상품을 통해 <strong>간접적으로</strong> 담는 것인데, 앞서 짚었듯 해당 상품이 증권화 채권을 포함하는지부터 확인해야 합니다. 연금계좌 상품 배치 순서는 <a href="https://mystock-note.tistory.com/329">연금계좌에 어떤 ETF를 먼저 담아야 하는지 배치 순서를 정리한 글</a>에서, 채권 자산의 조합 판단은 <a href="https://mystock-note.tistory.com/444">채권 ETF를 어떻게 조합할지 정리한 글</a>에서 다뤘습니다.</p>
+
+<h2>MBB는 어떤 순서로 확인해야 하나요?</h2>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:20px; background:#fafafa; margin:24px 0;">
+  <p style="margin:0 0 16px 0; font-weight:bold; font-size:1.05em;">미국 MBS ETF 확인 우선순위</p>
+
+  <p style="margin:0 0 4px 0;"><strong>1. AGG·BND 중복 점검</strong></p>
+  <div style="background:#e8e8e8; border-radius:4px; height:12px; margin-bottom:4px;"><div style="background:#2c5f8d; width:100%; height:12px; border-radius:4px;">

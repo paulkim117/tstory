@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-03T00:44:00+09:00",
+    "datePublished": "2026-08-03T00:43:10+09:00",
+    "description": "MBB(iShares MBS ETF)는 미국 정부기관이 발행하거나 보증하는 모기지담보증권(MBS)에 투자하는 ETF로, Bloomberg U.S. MBS Index를 추종합니다. 그런데 이 상품을 검토하기 전에 먼저 확인해야 할 것이 있습니다. 미국 종합채권 ETF(AGG 등)를 이미 갖고 있다면, 이 자산은 이미 상당 부분 보유 중입니다. AGG의 기초지수 구성에서 agency MBS가 큰 축을 차지하기 때문입니다. 이 글은 MBB가 담는 자산이 정확히 무엇인지, 왜 이 채권만 금리가 내려도 덜 오르는지, 그리고 AGG와의 중복을 어떻게 판단할지 순서대로 정리합니다.MBB ETF는 어떤 지수를 추종하나요?Bloomberg U.S. MBS Index입니다. SEC 제출서류 기준으로 이 지수는 미국 정부기..",
+    "headline": "MBB ETF란? AGG와 중복 관계, 모기지채권의 조기상환 위험과 국내 대안",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/455",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/455"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Bloomberg U.S. MBS Index를 추종하는 BlackRock iShares의 미국 상장 모기지담보증권 ETF",
+      "name": "MBB ETF"
+    },
+    "dateModified": "2026-08-03",
+    "datePublished": "2026-08-03",
+    "description": "MBB ETF는 Bloomberg 미국 MBS 지수를 추종합니다. AGG에 이미 포함된 자산이라는 중복 관계, 금리가 내려도 덜 오르는 조기상환 구조, TBA 거래 방식과 국내 대안 확인 결과를 정리했습니다.",
+    "headline": "MBB ETF란? AGG와 중복 관계, 모기지채권의 조기상환 위험과 국내 대안",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/455"
+  }
+]

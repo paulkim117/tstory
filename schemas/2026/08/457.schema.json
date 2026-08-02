@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-03T02:11:01+09:00",
+    "datePublished": "2026-08-03T02:10:04+09:00",
+    "description": "연금저축이나 IRP에 미국 배당 ETF를 담으면 배당금에 세금이 안 붙고 100% 재투자된다고 알고 계셨다면, 그 정보는 2025년 이전 기준입니다. 2025년 초 펀드의 외국납부세액 과세방법이 개편되면서 국세청 선(先)환급 제도가 폐지됐습니다. 이제 해외 ETF 배당금은 미국에서 15%가 빠진 금액으로 연금계좌에 들어오고, 그렇게 줄어든 돈이 굴러간 뒤 연금 수령 시점에 연금소득세 3.3~5.5%가 또 부과됩니다. 반면 일반계좌에서는 오히려 이중과세가 발생하지 않습니다. 이 글은 무엇이 어떻게 바뀌었고, 그래서 연금계좌에 무엇을 담아야 하는지 정리합니다.2025년에 무엇이 바뀌었나요?핵심은 하나입니다. 국세청의 선(先)환급 제도가 사라졌습니다.구분개편 전개편 후 (현재)구조선(先) 환급, 후(後) 원천..",
+    "headline": "연금계좌 미국 배당 ETF, 과세이연 100%가 아니다 — 2025년 선환급 폐지 이후 달라진 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/457",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/457"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "2025년 국세청 선환급 폐지에 따른 국내 상장 해외 ETF 배당금 과세 구조 변화와 연금·ISA 계좌에 대한 영향",
+      "name": "펀드 외국납부세액 과세방법 개편"
+    },
+    "dateModified": "2026-08-03",
+    "datePublished": "2026-08-03",
+    "description": "2025년 펀드 외국납부세액 개편으로 국세청 선환급이 폐지됐습니다. 연금·ISA에서 해외 ETF 배당금은 미국 세금 15%가 빠진 채 들어오고, 수령 시 연금소득세가 또 붙습니다. 무엇이 달라졌는지 정리했습니다.",
+    "headline": "연금계좌 미국 배당 ETF, 과세이연 100%가 아니다 — 2025년 선환급 폐지 이후 달라진 것",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/457"
+  }
+]
