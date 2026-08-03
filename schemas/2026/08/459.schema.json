@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-04T01:11:00+09:00",
+    "datePublished": "2026-08-04T01:10:57+09:00",
+    "description": "SMH·SOXX·SOXQ는 모두 미국 상장 반도체 기업에 투자하지만, 지수를 만든 회사가 각각 다릅니다. SMH는 MVIS, SOXX는 ICE, SOXQ는 PHLX(필라델피아) 지수를 추종합니다. 담는 종목은 상당 부분 겹치는데, 비중 규칙이 달라 결과가 갈립니다. 여기에 국내 투자자가 반드시 알아야 할 사실이 하나 더 있습니다. SMH의 이름에 있는 'US Listed'는 '미국 기업'이라는 뜻이 아닙니다. 대만의 TSMC와 네덜란드의 ASML이 들어 있습니다. 이 글은 세 지수의 규칙 차이가 무엇을 바꾸는지, 그리고 국내 반도체 ETF와는 왜 완전히 다른 물건인지 정리합니다.세 상품은 무엇이 다른가요?지수 제공사가 다르고, 그 결과 비중 규칙이 다릅니다.구분SMHSOXXSOXQ정식 명칭VanEck S..",
+    "headline": "미국 반도체 ETF 비교 — SMH·SOXX·SOXQ는 무엇이 다른가, 지수사가 가르는 집중도",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/459",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/459"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "MVIS·ICE·PHLX 지수를 각각 추종하는 SMH·SOXX·SOXQ의 종목 수, 비중 상한, 편입 범위 구조 비교",
+      "name": "미국 반도체 ETF 비교"
+    },
+    "dateModified": "2026-08-04",
+    "datePublished": "2026-08-04",
+    "description": "SMH·SOXX·SOXQ는 같은 미국 반도체를 담지만 지수 제공사가 달라 종목 수와 집중도가 갈립니다. MVIS·ICE·PHLX 지수의 캡핑 규칙 차이, 'US Listed'의 진짜 의미, 국내 상품과의 구조 차이를 정리했습니다.",
+    "headline": "미국 반도체 ETF 비교 — SMH·SOXX·SOXQ는 무엇이 다른가, 지수사가 가르는 집중도",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/459"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-03",
+  "body_html_length": 13126,
+  "canonical_url": "https://mystock-note.tistory.com/459",
+  "content_hash": "4ca21aa0809deea8ff14e227a07ca90d8454ae17096d02b0c49f4073cc4c29e1",
+  "json_ld_count": 2,
+  "meta_description": "SMH·SOXX·SOXQ는 모두 미국 상장 반도체 기업에 투자하지만, 지수를 만든 회사가 각각 다릅니다. SMH는 MVIS, SOXX는 ICE, SOXQ는 PHLX(필라델피아) 지수를 추종합니다. 담는 종목은 상당 부분 겹치는데, 비중 규칙이 달라 결과가 갈립니다. 여기에 국내 투자자가 반드시 알아야 할 사실이 하나 더 있습니다. SMH의 이름에 있는 'US Listed'는 '미국 기업'이라는 뜻이 아닙니다. 대만의 TSMC와 네덜란드의 ASML이 들어 있습니다. 이 글은 세 지수의 규칙 차이가 무엇을 바꾸는지, 그리고 국내 반도체 ETF와는 왜 완전히 다른 물건인지 정리합니다.세 상품은 무엇이 다른가요?지수 제공사가 다르고, 그 결과 비중 규칙이 다릅니다.구분SMHSOXXSOXQ정식 명칭VanEck S..",
+  "modified_time": "2026-08-04T01:11:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SMH·SOXX·SOXQ는 모두 미국 상장 반도체 기업에 투자하지만, 지수를 만든 회사가 각각 다릅니다. SMH는 MVIS, SOXX는 ICE, SOXQ는 PHLX(필라델피아) 지수를 추종합니다. 담는 종목은 상당 부분 겹치는데, 비중 규칙이 달라 결과가 갈립니다. 여기에 국내 투자자가 반드시 알아야 할 사실이 하나 더 있습니다. SMH의 이름에 있는 'US Listed'는 '미국 기업'이라는 뜻이 아닙니다. 대만의 TSMC와 네덜란드의 ASML이 들어 있습니다. 이 글은 세 지수의 규칙 차이가 무엇을 바꾸는지, 그리고 국내 반도체 ETF와는 왜 완전히 다른 물건인지 정리합니다.세 상품은 무엇이 다른가요?지수 제공사가 다르고, 그 결과 비중 규칙이 다릅니다.구분SMHSOXXSOXQ정식 명칭VanEck S..",
+  "og_title": "미국 반도체 ETF 비교 — SMH·SOXX·SOXQ는 무엇이 다른가, 지수사가 가르는 집중도",
+  "post_id": "459",
+  "published_time": "2026-08-04T01:10:57+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 반도체 ETF 비교 — SMH·SOXX·SOXQ는 무엇이 다른가, 지수사가 가르는 집중도",
+  "url": "https://mystock-note.tistory.com/459"
+}

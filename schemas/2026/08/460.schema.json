@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-04T02:12:00+09:00",
+    "datePublished": "2026-08-04T02:11:27+09:00",
+    "description": "배당 ETF로 인컴을 늘리는 계획에는 대부분 세금 계산이 들어갑니다. 그런데 세금보다 큰 것이 따로 있을 수 있습니다. 건강보험료입니다. 배당소득이 일정 선을 넘으면 피부양자 자격이 사라지고 지역가입자로 전환돼, 그동안 한 푼도 내지 않던 건보료가 매달 나가기 시작합니다. 여기에 대부분이 모르는 사실이 하나 있습니다. 양도소득은 건보료 산정 대상에서 아예 빠집니다. 즉 미국 직접투자 매매차익은 건보료와 무관하고, 국내 상장 해외 ETF 매매차익은 배당소득이라 건보료 대상입니다. 같은 자산인데 상장지 하나가 건보료를 가릅니다. 이 글은 그 경계선들을 정리합니다.왜 세금이 아니라 건보료를 봐야 하나요?세금은 소득의 일부만 가져가지만, 건보료는 자격 자체를 바꾸기 때문입니다.구분세금건강보험료부과 방식소득에 비..",
+    "headline": "월배당 ETF와 건강보험료 — 2,000만 원 경계, 그리고 양도소득이 빠지는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/460",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/460"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "ETF 분배금·매매차익이 건강보험 피부양자 자격과 소득월액보험료에 미치는 영향 및 상장지별 차이",
+      "name": "금융소득과 건강보험료"
+    },
+    "dateModified": "2026-08-04",
+    "datePublished": "2026-08-04",
+    "description": "금융소득이 늘면 세금보다 건강보험료가 더 큰 부담이 될 수 있습니다. 피부양자 탈락 3가지 기준, 양도소득이 건보료 산정에서 제외되는 구조, 그리고 상장지 선택이 건보료를 가르는 이유를 정리했습니다.",
+    "headline": "월배당 ETF와 건강보험료 — 2,000만 원 경계, 그리고 양도소득이 빠지는 이유",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/460"
+  }
+]

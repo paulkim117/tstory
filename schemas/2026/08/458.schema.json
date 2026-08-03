@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "LBMA Silver Price를 기준으로 실물 은을 보유하는 BlackRock iShares의 미국 상장 그랜터 트러스트",
+    "name": "SLV"
+  },
+  "dateModified": "2026-08-04",
+  "datePublished": "2026-08-04",
+  "description": "SLV는 지수가 아니라 LBMA 은 가격을 추종하는 실물 신탁입니다. 은의 산업 수요가 만드는 금과의 차이, 1940년법 미등록 구조, 그리고 국내 은선물 ETF와의 실물·선물 격차를 정리했습니다.",
+  "headline": "SLV ETF란? 은이 금과 다른 이유, 실물 신탁 구조와 국내 은선물 ETF의 결정적 차이",
+  "inLanguage": "ko",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/458"
+}
