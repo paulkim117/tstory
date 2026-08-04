@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-04",
+  "body_html_length": 14113,
+  "canonical_url": "https://mystock-note.tistory.com/461",
+  "content_hash": "e5ed22acb76ee986f40702859b58d3ade7685d7905da7e1c42a3a8af9b25922e",
+  "json_ld_count": 1,
+  "meta_description": "ANGL(VanEck Fallen Angel High Yield Bond ETF)은 하이일드 채권 중에서도 \"원래는 투자등급이었다가 떨어진 것\"만 담습니다. 처음부터 하이일드로 발행된 채권은 담지 않습니다. 이 선별 규칙이 만드는 구조가 핵심입니다. 많은 기관투자자는 위임 규정상 투자등급만 보유할 수 있어, 채권이 강등되는 순간 팔아야 합니다. 회사가 더 나빠져서가 아니라 규정 때문에 팝니다. ANGL은 바로 그 매도 압력이 발생하는 시점에 사도록 설계됐습니다. 다만 반드시 먼저 확인할 것이 있습니다. HYG를 갖고 있다면 이 채권들은 이미 보유 중입니다. ANGL의 지수는 HYG 모집단의 부분집합이기 때문입니다.ANGL은 어떤 지수를 추종하나요?ICE US Fallen Angel High Yield 1..",
+  "modified_time": "2026-08-05T00:39:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/461\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/461\",\"headline\":\"ANGL ETF란? 추락천사 채권, 강등이 만드는 강제 매도와 HYG와의 결정적 차이\",\"description\":\"ANGL(VanEck Fallen Angel High Yield Bond ETF)은 하이일드 채권 중에서도 \"원래는 투자등급이었다가 떨어진 것\"만 담습니다. 처음부터 하이일드로 발행된 채권은 담지 않습니다. 이 선별 규칙이 만드는 구조가 핵심입니다. 많은 기관투자자는 위임 규정상 투자등급만 보유할 수 있어, 채권이 강등되는 순간 팔아야 합니다. 회사가 더 나빠져서가 아니라 규정 때문에 팝니다. ANGL은 바로 그 매도 압력이 발생하는 시점에 사도록 설계됐습니다. 다만 반드시 먼저 확인할 것이 있습니다. HYG를 갖고 있다면 이 채권들은 이미 보유 중입니다. ANGL의 지수는 HYG 모집단의 부분집합이기 때문입니다.ANGL은 어떤 지수를 추종하나요?ICE US Fallen Angel High Yield 1..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-05T00:38:06+09:00\",\"dateModified\":\"2026-08-05T00:39:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "ANGL(VanEck Fallen Angel High Yield Bond ETF)은 하이일드 채권 중에서도 \"원래는 투자등급이었다가 떨어진 것\"만 담습니다. 처음부터 하이일드로 발행된 채권은 담지 않습니다. 이 선별 규칙이 만드는 구조가 핵심입니다. 많은 기관투자자는 위임 규정상 투자등급만 보유할 수 있어, 채권이 강등되는 순간 팔아야 합니다. 회사가 더 나빠져서가 아니라 규정 때문에 팝니다. ANGL은 바로 그 매도 압력이 발생하는 시점에 사도록 설계됐습니다. 다만 반드시 먼저 확인할 것이 있습니다. HYG를 갖고 있다면 이 채권들은 이미 보유 중입니다. ANGL의 지수는 HYG 모집단의 부분집합이기 때문입니다.ANGL은 어떤 지수를 추종하나요?ICE US Fallen Angel High Yield 1..",
+  "og_title": "ANGL ETF란? 추락천사 채권, 강등이 만드는 강제 매도와 HYG와의 결정적 차이",
+  "post_id": "461",
+  "published_time": "2026-08-05T00:38:06+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ANGL ETF란? 추락천사 채권, 강등이 만드는 강제 매도와 HYG와의 결정적 차이",
+  "url": "https://mystock-note.tistory.com/461"
+}

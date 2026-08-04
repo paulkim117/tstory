@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-05T01:39:00+09:00",
+    "datePublished": "2026-08-05T01:38:28+09:00",
+    "description": "BKLN(Invesco Senior Loan ETF)은 채권이 아니라 대출(loan)을 담습니다. 은행이 기업에 빌려준 돈을 묶어 만든 상품입니다. 그리고 지금까지 다룬 채권들과 정반대로 작동합니다. 운용사 공식 설명 기준으로 이 대출들의 이자는 통상 30~90일마다 재설정되며 금리와 함께 오릅니다. 즉 금리가 오르면 받는 이자도 오릅니다. 여기에 선순위 담보(first-lien)라 차주가 부도나도 가장 먼저 돌려받습니다. 좋아 보입니다. 그런데 대부분이 투자등급 미만이고, 유동성을 확보하려고 설계한 구조가 스스로 역설을 만들고 있습니다. 이 글은 그 교환 관계를 정리합니다.BKLN은 어떤 지수를 추종하나요?Morningstar LSTA US Leveraged Loan 100 Index입니다. 운용사인 ..",
+    "headline": "BKLN ETF란? 뱅크론은 왜 금리가 올라야 유리한가, 선순위 담보와 유동성의 대가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/462",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/462"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Morningstar LSTA US Leveraged Loan 100 Index를 추종하는 Invesco의 미국 상장 선순위 변동금리 대출 ETF",
+      "name": "BKLN ETF"
+    },
+    "dateModified": "2026-08-05",
+    "datePublished": "2026-08-05",
+    "description": "BKLN은 100건의 선순위담보 대출을 담습니다. 30~90일마다 이자가 재설정되는 변동금리 구조, 하이일드인데 청산순위는 회사채보다 위인 이유, 그리고 유동성을 위해 설계된 지수가 만든 역설을 정리했습니다.",
+    "headline": "BKLN ETF란? 뱅크론은 왜 금리가 올라야 유리한가, 선순위 담보와 유동성의 대가",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/462"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "ICE US Fallen Angel High Yield 10% Constrained Index를 추종하는 VanEck의 미국 상장 추락천사 하이일드 채권 ETF",
+    "name": "ANGL ETF"
+  },
+  "dateModified": "2026-08-05",
+  "datePublished": "2026-08-05",
+  "description": "ANGL은 투자등급으로 발행됐다가 하이일드로 강등된 채권만 담습니다. 기관의 강제 매도가 만드는 편입 구조, HYG 모집단의 부분집합이라는 중복 관계, 그리고 섹터 집중이라는 대가를 정리했습니다.",
+  "headline": "ANGL ETF란? 추락천사 채권, 강등이 만드는 강제 매도와 HYG와의 결정적 차이",
+  "inLanguage": "ko",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/461"
+}

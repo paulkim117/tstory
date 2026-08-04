@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-04",
+  "body_html_length": 13214,
+  "canonical_url": "https://mystock-note.tistory.com/462",
+  "content_hash": "332af7a6b26a24177c6de08f3d6fa9f5eb84d2c0b6c5f5f2de96c44bac0abdde",
+  "json_ld_count": 2,
+  "meta_description": "BKLN(Invesco Senior Loan ETF)은 채권이 아니라 대출(loan)을 담습니다. 은행이 기업에 빌려준 돈을 묶어 만든 상품입니다. 그리고 지금까지 다룬 채권들과 정반대로 작동합니다. 운용사 공식 설명 기준으로 이 대출들의 이자는 통상 30~90일마다 재설정되며 금리와 함께 오릅니다. 즉 금리가 오르면 받는 이자도 오릅니다. 여기에 선순위 담보(first-lien)라 차주가 부도나도 가장 먼저 돌려받습니다. 좋아 보입니다. 그런데 대부분이 투자등급 미만이고, 유동성을 확보하려고 설계한 구조가 스스로 역설을 만들고 있습니다. 이 글은 그 교환 관계를 정리합니다.BKLN은 어떤 지수를 추종하나요?Morningstar LSTA US Leveraged Loan 100 Index입니다. 운용사인 ..",
+  "modified_time": "2026-08-05T01:39:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "BKLN(Invesco Senior Loan ETF)은 채권이 아니라 대출(loan)을 담습니다. 은행이 기업에 빌려준 돈을 묶어 만든 상품입니다. 그리고 지금까지 다룬 채권들과 정반대로 작동합니다. 운용사 공식 설명 기준으로 이 대출들의 이자는 통상 30~90일마다 재설정되며 금리와 함께 오릅니다. 즉 금리가 오르면 받는 이자도 오릅니다. 여기에 선순위 담보(first-lien)라 차주가 부도나도 가장 먼저 돌려받습니다. 좋아 보입니다. 그런데 대부분이 투자등급 미만이고, 유동성을 확보하려고 설계한 구조가 스스로 역설을 만들고 있습니다. 이 글은 그 교환 관계를 정리합니다.BKLN은 어떤 지수를 추종하나요?Morningstar LSTA US Leveraged Loan 100 Index입니다. 운용사인 ..",
+  "og_title": "BKLN ETF란? 뱅크론은 왜 금리가 올라야 유리한가, 선순위 담보와 유동성의 대가",
+  "post_id": "462",
+  "published_time": "2026-08-05T01:38:28+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BKLN ETF란? 뱅크론은 왜 금리가 올라야 유리한가, 선순위 담보와 유동성의 대가",
+  "url": "https://mystock-note.tistory.com/462"
+}
