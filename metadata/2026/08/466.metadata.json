@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-05",
+  "body_html_length": 7155,
+  "canonical_url": "https://mystock-note.tistory.com/466",
+  "content_hash": "fe48fe69aa3fed882d709da428971ccfe7777f44a41c37b918bac7afda99fb38",
+  "json_ld_count": 2,
+  "meta_description": "EMB(iShares J.P. Morgan USD Emerging Markets Bond ETF)는 J.P. Morgan EMBI Global Core 지수를 추종하는 미국 상장 신흥국 채권 ETF입니다. 핵심은 '달러표시'라는 점입니다. 신흥국 정부·준정부가 발행한 채권을 담되, 현지통화가 아니라 미국 달러로 발행된 채권만 편입합니다. 이 글은 EMB가 현지통화 신흥국 채권·미국 하이일드·신흥국 주식과 위험 구조에서 어떻게 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.EMB는 어떤 지수를 추종하나요?EMB는 J.P. Morgan EMBI Global Core Index를 추종합니다. 이 지수는 신흥국의 국가(sovereign) 및 준국가(quasi-sovereign) ..",
+  "modified_time": "2026-08-06T02:48:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EMB(iShares J.P. Morgan USD Emerging Markets Bond ETF)는 J.P. Morgan EMBI Global Core 지수를 추종하는 미국 상장 신흥국 채권 ETF입니다. 핵심은 '달러표시'라는 점입니다. 신흥국 정부·준정부가 발행한 채권을 담되, 현지통화가 아니라 미국 달러로 발행된 채권만 편입합니다. 이 글은 EMB가 현지통화 신흥국 채권·미국 하이일드·신흥국 주식과 위험 구조에서 어떻게 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.EMB는 어떤 지수를 추종하나요?EMB는 J.P. Morgan EMBI Global Core Index를 추종합니다. 이 지수는 신흥국의 국가(sovereign) 및 준국가(quasi-sovereign) ..",
+  "og_title": "EMB ETF란? 신흥국 달러채권의 위험, 하이일드·현지통화채와 차이",
+  "post_id": "466",
+  "published_time": "2026-08-06T02:47:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EMB ETF란? 신흥국 달러채권의 위험, 하이일드·현지통화채와 차이",
+  "url": "https://mystock-note.tistory.com/466"
+}

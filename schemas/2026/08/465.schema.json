@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-06T01:40:00+09:00",
+    "datePublished": "2026-08-06T01:39:43+09:00",
+    "description": "VCSH(Vanguard Short-Term Corporate Bond ETF)는 Bloomberg U.S. 1-5 Year Corporate Bond 지수를 추종하는 미국 상장 단기 투자등급 회사채 ETF입니다. 만기가 1~5년으로 짧아 금리 변동에 대한 가격 민감도가 낮은 대신, 국채가 아닌 회사채라 신용 위험이 존재합니다. 이 글은 VCSH가 중기 회사채(VCIT)·단기 국채와 어떻게 다른지, 국내에 대응 상품이 있는지, 세금과 계좌 측면에서 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.VCSH는 어떤 지수를 추종하나요?VCSH는 Bloomberg U.S. 1-5 Year Corporate Bond Index를 추종합니다. 이 지수는 미국 달러 표시, 투자등급, 고정금리, 과세 대상 채권 중 ..",
+    "headline": "VCSH ETF란? VCIT·단기국채와 차이, 만기·신용·세금 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/465",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/465"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Bloomberg U.S. 1-5 Year Corporate Bond 지수를 추종하는 미국 상장 단기 투자등급 회사채 ETF. 만기 1~5년, 투자등급, 달러 표시 회사채를 샘플링 방식으로 편입.",
+      "name": "Vanguard Short-Term Corporate Bond ETF (VCSH)"
+    },
+    "dateModified": "2026-08-06",
+    "datePublished": "2026-08-06",
+    "description": "VCSH는 Bloomberg US 1-5년 투자등급 회사채 지수를 추종하는 미국 상장 단기 회사채 ETF입니다. 중기 회사채(VCIT)·단기 국채와 만기·신용위험·세금이 어떻게 다른지, 국내 대안과 무엇을 비교해야 하는지 정리했습니다.",
+    "headline": "VCSH ETF란? VCIT·단기국채와 차이, 만기·신용·세금 확인",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/465"
+  }
+]

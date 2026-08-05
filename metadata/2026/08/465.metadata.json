@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-05",
+  "body_html_length": 7354,
+  "canonical_url": "https://mystock-note.tistory.com/465",
+  "content_hash": "db1d50dec3fb0c40f4104427d2fb4ca39e97ae866a29216f7808071e2ef9915e",
+  "json_ld_count": 2,
+  "meta_description": "VCSH(Vanguard Short-Term Corporate Bond ETF)는 Bloomberg U.S. 1-5 Year Corporate Bond 지수를 추종하는 미국 상장 단기 투자등급 회사채 ETF입니다. 만기가 1~5년으로 짧아 금리 변동에 대한 가격 민감도가 낮은 대신, 국채가 아닌 회사채라 신용 위험이 존재합니다. 이 글은 VCSH가 중기 회사채(VCIT)·단기 국채와 어떻게 다른지, 국내에 대응 상품이 있는지, 세금과 계좌 측면에서 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.VCSH는 어떤 지수를 추종하나요?VCSH는 Bloomberg U.S. 1-5 Year Corporate Bond Index를 추종합니다. 이 지수는 미국 달러 표시, 투자등급, 고정금리, 과세 대상 채권 중 ..",
+  "modified_time": "2026-08-06T01:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VCSH(Vanguard Short-Term Corporate Bond ETF)는 Bloomberg U.S. 1-5 Year Corporate Bond 지수를 추종하는 미국 상장 단기 투자등급 회사채 ETF입니다. 만기가 1~5년으로 짧아 금리 변동에 대한 가격 민감도가 낮은 대신, 국채가 아닌 회사채라 신용 위험이 존재합니다. 이 글은 VCSH가 중기 회사채(VCIT)·단기 국채와 어떻게 다른지, 국내에 대응 상품이 있는지, 세금과 계좌 측면에서 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.VCSH는 어떤 지수를 추종하나요?VCSH는 Bloomberg U.S. 1-5 Year Corporate Bond Index를 추종합니다. 이 지수는 미국 달러 표시, 투자등급, 고정금리, 과세 대상 채권 중 ..",
+  "og_title": "VCSH ETF란? VCIT·단기국채와 차이, 만기·신용·세금 확인",
+  "post_id": "465",
+  "published_time": "2026-08-06T01:39:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VCSH ETF란? VCIT·단기국채와 차이, 만기·신용·세금 확인",
+  "url": "https://mystock-note.tistory.com/465"
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-06T02:48:00+09:00",
+    "datePublished": "2026-08-06T02:47:19+09:00",
+    "description": "EMB(iShares J.P. Morgan USD Emerging Markets Bond ETF)는 J.P. Morgan EMBI Global Core 지수를 추종하는 미국 상장 신흥국 채권 ETF입니다. 핵심은 '달러표시'라는 점입니다. 신흥국 정부·준정부가 발행한 채권을 담되, 현지통화가 아니라 미국 달러로 발행된 채권만 편입합니다. 이 글은 EMB가 현지통화 신흥국 채권·미국 하이일드·신흥국 주식과 위험 구조에서 어떻게 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.EMB는 어떤 지수를 추종하나요?EMB는 J.P. Morgan EMBI Global Core Index를 추종합니다. 이 지수는 신흥국의 국가(sovereign) 및 준국가(quasi-sovereign) ..",
+    "headline": "EMB ETF란? 신흥국 달러채권의 위험, 하이일드·현지통화채와 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/466",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/466"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "J.P. Morgan EMBI Global Core 지수를 추종하는 미국 상장 신흥국 달러표시 국채·준국채 ETF. 신흥국 국가·준국가 발행 USD 채권을 분산 방법론으로 편입.",
+      "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF (EMB)"
+    },
+    "dateModified": "2026-08-06",
+    "datePublished": "2026-08-06",
+    "description": "EMB는 J.P. Morgan EMBI Global Core 지수를 추종하는 미국 상장 신흥국 달러표시 국채 ETF입니다. 현지통화 신흥국 채권·미국 하이일드와 위험이 어떻게 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지 정리했습니다.",
+    "headline": "EMB ETF란? 신흥국 달러채권의 위험, 하이일드·현지통화채와 차이",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/466"
+  }
+]
