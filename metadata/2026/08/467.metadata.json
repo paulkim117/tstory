@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-07",
+  "body_html_length": 6203,
+  "canonical_url": "https://mystock-note.tistory.com/467",
+  "content_hash": "83fb77c844e4eed12f88efbca3ae5b41a3cf312fb4a5df99ba16b4b344623459",
+  "json_ld_count": 2,
+  "meta_description": "NOBL(ProShares S&P 500 Dividend Aristocrats ETF)은 S&P 500 배당귀족 지수를 추종하는 미국 상장 ETF입니다. 핵심은 종목을 고르는 기준입니다. '배당을 많이 주는' 기업이 아니라, 25년 연속으로 배당을 늘려온 기업만 담습니다. 이 글은 NOBL이 고배당 ETF·배당성장(VIG)과 무엇이 다른지, 왜 동일가중인지, 국내 대안과 세금은 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.NOBL은 어떤 지수를 추종하나요?NOBL은 S&P Dow Jones Indices가 산출하는 S&P 500 Dividend Aristocrats Index를 추종합니다. 이 지수는 S&P 500 구성종목 중 25년 이상 매년 배당을 늘려온 기업을 담으며, 종목을 동일가중으로 편입..",
+  "modified_time": "2026-08-07T00:48:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "NOBL(ProShares S&P 500 Dividend Aristocrats ETF)은 S&P 500 배당귀족 지수를 추종하는 미국 상장 ETF입니다. 핵심은 종목을 고르는 기준입니다. '배당을 많이 주는' 기업이 아니라, 25년 연속으로 배당을 늘려온 기업만 담습니다. 이 글은 NOBL이 고배당 ETF·배당성장(VIG)과 무엇이 다른지, 왜 동일가중인지, 국내 대안과 세금은 무엇을 확인해야 하는지를 비교 기준으로 정리합니다.NOBL은 어떤 지수를 추종하나요?NOBL은 S&P Dow Jones Indices가 산출하는 S&P 500 Dividend Aristocrats Index를 추종합니다. 이 지수는 S&P 500 구성종목 중 25년 이상 매년 배당을 늘려온 기업을 담으며, 종목을 동일가중으로 편입..",
+  "og_title": "NOBL ETF란? 배당귀족 25년 조건, VIG·고배당 ETF와 차이",
+  "post_id": "467",
+  "published_time": "2026-08-07T00:47:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NOBL ETF란? 배당귀족 25년 조건, VIG·고배당 ETF와 차이",
+  "url": "https://mystock-note.tistory.com/467"
+}
