@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-07",
+  "body_html_length": 5503,
+  "canonical_url": "https://mystock-note.tistory.com/470",
+  "content_hash": "fb9410d5b273675d2583a45bf5c6b283bbf9a40890233ace296559eefc8934b0",
+  "json_ld_count": 2,
+  "meta_description": "IBIT(iShares Bitcoin Trust ETF)는 실물 비트코인을 보관하는 신탁 구조의 미국 상장 현물 비트코인 ETF입니다. 일반 주식형 ETF와 달리 1940년 투자회사법에 등록되지 않은 신탁이며, 비트코인을 외부 수탁기관이 보관합니다. 이 글은 IBIT가 선물 방식·금 실물신탁과 무엇이 다른지, 수탁 위험은 무엇인지, 그리고 한국 투자자가 반드시 확인해야 할 규제·세금을 정리합니다. 비트코인은 변동성이 매우 큰 자산이므로 구조와 위험을 먼저 이해하는 것이 중요합니다.IBIT는 어떤 구조인가요?IBIT는 델라웨어 신탁(grantor trust)으로, 실물 비트코인을 보유하고 그 가격을 추종합니다. 중요한 점은 1940년 투자회사법에 등록되지 않았다는 것입니다. 따라서 뮤추얼펀드나 일반 ETF..",
+  "modified_time": "2026-08-08T00:50:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IBIT(iShares Bitcoin Trust ETF)는 실물 비트코인을 보관하는 신탁 구조의 미국 상장 현물 비트코인 ETF입니다. 일반 주식형 ETF와 달리 1940년 투자회사법에 등록되지 않은 신탁이며, 비트코인을 외부 수탁기관이 보관합니다. 이 글은 IBIT가 선물 방식·금 실물신탁과 무엇이 다른지, 수탁 위험은 무엇인지, 그리고 한국 투자자가 반드시 확인해야 할 규제·세금을 정리합니다. 비트코인은 변동성이 매우 큰 자산이므로 구조와 위험을 먼저 이해하는 것이 중요합니다.IBIT는 어떤 구조인가요?IBIT는 델라웨어 신탁(grantor trust)으로, 실물 비트코인을 보유하고 그 가격을 추종합니다. 중요한 점은 1940년 투자회사법에 등록되지 않았다는 것입니다. 따라서 뮤추얼펀드나 일반 ETF..",
+  "og_title": "IBIT ETF란? 비트코인 현물 신탁 구조, 선물·금 ETF와 차이·한국 규제",
+  "post_id": "470",
+  "published_time": "2026-08-08T00:49:00+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IBIT ETF란? 비트코인 현물 신탁 구조, 선물·금 ETF와 차이·한국 규제",
+  "url": "https://mystock-note.tistory.com/470"
+}

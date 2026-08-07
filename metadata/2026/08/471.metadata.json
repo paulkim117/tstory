@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-07",
+  "body_html_length": 5610,
+  "canonical_url": "https://mystock-note.tistory.com/471",
+  "content_hash": "8f721e4aa1b943da2646baa11e3f459c739aecaca7a4eabf5070f67ad084ea88",
+  "json_ld_count": 2,
+  "meta_description": "ICLN(iShares Global Clean Energy ETF)은 S&P Global Clean Energy 지수를 추종하는 글로벌 클린에너지 테마 ETF입니다. 미국뿐 아니라 유럽·중국·신흥국의 태양광·풍력·수소 관련 기업을 담습니다. 다만 이 상품은 2021년에 지수가 크게 바뀌었고, 소수 종목에 집중되며 금리에 민감하다는 특성이 있습니다. 이 글은 ICLN의 구조와 지수 개편, 금리 민감성, 그리고 원자력·유틸리티·국내 신재생 상품과의 차이를 정리합니다.ICLN은 어떤 지수를 추종하나요?ICLN은 S&P Global Clean Energy Index를 추종합니다. 이 지수는 S&P Global 광범위 시장 지수의 부분집합으로, 선진국과 신흥국 증시에 상장된 청정에너지 관련 기업을 담습니다. 태양..",
+  "modified_time": "2026-08-08T01:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ICLN(iShares Global Clean Energy ETF)은 S&P Global Clean Energy 지수를 추종하는 글로벌 클린에너지 테마 ETF입니다. 미국뿐 아니라 유럽·중국·신흥국의 태양광·풍력·수소 관련 기업을 담습니다. 다만 이 상품은 2021년에 지수가 크게 바뀌었고, 소수 종목에 집중되며 금리에 민감하다는 특성이 있습니다. 이 글은 ICLN의 구조와 지수 개편, 금리 민감성, 그리고 원자력·유틸리티·국내 신재생 상품과의 차이를 정리합니다.ICLN은 어떤 지수를 추종하나요?ICLN은 S&P Global Clean Energy Index를 추종합니다. 이 지수는 S&P Global 광범위 시장 지수의 부분집합으로, 선진국과 신흥국 증시에 상장된 청정에너지 관련 기업을 담습니다. 태양..",
+  "og_title": "ICLN ETF란? 글로벌 클린에너지 지수, 2021 개편·금리 민감·국내 대안",
+  "post_id": "471",
+  "published_time": "2026-08-08T01:17:49+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ICLN ETF란? 글로벌 클린에너지 지수, 2021 개편·금리 민감·국내 대안",
+  "url": "https://mystock-note.tistory.com/471"
+}

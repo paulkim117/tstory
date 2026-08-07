@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-07",
+  "body_html_length": 5395,
+  "canonical_url": "https://mystock-note.tistory.com/472",
+  "content_hash": "c56228a7db421dc4c4023265bc6ec4a37d48ac563c64b2f8e6704df8160850d8",
+  "json_ld_count": 2,
+  "meta_description": "IJS(iShares S&P Small-Cap 600 Value ETF)는 S&P SmallCap 600 Value 지수를 추종하는 미국 소형 가치주 ETF입니다. 여기엔 두 겹의 선별이 들어갑니다. 먼저 S&P SmallCap 600에 들려면 수익성(양의 이익) 요건을 통과해야 하고, 그다음 가치 지표로 가치주만 추립니다. 이 글은 IJS가 러셀2000·소형 블렌드(IJR)·소형 성장(IJT)·대형 가치와 무엇이 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지 정리합니다.IJS는 어떤 지수를 추종하나요?IJS는 S&P SmallCap 600 Value Index를 추종합니다. S&P SmallCap 600에 속한 미국 소형주 중, 장부가·이익·매출 대비 가격 등 가치 지표로 가치 성향이 강한 종목을..",
+  "modified_time": "2026-08-08T02:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IJS(iShares S&P Small-Cap 600 Value ETF)는 S&P SmallCap 600 Value 지수를 추종하는 미국 소형 가치주 ETF입니다. 여기엔 두 겹의 선별이 들어갑니다. 먼저 S&P SmallCap 600에 들려면 수익성(양의 이익) 요건을 통과해야 하고, 그다음 가치 지표로 가치주만 추립니다. 이 글은 IJS가 러셀2000·소형 블렌드(IJR)·소형 성장(IJT)·대형 가치와 무엇이 다른지, 국내 대안과 세금은 무엇을 확인해야 하는지 정리합니다.IJS는 어떤 지수를 추종하나요?IJS는 S&P SmallCap 600 Value Index를 추종합니다. S&P SmallCap 600에 속한 미국 소형주 중, 장부가·이익·매출 대비 가격 등 가치 지표로 가치 성향이 강한 종목을..",
+  "og_title": "IJS ETF란? S&P 소형 가치, IJR·러셀2000과 차이·품질 스크린",
+  "post_id": "472",
+  "published_time": "2026-08-08T02:18:12+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IJS ETF란? S&P 소형 가치, IJR·러셀2000과 차이·품질 스크린",
+  "url": "https://mystock-note.tistory.com/472"
+}
