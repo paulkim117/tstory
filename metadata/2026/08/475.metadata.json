@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-08",
+  "body_html_length": 8674,
+  "canonical_url": "https://mystock-note.tistory.com/475",
+  "content_hash": "801ce8e4ec3d201d5e755d7cc97bfac7a012380e2befc2302f7749a9b1a87906",
+  "json_ld_count": 1,
+  "meta_description": "연금계좌(연금저축·IRP)는 넣을 때(적립)보다 뺄 때(인출)가 훨씬 복잡하다. 적립은 \"세액공제 얼마 받나\"만 보면 되지만, 인출은 돈의 출처(재원)·나이·연 수령액·인출 순서가 얽혀 세금이 크게 갈린다. 이 글은 연금 인출 세율을 나열하는 사전이 아니라, \"내 돈을 어떤 순서로, 얼마씩 빼야 세금이 최소가 되는가\"를 판단하는 라우팅 도구다. 세율·한도는 검증된 현행 기준으로 표기하되, 본 글은 세무 자문이 아니며 개인 상황·법령 개정에 따라 달라진다.왜 '인출 단계'가 적립보다 어려운가?적립 단계의 핵심은 하나다 — 세액공제 한도(연금저축 600만·IRP 합산 900만). 반면 인출 단계는 같은 계좌 안의 돈이 재원별로 세금이 다르고, 나이·연 수령액에 따라 세율과 과세 방식이 바뀐다. 잘못 빼면 1..",
+  "modified_time": "2026-08-09T02:20:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/475\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/475\",\"headline\":\"연금 인출 세금, 어떤 순서로 빼야 할까? 재원·1,500만원·나이별 라우팅\",\"description\":\"연금계좌(연금저축·IRP)는 넣을 때(적립)보다 뺄 때(인출)가 훨씬 복잡하다. 적립은 \"세액공제 얼마 받나\"만 보면 되지만, 인출은 돈의 출처(재원)·나이·연 수령액·인출 순서가 얽혀 세금이 크게 갈린다. 이 글은 연금 인출 세율을 나열하는 사전이 아니라, \"내 돈을 어떤 순서로, 얼마씩 빼야 세금이 최소가 되는가\"를 판단하는 라우팅 도구다. 세율·한도는 검증된 현행 기준으로 표기하되, 본 글은 세무 자문이 아니며 개인 상황·법령 개정에 따라 달라진다.왜 '인출 단계'가 적립보다 어려운가?적립 단계의 핵심은 하나다 — 세액공제 한도(연금저축 600만·IRP 합산 900만). 반면 인출 단계는 같은 계좌 안의 돈이 재원별로 세금이 다르고, 나이·연 수령액에 따라 세율과 과세 방식이 바뀐다. 잘못 빼면 1..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-09T02:19:23+09:00\",\"dateModified\":\"2026-08-09T02:20:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "연금계좌(연금저축·IRP)는 넣을 때(적립)보다 뺄 때(인출)가 훨씬 복잡하다. 적립은 \"세액공제 얼마 받나\"만 보면 되지만, 인출은 돈의 출처(재원)·나이·연 수령액·인출 순서가 얽혀 세금이 크게 갈린다. 이 글은 연금 인출 세율을 나열하는 사전이 아니라, \"내 돈을 어떤 순서로, 얼마씩 빼야 세금이 최소가 되는가\"를 판단하는 라우팅 도구다. 세율·한도는 검증된 현행 기준으로 표기하되, 본 글은 세무 자문이 아니며 개인 상황·법령 개정에 따라 달라진다.왜 '인출 단계'가 적립보다 어려운가?적립 단계의 핵심은 하나다 — 세액공제 한도(연금저축 600만·IRP 합산 900만). 반면 인출 단계는 같은 계좌 안의 돈이 재원별로 세금이 다르고, 나이·연 수령액에 따라 세율과 과세 방식이 바뀐다. 잘못 빼면 1..",
+  "og_title": "연금 인출 세금, 어떤 순서로 빼야 할까? 재원·1,500만원·나이별 라우팅",
+  "post_id": "475",
+  "published_time": "2026-08-09T02:19:23+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금 인출 세금, 어떤 순서로 빼야 할까? 재원·1,500만원·나이별 라우팅",
+  "url": "https://mystock-note.tistory.com/475"
+}

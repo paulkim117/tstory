@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/475/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/475/#topic-pension-withdrawal"
+      },
+      "dateModified": "2026-08-09",
+      "datePublished": "2026-08-09",
+      "description": "연금저축·IRP 인출 단계의 세금을 재원 3분류(비과세 원금·세액공제분+운용수익·퇴직금), 나이별 연금소득세율(3.3~5.5%), 연 1,500만원 한도, 인출 순서 관점에서 판단하는 라우팅 가이드.",
+      "headline": "연금 인출 세금, 어떤 순서로 빼야 할까? 재원·1,500만원·나이별 라우팅",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/475"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/475/#topic-pension-withdrawal",
+      "@type": "Thing",
+      "description": "연금저축·IRP 인출 시 재원별 과세, 연금소득세율, 연 1,500만원 종합/분리과세 기준과 인출 순서 전략.",
+      "name": "연금계좌 인출 단계 과세"
+    }
+  ]
+}

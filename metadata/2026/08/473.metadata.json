@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-08",
+  "body_html_length": 11639,
+  "canonical_url": "https://mystock-note.tistory.com/473",
+  "content_hash": "7474c0397bd583ef3524b51431b375b8b72500279a6a93f0ac0e5dc88ee2ab16",
+  "json_ld_count": 2,
+  "meta_description": "미국 증시에서 브라질 한 나라에 집중 투자하는 대표 상품이 EWZ(iShares MSCI Brazil ETF)다. 단일 국가 ETF는 지수 하나만 이해하면 될 것 같지만, 한국 투자자에게는 이중 통화 구조·단일국 집중 위험·미국 직접투자 세금이라는 세 겹의 층이 겹친다. 이 글은 수익률 전망이 아니라 EWZ가 어떤 규칙으로 굴러가는지를 구조·규제 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 의도적으로 제외한다.)EWZ는 어떤 ETF인가?EWZ는 블랙록의 iShares가 운용하며, MSCI Brazil 25/50 Index (Net)를 추종한다. 브라질 증시에 상장된 대형·중형주를 담아 브라질 단일 국가 익스포저를 제공하는 것이 목적이다. 실물(현물) 방식으로 브라질 주식을..",
+  "modified_time": "2026-08-09T00:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 증시에서 브라질 한 나라에 집중 투자하는 대표 상품이 EWZ(iShares MSCI Brazil ETF)다. 단일 국가 ETF는 지수 하나만 이해하면 될 것 같지만, 한국 투자자에게는 이중 통화 구조·단일국 집중 위험·미국 직접투자 세금이라는 세 겹의 층이 겹친다. 이 글은 수익률 전망이 아니라 EWZ가 어떤 규칙으로 굴러가는지를 구조·규제 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 의도적으로 제외한다.)EWZ는 어떤 ETF인가?EWZ는 블랙록의 iShares가 운용하며, MSCI Brazil 25/50 Index (Net)를 추종한다. 브라질 증시에 상장된 대형·중형주를 담아 브라질 단일 국가 익스포저를 제공하는 것이 목적이다. 실물(현물) 방식으로 브라질 주식을..",
+  "og_title": "EWZ ETF란? 브라질 단일국 투자, MSCI 25/50 지수·환율·세금 정리",
+  "post_id": "473",
+  "published_time": "2026-08-09T00:18:34+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWZ ETF란? 브라질 단일국 투자, MSCI 25/50 지수·환율·세금 정리",
+  "url": "https://mystock-note.tistory.com/473"
+}

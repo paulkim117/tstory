@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-08",
+  "body_html_length": 12015,
+  "canonical_url": "https://mystock-note.tistory.com/474",
+  "content_hash": "8cf58253e2dfe09fc446975ef3ef171a3c8c62956b914efe3abd1c662c1cd9cf",
+  "json_ld_count": 1,
+  "meta_description": "미국 증시에서 독일 한 나라에 집중 투자하는 대표 상품이 EWG(iShares MSCI Germany ETF)다. 이름만 보면 \"독일 = DAX\"를 떠올리기 쉽지만, EWG는 DAX를 추종하지 않는다. 이 글은 EWG가 어떤 지수를 담는지, 국내 독일 ETF와 무엇이 다른지, 한국 투자자의 통화·세금 층위는 어떻게 겹치는지를 구조·규제 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)EWG는 어떤 ETF인가?EWG는 블랙록의 iShares가 운용하며 MSCI Germany Index를 추종한다. 독일 증시(주로 프랑크푸르트/Xetra)에 상장된 대형·중형주를 실물로 담아 독일 단일 국가 익스포저를 제공한다. 상장 시점은 1996년 3월로, iShares 초기 국가별..",
+  "modified_time": "2026-08-09T01:20:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/474\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/474\",\"headline\":\"EWG ETF란? 독일 투자·MSCI Germany 지수·DAX 차이·환율·세금 정리\",\"description\":\"미국 증시에서 독일 한 나라에 집중 투자하는 대표 상품이 EWG(iShares MSCI Germany ETF)다. 이름만 보면 \"독일 = DAX\"를 떠올리기 쉽지만, EWG는 DAX를 추종하지 않는다. 이 글은 EWG가 어떤 지수를 담는지, 국내 독일 ETF와 무엇이 다른지, 한국 투자자의 통화·세금 층위는 어떻게 겹치는지를 구조·규제 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)EWG는 어떤 ETF인가?EWG는 블랙록의 iShares가 운용하며 MSCI Germany Index를 추종한다. 독일 증시(주로 프랑크푸르트/Xetra)에 상장된 대형·중형주를 실물로 담아 독일 단일 국가 익스포저를 제공한다. 상장 시점은 1996년 3월로, iShares 초기 국가별..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-09T01:19:03+09:00\",\"dateModified\":\"2026-08-09T01:20:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 증시에서 독일 한 나라에 집중 투자하는 대표 상품이 EWG(iShares MSCI Germany ETF)다. 이름만 보면 \"독일 = DAX\"를 떠올리기 쉽지만, EWG는 DAX를 추종하지 않는다. 이 글은 EWG가 어떤 지수를 담는지, 국내 독일 ETF와 무엇이 다른지, 한국 투자자의 통화·세금 층위는 어떻게 겹치는지를 구조·규제 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)EWG는 어떤 ETF인가?EWG는 블랙록의 iShares가 운용하며 MSCI Germany Index를 추종한다. 독일 증시(주로 프랑크푸르트/Xetra)에 상장된 대형·중형주를 실물로 담아 독일 단일 국가 익스포저를 제공한다. 상장 시점은 1996년 3월로, iShares 초기 국가별..",
+  "og_title": "EWG ETF란? 독일 투자·MSCI Germany 지수·DAX 차이·환율·세금 정리",
+  "post_id": "474",
+  "published_time": "2026-08-09T01:19:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWG ETF란? 독일 투자·MSCI Germany 지수·DAX 차이·환율·세금 정리",
+  "url": "https://mystock-note.tistory.com/474"
+}
