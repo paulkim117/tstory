@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/477/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/477/#etf-ihi"
+      },
+      "dateModified": "2026-08-10",
+      "datePublished": "2026-08-10",
+      "description": "미국 의료기기 ETF IHI의 기초지수(Dow Jones U.S. Select Medical Equipment), XLV 헬스케어 전체와의 차이, 비분산 집중도, 상환·규제 위험, 한국 투자자 세금과 국내 대안 성격 차이를 구조 사실 중심으로 정리한다.",
+      "headline": "IHI ETF란? 미국 의료기기 투자·XLV와 차이·집중도·세금 정리",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/477"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/477/#etf-ihi",
+      "@type": "Thing",
+      "description": "Dow Jones U.S. Select Medical Equipment Index를 추종하는 iShares의 미국 의료기기 상장지수펀드.",
+      "name": "iShares U.S. Medical Devices ETF (IHI)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/479/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/479/#topic-region-allocation"
+      },
+      "dateModified": "2026-08-10",
+      "datePublished": "2026-08-10",
+      "description": "글로벌 지역 배분을 지수 체계(MSCI vs FTSE) 통일, 한국의 선진·신흥 분류 차이(VWO 미포함 vs IEMG 포함), 자국 중복 점검, 광역-단일국 코어·위성 관점에서 결정하는 라우팅 가이드.",
+      "headline": "지역 배분 어떻게 할까? MSCI·FTSE 분류부터 자국 중복까지 결정 가이드",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/479"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/479/#topic-region-allocation",
+      "@type": "Thing",
+      "description": "지수 체계별 선진·신흥 분류 차이, 한국 분류(MSCI 신흥·FTSE 선진), 자국 중복, 광역-단일국 배분 결정.",
+      "name": "글로벌 지역 배분과 국가 분류(MSCI·FTSE)"
+    }
+  ]
+}

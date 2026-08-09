@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-10T00:15:00+09:00",
+    "datePublished": "2026-08-10T00:14:42+09:00",
+    "description": "IJT(iShares S&P Small-Cap 600 Growth ETF)는 미국 소형 성장주에 집중 투자하는 ETF다. 며칠 전 다룬 IJS(소형 가치)의 짝이지만, 둘은 깔끔하게 갈라지지 않고 겹치는 부분이 있다. 또 하나 중요한 점 — IJT가 담는 S&P SmallCap 600은 흔히 말하는 러셀2000과 유니버스가 다르다. 이 글은 IJT의 지수 구성·스타일 선별 방식·러셀2000과의 차이·한국 투자자의 통화와 세금을 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)IJT는 어떤 ETF인가?IJT는 iShares(블랙록)가 운용하며 S&P SmallCap 600 Growth Index를 추종한다. 모지수인 S&P SmallCap 600 중에서 성장 특..",
+    "headline": "IJT ETF란? 미국 소형 성장주·S&P600 vs 러셀2000·IJS 차이 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/476",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/476"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/476/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/476/#etf-ijt"
+        },
+        "dateModified": "2026-08-10",
+        "datePublished": "2026-08-10",
+        "description": "미국 소형 성장 ETF IJT의 기초지수(S&P SmallCap 600 Growth), 성장 3요소, IJS(가치)와의 중복, S&P600과 러셀2000의 수익성 선별 차이, 한국 투자자 세금과 국내 대안(KODEX 미국러셀2000 H)을 구조 사실 중심으로 정리한다.",
+        "headline": "IJT ETF란? 미국 소형 성장주·S&P600 vs 러셀2000·IJS 차이 정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/476"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/476/#etf-ijt",
+        "@type": "Thing",
+        "description": "S&P SmallCap 600 Growth Index를 추종하는 iShares의 미국 소형 성장 상장지수펀드.",
+        "name": "iShares S&P Small-Cap 600 Growth ETF (IJT)"
+      }
+    ]
+  }
+]

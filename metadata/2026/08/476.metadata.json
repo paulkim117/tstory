@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-09",
+  "body_html_length": 11962,
+  "canonical_url": "https://mystock-note.tistory.com/476",
+  "content_hash": "05005f351c3911635d9a39089773811f7d235b899640bb65ee33d84baaba7382",
+  "json_ld_count": 2,
+  "meta_description": "IJT(iShares S&P Small-Cap 600 Growth ETF)는 미국 소형 성장주에 집중 투자하는 ETF다. 며칠 전 다룬 IJS(소형 가치)의 짝이지만, 둘은 깔끔하게 갈라지지 않고 겹치는 부분이 있다. 또 하나 중요한 점 — IJT가 담는 S&P SmallCap 600은 흔히 말하는 러셀2000과 유니버스가 다르다. 이 글은 IJT의 지수 구성·스타일 선별 방식·러셀2000과의 차이·한국 투자자의 통화와 세금을 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)IJT는 어떤 ETF인가?IJT는 iShares(블랙록)가 운용하며 S&P SmallCap 600 Growth Index를 추종한다. 모지수인 S&P SmallCap 600 중에서 성장 특..",
+  "modified_time": "2026-08-10T00:15:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IJT(iShares S&P Small-Cap 600 Growth ETF)는 미국 소형 성장주에 집중 투자하는 ETF다. 며칠 전 다룬 IJS(소형 가치)의 짝이지만, 둘은 깔끔하게 갈라지지 않고 겹치는 부분이 있다. 또 하나 중요한 점 — IJT가 담는 S&P SmallCap 600은 흔히 말하는 러셀2000과 유니버스가 다르다. 이 글은 IJT의 지수 구성·스타일 선별 방식·러셀2000과의 차이·한국 투자자의 통화와 세금을 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률 등 수시 변동 수치는 제외한다.)IJT는 어떤 ETF인가?IJT는 iShares(블랙록)가 운용하며 S&P SmallCap 600 Growth Index를 추종한다. 모지수인 S&P SmallCap 600 중에서 성장 특..",
+  "og_title": "IJT ETF란? 미국 소형 성장주·S&P600 vs 러셀2000·IJS 차이 정리",
+  "post_id": "476",
+  "published_time": "2026-08-10T00:14:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IJT ETF란? 미국 소형 성장주·S&P600 vs 러셀2000·IJS 차이 정리",
+  "url": "https://mystock-note.tistory.com/476"
+}

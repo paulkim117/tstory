@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/478/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/478/#etf-ibit"
+      },
+      "dateModified": "2026-08-10",
+      "datePublished": "2026-08-10",
+      "description": "미국 현물 비트코인 ETF(IBIT·FBTC·BITB·ARKB·GBTC)의 발행사·수탁(Coinbase vs Fidelity 자체)·구조 차이와, 국내 증권사 매매 불가 등 한국 규제 현황 및 자본시장법 개정 진행 상황을 사실 중심으로 정리한다.",
+      "headline": "비트코인 현물 ETF 비교: IBIT·FBTC 수탁 차이와 한국 규제 현황",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/478/#etf-fbtc"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/478/#etf-bitb"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/478/#etf-arkb"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/478/#etf-gbtc"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/478"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/478/#etf-ibit",
+      "@type": "Thing",
+      "description": "BlackRock의 미국 현물 비트코인 ETF, Coinbase 수탁.",
+      "name": "iShares Bitcoin Trust ETF (IBIT)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/478/#etf-fbtc",
+      "@type": "Thing",
+      "description": "Fidelity의 미국 현물 비트코인 ETF, 자체 수탁.",
+      "name": "Fidelity Wise Origin Bitcoin Fund (FBTC)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/478/#etf-bitb",
+      "@type": "Thing",
+      "description": "준비금 증명을 공개하는 미국 현물 비트코인 ETF.",
+      "name": "Bitwise Bitcoin ETF (BITB)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/478/#etf-arkb",
+      "@type": "Thing",
+      "description": "ARK·21Shares의 미국 현물 비트코인 ETF.",
+      "name": "ARK 21Shares Bitcoin ETF (ARKB)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/478/#etf-gbtc",
+      "@type": "Thing",
+      "description": "신탁에서 전환된 미국 현물 비트코인 ETF, 레거시 고보수.",
+      "name": "Grayscale Bitcoin Trust ETF (GBTC)"
+    }
+  ]
+}
