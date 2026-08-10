@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/481/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/481/#etf-slv"
+      },
+      "dateModified": "2026-08-11",
+      "datePublished": "2026-08-11",
+      "description": "미국 실물 은 ETF SLV·SIVR·PSLV의 구조(개방형 grantor trust vs 폐쇄형 신탁)·수탁·실물 환매 차이, 미국 28% 수집품·PTP 세제가 한국 투자자에게 적용되지 않는 점, 국내 은선물(H) 대안까지 사실 중심으로 비교한다.",
+      "headline": "은 ETF 비교: SLV·SIVR·PSLV 실물·수탁·구조와 한국 세금 정리",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/481/#etf-sivr"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/481/#etf-pslv"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/481"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/481/#etf-slv",
+      "@type": "Thing",
+      "description": "실물 은을 보유하는 iShares의 개방형 grantor trust ETF.",
+      "name": "iShares Silver Trust (SLV)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/481/#etf-sivr",
+      "@type": "Thing",
+      "description": "실물 은을 보유하는 abrdn의 저비용 grantor trust ETF.",
+      "name": "abrdn Physical Silver Shares ETF (SIVR)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/481/#etf-pslv",
+      "@type": "Thing",
+      "description": "완전배분 실물 은을 보유하는 Sprott의 폐쇄형 신탁, 대규모 실물 환매 가능.",
+      "name": "Sprott Physical Silver Trust (PSLV)"
+    }
+  ]
+}

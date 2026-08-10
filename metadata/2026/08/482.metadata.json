@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-10",
+  "body_html_length": 8595,
+  "canonical_url": "https://mystock-note.tistory.com/482",
+  "content_hash": "45bac47fa83b76ad7c5ac2dcee58706595ad2ef4f472984a26cc327e1ff779ac",
+  "json_ld_count": 1,
+  "meta_description": "ETF도 상장폐지된다. 하지만 개별 주식의 상장폐지(휴지 위험)와는 성격이 전혀 다르다. 또 ETF를 사고팔 때 시장가격이 실제 가치(NAV)와 벌어지는 괴리율, 그 괴리를 줄여주는 유동성공급자(LP)도 알아야 한다. 이 글은 이 세 가지 ETF 메커니즘을 \"정의\"가 아니라 \"내가 언제 무엇을 확인하고 어떻게 매매·선택할지 판단하는 라우팅 도구\"로 정리한다. 국내 상장 ETF 기준이며, 본 내용은 투자 자문이 아니다.ETF도 상장폐지되나?그렇다. 다만 ETF의 상장폐지는 개별 주식의 상장폐지와 다르다. 개별 주식은 기업 부실로 가치가 증발할 수 있지만, ETF는 여러 종목을 담은 바구니라 담긴 자산의 가치는 유지된다. 상장폐지는 대개 상품 운영상의 이유(규모 미달 등)로 발생한다. [사실]해석: 그래서 ..",
+  "modified_time": "2026-08-11T02:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/482\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/482\",\"headline\":\"ETF 상장폐지·괴리율·LP 완전정리: 확인 시점과 매매·선택 결정 가이드\",\"description\":\"ETF도 상장폐지된다. 하지만 개별 주식의 상장폐지(휴지 위험)와는 성격이 전혀 다르다. 또 ETF를 사고팔 때 시장가격이 실제 가치(NAV)와 벌어지는 괴리율, 그 괴리를 줄여주는 유동성공급자(LP)도 알아야 한다. 이 글은 이 세 가지 ETF 메커니즘을 \"정의\"가 아니라 \"내가 언제 무엇을 확인하고 어떻게 매매·선택할지 판단하는 라우팅 도구\"로 정리한다. 국내 상장 ETF 기준이며, 본 내용은 투자 자문이 아니다.ETF도 상장폐지되나?그렇다. 다만 ETF의 상장폐지는 개별 주식의 상장폐지와 다르다. 개별 주식은 기업 부실로 가치가 증발할 수 있지만, ETF는 여러 종목을 담은 바구니라 담긴 자산의 가치는 유지된다. 상장폐지는 대개 상품 운영상의 이유(규모 미달 등)로 발생한다. [사실]해석: 그래서 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-11T02:16:33+09:00\",\"dateModified\":\"2026-08-11T02:17:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "ETF도 상장폐지된다. 하지만 개별 주식의 상장폐지(휴지 위험)와는 성격이 전혀 다르다. 또 ETF를 사고팔 때 시장가격이 실제 가치(NAV)와 벌어지는 괴리율, 그 괴리를 줄여주는 유동성공급자(LP)도 알아야 한다. 이 글은 이 세 가지 ETF 메커니즘을 \"정의\"가 아니라 \"내가 언제 무엇을 확인하고 어떻게 매매·선택할지 판단하는 라우팅 도구\"로 정리한다. 국내 상장 ETF 기준이며, 본 내용은 투자 자문이 아니다.ETF도 상장폐지되나?그렇다. 다만 ETF의 상장폐지는 개별 주식의 상장폐지와 다르다. 개별 주식은 기업 부실로 가치가 증발할 수 있지만, ETF는 여러 종목을 담은 바구니라 담긴 자산의 가치는 유지된다. 상장폐지는 대개 상품 운영상의 이유(규모 미달 등)로 발생한다. [사실]해석: 그래서 ..",
+  "og_title": "ETF 상장폐지·괴리율·LP 완전정리: 확인 시점과 매매·선택 결정 가이드",
+  "post_id": "482",
+  "published_time": "2026-08-11T02:16:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ETF 상장폐지·괴리율·LP 완전정리: 확인 시점과 매매·선택 결정 가이드",
+  "url": "https://mystock-note.tistory.com/482"
+}

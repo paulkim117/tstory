@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-10",
+  "body_html_length": 10221,
+  "canonical_url": "https://mystock-note.tistory.com/480",
+  "content_hash": "0a56a68a65d75c915c4dfd6d9a2161595baa5c9debabbb91e89c634c8385fcb8",
+  "json_ld_count": 2,
+  "meta_description": "SPHD(Invesco S&P 500 High Dividend Low Volatility ETF)는 이름 그대로 고배당과 저변동을 결합한 배당 ETF다. 배당 ETF는 종류가 많은데, SPHD의 개성은 두 단계로 종목을 거른다는 점과 매달 분배한다는 점이다. 이 글은 SPHD가 종목을 어떻게 고르는지, 배당귀족(NOBL)과 무엇이 다른지, 저변동의 한계와 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (배당률·총보수·순자산·수익률 등 수시 변동 수치는 제외한다.)SPHD는 어떤 ETF인가?SPHD는 Invesco가 운용하며 S&P 500 Low Volatility High Dividend Index를 추종한다. S&P500 안에서 배당이 높으면서 변동성이 낮은 종목을 골라 담고, 매달 분..",
+  "modified_time": "2026-08-11T00:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SPHD(Invesco S&P 500 High Dividend Low Volatility ETF)는 이름 그대로 고배당과 저변동을 결합한 배당 ETF다. 배당 ETF는 종류가 많은데, SPHD의 개성은 두 단계로 종목을 거른다는 점과 매달 분배한다는 점이다. 이 글은 SPHD가 종목을 어떻게 고르는지, 배당귀족(NOBL)과 무엇이 다른지, 저변동의 한계와 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (배당률·총보수·순자산·수익률 등 수시 변동 수치는 제외한다.)SPHD는 어떤 ETF인가?SPHD는 Invesco가 운용하며 S&P 500 Low Volatility High Dividend Index를 추종한다. S&P500 안에서 배당이 높으면서 변동성이 낮은 종목을 골라 담고, 매달 분..",
+  "og_title": "SPHD ETF란? 고배당+저변동 2단계 선별·월배당·NOBL 차이·세금 정리",
+  "post_id": "480",
+  "published_time": "2026-08-11T00:16:51+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPHD ETF란? 고배당+저변동 2단계 선별·월배당·NOBL 차이·세금 정리",
+  "url": "https://mystock-note.tistory.com/480"
+}

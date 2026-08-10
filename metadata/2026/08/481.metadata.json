@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-10",
+  "body_html_length": 9546,
+  "canonical_url": "https://mystock-note.tistory.com/481",
+  "content_hash": "b0caddbe4bc8d6139d6263102870d699bb851d096ff8092e72f0d697dfbfcfc3",
+  "json_ld_count": 1,
+  "meta_description": "\"은에 투자한다\"고 해도 방법이 여러 가지다. 미국에는 실물 은을 보유하는 ETF가 SLV·SIVR·PSLV 등으로 나뉘고, 국내에는 은 선물 기반 상품이 있다. 이들은 담는 자산(은)은 같아도 구조·수탁·실물 환매·세금이 다르다. 이 글은 미국 실물 은 ETF 세 가지를 구조 중심으로 비교하고, 선물형·PTP와의 차이, 한국 투자자의 세금과 국내 대안을 사실 중심으로 정리한다. (보수·순자산·수익률·은 시세 등 수시 변동 수치는 제외한다.)은 ETF는 다 같은가?아니다. 은 노출 방식은 크게 세 가지로 갈린다. [사실]유형예성격실물 은 ETFSLV·SIVR·PSLV실제 은 바 보유은 선물 ETF국내 KODEX 은선물(H) 등선물 계약·롤오버은 광부 주식 ETFSIL 등은 채굴 기업(주식)해석: 이 글은..",
+  "modified_time": "2026-08-11T01:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/481\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/481\",\"headline\":\"은 ETF 비교: SLV·SIVR·PSLV 실물·수탁·구조와 한국 세금 정리\",\"description\":\"\"은에 투자한다\"고 해도 방법이 여러 가지다. 미국에는 실물 은을 보유하는 ETF가 SLV·SIVR·PSLV 등으로 나뉘고, 국내에는 은 선물 기반 상품이 있다. 이들은 담는 자산(은)은 같아도 구조·수탁·실물 환매·세금이 다르다. 이 글은 미국 실물 은 ETF 세 가지를 구조 중심으로 비교하고, 선물형·PTP와의 차이, 한국 투자자의 세금과 국내 대안을 사실 중심으로 정리한다. (보수·순자산·수익률·은 시세 등 수시 변동 수치는 제외한다.)은 ETF는 다 같은가?아니다. 은 노출 방식은 크게 세 가지로 갈린다. [사실]유형예성격실물 은 ETFSLV·SIVR·PSLV실제 은 바 보유은 선물 ETF국내 KODEX 은선물(H) 등선물 계약·롤오버은 광부 주식 ETFSIL 등은 채굴 기업(주식)해석: 이 글은..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-11T01:16:05+09:00\",\"dateModified\":\"2026-08-11T01:17:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"은에 투자한다\"고 해도 방법이 여러 가지다. 미국에는 실물 은을 보유하는 ETF가 SLV·SIVR·PSLV 등으로 나뉘고, 국내에는 은 선물 기반 상품이 있다. 이들은 담는 자산(은)은 같아도 구조·수탁·실물 환매·세금이 다르다. 이 글은 미국 실물 은 ETF 세 가지를 구조 중심으로 비교하고, 선물형·PTP와의 차이, 한국 투자자의 세금과 국내 대안을 사실 중심으로 정리한다. (보수·순자산·수익률·은 시세 등 수시 변동 수치는 제외한다.)은 ETF는 다 같은가?아니다. 은 노출 방식은 크게 세 가지로 갈린다. [사실]유형예성격실물 은 ETFSLV·SIVR·PSLV실제 은 바 보유은 선물 ETF국내 KODEX 은선물(H) 등선물 계약·롤오버은 광부 주식 ETFSIL 등은 채굴 기업(주식)해석: 이 글은..",
+  "og_title": "은 ETF 비교: SLV·SIVR·PSLV 실물·수탁·구조와 한국 세금 정리",
+  "post_id": "481",
+  "published_time": "2026-08-11T01:16:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "은 ETF 비교: SLV·SIVR·PSLV 실물·수탁·구조와 한국 세금 정리",
+  "url": "https://mystock-note.tistory.com/481"
+}
