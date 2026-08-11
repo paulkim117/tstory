@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/485/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/485/#etf-ewj"
+      },
+      "dateModified": "2026-08-12",
+      "datePublished": "2026-08-12",
+      "description": "미국 상장 일본 단일국 ETF EWJ의 기초지수(MSCI Japan), 니케이225·TOPIX와의 차이, 25/50 캡핑 미적용, 엔화 비헤지 노출, 한국 투자자 세금과 국내 대안(니케이/TOPIX·환헤지)을 구조 사실 중심으로 정리한다.",
+      "headline": "EWJ ETF란? 일본 투자·MSCI Japan vs 니케이225·엔화·세금 정리",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/485"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/485/#etf-ewj",
+      "@type": "Thing",
+      "description": "MSCI Japan Index를 추종하는 iShares의 일본 단일국 상장지수펀드.",
+      "name": "iShares MSCI Japan ETF (EWJ)"
+    }
+  ]
+}

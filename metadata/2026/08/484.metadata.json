@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-11",
+  "body_html_length": 9328,
+  "canonical_url": "https://mystock-note.tistory.com/484",
+  "content_hash": "01e7ef6b5bf7b649e668eedcd2624d78eb01bafad0dd67c2b6dc3ad29cbe3633",
+  "json_ld_count": 1,
+  "meta_description": "VLUE(iShares MSCI USA Value Factor ETF)는 미국 가치(value) 팩터에 투자하는 ETF다. 그런데 \"가치주 ETF\"라고 하면 흔히 떠올리는 VTV·SPYV 같은 전통 가치 상품과 접근 방식이 다르다. VLUE는 섹터중립이라는 독특한 규칙을 쓴다. 이 글은 VLUE가 '가치'를 어떻게 정의하는지, 섹터중립이 왜 양날의 검인지, 전통 가치 ETF·다른 팩터와 무엇이 다른지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·보유비중 등 수시 변동 수치는 제외한다.)VLUE는 어떤 ETF인가?VLUE는 iShares(블랙록)가 운용하며 MSCI USA Enhanced Value Index를 추종한다. 모지수 MSCI USA(미국 대형·중형)에..",
+  "modified_time": "2026-08-12T01:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/484\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/484\",\"headline\":\"VLUE ETF란? 미국 가치 팩터·섹터중립·전통 가치와 차이 정리\",\"description\":\"VLUE(iShares MSCI USA Value Factor ETF)는 미국 가치(value) 팩터에 투자하는 ETF다. 그런데 \"가치주 ETF\"라고 하면 흔히 떠올리는 VTV·SPYV 같은 전통 가치 상품과 접근 방식이 다르다. VLUE는 섹터중립이라는 독특한 규칙을 쓴다. 이 글은 VLUE가 '가치'를 어떻게 정의하는지, 섹터중립이 왜 양날의 검인지, 전통 가치 ETF·다른 팩터와 무엇이 다른지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·보유비중 등 수시 변동 수치는 제외한다.)VLUE는 어떤 ETF인가?VLUE는 iShares(블랙록)가 운용하며 MSCI USA Enhanced Value Index를 추종한다. 모지수 MSCI USA(미국 대형·중형)에..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-12T01:17:18+09:00\",\"dateModified\":\"2026-08-12T01:18:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "VLUE(iShares MSCI USA Value Factor ETF)는 미국 가치(value) 팩터에 투자하는 ETF다. 그런데 \"가치주 ETF\"라고 하면 흔히 떠올리는 VTV·SPYV 같은 전통 가치 상품과 접근 방식이 다르다. VLUE는 섹터중립이라는 독특한 규칙을 쓴다. 이 글은 VLUE가 '가치'를 어떻게 정의하는지, 섹터중립이 왜 양날의 검인지, 전통 가치 ETF·다른 팩터와 무엇이 다른지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·보유비중 등 수시 변동 수치는 제외한다.)VLUE는 어떤 ETF인가?VLUE는 iShares(블랙록)가 운용하며 MSCI USA Enhanced Value Index를 추종한다. 모지수 MSCI USA(미국 대형·중형)에..",
+  "og_title": "VLUE ETF란? 미국 가치 팩터·섹터중립·전통 가치와 차이 정리",
+  "post_id": "484",
+  "published_time": "2026-08-12T01:17:18+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VLUE ETF란? 미국 가치 팩터·섹터중립·전통 가치와 차이 정리",
+  "url": "https://mystock-note.tistory.com/484"
+}

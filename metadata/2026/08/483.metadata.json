@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-11",
+  "body_html_length": 9434,
+  "canonical_url": "https://mystock-note.tistory.com/483",
+  "content_hash": "e2d465e0c1a69ad7c6bf40d3156babc26adf19c483bc998631c1d17b5fc466f8",
+  "json_ld_count": 2,
+  "meta_description": "IJH(iShares Core S&P Mid-Cap ETF)는 미국 중형주에 투자하는 대표 ETF다. 많은 투자자가 대형주(S&P500)와 소형주만 챙기다 중형주를 통째로 빠뜨린다. 그런데 '중형주'는 단순히 크기로만 정해지는 게 아니고, 지수사마다 정의도 다르다. 이 글은 IJH의 기초지수(S&P MidCap 400)가 어떻게 구성되는지, 러셀·CRSP 미드캡과 무엇이 다른지, MDY와의 관계와 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·배당률·수익률 등 수시 변동 수치는 제외한다.)IJH는 어떤 ETF인가?IJH는 iShares(블랙록)가 운용하며 S&P MidCap 400 Index를 추종한다. 미국 중형주 약 400종목을 실물로 담으며, 2000년 상장한 오래된..",
+  "modified_time": "2026-08-12T00:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IJH(iShares Core S&P Mid-Cap ETF)는 미국 중형주에 투자하는 대표 ETF다. 많은 투자자가 대형주(S&P500)와 소형주만 챙기다 중형주를 통째로 빠뜨린다. 그런데 '중형주'는 단순히 크기로만 정해지는 게 아니고, 지수사마다 정의도 다르다. 이 글은 IJH의 기초지수(S&P MidCap 400)가 어떻게 구성되는지, 러셀·CRSP 미드캡과 무엇이 다른지, MDY와의 관계와 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·배당률·수익률 등 수시 변동 수치는 제외한다.)IJH는 어떤 ETF인가?IJH는 iShares(블랙록)가 운용하며 S&P MidCap 400 Index를 추종한다. 미국 중형주 약 400종목을 실물로 담으며, 2000년 상장한 오래된..",
+  "og_title": "IJH ETF란? 미국 중형주·S&P400·러셀미드캡 차이·세금 정리",
+  "post_id": "483",
+  "published_time": "2026-08-12T00:16:55+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IJH ETF란? 미국 중형주·S&P400·러셀미드캡 차이·세금 정리",
+  "url": "https://mystock-note.tistory.com/483"
+}

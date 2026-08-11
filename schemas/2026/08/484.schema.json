@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/484/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/484/#etf-vlue"
+      },
+      "dateModified": "2026-08-12",
+      "datePublished": "2026-08-12",
+      "description": "미국 가치 팩터 ETF VLUE의 기초지수(MSCI USA Enhanced Value), 3개 밸류 지표(P/B·P/E fwd·EV/CFO), 섹터중립 구조와 기술주 집중 가능성, 전통 가치(VTV·SPYV)와의 차이, 팩터 부진 위험, 한국 투자자 세금과 국내 대안([정보부족])을 구조 사실 중심으로 정리한다.",
+      "headline": "VLUE ETF란? 미국 가치 팩터·섹터중립·전통 가치와 차이 정리",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/484"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/484/#etf-vlue",
+      "@type": "Thing",
+      "description": "MSCI USA Enhanced Value Index를 추종하는 iShares의 미국 가치 팩터(섹터중립) 상장지수펀드.",
+      "name": "iShares MSCI USA Value Factor ETF (VLUE)"
+    }
+  ]
+}

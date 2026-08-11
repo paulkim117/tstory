@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-11",
+  "body_html_length": 9993,
+  "canonical_url": "https://mystock-note.tistory.com/485",
+  "content_hash": "aad345229d35b6a2b6854cf8f13beebe1fc00e24cf2c71ef13811a73903a841a",
+  "json_ld_count": 1,
+  "meta_description": "EWJ(iShares MSCI Japan ETF)는 미국 증시에서 일본에 투자하는 대표 ETF다. 그런데 \"일본 ETF\" 하면 흔히 떠올리는 니케이225를 EWJ는 추종하지 않는다. 또 하나 — 일본 투자에서 가장 중요한 변수는 종목이 아니라 엔화(JPY)일 때가 많다. 이 글은 EWJ가 어떤 지수를 담는지, 니케이225·TOPIX와 무엇이 다른지, 엔화가 성과에 어떻게 작용하는지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률 등 수시 변동 수치는 제외한다.)EWJ는 어떤 ETF인가?EWJ는 iShares(블랙록)가 운용하며 MSCI Japan Index를 추종한다. 일본 증시의 대형·중형주를 담아 일본 단일 국가 익스포저를 제공한다. 상장은 1996년으로, 앞서..",
+  "modified_time": "2026-08-12T02:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/485\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/485\",\"headline\":\"EWJ ETF란? 일본 투자·MSCI Japan vs 니케이225·엔화·세금 정리\",\"description\":\"EWJ(iShares MSCI Japan ETF)는 미국 증시에서 일본에 투자하는 대표 ETF다. 그런데 \"일본 ETF\" 하면 흔히 떠올리는 니케이225를 EWJ는 추종하지 않는다. 또 하나 — 일본 투자에서 가장 중요한 변수는 종목이 아니라 엔화(JPY)일 때가 많다. 이 글은 EWJ가 어떤 지수를 담는지, 니케이225·TOPIX와 무엇이 다른지, 엔화가 성과에 어떻게 작용하는지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률 등 수시 변동 수치는 제외한다.)EWJ는 어떤 ETF인가?EWJ는 iShares(블랙록)가 운용하며 MSCI Japan Index를 추종한다. 일본 증시의 대형·중형주를 담아 일본 단일 국가 익스포저를 제공한다. 상장은 1996년으로, 앞서..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-12T02:18:10+09:00\",\"dateModified\":\"2026-08-12T02:19:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "EWJ(iShares MSCI Japan ETF)는 미국 증시에서 일본에 투자하는 대표 ETF다. 그런데 \"일본 ETF\" 하면 흔히 떠올리는 니케이225를 EWJ는 추종하지 않는다. 또 하나 — 일본 투자에서 가장 중요한 변수는 종목이 아니라 엔화(JPY)일 때가 많다. 이 글은 EWJ가 어떤 지수를 담는지, 니케이225·TOPIX와 무엇이 다른지, 엔화가 성과에 어떻게 작용하는지, 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·수익률 등 수시 변동 수치는 제외한다.)EWJ는 어떤 ETF인가?EWJ는 iShares(블랙록)가 운용하며 MSCI Japan Index를 추종한다. 일본 증시의 대형·중형주를 담아 일본 단일 국가 익스포저를 제공한다. 상장은 1996년으로, 앞서..",
+  "og_title": "EWJ ETF란? 일본 투자·MSCI Japan vs 니케이225·엔화·세금 정리",
+  "post_id": "485",
+  "published_time": "2026-08-12T02:18:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWJ ETF란? 일본 투자·MSCI Japan vs 니케이225·엔화·세금 정리",
+  "url": "https://mystock-note.tistory.com/485"
+}

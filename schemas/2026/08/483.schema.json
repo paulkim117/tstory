@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-12T00:17:00+09:00",
+    "datePublished": "2026-08-12T00:16:55+09:00",
+    "description": "IJH(iShares Core S&P Mid-Cap ETF)는 미국 중형주에 투자하는 대표 ETF다. 많은 투자자가 대형주(S&P500)와 소형주만 챙기다 중형주를 통째로 빠뜨린다. 그런데 '중형주'는 단순히 크기로만 정해지는 게 아니고, 지수사마다 정의도 다르다. 이 글은 IJH의 기초지수(S&P MidCap 400)가 어떻게 구성되는지, 러셀·CRSP 미드캡과 무엇이 다른지, MDY와의 관계와 한국 투자자의 세금·국내 대안을 구조 사실 중심으로 정리한다. (총보수·순자산·배당률·수익률 등 수시 변동 수치는 제외한다.)IJH는 어떤 ETF인가?IJH는 iShares(블랙록)가 운용하며 S&P MidCap 400 Index를 추종한다. 미국 중형주 약 400종목을 실물로 담으며, 2000년 상장한 오래된..",
+    "headline": "IJH ETF란? 미국 중형주·S&P400·러셀미드캡 차이·세금 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/483",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/483"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/483/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/483/#etf-ijh"
+        },
+        "dateModified": "2026-08-12",
+        "datePublished": "2026-08-12",
+        "description": "미국 중형주 ETF IJH의 기초지수(S&P MidCap 400), 위원회 수익성 선별, S&P 1500 상호배타 구조, MDY·IVOO와의 관계, 러셀·CRSP 미드캡과의 차이, 한국 투자자 세금과 국내 대안([정보부족])을 구조 사실 중심으로 정리한다.",
+        "headline": "IJH ETF란? 미국 중형주·S&P400·러셀미드캡 차이·세금 정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/483"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/483/#etf-ijh",
+        "@type": "Thing",
+        "description": "S&P MidCap 400 Index를 추종하는 iShares의 미국 중형주 상장지수펀드.",
+        "name": "iShares Core S&P Mid-Cap ETF (IJH)"
+      }
+    ]
+  }
+]
