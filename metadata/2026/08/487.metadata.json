@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-12",
+  "body_html_length": 7406,
+  "canonical_url": "https://mystock-note.tistory.com/487",
+  "content_hash": "003140c3d95f514729cb296f1668e6742e9985675e4c7b03dd4069c61c88c234",
+  "json_ld_count": 2,
+  "meta_description": "VNQI는 미국을 제외한(ex-U.S.) 선진·신흥국의 부동산 리츠(REIT)와 부동산 관리·개발 회사(REMD)를 담는 뱅가드(Vanguard) 상장지수펀드입니다. 미국 부동산만 담는 VNQ와는 담는 지역이 정반대라서, 둘을 합치면 미국을 포함한 글로벌 부동산이 됩니다. 아래는 뱅가드 공식 자료와 SEC 투자설명서(Form 497·497K), 그리고 국내 리츠 ETF 지형을 2026년 8월 13일 직접 대조해 정리한 구조·지역·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.VNQI는 어떤 ETF인가요?[사실] VNQI의 정식 명칭은 Vanguard Global ex-U.S. Real Estate ETF입니다. 뱅가드 공식 자료에 따르면 기초지..",
+  "modified_time": "2026-08-13T01:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VNQI는 미국을 제외한(ex-U.S.) 선진·신흥국의 부동산 리츠(REIT)와 부동산 관리·개발 회사(REMD)를 담는 뱅가드(Vanguard) 상장지수펀드입니다. 미국 부동산만 담는 VNQ와는 담는 지역이 정반대라서, 둘을 합치면 미국을 포함한 글로벌 부동산이 됩니다. 아래는 뱅가드 공식 자료와 SEC 투자설명서(Form 497·497K), 그리고 국내 리츠 ETF 지형을 2026년 8월 13일 직접 대조해 정리한 구조·지역·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.VNQI는 어떤 ETF인가요?[사실] VNQI의 정식 명칭은 Vanguard Global ex-U.S. Real Estate ETF입니다. 뱅가드 공식 자료에 따르면 기초지..",
+  "og_title": "VNQI ETF란? 미국 제외 글로벌 부동산 리츠, VNQ와 차이·구성·세금 비교",
+  "post_id": "487",
+  "published_time": "2026-08-13T01:51:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VNQI ETF란? 미국 제외 글로벌 부동산 리츠, VNQ와 차이·구성·세금 비교",
+  "url": "https://mystock-note.tistory.com/487"
+}

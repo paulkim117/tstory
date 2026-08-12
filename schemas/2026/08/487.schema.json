@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-13T01:52:00+09:00",
+    "datePublished": "2026-08-13T01:51:09+09:00",
+    "description": "VNQI는 미국을 제외한(ex-U.S.) 선진·신흥국의 부동산 리츠(REIT)와 부동산 관리·개발 회사(REMD)를 담는 뱅가드(Vanguard) 상장지수펀드입니다. 미국 부동산만 담는 VNQ와는 담는 지역이 정반대라서, 둘을 합치면 미국을 포함한 글로벌 부동산이 됩니다. 아래는 뱅가드 공식 자료와 SEC 투자설명서(Form 497·497K), 그리고 국내 리츠 ETF 지형을 2026년 8월 13일 직접 대조해 정리한 구조·지역·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.VNQI는 어떤 ETF인가요?[사실] VNQI의 정식 명칭은 Vanguard Global ex-U.S. Real Estate ETF입니다. 뱅가드 공식 자료에 따르면 기초지..",
+    "headline": "VNQI ETF란? 미국 제외 글로벌 부동산 리츠, VNQ와 차이·구성·세금 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/487",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/487"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/487/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "미국을 제외한 선진·신흥국 부동산 리츠(REIT)와 부동산 관리·개발 회사(REMD)를 담는 뱅가드 ETF. 기초지수는 S&P Global ex-U.S. Property Index.",
+      "name": "Vanguard Global ex-U.S. Real Estate ETF (VNQI)"
+    },
+    "dateModified": "2026-08-13",
+    "datePublished": "2026-08-13",
+    "description": "VNQI는 미국을 제외한 선진·신흥국 부동산 리츠와 개발·관리 회사(REMD)를 담는 뱅가드 ETF입니다. 미국 리츠(VNQ)와의 지역 차이, REIT+REMD 구조, 다통화 환노출, 국내 대안과 세금을 정리했습니다.",
+    "headline": "VNQI ETF란? 미국 제외 글로벌 부동산 리츠, VNQ와 차이·구성·세금 비교",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/487"
+  }
+]

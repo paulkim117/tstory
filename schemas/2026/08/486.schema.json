@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-13T00:51:00+09:00",
+    "datePublished": "2026-08-13T00:50:45+09:00",
+    "description": "DIA는 미국 다우존스산업평균(DJIA)을 구성하는 30개 종목을 담는 상장지수펀드입니다. State Street(SPDR)가 운용하며, 지수를 가격가중(price-weighted) 방식으로 추종하고, 법적으로는 일반 ETF와 구분되는 단위투자신탁(UIT) 구조를 씁니다. 같은 미국 대형주를 담아도 시가총액 가중인 S&P500 ETF(SPY·VOO)와는 지수·가중·구조가 다릅니다. 아래는 SEC 투자설명서(Form 497·485BPOS), S&P Dow Jones Indices 지수 방법론, 국내 운용사 공식 자료를 2026년 8월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.DIA는 어떤 ETF인가요?[사실]..",
+    "headline": "DIA ETF란? 다우존스30 가격가중 구조와 SPY·VOO 차이, 국내 다우 ETF 비교",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/486",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/486"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/486/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "다우존스산업평균(DJIA) 30종목을 가격가중으로 추종하는 State Street(SPDR)의 UIT 구조 ETF.",
+      "name": "SPDR Dow Jones Industrial Average ETF Trust (DIA)"
+    },
+    "dateModified": "2026-08-13",
+    "datePublished": "2026-08-13",
+    "description": "DIA는 다우존스산업평균(DJIA) 30종목을 가격가중으로 담는 UIT 구조 ETF입니다. 시총가중 S&P500(SPY·VOO)과의 구조 차이, UIT의 배당·대여 제약, 국내 상장 다우 ETF와의 세금 차이를 정리했습니다.",
+    "headline": "DIA ETF란? 다우존스30 가격가중 구조와 SPY·VOO 차이, 국내 다우 ETF 비교",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/486"
+  }
+]

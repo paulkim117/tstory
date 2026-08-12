@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-13T02:52:00+09:00",
+    "datePublished": "2026-08-13T02:51:31+09:00",
+    "description": "LIT는 리튬 채굴·정제부터 2차전지(배터리) 생산까지 이어지는 글로벌 리튬 밸류체인 기업을 담는 Global X의 상장지수펀드입니다. 리튬 '가격'에 직접 투자하는 상품이 아니라, 리튬 산업에 속한 주식에 투자합니다. 한국 배터리 기업 중심의 국내 '2차전지' ETF와는 담는 기업 범위가 다르고, 국내에는 같은 지수를 추종하는 합성복제 상품도 있습니다. 아래는 Global X 공식 자료와 SEC 투자설명서(Form 497K), 미래에셋 공식 자료를 2026년 8월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.LIT는 어떤 ETF인가요?[사실] LIT의 정식 명칭은 Global X Lithium & Batter..",
+    "headline": "LIT ETF란? 글로벌 리튬·배터리 밸류체인 구조와 국내 2차전지 ETF 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/488",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/488"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/488/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "리튬 채굴·정제·배터리 생산 등 글로벌 리튬 밸류체인 기업에 투자하는 Global X ETF. 기초지수는 Solactive Global Lithium Index.",
+      "name": "Global X Lithium & Battery Tech ETF (LIT)"
+    },
+    "dateModified": "2026-08-13",
+    "datePublished": "2026-08-13",
+    "description": "LIT는 리튬 채굴·정제부터 배터리 생산까지 글로벌 리튬 밸류체인 기업을 담는 Global X ETF입니다(Solactive Global Lithium 지수). 국내 2차전지·글로벌리튬 ETF와의 구성 차이, 합성 vs 실물 복제, 세금을 정리했습니다.",
+    "headline": "LIT ETF란? 글로벌 리튬·배터리 밸류체인 구조와 국내 2차전지 ETF 차이",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/488"
+  }
+]
