@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-13",
+  "body_html_length": 6576,
+  "canonical_url": "https://mystock-note.tistory.com/489",
+  "content_hash": "d2364def9e86918571a886076fd90814759d649fc46ca9726012a557cac27ae1",
+  "json_ld_count": 2,
+  "meta_description": "CWB는 미국 전환사채(컨버터블 본드)와 전환우선주를 담는 SPDR(State Street) 상장지수펀드입니다. 전환사채는 채권이면서 발행사 주식으로 바꿀 수 있는 권리(전환권)가 붙은 하이브리드 증권이라, 일반 채권 ETF와 위험 요인이 다릅니다. 주가가 낮을 때는 채권처럼, 높을 때는 주식처럼 움직입니다. 아래는 SSGA 공식 자료와 SEC 투자설명서(Form 497)를 2026년 8월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.CWB는 어떤 ETF인가요?[사실] CWB의 정식 명칭은 SPDR Bloomberg Convertible Securities ETF입니다. SSGA 공식 자료에 따르면 기초지수는 ..",
+  "modified_time": "2026-08-14T00:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "CWB는 미국 전환사채(컨버터블 본드)와 전환우선주를 담는 SPDR(State Street) 상장지수펀드입니다. 전환사채는 채권이면서 발행사 주식으로 바꿀 수 있는 권리(전환권)가 붙은 하이브리드 증권이라, 일반 채권 ETF와 위험 요인이 다릅니다. 주가가 낮을 때는 채권처럼, 높을 때는 주식처럼 움직입니다. 아래는 SSGA 공식 자료와 SEC 투자설명서(Form 497)를 2026년 8월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.CWB는 어떤 ETF인가요?[사실] CWB의 정식 명칭은 SPDR Bloomberg Convertible Securities ETF입니다. SSGA 공식 자료에 따르면 기초지수는 ..",
+  "og_title": "CWB ETF란? 전환사채(컨버터블) 하이브리드 구조와 일반 채권 ETF 차이",
+  "post_id": "489",
+  "published_time": "2026-08-14T00:51:52+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CWB ETF란? 전환사채(컨버터블) 하이브리드 구조와 일반 채권 ETF 차이",
+  "url": "https://mystock-note.tistory.com/489"
+}
