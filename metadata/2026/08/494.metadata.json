@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-14",
+  "body_html_length": 6522,
+  "canonical_url": "https://mystock-note.tistory.com/494",
+  "content_hash": "113204d83c4e311917b7004ade4426ea60b1e0fa75fcd73a4116660917ddd2f6",
+  "json_ld_count": 2,
+  "meta_description": "GDX는 전 세계 금 채굴 기업(금광주)을 담는 VanEck 상장지수펀드입니다. 여기서 핵심은 GDX가 금(금속) 자체가 아니라 금을 캐는 '회사의 주식'에 투자한다는 점입니다. 그래서 금값뿐 아니라 기업 실적·비용·지정학 위험이 함께 반영되고, 일반적으로 금 현물보다 변동성이 큽니다. 아래는 VanEck 공식 자료와 SEC 투자설명서, 국내 대안 자료를 2026년 8월 16일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.GDX는 어떤 ETF인가요?[사실] GDX의 정식 명칭은 VanEck Gold Miners ETF입니다. VanEck 공식 자료에 따르면 현재 기초지수는 MarketVector Global Gold ..",
+  "modified_time": "2026-08-15T02:05:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "GDX는 전 세계 금 채굴 기업(금광주)을 담는 VanEck 상장지수펀드입니다. 여기서 핵심은 GDX가 금(금속) 자체가 아니라 금을 캐는 '회사의 주식'에 투자한다는 점입니다. 그래서 금값뿐 아니라 기업 실적·비용·지정학 위험이 함께 반영되고, 일반적으로 금 현물보다 변동성이 큽니다. 아래는 VanEck 공식 자료와 SEC 투자설명서, 국내 대안 자료를 2026년 8월 16일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.GDX는 어떤 ETF인가요?[사실] GDX의 정식 명칭은 VanEck Gold Miners ETF입니다. VanEck 공식 자료에 따르면 현재 기초지수는 MarketVector Global Gold ..",
+  "og_title": "GDX ETF란? 금 채굴 기업(금광주) 구조와 금 현물(GLD) 차이, 국내 대안",
+  "post_id": "494",
+  "published_time": "2026-08-15T02:04:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GDX ETF란? 금 채굴 기업(금광주) 구조와 금 현물(GLD) 차이, 국내 대안",
+  "url": "https://mystock-note.tistory.com/494"
+}

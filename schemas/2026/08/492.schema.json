@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-15T00:05:00+09:00",
+    "datePublished": "2026-08-15T00:04:01+09:00",
+    "description": "PAVE는 미국의 인프라 '개발(build-out)'에 관여하는 기업 — 건설·엔지니어링, 인프라용 원자재·소재, 중장비, 산업 운송 — 을 담는 Global X 상장지수펀드입니다. 흔히 '인프라 ETF'라고 하면 방어적인 유틸리티·통행료 인컴을 떠올리기 쉽지만, PAVE는 그 반대에 가깝습니다. 인프라를 짓는 쪽의 경기민감 기업들을 담기 때문입니다. 아래는 Global X 공식 자료와 SEC 투자설명서를 2026년 8월 15일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.PAVE는 어떤 ETF인가요?[사실] PAVE의 정식 명칭은 Global X U.S. Infrastructure Development ETF입니다...",
+    "headline": "PAVE ETF란? 미국 인프라 '개발' 테마 구조와 유틸리티·산업재 ETF 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/492",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/492"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/492/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "미국 인프라 개발(건설·엔지니어링·원자재·중장비·산업운송)에 관여하는 기업에 투자하는 Global X ETF. 기초지수는 Indxx U.S. Infrastructure Development Index. 방어적 유틸리티가 아닌 경기민감 테마.",
+      "name": "Global X U.S. Infrastructure Development ETF (PAVE)"
+    },
+    "dateModified": "2026-08-15",
+    "datePublished": "2026-08-15",
+    "description": "PAVE는 미국 인프라 '개발'(건설·엔지니어링·원자재·중장비·산업운송) 기업을 담는 Global X ETF입니다(Indxx US Infrastructure Development 지수). 방어적 유틸리티가 아닌 경기민감 테마라는 점, 산업재·소재 섹터와의 관계, 국내 대안과 세금을 정리했습니다.",
+    "headline": "PAVE ETF란? 미국 인프라 '개발' 테마 구조와 유틸리티·산업재 ETF 차이",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/492"
+  }
+]

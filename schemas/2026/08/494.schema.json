@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-15T02:05:00+09:00",
+    "datePublished": "2026-08-15T02:04:45+09:00",
+    "description": "GDX는 전 세계 금 채굴 기업(금광주)을 담는 VanEck 상장지수펀드입니다. 여기서 핵심은 GDX가 금(금속) 자체가 아니라 금을 캐는 '회사의 주식'에 투자한다는 점입니다. 그래서 금값뿐 아니라 기업 실적·비용·지정학 위험이 함께 반영되고, 일반적으로 금 현물보다 변동성이 큽니다. 아래는 VanEck 공식 자료와 SEC 투자설명서, 국내 대안 자료를 2026년 8월 16일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.GDX는 어떤 ETF인가요?[사실] GDX의 정식 명칭은 VanEck Gold Miners ETF입니다. VanEck 공식 자료에 따르면 현재 기초지수는 MarketVector Global Gold ..",
+    "headline": "GDX ETF란? 금 채굴 기업(금광주) 구조와 금 현물(GLD) 차이, 국내 대안",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/494",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/494"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/494/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "글로벌 금 채굴 기업(금광주)에 투자하는 VanEck ETF. 현재 기초지수는 MarketVector Global Gold Miners Index(구 NYSE Arca Gold Miners). 금 현물과 달리 기업 주식으로 운영레버리지·기업 위험을 가짐.",
+      "name": "VanEck Gold Miners ETF (GDX)"
+    },
+    "dateModified": "2026-08-16",
+    "datePublished": "2026-08-16",
+    "description": "GDX는 글로벌 금 채굴 기업(금광주)을 담는 VanEck ETF입니다(MarketVector Global Gold Miners 지수). 금 현물(GLD)과 달리 운영레버리지·기업 위험을 가진다는 점, 지수 교체 이력, 국내 대안(HANARO)과 세금을 정리했습니다.",
+    "headline": "GDX ETF란? 금 채굴 기업(금광주) 구조와 금 현물(GLD) 차이, 국내 대안",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/494"
+  }
+]
