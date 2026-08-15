@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-16T00:06:00+09:00",
+    "datePublished": "2026-08-16T00:05:07+09:00",
+    "description": "BWX는 미국을 제외한 투자등급 국가의 국채를 담는 SPDR(State Street) 상장지수펀드입니다. 핵심은 이 국채들을 현지 통화 그대로, 환헤지 없이(비헤지) 담는다는 점입니다. 그래서 각국 금리뿐 아니라 환율이 수익을 크게 좌우합니다. 같은 '미국 외 채권'이라도 환헤지를 하는 상품과는 성격이 다릅니다. 아래는 SSGA 공식 자료와 SEC 투자설명서를 2026년 8월 16일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·수익률·구성 비중은 신뢰성 관리를 위해 기재하지 않습니다.BWX는 어떤 ETF인가요?[사실] BWX의 정식 명칭은 SPDR Bloomberg International Treasury Bond ETF입니다. SSGA 공식 자료에 따르면 기초지수는 B..",
+    "headline": "BWX ETF란? 미국 제외 국채(비헤지·현지통화) 구조와 BNDX(헤지) 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/495",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/495"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/495/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "미국을 제외한 투자등급 국가의 국채를 현지통화·비헤지로 담는 SPDR ETF. 기초지수는 Bloomberg Global Treasury ex-US Capped Index. 환율이 수익의 주요 동인.",
+      "name": "SPDR Bloomberg International Treasury Bond ETF (BWX)"
+    },
+    "dateModified": "2026-08-16",
+    "datePublished": "2026-08-16",
+    "description": "BWX는 미국을 제외한 투자등급 국가의 국채를 현지통화·비헤지로 담는 SPDR ETF입니다(Bloomberg Global Treasury ex-US Capped 지수). 환헤지 글로벌채(BNDX)와의 차이, 환 노출이 수익에 미치는 영향, 국내 대안과 세금을 정리했습니다.",
+    "headline": "BWX ETF란? 미국 제외 국채(비헤지·현지통화) 구조와 BNDX(헤지) 차이",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/495"
+  }
+]

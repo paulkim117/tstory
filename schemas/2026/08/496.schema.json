@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-16T01:36:00+09:00",
+    "datePublished": "2026-08-16T01:35:50+09:00",
+    "description": "해외 자산에 투자할 때는 환헤지(H)와 환노출(UH) 중 하나를 골라야 합니다. 환헤지는 환율 변동 위험을 줄여 주지만 양국 금리차만큼 비용이 들 수 있고, 환노출은 환차익 기회와 환위험을 함께 가집니다. 이 글은 특정 상품 추천이 아니라 환헤지 여부를 정하는 결정 기준을 다룹니다. 핵심은 환율을 맞히려는 것이 아니라, 자산의 성격·투자 목적·기간에 맞춰 고르는 것입니다. 아래 내용은 환헤지 원리 자료를 2026년 8월 16일 대조해 정리했으며, 환율·금리는 계속 변하므로 실제 투자 전 최신 상황을 확인해야 합니다.환헤지(H)와 환노출(UH)은 무엇이 다른가요?[사실] 환헤지 ETF는 상품명 뒤에 흔히 (H)가 붙으며, 선물환 등 파생을 이용해 환율 변동 영향을 줄입니다. 수익률이 기초지수 흐름에 더 가..",
+    "headline": "환헤지 vs 환노출 ETF, 무엇을 고를까 — 자산·비용·기간 기준 결정 가이드",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/496",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/496"
+  },
+  {
+    "@context": "https://schema.org",
+    "@id": "https://mystock-note.tistory.com/496/#blogposting",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "해외 자산 ETF 투자 시 환율 변동 위험을 줄이는 환헤지(H)와 환율을 그대로 반영하는 환노출(UH) 중 무엇을 고를지 결정하는 기준. 헤지 비용은 양국 금리차에서 발생.",
+      "name": "환헤지 vs 환노출 ETF 선택"
+    },
+    "dateModified": "2026-08-16",
+    "datePublished": "2026-08-16",
+    "description": "해외 ETF는 환헤지(H)와 환노출(UH) 중 하나를 골라야 합니다. 환헤지는 환율 위험을 줄이지만 금리차만큼 비용이 들고, 환노출은 환차익 기회와 위험을 함께 가집니다. 자산 성격·비용·기간 기준으로 판단 기준을 정리했습니다.",
+    "headline": "환헤지 vs 환노출 ETF, 무엇을 고를까 — 자산·비용·기간 기준 결정 가이드",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website"
+    },
+    "url": "https://mystock-note.tistory.com/496"
+  }
+]
