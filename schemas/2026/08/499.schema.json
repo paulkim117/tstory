@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "이자·배당 분배 방식과 세금·과세이연 차이에 따른 ETF 선택 결정 프레임",
+    "name": "분배형·TR형 ETF 선택"
+  },
+  "dateModified": "2026-08-17",
+  "datePublished": "2026-08-17",
+  "description": "분배형 ETF와 TR(재투자)형 ETF의 세금·과세이연·현금흐름 차이를 정리하고, 2025년 7월 TR 분배 의무화 제도 변화와 자산유형·계좌별 선택 기준을 결정 프레임으로 제시한다.",
+  "headline": "분배형 ETF와 TR형 ETF, 무엇을 골라야 하나요? 세금·재투자 차이로 보는 선택 기준",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@id": "https://mystock-note.tistory.com/#website",
+    "@type": "WebSite",
+    "name": "Stock Memo",
+    "url": "https://mystock-note.tistory.com"
+  },
+  "url": "https://mystock-note.tistory.com/499"
+}

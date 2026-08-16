@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-16",
+  "body_html_length": 4839,
+  "canonical_url": "https://mystock-note.tistory.com/499",
+  "content_hash": "4244a57234f0fb3505d0113a446d16f07097732f65b115b398fa4e545e3ed4d3",
+  "json_ld_count": 1,
+  "meta_description": "분배형 ETF는 이자·배당을 투자자에게 지급하고, TR(Total Return)형 ETF는 이를 펀드 내부에 재투자합니다. 과거에는 TR형이 분배금을 지급하지 않아 과세를 이연하는 효과가 있었지만, 2025년 7월 1일부터 국내주식형을 제외한 TR ETF는 연 1회 이상 분배가 의무화되면서 이 구도가 달라졌습니다. 즉 \"TR형이 항상 세금에 유리하다\"는 통념은 더 이상 단순하게 적용되지 않습니다. 이 글은 두 방식의 구조·세금 차이, 2025년 제도 변화, 그리고 자산유형·계좌·투자 목적에 따라 무엇을 골라야 하는지를 결정 순서로 정리합니다. 세율 하나로 끝나는 문제가 아니라, 상황별로 답이 갈리는 선택 문제입니다.분배형과 TR형 ETF는 무엇이 다른가요?차이는 이자·배당을 \"지급하느냐(분배형)\" 아니면..",
+  "modified_time": "2026-08-17T02:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/499\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/499\",\"headline\":\"분배형 ETF와 TR형 ETF, 무엇을 골라야 하나요? 세금·재투자 차이로 보는 선택 기준\",\"description\":\"분배형 ETF는 이자·배당을 투자자에게 지급하고, TR(Total Return)형 ETF는 이를 펀드 내부에 재투자합니다. 과거에는 TR형이 분배금을 지급하지 않아 과세를 이연하는 효과가 있었지만, 2025년 7월 1일부터 국내주식형을 제외한 TR ETF는 연 1회 이상 분배가 의무화되면서 이 구도가 달라졌습니다. 즉 \"TR형이 항상 세금에 유리하다\"는 통념은 더 이상 단순하게 적용되지 않습니다. 이 글은 두 방식의 구조·세금 차이, 2025년 제도 변화, 그리고 자산유형·계좌·투자 목적에 따라 무엇을 골라야 하는지를 결정 순서로 정리합니다. 세율 하나로 끝나는 문제가 아니라, 상황별로 답이 갈리는 선택 문제입니다.분배형과 TR형 ETF는 무엇이 다른가요?차이는 이자·배당을 \"지급하느냐(분배형)\" 아니면..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-17T02:37:32+09:00\",\"dateModified\":\"2026-08-17T02:38:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "분배형 ETF는 이자·배당을 투자자에게 지급하고, TR(Total Return)형 ETF는 이를 펀드 내부에 재투자합니다. 과거에는 TR형이 분배금을 지급하지 않아 과세를 이연하는 효과가 있었지만, 2025년 7월 1일부터 국내주식형을 제외한 TR ETF는 연 1회 이상 분배가 의무화되면서 이 구도가 달라졌습니다. 즉 \"TR형이 항상 세금에 유리하다\"는 통념은 더 이상 단순하게 적용되지 않습니다. 이 글은 두 방식의 구조·세금 차이, 2025년 제도 변화, 그리고 자산유형·계좌·투자 목적에 따라 무엇을 골라야 하는지를 결정 순서로 정리합니다. 세율 하나로 끝나는 문제가 아니라, 상황별로 답이 갈리는 선택 문제입니다.분배형과 TR형 ETF는 무엇이 다른가요?차이는 이자·배당을 \"지급하느냐(분배형)\" 아니면..",
+  "og_title": "분배형 ETF와 TR형 ETF, 무엇을 골라야 하나요? 세금·재투자 차이로 보는 선택 기준",
+  "post_id": "499",
+  "published_time": "2026-08-17T02:37:32+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "분배형 ETF와 TR형 ETF, 무엇을 골라야 하나요? 세금·재투자 차이로 보는 선택 기준",
+  "url": "https://mystock-note.tistory.com/499"
+}

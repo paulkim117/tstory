@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-16",
+  "body_html_length": 7667,
+  "canonical_url": "https://mystock-note.tistory.com/497",
+  "content_hash": "12bc25730feddf416a7dc99fdbd7431ad82e7e1e725b7d570ba387d0f8e7d2ab",
+  "json_ld_count": 2,
+  "meta_description": "TAN은 미국 인베스코(Invesco)가 운용하는 글로벌 태양광 테마 ETF로, MAC 글로벌 태양광 지수(SUNIDX)를 대표표본추출 방식으로 추종합니다. 2008년 4월 15일 상장된 이 상품은 태양광 밸류체인 전반의 기업 주식을 담으며, 광의 청정에너지 ETF인 ICLN이나 리튬·2차전지 ETF인 LIT와는 편입 범위가 다릅니다. 이 글은 TAN의 지수 편입 기준, 복제 구조, 지수 개편 이력, 그리고 한국 투자자에게 중요한 국내 상장 대안과 세금 차이를 확인 기준 중심으로 정리합니다. 수익률·총보수·순자산·구성종목 비중 등 수시로 변하는 수치는 다루지 않고, 상품을 고르는 데 필요한 구조·규칙·세제만 다룹니다.TAN ETF는 어떤 상품인가요?TAN은 태양광 산업에 집중 투자하는 섹터 테마 ETF입..",
+  "modified_time": "2026-08-17T00:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "TAN은 미국 인베스코(Invesco)가 운용하는 글로벌 태양광 테마 ETF로, MAC 글로벌 태양광 지수(SUNIDX)를 대표표본추출 방식으로 추종합니다. 2008년 4월 15일 상장된 이 상품은 태양광 밸류체인 전반의 기업 주식을 담으며, 광의 청정에너지 ETF인 ICLN이나 리튬·2차전지 ETF인 LIT와는 편입 범위가 다릅니다. 이 글은 TAN의 지수 편입 기준, 복제 구조, 지수 개편 이력, 그리고 한국 투자자에게 중요한 국내 상장 대안과 세금 차이를 확인 기준 중심으로 정리합니다. 수익률·총보수·순자산·구성종목 비중 등 수시로 변하는 수치는 다루지 않고, 상품을 고르는 데 필요한 구조·규칙·세제만 다룹니다.TAN ETF는 어떤 상품인가요?TAN은 태양광 산업에 집중 투자하는 섹터 테마 ETF입..",
+  "og_title": "TAN ETF란? 인베스코 태양광 ETF 구조와 ICLN·국내 태양광 ETF 차이 정리",
+  "post_id": "497",
+  "published_time": "2026-08-17T00:36:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TAN ETF란? 인베스코 태양광 ETF 구조와 ICLN·국내 태양광 ETF 차이 정리",
+  "url": "https://mystock-note.tistory.com/497"
+}

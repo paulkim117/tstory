@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-17T00:37:00+09:00",
+    "datePublished": "2026-08-17T00:36:45+09:00",
+    "description": "TAN은 미국 인베스코(Invesco)가 운용하는 글로벌 태양광 테마 ETF로, MAC 글로벌 태양광 지수(SUNIDX)를 대표표본추출 방식으로 추종합니다. 2008년 4월 15일 상장된 이 상품은 태양광 밸류체인 전반의 기업 주식을 담으며, 광의 청정에너지 ETF인 ICLN이나 리튬·2차전지 ETF인 LIT와는 편입 범위가 다릅니다. 이 글은 TAN의 지수 편입 기준, 복제 구조, 지수 개편 이력, 그리고 한국 투자자에게 중요한 국내 상장 대안과 세금 차이를 확인 기준 중심으로 정리합니다. 수익률·총보수·순자산·구성종목 비중 등 수시로 변하는 수치는 다루지 않고, 상품을 고르는 데 필요한 구조·규칙·세제만 다룹니다.TAN ETF는 어떤 상품인가요?TAN은 태양광 산업에 집중 투자하는 섹터 테마 ETF입..",
+    "headline": "TAN ETF란? 인베스코 태양광 ETF 구조와 ICLN·국내 태양광 ETF 차이 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/497",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/497"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "MAC Global Solar Energy Index를 추종하는 미국 상장 글로벌 태양광 테마 ETF",
+      "name": "Invesco Solar ETF (TAN)"
+    },
+    "dateModified": "2026-08-17",
+    "datePublished": "2026-08-17",
+    "description": "TAN(인베스코 태양광 ETF)의 기초지수·복제방식·편입 기준을 정리하고, 광의 청정에너지 ETF ICLN 및 국내 상장 태양광 대안과의 차이, 한국 투자자 세금까지 비교해 선택 기준을 제시한다.",
+    "headline": "TAN ETF란? 인베스코 태양광 ETF 구조와 ICLN·국내 태양광 ETF 차이 정리",
+    "inLanguage": "ko-KR",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/497"
+  }
+]
