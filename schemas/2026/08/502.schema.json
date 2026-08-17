@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-18T02:56:00+09:00",
+    "datePublished": "2026-08-18T02:55:12+09:00",
+    "description": "패시브 ETF는 지수를 그대로 추종하고, 액티브 ETF는 운용사가 비교지수 대비 초과수익을 노려 종목을 조정합니다. 다만 국내 액티브 ETF는 미국과 달리 비교지수와 일간 상관계수 0.7 이상을 유지해야 하는 규제가 있어, 완전한 자유 운용이 아닙니다. 이 글은 두 방식의 구조 차이, 국내 상관계수 규제와 그 개편 논의, 보수·투명성 차이, 그리고 세금이 액티브·패시브가 아니라 자산유형에 따라 결정된다는 점을 결정 프레임으로 정리합니다. 수익률·보수율 등 변동 수치는 다루지 않고, 선택에 필요한 구조와 규제를 다룹니다.액티브 ETF와 패시브 ETF는 무엇이 다른가요?패시브는 지수 복제를 목표로 하고, 액티브는 지수 대비 초과수익을 목표로 합니다. [사실]구분패시브 ETF액티브 ETF운용 목표지수 추종(복..",
+    "headline": "액티브 ETF와 패시브 ETF, 무엇을 골라야 하나요? 상관계수 규제·보수·세금으로 보는 선택 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/502",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/502"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "운용 방식·국내 상관계수 규제·보수·세금에 따른 액티브·패시브 ETF 선택 결정 프레임",
+      "name": "액티브·패시브 ETF 선택"
+    },
+    "dateModified": "2026-08-18",
+    "datePublished": "2026-08-18",
+    "description": "액티브 ETF와 패시브 ETF의 운용 방식 차이, 국내 상관계수 0.7 규제와 완전 액티브 도입 논의, 보수·투명성 차이, 그리고 세금이 자산유형으로 결정되는 구조를 결정 프레임으로 정리한다.",
+    "headline": "액티브 ETF와 패시브 ETF, 무엇을 골라야 하나요? 상관계수 규제·보수·세금으로 보는 선택 기준",
+    "inLanguage": "ko-KR",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/502"
+  }
+]

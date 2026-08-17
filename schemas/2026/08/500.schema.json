@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-18T00:38:02+09:00",
+    "datePublished": "2026-08-18T00:37:59+09:00",
+    "description": "GNR은 미국 스테이트스트리트(SPDR)가 운용하는 글로벌 천연자원 주식 ETF로, S&P 글로벌 천연자원 지수를 추종합니다. 농업·에너지·금속광업 3개 섹터의 대형 기업 90종목을 담되, 각 섹터 비중을 3분의 1로 제한하는 것이 핵심입니다. 실물 원자재나 선물이 아니라 자원을 생산하는 기업의 주식을 담는다는 점이 국내 원자재 ETF 다수와 근본적으로 다릅니다. 이 글은 GNR의 지수 구조, 3분의 1 상한 규칙, 리밸런싱, 그리고 금 채굴 ETF(GDX)·실물 금은(GLD·SLV)과의 차이, 국내 대안과 세금을 확인 기준 중심으로 정리합니다. 수익률·총보수·순자산·섹터 비중 등 변동 수치는 다루지 않습니다.GNR은 어떤 상품인가요?GNR은 전 세계 천연자원·커머디티 기업 주식에 분산 투자하는 ETF입..",
+    "headline": "GNR ETF란? SPDR 글로벌 천연자원 ETF 구조와 GDX·실물 금은 차이 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/500",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/500"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "S&P 글로벌 천연자원 지수를 추종하는 미국 상장 글로벌 천연자원 주식 ETF",
+      "name": "SPDR S&P Global Natural Resources ETF (GNR)"
+    },
+    "dateModified": "2026-08-18",
+    "datePublished": "2026-08-18",
+    "description": "GNR(SPDR 글로벌 천연자원 ETF)의 기초지수, 농업·에너지·금속광업 3섹터 90종목 구조와 3분의 1 상한 규칙을 정리하고, GDX·실물 금은·국내 원자재 ETF와의 차이, 한국 투자자 세금을 비교한다.",
+    "headline": "GNR ETF란? SPDR 글로벌 천연자원 ETF 구조와 GDX·실물 금은 차이 정리",
+    "inLanguage": "ko-KR",
+    "isPartOf": {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/500"
+  }
+]

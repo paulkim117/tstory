@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "러셀2000·S&P SmallCap 600·CRSP·액티브 팩터 소형주 ETF의 지수 방법론과 선택 기준 비교",
+    "name": "미국 소형주 ETF 비교"
+  },
+  "dateModified": "2026-08-18",
+  "datePublished": "2026-08-18",
+  "description": "미국 소형주 ETF IWM·IJR·IJS·IJT·VB·AVUV를 지수 방법론(러셀2000 vs S&P600 수익성 스크린 vs CRSP vs 팩터), 스타일, 재구성 방식, 국내 대안과 세금까지 비교해 선택 기준을 정리한다.",
+  "headline": "미국 소형주 ETF 비교: IWM·IJR·VB·AVUV 지수 방식과 수익성 스크린 차이",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@id": "https://mystock-note.tistory.com/#website",
+    "@type": "WebSite",
+    "name": "Stock Memo",
+    "url": "https://mystock-note.tistory.com"
+  },
+  "url": "https://mystock-note.tistory.com/501"
+}
