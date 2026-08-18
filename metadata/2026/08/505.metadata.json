@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-18",
+  "body_html_length": 10840,
+  "canonical_url": "https://mystock-note.tistory.com/505",
+  "content_hash": "0ba962169cca2176e0e0ddafb26a230d1b09c184a5cbb131361dd3c8321515da",
+  "json_ld_count": 2,
+  "meta_description": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리PHO는 Invesco가 운용하는 미국 물(Water) 테마 ETF로 Nasdaq OMX US Water Index를 추종한다. 물 기업의 정의, 유동성 가중 방식, FIW·CGW와의 차이, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. PHO는 어떤 ETF인가?PHO는 미국 물 산업에 집중 노출되는 테마 ETF다. 운용사는 Invesco, 추종 지수는 Nasdaq OMX US Water Index이며, 미국 증시에 상장·달러로 거래된다. [사실: Invesco·SEC 497] 2005-12-06..",
+  "modified_time": "2026-08-19T02:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리PHO는 Invesco가 운용하는 미국 물(Water) 테마 ETF로 Nasdaq OMX US Water Index를 추종한다. 물 기업의 정의, 유동성 가중 방식, FIW·CGW와의 차이, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. PHO는 어떤 ETF인가?PHO는 미국 물 산업에 집중 노출되는 테마 ETF다. 운용사는 Invesco, 추종 지수는 Nasdaq OMX US Water Index이며, 미국 증시에 상장·달러로 거래된다. [사실: Invesco·SEC 497] 2005-12-06..",
+  "og_title": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리",
+  "post_id": "505",
+  "published_time": "2026-08-19T02:58:31+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리",
+  "url": "https://mystock-note.tistory.com/505"
+}

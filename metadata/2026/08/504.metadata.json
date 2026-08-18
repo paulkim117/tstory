@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-18",
+  "body_html_length": 12001,
+  "canonical_url": "https://mystock-note.tistory.com/504",
+  "content_hash": "79074d0ace54a38761210cab06d1484133c5db85e70f63f1e226123453204067",
+  "json_ld_count": 2,
+  "meta_description": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리IHE는 iShares(블랙록)가 운용하는 미국 제약 ETF로 Dow Jones U.S. Select Pharmaceuticals Index를 추종한다. 바이오테크·광의 헬스케어·의료기기와의 차이, 캡핑 구조, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안(광의 미국 헬스케어)까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. IHE는 어떤 ETF인가?IHE는 미국 제약(pharmaceuticals) 섹터에 집중 노출되는 섹터 ETF다. 운용사는 iShares(블랙록), 추종 지수는 Dow Jones U.S. Select Pharmaceutical..",
+  "modified_time": "2026-08-19T01:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리IHE는 iShares(블랙록)가 운용하는 미국 제약 ETF로 Dow Jones U.S. Select Pharmaceuticals Index를 추종한다. 바이오테크·광의 헬스케어·의료기기와의 차이, 캡핑 구조, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안(광의 미국 헬스케어)까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. IHE는 어떤 ETF인가?IHE는 미국 제약(pharmaceuticals) 섹터에 집중 노출되는 섹터 ETF다. 운용사는 iShares(블랙록), 추종 지수는 Dow Jones U.S. Select Pharmaceutical..",
+  "og_title": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리",
+  "post_id": "504",
+  "published_time": "2026-08-19T01:58:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리",
+  "url": "https://mystock-note.tistory.com/504"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-19T00:56:00+09:00",
+    "datePublished": "2026-08-19T00:55:36+09:00",
+    "description": "EWU ETF란? MSCI 영국 지수·FTSE 100과 차이·세금·국내 대안 총정리EWU는 iShares(블랙록)가 운용하는 영국 단일국 ETF로 MSCI United Kingdom Index를 추종한다. FTSE 100과의 구조 차이, GBP 환노출, 영국 인지세(SDRT), 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다. 이 글은 특정 종목의 매수·매도를 권유하지 않으며, 총보수·수익률·분배율 등 수시로 변하는 수치는 원칙적으로 배제하고 구조·규정 사실 중심으로 서술한다.1. EWU는 어떤 ETF인가?EWU는 영국 한 나라의 주식에 집중 노출되도록 설계된 단일국(single-country) ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI Uni..",
+    "headline": "EWU ETF란? MSCI 영국 지수·FTSE 100과 차이·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/503",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/503"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/503/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/503/#etf-ewu"
+        },
+        "dateModified": "2026-08-19",
+        "datePublished": "2026-08-19",
+        "description": "EWU는 iShares가 운용하는 영국 단일국 ETF로 MSCI United Kingdom 지수를 추종한다. FTSE 100과의 구조 차이, GBP 환노출, 영국 인지세(SDRT), 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다.",
+        "headline": "EWU ETF란? MSCI 영국 지수·FTSE 100과 차이·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/503"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/503/#etf-ewu",
+        "@type": "Thing",
+        "description": "iShares가 운용하는 영국 단일국 ETF. MSCI United Kingdom Index(대·중형) 추종, NYSE Arca 상장, GBP 비헤지.",
+        "name": "EWU (iShares MSCI United Kingdom ETF)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-19T02:59:00+09:00",
+    "datePublished": "2026-08-19T02:58:31+09:00",
+    "description": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리PHO는 Invesco가 운용하는 미국 물(Water) 테마 ETF로 Nasdaq OMX US Water Index를 추종한다. 물 기업의 정의, 유동성 가중 방식, FIW·CGW와의 차이, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. PHO는 어떤 ETF인가?PHO는 미국 물 산업에 집중 노출되는 테마 ETF다. 운용사는 Invesco, 추종 지수는 Nasdaq OMX US Water Index이며, 미국 증시에 상장·달러로 거래된다. [사실: Invesco·SEC 497] 2005-12-06..",
+    "headline": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/505",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/505"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/505/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/505/#etf-pho"
+        },
+        "dateModified": "2026-08-19",
+        "datePublished": "2026-08-19",
+        "description": "PHO는 Invesco가 운용하는 미국 물(Water) 테마 ETF로 Nasdaq OMX US Water Index를 추종한다. 물 기업의 정의, 유동성 가중 방식, FIW·CGW와의 차이, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안 여부까지 사실 기준으로 정리한다.",
+        "headline": "PHO ETF란? 미국 물 지수·FIW/CGW와 차이·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/505"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/505/#etf-pho",
+        "@type": "Thing",
+        "description": "Invesco가 운용하는 미국 물 테마 ETF. Nasdaq OMX US Water Index(수정 유동성 가중) 추종, 2005-12-06 상장, 비분산형, 완전복제.",
+        "name": "PHO (Invesco Water Resources ETF)"
+      }
+    ]
+  }
+]

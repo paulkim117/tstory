@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-19T01:59:00+09:00",
+    "datePublished": "2026-08-19T01:58:04+09:00",
+    "description": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리IHE는 iShares(블랙록)가 운용하는 미국 제약 ETF로 Dow Jones U.S. Select Pharmaceuticals Index를 추종한다. 바이오테크·광의 헬스케어·의료기기와의 차이, 캡핑 구조, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안(광의 미국 헬스케어)까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. IHE는 어떤 ETF인가?IHE는 미국 제약(pharmaceuticals) 섹터에 집중 노출되는 섹터 ETF다. 운용사는 iShares(블랙록), 추종 지수는 Dow Jones U.S. Select Pharmaceutical..",
+    "headline": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/504",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/504"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/504/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/504/#etf-ihe"
+        },
+        "dateModified": "2026-08-19",
+        "datePublished": "2026-08-19",
+        "description": "IHE는 iShares가 운용하는 미국 제약 ETF로 Dow Jones U.S. Select Pharmaceuticals Index를 추종한다. 바이오테크·광의 헬스케어·의료기기와의 차이, 캡핑 구조, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다.",
+        "headline": "IHE ETF란? 미국 제약 지수·바이오/헬스케어와 차이·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/504"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/504/#etf-ihe",
+        "@type": "Thing",
+        "description": "iShares가 운용하는 미국 제약 ETF. Dow Jones U.S. Select Pharmaceuticals Index(캡드 시총가중) 추종, NYSE Arca 상장, 비분산형.",
+        "name": "IHE (iShares U.S. Pharmaceuticals ETF)"
+      }
+    ]
+  }
+]
