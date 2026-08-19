@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-20T00:20:00+09:00",
+    "datePublished": "2026-08-20T00:19:39+09:00",
+    "description": "IHF ETF란? 미국 헬스케어 공급자 지수·제약/기기와 차이·세금·국내 대안 총정리IHF는 iShares(블랙록)가 운용하는 미국 헬스케어 공급자 ETF로 Dow Jones U.S. Select Health Care Providers Index를 추종한다. 관리의료·병원·건강보험 등 공급자의 정의, 제약(IHE)·기기(IHI)와의 차이, 정책·수가 규제 리스크, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. IHF는 어떤 ETF인가?IHF는 미국 헬스케어 공급자(health care providers) 하위섹터에 집중 노출되는 섹터 ETF다. 운용사는 iShares(블랙록)..",
+    "headline": "IHF ETF란? 미국 헬스케어 공급자 지수·제약/기기와 차이·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/506",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/506"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/506/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/506/#etf-ihf"
+        },
+        "dateModified": "2026-08-20",
+        "datePublished": "2026-08-20",
+        "description": "IHF는 iShares가 운용하는 미국 헬스케어 공급자 ETF로 Dow Jones U.S. Select Health Care Providers Index를 추종한다. 관리의료·병원·건강보험 등 공급자의 정의, 제약(IHE)·기기(IHI)와의 차이, 정책·수가 규제 리스크, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다.",
+        "headline": "IHF ETF란? 미국 헬스케어 공급자 지수·제약/기기와 차이·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/506"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/506/#etf-ihf",
+        "@type": "Thing",
+        "description": "iShares가 운용하는 미국 헬스케어 공급자 ETF. Dow Jones U.S. Select Health Care Providers Index(캡드 유동시총 가중) 추종, 2006-05-01 상장, 비분산형, 대표표본추출.",
+        "name": "IHF (iShares U.S. Healthcare Providers ETF)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-20T02:22:00+09:00",
+    "datePublished": "2026-08-20T02:21:16+09:00",
+    "description": "IQLT ETF란? 국제(선진국) 퀄리티 팩터 지수·섹터중립·세금·국내 대안 총정리IQLT는 iShares(블랙록)가 운용하는 국제(선진국 ex-US) 퀄리티 팩터 ETF로 MSCI World ex USA Sector Neutral Quality Index를 추종한다. 퀄리티 3지표, 섹터 중립 방식, 광의 선진국 ETF와의 차이, '미국 제외'의 의미, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. IQLT는 어떤 ETF인가?IQLT는 미국을 제외한 선진국 주식 중 '퀄리티(quality)'가 높은 기업에 가중을 두는 팩터 ETF다. 운용사는 iShares(블랙록), 추종 ..",
+    "headline": "IQLT ETF란? 국제(선진국) 퀄리티 팩터 지수·섹터중립·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/508",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/508"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/508/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/508/#etf-iqlt"
+        },
+        "dateModified": "2026-08-20",
+        "datePublished": "2026-08-20",
+        "description": "IQLT는 iShares가 운용하는 국제(선진국 ex-US) 퀄리티 팩터 ETF로 MSCI World ex USA Sector Neutral Quality Index를 추종한다. 퀄리티 3지표, 섹터 중립 방식, 광의 선진국 ETF와의 차이, 미국 제외의 의미, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다.",
+        "headline": "IQLT ETF란? 국제(선진국) 퀄리티 팩터 지수·섹터중립·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/508"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/508/#etf-iqlt",
+        "@type": "Thing",
+        "description": "iShares가 운용하는 국제(선진국 ex-US) 퀄리티 팩터 ETF. MSCI World ex USA Sector Neutral Quality Index(ROE·이익변동성·부채비율, 섹터 중립, 5% 상한) 추종, 2015-01-13 상장, 분산형, 물리복제.",
+        "name": "IQLT (iShares MSCI Intl Quality Factor ETF)"
+      }
+    ]
+  }
+]

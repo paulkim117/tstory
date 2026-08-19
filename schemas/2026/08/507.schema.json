@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-20T01:21:00+09:00",
+    "datePublished": "2026-08-20T01:20:10+09:00",
+    "description": "EWC ETF란? MSCI 캐나다 지수·S&P/TSX와 차이·캡핑·세금·국내 대안 총정리EWC는 iShares(블랙록)가 운용하는 캐나다 단일국 ETF로 MSCI Canada Custom Capped Index를 추종한다. 캐나다 대표지수 S&P/TSX와의 차이, 캡핑(비중 상한)을 쓰는 이유, 금융·에너지 섹터 편중, CAD 환노출, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. 총보수·수익률·분배율 등 수시로 변하는 수치는 배제하고 구조·규정 사실 중심으로 서술한다.1. EWC는 어떤 ETF인가?EWC는 캐나다 한 나라의 주식에 집중 노출되는 단일국 ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI Canada Custom Capped Index이며..",
+    "headline": "EWC ETF란? MSCI 캐나다 지수·S&P/TSX와 차이·캡핑·세금·국내 대안 총정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/507",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/507"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/507/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/507/#etf-ewc"
+        },
+        "dateModified": "2026-08-20",
+        "datePublished": "2026-08-20",
+        "description": "EWC는 iShares가 운용하는 캐나다 단일국 ETF로 MSCI Canada Custom Capped Index를 추종한다. S&P/TSX와의 차이, 캡핑을 쓰는 이유, 금융·에너지 섹터 편중, CAD 환노출, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다.",
+        "headline": "EWC ETF란? MSCI 캐나다 지수·S&P/TSX와 차이·캡핑·세금·국내 대안 총정리",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/507"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/507/#etf-ewc",
+        "@type": "Thing",
+        "description": "iShares가 운용하는 캐나다 단일국 ETF. MSCI Canada Custom Capped Index(단일 22.5% 상한 캡드) 추종, 1996년 상장, CAD 비헤지, 금융·에너지 편중.",
+        "name": "EWC (iShares MSCI Canada ETF)"
+      }
+    ]
+  }
+]
