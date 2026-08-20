@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-20",
+  "body_html_length": 10719,
+  "canonical_url": "https://mystock-note.tistory.com/510",
+  "content_hash": "c52e3147c1cb66a147af91f1069c6bcbd209c76b102d701738eb1c076cef26a3",
+  "json_ld_count": 2,
+  "meta_description": "EWW는 iShares(블랙록)가 운용하는 멕시코 단일국 ETF로 MSCI Mexico IMI 25/50 Index를 추종한다. 멕시코 대표지수 S&P/BMV IPC와의 차이, 25/50 캡핑(비중 상한)을 쓰는 이유, 페소(MXN) 환노출, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. (총보수·국가/종목 비중·수익률·순자산 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 분류·방법론 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)EWW는 어떤 ETF인가?EWW는 멕시코 한 나라의 주식에 집중 노출되는 단일국 ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI Mexico IMI 25/50 Index이며, 미국 증시에 상장·달러로 거래된다. ..",
+  "modified_time": "2026-08-21T01:24:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWW는 iShares(블랙록)가 운용하는 멕시코 단일국 ETF로 MSCI Mexico IMI 25/50 Index를 추종한다. 멕시코 대표지수 S&P/BMV IPC와의 차이, 25/50 캡핑(비중 상한)을 쓰는 이유, 페소(MXN) 환노출, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. (총보수·국가/종목 비중·수익률·순자산 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 분류·방법론 등 구조 사실만 기재하고, 산술은 전부 가상 예시다.)EWW는 어떤 ETF인가?EWW는 멕시코 한 나라의 주식에 집중 노출되는 단일국 ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI Mexico IMI 25/50 Index이며, 미국 증시에 상장·달러로 거래된다. ..",
+  "og_title": "EWW ETF란? MSCI 멕시코 지수·S&P/BMV IPC와 차이·25/50 캡·세금·국내 대안 총정리",
+  "post_id": "510",
+  "published_time": "2026-08-21T01:23:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWW ETF란? MSCI 멕시코 지수·S&P/BMV IPC와 차이·25/50 캡·세금·국내 대안 총정리",
+  "url": "https://mystock-note.tistory.com/510"
+}

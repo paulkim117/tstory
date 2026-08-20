@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-20",
+  "body_html_length": 10831,
+  "canonical_url": "https://mystock-note.tistory.com/509",
+  "content_hash": "f8a230b98be1c1dd2da4ca78b1b04afdee4d63705940cec0c538cad03b170436",
+  "json_ld_count": 2,
+  "meta_description": "IMTM은 iShares(블랙록)가 운용하는 국제(선진국 ex-US) 모멘텀 팩터 ETF로 MSCI World ex USA Momentum Index를 추종한다. 모멘텀의 정의, 섹터 중립이 아닌 점(퀄리티 IQLT와의 결정적 차이), 미국 제외의 의미, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. (총보수·수익률·순자산·종목수 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 구조·방법론 사실만 기재하고, 산술은 전부 가상 예시다.)IMTM은 어떤 ETF인가?IMTM은 미국을 제외한 선진국 주식 중 가격 모멘텀이 높은 종목에 가중을 두는 팩터 ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI World ex USA Momentum Index이며, ..",
+  "modified_time": "2026-08-21T00:24:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IMTM은 iShares(블랙록)가 운용하는 국제(선진국 ex-US) 모멘텀 팩터 ETF로 MSCI World ex USA Momentum Index를 추종한다. 모멘텀의 정의, 섹터 중립이 아닌 점(퀄리티 IQLT와의 결정적 차이), 미국 제외의 의미, 한국 투자자의 양도소득세·계좌 편입 제한, 국내 대안까지 사실 기준으로 정리한다. (총보수·수익률·순자산·종목수 실측치는 자주 바뀌므로 수치로 적지 않는다. 지수의 구조·방법론 사실만 기재하고, 산술은 전부 가상 예시다.)IMTM은 어떤 ETF인가?IMTM은 미국을 제외한 선진국 주식 중 가격 모멘텀이 높은 종목에 가중을 두는 팩터 ETF다. 운용사는 iShares(블랙록), 추종 지수는 MSCI World ex USA Momentum Index이며, ..",
+  "og_title": "IMTM ETF란? 국제(선진국) 모멘텀 팩터 지수·IQLT와 차이·세금·국내 대안 총정리",
+  "post_id": "509",
+  "published_time": "2026-08-21T00:23:23+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IMTM ETF란? 국제(선진국) 모멘텀 팩터 지수·IQLT와 차이·세금·국내 대안 총정리",
+  "url": "https://mystock-note.tistory.com/509"
+}
