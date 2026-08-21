@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-21",
+  "body_html_length": 12287,
+  "canonical_url": "https://mystock-note.tistory.com/514",
+  "content_hash": "b5dc597629c61b34f2d5fa9f3c4b344dc478f21805daa4703b8dd5109c36330a",
+  "json_ld_count": 2,
+  "meta_description": "EWQ(iShares MSCI France ETF)는 미국에 상장된 프랑스 단일국 주식 ETF로, MSCI France Index를 추종한다. 같은 유럽 선진 단일국이라도 구조는 갈린다. 스위스(EWL)는 소수 초대형주 지배 때문에 25/50 캡을 적용하지만, 프랑스 증시는 대형주가 폭넓게 분포(LVMH·토탈에너지·사노피·슈나이더 등)해 EWQ는 지수 레벨 캡핑이 없는 무캡 표준 지수를 그대로 추종한다. 이 글은 EWQ의 지수 구조, 무캡인 이유, 통화 노출, 한국 투자자 과세, 유로스탁스50 등 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)EWQ는 어떤 ETF인가요?EWQ는 iShares(Black..",
+  "modified_time": "2026-08-22T02:17:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWQ(iShares MSCI France ETF)는 미국에 상장된 프랑스 단일국 주식 ETF로, MSCI France Index를 추종한다. 같은 유럽 선진 단일국이라도 구조는 갈린다. 스위스(EWL)는 소수 초대형주 지배 때문에 25/50 캡을 적용하지만, 프랑스 증시는 대형주가 폭넓게 분포(LVMH·토탈에너지·사노피·슈나이더 등)해 EWQ는 지수 레벨 캡핑이 없는 무캡 표준 지수를 그대로 추종한다. 이 글은 EWQ의 지수 구조, 무캡인 이유, 통화 노출, 한국 투자자 과세, 유로스탁스50 등 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)EWQ는 어떤 ETF인가요?EWQ는 iShares(Black..",
+  "og_title": "EWQ ETF란? 프랑스 대표 ETF, MSCI 지수와 무캡 구조",
+  "post_id": "514",
+  "published_time": "2026-08-22T02:16:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWQ ETF란? 프랑스 대표 ETF, MSCI 지수와 무캡 구조",
+  "url": "https://mystock-note.tistory.com/514"
+}

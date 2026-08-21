@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-22T02:17:00+09:00",
+    "datePublished": "2026-08-22T02:16:36+09:00",
+    "description": "EWQ(iShares MSCI France ETF)는 미국에 상장된 프랑스 단일국 주식 ETF로, MSCI France Index를 추종한다. 같은 유럽 선진 단일국이라도 구조는 갈린다. 스위스(EWL)는 소수 초대형주 지배 때문에 25/50 캡을 적용하지만, 프랑스 증시는 대형주가 폭넓게 분포(LVMH·토탈에너지·사노피·슈나이더 등)해 EWQ는 지수 레벨 캡핑이 없는 무캡 표준 지수를 그대로 추종한다. 이 글은 EWQ의 지수 구조, 무캡인 이유, 통화 노출, 한국 투자자 과세, 유로스탁스50 등 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)EWQ는 어떤 ETF인가요?EWQ는 iShares(Black..",
+    "headline": "EWQ ETF란? 프랑스 대표 ETF, MSCI 지수와 무캡 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/514",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/514"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-08-22",
+    "datePublished": "2026-08-22",
+    "description": "EWQ는 MSCI France 지수를 추종하는 미국 상장 프랑스 대표 ETF다. 스위스(EWL)와 달리 25/50 캡이 없는 무캡 구조, EUR·USD 이중 환노출, 한국 투자자 과세, 유로스탁스50 등 국내 대안까지 구조 사실만 정리했다.",
+    "headline": "EWQ ETF란? 프랑스 대표 ETF, MSCI 지수와 무캡 구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/514",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/514"
+  }
+]

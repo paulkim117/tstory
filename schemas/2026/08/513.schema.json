@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-22T01:17:00+09:00",
+    "datePublished": "2026-08-22T01:16:05+09:00",
+    "description": "EWL(iShares MSCI Switzerland ETF)은 미국에 상장된 스위스 단일국 주식 ETF로, MSCI Switzerland 25/50 Index를 추종한다. 스위스 증시는 소수의 초대형주(네슬레·로슈·노바티스 등)가 시장을 지배하는 구조여서, EWL은 특정 종목의 과도한 편중을 제한하는 25/50 캡핑을 적용한다. 또한 이 상품은 2013년에 기초지수가 한 차례 바뀐 이력이 있어 장기 차트 해석 시 주의가 필요하다. 이 글은 EWL의 지수 구조, 25/50 캡의 의미, 지수 전환 이력, 통화 노출, 한국 투자자 과세, 국내 상장 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)EWL은 어떤 ET..",
+    "headline": "EWL ETF란? 스위스 대표 ETF, MSCI 25/50 지수와 캡핑 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/513",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/513"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-08-22",
+    "datePublished": "2026-08-22",
+    "description": "EWL은 MSCI Switzerland 25/50 지수를 추종하는 미국 상장 스위스 대표 ETF다. 25/50 캡핑 구조, 2013년 지수 전환 이력, CHF·USD 이중 환노출, 한국 투자자 과세, 국내 상장 대안까지 구조 사실만 정리했다.",
+    "headline": "EWL ETF란? 스위스 대표 ETF, MSCI 25/50 지수와 캡핑 구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/513",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/513"
+  }
+]
