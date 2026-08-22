@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-08-23",
+  "datePublished": "2026-08-23",
+  "description": "ETF는 완전복제·표본추출·합성(스왑) 세 방식으로 지수를 추종한다. 각 방식의 추적오차·비용·카운터파티 위험, 국내 합성 ETF 식별법과 위험, 복제 방식 선택 기준을 구조 사실 중심으로 정리했다.",
+  "headline": "ETF 복제 방식이란? 완전복제·표본추출·합성 차이와 선택법",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/517",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/517"
+}

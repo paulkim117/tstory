@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-08-23",
+  "datePublished": "2026-08-23",
+  "description": "EWA는 MSCI Australia 지수를 추종하는 미국 상장 호주 대표 ETF다. 무캡 구조, 자원국이지만 금융(은행) 편중이 큰 구성, AUD 환노출, 한국 투자자 과세, 국내 대안까지 구조 사실만 정리했다.",
+  "headline": "EWA ETF란? 호주 대표 ETF, 무캡 구조와 금융 편중",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/516",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/516"
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-22",
+  "body_html_length": 9951,
+  "canonical_url": "https://mystock-note.tistory.com/517",
+  "content_hash": "95a4957be3a50a94d887cc395bf9d3ba0f9f539f65e6d518209dca4effc1c302",
+  "json_ld_count": 1,
+  "meta_description": "ETF가 지수를 따라가는 방법은 하나가 아니다. 크게 완전복제 · 표본추출 · 합성(스왑) 세 가지로 나뉜다. 특히 국내 상장 해외·원자재 ETF에는 합성(스왑) 방식이 많고, 이 경우 증권사(거래상대방) 위험이라는 별도 요인이 생긴다. 복제 방식은 상품명 뒤의 \"(합성)\" 표기처럼 사소해 보이지만, 추적오차·비용·거래상대방 위험을 좌우하는 구조적 갈림길이다. 이 글은 세 방식의 차이, 합성 ETF의 위험, 국내 식별법, 그리고 어떤 상황에서 무엇을 골라야 하는지를 결정 기준 중심으로 정리한다. (총보수·추적오차 수치 등 변동 값은 시점에 따라 달라지므로 기재하지 않는다.)ETF 복제 방식에는 어떤 종류가 있나요?크게 세 가지다. [사실] 실제 주식·채권을 보유하는 물리적 복제(완전복제·표본추출)와, 증..",
+  "modified_time": "2026-08-23T02:13:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/517\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/517\",\"headline\":\"ETF 복제 방식이란? 완전복제·표본추출·합성 차이와 선택법\",\"description\":\"ETF가 지수를 따라가는 방법은 하나가 아니다. 크게 완전복제 · 표본추출 · 합성(스왑) 세 가지로 나뉜다. 특히 국내 상장 해외·원자재 ETF에는 합성(스왑) 방식이 많고, 이 경우 증권사(거래상대방) 위험이라는 별도 요인이 생긴다. 복제 방식은 상품명 뒤의 \"(합성)\" 표기처럼 사소해 보이지만, 추적오차·비용·거래상대방 위험을 좌우하는 구조적 갈림길이다. 이 글은 세 방식의 차이, 합성 ETF의 위험, 국내 식별법, 그리고 어떤 상황에서 무엇을 골라야 하는지를 결정 기준 중심으로 정리한다. (총보수·추적오차 수치 등 변동 값은 시점에 따라 달라지므로 기재하지 않는다.)ETF 복제 방식에는 어떤 종류가 있나요?크게 세 가지다. [사실] 실제 주식·채권을 보유하는 물리적 복제(완전복제·표본추출)와, 증..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-23T02:12:21+09:00\",\"dateModified\":\"2026-08-23T02:13:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "ETF가 지수를 따라가는 방법은 하나가 아니다. 크게 완전복제 · 표본추출 · 합성(스왑) 세 가지로 나뉜다. 특히 국내 상장 해외·원자재 ETF에는 합성(스왑) 방식이 많고, 이 경우 증권사(거래상대방) 위험이라는 별도 요인이 생긴다. 복제 방식은 상품명 뒤의 \"(합성)\" 표기처럼 사소해 보이지만, 추적오차·비용·거래상대방 위험을 좌우하는 구조적 갈림길이다. 이 글은 세 방식의 차이, 합성 ETF의 위험, 국내 식별법, 그리고 어떤 상황에서 무엇을 골라야 하는지를 결정 기준 중심으로 정리한다. (총보수·추적오차 수치 등 변동 값은 시점에 따라 달라지므로 기재하지 않는다.)ETF 복제 방식에는 어떤 종류가 있나요?크게 세 가지다. [사실] 실제 주식·채권을 보유하는 물리적 복제(완전복제·표본추출)와, 증..",
+  "og_title": "ETF 복제 방식이란? 완전복제·표본추출·합성 차이와 선택법",
+  "post_id": "517",
+  "published_time": "2026-08-23T02:12:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ETF 복제 방식이란? 완전복제·표본추출·합성 차이와 선택법",
+  "url": "https://mystock-note.tistory.com/517"
+}

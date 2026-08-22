@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-22",
+  "body_html_length": 12097,
+  "canonical_url": "https://mystock-note.tistory.com/515",
+  "content_hash": "a33e4eb39609a54ebb95b055b3d5a5a54130eb5e415b6e553fdeb12b3b542c31",
+  "json_ld_count": 2,
+  "meta_description": "EWP(iShares MSCI Spain ETF)는 미국에 상장된 스페인 단일국 주식 ETF로, MSCI Spain 25/50 Index를 추종한다. 스페인 증시는 소수의 대형 금융·유틸리티 기업(산탄데르·BBVA·이베르드롤라·인디텍스 등)이 큰 비중을 차지하는 집중 구조여서, EWP는 특정 종목의 과도한 편중을 제한하는 25/50 캡핑을 적용한다. 또한 이 상품은 2013년에 기초지수가 무캡에서 25/50으로 전환된 이력이 있어 장기 차트 해석 시 주의가 필요하다. 이 글은 EWP의 지수 구조, 25/50의 의미, 지수 전환 이력, 통화 노출, 한국 투자자 과세, 국내 상장 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기..",
+  "modified_time": "2026-08-23T00:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWP(iShares MSCI Spain ETF)는 미국에 상장된 스페인 단일국 주식 ETF로, MSCI Spain 25/50 Index를 추종한다. 스페인 증시는 소수의 대형 금융·유틸리티 기업(산탄데르·BBVA·이베르드롤라·인디텍스 등)이 큰 비중을 차지하는 집중 구조여서, EWP는 특정 종목의 과도한 편중을 제한하는 25/50 캡핑을 적용한다. 또한 이 상품은 2013년에 기초지수가 무캡에서 25/50으로 전환된 이력이 있어 장기 차트 해석 시 주의가 필요하다. 이 글은 EWP의 지수 구조, 25/50의 의미, 지수 전환 이력, 통화 노출, 한국 투자자 과세, 국내 상장 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기..",
+  "og_title": "EWP ETF란? 스페인 대표 ETF, MSCI 25/50 지수와 2013년 전환",
+  "post_id": "515",
+  "published_time": "2026-08-23T00:17:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWP ETF란? 스페인 대표 ETF, MSCI 25/50 지수와 2013년 전환",
+  "url": "https://mystock-note.tistory.com/515"
+}
