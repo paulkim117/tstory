@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-08-24",
+  "datePublished": "2026-08-24",
+  "description": "GDXJ는 MVIS 글로벌 주니어 금광 지수를 추종하는 미국 상장 ETF다. 2017년 지수 시총 구간 확대로 중형주까지 담게 된 변화, 은 광산 포함 구조, GDX(시니어)와의 차이, 한국 투자자 과세, 국내 대안까지 구조 사실만 정리했다.",
+  "headline": "GDXJ ETF란? 주니어 금광 ETF, 2017년 지수 변경과 GDX 차이",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/519",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/519"
+}

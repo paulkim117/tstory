@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-23",
+  "body_html_length": 12183,
+  "canonical_url": "https://mystock-note.tistory.com/520",
+  "content_hash": "2d7360b9ac4d06b83db96a342ebe7dcebee0b724742b50b29458daed5747e61a",
+  "json_ld_count": 1,
+  "meta_description": "\"유럽 ETF\"를 고를 때 가장 먼저 갈리는 것은 보수도 규모도 아니다. 영국과 스위스가 들어가느냐다. 유럽 ETF는 크게 광역 유럽형(영국·스위스 포함)과 유로존 한정형(영국·스위스 제외)으로 나뉘며, 이 차이만으로 국가 구성이 크게 달라진다. 여기에 지수 계열(FTSE vs MSCI vs STOXX), 시총 범위(소형 포함 여부)가 겹친다. 이 글은 대표 상품 VGK·IEUR·EZU·FEZ를 축별로 비교하고, 단일국 ETF와 어떻게 조합할지, 한국 투자자의 과세·계좌 제약과 국내 대안은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·국가별 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)유럽 ETF는 어떤 기준으로 나뉘나요?세 축이 핵심이다. [판단]축갈림실질 효과국가..",
+  "modified_time": "2026-08-24T02:14:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/520\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/520\",\"headline\":\"유럽 ETF 비교: VGK·IEUR·EZU·FEZ, 영국이 들어가나요?\",\"description\":\"\"유럽 ETF\"를 고를 때 가장 먼저 갈리는 것은 보수도 규모도 아니다. 영국과 스위스가 들어가느냐다. 유럽 ETF는 크게 광역 유럽형(영국·스위스 포함)과 유로존 한정형(영국·스위스 제외)으로 나뉘며, 이 차이만으로 국가 구성이 크게 달라진다. 여기에 지수 계열(FTSE vs MSCI vs STOXX), 시총 범위(소형 포함 여부)가 겹친다. 이 글은 대표 상품 VGK·IEUR·EZU·FEZ를 축별로 비교하고, 단일국 ETF와 어떻게 조합할지, 한국 투자자의 과세·계좌 제약과 국내 대안은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·국가별 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)유럽 ETF는 어떤 기준으로 나뉘나요?세 축이 핵심이다. [판단]축갈림실질 효과국가..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-24T02:13:51+09:00\",\"dateModified\":\"2026-08-24T02:14:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"유럽 ETF\"를 고를 때 가장 먼저 갈리는 것은 보수도 규모도 아니다. 영국과 스위스가 들어가느냐다. 유럽 ETF는 크게 광역 유럽형(영국·스위스 포함)과 유로존 한정형(영국·스위스 제외)으로 나뉘며, 이 차이만으로 국가 구성이 크게 달라진다. 여기에 지수 계열(FTSE vs MSCI vs STOXX), 시총 범위(소형 포함 여부)가 겹친다. 이 글은 대표 상품 VGK·IEUR·EZU·FEZ를 축별로 비교하고, 단일국 ETF와 어떻게 조합할지, 한국 투자자의 과세·계좌 제약과 국내 대안은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·수익률·국가별 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)유럽 ETF는 어떤 기준으로 나뉘나요?세 축이 핵심이다. [판단]축갈림실질 효과국가..",
+  "og_title": "유럽 ETF 비교: VGK·IEUR·EZU·FEZ, 영국이 들어가나요?",
+  "post_id": "520",
+  "published_time": "2026-08-24T02:13:51+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "유럽 ETF 비교: VGK·IEUR·EZU·FEZ, 영국이 들어가나요?",
+  "url": "https://mystock-note.tistory.com/520"
+}

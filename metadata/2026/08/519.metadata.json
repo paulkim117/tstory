@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-23",
+  "body_html_length": 12234,
+  "canonical_url": "https://mystock-note.tistory.com/519",
+  "content_hash": "f8da2681b41f5b21555d03d930a1db9891841a4b104848fe808ad0cc4de52505",
+  "json_ld_count": 1,
+  "meta_description": "GDXJ(VanEck Junior Gold Miners ETF)는 미국에 상장된 주니어(중소형) 금·은 채굴 기업 ETF로, MVIS Global Junior Gold Miners Index(MVGDXJTR)를 추종한다. 이름만 보면 \"소형 금광\"이지만 실제 구조는 두 가지 점에서 통념과 다르다. 첫째, 2017년 지수 방법론 변경으로 편입 가능한 시가총액 구간이 넓어져 중형 기업까지 포함된다. 둘째, 지수 편입 요건이 금뿐 아니라 은(silver) 채굴·로열티·스트리밍까지 포괄한다. 이 글은 GDXJ의 지수 구조, 2017년 변경 이력, GDX(대형 채굴주)와의 차이, 금 가격과의 관계, 한국 투자자 과세, 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등..",
+  "modified_time": "2026-08-24T01:14:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/519\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/519\",\"headline\":\"GDXJ ETF란? 주니어 금광 ETF, 2017년 지수 변경과 GDX 차이\",\"description\":\"GDXJ(VanEck Junior Gold Miners ETF)는 미국에 상장된 주니어(중소형) 금·은 채굴 기업 ETF로, MVIS Global Junior Gold Miners Index(MVGDXJTR)를 추종한다. 이름만 보면 \"소형 금광\"이지만 실제 구조는 두 가지 점에서 통념과 다르다. 첫째, 2017년 지수 방법론 변경으로 편입 가능한 시가총액 구간이 넓어져 중형 기업까지 포함된다. 둘째, 지수 편입 요건이 금뿐 아니라 은(silver) 채굴·로열티·스트리밍까지 포괄한다. 이 글은 GDXJ의 지수 구조, 2017년 변경 이력, GDX(대형 채굴주)와의 차이, 금 가격과의 관계, 한국 투자자 과세, 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-24T01:13:05+09:00\",\"dateModified\":\"2026-08-24T01:14:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "GDXJ(VanEck Junior Gold Miners ETF)는 미국에 상장된 주니어(중소형) 금·은 채굴 기업 ETF로, MVIS Global Junior Gold Miners Index(MVGDXJTR)를 추종한다. 이름만 보면 \"소형 금광\"이지만 실제 구조는 두 가지 점에서 통념과 다르다. 첫째, 2017년 지수 방법론 변경으로 편입 가능한 시가총액 구간이 넓어져 중형 기업까지 포함된다. 둘째, 지수 편입 요건이 금뿐 아니라 은(silver) 채굴·로열티·스트리밍까지 포괄한다. 이 글은 GDXJ의 지수 구조, 2017년 변경 이력, GDX(대형 채굴주)와의 차이, 금 가격과의 관계, 한국 투자자 과세, 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등..",
+  "og_title": "GDXJ ETF란? 주니어 금광 ETF, 2017년 지수 변경과 GDX 차이",
+  "post_id": "519",
+  "published_time": "2026-08-24T01:13:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GDXJ ETF란? 주니어 금광 ETF, 2017년 지수 변경과 GDX 차이",
+  "url": "https://mystock-note.tistory.com/519"
+}

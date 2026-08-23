@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-24T00:13:00+09:00",
+    "datePublished": "2026-08-24T00:12:44+09:00",
+    "description": "EWS(iShares MSCI Singapore ETF)는 미국에 상장된 싱가포르 단일국 주식 ETF로, MSCI Singapore 25/50 Index를 추종한다. 싱가포르 증시는 구성 종목 수 자체가 적고, 대형 은행(DBS·OCBC·UOB) 중심의 금융 비중이 압도적이다. 그래서 25/50 캡을 적용해도 집중 성격이 상당 부분 남는다. 또한 EWS는 스위스(EWL)·스페인(EWP)과 달리 2013년 일괄 전환 배치에 포함되지 않았고, 25/50 전환 시점이 별도다. 이 글은 EWS의 지수 구조, 25/50의 의미, 집중 특성, 복제 방식, 통화 노출, 한국 투자자 과세, 국내 대안을 구조·규정 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므..",
+    "headline": "EWS ETF란? 싱가포르 대표 ETF, 25/50 지수와 금융 편중",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/518",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/518"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-08-24",
+    "datePublished": "2026-08-24",
+    "description": "EWS는 MSCI Singapore 25/50 지수를 추종하는 미국 상장 싱가포르 대표 ETF다. 25/50 캡에도 남는 금융 편중, 적은 구성 종목 수, 표본추출 복제, SGD 환노출, 한국 투자자 과세, 국내 대안까지 구조 사실만 정리했다.",
+    "headline": "EWS ETF란? 싱가포르 대표 ETF, 25/50 지수와 금융 편중",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/518",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/518"
+  }
+]

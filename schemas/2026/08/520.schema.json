@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-08-24",
+  "datePublished": "2026-08-24",
+  "description": "유럽 ETF는 영국·스위스를 포함하는 광역형(VGK·IEUR)과 유로존만 담는 유형(EZU·FEZ)으로 갈린다. 지수 계열·시총 범위·발행사 차이, 단일국 ETF와의 관계, 한국 투자자 과세와 국내 대안까지 구조 사실로 정리했다.",
+  "headline": "유럽 ETF 비교: VGK·IEUR·EZU·FEZ, 영국이 들어가나요?",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/520",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/520"
+}
