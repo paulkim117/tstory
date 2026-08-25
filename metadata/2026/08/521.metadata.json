@@ -1,15 +1,15 @@
 {
-  "backup_date": "2026-08-24",
-  "body_html_length": 11223,
+  "backup_date": "2026-08-25",
+  "body_html_length": 11795,
   "canonical_url": "https://mystock-note.tistory.com/521",
-  "content_hash": "d93340d019717788d90f30375cd5589cdcc42876cd3747594f61e28e2c7044ea",
+  "content_hash": "38bea4a7c630ed403b8f5860bc5fbaf26c0cbbb2e2b1fe64e4d317c36455c512",
   "json_ld_count": 1,
   "meta_description": "하이일드(고수익·투기등급) 채권 ETF는 겉보기에 비슷하다. 그런데 HYG·JNK·USHY·SJNK는 담는 채권의 범위와 선정 방식이 다르다. 가장 큰 갈림은 \"유동성이 높은 채권만 골라 담는가, 시장을 넓게 담는가\"이며, 여기에 만기(단기형), 신용 세그먼트(폴른엔젤), 자본구조 순위(뱅크론), 발행 주체(미국 회사채 vs 신흥국 국채)라는 축이 겹친다. 이 글은 대표 상품을 축별로 비교하고, 어떤 목적에 어떤 유형이 대응하는지, 한국 투자자의 과세·계좌 제약은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·듀레이션·거래량 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)하이일드 채권이란 무엇인가요?신용등급이 투자등급에 미치지 못하는(BB 이하) 기업이 발행한 채권이다..",
-  "modified_time": "2026-08-25T00:26:00+09:00",
+  "modified_time": "2026-08-25T08:38:36+09:00",
   "notes": [
     "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
     {
-      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/521\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/521\",\"headline\":\"하이일드 ETF 비교: HYG·JNK·USHY, 무엇이 다른가?\",\"description\":\"하이일드(고수익·투기등급) 채권 ETF는 겉보기에 비슷하다. 그런데 HYG·JNK·USHY·SJNK는 담는 채권의 범위와 선정 방식이 다르다. 가장 큰 갈림은 \"유동성이 높은 채권만 골라 담는가, 시장을 넓게 담는가\"이며, 여기에 만기(단기형), 신용 세그먼트(폴른엔젤), 자본구조 순위(뱅크론), 발행 주체(미국 회사채 vs 신흥국 국채)라는 축이 겹친다. 이 글은 대표 상품을 축별로 비교하고, 어떤 목적에 어떤 유형이 대응하는지, 한국 투자자의 과세·계좌 제약은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·듀레이션·거래량 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)하이일드 채권이란 무엇인가요?신용등급이 투자등급에 미치지 못하는(BB 이하) 기업이 발행한 채권이다..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-25T00:25:36+09:00\",\"dateModified\":\"2026-08-25T00:26:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/521\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/521\",\"headline\":\"하이일드 ETF 비교: HYG·JNK·USHY, 무엇이 다른가?\",\"description\":\"하이일드(고수익·투기등급) 채권 ETF는 겉보기에 비슷하다. 그런데 HYG·JNK·USHY·SJNK는 담는 채권의 범위와 선정 방식이 다르다. 가장 큰 갈림은 \"유동성이 높은 채권만 골라 담는가, 시장을 넓게 담는가\"이며, 여기에 만기(단기형), 신용 세그먼트(폴른엔젤), 자본구조 순위(뱅크론), 발행 주체(미국 회사채 vs 신흥국 국채)라는 축이 겹친다. 이 글은 대표 상품을 축별로 비교하고, 어떤 목적에 어떤 유형이 대응하는지, 한국 투자자의 과세·계좌 제약은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·듀레이션·거래량 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)하이일드 채권이란 무엇인가요?신용등급이 투자등급에 미치지 못하는(BB 이하) 기업이 발행한 채권이다..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-25T00:25:36+09:00\",\"dateModified\":\"2026-08-25T08:38:36+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
     }
   ],
   "og_description": "하이일드(고수익·투기등급) 채권 ETF는 겉보기에 비슷하다. 그런데 HYG·JNK·USHY·SJNK는 담는 채권의 범위와 선정 방식이 다르다. 가장 큰 갈림은 \"유동성이 높은 채권만 골라 담는가, 시장을 넓게 담는가\"이며, 여기에 만기(단기형), 신용 세그먼트(폴른엔젤), 자본구조 순위(뱅크론), 발행 주체(미국 회사채 vs 신흥국 국채)라는 축이 겹친다. 이 글은 대표 상품을 축별로 비교하고, 어떤 목적에 어떤 유형이 대응하는지, 한국 투자자의 과세·계좌 제약은 무엇인지를 구조 사실 중심으로 정리한다. (총보수·순자산·분배율·수익률·듀레이션·거래량 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)하이일드 채권이란 무엇인가요?신용등급이 투자등급에 미치지 못하는(BB 이하) 기업이 발행한 채권이다..",

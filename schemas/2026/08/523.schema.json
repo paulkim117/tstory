@@ -1,0 +1,69 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-26T00:27:00+09:00",
+    "datePublished": "2026-08-26T00:26:36+09:00",
+    "description": "EWI(iShares MSCI Italy ETF)는 이탈리아 대형·중형주로 구성된 MSCI Italy 25/50 Index를 추종하는 미국 상장 단일국가 ETF입니다. 같은 유럽 단일국 상품이라도 프랑스(EWQ)는 캡핑이 없고 이탈리아·스페인·스위스는 25/50 캡이 걸려 있어, 구성 상한 규칙부터 다릅니다. 이 글은 지수 구조와 2013년 전환 이력, 이탈리아 고유의 금융거래세, 유럽-미국 시차에서 오는 괴리율, 한국 거주자 과세 구조를 확인 순서대로 정리합니다.EWI ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 개방형 ETF로, 이탈리아 주식시장의 대형·중형 구간에 노출됩니다. 상장일은 1996년 3월 12일로, EWQ(프랑스)·EWP(스페인)·EWL(스위스)·EWA(호주)와..",
+    "headline": "EWI ETF란? 이탈리아 지수 25/50 캡, EWQ·EWP와 차이, 세금 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/523",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/523"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/523#post",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/523#ewi"
+        },
+        "dateModified": "2026-08-26",
+        "datePublished": "2026-08-26",
+        "description": "EWI ETF는 MSCI Italy 25/50 지수를 추종하는 이탈리아 단일국 상품입니다. 2013년 지수 전환, 캡핑 규칙, EWQ·EWP와의 차이, 이탈리아 거래세와 괴리율, 한국 투자자 세금 기준까지 확인 순서대로 정리했습니다.",
+        "headline": "EWI ETF란? 이탈리아 지수 25/50 캡, EWQ·EWP와 차이, 세금 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/523"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/523#ewi",
+        "@type": "Thing",
+        "description": "MSCI Italy 25/50 Index를 추종하는 미국 NYSE Arca 상장 이탈리아 단일국가 ETF",
+        "name": "iShares MSCI Italy ETF (EWI)"
+      }
+    ]
+  }
+]

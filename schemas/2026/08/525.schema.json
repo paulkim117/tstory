@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/525#post",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/525#iyw"
+      },
+      "dateModified": "2026-08-26",
+      "datePublished": "2026-08-26",
+      "description": "IYW ETF는 Russell 1000 Technology RIC 22.5/45 Capped 지수를 추종하는 미국 기술 섹터 상품입니다. 2021년 지수 제공사 교체, 캡핑 규칙 변경, XLK와의 분류체계 차이, 한국 투자자 세금 기준까지 확인 순서대로 정리했습니다.",
+      "headline": "IYW ETF란? XLK와 차이, 2021년 지수 교체, 22.5/45 캡 확인 기준",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/525"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/525#iyw",
+      "@type": "Thing",
+      "description": "Russell 1000 Technology RIC 22.5/45 Capped Index를 추종하는 미국 NYSE Arca 상장 기술 섹터 ETF",
+      "name": "iShares U.S. Technology ETF (IYW)"
+    }
+  ]
+}

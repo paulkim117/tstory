@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-25",
+  "body_html_length": 11903,
+  "canonical_url": "https://mystock-note.tistory.com/523",
+  "content_hash": "3faf47c5750334f748970e38305accc0b31221b1ab545a245628ed59fb9eaa2b",
+  "json_ld_count": 2,
+  "meta_description": "EWI(iShares MSCI Italy ETF)는 이탈리아 대형·중형주로 구성된 MSCI Italy 25/50 Index를 추종하는 미국 상장 단일국가 ETF입니다. 같은 유럽 단일국 상품이라도 프랑스(EWQ)는 캡핑이 없고 이탈리아·스페인·스위스는 25/50 캡이 걸려 있어, 구성 상한 규칙부터 다릅니다. 이 글은 지수 구조와 2013년 전환 이력, 이탈리아 고유의 금융거래세, 유럽-미국 시차에서 오는 괴리율, 한국 거주자 과세 구조를 확인 순서대로 정리합니다.EWI ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 개방형 ETF로, 이탈리아 주식시장의 대형·중형 구간에 노출됩니다. 상장일은 1996년 3월 12일로, EWQ(프랑스)·EWP(스페인)·EWL(스위스)·EWA(호주)와..",
+  "modified_time": "2026-08-26T00:27:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWI(iShares MSCI Italy ETF)는 이탈리아 대형·중형주로 구성된 MSCI Italy 25/50 Index를 추종하는 미국 상장 단일국가 ETF입니다. 같은 유럽 단일국 상품이라도 프랑스(EWQ)는 캡핑이 없고 이탈리아·스페인·스위스는 25/50 캡이 걸려 있어, 구성 상한 규칙부터 다릅니다. 이 글은 지수 구조와 2013년 전환 이력, 이탈리아 고유의 금융거래세, 유럽-미국 시차에서 오는 괴리율, 한국 거주자 과세 구조를 확인 순서대로 정리합니다.EWI ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 개방형 ETF로, 이탈리아 주식시장의 대형·중형 구간에 노출됩니다. 상장일은 1996년 3월 12일로, EWQ(프랑스)·EWP(스페인)·EWL(스위스)·EWA(호주)와..",
+  "og_title": "EWI ETF란? 이탈리아 지수 25/50 캡, EWQ·EWP와 차이, 세금 확인 기준",
+  "post_id": "523",
+  "published_time": "2026-08-26T00:26:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWI ETF란? 이탈리아 지수 25/50 캡, EWQ·EWP와 차이, 세금 확인 기준",
+  "url": "https://mystock-note.tistory.com/523"
+}

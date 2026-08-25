@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-25",
+  "body_html_length": 11856,
+  "canonical_url": "https://mystock-note.tistory.com/524",
+  "content_hash": "bb87c84bd4820c20a41a49c4dc595e92e6047406c44dd5003f9e9a9f06461aab",
+  "json_ld_count": 2,
+  "meta_description": "EWM(iShares MSCI Malaysia ETF)는 말레이시아 주식으로 구성된 MSCI Malaysia Index를 추종하는 미국 상장 단일국가 ETF입니다. 다른 단일국 상품과 결정적으로 다른 점은 말레이시아 링깃이 역외 거래가 허용되지 않는 통화라는 사실입니다. 이 제약은 환헤지 가능성부터 NAV 산출 방식까지 상품 구조 전반에 영향을 줍니다. 이 글은 지수 구조, 증권대여, 공정가치평가로 인한 괴리, 배당 과세 쟁점, 한국 거주자 세금까지 확인 순서대로 정리합니다.EWM ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 ETF로, 쿠알라룸푸르 거래소에 주로 상장된 말레이시아 주식에 노출됩니다. 상장일은 1996년 3월 12일로, 같은 날 상장된 다른 단일국 상품들과 같은 1..",
+  "modified_time": "2026-08-26T01:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EWM(iShares MSCI Malaysia ETF)는 말레이시아 주식으로 구성된 MSCI Malaysia Index를 추종하는 미국 상장 단일국가 ETF입니다. 다른 단일국 상품과 결정적으로 다른 점은 말레이시아 링깃이 역외 거래가 허용되지 않는 통화라는 사실입니다. 이 제약은 환헤지 가능성부터 NAV 산출 방식까지 상품 구조 전반에 영향을 줍니다. 이 글은 지수 구조, 증권대여, 공정가치평가로 인한 괴리, 배당 과세 쟁점, 한국 거주자 세금까지 확인 순서대로 정리합니다.EWM ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 ETF로, 쿠알라룸푸르 거래소에 주로 상장된 말레이시아 주식에 노출됩니다. 상장일은 1996년 3월 12일로, 같은 날 상장된 다른 단일국 상품들과 같은 1..",
+  "og_title": "EWM ETF란? 말레이시아 지수 구조, 링깃 규제, 괴리율 확인 기준",
+  "post_id": "524",
+  "published_time": "2026-08-26T01:27:07+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWM ETF란? 말레이시아 지수 구조, 링깃 규제, 괴리율 확인 기준",
+  "url": "https://mystock-note.tistory.com/524"
+}
