@@ -1,0 +1,69 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-27T02:21:02+09:00",
+    "datePublished": "2026-08-27T02:20:46+09:00",
+    "description": "CIBR(First Trust NASDAQ Cybersecurity ETF)는 Nasdaq CTA Cybersecurity Index를 추종하는 사이버보안 테마 ETF입니다. 이 상품은 지금까지 다룬 대부분의 ETF와 두 가지 점에서 다릅니다. 첫째, 섹터를 정의하는 주체가 주류 지수회사가 아니라 업계 협회(CTA)입니다. 둘째, 종목을 시가총액이 아니라 유동성으로 가중합니다. 이 글은 지수 구성 규칙, 경쟁 상품(HACK)과의 차이, 섹터 ETF와의 구분, 한국 거주자 과세를 확인 순서대로 정리합니다.CIBR ETF는 어떤 상품인가요?퍼스트트러스트(First Trust)가 운용하는 미국 상장 ETF로, 2015년 7월 6일 상장했습니다. 사이버보안 사업에 종사하는 기업에 집중 노출됩니다.항목확인값구분정..",
+    "headline": "CIBR ETF란? 사이버보안 테마 지수 구조, HACK과 차이, 섹터 ETF와 구분 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/528",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/528"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/528#post",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/528#cibr"
+        },
+        "dateModified": "2026-08-27",
+        "datePublished": "2026-08-27",
+        "description": "CIBR ETF는 Nasdaq CTA Cybersecurity 지수를 추종하는 사이버보안 테마 상품입니다. CTA 분류 기준, 유동성 기반 가중, HACK과의 차이, 섹터 ETF와의 구분, 한국 투자자 세금 기준까지 확인 순서대로 정리했습니다.",
+        "headline": "CIBR ETF란? 사이버보안 테마 지수 구조, HACK과 차이, 섹터 ETF와 구분 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/528"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/528#cibr",
+        "@type": "Thing",
+        "description": "Nasdaq CTA Cybersecurity Index를 추종하는 미국 상장 사이버보안 테마 ETF",
+        "name": "First Trust NASDAQ Cybersecurity ETF (CIBR)"
+      }
+    ]
+  }
+]

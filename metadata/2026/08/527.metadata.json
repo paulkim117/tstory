@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-26",
+  "body_html_length": 8161,
+  "canonical_url": "https://mystock-note.tistory.com/527",
+  "content_hash": "606c6297d6b2376c7a96474e44949d3f7968026681631eaca731c66fe14533d4",
+  "json_ld_count": 2,
+  "meta_description": "IBB(iShares Biotechnology ETF)는 미국 상장 바이오테크 기업으로 구성된 지수를 추종하는 ETF입니다. 이 상품에서 가장 주의해야 할 점은 기초지수가 지금까지 세 번 바뀌었고, 그 세 번이 각각 성격이 다른 변경이라는 사실입니다. 나아가 현재 지수의 브랜드명과 실제 구성종목의 상장 거래소가 일치하지 않습니다. 이 글은 지수 이력 해석법, 제약·헬스케어 ETF와의 관계, 한국 거주자 과세를 확인 순서대로 정리합니다.IBB ETF는 어떤 상품인가요?블랙록(iShares)이 운용하며 나스닥에 상장돼 있습니다. 발행사는 이 상품을 치료제 연구개발에 종사하는 기업에 대한 집중 노출 수단으로 설명합니다.항목확인값구분정식 명칭iShares Biotechnology ETF[사실]구 명칭iShare..",
+  "modified_time": "2026-08-27T01:21:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IBB(iShares Biotechnology ETF)는 미국 상장 바이오테크 기업으로 구성된 지수를 추종하는 ETF입니다. 이 상품에서 가장 주의해야 할 점은 기초지수가 지금까지 세 번 바뀌었고, 그 세 번이 각각 성격이 다른 변경이라는 사실입니다. 나아가 현재 지수의 브랜드명과 실제 구성종목의 상장 거래소가 일치하지 않습니다. 이 글은 지수 이력 해석법, 제약·헬스케어 ETF와의 관계, 한국 거주자 과세를 확인 순서대로 정리합니다.IBB ETF는 어떤 상품인가요?블랙록(iShares)이 운용하며 나스닥에 상장돼 있습니다. 발행사는 이 상품을 치료제 연구개발에 종사하는 기업에 대한 집중 노출 수단으로 설명합니다.항목확인값구분정식 명칭iShares Biotechnology ETF[사실]구 명칭iShare..",
+  "og_title": "IBB ETF란? 바이오 지수 3번의 변경 이력, IHE·XLV와 차이, 확인 기준",
+  "post_id": "527",
+  "published_time": "2026-08-27T01:20:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IBB ETF란? 바이오 지수 3번의 변경 이력, IHE·XLV와 차이, 확인 기준",
+  "url": "https://mystock-note.tistory.com/527"
+}

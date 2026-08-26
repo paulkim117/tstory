@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-26",
+  "body_html_length": 9528,
+  "canonical_url": "https://mystock-note.tistory.com/526",
+  "content_hash": "ed2270cd7be4dff4aa18cfb5b15caddc69ec6aa1a2e1980da7ec71564794c33f",
+  "json_ld_count": 1,
+  "meta_description": "ITA(iShares U.S. Aerospace & Defense ETF)는 Dow Jones U.S. Select Aerospace & Defense Index를 추종하는 미국 항공우주·방산 ETF입니다. 한국 투자자가 가장 자주 오해하는 지점은 \"미국에 상장된 방산 ETF\"와 \"미국 기업에 투자하는 방산 ETF\"가 같은 말이 아니라는 점입니다. 미국 시장에는 한국 방산 기업을 담는 상품도 별도로 상장돼 있습니다. 이 글은 지수 구성 규칙, K방산 ETF와의 노출 차이, 산업재 ETF와의 중복 여부, 한국 거주자 과세를 확인 순서대로 정리합니다.ITA ETF는 어떤 상품인가요?블랙록(iShares)이 운용하며, 미국 주식시장의 항공우주·방산 섹터를 추종합니다. 발행사는 이 상품을 상업용·군용 항공기 제..",
+  "modified_time": "2026-08-27T00:20:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/526\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/526\",\"headline\":\"ITA ETF란? 미국 방산 지수 구성, K방산 ETF와 차이, 중복 확인 기준\",\"description\":\"ITA(iShares U.S. Aerospace & Defense ETF)는 Dow Jones U.S. Select Aerospace & Defense Index를 추종하는 미국 항공우주·방산 ETF입니다. 한국 투자자가 가장 자주 오해하는 지점은 \"미국에 상장된 방산 ETF\"와 \"미국 기업에 투자하는 방산 ETF\"가 같은 말이 아니라는 점입니다. 미국 시장에는 한국 방산 기업을 담는 상품도 별도로 상장돼 있습니다. 이 글은 지수 구성 규칙, K방산 ETF와의 노출 차이, 산업재 ETF와의 중복 여부, 한국 거주자 과세를 확인 순서대로 정리합니다.ITA ETF는 어떤 상품인가요?블랙록(iShares)이 운용하며, 미국 주식시장의 항공우주·방산 섹터를 추종합니다. 발행사는 이 상품을 상업용·군용 항공기 제..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-27T00:19:38+09:00\",\"dateModified\":\"2026-08-27T00:20:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "ITA(iShares U.S. Aerospace & Defense ETF)는 Dow Jones U.S. Select Aerospace & Defense Index를 추종하는 미국 항공우주·방산 ETF입니다. 한국 투자자가 가장 자주 오해하는 지점은 \"미국에 상장된 방산 ETF\"와 \"미국 기업에 투자하는 방산 ETF\"가 같은 말이 아니라는 점입니다. 미국 시장에는 한국 방산 기업을 담는 상품도 별도로 상장돼 있습니다. 이 글은 지수 구성 규칙, K방산 ETF와의 노출 차이, 산업재 ETF와의 중복 여부, 한국 거주자 과세를 확인 순서대로 정리합니다.ITA ETF는 어떤 상품인가요?블랙록(iShares)이 운용하며, 미국 주식시장의 항공우주·방산 섹터를 추종합니다. 발행사는 이 상품을 상업용·군용 항공기 제..",
+  "og_title": "ITA ETF란? 미국 방산 지수 구성, K방산 ETF와 차이, 중복 확인 기준",
+  "post_id": "526",
+  "published_time": "2026-08-27T00:19:38+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ITA ETF란? 미국 방산 지수 구성, K방산 ETF와 차이, 중복 확인 기준",
+  "url": "https://mystock-note.tistory.com/526"
+}
