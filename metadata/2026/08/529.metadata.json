@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-28",
+  "body_html_length": 16462,
+  "canonical_url": "https://mystock-note.tistory.com/529",
+  "content_hash": "0d2959fa810c1d83e21c60d7184084e561981d1f577abc2923a359f62e2f21b9",
+  "json_ld_count": 2,
+  "meta_description": "VNM ETF는 MarketVector 베트남 로컬 지수를 추종하는 미국 상장 ETF다. 2023년 3월 17일 지수 전환, FTSE의 2026년 9월 신흥국 승격, MSCI의 프론티어 유지, 국내 대안 ACE 베트남VN30(합성)과의 구조 차이를 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 요약투자설명서, LSEG·FTSE Russell 공식 발표, 운용사 공시)에서 직접 확인한 구조적·규제적 사실만 다룬다. 총보수·순자산·구성종목 비중·수익률·분배율 등 시점에 따라 변하는 수치는 기재하지 않는다. 실제로 이 상품은 데이터 제공사마다 총보수 표기가 엇갈리고 있어, 수치 인용이 오히려 오정보원이 되는 대표 사례에 해당한다.VNM은 무엇을 추종하는 ETF인가?VanEck Vietnam ETF(..",
+  "modified_time": "2026-08-28T00:22:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VNM ETF는 MarketVector 베트남 로컬 지수를 추종하는 미국 상장 ETF다. 2023년 3월 17일 지수 전환, FTSE의 2026년 9월 신흥국 승격, MSCI의 프론티어 유지, 국내 대안 ACE 베트남VN30(합성)과의 구조 차이를 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 요약투자설명서, LSEG·FTSE Russell 공식 발표, 운용사 공시)에서 직접 확인한 구조적·규제적 사실만 다룬다. 총보수·순자산·구성종목 비중·수익률·분배율 등 시점에 따라 변하는 수치는 기재하지 않는다. 실제로 이 상품은 데이터 제공사마다 총보수 표기가 엇갈리고 있어, 수치 인용이 오히려 오정보원이 되는 대표 사례에 해당한다.VNM은 무엇을 추종하는 ETF인가?VanEck Vietnam ETF(..",
+  "og_title": "VNM ETF란? 베트남 지수 구조와 FTSE 신흥국 승격, 국내 대안 정리",
+  "post_id": "529",
+  "published_time": "2026-08-28T00:21:38+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VNM ETF란? 베트남 지수 구조와 FTSE 신흥국 승격, 국내 대안 정리",
+  "url": "https://mystock-note.tistory.com/529"
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/531/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/531/#us-estate-tax-nra"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-08-28",
+      "datePublished": "2026-08-28",
+      "description": "미국 상장 주식·ETF는 보유자의 국적·거주지와 무관하게 미국 소재 자산으로 분류된다. 비거주 외국인의 공제 한도 6만 달러, 세율 18~40%, 한미 유산세 조약 부재, 한국 상속세와의 관계, 상장지 선택에 미치는 영향을 정리했다.",
+      "headline": "미국 상장 ETF와 미국 유산세: 6만 달러 기준과 한미 조약 부재",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/531/#form-706na"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/531/#kr-foreign-tax-credit"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/531"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "[필명 확정 후 기재]",
+      "url": "[About 페이지 URL 확정 후 기재]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/531/#us-estate-tax-nra",
+      "@type": "Thing",
+      "description": "미국 시민도 거주자도 아닌 사망자에게 미국 소재 자산에 한해 부과되는 미국 연방 유산세. 실질 공제 한도는 6만 달러이며 세율은 18~40% 누진 구조다. 미국 법인이 발행한 주식은 계좌 소재지와 무관하게 미국 소재 자산으로 분류된다.",
+      "name": "비거주 외국인의 미국 유산세"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/531/#form-706na",
+      "@type": "Thing",
+      "description": "비시민 비거주자 사망자의 미국 유산세 신고서. 미국 소재 자산 총액과 조정 과세증여액 합계가 6만 달러를 초과하면 제출 의무가 발생하며, 기한은 사망일로부터 9개월이고 Form 4768로 6개월 연장할 수 있다.",
+      "name": "Form 706-NA"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/531/#kr-foreign-tax-credit",
+      "@type": "Thing",
+      "description": "거주자의 사망으로 상속세를 부과하는 경우 외국에 있는 상속재산에 외국 법령에 따라 부과된 상속세 상당액을 상속세 산출세액에서 공제하는 규정. 시행령 제21조가 계산식과 한도를 정하고 별도 신청서 제출을 요구한다.",
+      "name": "상속세및증여세법 제29조 외국 납부세액 공제"
+    }
+  ]
+}
