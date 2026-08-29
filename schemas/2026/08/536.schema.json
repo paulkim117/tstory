@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/536/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/536/#etf-bizd"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-08-30",
+      "datePublished": "2026-08-30",
+      "description": "BIZD는 미국 사업개발회사(BDC) 지수를 추종하는 ETF다. 운용보수 0.40%와 총비용 11%대가 동시에 공시되는 취득펀드 비용(AFFE) 구조, BDC의 규제 요건, 투자설명서와 재무제표의 비용이 달라지는 이유를 정리했다.",
+      "headline": "BIZD ETF란? 총보수가 0.40%이면서 11%인 이유 — BDC와 취득펀드 비용",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/536/#bdc"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/536/#affe"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/536"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "[필명 확정 후 기재]",
+      "url": "[About 페이지 URL 확정 후 기재]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/536/#etf-bizd",
+      "@type": "Thing",
+      "description": "VanEck BDC Income ETF. MarketVector US Business Development Companies Index를 추종하며 2013년 2월 11일 NYSE Arca에 상장된 미국 상장 ETF. 편입 대상이 투자회사이므로 규제상 펀드오브펀드로 취급되며, SEC 면제명령에 따라 1940년법 한도를 초과해 BDC에 투자한다.",
+      "name": "BIZD ETF"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/536/#bdc",
+      "@type": "Thing",
+      "description": "미국 1940년 투자회사법의 규제를 받는 상장 투자회사. 총자산의 70% 이상을 비상장 또는 소형 상장 미국 기업 중심의 적격자산에 투자해야 하고, 자산보상비율 150% 요건이 적용되며, 규제투자회사 지위를 유지하려면 과세소득의 90% 이상을 분배해야 한다.",
+      "name": "사업개발회사(BDC)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/536/#affe",
+      "@type": "Thing",
+      "description": "다른 펀드에 투자하는 펀드가 투자설명서 비용 표에 합산 보고해야 하는 간접 비용. 2006년 SEC 펀드오브펀드 규칙에 따른 공시이며, 펀드가 직접 부담하지 않으므로 펀드 재무제표의 비용 정보에는 반영되지 않는다.",
+      "name": "취득펀드 비용(AFFE)"
+    }
+  ]
+}

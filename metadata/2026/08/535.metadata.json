@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-29",
+  "body_html_length": 14194,
+  "canonical_url": "https://mystock-note.tistory.com/535",
+  "content_hash": "7f5709e14e7c6e895e4177ac06a206aba78dd3164c5bf6d2a3b469cba71f27de",
+  "json_ld_count": 2,
+  "meta_description": "JETS는 U.S. Global Jets 지수를 추종하는 미국 상장 항공 ETF다. 운용사 자회사가 지수를 만드는 구조, 여객탑승률을 반영한 5단 가중 방식, 펀드 규모가 편입 기준을 바꾸는 조항, 2020년 방법론 변경 이력을 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 발행사 공식 문서, 국내 운용사 공시)에서 확인한 구조적·규제적 사실만 다룬다. 총보수·순자산·구성종목 비중·수익률·분배율은 기재하지 않는다. 지수 방법론에 포함된 규칙으로서의 숫자(시총 하한, 가중 티어, 정기변경 시기)는 변동 지표가 아니므로 그대로 기재한다.JETS는 무엇을 추종하는 ETF인가?U.S. Global Jets ETF(티커 JETS)는 U.S. Global Jets Index의 성과를 보수·비용 차..",
+  "modified_time": "2026-08-30T00:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "JETS는 U.S. Global Jets 지수를 추종하는 미국 상장 항공 ETF다. 운용사 자회사가 지수를 만드는 구조, 여객탑승률을 반영한 5단 가중 방식, 펀드 규모가 편입 기준을 바꾸는 조항, 2020년 방법론 변경 이력을 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 발행사 공식 문서, 국내 운용사 공시)에서 확인한 구조적·규제적 사실만 다룬다. 총보수·순자산·구성종목 비중·수익률·분배율은 기재하지 않는다. 지수 방법론에 포함된 규칙으로서의 숫자(시총 하한, 가중 티어, 정기변경 시기)는 변동 지표가 아니므로 그대로 기재한다.JETS는 무엇을 추종하는 ETF인가?U.S. Global Jets ETF(티커 JETS)는 U.S. Global Jets Index의 성과를 보수·비용 차..",
+  "og_title": "JETS ETF란? 항공 지수를 운용사가 직접 만드는 구조와 5단 가중 방식",
+  "post_id": "535",
+  "published_time": "2026-08-30T00:27:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "JETS ETF란? 항공 지수를 운용사가 직접 만드는 구조와 5단 가중 방식",
+  "url": "https://mystock-note.tistory.com/535"
+}
