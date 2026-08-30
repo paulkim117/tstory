@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-08-31T00:21:02+09:00",
+    "datePublished": "2026-08-31T00:20:20+09:00",
+    "description": "DBMF는 추종 지수가 없는 액티브 ETF로, 주요 CTA 헤지펀드 집단의 보수 차감 전 성과를 선물·선도로 복제한다. 지수가 없을 때 무엇을 검증해야 하는지, 케이맨 자회사가 필요한 이유, 레버리지와 숏 구조를 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 발행사 공식 문서)에서 확인한 구조적·규제적 사실만 다룬다. 총보수·순자산·분배율·수익률·자금 유출입은 기재하지 않는다. 투자 정책에 포함된 규칙으로서의 숫자(자회사 배분 한도 등)는 변동 지표가 아니므로 그대로 기재한다.DBMF는 무엇을 하는 ETF인가?iMGP DBi Managed Futures Strategy ETF(티커 DBMF)는 액티브 운용 ETF이며, SEC 제출 서류는 운용 방식을 세 갈래로 기술한다 [사실].자산을 ..",
+    "headline": "DBMF ETF란? 추종 지수가 없는 관리선물 ETF의 검증 방법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/538",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/538"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/538/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/538/#etf-dbmf"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-08-31",
+        "datePublished": "2026-08-31",
+        "description": "DBMF는 추종 지수가 없는 액티브 ETF로, 주요 CTA 헤지펀드 집단의 보수 차감 전 성과를 선물·선도로 복제한다. 지수가 없을 때 무엇을 검증해야 하는지, 케이맨 자회사가 필요한 이유, 레버리지와 숏 구조를 정리했다.",
+        "headline": "DBMF ETF란? 추종 지수가 없는 관리선물 ETF의 검증 방법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/538/#managed-futures"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/538/#cayman-subsidiary"
+          }
+        ],
+        "url": "https://mystock-note.tistory.com/538"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "[필명 확정 후 기재]",
+        "url": "[About 페이지 URL 확정 후 기재]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/538/#etf-dbmf",
+        "@type": "Thing",
+        "description": "iMGP DBi Managed Futures Strategy ETF. 특정 지수를 복제하지 않는 액티브 ETF로 2019년 5월 NYSE Arca에 상장됐다. 운용사는 iM Global Partner Fund Management, 부운용사는 Dynamic Beta investments이며, 총자산의 최대 20%를 케이맨 제도 완전자회사에 배분한다.",
+        "name": "DBMF ETF"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/538/#managed-futures",
+        "@type": "Thing",
+        "description": "주식·채권·통화·상품 등 광범위 자산군에 대해 선물과 선도로 롱과 숏 포지션을 병행하는 전략. DBMF는 대형 상품거래자문업자 헤지펀드 집단의 자산배분을 분석해 보수 차감 전 수익 패턴을 근사하며, 개별 거래를 복제하지는 않는다.",
+        "name": "관리선물 전략"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/538/#cayman-subsidiary",
+        "@type": "Thing",
+        "description": "미국 세법상 규제투자회사의 소득 요건과 상품 파생 투자가 충돌하는 문제를 우회하기 위해 사용되는 구조. 자회사는 규제투자회사 자격을 추구하지 않아 상품연계 파생에 한도 없이 투자할 수 있으나, 펀드와 동일한 기본 투자제한과 컴플라이언스 정책을 적용받는다.",
+        "name": "케이맨 완전자회사 구조"
+      }
+    ]
+  }
+]

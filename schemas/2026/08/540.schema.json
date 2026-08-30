@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/540/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/540/#cybersecurity-etf-comparison"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-08-31",
+      "datePublished": "2026-08-31",
+      "description": "사이버보안 ETF CIBR·HACK·BUG는 지수 제공사와 산업 분류 체계, 매출 기준, 가중 방식, 정기변경 주기가 모두 다르다. 세 지수의 규칙을 대조하고, BUG와 동일 지수를 추종하는 국내 상장 상품까지 정리했다.",
+      "headline": "사이버보안 ETF 3종 비교: CIBR·HACK·BUG는 무엇이 다른가",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/540/#etf-cibr"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/540/#etf-hack"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/540/#etf-bug"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/540"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "[필명 확정 후 기재]",
+      "url": "[About 페이지 URL 확정 후 기재]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/540/#cybersecurity-etf-comparison",
+      "@type": "Thing",
+      "description": "사이버보안은 표준 산업분류에 단일 항목으로 존재하지 않아 지수 제공사가 각자 정의를 만든다. 그 결과 상품별로 산업 분류 체계, 사이버보안 매출 기준, 가중 방식, 정기변경 주기가 달라지고 편입 기업이 갈린다.",
+      "name": "사이버보안 ETF 지수 규칙 비교"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/540/#etf-cibr",
+      "@type": "Thing",
+      "description": "First Trust NASDAQ Cybersecurity ETF. Nasdaq CTA Cybersecurity Index를 추종하며 나스닥에 상장돼 있고 시가총액 가중 방식이다.",
+      "name": "CIBR ETF"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/540/#etf-hack",
+      "@type": "Thing",
+      "description": "Amplify Cybersecurity ETF. 2014년 11월 11일 운용을 개시한 최초의 사이버보안 ETF이며 NYSE Arca에 상장돼 있다. 2024년 1월 29일 발행사와 신탁이 바뀌고 기초지수가 Prime Cyber Defense Index에서 Nasdaq ISE Cyber Security Select Index로 교체됐다.",
+      "name": "HACK ETF"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/540/#etf-bug",
+      "@type": "Thing",
+      "description": "Global X Cybersecurity ETF. Indxx Cybersecurity Index를 추종하며 나스닥에 상장돼 있다. FactSet 산업 분류로 유니버스를 식별한 뒤 사이버보안 활동 매출이 50% 이상인 기업을 편입하고, 수정 시가총액 가중으로 반기마다 재구성한다.",
+      "name": "BUG ETF"
+    }
+  ]
+}

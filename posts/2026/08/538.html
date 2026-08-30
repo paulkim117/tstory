@@ -1,0 +1,423 @@
+<!--
+source: https://mystock-note.tistory.com/538
+backup_date: 2026-08-30
+post_id: 538
+-->
+<p data-ke-size="size16">DBMF는 추종 지수가 없는 액티브 ETF로, 주요 CTA 헤지펀드 집단의 보수 차감 전 성과를 선물&middot;선도로 복제한다. 지수가 없을 때 무엇을 검증해야 하는지, 케이맨 자회사가 필요한 이유, 레버리지와 숏 구조를 정리했다.</p>
+<p data-ke-size="size16">이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 발행사 공식 문서)에서 확인한 <b>구조적&middot;규제적 사실</b>만 다룬다. 총보수&middot;순자산&middot;분배율&middot;수익률&middot;자금 유출입은 기재하지 않는다. 투자 정책에 포함된 <b>규칙으로서의 숫자</b>(자회사 배분 한도 등)는 변동 지표가 아니므로 그대로 기재한다.</p>
+<h2 data-ke-size="size26">DBMF는 무엇을 하는 ETF인가?</h2>
+<p data-ke-size="size16">iMGP DBi Managed Futures Strategy ETF(티커 DBMF)는 <b>액티브 운용 ETF</b>이며, SEC 제출 서류는 운용 방식을 세 갈래로 기술한다 <span>[사실]</span>.</p>
+<ol style="list-style-type: decimal;" data-ke-list-type="decimal">
+<li>자산을 <b>관리선물(managed futures) 전략</b>에 따라 운용한다</li>
+<li>총자산의 최대 <b>20%</b>를 <b>케이맨 제도 법인인 완전자회사</b>에 배분한다</li>
+<li>나머지는 현금 관리 등을 위해 <b>채무증권에 직접 투자</b>한다</li>
+</ol>
+<p data-ke-size="size16">관리선물 전략의 내용도 명시돼 있다. <b>주식&middot;채권(금리)&middot;통화, 그리고 자회사를 통한 상품</b>이라는 광범위 자산군 전반에 대해 <b>선물과 선도를 중심으로 롱과 숏 포지션</b>을 취한다 <span>[사실]</span>.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+<th>구분</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운용 방식</td>
+<td><b>액티브</b> &mdash; 특정 지수를 복제하지 않음</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>운용사</td>
+<td>iM Global Partner Fund Management LLC</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td><b>부운용사</b></td>
+<td>Dynamic Beta investments (DBi)</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>신탁</td>
+<td>Litman Gregory Funds Trust</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>배분사</td>
+<td>Quasar Distributors, LLC</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>상장 거래소</td>
+<td>NYSE Arca</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>설정&middot;거래 개시</td>
+<td>2019년 5월</td>
+<td>[사실] &middot; 정확한 일자는 자료 간 1일 차이 <b>[확인 필요]</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 신탁과 배분사 조합이 최근 다룬 항공 ETF와 겹친다. 두 상품 모두 <b>공용 신탁(시리즈 트러스트)에 소속되고 배분사가 동일</b>하다. 규모가 크지 않은 운용사가 ETF를 내놓을 때 쓰는 생태계이며, 운용사는 운용에 집중하고 신탁&middot;배분&middot;수탁 기능을 외부에 맡기는 구조다. 문제가 되는 형태는 아니지만 <b>발행사의 규모와 성격을 파악하는 단서</b>가 된다.</p>
+
+<h2 data-ke-size="size26">추종 지수가 없다는 게 무슨 뜻인가?</h2>
+<p data-ke-size="size16">이 상품의 출발점이다. SEC 제출 서류는 이 펀드가 <b>특정 지수의 성과를 복제하려 하지 않는다</b>고 명시한다 <span>[사실]</span>. 데이터 제공사도 "추종 지수 없음"으로 분류한다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 이 블로그는 최근 여러 편에 걸쳐 지수 자체를 검증 대상으로 삼아 왔다. 지수 제공사가 누구인지, 운용사와 자본 관계가 있는지, 방법론이 바뀐 적이 있는지, 편입 규칙과 가중 방식은 무엇인지가 판단의 근거였다. <b>DBMF에는 그 대상이 존재하지 않는다.</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>검증 항목</th>
+<th>지수형 ETF</th>
+<th><b>DBMF</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수 제공사</td>
+<td>확인 가능</td>
+<td><b>해당 없음</b></td>
+</tr>
+<tr>
+<td>제공사와 운용사의 자본 관계</td>
+<td>확인 대상</td>
+<td><b>해당 없음</b></td>
+</tr>
+<tr>
+<td>편입 규칙</td>
+<td>방법론 문서로 공개</td>
+<td><b>모델 내부 로직</b></td>
+</tr>
+<tr>
+<td>가중 방식</td>
+<td>규칙으로 명시</td>
+<td>모델이 산출</td>
+</tr>
+<tr>
+<td>방법론 변경 이력</td>
+<td>보충서로 추적 가능</td>
+<td><b>추적 어려움</b></td>
+</tr>
+<tr>
+<td>정기변경 주기</td>
+<td>명시</td>
+<td>모델 판단</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">즉 <b>지수형 상품에서 쓰던 검증 도구가 대부분 작동하지 않는다.</b> 이것은 이 상품의 결함이 아니라 종류가 다르다는 뜻이며, 그래서 <b>다른 검증 항목이 필요</b>하다.</p>
+<h2 data-ke-size="size26">그러면 무엇을 복제하나?</h2>
+<p data-ke-size="size16">발행사 설명에 따르면 목표는 <b>주요 헤지펀드의 보수 차감 전 성과를 체계적 선물 투자로 복제</b>하는 것이다 <span>[사실 &middot; 발행사]</span>. 구체적으로는 규모가 큰 <b>상품거래자문업자(CTA) 헤지펀드</b> 집단의 포지션을 분석해 자산배분을 근사한다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>복제 대상</td>
+<td>지수가 아니라 <b>헤지펀드 집단의 수익 패턴</b></td>
+</tr>
+<tr>
+<td>복제 방법</td>
+<td>개별 거래를 따라 하는 것이 아니라 <b>총합 자산배분을 근사</b></td>
+</tr>
+<tr>
+<td>사용 수단</td>
+<td>유동성이 높은 선물&middot;선도 계약</td>
+</tr>
+<tr>
+<td>회피 대상</td>
+<td><b>단일 운용자 위험</b>, <b>헤지펀드의 성과보수</b></td>
+</tr>
+<tr>
+<td>위험 관리</td>
+<td>모델에 <b>변동성 목표</b>가 포함</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단] 복제라는 개념이 확장된다.</b> 이 블로그는 복제 방식을 실물&middot;표본&middot;합성 세 유형으로 정리해 왔다. DBMF는 어느 쪽도 아니다. <b>복제 대상이 자산 바스켓이 아니라 "다른 운용자 집단의 행동 결과"</b>이기 때문이다. 복제 방식 자체의 분류는 <a href="https://mystock-note.tistory.com/517">ETF 복제 방식의 선택 기준을 정리한 글</a>에서 다뤘고, 이 상품은 그 분류에 들어가지 않는 네 번째 유형에 가깝다.</p>
+<p data-ke-size="size16">비교 기준으로 CTA 관련 외부 지수와 채권 지수를 참조한다는 서술이 2차 자료에 나타나지만, 이것이 공식 벤치마크로 지정된 것인지 성과 비교용 참고인지는 확인하지 못했다. <b>[확인 필요]</b></p>
+
+<h2 data-ke-size="size26">지수가 없으면 무엇을 검증해야 하나?</h2>
+<p data-ke-size="size16"><b>[판단]</b> 검증 항목이 <b>지수에서 운용 주체와 구조로 이동</b>한다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>검증 대상</th>
+<th>확인 내용</th>
+<th>이 상품의 경우</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운용 주체</td>
+<td>누가 실제 결정을 내리는가</td>
+<td>부운용사 DBi. 운용사와 부운용사가 분리</td>
+</tr>
+<tr>
+<td>의사결정 성격</td>
+<td>재량인가 모델인가</td>
+<td><b>모델 기반</b>. 액티브 판단은 주로 유동성 높은 계약 선택에 한정된다고 서술됨</td>
+</tr>
+<tr>
+<td>구조적 장치</td>
+<td>목적 달성에 별도 법적 장치가 필요한가</td>
+<td><b>케이맨 자회사 필요</b></td>
+</tr>
+<tr>
+<td>레버리지</td>
+<td>어느 정도인가</td>
+<td>발행사가 <b>고레버리지</b>로 명시</td>
+</tr>
+<tr>
+<td>포지션 방향</td>
+<td>롱 전용인가</td>
+<td><b>롱&middot;숏 병행</b></td>
+</tr>
+<tr>
+<td>분산 요건</td>
+<td>분산형인가</td>
+<td><b>자료 간 표기 상이</b> &mdash; 후술</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">즉 <b>지수형 상품에서 "방법론 문서를 읽는" 자리를, 액티브 상품에서는 "투자설명서의 전략&middot;위험 기재를 읽는" 작업이 대체</b>한다. 확인 대상이 사라지는 것이 아니라 위치가 바뀐다.</p>
+<h2 data-ke-size="size26">케이맨 자회사는 왜 필요한가?</h2>
+<p data-ke-size="size16">SEC 제출 서류에 이유가 드러난다. <b>펀드와 달리 자회사는 미국 세법상 규제투자회사(RIC) 자격을 추구하지 않으며, 펀드와 달리 상품연계 파생상품에 한도 없이 투자할 수 있다</b>는 것이다 <span>[사실]</span>.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>펀드 본체</th>
+<th>케이맨 자회사</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RIC 자격</td>
+<td>추구함</td>
+<td><b>추구하지 않음</b></td>
+</tr>
+<tr>
+<td>상품연계 파생 투자</td>
+<td>제한됨</td>
+<td><b>한도 없음</b></td>
+</tr>
+<tr>
+<td>운용 주체</td>
+<td>운용사&middot;부운용사</td>
+<td>부운용사</td>
+</tr>
+<tr>
+<td>투자자</td>
+<td>일반 투자자</td>
+<td><b>펀드가 유일한 투자자</b></td>
+</tr>
+<tr>
+<td>기본 투자제한&middot;컴플라이언스</td>
+<td>적용</td>
+<td><b>동일하게 적용</b></td>
+</tr>
+<tr>
+<td>1940년법 파생 요건</td>
+<td>적용</td>
+<td><b>동일하게 적용</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 구조가 명확하다. 미국 세법은 규제투자회사가 <b>일정 요건을 충족하는 소득</b>을 얻어야 세제상 지위를 유지하도록 하는데, 상품 파생에서 나오는 소득이 그 요건과 충돌할 수 있다. 그래서 <b>상품 부분만 별도 법인으로 떼어내고, 펀드는 그 법인의 지분을 보유하는 형태</b>로 우회한다.</p>
+<p data-ke-size="size16">주목할 점은 <b>자회사가 규제의 사각지대가 아니라는 것</b>이다. 서류는 자회사가 펀드와 동일한 기본 투자제한과 컴플라이언스 정책을 따르고, 파생 관련 1940년법 요건도 동일하게 적용받는다고 명시한다. <b>세제 요건만 우회하고 투자자 보호 규제는 유지</b>하는 설계다.</p>
+<h2 data-ke-size="size26">자회사에 얼마까지 넣을 수 있나?</h2>
+<p data-ke-size="size16">현행 등록서류 기준 <b>총자산의 최대 20%</b>다 <span>[사실]</span>.</p>
+<p data-ke-size="size16">다만 출시 당시 보도된 한도는 <b>10%</b>였고, 일부 데이터 사이트도 여전히 10%로 기재한다. <b>한도가 변경된 이력이 있는 것으로 보이나 변경 시점과 경위를 확인하지 못했다. [확인 필요]</b></p>
+<p data-ke-size="size16"><b>[판단]</b> 이 항목은 확인 습관 측면에서 시사점이 있다. 지수형 상품에서는 지수 방법론 변경 이력을 확인하라고 반복해 왔는데, <b>액티브 상품에서는 투자 정책의 수치가 바뀌는 것이 그에 대응하는 항목</b>이다. 자회사 한도가 두 배로 늘면 상품 노출 여력도 그만큼 달라진다. 데이터 사이트의 설명이 갱신되지 않는 문제도 동일하게 발생한다.</p>
+<h2 data-ke-size="size26">이 상품은 얼마나 레버리지를 쓰나?</h2>
+<p data-ke-size="size16">발행사 공식 자료의 위험 기재를 그대로 정리하면 다음과 같다 <span>[사실 &middot; 발행사 팩트시트]</span>.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>레버리지는 포트폴리오 가치의 증감 효과를 <b>증폭</b>시키고 펀드를 더 변동성 높게 만들 수 있다</li>
+<li>이 펀드는 <b>고레버리지 상태로 간주되어야 하며</b>, <b>높은 위험 감내 수준을 가진 투자자에게만 적합</b>하다</li>
+<li>파생상품이나 증권에 숏 포지션을 취하는 것은 <b>이론상 무한한 손실 위험</b>을 수반한다</li>
+</ul>
+<p data-ke-size="size16"><b>[판단]</b> 발행사가 스스로 "고레버리지"와 "고위험 감내 투자자 전용"을 명시하는 경우는 흔치 않다. 선물은 명목 노출이 투입 현금보다 크게 설계되는 것이 정상이므로, 이 표현은 상품 결함이 아니라 <b>수단의 성질</b>에서 나온다. 다만 그 성질을 이해하지 못한 채 "채권 대체" 또는 "안전자산"으로 배치하면 실제 위험을 크게 과소평가하게 된다.</p>
+<p data-ke-size="size16">모델에 변동성 목표가 포함되고 포지션 한도&middot;분산이 적용된다는 서술도 있으나, 이는 위험을 목표 범위 안에 두려는 <b>관리 장치</b>이지 손실 방지 장치가 아니다.</p>
+<h2 data-ke-size="size26">롱&middot;숏 병행이 무슨 의미인가?</h2>
+<p data-ke-size="size16">이 블로그에서 다뤄온 상품 대부분은 <b>롱 전용</b>이었다. 지수 구성종목을 사서 보유하는 구조이므로 하락 국면에서는 손실이 발생한다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>롱 전용 지수형 ETF</th>
+<th><b>DBMF</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>포지션</td>
+<td>매수만</td>
+<td><b>매수&middot;매도 병행</b></td>
+</tr>
+<tr>
+<td>하락 국면</td>
+<td>손실</td>
+<td>숏 포지션에서 이익 가능</td>
+</tr>
+<tr>
+<td>최대 손실</td>
+<td>투자원금</td>
+<td>숏은 <b>이론상 무한</b></td>
+</tr>
+<tr>
+<td>포트폴리오 역할</td>
+<td>시장 노출</td>
+<td><b>시장과 다른 수익 패턴</b> 지향</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 이 상품이 대체투자로 분류되는 이유가 여기 있다. 목적이 <b>주식&middot;채권과 다른 방향으로 움직이는 수익 흐름</b>을 만드는 것이기 때문이다. 다만 "분산 효과"는 사후적으로 관찰되는 성질이지 보장되는 성질이 아니다. 과거 상관관계가 낮았다는 사실이 앞으로도 낮을 것을 보장하지 않으며, 이 글에서는 과거 상관계수나 성과 수치를 제시하지 않는다.</p>
+<h2 data-ke-size="size26">비분산형인가 아닌가?</h2>
+<p data-ke-size="size16"><b>자료 간 표기가 엇갈린다.</b> 확인한 내용을 그대로 공개한다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>자료</th>
+<th>표기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2023년 등록서류</td>
+<td><b>"비분산형&middot;액티브 ETF"</b></td>
+</tr>
+<tr>
+<td>2024년 등록서류</td>
+<td><b>"액티브 ETF"</b> &mdash; 비분산형 표현 없음</td>
+</tr>
+<tr>
+<td>최근 발행사 팩트시트</td>
+<td>비분산형 위험을 <b>유지 기재</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 두 가지 해석이 가능하다. 서술 방식이 바뀐 것일 수도 있고, 실제 분산 상태가 달라진 것일 수도 있다. 후자라면 이 블로그가 최근 확인한 조항이 설명이 된다. 어떤 펀드는 <b>구성 자산의 가치 변동만으로 분산형과 비분산형 사이를 오갈 수 있고, 그 전환에 주주 승인이 필요하지 않다.</b></p>
+<p data-ke-size="size16">따라서 <b>"이 펀드는 비분산형이다"라는 서술은 시점에 종속된다.</b> 발행 시점의 상태는 최신 투자설명서에서 직접 확인해야 하며, 이 글에서는 <b>[확인 필요]</b>로 남긴다.</p>
+<h2 data-ke-size="size26">규제 우회 구조가 반복되는 이유</h2>
+<p data-ke-size="size16"><b>[판단]</b> 이 블로그가 최근 확인한 세 상품에 공통점이 있다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>상품 유형</th>
+<th>펀드 자체로 불가능한 것</th>
+<th>의존하는 장치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>중국 본토 A주 ETF</td>
+<td>본토 증권 직접 매수</td>
+<td><b>부운용사의 적격투자자 라이선스</b></td>
+</tr>
+<tr>
+<td>BDC 편입 ETF</td>
+<td>투자회사 지분 한도 초과 보유</td>
+<td><b>SEC 면제명령</b></td>
+</tr>
+<tr>
+<td><b>DBMF</b></td>
+<td>상품 파생 직접 보유(세제 요건 충돌)</td>
+<td><b>케이맨 완전자회사</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">세 상품 모두 <b>일반 규칙만으로는 상품이 성립하지 않고, 별도의 법적 장치 위에서만 작동</b>한다. 이는 결함이 아니라 <b>특정 자산군에 접근하려면 구조를 만들어야 한다</b>는 사실의 반영이다.</p>
+<p data-ke-size="size16">실무적 함의는 분명하다. <b>이런 상품에서는 "그 장치가 유지되는가"가 별도의 위험 항목</b>이 된다. 라이선스는 취소될 수 있고, 면제명령의 조건은 변경될 수 있으며, 세법이 바뀌면 자회사 구조의 효과가 달라질 수 있다. 지수형 상품에는 없는 층위의 위험이다. 유사 구조를 다른 자산군에서 확인한 사례는 <a href="https://mystock-note.tistory.com/538">BDC 편입 ETF의 구조를 정리한 글</a>에 있다.</p>
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 적용되나?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>DBMF (미국 상장 직접 매수)</th>
+<th>국내 상장 해외형 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득세 15.4%, Min(매매차익, 과표기준가 증분) 기준</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>과세 방식</td>
+<td><b>분리과세</b> &mdash; 금융소득종합과세 합산 대상 아님</td>
+<td>종합과세 대상</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>배당소득 15.4% (종합과세 대상)</td>
+<td>Min(현금분배금, 과표기준가 증분) &times; 15.4% (종합과세 대상)</td>
+</tr>
+<tr>
+<td>연금저축&middot;IRP&middot;ISA</td>
+<td>편입 불가</td>
+<td>편입 가능</td>
+</tr>
+<tr>
+<td>사망 시</td>
+<td><b>미국 소재 자산</b> &mdash; 미국 유산세 대상</td>
+<td>미국 소재 자산 아님으로 해석됨</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>(가상 예시)</b> 어떤 해에 DBMF 매도로 350만 원의 양도차익이 발생하고 다른 해외주식 손익이 없었다고 가정하자. 기본공제 250만 원을 차감한 100만 원이 과세표준이 되고 22%를 적용하면 22만 원이 산출세액이 된다. 이 소득은 다른 금융소득과 합산되지 않는다. 실제 세액은 취득가액&middot;환율 적용 시점&middot;기타 해외주식 손익에 따라 달라지므로 계산 예시로만 참고할 것.</p>
+<p data-ke-size="size16">미국 세법상 선물 손익의 과세 방식이나 상품 펀드의 보고 서식(K-1 대 1099) 논의는 <b>미국 납세자에게 적용되는 것</b>이며 한국 거주자에게 그대로 이전되지 않는다. 케이맨 자회사 구조에서 발생하는 소득의 한국 세법상 처리는 이 글에서 확인하지 않았으며, 실제 원천징수 내역은 증권사 지급명세서 기준으로 확인해야 한다. <b>[확인 필요]</b></p>
+<h2 data-ke-size="size26">국내 상장 대안은 있나?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>대안 유형</th>
+<th>판정</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동일 전략(CTA 성과 복제) 국내 상장 ETF</td>
+<td><b>[정보부족]</b></td>
+<td>확인된 상품 없음</td>
+</tr>
+<tr>
+<td>관리선물&middot;추세추종 노출 국내 상장 ETF</td>
+<td><b>[정보부족]</b></td>
+<td>발행 시점 검색에서 확인된 상품 없음</td>
+</tr>
+<tr>
+<td>동일한 자회사 구조의 국내 상품</td>
+<td><b>부재</b></td>
+<td>국내 상품은 자본시장법 체계이며 미국 RIC 세제 요건과 무관</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 이 상품은 <b>미국 세법의 규제투자회사 요건이 만든 구조</b>다. 자회사가 존재하는 이유 자체가 미국 세제 요건에 있으므로, 국내에 같은 형태가 나타날 이유가 없다. 국내에 유사 전략 상품이 있더라도 <b>구조는 다를 수밖에 없다.</b> 다만 이는 추론이며 상품 부재의 확인은 아니다.</p>
+<p data-ke-size="size16">실무적 함의는 연금&middot;ISA 계좌에서 이 노출을 구성하기 어렵다는 점이다. 판정 절차는 <a href="https://mystock-note.tistory.com/440">국내 상장 대안이 실제로 존재하는지 판정하는 기준을 정리한 글</a>에 정리해 두었다.</p>
+<h2 data-ke-size="size26">DBMF는 코어인가 위성인가?</h2>
+<p data-ke-size="size16"><b>[판단]</b> 위성이며, 성격상 <b>기존 코어와 다른 축</b>에 놓인다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>발행사가 <b>고레버리지&middot;고위험 감내 투자자 전용</b>으로 명시한다</li>
+<li>숏 포지션이 포함되어 <b>이론상 무한 손실</b> 위험이 기재돼 있다</li>
+<li>추종 지수가 없어 <b>사전에 검증할 규칙 문서가 존재하지 않는다</b></li>
+<li>케이맨 자회사라는 <b>별도 법적 장치에 의존</b>한다</li>
+<li>분산 여부 표기가 자료마다 다르다</li>
+</ul>
+<p data-ke-size="size16">주식&middot;채권 코어를 구성한 뒤, <b>그와 다른 수익 패턴을 얹는 목적</b>으로 검토하는 것이 구조에 부합한다. <b>"채권 대체"나 "안전자산"으로 배치하면 위험의 종류를 잘못 계산하게 된다.</b> 구체적 비중은 개인의 위험 감내 수준에 따라 결정할 문제이므로 이 글에서 숫자를 제시하지 않는다.</p>
+<div style="border: 1px solid #d9d9d9; border-radius: 6px; padding: 18px 20px; margin: 28px 0; background: #fafafa;">
+<p style="margin: 0 0 14px; font-weight: bold; font-size: 16px;" data-ke-size="size16">확인 우선순위 &mdash; DBMF 검토 시</p>
+<p style="margin: 0 0 4px; font-size: 14px;" data-ke-size="size16">1. 추종 지수가 없다는 점과 그에 따른 검증 항목 이동 인식</p>
+<div style="background: #e8e8e8; border-radius: 3px; height: 14px; margin: 0 0 12px;">
+<div style="background: #2f5f8f; width: 100%; height: 14px; border-radius: 3px;">&nbsp;

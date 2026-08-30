@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/539/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/539/#etf-xhb"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-08-31",
+      "datePublished": "2026-08-31",
+      "description": "XHB는 S&P 주택건설 셀렉트 인더스트리 지수를 추종하는 미국 상장 ETF다. 이름과 달리 건축자재·가구·가전·홈임프루브먼트 소매까지 포함될 수 있는 편입 범위, GICS 분류 기준, 리츠 ETF와의 구조적 차이를 정리했다.",
+      "headline": "XHB ETF란? \"주택건설\" 지수가 실제로 담는 6개 하위산업",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/539/#index-homebuilders-select"
+        }
+      ],
+      "url": "https://mystock-note.tistory.com/539"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "[필명 확정 후 기재]",
+      "url": "[About 페이지 URL 확정 후 기재]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/539/#etf-xhb",
+      "@type": "Thing",
+      "description": "SPDR S&P Homebuilders ETF. S&P Homebuilders Select Industry Index를 표본추출 방식으로 추종하며 2006년 1월 31일 NYSE Arca에 상장된 미국 상장 ETF. SPDR Series Trust 소속이며 수정 동일가중 구조다.",
+      "name": "XHB ETF"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/539/#index-homebuilders-select",
+      "@type": "Thing",
+      "description": "S&P Dow Jones Indices가 산출하는 수정 동일가중 지수로, S&P 셀렉트 인더스트리 25종 시리즈의 하나다. S&P Total Market Index의 주택건설 하위산업을 핵심으로 하며 건축자재·가정용 가구·홈임프루브먼트 소매·가정용품 소매·가정용 가전 하위산업 노출을 포함할 수 있다.",
+      "name": "S&P Homebuilders Select Industry Index"
+    }
+  ]
+}

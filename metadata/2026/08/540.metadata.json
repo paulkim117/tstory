@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-08-30",
+  "body_html_length": 13452,
+  "canonical_url": "https://mystock-note.tistory.com/540",
+  "content_hash": "755050f5921a23ee933b8073aa05f77261cdea6a68e844f42622c18185dbea41",
+  "json_ld_count": 1,
+  "meta_description": "사이버보안 ETF CIBR·HACK·BUG는 지수 제공사와 산업 분류 체계, 매출 기준, 가중 방식, 정기변경 주기가 모두 다르다. 세 지수의 규칙을 대조하고, BUG와 동일 지수를 추종하는 국내 상장 상품까지 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 각 발행사 공식 문서, 국내 운용사 공시)에서 확인한 지수 규칙과 구조만 대조한다. 총보수·순자산·구성종목 비중·수익률·분배율은 기재하지 않는다. 어느 상품이 더 나은지에 대한 결론도 제시하지 않는다. 셋의 성과가 갈리는 원인이 지수 규칙에 있으므로, 규칙을 먼저 보는 것이 순서라는 것이 이 글의 입장이다.사이버보안 ETF는 왜 셋을 비교해야 하나?같은 테마를 표방하지만 담는 기업이 구조적으로 다르다. 이유는 단순하다. \"사이버보안 ..",
+  "modified_time": "2026-08-31T02:22:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/540\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/540\",\"headline\":\"사이버보안 ETF 3종 비교: CIBR·HACK·BUG는 무엇이 다른가\",\"description\":\"사이버보안 ETF CIBR·HACK·BUG는 지수 제공사와 산업 분류 체계, 매출 기준, 가중 방식, 정기변경 주기가 모두 다르다. 세 지수의 규칙을 대조하고, BUG와 동일 지수를 추종하는 국내 상장 상품까지 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 각 발행사 공식 문서, 국내 운용사 공시)에서 확인한 지수 규칙과 구조만 대조한다. 총보수·순자산·구성종목 비중·수익률·분배율은 기재하지 않는다. 어느 상품이 더 나은지에 대한 결론도 제시하지 않는다. 셋의 성과가 갈리는 원인이 지수 규칙에 있으므로, 규칙을 먼저 보는 것이 순서라는 것이 이 글의 입장이다.사이버보안 ETF는 왜 셋을 비교해야 하나?같은 테마를 표방하지만 담는 기업이 구조적으로 다르다. 이유는 단순하다. \"사이버보안 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-08-31T02:21:10+09:00\",\"dateModified\":\"2026-08-31T02:22:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "사이버보안 ETF CIBR·HACK·BUG는 지수 제공사와 산업 분류 체계, 매출 기준, 가중 방식, 정기변경 주기가 모두 다르다. 세 지수의 규칙을 대조하고, BUG와 동일 지수를 추종하는 국내 상장 상품까지 정리했다.이 글은 발행 시점 기준 1차 출처(SEC 제출 서류, 각 발행사 공식 문서, 국내 운용사 공시)에서 확인한 지수 규칙과 구조만 대조한다. 총보수·순자산·구성종목 비중·수익률·분배율은 기재하지 않는다. 어느 상품이 더 나은지에 대한 결론도 제시하지 않는다. 셋의 성과가 갈리는 원인이 지수 규칙에 있으므로, 규칙을 먼저 보는 것이 순서라는 것이 이 글의 입장이다.사이버보안 ETF는 왜 셋을 비교해야 하나?같은 테마를 표방하지만 담는 기업이 구조적으로 다르다. 이유는 단순하다. \"사이버보안 ..",
+  "og_title": "사이버보안 ETF 3종 비교: CIBR·HACK·BUG는 무엇이 다른가",
+  "post_id": "540",
+  "published_time": "2026-08-31T02:21:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "사이버보안 ETF 3종 비교: CIBR·HACK·BUG는 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/540"
+}
