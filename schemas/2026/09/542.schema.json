@@ -1,0 +1,120 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-01T00:26:00+09:00",
+    "datePublished": "2026-09-01T00:25:00+09:00",
+    "description": "SOXX와 SMH는 이름이 비슷한 미국 반도체 ETF이지만 기초지수가 다르고, 따라서 국내 대응 상품도 서로 다릅니다. 결론부터 적으면 SOXX와 동일한 기초지수를 추종하는 국내 상품은 RISE 미국반도체NYSE 계열이고, SMH와 동일한 기초지수를 추종하는 국내 상품은 KODEX 미국반도체입니다. 이름에 '필라델피아반도체'가 들어간 국내 상품은 SOXX가 2021년에 버린 지수를 추종합니다. 이 글은 세 지수의 소유 주체와 종목 선정 규칙, 그리고 환헤지·계좌 과세까지 1차 출처로 확인해 매핑 판단 순서를 정리합니다.SOXX와 SMH의 한국 대응 ETF는 각각 무엇인가요?지수 단위로 보면 대응 관계가 명확히 갈립니다. 상품명이 아니라 기초지수 이름을 기준으로 대조해야 합니다.표1. 미국 원본 ETF ·..",
+    "headline": "SOXX·SMH 한국 대응 ETF 매핑: 같은 지수를 추종하는 상품은 어느 것인가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/542",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/542"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/542/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/542/#etf-soxx"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "2026-09-01",
+        "datePublished": "2026-09-01",
+        "description": "SOXX와 SMH의 국내 대응 ETF는 서로 다른 지수를 추종합니다. 세 지수의 소유 주체와 종목 선정 규칙, 환헤지·계좌별 과세 차이까지 1차 출처로 확인해 정리했습니다.",
+        "headline": "SOXX·SMH 한국 대응 ETF 매핑: 같은 지수를 추종하는 상품은 어느 것인가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/542/#etf-smh"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/542/#index-nyse-semi"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/542/#index-mvis-semi25"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/542/#index-phlx-sox"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/542"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/542/#etf-soxx",
+        "@type": "Thing",
+        "description": "NYSE Semiconductor Index를 기초지수로 하는 미국 상장 반도체 ETF. 2021년 6월 21일 PHLX Semiconductor Sector Index에서 기초지수를 교체했다.",
+        "name": "iShares Semiconductor ETF (SOXX)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/542/#etf-smh",
+        "@type": "Thing",
+        "description": "MVIS US Listed Semiconductor 25 Index를 기초지수로 하는 미국 상장 반도체 ETF.",
+        "name": "VanEck Semiconductor ETF (SMH)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/542/#index-nyse-semi",
+        "@type": "Thing",
+        "description": "ICE Data Indices가 산출하는 지수로, ICE Uniform Sector Classification 기준 반도체 상위 30개 기업을 수정 시가총액 가중으로 구성한다. 구 명칭은 ICE Semiconductor Index.",
+        "name": "NYSE Semiconductor Index"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/542/#index-mvis-semi25",
+        "@type": "Thing",
+        "description": "MarketVector Indexes GmbH가 보유한 지수로, 반도체 매출 비중 50% 이상 기업 중 시가총액 상위 50개에서 유동시가총액과 거래량 기준 상위 25개를 편입한다.",
+        "name": "MVIS US Listed Semiconductor 25 Index"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/542/#index-phlx-sox",
+        "@type": "Thing",
+        "description": "Nasdaq, Inc.가 산출하는 지수로 1993년 12월 1일 기준값 200으로 시작했다. 미국 상장 반도체 섹터 시가총액 상위 30개 종목으로 구성한다.",
+        "name": "PHLX Semiconductor Sector Index"
+      }
+    ]
+  }
+]

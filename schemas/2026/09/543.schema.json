@@ -1,0 +1,111 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-01T01:26:00+09:00",
+    "datePublished": "2026-09-01T01:25:24+09:00",
+    "description": "QDTE는 나스닥100 지수에 대한 당일 만기 콜옵션을 매일 아침 매도해 프리미엄을 확보하고 이를 주간으로 분배하는 액티브 ETF입니다. 지수를 추종하는 상품이 아니고, 나스닥100 주식을 직접 보유하지도 않습니다. 국내에도 '데일리 커버드콜'이라는 이름의 상품이 있지만 운용사 공시를 대조하면 옵션 만기 정의와 운용 방식이 다릅니다. 이 글은 분배 재원이 어디서 나오는지, 상방 참여가 얼마나 남는지, 국내 상품으로 대체 가능한지를 순서대로 확인합니다.QDTE는 어떤 방식으로 수익을 만드나요?두 개의 옵션 포지션을 동시에 씁니다. 하나는 지수 노출을 만들기 위한 매수 포지션이고, 하나는 프리미엄을 받기 위한 매도 포지션입니다.표1. QDTE의 기본 구조(운용사 공시 및 설명서 기준)항목내용운용 방식액티브 ..",
+    "headline": "QDTE ETF는 무엇을 파는가: JEPQ·국내 데일리커버드콜과 다른 0DTE 구조와 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/543",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/543"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/543/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/543/#etf-qdte"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "2026-09-01",
+        "datePublished": "2026-09-01",
+        "description": "QDTE는 매일 아침 당일 만기 콜옵션을 매도하는 액티브 ETF입니다. JEPQ·QYLD와의 구조 차이, 국내 데일리 커버드콜과의 만기 정의 차이, 분배 재원과 과세까지 1차 출처로 정리했습니다.",
+        "headline": "QDTE ETF는 무엇을 파는가: JEPQ·국내 데일리커버드콜과 다른 0DTE 구조와 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/543/#strategy-0dte"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/543/#etf-jepq"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/543/#index-ndx-dcc101"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/543"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/543/#etf-qdte",
+        "@type": "Thing",
+        "description": "2024년 3월 7일 거래를 개시한 액티브 ETF. 딥 인더머니 FLEX 콜 매수로 지수 노출을 합성하고 매 영업일 아침 당일 만기 아웃오브더머니 콜을 매도해 주간 분배를 지급한다. 2024년 7월 22일 명칭이 변경됐다.",
+        "name": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF (QDTE)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/543/#strategy-0dte",
+        "@type": "Thing",
+        "description": "매도 당일 만기가 되는 콜옵션을 반복 매도해 프리미엄을 확보하는 전략. 만기까지 잔존 기간이 없어 상방 제한이 매일 재설정된다.",
+        "name": "0DTE 커버드콜 전략"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/543/#etf-jepq",
+        "@type": "Thing",
+        "description": "주식 포트폴리오를 보유하고 옵션 연계 증권을 활용해 월간 분배를 지급하는 액티브 ETF.",
+        "name": "JPMorgan Nasdaq Equity Premium Income ETF (JEPQ)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/543/#index-ndx-dcc101",
+        "@type": "Thing",
+        "description": "Nasdaq, Inc.가 산출하는 커버드콜 지수. 국내 상장 데일리 커버드콜 ETF의 기초지수로 사용된다.",
+        "name": "NASDAQ-100 Daily Covered Call 101 Index"
+      }
+    ]
+  }
+]

@@ -1,0 +1,366 @@
+<!--
+source: https://mystock-note.tistory.com/543
+backup_date: 2026-08-31
+post_id: 543
+-->
+<p data-ke-size="size16">QDTE는 나스닥100 지수에 대한 <b>당일 만기 콜옵션을 매일 아침 매도</b>해 프리미엄을 확보하고 이를 주간으로 분배하는 액티브 ETF입니다. 지수를 추종하는 상품이 아니고, 나스닥100 주식을 직접 보유하지도 않습니다. 국내에도 '데일리 커버드콜'이라는 이름의 상품이 있지만 운용사 공시를 대조하면 옵션 만기 정의와 운용 방식이 다릅니다. 이 글은 분배 재원이 어디서 나오는지, 상방 참여가 얼마나 남는지, 국내 상품으로 대체 가능한지를 순서대로 확인합니다.</p>
+<h2 data-ke-size="size26">QDTE는 어떤 방식으로 수익을 만드나요?</h2>
+<p data-ke-size="size16">두 개의 옵션 포지션을 동시에 씁니다. 하나는 지수 노출을 만들기 위한 매수 포지션이고, 하나는 프리미엄을 받기 위한 매도 포지션입니다.</p>
+<table data-ke-align="alignLeft"><caption>표1. QDTE의 기본 구조(운용사 공시 및 설명서 기준)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운용 방식</td>
+<td>액티브 운용. 추종 대상 지수 없음</td>
+</tr>
+<tr>
+<td>지수 노출</td>
+<td>딥 인더머니 FLEX 콜옵션 매수로 합성 롱 포지션 구성</td>
+</tr>
+<tr>
+<td>인컴 창출</td>
+<td>매 영업일 아침, 아웃오브더머니 당일 만기(0DTE) 콜옵션 매도</td>
+</tr>
+<tr>
+<td>참조 지수</td>
+<td>설명서상 'Innovation-100 Index'. 운용사 자료는 나스닥100 지수의 가격수익률 노출로 설명</td>
+</tr>
+<tr>
+<td>분배 주기</td>
+<td>주간</td>
+</tr>
+<tr>
+<td>분배금 성격</td>
+<td>상당 부분이 자본 환급(ROC)으로 분류될 수 있음. 최종 성격은 회계연도 종료 후 확정</td>
+</tr>
+<tr>
+<td>분산 여부</td>
+<td>1940년법상 비분산(non-diversified)</td>
+</tr>
+<tr>
+<td>명칭 이력</td>
+<td>2024-03-07 거래 개시. 2024-07-22 'N-100 0DTE'에서 'Innovation-100 0DTE'로 변경</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 이 상품의 손익은 주식 배당이 아니라 <b>옵션 프리미엄과 합성 포지션의 가격 변동</b>으로 결정됩니다. 옵션이 자산의 중심이므로 주식형 배당 ETF와 같은 틀로 비교하면 판단이 어긋납니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">0DTE는 정확히 무엇을 의미하나요?</h2>
+<p data-ke-size="size16">Zero Days To Expiry의 약자로, <b>매도한 옵션이 그날 장 마감과 함께 만기가 되는</b> 상태를 말합니다. 만기까지 남은 시간이 짧을수록 옵션의 시간가치 소멸 속도가 빠르므로, 짧은 만기를 반복 매도하는 전략은 같은 기간에 더 많은 프리미엄 이벤트를 만듭니다. 대신 방향성 위험을 흡수할 시간이 없습니다.</p>
+<table data-ke-align="alignLeft"><caption>표2. 옵션 매도 만기 주기별 구조 차이</caption>
+<thead>
+<tr>
+<th>주기</th>
+<th>만기 정의</th>
+<th>대표 유형</th>
+<th>구조적 특징</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>당일 만기(0DTE)</td>
+<td>매도 당일 마감</td>
+<td>QDTE&middot;XDTE&middot;RDTE</td>
+<td>매도 이벤트가 가장 빈번. 야간&middot;개장 갭 구간이 노출로 남음</td>
+</tr>
+<tr>
+<td>익일 만기(1DTE)</td>
+<td>매도 다음 영업일</td>
+<td>국내 데일리 커버드콜</td>
+<td>하루치 방향성이 옵션에 포함됨</td>
+</tr>
+<tr>
+<td>주간</td>
+<td>주 단위</td>
+<td>주간형 커버드콜</td>
+<td>프리미엄 이벤트 감소, 상방 제한 구간 확대</td>
+</tr>
+<tr>
+<td>월간</td>
+<td>월 단위</td>
+<td>QYLD 등 전통형</td>
+<td>상방 제한이 한 달 단위로 고정</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, '데일리'라는 표현이 붙었다고 해서 만기가 같은 것은 아닙니다. 만기가 하루 다르면 옵션에 반영되는 변동성 구간이 달라지고, 상방을 포기하는 시점도 달라집니다.</p>
+
+<h2 data-ke-size="size26">QDTE는 나스닥100 주식을 보유하나요?</h2>
+<p data-ke-size="size16">보유하지 않습니다. 지수 노출은 딥 인더머니 FLEX 콜옵션 매수로 합성합니다. 이 구조에서 확인해야 할 항목은 두 가지입니다.</p>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li><b>배당 귀속</b>: 주식을 보유하지 않으므로 구성종목의 배당이 펀드에 직접 들어오지 않습니다. 인컴의 원천은 옵션 프리미엄입니다.</li>
+<li><b>거래상대방 및 유동성</b>: FLEX 옵션은 조건을 맞춤 설정하는 상장옵션으로, 표준 옵션보다 유동성이 얕을 수 있습니다. 설명서도 대규모 포지션의 청산 곤란 위험을 명시합니다.</li>
+</ul>
+<h2 data-ke-size="size26">왜 하루 중 아침에 옵션을 매도하나요?</h2>
+<p data-ke-size="size16">전날 마감 이후 다음 날 개장까지의 구간, 즉 오버나이트 구간에는 콜을 매도하지 않고 지수 노출만 유지하는 설계입니다. 운용사 자료는 이 전략을 오버나이트 수익을 확보하면서 장중에는 프리미엄을 받는 방식으로 설명합니다.</p>
+<p data-ke-size="size16">이 설계는 <b>수익 원천을 시간대별로 분리</b>합니다. 오버나이트 구간은 지수 방향에, 장중 구간은 옵션 프리미엄에 의존합니다. 따라서 개장 직후 급등이 반복되는 국면에서는 상방이 잘려 나가고, 오버나이트 갭 하락 국면에서는 손실을 프리미엄이 충분히 메우지 못할 수 있습니다.</p>
+<h2 data-ke-size="size26">분배금은 어디서 나오나요?</h2>
+<p data-ke-size="size16">주 재원은 옵션 매도 프리미엄입니다. 다만 설명서는 주간 분배금의 상당 부분이 자본 환급으로 분류될 수 있다고 명시합니다. 자본 환급은 이익 배분이 아니라 <b>투자자가 넣은 원금의 일부를 돌려주는 것</b>이므로, 그만큼 순자산가치가 감소합니다.</p>
+<table data-ke-align="alignLeft"><caption>표3. 분배금과 순자산가치의 관계 <b>(가상 예시)</b></caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>기초 NAV</th>
+<th>주간 분배금</th>
+<th>프리미엄 수취</th>
+<th>분배 후 NAV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A: 프리미엄이 분배금을 충족</td>
+<td>10,000원</td>
+<td>100원</td>
+<td>120원</td>
+<td>10,020원</td>
+</tr>
+<tr>
+<td>B: 프리미엄이 부족</td>
+<td>10,000원</td>
+<td>100원</td>
+<td>40원</td>
+<td>9,940원</td>
+</tr>
+<tr>
+<td>C: 지수 하락 동반</td>
+<td>10,000원</td>
+<td>100원</td>
+<td>40원, 지수 &minus;2%</td>
+<td>9,741원</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 분배금이 일정하게 지급되더라도 그것이 이익에서 나왔는지는 별개 문제입니다. B&middot;C처럼 프리미엄이 분배금을 밑돌면 차액은 원금에서 충당되고 NAV가 내려갑니다. 분배금 총액만 보고 성과를 판단할 수 없는 이유이며, 판단에는 <b>분배금 + NAV 변화</b>를 합산한 총수익 관점이 필요합니다. 분배 시점과 기준일의 상호작용은 <a href="/345">커버드콜 ETF의 분배 타이밍을 정리한 글</a>에서 별도로 다뤘습니다.</p>
+<h2 data-ke-size="size26">QDTE는 지수를 추종하나요?</h2>
+<p data-ke-size="size16">추종하지 않습니다. 액티브 운용이며, 설명서상 'Innovation-100 Index'는 옵션이 참조하는 대상일 뿐 펀드가 복제하는 기초지수가 아닙니다. 상품명 자체가 2024년 7월에 'N-100'에서 'Innovation-100'으로 바뀐 이력도 있습니다.</p>
+<p data-ke-size="size16">실무적으로 중요한 결과는 이것입니다. <b>추종 지수가 없으므로 추적오차라는 개념이 성립하지 않고, 대신 운용 판단 위험이 들어옵니다.</b> 국내 상장 커버드콜 ETF 대부분이 지수 추종형이라는 점과 대비되는 지점입니다.</p>
+<h2 data-ke-size="size26">JEPQ&middot;QYLD와 구조가 어떻게 다른가요?</h2>
+<p data-ke-size="size16">셋 다 나스닥100 계열 인컴 상품이지만 자산 보유 방식과 옵션 만기가 다릅니다.</p>
+<table data-ke-align="alignLeft"><caption>표4. 나스닥100 계열 인컴 ETF 구조 대조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>QDTE</th>
+<th>JEPQ</th>
+<th>QYLD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초자산 보유</td>
+<td>미보유(합성 옵션)</td>
+<td>주식 포트폴리오 보유</td>
+<td>지수 구성종목 보유</td>
+</tr>
+<tr>
+<td>운용 방식</td>
+<td>액티브</td>
+<td>액티브</td>
+<td>지수 추종</td>
+</tr>
+<tr>
+<td>인컴 수단</td>
+<td>당일 만기 콜 매도</td>
+<td>주식 배당 + 옵션 연계 증권</td>
+<td>월간 지수 콜 매도</td>
+</tr>
+<tr>
+<td>분배 주기</td>
+<td>주간</td>
+<td>월간</td>
+<td>월간</td>
+</tr>
+<tr>
+<td>종목 선택 재량</td>
+<td>없음(지수 참조)</td>
+<td>있음</td>
+<td>없음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, QDTE와 JEPQ는 모두 액티브이지만 액티브의 의미가 다릅니다. JEPQ는 <b>어떤 주식을 담을지</b>를 판단하고, QDTE는 <b>어떤 옵션을 어떤 조건으로 팔지</b>를 판단합니다. 같은 '액티브 커버드콜'로 묶으면 위험의 성격을 놓칩니다. 개별 상품의 분배 재원 분해는 <a href="/326">JEPQ의 분배 구조를 다룬 글</a>과 <a href="/469">커버드콜 ETF 선택 시 확인 순서를 정리한 글</a>에 정리했습니다.</p>
+<h2 data-ke-size="size26">국내 상장 데일리 커버드콜과 같은 상품인가요?</h2>
+<p data-ke-size="size16">아닙니다. 국내 대표 2종의 공시를 확인하면 만기 정의와 운용 방식이 모두 다릅니다.</p>
+<table data-ke-align="alignLeft"><caption>표5. 국내 상장 나스닥100 데일리 커버드콜 2종의 공시 내용</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>KODEX 미국나스닥100데일리커버드콜OTM</th>
+<th>TIGER 미국나스닥100타겟데일리커버드콜</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초지수</td>
+<td>NASDAQ-100 Daily Covered Call 101 Index(TR)</td>
+<td>NASDAQ100 Daily Covered Call Target Premium 15% 지수(TR)(원화환산)</td>
+</tr>
+<tr>
+<td>산출기관</td>
+<td>Nasdaq, Inc.</td>
+<td>Nasdaq, Inc.</td>
+</tr>
+<tr>
+<td>운용 방식</td>
+<td>지수 추종(패시브)</td>
+<td>지수 추종(패시브)</td>
+</tr>
+<tr>
+<td>옵션 만기</td>
+<td>잔존 만기 1일 콜 매도</td>
+<td>익일 만기 콜을 매 영업일 매도</td>
+</tr>
+<tr>
+<td>행사가</td>
+<td>지수명상 아웃오브더머니 계열</td>
+<td>ATM(등가격)</td>
+</tr>
+<tr>
+<td>프리미엄 목표</td>
+<td>지수명에 목표 수치 미포함</td>
+<td>연 15% 목표(목표치이며 실적 아님)</td>
+</tr>
+<tr>
+<td>지수 산출기준일</td>
+<td>[확인 필요]</td>
+<td>2019-01-03</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 국내 2종은 <b>Nasdaq이 만든 커버드콜 지수를 복제하는 패시브 상품</b>이고 QDTE는 지수가 없는 액티브 상품입니다. 또 국내 2종은 익일 만기 옵션을 팔므로 0DTE가 아닙니다. 행사가 위치도 아웃오브더머니와 등가격으로 갈리는데, 등가격에 가까울수록 프리미엄은 커지고 상방 참여는 줄어듭니다. 국내 상장 미국 커버드콜 상품들 사이의 대조는 <a href="/395">국내 상장 미국 커버드콜 ETF 비교 글</a>에 정리했습니다.</p>
+<h2 data-ke-size="size26">국내에 QDTE의 대응 상품이 있나요?</h2>
+<p data-ke-size="size16">존재&middot;부재&middot;정보부족 세 분류로만 판정합니다.</p>
+<table data-ke-align="alignLeft"><caption>표6. QDTE 대응 국내 상품 3분류</caption>
+<thead>
+<tr>
+<th>기준</th>
+<th>판정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동일 기초지수 추종 국내 상품</td>
+<td><b>부재</b> &mdash; QDTE는 추종 지수가 없으므로 성립 불가</td>
+</tr>
+<tr>
+<td>동일 자산(나스닥100)&middot;유사 전략(데일리 커버드콜) 국내 상품</td>
+<td><b>존재</b> &mdash; 복수 운용사</td>
+</tr>
+<tr>
+<td>당일 만기(0DTE) 옵션을 매도하는 국내 상장 상품</td>
+<td>확인 범위 내 <b>부재</b> &mdash; 전수 확인 아님 <b>[확인 필요]</b></td>
+</tr>
+<tr>
+<td>주간 분배를 지급하는 국내 상장 커버드콜 상품</td>
+<td><b>[정보부족]</b> &mdash; 국내는 월 분배가 일반적</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, "한국판 QDTE"라는 표현은 정확하지 않습니다. 자산과 전략 범주는 겹치지만 지수 추종 여부, 만기 정의, 분배 주기가 모두 다르기 때문입니다.</p>
+<h2 data-ke-size="size26">상방 참여는 얼마나 남나요?</h2>
+<p data-ke-size="size16">매도한 콜의 행사가를 넘는 상승분은 포기됩니다. 아웃오브더머니 콜을 팔면 행사가까지의 상승분은 남지만, 그 위는 잘립니다. 당일 만기를 매일 반복하면 상방 제한도 매일 재설정됩니다.</p>
+<p data-ke-size="size16">따라서 이 유형은 <b>지수가 장기간 강하게 오르는 국면에서 지수 자체보다 뒤처지는 것이 구조적으로 정상</b>입니다. 반대로 횡보&middot;박스 국면에서는 프리미엄 누적이 상대적으로 유리해집니다. 어느 국면이 올지 예측하는 방식이 아니라, 본인의 현금흐름 필요와 총수익 목표 중 무엇이 우선인지로 판단하는 것이 순서입니다.</p>
+<h2 data-ke-size="size26">세금은 어떻게 처리되나요?</h2>
+<p data-ke-size="size16">미국 상장 상품을 직접 매수하는 경우와 국내 상장 유사 상품을 매수하는 경우가 다릅니다.</p>
+<table data-ke-align="alignLeft"><caption>표7. 과세 비교(국내 거주자, 일반계좌 기준)</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>QDTE 직접 매수</th>
+<th>국내 상장 데일리 커버드콜</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득 22%(지방소득세 포함), 연 250만원 기본공제, 분류과세</td>
+<td>배당소득 15.4%, 보유기간 과세<br />Min(매매차익, 과표기준가 증분)</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국 원천징수 후 국내 배당소득 과세</td>
+<td>배당소득 15.4%</td>
+</tr>
+<tr>
+<td>금융소득종합과세</td>
+<td>분배금은 대상, 양도차익은 비대상</td>
+<td>연 2,000만원 초과 시 대상</td>
+</tr>
+<tr>
+<td>자본 환급(ROC) 반영</td>
+<td>국내 원천징수에서 ROC 구분 반영 여부는 증권사 확인 필요 <b>[확인 필요]</b></td>
+<td>해당 개념 미적용</td>
+</tr>
+<tr>
+<td>연금저축&middot;IRP 편입</td>
+<td>불가</td>
+<td>가능(상품별 확인 필요)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 분배 빈도가 높은 상품은 <b>과세 시점이 빨리 그리고 자주 돌아온다</b>는 점이 구조적 불리함으로 작용할 수 있습니다. 주간 분배는 분배금 수령 시마다 배당소득 과세가 발생하므로, 재투자 복리 효과가 세후 기준으로 줄어듭니다.</p>
+<p data-ke-size="size16">한 가지 주의할 점이 있습니다. 미국 세법에서 지수옵션에 적용되는 60/40 과세 규정 같은 조항은 <b>미국 납세자에게 적용되는 규정</b>이며 국내 거주자에게 그대로 이전되지 않습니다. 영문 자료에서 세제 이점으로 소개되는 항목을 국내 과세에 대입하면 안 됩니다.</p>
+<h2 data-ke-size="size26">연금계좌에서 매수할 수 있나요?</h2>
+<p data-ke-size="size16">연금저축과 IRP에서는 미국 상장 ETF를 직접 매수할 수 없으므로 QDTE는 편입 대상이 아닙니다. 유사 노출을 원한다면 국내 상장 데일리 커버드콜 상품이 경로가 되며, 이 경우 인출 시점에 연금소득세가 적용됩니다. 파생상품 활용 비중이 높은 상품은 계좌 유형별 편입 제한이 걸릴 수 있어 매수 전에 증권사 화면에서 확인해야 합니다.</p>
+<h2 data-ke-size="size26">어떤 순서로 확인해야 하나요?</h2>
+<ol style="list-style-type: decimal;" data-ke-list-type="decimal">
+<li>추종 지수 유무 확인 &mdash; 액티브인지 패시브인지</li>
+<li>기초자산 보유 여부 확인 &mdash; 실물 보유인지 합성인지</li>
+<li>매도 옵션의 만기 정의 확인 &mdash; 당일인지 익일인지</li>
+<li>행사가 위치 확인 &mdash; 등가격인지 아웃오브더머니인지</li>
+<li>분배 주기와 자본 환급 비중 확인</li>
+<li>계좌 유형과 과세 방식 확인</li>
+</ol>
+<h2 data-ke-size="size26">확인되지 않은 항목은 무엇인가요?</h2>
+<table data-ke-align="alignLeft"><caption>표8. 미확정 항목</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>상태</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KODEX 상품 기초지수명 '101'의 행사가 산정 규칙</td>
+<td>[확인 필요] &mdash; 지수 방법론 원문</td>
+</tr>
+<tr>
+<td>국내 상장 상품 중 당일 만기 옵션 매도 상품의 전수 존재 여부</td>
+<td>[확인 필요]</td>
+</tr>
+<tr>
+<td>미국 ETF 분배금의 ROC 구분이 국내 원천징수에 반영되는지</td>
+<td>[확인 필요] &mdash; 증권사별 상이 가능</td>
+</tr>
+<tr>
+<td>QDTE가 사용하는 FLEX 옵션의 만기&middot;행사가 설정 규칙 세부</td>
+<td>[정보부족]</td>
+</tr>
+<tr>
+<td>국내 상품의 연금계좌 편입 가능 여부</td>
+<td>[확인 필요] &mdash; 상품&middot;증권사별 확인</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 구조의 골격은 운용사 공시로 확정됐고 미확정 항목은 지수 방법론 세부와 국내 세무 처리 실무에 몰려 있습니다. 특히 과세 처리는 증권사 안내를 직접 확인해야 하는 영역입니다.</p>
+<div>
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">분배 재원과 자본 환급 비중</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">추종 지수 유무(액티브 여부)</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">옵션 만기 정의(당일&middot;익일)</p>
+<progress value="80" max="100"></progress>
+<p data-ke-size="size16">계좌 유형과 과세 시점</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">행사가 위치와 상방 제한</p>
+<progress value="55" max="100"></progress>
+<p data-ke-size="size16">FLEX 옵션 유동성 위험</p>
+<progress value="35" max="100"></progress>
