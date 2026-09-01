@@ -1,0 +1,102 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-02T00:26:00+09:00",
+    "datePublished": "2026-09-02T00:25:47+09:00",
+    "description": "YMAX는 개별 주식을 담는 상품이 아니라 다른 YieldMax ETF들을 담는 재간접(펀드 오브 펀즈) ETF입니다. 이 구조에서 확인해야 할 것은 두 가지입니다. 첫째, 보수가 운용보수와 취득펀드 보수·비용(AFFE)으로 나뉘어 표기되므로 '총보수'라는 하나의 숫자로 비용을 파악할 수 없습니다. 둘째, 분배 주기가 SEC 제출 문서 기준으로 2024년 이후 세 차례 변경됐습니다. 이 글은 재간접 구조가 비용·분배·과세에 각각 어떻게 작동하는지 순서대로 확인합니다.YMAX는 무엇을 담는 상품인가요?YieldMax 계열 ETF 지분을 담습니다. 개별 기업 주식이 아니라 ETF가 편입 자산입니다.표1. YMAX의 기본 구조(설명서·운용사 공시 기준)항목내용구조재간접형(fund of funds). 다른 ET..",
+    "headline": "YMAX ETF는 ETF를 담는다: 보수가 두 층으로 갈리는 구조와 분배 주기 변경 이력",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/544",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/544"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/544/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/544/#etf-ymax"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "2026-09-02",
+        "datePublished": "2026-09-02",
+        "description": "YMAX는 다른 YieldMax ETF들을 담는 재간접 ETF입니다. 운용보수와 취득펀드 보수가 따로 표기되는 구조, 세 차례 바뀐 분배 주기, 자본환급 비중까지 1차 출처로 확인해 정리했습니다.",
+        "headline": "YMAX ETF는 ETF를 담는다: 보수가 두 층으로 갈리는 구조와 분배 주기 변경 이력",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/544/#concept-affe"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/544/#etf-ymag"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/544"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/544/#etf-ymax",
+        "@type": "Thing",
+        "description": "2024년 1월 16일 출시된 액티브 재간접 ETF. YieldMax 계열 옵션인컴 ETF 지분을 모멘텀 방법론에 따라 동적으로 배분하며 비분산으로 분류된다.",
+        "name": "YieldMax Universe Fund of Option Income ETFs (YMAX)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/544/#concept-affe",
+        "@type": "Thing",
+        "description": "다른 투자회사 지분을 보유함으로써 발생하는 간접 비용. 재간접 ETF에서 운용보수와 별도로 공시되며 합산해야 총보수가 된다.",
+        "name": "취득펀드 보수·비용(AFFE)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/544/#etf-ymag",
+        "@type": "Thing",
+        "description": "YMAX와 동일한 재간접 구조를 사용하는 자매 상품.",
+        "name": "YieldMax Magnificent 7 Fund of Option Income ETFs (YMAG)"
+      }
+    ]
+  }
+]

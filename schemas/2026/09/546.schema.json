@@ -1,0 +1,102 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-02T01:45:00+09:00",
+    "datePublished": "2026-09-02T01:44:16+09:00",
+    "description": "'인프라'라는 이름을 단 ETF들은 서로 다른 것을 담습니다. 어떤 상품은 공항·유료도로·전력망을 운영하는 기업을 담고, 어떤 상품은 그것을 건설하는 기업을 담고, 최근 상품은 데이터센터 전력 설비를 담습니다. 지수 제공사도 외부 기관과 운용사 계열로 갈립니다. 이 글은 국내 상장 인프라 ETF의 기초지수를 공시 기준으로 대조해, 이름이 아니라 무엇을 담는지로 구분하는 기준을 정리합니다.인프라 ETF는 왜 상품마다 다른 것을 담나요?'인프라'가 산업 분류가 아니라 개념이기 때문입니다. 지수 제공사마다 이 개념을 다르게 조작적으로 정의하고, 그 정의가 곧 편입 대상을 결정합니다.표1. 인프라 정의 방식별 편입 대상정의 방식편입되는 기업주로 잡히는 섹터자산 운영 주체공항·항만·유료도로·송배전 사업자유틸리티·..",
+    "headline": "인프라 ETF 비교: KODEX·TIGER 상품의 지수 제공사와 투자 대상이 갈리는 지점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/546",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/546"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/546/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/546/#segment-infra"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "2026-09-02",
+        "datePublished": "2026-09-02",
+        "description": "같은 인프라 ETF인데 담는 것이 다릅니다. 유틸리티 중심과 산업재 중심, 글로벌과 미국, 자체 지수와 외부 지수까지 국내 상장 인프라 ETF의 지수 구조를 공시로 대조해 정리했습니다.",
+        "headline": "인프라 ETF 비교: KODEX·TIGER 상품의 지수 제공사와 투자 대상이 갈리는 지점",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/546/#index-spgi"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/546/#concept-synthetic"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/546"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/546/#segment-infra",
+        "@type": "Thing",
+        "description": "인프라 자산의 운영 주체, 건설 주체, 특정 테마 설비 중 무엇을 담는지에 따라 편입 대상이 갈리는 ETF 범주.",
+        "name": "인프라 ETF"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/546/#index-spgi",
+        "@type": "Thing",
+        "description": "S&P가 산출하는 글로벌 인프라 지수. 국내 상장 합성 복제 ETF의 기초지수로 사용된다.",
+        "name": "S&P Global Infrastructure Index"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/546/#concept-synthetic",
+        "@type": "Thing",
+        "description": "기초자산을 직접 보유하지 않고 스왑 등 파생 계약으로 지수 수익률을 수취하는 방식. 거래상대방 위험이 수반된다.",
+        "name": "합성 복제"
+      }
+    ]
+  }
+]

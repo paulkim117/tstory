@@ -1,0 +1,323 @@
+<!--
+source: https://mystock-note.tistory.com/544
+backup_date: 2026-09-01
+post_id: 544
+-->
+<p data-ke-size="size16">YMAX는 개별 주식을 담는 상품이 아니라 <b>다른 YieldMax ETF들을 담는 재간접(펀드 오브 펀즈) ETF</b>입니다. 이 구조에서 확인해야 할 것은 두 가지입니다. 첫째, 보수가 운용보수와 취득펀드 보수&middot;비용(AFFE)으로 나뉘어 표기되므로 '총보수'라는 하나의 숫자로 비용을 파악할 수 없습니다. 둘째, 분배 주기가 SEC 제출 문서 기준으로 2024년 이후 세 차례 변경됐습니다. 이 글은 재간접 구조가 비용&middot;분배&middot;과세에 각각 어떻게 작동하는지 순서대로 확인합니다.</p>
+<h2 data-ke-size="size26">YMAX는 무엇을 담는 상품인가요?</h2>
+<p data-ke-size="size16">YieldMax 계열 ETF 지분을 담습니다. 개별 기업 주식이 아니라 ETF가 편입 자산입니다.</p>
+<table data-ke-align="alignLeft"><caption>표1. YMAX의 기본 구조(설명서&middot;운용사 공시 기준)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>구조</td>
+<td>재간접형(fund of funds). 다른 ETF 지분에 주로 투자</td>
+</tr>
+<tr>
+<td>편입 대상</td>
+<td>YieldMax 계열 &mdash; 단일종목 옵션인컴 ETF, 포트폴리오형, 울트라형</td>
+</tr>
+<tr>
+<td>운용 방식</td>
+<td>액티브. 추종 지수 없음</td>
+</tr>
+<tr>
+<td>배분 규칙</td>
+<td>상대 성과 추세를 반영하는 모멘텀 방법론에 따른 동적 배분</td>
+</tr>
+<tr>
+<td>직접 투자 여지</td>
+<td>편입 ETF가 투자하는 증권&middot;금융상품에 직접 투자할 수도 있음</td>
+</tr>
+<tr>
+<td>분산 여부</td>
+<td>비분산(non-diversified)</td>
+</tr>
+<tr>
+<td>상장</td>
+<td>NYSE Arca. 2024년 1월 16일 출시</td>
+</tr>
+<tr>
+<td>자매 상품</td>
+<td>YMAG(YieldMax Magnificent 7 Fund of Option Income ETFs)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 이 상품의 손익은 <b>편입된 개별 옵션인컴 ETF들의 손익 합</b>이고, 그 위에 배분 판단이 한 층 더 올라갑니다. 기초자산이 주식이 아니라 전략이라는 점이 일반 ETF와 다릅니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+
+<h2 data-ke-size="size26">왜 개별 상품 대신 재간접 구조를 쓰나요?</h2>
+<p data-ke-size="size16">운용사가 제시하는 이유는 접근성입니다. 계열 상품이 수십 개로 늘어나면 투자자가 개별 종목을 각각 관리해야 하는데, 재간접 상품 하나로 그 작업을 대체한다는 설계입니다.</p>
+<p data-ke-size="see16">다만 이 편의에는 대가가 붙습니다. 개별 상품을 직접 사면 어떤 종목을 얼마나 담을지 투자자가 결정하지만, 재간접 상품에서는 그 결정권이 운용사에 넘어갑니다. 배분 규칙이 바뀌면 투자자가 보유한 실질 포트폴리오도 바뀝니다.</p>
+
+<h2 data-ke-size="size26">보수는 왜 두 층으로 표기되나요?</h2>
+<p data-ke-size="size16">재간접 구조에서는 비용이 두 군데서 발생합니다. 이 상품 자체의 운용보수와, 이 상품이 담고 있는 다른 ETF들의 보수입니다. 후자를 <b>취득펀드 보수&middot;비용(Acquired Fund Fees and Expenses, AFFE)</b>이라 부르고 별도 항목으로 공시합니다.</p>
+<table data-ke-align="alignLeft"><caption>표2. 재간접 ETF의 비용 층위</caption>
+<thead>
+<tr>
+<th>층</th>
+<th>발생 위치</th>
+<th>공시 항목</th>
+<th>투자자 인식</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1층</td>
+<td>YMAX 자체 운용</td>
+<td>운용보수(Management Fee)</td>
+<td>비교적 명확</td>
+</tr>
+<tr>
+<td>2층</td>
+<td>편입된 각 YieldMax ETF</td>
+<td>AFFE(간접 비용)</td>
+<td>누락하기 쉬움</td>
+</tr>
+<tr>
+<td>합계</td>
+<td>&mdash;</td>
+<td>총보수(gross expense ratio)</td>
+<td>어느 층까지 포함한 값인지 확인 필요</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 같은 상품에 대해 <b>서로 다른 두 개의 '보수' 숫자가 모두 공식적으로 옳을 수 있습니다.</b> 1층만 인용하면 낮게, 합계를 인용하면 높게 나옵니다. 이 블로그가 총보수 수치를 본문에 싣지 않는 이유가 여기 있습니다. 어느 층을 가리키는 숫자인지 함께 적지 않으면 그 수치는 정보가 아니라 오해의 소재가 됩니다. 동일한 구조적 문제를 BDC에서 확인한 사례는 <a href="/538">BDC의 총보수 표기가 두 개로 갈리는 구조를 다룬 글</a>에 정리했습니다.</p>
+<table data-ke-align="alignLeft"><caption>표3. 비용 2층 구조의 누적 효과 <b>(가상 예시)</b></caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>1층만 인식</th>
+<th>2층 합산 인식</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>연 비용률 가정</td>
+<td>0.3%</td>
+<td>1.3%</td>
+</tr>
+<tr>
+<td>1,000만원 1년 비용</td>
+<td>3만원</td>
+<td>13만원</td>
+</tr>
+<tr>
+<td>10년 누적(단순 합산)</td>
+<td>30만원</td>
+<td>130만원</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 층을 하나 빠뜨리면 장기 비용 인식이 네 배 이상 어긋날 수 있습니다. 위 수치는 구조를 보이기 위한 가정값이며 실제 값은 운용사 공시에서 기준일과 함께 확인해야 합니다.</p>
+<h2 data-ke-size="size26">배분 방식은 고정인가요?</h2>
+<p data-ke-size="size16">고정이 아닙니다. 운용사 현행 자료는 정적 동일가중이 아니라 상대 성과 추세를 반영하는 모멘텀 방법론으로 배분을 조정한다고 기재합니다. 2026년 2월에는 운용사가 이 상품에 대한 개편을 별도로 발표했습니다.</p>
+<p data-ke-size="size16">실무적으로 확인할 점은 이것입니다. <b>지금 편입 비중을 확인해도 그것이 계속 유지된다는 보장이 없습니다.</b> 모멘텀 기반 배분은 최근 성과가 좋았던 전략의 비중을 늘리는 방향으로 작동하므로, 국면이 바뀌는 시점에 비중이 뒤늦게 따라가는 위험이 구조에 내재합니다. 개편의 정확한 시행일과 변경 전 규정은 설명서 보충서 원문 확인이 필요합니다 <b>[확인 필요]</b>.</p>
+<h2 data-ke-size="size26">분배 주기는 어떻게 바뀌어 왔나요?</h2>
+<p data-ke-size="size16">SEC 제출 문서를 시간순으로 대조하면 세 차례 변경됐습니다. 이 상품을 '주간 배당 ETF'로만 이해하면 이력을 놓칩니다.</p>
+<table data-ke-align="alignLeft"><caption>표4. 분배 주기 관련 설명서 보충서 이력</caption>
+<thead>
+<tr>
+<th>보충서 일자</th>
+<th>변경 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-01-16</td>
+<td>최초 설명서 &mdash; 월간 인컴 기준</td>
+</tr>
+<tr>
+<td>2024-09-11</td>
+<td>'월간 인컴&middot;월간 분배' 표현을 '주간 인컴&middot;주간 분배'로 전면 교체</td>
+</tr>
+<tr>
+<td>2025-09-11</td>
+<td>'월간 또는 그보다 빈번한' 기준으로 변경</td>
+</tr>
+<tr>
+<td>2025-10-14</td>
+<td>다시 주간 기준으로 변경</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 분배 주기는 상품의 고정 속성이 아니라 <b>운용사가 보충서로 바꿀 수 있는 항목</b>입니다. 분배 주기를 전제로 현금흐름 계획을 세운다면 이 항목이 변경 가능하다는 점을 함께 감안해야 합니다. 한국어 자료는 대체로 현재 시점 주기만 기재하므로, 이력은 SEC 제출 문서에서 직접 확인해야 나옵니다.</p>
+<h2 data-ke-size="size26">분배금은 이익에서 나오나요?</h2>
+<p data-ke-size="size16">전부 이익이라고 볼 수 없습니다. 운용사는 분배금 중 자본환급(Return of Capital) 추정 비중을 별도 항목으로 공시하며, 최종 세무상 성격은 회계연도가 끝난 뒤에 확정된다고 밝힙니다. 자본환급은 이익 배분이 아니라 원금의 일부를 되돌려주는 것이므로 그만큼 순자산가치가 감소합니다.</p>
+<p data-ke-size="size16">재간접 구조에서는 이 판단이 한 겹 더 복잡해집니다. <b>편입된 개별 ETF들도 각자 자본환급을 포함한 분배를 하고 있고, 그것이 상위 상품의 분배 재원으로 다시 들어옵니다.</b> 따라서 상위 상품의 분배금만 보고 성과를 판단하기 어렵고, 분배금과 순자산가치 변화를 합산한 총수익 관점이 필요합니다. 분배 기준일과 지급 구조는 <a href="/345">커버드콜 ETF의 분배 타이밍을 정리한 글</a>에서 다뤘습니다.</p>
+<h2 data-ke-size="size26">개별 YieldMax ETF를 직접 담는 것과 무엇이 다른가요?</h2>
+<table data-ke-align="alignLeft"><caption>표5. 재간접 보유와 개별 직접 보유 비교</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>YMAX 보유</th>
+<th>개별 상품 직접 보유</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>비중 결정권</td>
+<td>운용사(모멘텀 규칙)</td>
+<td>투자자</td>
+</tr>
+<tr>
+<td>비용 층</td>
+<td>2층(운용보수 + AFFE)</td>
+<td>1층</td>
+</tr>
+<tr>
+<td>거래 건수</td>
+<td>1건</td>
+<td>편입 종목 수만큼</td>
+</tr>
+<tr>
+<td>종목 교체</td>
+<td>펀드 내부에서 자동</td>
+<td>투자자가 직접</td>
+</tr>
+<tr>
+<td>손익 통산(국내 세제)</td>
+<td>단일 종목으로 처리</td>
+<td>종목별 양도손익 통산 가능</td>
+</tr>
+<tr>
+<td>구성 파악</td>
+<td>공시 시점 기준으로만 가능</td>
+<td>본인 계좌에서 상시 확인</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 재간접 구조가 유리한 지점은 <b>거래 건수와 관리 노동</b>이고 불리한 지점은 <b>비용 층과 통제권</b>입니다. 담고 싶은 전략이 이미 명확하다면 개별 보유가 비용상 유리하고, 계열 전체에 폭넓게 노출되는 것이 목적이라면 재간접이 단순합니다.</p>
+<h2 data-ke-size="size26">QDTE&middot;JEPQ 같은 상품과 같은 범주인가요?</h2>
+<p data-ke-size="size16">아닙니다. 같은 '옵션 인컴' 범주에 묶이지만 층위가 다릅니다.</p>
+<table data-ke-align="alignLeft"><caption>표6. 옵션 인컴 상품의 층위 구분</caption>
+<thead>
+<tr>
+<th>층위</th>
+<th>예</th>
+<th>기초자산</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1차 상품 &mdash; 지수 옵션형</td>
+<td>QDTE&middot;QYLD류</td>
+<td>지수 및 지수 옵션</td>
+</tr>
+<tr>
+<td>1차 상품 &mdash; 단일종목 옵션형</td>
+<td>YieldMax 개별 종목 상품</td>
+<td>개별 주식 및 그 옵션</td>
+</tr>
+<tr>
+<td>1차 상품 &mdash; 주식 보유형</td>
+<td>JEPQ류</td>
+<td>주식 포트폴리오 + 옵션 연계 증권</td>
+</tr>
+<tr>
+<td><b>2차 상품 &mdash; 재간접형</b></td>
+<td><b>YMAX&middot;YMAG</b></td>
+<td><b>위 1차 상품들의 지분</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 분배율 숫자만으로 이들을 한 줄에 세워 비교하면 위험의 성격이 뭉개집니다. 1차 상품은 기초자산과 옵션 조건 위험을, 2차 상품은 그 위에 배분 판단 위험과 비용 2층을 더 갖습니다. 개별 단일종목 옵션인컴 상품의 구조는 <a href="/331">단일종목 커버드콜 ETF의 분배 재원을 분해한 글</a>에, 선택 시 확인 순서는 <a href="/469">커버드콜 ETF 확인 순서를 정리한 글</a>에 있습니다.</p>
+<h2 data-ke-size="size26">국내에 대응 상품이 있나요?</h2>
+<table data-ke-align="alignLeft"><caption>표7. 국내 대안 3분류</caption>
+<thead>
+<tr>
+<th>기준</th>
+<th>판정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>미국 커버드콜 ETF들을 담는 국내 상장 재간접 상품</td>
+<td>확인 범위 내 <b>부재</b> &mdash; 전수 아님 <b>[확인 필요]</b></td>
+</tr>
+<tr>
+<td>동일 기초지수 추종 국내 상품</td>
+<td><b>부재</b> &mdash; 추종 지수가 없는 액티브 상품이므로 성립 불가</td>
+</tr>
+<tr>
+<td>유사 목적(옵션 인컴 분산) 국내 상장 상품</td>
+<td><b>존재</b> &mdash; 단, 재간접이 아니라 단일 전략형</td>
+</tr>
+<tr>
+<td>국내 상장 상품의 AFFE 유형 공시</td>
+<td><b>[정보부족]</b> &mdash; 국내 공시 체계상 표기 방식 미확인</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 이 상품은 <b>국내 대체 경로가 사실상 없는 유형</b>입니다. 다만 그 이유가 상품 우수성 때문이 아니라, 재간접 옵션인컴이라는 조합 자체가 국내에 도입되지 않았기 때문입니다.</p>
+<h2 data-ke-size="size26">세금은 어떻게 처리되나요?</h2>
+<table data-ke-align="alignLeft"><caption>표8. 과세 처리(국내 거주자, 일반계좌)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>처리</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득 22%(지방소득세 포함), 연 250만원 기본공제, 분류과세</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국 원천징수 후 국내 배당소득 과세. 금융소득종합과세 대상</td>
+</tr>
+<tr>
+<td>자본환급 부분</td>
+<td>국내 원천징수에서 구분 반영되는지 증권사 확인 필요 <b>[확인 필요]</b></td>
+</tr>
+<tr>
+<td>분배 빈도</td>
+<td>주간 기준일 경우 과세 이벤트가 자주 발생 &rarr; 세후 재투자 효율 저하</td>
+</tr>
+<tr>
+<td>연금저축&middot;IRP</td>
+<td>미국 상장 ETF이므로 편입 불가</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석하면, 고빈도 분배 상품은 <b>비용이 두 층, 과세 이벤트가 고빈도</b>라는 두 가지 마찰이 동시에 걸립니다. 영문 자료에서 언급되는 미국 세법상 취급(옵션 과세 규정, 자본환급의 취득가액 조정 등)은 미국 납세자 기준이며 국내 거주자에게 그대로 적용되지 않습니다.</p>
+<h2 data-ke-size="size26">비분산 분류는 무엇을 의미하나요?</h2>
+<p data-ke-size="size16">1940년법상 분산 요건을 충족하지 않는 분류입니다. 특정 편입 대상의 비중이 분산형 펀드보다 높아질 수 있다는 뜻이며, 모멘텀 배분과 결합하면 성과가 좋았던 소수 전략으로 집중될 여지가 커집니다. 재간접이라는 이름이 자동으로 분산을 보장하지 않습니다.</p>
+<h2 data-ke-size="size26">어떤 순서로 확인해야 하나요?</h2>
+<ol style="list-style-type: decimal;" data-ke-list-type="decimal">
+<li>재간접 여부 확인 &mdash; 무엇을 담고 있는지</li>
+<li>비용 층 확인 &mdash; 운용보수와 AFFE를 각각, 그리고 합계로</li>
+<li>배분 규칙 확인 &mdash; 고정 가중인지 동적 배분인지</li>
+<li>분배 주기와 변경 이력 확인 &mdash; SEC 보충서 기준</li>
+<li>자본환급 비중 확인 &mdash; 분배금 성격</li>
+<li>계좌 유형과 과세 이벤트 빈도 확인</li>
+</ol>
+<h2 data-ke-size="size26">확인되지 않은 항목은 무엇인가요?</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>2026년 2월 발표된 개편의 시행일과 변경 전 배분 규정 &mdash; <b>[확인 필요]</b></li>
+<li>미국 ETF 분배금의 자본환급 구분이 국내 원천징수에 반영되는지 &mdash; <b>[확인 필요]</b></li>
+<li>국내 상장 재간접 옵션인컴 상품의 전수 존재 여부 &mdash; <b>[확인 필요]</b></li>
+<li>국내 공시 체계에서 AFFE에 해당하는 항목의 표기 방식 &mdash; <b>[정보부족]</b></li>
+</ul>
+<p data-ke-size="size16">해석하면, 구조와 이력은 SEC 제출 문서로 확정됐고 미확정 항목은 국내 실무 처리와 최신 개편 세부에 몰려 있습니다.</p>
+<div>
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">비용 2층 합계 확인</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">분배금의 자본환급 비중</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">배분 규칙과 개편 이력</p>
+<progress value="75" max="100"></progress>
+<p data-ke-size="size16">분배 주기 변경 가능성</p>
+<progress value="60" max="100"></progress>
+<p data-ke-size="size16">과세 이벤트 빈도</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">비분산 집중 위험</p>
+<progress value="35" max="100"></progress>

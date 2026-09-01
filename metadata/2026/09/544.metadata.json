@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-01",
+  "body_html_length": 9720,
+  "canonical_url": "https://mystock-note.tistory.com/544",
+  "content_hash": "35e7f34cf5b8e60c33cd5065a81cb1c80c428c021a04e444eaebb41e445346b7",
+  "json_ld_count": 2,
+  "meta_description": "YMAX는 개별 주식을 담는 상품이 아니라 다른 YieldMax ETF들을 담는 재간접(펀드 오브 펀즈) ETF입니다. 이 구조에서 확인해야 할 것은 두 가지입니다. 첫째, 보수가 운용보수와 취득펀드 보수·비용(AFFE)으로 나뉘어 표기되므로 '총보수'라는 하나의 숫자로 비용을 파악할 수 없습니다. 둘째, 분배 주기가 SEC 제출 문서 기준으로 2024년 이후 세 차례 변경됐습니다. 이 글은 재간접 구조가 비용·분배·과세에 각각 어떻게 작동하는지 순서대로 확인합니다.YMAX는 무엇을 담는 상품인가요?YieldMax 계열 ETF 지분을 담습니다. 개별 기업 주식이 아니라 ETF가 편입 자산입니다.표1. YMAX의 기본 구조(설명서·운용사 공시 기준)항목내용구조재간접형(fund of funds). 다른 ET..",
+  "modified_time": "2026-09-02T00:26:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "YMAX는 개별 주식을 담는 상품이 아니라 다른 YieldMax ETF들을 담는 재간접(펀드 오브 펀즈) ETF입니다. 이 구조에서 확인해야 할 것은 두 가지입니다. 첫째, 보수가 운용보수와 취득펀드 보수·비용(AFFE)으로 나뉘어 표기되므로 '총보수'라는 하나의 숫자로 비용을 파악할 수 없습니다. 둘째, 분배 주기가 SEC 제출 문서 기준으로 2024년 이후 세 차례 변경됐습니다. 이 글은 재간접 구조가 비용·분배·과세에 각각 어떻게 작동하는지 순서대로 확인합니다.YMAX는 무엇을 담는 상품인가요?YieldMax 계열 ETF 지분을 담습니다. 개별 기업 주식이 아니라 ETF가 편입 자산입니다.표1. YMAX의 기본 구조(설명서·운용사 공시 기준)항목내용구조재간접형(fund of funds). 다른 ET..",
+  "og_title": "YMAX ETF는 ETF를 담는다: 보수가 두 층으로 갈리는 구조와 분배 주기 변경 이력",
+  "post_id": "544",
+  "published_time": "2026-09-02T00:25:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "YMAX ETF는 ETF를 담는다: 보수가 두 층으로 갈리는 구조와 분배 주기 변경 이력",
+  "url": "https://mystock-note.tistory.com/544"
+}
