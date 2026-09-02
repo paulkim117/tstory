@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-02",
+  "body_html_length": 12041,
+  "canonical_url": "https://mystock-note.tistory.com/547",
+  "content_hash": "ade690bf9ed82e0b58891149904147d5acf5b03abda4937469adea15de25a232",
+  "json_ld_count": 1,
+  "meta_description": "미국에 상장된 SVOL(Simplify Volatility Premium ETF)은 \"변동성을 판다\"는 말로 요약되는 상품입니다. 그런데 이 문장만으로는 실제로 무엇을 사고파는지, 왜 인버스 1배가 아닌지, 국내에 비슷한 상품이 있는지 알 수 없습니다. 이 글은 운용사 설명서와 SEC 제출서류를 기준으로 SVOL의 작동 구조를 분해하고, 국내 상장 대안이 왜 ETF가 아니라 ETN 형태로만 존재하는지까지 확인 순서대로 정리합니다.변동 지표(총보수·순자산·분배율·수익률·구성비중)는 수시로 바뀌므로 본문에서 전부 제외했습니다. 구조와 규정, 문서 이력만 다룹니다.SVOL은 무엇을 사고파는 펀드인가?SVOL은 지수를 그대로 복제하는 패시브 ETF가 아니라 액티브 운용 ETF입니다. 운용사는 Simplify A..",
+  "modified_time": "2026-09-03T00:45:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/547\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/547\",\"headline\":\"SVOL ETF, VIX 선물을 팔아 분배금을 만드는 구조와 국내 인버스 VIX ETN의 차이\",\"description\":\"미국에 상장된 SVOL(Simplify Volatility Premium ETF)은 \"변동성을 판다\"는 말로 요약되는 상품입니다. 그런데 이 문장만으로는 실제로 무엇을 사고파는지, 왜 인버스 1배가 아닌지, 국내에 비슷한 상품이 있는지 알 수 없습니다. 이 글은 운용사 설명서와 SEC 제출서류를 기준으로 SVOL의 작동 구조를 분해하고, 국내 상장 대안이 왜 ETF가 아니라 ETN 형태로만 존재하는지까지 확인 순서대로 정리합니다.변동 지표(총보수·순자산·분배율·수익률·구성비중)는 수시로 바뀌므로 본문에서 전부 제외했습니다. 구조와 규정, 문서 이력만 다룹니다.SVOL은 무엇을 사고파는 펀드인가?SVOL은 지수를 그대로 복제하는 패시브 ETF가 아니라 액티브 운용 ETF입니다. 운용사는 Simplify A..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-03T00:44:41+09:00\",\"dateModified\":\"2026-09-03T00:45:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국에 상장된 SVOL(Simplify Volatility Premium ETF)은 \"변동성을 판다\"는 말로 요약되는 상품입니다. 그런데 이 문장만으로는 실제로 무엇을 사고파는지, 왜 인버스 1배가 아닌지, 국내에 비슷한 상품이 있는지 알 수 없습니다. 이 글은 운용사 설명서와 SEC 제출서류를 기준으로 SVOL의 작동 구조를 분해하고, 국내 상장 대안이 왜 ETF가 아니라 ETN 형태로만 존재하는지까지 확인 순서대로 정리합니다.변동 지표(총보수·순자산·분배율·수익률·구성비중)는 수시로 바뀌므로 본문에서 전부 제외했습니다. 구조와 규정, 문서 이력만 다룹니다.SVOL은 무엇을 사고파는 펀드인가?SVOL은 지수를 그대로 복제하는 패시브 ETF가 아니라 액티브 운용 ETF입니다. 운용사는 Simplify A..",
+  "og_title": "SVOL ETF, VIX 선물을 팔아 분배금을 만드는 구조와 국내 인버스 VIX ETN의 차이",
+  "post_id": "547",
+  "published_time": "2026-09-03T00:44:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SVOL ETF, VIX 선물을 팔아 분배금을 만드는 구조와 국내 인버스 VIX ETN의 차이",
+  "url": "https://mystock-note.tistory.com/547"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": "ETF",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-09-03",
+  "datePublished": "2026-09-03",
+  "description": "SVOL이 VIX 선물 매도로 인컴을 만드는 구조, 하루 단위 목표 문구가 들어간 시점, 케이맨 자회사와 현금 설정·환매, 그리고 국내에는 ETF가 아닌 ETN만 있는 이유를 1차 출처로 정리했습니다.",
+  "headline": "SVOL ETF, VIX 선물을 팔아 분배금을 만드는 구조와 국내 인버스 VIX ETN의 차이",
+  "keywords": "SVOL, VIX, 변동성 매도, 인버스 VIX ETN, 콘탱고, 롤 수익, 해외 ETF 세금, 케이맨 자회사",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/547",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/547"
+}

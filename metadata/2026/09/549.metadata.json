@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-02",
+  "body_html_length": 9230,
+  "canonical_url": "https://mystock-note.tistory.com/549",
+  "content_hash": "b1c6c7484f0765437e88337ad9db9ea6afe2ad725d5af3e51fd116f889dcc7f4",
+  "json_ld_count": 1,
+  "meta_description": "연금저축과 IRP는 노후 자금이지만, 다 쓰기 전에 가입자가 사망하는 경우가 생깁니다. 이때 남은 계좌를 어떻게 처리하느냐에 따라 세율이 3.3%가 되기도 하고 16.5%가 되기도 합니다. 차이를 만드는 것은 금액이 아니라 기한과 신청 여부입니다.이 글은 국세청 안내 자료와 소득세법 시행령을 기준으로, 상속인이 고를 수 있는 선택지와 각각의 과세 결과를 정리합니다. 특히 널리 잘못 알려진 기한 기산점과, 소득세와 상속세가 별개로 붙는 2층 구조를 분리해서 다룹니다.연금계좌는 상속되나?됩니다. 연금저축과 IRP의 잔액은 상속재산에 포함되며, 상속인이 물려받습니다. 여기서 흔히 생기는 오해가 하나 있습니다. \"연금은 본인만 받는 것이니 사망하면 사라진다\"는 생각입니다. 그렇지 않습니다.다만 어떻게 물려받느냐..",
+  "modified_time": "2026-09-03T02:46:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/549\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/549\",\"headline\":\"연금계좌를 남기고 떠날 때: 배우자 승계와 해지 중 무엇을 고를까, 소득세·상속세 2층 구조\",\"description\":\"연금저축과 IRP는 노후 자금이지만, 다 쓰기 전에 가입자가 사망하는 경우가 생깁니다. 이때 남은 계좌를 어떻게 처리하느냐에 따라 세율이 3.3%가 되기도 하고 16.5%가 되기도 합니다. 차이를 만드는 것은 금액이 아니라 기한과 신청 여부입니다.이 글은 국세청 안내 자료와 소득세법 시행령을 기준으로, 상속인이 고를 수 있는 선택지와 각각의 과세 결과를 정리합니다. 특히 널리 잘못 알려진 기한 기산점과, 소득세와 상속세가 별개로 붙는 2층 구조를 분리해서 다룹니다.연금계좌는 상속되나?됩니다. 연금저축과 IRP의 잔액은 상속재산에 포함되며, 상속인이 물려받습니다. 여기서 흔히 생기는 오해가 하나 있습니다. \"연금은 본인만 받는 것이니 사망하면 사라진다\"는 생각입니다. 그렇지 않습니다.다만 어떻게 물려받느냐..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-03T02:45:35+09:00\",\"dateModified\":\"2026-09-03T02:46:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "연금저축과 IRP는 노후 자금이지만, 다 쓰기 전에 가입자가 사망하는 경우가 생깁니다. 이때 남은 계좌를 어떻게 처리하느냐에 따라 세율이 3.3%가 되기도 하고 16.5%가 되기도 합니다. 차이를 만드는 것은 금액이 아니라 기한과 신청 여부입니다.이 글은 국세청 안내 자료와 소득세법 시행령을 기준으로, 상속인이 고를 수 있는 선택지와 각각의 과세 결과를 정리합니다. 특히 널리 잘못 알려진 기한 기산점과, 소득세와 상속세가 별개로 붙는 2층 구조를 분리해서 다룹니다.연금계좌는 상속되나?됩니다. 연금저축과 IRP의 잔액은 상속재산에 포함되며, 상속인이 물려받습니다. 여기서 흔히 생기는 오해가 하나 있습니다. \"연금은 본인만 받는 것이니 사망하면 사라진다\"는 생각입니다. 그렇지 않습니다.다만 어떻게 물려받느냐..",
+  "og_title": "연금계좌를 남기고 떠날 때: 배우자 승계와 해지 중 무엇을 고를까, 소득세·상속세 2층 구조",
+  "post_id": "549",
+  "published_time": "2026-09-03T02:45:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "연금계좌를 남기고 떠날 때: 배우자 승계와 해지 중 무엇을 고를까, 소득세·상속세 2층 구조",
+  "url": "https://mystock-note.tistory.com/549"
+}

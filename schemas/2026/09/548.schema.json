@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-03T01:46:00+09:00",
+    "datePublished": "2026-09-03T01:45:03+09:00",
+    "description": "국내에 상장된 조선·해운 ETF는 한두 개가 아닙니다. 담는 종목은 상당 부분 겹치는데 이름은 조선TOP3플러스, 조선TOP10, 조선해운, 친환경조선해운액티브로 제각각입니다. 겹치는 것을 여러 개 만들 이유가 없다면, 갈라지는 지점이 어딘가 있다는 뜻입니다.결론부터 말하면 갈라지는 지점은 지수를 누가, 어떤 규칙으로 만드는가입니다. 이 글은 상품별 기초지수와 산출 주체를 1차 출처로 확인하고, 종목 선정 방식·업종 범위·패시브 여부·계좌별 세제까지 순서대로 나눕니다. 총보수·순자산·수익률·구성종목 비중처럼 수시로 바뀌는 수치는 전부 제외했습니다.조선 ETF는 왜 한 종류가 아닌가?국내 조선업의 상장 종목 풀은 넓지 않습니다. 대형 조선사 네 곳에 엔진·기자재·해운을 더해도 수십 개 수준입니다. 그런데도..",
+    "headline": "조선 ETF 비교: TOP3집중·TOP10·조선해운·친환경액티브, 지수 방식 차이와 어디에 담아야 하나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/548",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/548"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-03",
+    "datePublished": "2026-09-03",
+    "description": "국내 조선·해운 ETF는 거래소·증권사·금융정보사가 각각 만든 지수를 씁니다. TOP3 집중형과 TOP10형, 조선과 조선해운, 패시브와 액티브의 경계를 1차 출처로 나누고 계좌별 세제까지 정리했습니다.",
+    "headline": "조선 ETF 비교: TOP3집중·TOP10·조선해운·친환경액티브, 지수 방식 차이와 어디에 담아야 하나",
+    "keywords": "조선 ETF, 조선TOP10, 조선TOP3플러스, 조선해운, 키워드 스코어링, 기초지수, 비교지수, 액티브 ETF, 연금계좌 과세",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/548",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/548"
+  }
+]
