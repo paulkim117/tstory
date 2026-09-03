@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-04T01:09:00+09:00",
+    "datePublished": "2026-09-04T01:08:09+09:00",
+    "description": "미국 산업 ETF를 찾다 보면 X로 시작하는 티커를 자주 만납니다. 바이오의 XBI, 석유·가스 탐사의 XOP, 금속·광업의 XME, 지역은행의 KRE, 주택건설의 XHB 같은 것들입니다. 이들은 모두 같은 운용사의 같은 시리즈이고, 같은 지수 제공사가 같은 방법론 문서로 산출합니다.그런데 실제 결과는 크게 다릅니다. 어떤 상품은 수십 개 종목에 고르게 퍼져 있고, 어떤 상품은 이름과 달리 관련 없어 보이는 기업을 담고 있습니다. 이 글은 같은 규칙이 산업마다 다른 결과를 만드는 지점을 방법론 원문으로 짚습니다. 총보수·순자산·수익률·구성비중 같은 변동 수치는 전부 제외했습니다.이 시리즈는 무엇을 모집단으로 삼나?출발점은 S&P Total Market Index(S&P TMI)입니다. 미국 주식시장 전체..",
+    "headline": "SPDR 산업 ETF 시리즈(XBI·XOP·XME·KRE): 같은 규칙인데 왜 결과가 딴판인가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/551",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/551"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-04",
+    "datePublished": "2026-09-04",
+    "description": "XBI·XOP·XME·KRE는 모두 S&P Select Industry 계열이지만 결과는 크게 다릅니다. 수정 동일가중과 35종목 하한, 보조 하위산업 충당 규칙이 산업 구조에 따라 어떻게 다르게 작동하는지 방법론 원문으로 정리했습니다.",
+    "headline": "SPDR 산업 ETF 시리즈(XBI·XOP·XME·KRE): 같은 규칙인데 왜 결과가 딴판인가",
+    "keywords": "SPDR, Select Industry, XBI, XOP, XME, KRE, 수정 동일가중, 동일가중, GICS, 지수 방법론",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/551",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/551"
+  }
+]

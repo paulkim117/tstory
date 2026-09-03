@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-04T02:09:00+09:00",
+    "datePublished": "2026-09-04T02:08:32+09:00",
+    "description": "미국 장기국채를 사는 사람의 목적은 대체로 하나입니다. 금리가 내려가면 채권 가격이 오르니, 그 상승을 노리는 것입니다. 그런데 여기에 커버드콜을 얹은 상품이 있습니다. TLTW입니다.문제는 커버드콜이 상승을 포기하는 대가로 프리미엄을 받는 전략이라는 점입니다. 금리 하락에 따른 채권 가격 상승을 노리고 장기채를 샀는데, 그 상승을 미리 팔아버린 상품을 고른 셈이 될 수 있습니다. 이 글은 운용사 자료와 지수 문서를 기준으로 TLTW의 구조를 분해하고, 설계가 상당히 다른 국내 대안과 대조합니다. 총보수·분배율·순자산·수익률 같은 변동 수치는 전부 제외했습니다.TLTW는 정확히 무엇을 담고 있나?TLTW는 채권을 직접 사서 담는 펀드가 아닙니다. 다른 ETF를 통째로 보유하는 재간접 구조입니다. 구체적으..",
+    "headline": "TLTW: 미국 장기국채로 월배당을 만드는 구조, 그런데 금리가 내리면 왜 손해인가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/552",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/552"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-04",
+    "datePublished": "2026-09-04",
+    "description": "TLTW는 TLT를 보유하면서 월간 콜옵션을 전량 매도하는 재간접 ETF입니다. 금리 하락 국면에서 기초펀드 대비 부진할 수 있다는 위험 문구, 보수가 2층으로 발생하는 구조, 매도 비중이 30%인 국내 대안과의 차이를 1차 출처로 정리했습니다.",
+    "headline": "TLTW: 미국 장기국채로 월배당을 만드는 구조, 그런데 금리가 내리면 왜 손해인가",
+    "keywords": "TLTW, TLT, 미국 장기국채, 커버드콜, 재간접, AFFE, 위클리 옵션, KEDI, 환헤지, 월배당",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/552",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/552"
+  }
+]
