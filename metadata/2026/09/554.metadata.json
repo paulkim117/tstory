@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-04",
+  "body_html_length": 9001,
+  "canonical_url": "https://mystock-note.tistory.com/554",
+  "content_hash": "a9a791235745e835710a99cd63093a6648a0c2079e9e4aba427795fe0abd2dc1",
+  "json_ld_count": 1,
+  "meta_description": "\"달러가 오를 것 같으니 달러 ETF를 사겠다\"는 문장에는 함정이 하나 있습니다. 어느 통화에 대해 오른다는 것인지가 빠져 있기 때문입니다.미국에 상장된 대표적 달러 상품 UUP는 달러가 유로·엔 같은 선진국 통화 대비 강해질 때 오릅니다. 원화는 그 안에 들어 있지 않습니다. 반면 국내에 상장된 미국달러선물 ETF는 원/달러 환율을 따라갑니다. 두 상품은 이름이 비슷하지만 사는 것이 다릅니다.이 글은 운용사 공식 자료와 거래소 지수 개요를 기준으로 두 계열의 구조를 분해합니다. 총보수·순자산·수익률 같은 변동 수치는 제외하고, 지수 구성과 법적 형태·과세 구조만 다룹니다.UUP는 무엇을 담고 있나?UUP 기본 구조 (1차 출처: Invesco 공식 상품 자료)항목내용정식 명칭Invesco DB US D..",
+  "modified_time": "2026-09-05T01:10:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/554\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/554\",\"headline\":\"UUP는 원/달러와 무관하다: 달러인덱스 ETF와 국내 미국달러선물 ETF의 결정적 차이\",\"description\":\"\"달러가 오를 것 같으니 달러 ETF를 사겠다\"는 문장에는 함정이 하나 있습니다. 어느 통화에 대해 오른다는 것인지가 빠져 있기 때문입니다.미국에 상장된 대표적 달러 상품 UUP는 달러가 유로·엔 같은 선진국 통화 대비 강해질 때 오릅니다. 원화는 그 안에 들어 있지 않습니다. 반면 국내에 상장된 미국달러선물 ETF는 원/달러 환율을 따라갑니다. 두 상품은 이름이 비슷하지만 사는 것이 다릅니다.이 글은 운용사 공식 자료와 거래소 지수 개요를 기준으로 두 계열의 구조를 분해합니다. 총보수·순자산·수익률 같은 변동 수치는 제외하고, 지수 구성과 법적 형태·과세 구조만 다룹니다.UUP는 무엇을 담고 있나?UUP 기본 구조 (1차 출처: Invesco 공식 상품 자료)항목내용정식 명칭Invesco DB US D..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-05T01:09:18+09:00\",\"dateModified\":\"2026-09-05T01:10:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"달러가 오를 것 같으니 달러 ETF를 사겠다\"는 문장에는 함정이 하나 있습니다. 어느 통화에 대해 오른다는 것인지가 빠져 있기 때문입니다.미국에 상장된 대표적 달러 상품 UUP는 달러가 유로·엔 같은 선진국 통화 대비 강해질 때 오릅니다. 원화는 그 안에 들어 있지 않습니다. 반면 국내에 상장된 미국달러선물 ETF는 원/달러 환율을 따라갑니다. 두 상품은 이름이 비슷하지만 사는 것이 다릅니다.이 글은 운용사 공식 자료와 거래소 지수 개요를 기준으로 두 계열의 구조를 분해합니다. 총보수·순자산·수익률 같은 변동 수치는 제외하고, 지수 구성과 법적 형태·과세 구조만 다룹니다.UUP는 무엇을 담고 있나?UUP 기본 구조 (1차 출처: Invesco 공식 상품 자료)항목내용정식 명칭Invesco DB US D..",
+  "og_title": "UUP는 원/달러와 무관하다: 달러인덱스 ETF와 국내 미국달러선물 ETF의 결정적 차이",
+  "post_id": "554",
+  "published_time": "2026-09-05T01:09:18+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "UUP는 원/달러와 무관하다: 달러인덱스 ETF와 국내 미국달러선물 ETF의 결정적 차이",
+  "url": "https://mystock-note.tistory.com/554"
+}

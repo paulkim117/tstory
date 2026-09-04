@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-05T02:10:00+09:00",
+    "datePublished": "2026-09-05T02:09:42+09:00",
+    "description": "유가가 40% 올랐다는 뉴스를 보고 원유 ETF를 확인했더니 그만큼 오르지 않았다면, 상품이 잘못된 것이 아니라 원래 그렇게 설계된 것입니다. 원유 ETF는 원유를 사서 창고에 넣어두지 않습니다. 선물을 사고, 만기가 오면 갈아탑니다. 그 갈아타는 과정에서 성과가 계속 새어 나갑니다.미국에 상장된 USO는 이 문제가 극단적으로 드러난 사례입니다. 2020년에 전략과 주식 수가 모두 바뀌었고, 신규 설정이 일시 중단되기까지 했습니다. 이 글은 SEC 제출서류와 운용사 공시를 기준으로 그 경위를 정리하고, 국내 두 상품이 같은 문제를 어떻게 다르게 다루는지 대조합니다. 총보수·순자산·수익률 같은 변동 수치는 제외했습니다.USO는 어떤 형태의 상품인가?USO 기본 구조 (1차 출처: SEC 제출서류)항목내용정..",
+    "headline": "USO는 유가를 따라가지 못한다: 2020년에 전략·주식수가 바뀐 이유와 국내 원유 ETF 2종의 롤오버 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/555",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/555"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-05",
+    "datePublished": "2026-09-05",
+    "description": "USO는 2020년 근월물 단독 추종에서 복수 만기물로 전략을 바꾸고 1:8 역분할을 실시했습니다. CFTC 포지션 한도가 원인이었습니다. 콘탱고 구조, 파트너십·K-1, 국내 두 상품의 롤오버 방식 차이를 1차 출처로 정리했습니다.",
+    "headline": "USO는 유가를 따라가지 못한다: 2020년에 전략·주식수가 바뀐 이유와 국내 원유 ETF 2종의 롤오버 차이",
+    "keywords": "USO, WTI 원유선물, 콘탱고, 롤오버, 포지션 한도, 역분할, K-1, GSCI Enhanced, 원유 ETF",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/555",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/555"
+  }
+]

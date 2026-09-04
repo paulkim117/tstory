@@ -1,0 +1,360 @@
+<!--
+source: https://mystock-note.tistory.com/555
+backup_date: 2026-09-04
+post_id: 555
+-->
+<p data-ke-size="size16">유가가 40% 올랐다는 뉴스를 보고 원유 ETF를 확인했더니 그만큼 오르지 않았다면, 상품이 잘못된 것이 아니라 <b>원래 그렇게 설계된 것</b>입니다. 원유 ETF는 원유를 사서 창고에 넣어두지 않습니다. 선물을 사고, 만기가 오면 갈아탑니다. 그 갈아타는 과정에서 성과가 계속 새어 나갑니다.</p>
+<p data-ke-size="size16">미국에 상장된 USO는 이 문제가 극단적으로 드러난 사례입니다. 2020년에 <b>전략과 주식 수가 모두 바뀌었고</b>, 신규 설정이 일시 중단되기까지 했습니다. 이 글은 SEC 제출서류와 운용사 공시를 기준으로 그 경위를 정리하고, 국내 두 상품이 같은 문제를 어떻게 다르게 다루는지 대조합니다. 총보수&middot;순자산&middot;수익률 같은 변동 수치는 제외했습니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">USO는 어떤 형태의 상품인가?</h2>
+<table data-ke-align="alignLeft"><caption>USO 기본 구조 (1차 출처: SEC 제출서류)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>United States Oil Fund, LP</td>
+</tr>
+<tr>
+<td>법적 형태</td>
+<td>델라웨어 <b>유한파트너십</b>, 상품풀(commodity pool)</td>
+</tr>
+<tr>
+<td>운용 주체</td>
+<td>United States Commodity Funds LLC (무한책임사원)</td>
+</tr>
+<tr>
+<td>등록</td>
+<td>CFTC 등록 상품풀운용자(CPO), NFA 회원</td>
+</tr>
+<tr>
+<td>최초 등록</td>
+<td>2006년 4월 Form S-1 (1,700만주)</td>
+</tr>
+<tr>
+<td>상장</td>
+<td>NYSE Arca</td>
+</tr>
+<tr>
+<td>세무 서류</td>
+<td>파트너십 구조 &mdash; <b>K-1 발행</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">일반적인 주식형 ETF와 법적 성격이 다릅니다. 투자회사가 아니라 <b>파트너십</b>이며, 투자자는 지분권자에 가깝습니다. 이 차이가 뒤에서 다룰 세무&middot;거래 제한 문제로 이어집니다.</p>
+<h2 data-ke-size="size26">왜 원유를 직접 담지 않나?</h2>
+<p data-ke-size="size16">원유는 부피가 크고 보관에 비용이 듭니다. 금처럼 금고에 넣어둘 수 있는 자산이 아닙니다. 그래서 원유 상품은 예외 없이 <b>선물</b>을 씁니다.</p>
+<p data-ke-size="size16">선물에는 만기가 있으므로, 만기가 오기 전에 다음 달 계약으로 갈아타야 합니다. 이 과정이 <b>롤오버</b>이고, 여기서 비용이 발생합니다.</p>
+<h2 data-ke-size="size26">콘탱고는 어떻게 수익을 갉아먹나?</h2>
+<p data-ke-size="size16">먼 만기의 선물 가격이 가까운 만기보다 높은 상태를 <b>콘탱고</b>라고 합니다. 운용사 자료는 이 상태에서 유가 자체의 움직임을 배제하면 <b>기준 선물의 가치가 만기에 가까워질수록 하락하는 경향</b>이 있다고 설명합니다 [사실]. 반대 상태인 백워데이션에서는 상승하는 경향이 있습니다.</p>
+<p data-ke-size="size16">숫자로 보면 이렇습니다 <b>(가상 예시)</b>. 근월물이 배럴당 80, 차월물이 84라고 합시다. 만기가 다가와 80짜리 계약을 팔고 84짜리를 사면, 같은 금액으로 살 수 있는 계약 수가 줄어듭니다. 100원어치를 팔아 95원어치만큼만 다시 사는 셈입니다. 유가가 전혀 움직이지 않아도 이 손실이 매달 누적됩니다.</p>
+<table data-ke-align="alignLeft"><caption>선물 곡선 형태별 영향</caption>
+<thead>
+<tr>
+<th>상태</th>
+<th>가격 관계</th>
+<th>롤오버 시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>콘탱고</td>
+<td>먼 만기 &gt; 가까운 만기</td>
+<td><b>비용 발생</b></td>
+</tr>
+<tr>
+<td>백워데이션</td>
+<td>먼 만기 &lt; 가까운 만기</td>
+<td>이익 발생</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">따라서 원유 ETF는 <b>장기 보유에 구조적으로 불리합니다.</b> 방향이 맞아도 콘탱고가 오래 지속되면 손실이 쌓입니다. 이는 운용 실패가 아니라 상품 구조에서 나오는 결과입니다.</p>
+<h2 data-ke-size="size26">2020년에 USO에 무슨 일이 있었나?</h2>
+<p data-ke-size="size16">이 상품을 이해하려면 2020년 사례를 알아야 합니다. 당시 원유 수요가 급감하고 저장 공간이 부족해지면서 선물 시장이 극단적 콘탱고에 빠졌고, 만기가 임박한 계약이 마이너스 가격으로 정산되는 상황까지 벌어졌습니다.</p>
+<p data-ke-size="size16">동시에 USO에는 반등을 기대한 자금이 대거 유입됐습니다. 문제는 <b>펀드가 시장에 비해 너무 커졌다</b>는 것입니다.</p>
+<table data-ke-align="alignLeft"><caption>2020년 USO 관련 조치 (1차 출처: SEC 제출서류, CFTC 문서)</caption>
+<thead>
+<tr>
+<th>시점</th>
+<th>조치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2020-04</td>
+<td>포트폴리오 구성 변경 &mdash; 근월물 단독에서 <b>복수 만기물 분산</b>으로</td>
+</tr>
+<tr>
+<td>2020-04</td>
+<td><b>설정 바스켓(Creation Basket) 발행 일시 중단</b></td>
+</tr>
+<tr>
+<td>2020-04-22</td>
+<td>1:8 역분할 발표</td>
+</tr>
+<tr>
+<td>2020-04-28</td>
+<td>종가 후 <b>1:8 역분할 시행</b>, 익일 거래 개시</td>
+</tr>
+<tr>
+<td>2021-11-08</td>
+<td>CFTC 제재 명령 &mdash; 공시 관련</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">포트폴리오 변경의 직접적 이유는 <b>포지션 한도</b>였습니다. 개별 계약의 인도 가능 물량 대비 일정 비율을 넘지 못하도록 하는 규제가 있고, USO는 이 한도에 반복적으로 근접했습니다. 자금이 계속 들어오면 선물을 더 사야 하는데, 규제상 더 살 수 없는 상태가 된 것입니다.</p>
+<h2 data-ke-size="size26">설정 중단은 어떤 결과를 낳나?</h2>
+<p data-ke-size="size16">ETF는 시장가격이 순자산가치에서 벗어나면 지정참가회사가 설정&middot;환매를 통해 차익을 없애는 구조로 작동합니다. <b>설정이 중단되면 이 조정 장치가 멈춥니다.</b></p>
+<p data-ke-size="size16">그 결과 사실상 발행 주식 수가 고정된 폐쇄형 펀드처럼 거래되고, 시장가격이 순자산가치보다 크게 높은 <b>프리미엄</b> 상태가 이어질 수 있습니다. 이 상태에서 매수하면 실제 자산 가치보다 비싸게 사는 것이 됩니다.</p>
+<p data-ke-size="size16">확인해야 할 점은 명확합니다. 원자재&middot;통화처럼 규제나 시장 상황이 설정을 제약할 수 있는 상품에서는 <b>매수 전 괴리율을 반드시 확인</b>해야 합니다. 주식형 ETF에서는 잘 문제되지 않는 항목입니다.</p>
+<h2 data-ke-size="size26">역분할은 무엇을 바꾸고 무엇을 바꾸지 않나?</h2>
+<p data-ke-size="size16">USO는 2020년 4월 28일 종가 이후 <b>1:8 역분할</b>을 시행했습니다. 역분할 직전 발행주식 수는 약 14억 8,290만 주, 주당 순자산가치는 2.04달러였고, 직후에는 약 1억 8,536만 주, 주당 16.35달러가 됐습니다 [사실]. 종목코드(CUSIP)도 변경됐으나 티커는 유지됐습니다.</p>
+<table data-ke-align="alignLeft"><caption>역분할이 바꾸는 것과 바꾸지 않는 것</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>변화</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주식 수</td>
+<td>8분의 1로 감소</td>
+</tr>
+<tr>
+<td>주당 가격</td>
+<td>8배로 상승</td>
+</tr>
+<tr>
+<td>보유 지분 가치</td>
+<td><b>변화 없음</b></td>
+</tr>
+<tr>
+<td>펀드의 기초 구조</td>
+<td><b>변화 없음</b></td>
+</tr>
+<tr>
+<td>과거 차트</td>
+<td>소급 조정 필요</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">역분할은 회계적 조정이며 펀드의 성질을 바꾸지 않습니다. 다만 <b>장기 차트를 볼 때 주의가 필요합니다.</b> 조정되지 않은 차트를 보면 특정 시점에 가격이 급등한 것처럼 보이지만 실제 상승이 아닙니다. 재무제표도 소급 반영해 조정됩니다.</p>
+
+<h2 data-ke-size="size26">왜 근월물만 담다가 여러 만기로 바꿨나?</h2>
+<p data-ke-size="size16">원래 설계는 <b>가장 가까운 만기의 선물</b>을 담는 것이었습니다. 유가 변동을 가장 빠르게 반영하기 때문입니다. 그러나 이 방식은 두 가지 취약점을 안고 있습니다.</p>
+<table data-ke-align="alignLeft"><caption>근월물 집중과 만기 분산의 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>근월물 집중</th>
+<th>복수 만기 분산</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>유가 반영 속도</td>
+<td><b>빠름</b></td>
+<td>느림</td>
+</tr>
+<tr>
+<td>콘탱고 노출</td>
+<td>가장 큼</td>
+<td>완화</td>
+</tr>
+<tr>
+<td>포지션 한도 저촉</td>
+<td><b>발생하기 쉬움</b></td>
+<td>분산</td>
+</tr>
+<tr>
+<td>기준 지표 추적</td>
+<td>정확</td>
+<td><b>괴리 발생</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">전략을 바꾼 뒤 운용사는 <b>기준 선물 계약과의 성과 괴리가 계속될 것이며 목표를 달성하지 못할 수 있다</b>고 문서에 명시했습니다 [사실]. 상품이 스스로 "설계 목표를 못 지킬 수 있다"고 적어둔 것이므로, 이는 읽고 넘어갈 문장이 아닙니다.</p>
+<h2 data-ke-size="size26">규제가 상품 전략을 바꾼다는 것은 무슨 의미인가?</h2>
+<p data-ke-size="size16">일반적으로 ETF의 전략은 운용사가 정합니다. 그런데 원자재 선물 상품에서는 <b>펀드 규모가 시장 대비 너무 커지면 규제가 전략을 강제로 바꾸게 만드는</b> 상황이 발생합니다.</p>
+<p data-ke-size="size16">이는 상품 선택에 실질적 영향을 줍니다. 인기가 많아 자금이 몰릴수록 운용이 어려워지는 구조이기 때문입니다. 주식형 ETF에서는 규모가 커지면 유동성과 비용 면에서 유리해지는 것이 보통인데, <b>원자재 선물 상품은 반대 방향으로 작동할 수 있습니다.</b></p>
+<p data-ke-size="size16">또한 2021년 11월 CFTC는 공시와 관련한 제재 명령을 냈습니다. 청산회사가 부과한 포지션 제한의 실질적 내용이 공시에 충분히 담기지 않았다는 취지입니다 [사실]. 위기 국면에서 <b>공시가 실제 제약을 다 담지 못할 수 있다</b>는 사례로 기록할 만합니다.</p>
+<h2 data-ke-size="size26">국내 원유 ETF는 어떻게 다른가?</h2>
+<p data-ke-size="size16">국내에는 WTI 원유 선물을 기초로 하는 ETF가 상장돼 있고, <b>롤오버 방식이 서로 다릅니다.</b></p>
+<table data-ke-align="alignLeft"><caption>국내 상장 원유 ETF 대조 (운용사&middot;거래소 공시 기준)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>KODEX WTI원유선물(H)</th>
+<th>TIGER 원유선물Enhanced(H)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초지수</td>
+<td>S&amp;P GSCI Crude Oil Index ER</td>
+<td>S&amp;P GSCI <b>Enhanced</b> Crude Oil Index ER</td>
+</tr>
+<tr>
+<td>추종 대상</td>
+<td>최근월물 중심</td>
+<td>최근월물&middot;원월물 <b>혼합</b></td>
+</tr>
+<tr>
+<td>유가 반영</td>
+<td>빠름</td>
+<td>상대적으로 느림</td>
+</tr>
+<tr>
+<td>콘탱고 대응</td>
+<td>노출 큼</td>
+<td>완화 설계</td>
+</tr>
+<tr>
+<td>환헤지</td>
+<td>있음(H)</td>
+<td>있음(H)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이름에 붙은 <b>Enhanced</b>가 핵심입니다. 이는 "더 좋다"는 뜻이 아니라 <b>롤오버 규칙이 다르다</b>는 표시입니다. 근월물과 차근월물의 가격 차이를 기준으로 어느 계약으로 갈아탈지 정하는 방식이며, 콘탱고가 심할 때 손실을 줄이려는 설계입니다 <code>[확인 필요]</code>.</p>
+<p data-ke-size="size16">거꾸로 말하면 <b>유가가 급등할 때는 근월물 중심 상품이 더 빠르게 반영합니다.</b> 어느 쪽이 낫다고 단정할 수 없고, 보유 기간과 곡선 형태에 따라 유불리가 갈립니다.</p>
+<h2 data-ke-size="size26">둘 다 환헤지형인데 무슨 의미인가?</h2>
+<p data-ke-size="size16">확인되는 국내 원유 선물 ETF는 상품명에 (H)가 붙은 환헤지형입니다. 원유는 달러로 거래되므로 환헤지가 없으면 <b>유가와 환율 두 가지가 동시에 성과에 반영</b>됩니다.</p>
+<table data-ke-align="alignLeft"><caption>환헤지 유무에 따른 차이</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>환헤지형(H)</th>
+<th>환노출형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>유가 상승 + 환율 상승</td>
+<td>유가만 반영</td>
+<td>둘 다 반영</td>
+</tr>
+<tr>
+<td>유가 상승 + 환율 하락</td>
+<td>유가만 반영</td>
+<td>상쇄</td>
+</tr>
+<tr>
+<td>비용</td>
+<td>헤지 비용 발생</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>순수 노출</td>
+<td><b>유가에만</b></td>
+<td>혼합</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">유가 전망에 근거해 매수한다면 환헤지형이 의도에 부합합니다. 다만 위기 국면에는 유가와 달러가 함께 움직이는 경우가 있어, 환헤지가 자연스러운 완충을 제거하는 결과가 될 수도 있습니다.</p>
+<h2 data-ke-size="size26">K-1과 PTP 문제는?</h2>
+<p data-ke-size="size16">USO는 파트너십 구조이므로 <b>Schedule K-1</b>이 발행됩니다. 미국 세법상 공개거래파트너십 관련 규정이 적용되며, 이 때문에 국내 증권사가 해당 종목의 거래를 제한하거나 별도 안내를 두는 경우가 있습니다 <code>[확인 필요]</code>.</p>
+<p data-ke-size="size16">이는 상품의 좋고 나쁨 이전에 <b>매수 자체가 가능한가</b>의 문제입니다. 원자재 선물 상품 중 파트너십 형태가 여럿 있으므로, 미국 상장 원자재 ETF를 고려한다면 거래 증권사의 취급 방침부터 확인해야 합니다.</p>
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 대조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>미국 상장 직접투자</th>
+<th>국내 상장 파생형 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>과세 방식</td>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<td>종합과세</td>
+<td>해당 없음</td>
+<td>연 2,000만 원 초과 시 가능</td>
+</tr>
+<tr>
+<td>추가 고려</td>
+<td><b>PTP 관련 규정</b></td>
+<td>&mdash;</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">국내 상장 원유 ETF는 국내 주식형이 아니므로 <b>매매차익이 비과세되지 않습니다.</b> 다만 파생형 상품은 계좌 종류에 따라 편입 제한이 적용될 수 있으므로 연금계좌 활용 가능 여부는 거래 증권사에 확인하시기 바랍니다.</p>
+<h2 data-ke-size="size26">어떤 순서로 판단하면 되나?</h2>
+<table data-ke-align="alignLeft"><caption>확인 순서</caption>
+<thead>
+<tr>
+<th>순서</th>
+<th>질문</th>
+<th>갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>보유 기간이 짧은가, 긴가</td>
+<td>긴 보유는 구조적으로 불리</td>
+</tr>
+<tr>
+<td>2</td>
+<td>현재 선물 곡선이 콘탱고인가</td>
+<td>롤오버 비용 방향</td>
+</tr>
+<tr>
+<td>3</td>
+<td>빠른 반영인가, 비용 완화인가</td>
+<td>근월물형 vs Enhanced형</td>
+</tr>
+<tr>
+<td>4</td>
+<td>환 노출을 원하는가</td>
+<td>(H) 여부</td>
+</tr>
+<tr>
+<td>5</td>
+<td>PTP 취급 제한이 있는가</td>
+<td>매수 가능 여부</td>
+</tr>
+<tr>
+<td>6</td>
+<td>괴리율이 정상 범위인가</td>
+<td>프리미엄 매수 위험</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1번이 가장 중요합니다. 원유 ETF는 <b>단기 방향성 도구</b>이지 장기 보유 자산이 아닙니다. "묻어두면 언젠가 오르겠지"라는 접근은 이 상품 구조와 정면으로 어긋납니다.</p>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">콘탱고와 롤오버 비용 구조</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">근월물형 vs Enhanced형 롤오버 방식</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">장기 보유의 구조적 불리함</p>
+<progress value="86" max="100"></progress>
+<p data-ke-size="size16">괴리율&middot;설정 제한 여부</p>
+<progress value="68" max="100"></progress>
+<p data-ke-size="size16">PTP&middot;K-1과 증권사 취급</p>
+<progress value="60" max="100"></progress>
+<p data-ke-size="size16">역분할 이력과 차트 해석</p>
+<progress value="45" max="100"></progress>

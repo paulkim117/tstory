@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": "ETF",
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-09-05",
+  "datePublished": "2026-09-05",
+  "description": "UUP가 추종하는 달러인덱스에는 원화가 없습니다. 국내 미국달러선물 ETF는 KRX 미국달러선물지수를 따라 원/달러에 투자합니다. 통화 바스켓 구성, PTP·K-1 구조, 금리차로 벌어지는 지수 괴리를 1차 출처로 정리했습니다.",
+  "headline": "UUP는 원/달러와 무관하다: 달러인덱스 ETF와 국내 미국달러선물 ETF의 결정적 차이",
+  "keywords": "UUP, 달러인덱스, USDX, 미국달러선물지수, 원달러, PTP, K-1, KOSEF 미국달러선물, 환헤지",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/554",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/554"
+}
