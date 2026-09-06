@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-07T00:43:03+09:00",
+    "datePublished": "2026-09-07T00:42:09+09:00",
+    "description": "ETF 설명서를 넘기다 보면 본문 어딘가에서 갑자기 낯선 단어가 튀어나온다. 부운용사의 라이선스, 케이맨 제도에 설립된 완전자회사, 취득 펀드 비용, 포지션 한도 같은 것들이다. 대부분은 그냥 넘긴다. 지수와 종목만 보면 될 것 같기 때문이다.그런데 이 단어들은 장식이 아니다. 전부 같은 사실을 가리킨다 — 이 펀드는 원래 하려던 일을 정공법으로 할 수 없었다는 것이다. 그래서 우회로를 만들었다. 어떤 우회로를 골랐느냐가 그 상품의 위험 성격을 바꾼다. 이 글은 그 우회로를 네 가지로 나누고, 각각이 설명서 어디에 어떤 문장으로 나타나는지, 투자자에게 무엇을 남기는지를 정리한다.ETF 설명서에서 '예외'라는 말이 나오면 무슨 뜻인가?ETF는 규칙 위에 세워진 상품이다. 미국에 상장된 대부분의 ETF는 1..",
+    "headline": "ETF가 규제를 통과하는 4가지 방법: 자격을 빌리거나, 법인을 세우거나, 공시로 떠안거나, 설계를 잃거나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/556",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/556"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 구조",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-07",
+    "datePublished": "2026-09-07",
+    "description": "일부 ETF는 자격을 직접 얻지 못한 채 부운용사의 라이선스를 쓰거나 케이맨 자회사를 세운다. 예외·우회·공시·한도 4경로를 구분하고 설명서에서 확인할 항목을 정리한다.",
+    "headline": "ETF가 규제를 통과하는 4가지 방법: 자격을 빌리거나, 법인을 세우거나, 공시로 떠안거나, 설계를 잃거나",
+    "inLanguage": "ko-KR",
+    "keywords": "ETF구조, 규제, QFI, 케이맨자회사, AFFE, 포지션한도, 역병합, 설정중단",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/556",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/556"
+  }
+]

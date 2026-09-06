@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-07T01:43:00+09:00",
+    "datePublished": "2026-09-07T01:42:38+09:00",
+    "description": "ETF를 고를 때 대부분은 지수와 종목을 본다. 그런데 어떤 상품은 그 앞 단계에서 이미 다르다. 펀드 자신이 세금을 낸다.미국 상장 ETF 대부분은 펀드 단계에서 법인세를 내지 않는다. 세법상 규제투자회사(RIC) 자격을 선택해 소득을 그대로 투자자에게 흘려보내기 때문이다. 그런데 에너지 미드스트림 파트너십(MLP)을 주력으로 담는 일부 ETF는 이 자격을 쓰지 못한다. 안 쓰는 게 아니라 쓸 자격이 없다. 그 결과 펀드가 법인세를 부담하고, 그 부담이 매일 순자산가치에 반영된다.이 글은 그 구조가 어떻게 작동하고, 무엇을 확인해야 하며, 한국 투자자에게 어디까지가 해당되고 어디부터가 해당되지 않는지를 정리한다.왜 이 ETF만 펀드가 직접 세금을 내나?해당 펀드의 감사보고서는 이 점을 직접 적는다. 이..",
+    "headline": "AMLP는 왜 펀드가 직접 법인세를 내나 — MLP 25% 규칙과 이연법인세부채가 남기는 흔적",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/557",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/557"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 구조",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-07",
+    "datePublished": "2026-09-07",
+    "description": "대부분의 ETF는 펀드 단계 과세를 피하지만 MLP 집중형은 다르다. 규제투자회사 자격을 선택할 수 없는 이유, 25% 규칙, 매일 순자산가치에 반영되는 이연법인세부채를 정리한다.",
+    "headline": "AMLP는 왜 펀드가 직접 법인세를 내나 — MLP 25% 규칙과 이연법인세부채가 남기는 흔적",
+    "inLanguage": "ko-KR",
+    "keywords": "AMLP, MLP, 미드스트림, RIC, 이연법인세, 자본반환, 미국ETF, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/557",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/557"
+  }
+]
