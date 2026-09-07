@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-08T01:44:00+09:00",
+    "datePublished": "2026-09-08T01:43:34+09:00",
+    "description": "채권 ETF를 고르다 보면 낯선 이름이 하나 나온다. CLO다. 이름 안에 '대출'과 '담보'가 들어 있고 등급은 AAA인데, 기초자산은 투자등급 미만 기업대출이라고 적혀 있다. 최고 등급과 투기등급이 한 문장에 같이 있으니 앞뒤가 맞지 않아 보인다.모순이 아니다. CLO는 등급이 낮은 자산을 모아 등급이 높은 증권을 만들어내는 구조이고, 그 구조가 어떻게 작동하는지가 이 상품의 전부다. 이 글은 그 구조와, AAA라는 표시가 무엇을 담보하고 무엇을 담보하지 않는지를 정리한다.CLO는 무엇이고 ETF는 그중 무엇을 담나?운용사 자료의 정의가 간결하다. CLO는 서로 다른 트랜치로 발행되는 채무증권이며, 트랜치마다 위험 정도가 다르고, 주로 투자등급 미만 기업대출로 구성된 포트폴리오가 이를 뒷받침한다.구조..",
+    "headline": "JAAA ETF, CLO의 AAA 트랜치는 무엇을 담보하나 — 증권화 구조와 대출 직접 보유의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/559",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/559"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "해외 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-08",
+    "datePublished": "2026-09-08",
+    "description": "CLO는 투자등급 미만 기업대출을 담보로 여러 트랜치를 발행한다. 최상위 트랜치의 완충 구조, AAA 등급이 다루지 않는 위험, 변동금리와 유동성 문제를 정리한다.",
+    "headline": "JAAA ETF, CLO의 AAA 트랜치는 무엇을 담보하나 — 증권화 구조와 대출 직접 보유의 차이",
+    "inLanguage": "ko-KR",
+    "keywords": "JAAA, CLO, 대출채권담보부증권, 트랜치, 변동금리, 증권화, 미국ETF, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/559",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/559"
+  }
+]
