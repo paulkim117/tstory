@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-09T00:45:00+09:00",
+    "datePublished": "2026-09-09T00:44:03+09:00",
+    "description": "ETF를 조사하다 보면 이상한 일이 생긴다. 운용사 홈페이지에는 12개국이라고 적혀 있는데 지수 산출기관 문서에는 8개국이라고 나온다. 한 자료는 총보수가 낮다고 하고 다른 자료는 열 배 넘게 높다고 한다. 어느 쪽이 오기인지 찾아보지만 양쪽 다 공식 자료다.이런 일은 실수보다 구조 때문에 생긴다. 그리고 원인은 몇 가지로 정리된다. 이 글은 그 원인을 네 유형으로 나누고, 각 유형을 어떻게 알아보며 어느 자료를 우선해야 하는지를 정리한다.왜 같은 상품인데 설명이 갈리는가?전제부터 정리하자. 상장 상품의 공식 자료는 여러 층으로 나뉜다. 지수 산출기관의 방법론 문서, 운용사의 투자설명서, 요약설명서, 팩트시트, 홈페이지 상품 소개, 감사받은 재무제표가 각각 존재한다. 이들은 목적이 다르고 작성 시점이 다..",
+    "headline": "같은 ETF인데 자료마다 설명이 다른 이유 4가지 — 시점·층위·조건 생략·집계 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/560",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/560"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 구조",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-09",
+    "datePublished": "2026-09-09",
+    "description": "운용사 홈페이지와 지수 문서의 설명이 갈리는 것은 대개 오기가 아니다. 네 가지 원인을 구분하고 확인 대상별 1차 자료를 정리한다.",
+    "headline": "같은 ETF인데 자료마다 설명이 다른 이유 4가지 — 시점·층위·조건 생략·집계 기준",
+    "inLanguage": "ko-KR",
+    "keywords": "ETF공시, 투자설명서, 지수방법론, 총보수, 재간접, 자료대조, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/560",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/560"
+  }
+]
