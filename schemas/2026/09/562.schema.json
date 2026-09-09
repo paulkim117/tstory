@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-10T00:07:00+09:00",
+    "datePublished": "2026-09-10T00:06:31+09:00",
+    "description": "미국 금융 섹터에 투자한다고 하면 대개 은행을 떠올린다. 그런데 금융 안에는 성격이 전혀 다른 사업이 섞여 있다. 예금을 받아 대출을 내주는 회사가 있고, 남의 거래를 중개하고 수수료를 받는 회사가 있다.뒤쪽만 골라 담는 상품이 있다. 증권사와 거래소, 그리고 온라인 브로커를 한데 묶은 ETF다. 이 조합이 왜 하나의 지수로 성립하는지, 은행 중심 상품과 무엇이 다른지, 그리고 상품 설명서에 적힌 '비분산'이라는 단어가 무슨 뜻인지를 정리한다.증권사와 거래소가 왜 한 지수에 묶이나?설명서의 지수 정의부터 본다. 이 상품은 미국 주식시장의 투자서비스 섹터 성과를 측정하는 지수를 추종하며, 지수 제공자는 그 범위를 증권 브로커·딜러, 온라인 브로커, 증권 또는 상품 거래소를 포함해 특화된 금융서비스를 제공하..",
+    "headline": "IAI ETF, 증권사와 거래소를 함께 담는 이유 — 수수료 기반 사업모델과 비분산 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/562",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/562"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "해외 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-10",
+    "datePublished": "2026-09-10",
+    "description": "미국 투자서비스 섹터는 은행과 수익 구조가 다르다. 브로커·거래소가 한 지수에 묶이는 이유, 비분산형 분류의 법적 의미, 광역 금융 상품과의 중복을 정리한다.",
+    "headline": "IAI ETF, 증권사와 거래소를 함께 담는 이유 — 수수료 기반 사업모델과 비분산 구조",
+    "inLanguage": "ko-KR",
+    "keywords": "IAI, 미국 증권사 ETF, 거래소, 투자서비스 섹터, 비분산형, 금융섹터, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/562",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/562"
+  }
+]
