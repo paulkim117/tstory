@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-11T00:07:00+09:00",
+    "datePublished": "2026-09-11T00:06:57+09:00",
+    "description": "신흥국 채권 ETF를 찾아보면 이름이 비슷한 상품이 여러 개 나온다. 어떤 것은 달러 표시 국채를 담고, 어떤 것은 현지 통화 국채를 담고, 또 어떤 것은 기업이 발행한 채권을 담는다. 셋 다 '신흥국 채권'이라는 말로 묶인다.그런데 이 셋은 위험의 소재가 서로 다르다. 특히 환위험이 그렇다. 달러 표시 채권을 담으면 환위험이 사라지는 것처럼 보이지만 실제로는 사라지지 않는다. 위치가 옮겨갈 뿐이다. 이 글은 세 유형을 가르고, 지수 규칙이 실제로 무엇을 정하는지 원문 기준으로 정리한다.신흥국 채권은 어떻게 세 갈래로 나뉘나?발행 주체와 표시 통화, 두 축으로 나뉜다.표 1. 신흥국 채권 ETF 3분류구분발행 주체표시 통화핵심 위험① 달러표시 국채형정부·준정부 기관미국 달러발행국 신용② 현지통화 국채형정..",
+    "headline": "신흥국 채권 ETF 3분류: 달러표시·현지통화·회사채, 환위험은 누가 지나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/563",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/563"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "해외 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-11",
+    "datePublished": "2026-09-11",
+    "description": "달러 표시를 고르면 환위험이 사라지는 것이 아니라 발행국 신용으로 옮겨간다. 세 유형의 지수 규칙과 국가 비중 상한, 부도 처리 방식을 정리한다.",
+    "headline": "신흥국 채권 ETF 3분류: 달러표시·현지통화·회사채, 환위험은 누가 지나",
+    "inLanguage": "ko-KR",
+    "keywords": "신흥국채권, EMB, EMLC, 현지통화, 달러표시, 국가비중상한, 채권ETF, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/563",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/563"
+  }
+]
