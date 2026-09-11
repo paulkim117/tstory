@@ -1,0 +1,116 @@
+<!--
+source: https://mystock-note.tistory.com/565
+backup_date: 2026-09-11
+post_id: 565
+-->
+<p data-ke-size="size16">구리에 투자하려고 상품을 찾아보면 이름이 갈린다. 하나는 '실물'이 붙어 있고 다른 하나는 '선물'이 붙어 있다. 미국에도 구리를 담는 상품이 있는데 또 방식이 다르다.</p>
+<p data-ke-size="size16">같은 금속인데 왜 셋으로 나뉘는가. 답은 <b>비용이 어디에 붙느냐</b>다. 선물로 담으면 만기마다 갈아타는 비용이 생기고, 실물로 담으면 창고에 쌓아두는 비용이 생긴다. <b>어느 쪽도 공짜가 아니며, 비용의 위치가 다를 뿐이다.</b> 이 글은 그 구조를 지수 산식까지 내려가서 정리한다.</p>
+
+
+<p></p>
+
+<h2 data-ke-size="size26">구리를 담는 방식은 몇 가지인가?</h2>
+<p data-ke-size="size16">크게 셋이다. 그리고 셋은 같은 상품군이 아니다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 구리 노출 상품의 세 유형</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>보유 대상</th>
+<th>주된 비용</th>
+<th>기준 시장</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>실물형</td>
+<td>창고에 보관된 구리에 대한 창고증권</td>
+<td>창고보관료</td>
+<td>런던금속거래소(LME)</td>
+</tr>
+<tr>
+<td>선물형(국내)</td>
+<td>구리 선물계약</td>
+<td>롤오버 손익</td>
+<td>LME</td>
+</tr>
+<tr>
+<td>선물지수형(미국)</td>
+<td>구리 선물계약</td>
+<td>롤오버 손익</td>
+<td>미국 상품거래소</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">표에서 두 가지가 갈린다. 첫째는 <b>실물이냐 선물이냐</b>이고, 둘째는 <b>어느 거래소의 구리 가격을 기준으로 삼느냐</b>다. 두 번째 축은 잘 알려져 있지 않지만 실제 성과 차이를 만든다.</p>
+<h2 data-ke-size="size26">'실물형'은 구리를 정말 들고 있나?</h2>
+<p data-ke-size="size16">직접 금속 덩어리를 보유하는 것은 아니다. 정확히는 <b>창고증권</b>을 보유한다.</p>
+<p data-ke-size="size16">운용사 자료는 이 펀드가 <b>구리실물 보관에 따라 발행된 창고증권을 주된 투자대상으로 하되, 결제의 용이성 제고 및 각종 비용&middot;보수 지급 등을 위해 자산의 일부를 현금으로 보유</b>한다고 적는다. 그리고 <b>현금 보유로 인한 추적오차 최소화를 위해 보유현금을 증거금으로 한 구리 관련 파생상품을 매매하거나 국내외에 상장된 구리 관련 ETF를 일부 편입할 수 있다</b>고 명시한다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 실물형 상품이 실제로 담는 것</caption>
+<thead>
+<tr>
+<th>구성 요소</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>창고증권</td>
+<td>공인창고에 보관된 구리에 대한 청구권</td>
+</tr>
+<tr>
+<td>현금</td>
+<td>결제&middot;비용&middot;보수 지급 대응</td>
+</tr>
+<tr>
+<td>구리 관련 파생상품</td>
+<td>현금 부분의 추적오차 보정</td>
+</tr>
+<tr>
+<td>구리 관련 ETF</td>
+<td>동일 목적의 보조 수단</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">마지막 두 행이 중요하다. <b>'실물형'이라는 이름이 붙어도 파생상품과 다른 ETF를 담을 여지가 열려 있다.</b> 현금 비중이 지수를 따라가지 못하는 부분을 메우기 위한 장치이며, 대체로 비중은 크지 않다. 다만 "실물만 담는다"는 이해는 정확하지 않다.</p>
+<p data-ke-size="size16">실물 보유 구조의 원형은 금 상품에서 확립됐다. 신탁이 금괴를 보관하고 지분을 발행하는 방식이며, 이 구조의 법적 성격은 <a href="/445">GLD의 그랜터트러스트 구조</a>에서 다뤘다. 구리는 부피와 보관 비용 때문에 금과는 다른 문제를 안는다.</p>
+<h2 data-ke-size="size26">지수 산식에 보관료가 들어 있다는 게 무슨 뜻인가?</h2>
+<p data-ke-size="size16">이 상품을 이해하는 핵심이다. 그리고 대부분의 소개 자료에서 빠진다.</p>
+<p data-ke-size="size16">운용사 자료는 기초지수를 이렇게 정의한다. <b>런던금속거래소가 발표하는 구리가격에서 LME 공인창고의 평균 창고보관료를 차감하여 산출</b>한다. 기준일은 1994년 4월 5일이며 기준지수는 100포인트다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 실물형과 선물형에서 비용이 붙는 위치</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>비용의 정체</th>
+<th>어디에 반영되나</th>
+<th>투자자에게 보이나</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>실물형</td>
+<td>창고보관료</td>
+<td>기초지수 산식 안</td>
+<td>지수 자체가 낮아져 잘 안 보임</td>
+</tr>
+<tr>
+<td>선물형</td>
+<td>롤오버 손익</td>
+<td>펀드 운용 과정</td>
+<td>추적 성과 차이로 나타남</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">비교가 선명해진다. 선물형에서 롤오버 비용은 <b>지수 대비 성과 괴리</b>로 나타나므로 눈에 띈다. 실물형에서 보관료는 <b>지수 자체에 이미 반영</b>돼 있으므로 추적오차로 보이지 않는다.</p>
+<p data-ke-size="size16">즉 실물형은 "롤오버 비용이 없다"가 아니라 <b>"비용이 지수 안으로 들어가 보이지 않게 됐다"</b>가 정확하다. 상품을 평가할 때 추적오차만 보면 실물형이 우수해 보이는 착시가 생긴다.</p>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">기초지수가 현물 기준인지 선물 기준인지</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">지수 산식에 보관료 차감이 있는지</p>
+<progress value="94" max="100"></progress>
+<p data-ke-size="size16">기준 거래소(LME / 미국)</p>
+<progress value="82" max="100"></progress>
+<p data-ke-size="size16">환헤지 여부와 환 경로</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">괴리율 추이와 유동성</p>
+<progress value="66" max="100"></progress>
