@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-13T01:34:00+09:00",
+    "datePublished": "2026-09-13T01:33:13+09:00",
+    "description": "국내 상장 ETF의 이름은 길다. 운용사 브랜드 뒤에 지수 이름이 붙고, 그 뒤에 다시 괄호와 영문 약어가 따라붙는다. 원유선물Enhanced(H), 코스피200TR, 미국S&P500(합성 H) 같은 식이다.미국 상장 ETF는 이렇지 않다. 이름은 대체로 브랜드와 지수명으로 끝나고, 구조 정보는 이름이 아니라 설명서에 들어 있다. 어느 쪽이 나은지의 문제가 아니라 정보가 놓인 위치가 다르다. 이 글은 국내 상품명의 꼬리표가 각각 무엇을 뜻하는지, 그리고 이름만으로는 알 수 없는 것이 무엇인지를 정리한다.왜 국내 상품명만 길어졌나?같은 지수를 여러 운용사가 추종하는 시장 구조 때문이다. 지수 이름만으로는 상품이 구분되지 않으므로, 구조 차이를 이름에 넣어 구분하게 됐다.표 1. 상품명에 자주 붙는 꼬리표표..",
+    "headline": "ETF 이름 뒤의 (H)·TR·Enhanced·합성은 무엇을 뜻하나 — 상품명이 알려주는 것과 숨기는 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/568",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/568"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 기초",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-13",
+    "datePublished": "2026-09-13",
+    "description": "Enhanced는 수익률 향상이 아니라 롤오버 방식의 변형이다. 국내 상품명 꼬리표 7종의 의미와, 이름에 나타나지 않는 항목의 확인 위치를 정리한다.",
+    "headline": "ETF 이름 뒤의 (H)·TR·Enhanced·합성은 무엇을 뜻하나 — 상품명이 알려주는 것과 숨기는 것",
+    "inLanguage": "ko-KR",
+    "keywords": "ETF상품명, Enhanced, 환헤지, TR형, 합성ETF, 액티브ETF, 롤오버, ETF구조",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/568",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/568"
+  }
+]

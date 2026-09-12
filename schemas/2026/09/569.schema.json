@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-13T02:34:00+09:00",
+    "datePublished": "2026-09-13T02:33:41+09:00",
+    "description": "미국 소프트웨어 기업에 투자하려고 상품을 찾으면 대표적으로 하나가 나온다. 이름에 소프트웨어가 들어가 있고 실제로 소프트웨어 기업이 상위에 있다.그런데 편입 종목을 내려가다 보면 게임 회사와 검색·소셜 기업이 나온다. 오류가 아니다. 상품명 한가운데 있는 단어 하나가 이를 예고하고 있다. Expanded다. 이 글은 그 확장이 어디까지인지, 왜 그렇게 설계됐는지, 그리고 IT 섹터 전체를 담는 상품과 무엇이 다른지를 정리한다.이 상품은 무엇을 추종하나?등록 문서의 정의부터 본다. 이 펀드는 북미 소프트웨어 산업 주식과, 인터랙티브 홈 엔터테인먼트 및 인터랙티브 미디어·서비스 산업의 일부 북미 주식으로 구성된 지수를 추종한다. 현재 추종 지수는 S&P가 산출하는 확장 기술 소프트웨어 지수다.지수 성격은 상..",
+    "headline": "IGV ETF란? 소프트웨어 ETF에 게임과 검색 기업이 들어 있는 이유 — 'Expanded'의 범위와 XLK와의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/569",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/569"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "해외 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-13",
+    "datePublished": "2026-09-13",
+    "description": "이름과 달리 게임·검색·소셜 기업이 편입된다. 확장된 편입 범위, 반도체가 빠지는 구조, 비분산형 분류와 중복 점검 방법을 정리한다.",
+    "headline": "IGV ETF란? 소프트웨어 ETF에 게임과 검색 기업이 들어 있는 이유 — 'Expanded'의 범위와 XLK와의 차이",
+    "inLanguage": "ko-KR",
+    "keywords": "IGV, 미국 소프트웨어 ETF, XLK, 비분산형, GICS, 섹터 중복, 해외ETF",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/569",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/569"
+  }
+]
