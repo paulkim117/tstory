@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-15T00:30:01+09:00",
+    "datePublished": "2026-09-15T00:29:05+09:00",
+    "description": "게임 산업에 투자하려고 상품을 찾으면 미국 시장에 전용 ETF가 있다. 이름에도 비디오게임과 e스포츠가 들어가 있다.그런데 보유 종목 상위를 보면 게임 개발사만 있는 게 아니다. 반도체 회사가 큰 비중으로 들어 있다. 오류가 아니라 지수 정의에 이미 적혀 있는 결과다. 이 글은 무엇이 담기는지, 50%라는 숫자가 무엇을 뜻하는지, 그리고 이 상품의 지수가 왜 세 회사에 걸쳐 운영되는지를 정리한다.이 상품은 무엇을 담나?운용사 자료의 정의를 그대로 본다. 추종 지수는 비디오게임 개발, e스포츠, 그리고 관련 하드웨어와 소프트웨어에 관여하는 기업의 전반적 성과를 추종하도록 설계돼 있다.마지막 항목이 핵심이다. '관련 하드웨어'가 지수 정의에 포함돼 있다. 게임을 구동하는 그래픽 처리 장치를 만드는 회사가 여..",
+    "headline": "ESPO ETF란? 게임 ETF 상위에 반도체 회사가 있는 이유 — 50% 매출 기준과 지수 3단 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/572",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/572"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "테마 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-15",
+    "datePublished": "2026-09-15",
+    "description": "지수 정의에 관련 하드웨어가 포함돼 있다. 신규 50%·유지 25% 이중 기준, 발행사 계열 지수사업자, 시장별로 다른 지수 버전을 정리한다.",
+    "headline": "ESPO ETF란? 게임 ETF 상위에 반도체 회사가 있는 이유 — 50% 매출 기준과 지수 3단 구조",
+    "inLanguage": "ko-KR",
+    "keywords": "ESPO, 게임 ETF, e스포츠, 순수성 기준, 지수 제공자, 비분산형, 테마ETF",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/572",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/572"
+  }
+]

@@ -1,0 +1,99 @@
+<!--
+source: https://mystock-note.tistory.com/573
+backup_date: 2026-09-14
+post_id: 573
+-->
+<p data-ke-size="size16">현금성 자산을 굴릴 곳을 찾다 보면 특이한 상품 하나를 만난다. 단기 국채와 비슷한 수익률을 내는데 <b>분배금을 지급하지 않는다.</b> 이자도 배당도 없이 가격만 조금씩 오른다.</p>
+<p data-ke-size="size16">마법이 아니다. 옵션 조합으로 만기까지의 확정 수익을 만들어 두고, 그 수익을 분배 대신 가격에 쌓는 구조다. 그런데 이 설계의 목적을 알면 판단이 달라진다. <b>이 상품은 미국 납세자의 세금을 줄이기 위해 만들어졌다.</b> 한국 거주자에게 그 이점이 어디까지 오는지가 이 글의 핵심이다.</p>
+
+
+<p></p>
+
+<h2 data-ke-size="size26">박스 스프레드가 무엇인가?</h2>
+<p data-ke-size="size16">옵션 네 개를 조합해 <b>만기에 받을 금액이 고정되도록</b> 만든 포지션이다. 지수가 오르든 내리든 만기 시점의 정산액이 같아진다.</p>
+<p data-ke-size="size16">정산액이 고정돼 있으므로, 지금 그 포지션을 만드는 데 드는 비용과 만기 정산액의 차이가 <b>사실상 이자에 해당</b>한다. 옵션 시장에서 돈을 빌리거나 빌려주는 것과 구조적으로 같아진다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 단기 국채와 박스 스프레드의 대응 관계</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>단기 국채</th>
+<th>박스 스프레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>수익 원천</td>
+<td>액면과 매입가의 차이</td>
+<td>만기 정산액과 설정비용의 차이</td>
+</tr>
+<tr>
+<td>만기</td>
+<td>정해져 있음</td>
+<td>옵션 만기로 정해짐</td>
+</tr>
+<tr>
+<td>신용위험</td>
+<td>정부</td>
+<td>거래소 청산기구</td>
+</tr>
+<tr>
+<td>수익 성격</td>
+<td>이자</td>
+<td>옵션 거래 손익</td>
+</tr>
+<tr>
+<td>중도 가격</td>
+<td>금리에 따라 변동</td>
+<td>동일하게 변동</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">네 번째 행이 이 상품의 존재 이유다. <b>경제적 실질은 이자와 같은데 세법상 분류가 다르다.</b> 미국 세법에서 이자는 통상소득으로 과세되고 옵션 거래 손익은 자본이득으로 과세된다. 세율 차이가 상당하다.</p>
+<h2 data-ke-size="size26">1256조는 무엇을 정하나?</h2>
+<p data-ke-size="size16">설명서가 직접 인용하는 조항이다. <b>SPX 같은 거래소 상장 지수 옵션은 내국세법 1256조에 따라 과세되며, 해당 옵션의 거래 손익은 보유기간과 무관하게 60% 장기&middot;40% 단기 자본이득으로 과세된다.</b></p>
+<p data-ke-size="size16">보유기간과 무관하다는 점이 핵심이다. 통상 장기 자본이득 우대를 받으려면 일정 기간 보유해야 하는데, 이 조항이 적용되면 하루를 보유해도 60%는 장기로 취급된다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 미국 납세자 기준 과세 성격의 차이</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>이자 소득</th>
+<th>1256조 적용 손익</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>분류</td>
+<td>통상소득</td>
+<td>60% 장기 + 40% 단기 자본이득</td>
+</tr>
+<tr>
+<td>적용 세율</td>
+<td>소득세율</td>
+<td>자본이득세율 혼합</td>
+</tr>
+<tr>
+<td>보유기간 요건</td>
+<td>해당 없음</td>
+<td>무관</td>
+</tr>
+<tr>
+<td>주별 과세</td>
+<td>주에 따라 부담</td>
+<td>주에 따라 다름</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">설명서는 펀드가 회계사 자문에 근거해 <b>SPX 박스 스프레드를 활용하는 범위에서 분배금이 있다면 이 우대 조건의 자본이득으로 성격이 규정될 것으로 예상</b>한다고 적는다. 그리고 1256조 우대 대상이 아닌 포지션에서 나오는 분배금은 단기 자본이득이나 통상소득으로 규정될 것으로 예상한다고 덧붙인다.</p>
+<p data-ke-size="size16"><b>'예상한다'는 표현에 주목해야 한다.</b> 확정된 것이 아니라 자문에 근거한 기대다.</p>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>한국 투자자 확인 우선순위</b></p>
+<p data-ke-size="size16">미국 세제 이점이 전이되는지</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">세무 처리 미확정에 따른 위험</p>
+<progress value="94" max="100"></progress>
+<p data-ke-size="size16">동일 목적의 단순한 대안 존재 여부</p>
+<progress value="86" max="100"></progress>
+<p data-ke-size="size16">분배 발생 시 성격과 시점</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">유동성과 매매 마찰</p>
+<progress value="60" max="100"></progress>

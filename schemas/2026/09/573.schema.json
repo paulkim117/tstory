@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-15T01:32:00+09:00",
+    "datePublished": "2026-09-15T01:31:29+09:00",
+    "description": "현금성 자산을 굴릴 곳을 찾다 보면 특이한 상품 하나를 만난다. 단기 국채와 비슷한 수익률을 내는데 분배금을 지급하지 않는다. 이자도 배당도 없이 가격만 조금씩 오른다.마법이 아니다. 옵션 조합으로 만기까지의 확정 수익을 만들어 두고, 그 수익을 분배 대신 가격에 쌓는 구조다. 그런데 이 설계의 목적을 알면 판단이 달라진다. 이 상품은 미국 납세자의 세금을 줄이기 위해 만들어졌다. 한국 거주자에게 그 이점이 어디까지 오는지가 이 글의 핵심이다.박스 스프레드가 무엇인가?옵션 네 개를 조합해 만기에 받을 금액이 고정되도록 만든 포지션이다. 지수가 오르든 내리든 만기 시점의 정산액이 같아진다.정산액이 고정돼 있으므로, 지금 그 포지션을 만드는 데 드는 비용과 만기 정산액의 차이가 사실상 이자에 해당한다. 옵션..",
+    "headline": "BOXX ETF란? 분배금 없이 단기금리 수익을 만드는 구조 — 미국 세제 설계와 한국 투자자에게 남는 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/573",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/573"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "해외 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-15",
+    "datePublished": "2026-09-15",
+    "description": "옵션 박스 스프레드로 이자와 같은 수익을 자본이득으로 바꾸는 상품이다. 1256조 우대가 한국 거주자에게 전이되지 않는 이유와 남는 위험을 정리한다.",
+    "headline": "BOXX ETF란? 분배금 없이 단기금리 수익을 만드는 구조 — 미국 세제 설계와 한국 투자자에게 남는 것",
+    "inLanguage": "ko-KR",
+    "keywords": "BOXX, 박스스프레드, 1256조, 현금성자산, 파킹, 액티브ETF, 해외ETF",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/578",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/578"
+  }
+]
