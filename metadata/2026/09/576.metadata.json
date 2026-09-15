@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-15",
+  "body_html_length": 14168,
+  "canonical_url": "https://mystock-note.tistory.com/576",
+  "content_hash": "f44a9c503223ec0c98b444e84534ef5b10ede05a9c392b76674cfcf33017efc9",
+  "json_ld_count": 2,
+  "meta_description": "미국 증시에 상장된 ETF 중에는 주식과 채권을 하나의 종목 안에 함께 담아 두는 유형이 있다. AOA는 그중 주식 비중이 가장 높은 상품이다. 이 글은 AOA가 그 비중을 어떻게 정하고, 그 안에 무엇이 들어 있으며, 한국 거주자가 어떤 계좌에서 어떤 세금을 지고 접근하게 되는지를 1차 출처 기준으로 정리한다.AOA는 정확히 무엇을 담고 있는 ETF인가?AOA는 iShares Core 80/20 Aggressive Allocation ETF의 티커다. 이름에 들어간 80/20이 이 상품의 전부를 설명한다. 주식 80%, 채권 20%를 목표로 하는 자산배분 상품이며, 추종 대상은 S&P Target Risk Aggressive Index다.중요한 구조적 특징이 하나 있다. AOA는 개별 주식이나 개별 채..",
+  "modified_time": "2026-09-16T02:31:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 증시에 상장된 ETF 중에는 주식과 채권을 하나의 종목 안에 함께 담아 두는 유형이 있다. AOA는 그중 주식 비중이 가장 높은 상품이다. 이 글은 AOA가 그 비중을 어떻게 정하고, 그 안에 무엇이 들어 있으며, 한국 거주자가 어떤 계좌에서 어떤 세금을 지고 접근하게 되는지를 1차 출처 기준으로 정리한다.AOA는 정확히 무엇을 담고 있는 ETF인가?AOA는 iShares Core 80/20 Aggressive Allocation ETF의 티커다. 이름에 들어간 80/20이 이 상품의 전부를 설명한다. 주식 80%, 채권 20%를 목표로 하는 자산배분 상품이며, 추종 대상은 S&P Target Risk Aggressive Index다.중요한 구조적 특징이 하나 있다. AOA는 개별 주식이나 개별 채..",
+  "og_title": "AOA ETF란? 지수가 iShares 상품만 지정하는 80/20 자산배분, 국내 채권혼합형과 무엇이 다른가",
+  "post_id": "576",
+  "published_time": "2026-09-16T02:30:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AOA ETF란? 지수가 iShares 상품만 지정하는 80/20 자산배분, 국내 채권혼합형과 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/576"
+}

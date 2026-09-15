@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-15",
+  "body_html_length": 13133,
+  "canonical_url": "https://mystock-note.tistory.com/577",
+  "content_hash": "804762fae21837e8aa0d69b5a17877f1a09b3b7807763b5084185028b45e3c77",
+  "json_ld_count": 2,
+  "meta_description": "AOR은 주식과 채권을 60대 40으로 담는 자산배분 ETF다. 그런데 이 상품은 이름이 여러 번 바뀌었고, 지금도 공식 문서 안에서 명칭과 설명이 서로 어긋난다. 이 글은 그 불일치가 어디서 오는지, 그리고 60/40이라는 숫자를 어디까지 믿어도 되는지를 1차 출처 기준으로 정리한다.AOR은 어떤 ETF인가?AOR은 iShares Core 60/40 Balanced Allocation ETF의 티커다. S&P Target Risk Balanced Index를 추종하며, 개별 종목을 직접 담지 않고 다른 iShares ETF를 사서 담는 재간접(fund of funds) 구조다.AOR 기본 사양 (출처: 발행사 공시·투자설명서)항목내용정식 명칭iShares Core 60/40 Balanced Alloca..",
+  "modified_time": "2026-09-16T03:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AOR은 주식과 채권을 60대 40으로 담는 자산배분 ETF다. 그런데 이 상품은 이름이 여러 번 바뀌었고, 지금도 공식 문서 안에서 명칭과 설명이 서로 어긋난다. 이 글은 그 불일치가 어디서 오는지, 그리고 60/40이라는 숫자를 어디까지 믿어도 되는지를 1차 출처 기준으로 정리한다.AOR은 어떤 ETF인가?AOR은 iShares Core 60/40 Balanced Allocation ETF의 티커다. S&P Target Risk Balanced Index를 추종하며, 개별 종목을 직접 담지 않고 다른 iShares ETF를 사서 담는 재간접(fund of funds) 구조다.AOR 기본 사양 (출처: 발행사 공시·투자설명서)항목내용정식 명칭iShares Core 60/40 Balanced Alloca..",
+  "og_title": "AOR ETF란? 이름은 '균형'인데 설명서는 '성장'이라 쓴다 — 60/40 라벨을 그대로 믿으면 안 되는 이유",
+  "post_id": "577",
+  "published_time": "2026-09-16T03:31:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AOR ETF란? 이름은 '균형'인데 설명서는 '성장'이라 쓴다 — 60/40 라벨을 그대로 믿으면 안 되는 이유",
+  "url": "https://mystock-note.tistory.com/577"
+}

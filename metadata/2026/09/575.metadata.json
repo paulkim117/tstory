@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-15",
+  "body_html_length": 13121,
+  "canonical_url": "https://mystock-note.tistory.com/575",
+  "content_hash": "6c7bcc84f3a67fac12d684ca9ffed373389896657ba77c6b05be1075274a543f",
+  "json_ld_count": 1,
+  "meta_description": "ETF 상품 페이지에는 대부분 \"기초지수\"와 \"지수 제공사\"가 적혀 있습니다. 그런데 그 지수를 누가 만들고 누가 계산하는지는 상품마다 다릅니다. 외부 지수사가 전부 맡는 경우, 발행사 계열 법인이 만드는 경우, 운용사 본인이 유지하는 경우가 모두 존재하고 각각 다른 규제가 붙습니다. 더 까다로운 것은 같은 지수사가 어떤 ETF에는 계열사이고 어떤 ETF에는 외부 기관이라는 점입니다. 이 글은 세 유형의 구조와 이해상충 지점, 그리고 상품 문서에서 무엇을 어떤 순서로 확인해야 하는지를 정리합니다.ETF 기초지수는 누가 만드나요?지수 하나가 상품의 기초가 되려면 세 가지 일이 필요합니다. 규칙을 설계하는 일, 규칙대로 종목을 뽑고 값을 계산하는 일, 그 지수를 상품에 쓰도록 라이선스하는 일입니다. 이 세 ..",
+  "modified_time": "2026-09-16T01:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/575\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/575\",\"headline\":\"ETF 기초지수는 누가 만드나? 외부 지수사·계열 지수사·자체 지수 3유형 비교와 확인 순서\",\"description\":\"ETF 상품 페이지에는 대부분 \"기초지수\"와 \"지수 제공사\"가 적혀 있습니다. 그런데 그 지수를 누가 만들고 누가 계산하는지는 상품마다 다릅니다. 외부 지수사가 전부 맡는 경우, 발행사 계열 법인이 만드는 경우, 운용사 본인이 유지하는 경우가 모두 존재하고 각각 다른 규제가 붙습니다. 더 까다로운 것은 같은 지수사가 어떤 ETF에는 계열사이고 어떤 ETF에는 외부 기관이라는 점입니다. 이 글은 세 유형의 구조와 이해상충 지점, 그리고 상품 문서에서 무엇을 어떤 순서로 확인해야 하는지를 정리합니다.ETF 기초지수는 누가 만드나요?지수 하나가 상품의 기초가 되려면 세 가지 일이 필요합니다. 규칙을 설계하는 일, 규칙대로 종목을 뽑고 값을 계산하는 일, 그 지수를 상품에 쓰도록 라이선스하는 일입니다. 이 세 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-16T01:32:49+09:00\",\"dateModified\":\"2026-09-16T01:33:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "ETF 상품 페이지에는 대부분 \"기초지수\"와 \"지수 제공사\"가 적혀 있습니다. 그런데 그 지수를 누가 만들고 누가 계산하는지는 상품마다 다릅니다. 외부 지수사가 전부 맡는 경우, 발행사 계열 법인이 만드는 경우, 운용사 본인이 유지하는 경우가 모두 존재하고 각각 다른 규제가 붙습니다. 더 까다로운 것은 같은 지수사가 어떤 ETF에는 계열사이고 어떤 ETF에는 외부 기관이라는 점입니다. 이 글은 세 유형의 구조와 이해상충 지점, 그리고 상품 문서에서 무엇을 어떤 순서로 확인해야 하는지를 정리합니다.ETF 기초지수는 누가 만드나요?지수 하나가 상품의 기초가 되려면 세 가지 일이 필요합니다. 규칙을 설계하는 일, 규칙대로 종목을 뽑고 값을 계산하는 일, 그 지수를 상품에 쓰도록 라이선스하는 일입니다. 이 세 ..",
+  "og_title": "ETF 기초지수는 누가 만드나? 외부 지수사·계열 지수사·자체 지수 3유형 비교와 확인 순서",
+  "post_id": "575",
+  "published_time": "2026-09-16T01:32:49+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ETF 기초지수는 누가 만드나? 외부 지수사·계열 지수사·자체 지수 3유형 비교와 확인 순서",
+  "url": "https://mystock-note.tistory.com/575"
+}

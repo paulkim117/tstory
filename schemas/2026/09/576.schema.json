@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-16T02:31:00+09:00",
+    "datePublished": "2026-09-16T02:30:36+09:00",
+    "description": "미국 증시에 상장된 ETF 중에는 주식과 채권을 하나의 종목 안에 함께 담아 두는 유형이 있다. AOA는 그중 주식 비중이 가장 높은 상품이다. 이 글은 AOA가 그 비중을 어떻게 정하고, 그 안에 무엇이 들어 있으며, 한국 거주자가 어떤 계좌에서 어떤 세금을 지고 접근하게 되는지를 1차 출처 기준으로 정리한다.AOA는 정확히 무엇을 담고 있는 ETF인가?AOA는 iShares Core 80/20 Aggressive Allocation ETF의 티커다. 이름에 들어간 80/20이 이 상품의 전부를 설명한다. 주식 80%, 채권 20%를 목표로 하는 자산배분 상품이며, 추종 대상은 S&P Target Risk Aggressive Index다.중요한 구조적 특징이 하나 있다. AOA는 개별 주식이나 개별 채..",
+    "headline": "AOA ETF란? 지수가 iShares 상품만 지정하는 80/20 자산배분, 국내 채권혼합형과 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/576",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/576"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "AOA"
+      },
+      {
+        "@type": "Thing",
+        "name": "자산배분 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "S&P Target Risk Aggressive Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-16T09:00:00+09:00",
+    "datePublished": "2026-09-16T09:00:00+09:00",
+    "description": "AOA는 S&P Target Risk Aggressive Index를 추종하는 재간접 자산배분 ETF다. 주식 80·채권 20 고정 비중, 반기 리밸런싱, 계열 펀드 취득펀드 비용 면제 약정, 지수 개편 이력, 한국 거주자의 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "AOA ETF란? 지수가 iShares 상품만 지정하는 80/20 자산배분, 국내 채권혼합형과 무엇이 다른가",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/576",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/576"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/575/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/575/#index-governance"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-09-16",
+      "datePublished": "2026-09-16",
+      "description": "ETF 기초지수를 만드는 주체는 외부 독립 지수사·발행사 계열 지수사업자·운용사 자체 지수 세 유형으로 나뉩니다. 유형마다 이해상충 지점과 규제 요건이 다르며, 같은 지수사가 발행사에 따라 계열이 되기도 합니다. 확인 순서를 정리했습니다.",
+      "headline": "ETF 기초지수는 누가 만드나? 외부 지수사·계열 지수사·자체 지수 3유형 비교와 확인 순서",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "MarketVector Indexes GmbH"
+        },
+        {
+          "@type": "Organization",
+          "name": "S&P Dow Jones Indices"
+        },
+        {
+          "@type": "Organization",
+          "name": "한국거래소"
+        },
+        {
+          "@type": "Thing",
+          "name": "Rule 6c-11"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/575"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/575/#index-governance",
+      "@type": "Thing",
+      "description": "ETF 기초지수의 규칙 설계·산출·라이선스 주체에 따른 3유형 구분. 외부 독립 지수사형, 발행사 계열 지수사업자형, 운용사 자체 지수형.",
+      "name": "ETF 기초지수 제공 구조"
+    }
+  ]
+}

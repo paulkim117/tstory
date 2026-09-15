@@ -1,0 +1,91 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-16T00:33:00+09:00",
+    "datePublished": "2026-09-16T00:32:23+09:00",
+    "description": "BTAL은 미국 주식 중 베타가 낮은 종목을 매수하고 베타가 높은 종목을 공매도하는 ETF입니다. 매수와 매도 금액을 같게 맞추는 달러중립 구조라, 시장이 오르든 내리든 방향 자체보다 두 바스켓의 수익률 차이가 성과를 결정합니다. 이름은 저변동성 ETF와 비슷해 보이지만 실제 구조는 다릅니다. 이 글은 USMV·SPLV 같은 롱온리 상품과의 차이, 2022년에 있었던 전략 전환, 공매도를 담기 때문에 생기는 규제·비용 구조, 그리고 한국 거주자가 마주치는 계좌 제약을 확인 순서대로 정리합니다.BTAL은 무엇을 하는 ETF인가요?저베타 미국 주식을 매수하고 고베타 미국 주식을 공매도합니다. 운용사 설명에 따르면 매수 바스켓과 매도 바스켓은 각각 약 200종목 규모이며, 두 포지션의 금액을 같게 맞추는 달러..",
+    "headline": "BTAL ETF란? USMV·SPLV와 차이, 저베타 롱숏의 달러중립 구조와 2022년 액티브 전환",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/574",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/574"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/574/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/574/#etf-btal"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-09-16",
+        "datePublished": "2026-09-16",
+        "description": "BTAL은 저베타 주식을 매수하고 고베타 주식을 공매도하는 달러중립 ETF입니다. USMV·SPLV 같은 롱온리 저변동성 상품과 무엇이 다른지, 2022년 액티브 전환과 공매도 편입에 따른 규제·비용 구조, 한국 투자자의 계좌 제약까지 확인 순서대로 정리했습니다.",
+        "headline": "BTAL ETF란? USMV·SPLV와 차이, 저베타 롱숏의 달러중립 구조와 2022년 액티브 전환",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Dow Jones U.S. Thematic Market Neutral Low Beta Index"
+          },
+          {
+            "@type": "Thing",
+            "name": "Rule 18f-4"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/574"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/574/#etf-btal",
+        "@type": "Thing",
+        "description": "저베타 미국 주식을 매수하고 고베타 미국 주식을 공매도하는 달러중립·섹터중립 롱숏 ETF. NYSE Arca 상장. 2022년 2월 14일 패시브 지수추종에서 액티브 룰 베이스 전략으로 전환.",
+        "name": "BTAL ETF"
+      }
+    ]
+  }
+]

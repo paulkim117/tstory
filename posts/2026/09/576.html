@@ -1,0 +1,419 @@
+<!--
+source: https://mystock-note.tistory.com/576
+backup_date: 2026-09-15
+post_id: 576
+-->
+<p data-ke-size="size16">미국 증시에 상장된 ETF 중에는 주식과 채권을 하나의 종목 안에 함께 담아 두는 유형이 있다. AOA는 그중 주식 비중이 가장 높은 상품이다. 이 글은 AOA가 그 비중을 어떻게 정하고, 그 안에 무엇이 들어 있으며, 한국 거주자가 어떤 계좌에서 어떤 세금을 지고 접근하게 되는지를 1차 출처 기준으로 정리한다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">AOA는 정확히 무엇을 담고 있는 ETF인가?</h2>
+<p data-ke-size="size16">AOA는 iShares Core 80/20 Aggressive Allocation ETF의 티커다. 이름에 들어간 80/20이 이 상품의 전부를 설명한다. 주식 80%, 채권 20%를 목표로 하는 자산배분 상품이며, 추종 대상은 S&amp;P Target Risk Aggressive Index다.</p>
+<p data-ke-size="size16">중요한 구조적 특징이 하나 있다. AOA는 개별 주식이나 개별 채권을 직접 사지 않는다. 다른 ETF를 사서 담는다. 이런 구조를 재간접(fund of funds)이라 부르며, 이 구조가 이 글에서 다루는 거의 모든 논점의 출발점이다.</p>
+<table data-ke-align="alignLeft"><caption>AOA 기본 사양 (출처: iShares 공식 팩트시트)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>iShares Core 80/20 Aggressive Allocation ETF</td>
+</tr>
+<tr>
+<td>추종 지수</td>
+<td>S&amp;P Target Risk Aggressive Index</td>
+</tr>
+<tr>
+<td>자산군 분류</td>
+<td>Multi Asset (복수 자산)</td>
+</tr>
+<tr>
+<td>상장일</td>
+<td>2008-11-04</td>
+</tr>
+<tr>
+<td>거래소</td>
+<td>NYSE Arca</td>
+</tr>
+<tr>
+<td>분배 주기</td>
+<td>분기 1회</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>대표성 표본추출 (representative sampling)</td>
+</tr>
+<tr>
+<td>보유 구조</td>
+<td>재간접 &mdash; 다른 ETF를 편입</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 눈여겨볼 것은 자산군 분류가 '주식'도 '채권'도 아닌 '복수 자산'이라는 점이다. 이 분류는 뒤에서 다룰 국내 퇴직연금 계좌의 위험자산&middot;안전자산 구분과 직접 연결되지 않는다. 미국 상품 분류와 한국 연금 규제 분류는 서로 다른 체계이며, 하나에서 다른 하나를 유추할 수 없다.</p>
+<h2 data-ke-size="size26">80/20이라는 숫자는 누가 정하는가?</h2>
+<p data-ke-size="size16">운용사가 정하지 않는다. 지수 규칙에 고정돼 있다. S&amp;P Target Risk 지수 시리즈는 네 개의 지수로 구성되며, 각 지수의 주식&middot;채권 비중은 방법론 문서에 숫자로 못 박혀 있다.</p>
+<table data-ke-align="alignLeft"><caption>S&amp;P Target Risk 지수 4종과 대응 iShares 상품 (출처: S&amp;P DJI 방법론)</caption>
+<thead>
+<tr>
+<th>지수</th>
+<th>주식</th>
+<th>채권</th>
+<th>대응 티커</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S&amp;P Target Risk Conservative</td>
+<td>30%</td>
+<td>70%</td>
+<td>AOK</td>
+</tr>
+<tr>
+<td>S&amp;P Target Risk Moderate</td>
+<td>40%</td>
+<td>60%</td>
+<td>AOM</td>
+</tr>
+<tr>
+<td>S&amp;P Target Risk Balanced</td>
+<td>60%</td>
+<td>40%</td>
+<td>AOR</td>
+</tr>
+<tr>
+<td>S&amp;P Target Risk Aggressive</td>
+<td>80%</td>
+<td>20%</td>
+<td>AOA</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">비중이 규칙으로 고정돼 있다는 것은 두 가지를 뜻한다. 첫째, 운용역의 시장 전망에 따라 주식 비중이 늘거나 줄지 않는다. 둘째, 시장이 움직여 비중이 틀어지면 다시 80/20으로 되돌리는 작업이 상품 안에서 자동으로 일어난다. 투자자가 직접 리밸런싱하지 않아도 된다는 뜻이며, 동시에 투자자가 비중을 조절할 여지도 없다는 뜻이다.</p>
+<h2 data-ke-size="size26">이 지수는 무엇으로 구성되는가?</h2>
+<p data-ke-size="size16">개별 종목이 아니다. 방법론 문서는 적격 증권의 범위를 "오직 상장지수펀드(ETF)"로 규정하고, 자산군별로 어떤 ETF를 쓸지를 티커까지 명시한다.</p>
+<table data-ke-align="alignLeft"><caption>지수 구성 ETF 7종과 담당 자산군 (출처: S&amp;P DJI 방법론)</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>자산군</th>
+<th>지정 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">주식 &mdash; 선진</td>
+<td>미국 대형</td>
+<td>IVV</td>
+</tr>
+<tr>
+<td>미국 중형</td>
+<td>IJH</td>
+</tr>
+<tr>
+<td>미국 소형</td>
+<td>IJR</td>
+</tr>
+<tr>
+<td>미국 외 선진</td>
+<td>IDEV</td>
+</tr>
+<tr>
+<td>주식 &mdash; 신흥</td>
+<td>신흥국</td>
+<td>IEMG</td>
+</tr>
+<tr>
+<td rowspan="2">채권</td>
+<td>광역 채권</td>
+<td>IUSB</td>
+</tr>
+<tr>
+<td>국제 종합채권</td>
+<td>IAGG</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">AOA 한 종목을 사면 실제로는 이 7개 ETF를 정해진 비율로 사는 것과 같다. 그리고 이 7종은 전부 같은 발행사(iShares) 상품이다. 이것이 다음 문단의 논점이다.</p>
+<h2 data-ke-size="size26">외부 지수사가 왜 특정 발행사 상품만 지정하는가?</h2>
+<p data-ke-size="size16">S&amp;P Dow Jones Indices는 블랙록&middot;iShares의 계열사가 아니다. 즉 지수 제공자는 발행사로부터 독립돼 있다. 그런데 그 독립적인 지수사가 만든 규칙이 구성종목으로 특정 발행사 상품만 지목한다.</p>
+<p data-ke-size="size16">일반적으로 "이 ETF는 계열 지수를 쓰는가, 외부 독립 지수를 쓰는가"는 지수 산출의 독립성을 가늠하는 질문으로 통한다. AOA는 그 질문만으로는 판정이 되지 않는 사례다. 지수사는 외부이고 독립이지만, 규칙의 내용 자체가 한 발행사 상품군을 전제한다. 독립성은 <b>산출 주체</b>와 <b>구성 규칙의 내용</b> 두 층위에서 따로 확인해야 한다.</p>
+<p data-ke-size="size16">[사실] 방법론 문서는 구성 ETF를 티커로 열거한다. [판단] 이 구조에서 지수사의 독립성은 "누가 계산하는가"에는 적용되지만 "무엇을 담는가"에는 제한적으로만 적용된다고 보는 것이 타당하다.</p>
+<h2 data-ke-size="size26">7종 사이의 비중은 어떻게 갈리는가?</h2>
+<p data-ke-size="size16">주식 80%와 채권 20%는 고정이지만, 그 80% 안에서 미국과 미국 외, 대형과 중소형이 어떻게 나뉘는지는 규칙에 따라 계산된다. 재량이 아니라 산식이다.</p>
+<table data-ke-align="alignLeft"><caption>비중 결정 3단계 (출처: S&amp;P DJI 방법론 Index Construction)</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>기준</th>
+<th>산출 방식</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. 선진 vs 신흥</td>
+<td>S&amp;P Developed BMI &middot; S&amp;P Emerging BMI</td>
+<td>유동주식 조정 시가총액 비율</td>
+</tr>
+<tr>
+<td>2. 미국 vs 미국 외 선진</td>
+<td>S&amp;P United States BMI &middot; S&amp;P Developed Ex-U.S. BMI</td>
+<td>선진 BMI 내 상대 비중</td>
+</tr>
+<tr>
+<td>3. 미국 내 규모 배분</td>
+<td>S&amp;P 500 &middot; MidCap 400 &middot; SmallCap 600</td>
+<td>세 지수 시가총액 상대 비율</td>
+</tr>
+<tr>
+<td>4. 채권 내부</td>
+<td>&mdash;</td>
+<td>IUSB 85% &middot; IAGG 15% <b>고정</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">주식 쪽은 시장이 커지면 비중이 따라 커지는 시가총액 연동이고, 채권 쪽은 시장과 무관하게 85대15로 고정돼 있다. 같은 상품 안에 성격이 다른 두 규칙이 병존한다. 채권의 85/15는 2016-01-29 개편으로 도입된 규칙이며, 그전에는 채권 내부도 지수 시가총액으로 갈랐다.</p>
+<h2 data-ke-size="size26">리밸런싱은 언제 일어나는가?</h2>
+<table data-ke-align="alignLeft"><caption>지수 리밸런싱 일정 (출처: S&amp;P DJI 방법론 Index Maintenance)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주기</td>
+<td>반기 (연 2회)</td>
+</tr>
+<tr>
+<td>실행일</td>
+<td>4월&middot;10월 마지막 영업일 (T)</td>
+</tr>
+<tr>
+<td>데이터 기준일</td>
+<td>3월&middot;9월 마지막 영업일</td>
+</tr>
+<tr>
+<td>발표일</td>
+<td>T &minus; 5</td>
+</tr>
+<tr>
+<td>가격 기준일</td>
+<td>T &minus; 5</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 실무적으로 중요한 점은, 리밸런싱 사이의 약 6개월 동안에는 비중이 80/20에서 벗어난 채로 움직인다는 것이다. 주식이 크게 오른 구간에서는 주식 비중이 80%를 넘어선 상태로 유지되고, 급락 구간에서는 그 아래로 내려간 상태가 이어진다. "80/20이 항상 유지된다"는 이해는 정확하지 않다. 정확한 서술은 "연 2회 80/20으로 되돌린다"이다.</p>
+<p data-ke-size="size16">이 지점은 국내 채권혼합형 ETF 일부가 채택한 <b>일별 리밸런싱</b>과 정면으로 대비된다. 뒤의 비교표에서 다시 다룬다.</p>
+<h2 data-ke-size="size26">재간접이면 보수가 두 번 붙는가?</h2>
+<p data-ke-size="size16">재간접 구조에서는 상위 펀드의 보수와 편입된 하위 펀드의 보수가 이중으로 발생한다. 미국 공시 체계는 이 하위 펀드 몫을 취득펀드 비용(Acquired Fund Fees and Expenses, AFFE)이라는 별도 항목으로 표시한다.</p>
+<p data-ke-size="size16">AOA에는 이에 대한 계약상 장치가 있다. [사실] SEC 제출 서류에 따르면 운용사(BFA)는 계열 펀드 &mdash; 구체적으로 iShares Trust와 iShares, Inc.의 다른 시리즈 &mdash; 편입에서 발생한 취득펀드 비용에 해당하는 금액만큼 자사 운용보수를 면제하기로 계약했다. 다만 면제액이 운용보수 자체를 넘지는 않는다는 단서가 붙는다.</p>
+<p data-ke-size="size16">이 구조가 중요한 이유는 재간접 상품이라고 다 같지 않다는 것을 보여주기 때문이다. 비계열 펀드를 담는 재간접 상품에서는 이런 상쇄 장치가 작동하지 않는다. 재간접이라는 단어만 보고 비용 구조를 유추하면 안 되고, <b>편입 대상이 계열인지 아닌지</b>를 먼저 확인해야 한다.</p>
+<p data-ke-size="size16">한편 공시 문서에는 운용보수&middot;기타비용&middot;취득펀드 비용&middot;보수면제&middot;순비용이 각각 다른 줄에 나란히 실린다. 하나의 상품에 대해 "총보수가 얼마인가"라는 질문의 답이 문서 안에서 여러 개로 존재한다는 뜻이다. 본 블로그가 비용 수치를 본문에 싣지 않는 이유가 여기에 있다. 확인은 발행사 공식 문서에서 직접 하시기 바란다.</p>
+<h2 data-ke-size="size26">구성 ETF 하나에 문제가 생기면 어떻게 되는가?</h2>
+<p data-ke-size="size16">지수 방법론은 구성 ETF의 편출 조건을 명시한다. 해당 ETF가 자기 벤치마크를 제대로 추종하지 못하거나, 다른 이유로 벤치마크의 합리적 대용물 기능을 상실하거나, 운용 능력을 훼손하는 중대한 사건이 발생하면 지수위원회 재량으로 지수에서 제외할 수 있다. 상장폐지된 ETF는 지수에서 제거된다.</p>
+<p data-ke-size="size16">여기서 파생되는 구조가 <b>2층 추적오차</b>다. AOA는 지수를 추종하고, 지수의 구성종목인 7개 ETF는 각자의 벤치마크를 추종한다. 오차가 두 층에서 각각 발생한다. 단일 지수를 직접 복제하는 일반 ETF에는 없는 층이다.</p>
+<h2 data-ke-size="size26">이 지수와 상품의 이름은 어떻게 바뀌어 왔는가?</h2>
+<table data-ke-align="alignLeft"><caption>지수&middot;상품 개편 이력 (출처: S&amp;P DJI 방법론 Appendix A, iShares 공시)</caption>
+<thead>
+<tr>
+<th>시점</th>
+<th>변경 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2016-01-29</td>
+<td>채권 적격 자산군에 국제 종합채권 추가. 채권 내부 비중 규칙을 IUSB 85% &middot; IAGG 15% 고정으로 변경</td>
+</tr>
+<tr>
+<td>2017-10-31</td>
+<td>리밸런싱을 연 1회(10월)에서 반기(4&middot;10월)로 변경. 선진국 주식 분류를 「아시아태평양&middot;유럽」에서 「미국 외 선진」 하나로 통합. 채권 자산군을 4종에서 2종으로 축소</td>
+</tr>
+<tr>
+<td>2025-02-19</td>
+<td>S&amp;P Target Risk <b>Growth</b> Index &rarr; S&amp;P Target Risk <b>Balanced</b> Index로 지수 명칭 변경 (AOR 해당)</td>
+</tr>
+<tr>
+<td>시점 [확인 필요]</td>
+<td>상품명에 비중 표기 추가: iShares Core Aggressive Allocation ETF &rarr; iShares Core <b>80/20</b> Aggressive Allocation ETF</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이 표에서 실질적으로 가장 중요한 항목은 2017-10-31이다. 그 이전 구간의 이 지수는 선진국 주식을 아시아태평양과 유럽으로 나눠 담았고 채권도 4개 자산군으로 쪼개 담았다. 지금과 구성이 다르다. 즉 <b>장기 성과 그래프의 앞 구간과 뒤 구간은 서로 다른 규칙의 결과</b>다.</p>
+<p data-ke-size="size16">명칭 변경도 실무적 함정이 된다. AOR의 지수는 2025년 2월까지 '성장(Growth)'이었고 지금은 '균형(Balanced)'이다. 같은 티커, 같은 60/40 비중인데 이름의 어감이 반대에 가깝게 바뀌었다. 오래된 자료와 최신 자료를 대조할 때 이름만 보고 다른 상품으로 오인하거나 성격이 바뀐 것으로 오해할 수 있다.</p>
+<h2 data-ke-size="size26">장기 차트를 볼 때 무엇을 주의해야 하는가?</h2>
+<table data-ke-align="alignLeft"><caption>지수 기준일 정보 (출처: S&amp;P DJI 방법론 Base Dates and History Availability)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>날짜&middot;값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수 산출 개시일(Launch Date)</td>
+<td>2008-09-25</td>
+</tr>
+<tr>
+<td>최초 값 존재일(First Value Date)</td>
+<td>2000-12-31</td>
+</tr>
+<tr>
+<td>기준일(Base Date)</td>
+<td>2007-01-31</td>
+</tr>
+<tr>
+<td>기준값</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AOA 상장일</td>
+<td>2008-11-04</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">산출 개시일은 2008년인데 값은 2000년부터 존재한다. 그 사이 구간은 실제 산출값이 아니라 <b>사후에 규칙을 소급 적용해 만든 백테스트</b>다. 방법론 문서 자체가 이를 명시하고, 백테스트는 결과를 이미 아는 상태에서 만들어지므로 생존편향과 후견지명이 개입할 수 있다고 경고한다.</p>
+<p data-ke-size="size16">따라서 "2000년부터의 장기 성과"로 제시된 자료를 볼 때는 어디까지가 실제 산출이고 어디부터가 소급 계산인지를 구분해야 한다. AOA 상품 자체의 실적은 2008-11-04 이후에만 존재한다.</p>
+<h2 data-ke-size="size26">TDF와는 무엇이 다른가?</h2>
+<p data-ke-size="size16">둘 다 주식과 채권을 함께 담는다는 점은 같다. 결정적 차이는 <b>비중이 시간에 따라 변하는지</b>다.</p>
+<p data-ke-size="size16">TDF는 목표 시점이 가까워질수록 주식 비중을 낮추는 경로(글라이드패스)를 내장한다. 20년 뒤와 지금의 비중이 다르도록 설계돼 있다. AOA 계열은 반대다. 80/20은 몇 년이 지나도 80/20이다. 나이가 들어도 상품이 알아서 보수적으로 바뀌지 않는다.</p>
+<p data-ke-size="see16">이 차이는 선택 기준을 갈라놓는다. "은퇴 시점에 맞춰 알아서 조정되기를 원한다"면 TDF 계열이고, "내가 정한 비중이 시간과 무관하게 유지되기를 원한다"면 목표위험(target risk) 계열이다. 후자를 고르면 위험 조절 책임은 투자자에게 남는다 &mdash; 나이가 들었을 때 AOA에서 AOM이나 AOK로 옮기는 판단을 스스로 해야 한다. 국내 TDF ETF의 빈티지&middot;글라이드패스 구조는 <a href="/372">TDF ETF 비교 글</a>에서 따로 다뤘다.</p>
+<h2 data-ke-size="size26">국내 상장 채권혼합형과는 무엇이 다른가?</h2>
+<table data-ke-align="alignLeft"><caption>AOA &middot; 국내 채권혼합형 ETF &middot; 국내 TDF ETF 구조 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>AOA</th>
+<th>국내 채권혼합형 ETF</th>
+<th>국내 TDF ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>비중 결정 근거</td>
+<td>목표 위험 프로파일</td>
+<td>퇴직연금 안전자산 인정 요건</td>
+<td>목표 시점 글라이드패스</td>
+</tr>
+<tr>
+<td>대표 비중</td>
+<td>주식 80 / 채권 20</td>
+<td>주식 50 / 채권 50 계열이 다수</td>
+<td>시점별 변동</td>
+</tr>
+<tr>
+<td>비중 복원 주기</td>
+<td>반기 (4&middot;10월)</td>
+<td>일별 복원 상품 존재</td>
+<td>상품별 상이</td>
+</tr>
+<tr>
+<td>편입 대상</td>
+<td>계열 ETF 7종</td>
+<td>개별 종목&middot;채권 직접 편입이 일반적</td>
+<td>상품별 상이</td>
+</tr>
+<tr>
+<td>운용 방식</td>
+<td>패시브 (지수 추종)</td>
+<td>패시브&middot;액티브 혼재</td>
+<td>액티브 다수</td>
+</tr>
+<tr>
+<td>퇴직연금 계좌</td>
+<td>편입 불가</td>
+<td>안전자산 인정 시 100% 한도</td>
+<td>적격 시 100% 한도</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">표에서 첫 줄이 가장 중요하다. 겉보기에는 둘 다 "주식과 채권을 섞은 ETF"지만, 비중이 나온 <b>이유</b>가 다르다. AOA의 80/20은 감내 가능한 위험 수준에서 역산한 숫자다. 국내 혼합50 계열의 50/50은 퇴직연금 계좌에서 안전자산으로 인정받기 위한 규제 요건에서 나온 숫자에 가깝다. 목적이 다른 숫자를 나란히 놓고 "어느 쪽 비중이 더 합리적인가"를 비교하는 것은 성립하지 않는다.</p>
+<p data-ke-size="size16">[확인 필요] 개별 혼합형 ETF의 실제 주식 편입 비중은 상품마다 다르며, 같은 '혼합형' 표기라도 안전자산 인정 여부가 갈릴 수 있다. 투자설명서와 운용사 공시로 개별 확인이 필요하다. 국내 채권혼합형 선택 기준은 <a href="/228">IRP 채권혼합형 ETF 선택 기준 글</a>에 정리돼 있다.</p>
+<p data-ke-size="size16">[정보부족] S&amp;P Target Risk 지수를 추종하는 국내 상장 ETF의 존재 여부는 확인하지 못했다. 부재로 단정하지 않는다.</p>
+<h2 data-ke-size="size26">한국 투자자는 어떤 계좌에서 살 수 있는가?</h2>
+<p data-ke-size="size16">이 질문의 답이 AOA에 관한 한 가장 실무적이다. AOA는 미국 증시에 상장된 해외 ETF이므로, 국내 연금저축계좌&middot;IRP&middot;퇴직연금(DC) 계좌에서는 매매할 수 없다. 이들 계좌는 국내 상장 상품만 담을 수 있다.</p>
+<table data-ke-align="alignLeft"><caption>계좌별 편입 가능 여부</caption>
+<thead>
+<tr>
+<th>계좌</th>
+<th>AOA 편입</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>일반 위탁계좌 (해외주식)</td>
+<td>가능</td>
+<td>사실상 유일한 경로</td>
+</tr>
+<tr>
+<td>연금저축계좌</td>
+<td>불가</td>
+<td>국내 상장 상품만 가능</td>
+</tr>
+<tr>
+<td>IRP &middot; 퇴직연금 DC</td>
+<td>불가</td>
+<td>동일</td>
+</tr>
+<tr>
+<td>ISA</td>
+<td>불가</td>
+<td>동일</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">결과적으로 "자산배분을 한 종목으로 끝내고 싶다"는 목적을 연금계좌 안에서 달성하려는 사람에게 AOA는 후보가 되지 못한다. 그 목적에서는 국내 상장 TDF&middot;자산배분&middot;혼합형 ETF가 검토 대상이 된다. 반대로 일반계좌에서 장기 보유할 목적이라면 AOA가 후보에 들어온다. 계좌 선택과 상품 선택의 순서가 뒤바뀌면 안 된다 &mdash; <b>계좌가 먼저이고 상품이 나중</b>이다.</p>
+<h2 data-ke-size="size26">세금은 어떻게 되는가?</h2>
+<table data-ke-align="alignLeft"><caption>한국 거주자 기준 과세 구조 (일반계좌)</caption>
+<thead>
+<tr>
+<th>소득 유형</th>
+<th>과세</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22% (지방소득세 포함)</td>
+<td>연 250만 원 기본공제, 분류과세</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>배당소득</td>
+<td>미국에서 원천징수 후 국내 정산</td>
+</tr>
+<tr>
+<td>금융소득 합산</td>
+<td>연 2,000만 원 초과 시</td>
+<td>배당소득이 종합과세 대상에 포함</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">양도소득세는 분류과세이므로 다른 소득과 합산되지 않고, 손익 통산과 연 250만 원 공제가 적용된다. 반면 분기마다 지급되는 분배금은 배당소득이며, 다른 금융소득과 합쳐 연 2,000만 원을 넘으면 종합과세 구간에 들어간다. 분배 주기가 분기라는 점은 이 관점에서 확인해 둘 필요가 있다.</p>
+<p data-ke-size="size16">여기서 흔한 오해 하나를 짚는다. 미국 세법이 이 상품에 부여하는 취급 &mdash; 예컨대 미국 거주자에게 적용되는 각종 우대 &mdash; 은 한국 거주자에게 이전되지 않는다. 한국 거주자의 과세는 한국 세법으로 판단한다. 미국 직접투자와 국내 상장 상품의 과세 차이는 <a href="/400">미국 직접투자 vs 국내 상장 글</a>에 정리돼 있다.</p>
+<p data-ke-size="size16">[진행 중] 금융투자소득세는 2024-12-10 폐지가 확정됐다. 2026년 재도입 논의는 진행 중이며 확정된 사항이 아니다.</p>
+<h2 data-ke-size="size26">환율은 어디에 몇 번 걸리는가?</h2>
+<p data-ke-size="size16">AOA는 달러 표시 상품이므로 원화 투자자에게는 원/달러 환노출이 기본으로 발생한다. 그런데 층이 하나 더 있다. AOA가 담는 IDEV&middot;IEMG는 미국 외 자산에 투자하므로, 그 안에서 달러 대 현지통화 환노출이 또 발생한다.</p>
+<p data-ke-size="size16">즉 원화 &rarr; 달러 &rarr; 현지통화의 2단 구조다. 미국 주식만 담는 ETF에는 없는 층이며, 성과 해석 시 "지수는 올랐는데 원화 환산 수익은 다르다"가 두 지점에서 발생할 수 있다.</p>
+<p data-ke-size="size16">[확인 필요] 채권 슬리브의 IAGG가 통화 헤지를 적용하는지 여부는 해당 상품 투자설명서에서 별도 확인이 필요하다. 헤지 여부에 따라 채권 부분의 환 성격이 달라진다.</p>
+<h2 data-ke-size="size26">정리 &mdash; 어떤 사람에게 후보가 되는가?</h2>
+<p data-ke-size="size16">AOA는 "비중 결정을 규칙에 맡기고 종목 선택도 하지 않겠다"는 선택이다. 그 대가로 포기하는 것은 비중 조절권과 연금계좌 접근성이다. 얻는 것은 리밸런싱 실행 부담의 제거와 단일 종목 관리다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">계좌 확인 (연금계좌 편입 불가 여부)</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">비중 고정 vs 글라이드패스 선택</p>
+<progress value="85" max="100"></progress>
+<p data-ke-size="size16">재간접 비용 구조와 면제 약정 확인</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">2017년 지수 개편 이전 구간 성과 해석</p>
+<progress value="55" max="100"></progress>
+<p data-ke-size="size16">환노출 2단 구조</p>
+<progress value="40" max="100"></progress>
