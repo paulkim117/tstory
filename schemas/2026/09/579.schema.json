@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-17T01:33:00+09:00",
+    "datePublished": "2026-09-17T01:32:11+09:00",
+    "description": "AOK는 iShares 목표위험 4종 중 주식 비중이 가장 낮은 상품이다. 이름에 '보수적(Conservative)'이 들어가고 설명서에도 자본 보존이 목적으로 적혀 있다. 그런데 같은 설명서는 이 펀드가 시장 하락 국면에서 방어 포지션을 취하지 않는다고도 명시한다. 이 글은 그 두 문장이 어떻게 양립하는지, 그리고 '보수적'이라는 라벨이 실제로 무엇을 보장하고 무엇을 보장하지 않는지를 1차 출처 기준으로 정리한다.AOK는 어떤 ETF인가?AOK 기본 사양 (출처: SEC 제출 요약투자설명서 Form 497K)항목내용정식 명칭iShares Core 30/70 Conservative Allocation ETF추종 지수S&P Target Risk Conservative Index목표 배분주식 30% · 채권..",
+    "headline": "AOK ETF란? '보수적'이라는 이름이 하락장 방어를 뜻하지 않는 이유 — 설명서가 직접 밝힌 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/579",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/579"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "AOK"
+      },
+      {
+        "@type": "Thing",
+        "name": "자산배분 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "S&P Target Risk Conservative Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-17T09:00:00+09:00",
+    "datePublished": "2026-09-17T09:00:00+09:00",
+    "description": "AOK는 S&P Target Risk Conservative Index를 추종하는 30/70 자산배분 ETF다. 투자설명서가 명시한 방어 포지션 미채택, 자본 보존과 원금 보장의 차이, 주식 30%가 남아 있는 이유, 운용사의 편입 펀드 교체 재량, 4형제 선택 프레임을 1차 출처 기준으로 정리했다.",
+    "headline": "AOK ETF란? '보수적'이라는 이름이 하락장 방어를 뜻하지 않는 이유 — 설명서가 직접 밝힌 것",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/579",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/579"
+  }
+]

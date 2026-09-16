@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-17T00:32:00+09:00",
+    "datePublished": "2026-09-17T00:31:42+09:00",
+    "description": "AOM은 주식 40·채권 60으로 채권 쪽이 더 무거운 자산배분 ETF다. 채권 비중이 높다는 이유로 '안전한 상품'으로 읽히기 쉽지만, 정확히는 위험이 줄어든 것이 아니라 위험의 종류가 바뀐 상품이다. 이 글은 그 전환의 내용과, 주식 40%라는 숫자가 한국 연금 규정의 경계선과 겹치면서 생기는 오해를 1차 출처 기준으로 정리한다.AOM은 어떤 ETF인가?AOM은 iShares Core 40/60 Moderate Allocation ETF의 티커다. S&P Target Risk Moderate Index를 추종하며, 개별 종목이 아니라 다른 iShares ETF를 담는 재간접(fund of funds) 구조다.AOM 기본 사양 (출처: 발행사 공시·투자설명서)항목내용정식 명칭iShares Core 40..",
+    "headline": "AOM ETF란? 채권 60%가 '안전'을 뜻하지 않는 이유 — 주식 40%가 한국 연금 규정 경계선과 겹치는 지점",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/578",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/578"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "AOM"
+      },
+      {
+        "@type": "Thing",
+        "name": "채권혼합형"
+      },
+      {
+        "@type": "Thing",
+        "name": "S&P Target Risk Moderate Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-17T09:00:00+09:00",
+    "datePublished": "2026-09-17T09:00:00+09:00",
+    "description": "AOM은 S&P Target Risk Moderate Index를 추종하는 40/60 자산배분 ETF다. 채권 우위 구조에서 주된 위험이 금리로 전환되는 이유, 최소 80% 투자 정책과 현금성 버킷, 주식 40%와 한국 퇴직연금 분류 경계선의 관계, 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "AOM ETF란? 채권 60%가 '안전'을 뜻하지 않는 이유 — 주식 40%가 한국 연금 규정 경계선과 겹치는 지점",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/578",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/578"
+  }
+]

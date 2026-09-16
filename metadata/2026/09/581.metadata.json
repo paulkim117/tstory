@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-16",
+  "body_html_length": 8972,
+  "canonical_url": "https://mystock-note.tistory.com/581",
+  "content_hash": "d412eb408ece8e36734d2382597215535c04cce86076304e45d68845104b21b3",
+  "json_ld_count": 2,
+  "meta_description": "채권 ETF의 주된 위험은 금리다. 금리가 오르면 채권 가격이 떨어지고 ETF 가격도 따라 떨어진다. AGRH는 그 금리 위험을 파생상품으로 걷어내려는 상품이다. 그런데 금리 위험을 제거하면 무엇이 남는가. 이 글은 그 질문을 1차 출처 기준으로 정리한다.AGRH는 어떤 ETF인가?AGRH 기본 사양 (출처: 발행사 상품 공시)항목내용정식 명칭iShares Interest Rate Hedged U.S. Aggregate Bond ETF추종 지수BlackRock Interest Rate Hedged U.S. Aggregate Bond Index지수 제공자발행사 계열 (BlackRock)상장일2022-06-22ISINUS46431W5316복제 방식합성 — 파생상품 사용운용 방식패시브기초 보유iShares C..",
+  "modified_time": "2026-09-17T03:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "채권 ETF의 주된 위험은 금리다. 금리가 오르면 채권 가격이 떨어지고 ETF 가격도 따라 떨어진다. AGRH는 그 금리 위험을 파생상품으로 걷어내려는 상품이다. 그런데 금리 위험을 제거하면 무엇이 남는가. 이 글은 그 질문을 1차 출처 기준으로 정리한다.AGRH는 어떤 ETF인가?AGRH 기본 사양 (출처: 발행사 상품 공시)항목내용정식 명칭iShares Interest Rate Hedged U.S. Aggregate Bond ETF추종 지수BlackRock Interest Rate Hedged U.S. Aggregate Bond Index지수 제공자발행사 계열 (BlackRock)상장일2022-06-22ISINUS46431W5316복제 방식합성 — 파생상품 사용운용 방식패시브기초 보유iShares C..",
+  "og_title": "AGRH ETF란? 금리 위험만 걷어낸 채권 ETF — 남는 것은 신용 위험이다",
+  "post_id": "581",
+  "published_time": "2026-09-17T03:37:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AGRH ETF란? 금리 위험만 걷어낸 채권 ETF — 남는 것은 신용 위험이다",
+  "url": "https://mystock-note.tistory.com/581"
+}

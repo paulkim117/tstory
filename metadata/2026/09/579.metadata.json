@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-16",
+  "body_html_length": 9160,
+  "canonical_url": "https://mystock-note.tistory.com/579",
+  "content_hash": "556a6aa5f98af4795c4b85bbd67da5a3e59b47c9a4d3246a8aea89f93ba83421",
+  "json_ld_count": 2,
+  "meta_description": "AOK는 iShares 목표위험 4종 중 주식 비중이 가장 낮은 상품이다. 이름에 '보수적(Conservative)'이 들어가고 설명서에도 자본 보존이 목적으로 적혀 있다. 그런데 같은 설명서는 이 펀드가 시장 하락 국면에서 방어 포지션을 취하지 않는다고도 명시한다. 이 글은 그 두 문장이 어떻게 양립하는지, 그리고 '보수적'이라는 라벨이 실제로 무엇을 보장하고 무엇을 보장하지 않는지를 1차 출처 기준으로 정리한다.AOK는 어떤 ETF인가?AOK 기본 사양 (출처: SEC 제출 요약투자설명서 Form 497K)항목내용정식 명칭iShares Core 30/70 Conservative Allocation ETF추종 지수S&P Target Risk Conservative Index목표 배분주식 30% · 채권..",
+  "modified_time": "2026-09-17T01:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AOK는 iShares 목표위험 4종 중 주식 비중이 가장 낮은 상품이다. 이름에 '보수적(Conservative)'이 들어가고 설명서에도 자본 보존이 목적으로 적혀 있다. 그런데 같은 설명서는 이 펀드가 시장 하락 국면에서 방어 포지션을 취하지 않는다고도 명시한다. 이 글은 그 두 문장이 어떻게 양립하는지, 그리고 '보수적'이라는 라벨이 실제로 무엇을 보장하고 무엇을 보장하지 않는지를 1차 출처 기준으로 정리한다.AOK는 어떤 ETF인가?AOK 기본 사양 (출처: SEC 제출 요약투자설명서 Form 497K)항목내용정식 명칭iShares Core 30/70 Conservative Allocation ETF추종 지수S&P Target Risk Conservative Index목표 배분주식 30% · 채권..",
+  "og_title": "AOK ETF란? '보수적'이라는 이름이 하락장 방어를 뜻하지 않는 이유 — 설명서가 직접 밝힌 것",
+  "post_id": "579",
+  "published_time": "2026-09-17T01:32:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AOK ETF란? '보수적'이라는 이름이 하락장 방어를 뜻하지 않는 이유 — 설명서가 직접 밝힌 것",
+  "url": "https://mystock-note.tistory.com/579"
+}

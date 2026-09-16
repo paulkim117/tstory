@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-16",
+  "body_html_length": 10258,
+  "canonical_url": "https://mystock-note.tistory.com/578",
+  "content_hash": "09cc90b388fe05343961ee1f88e4110e4d11ffcc137f8c455f4b8fa356da3c59",
+  "json_ld_count": 2,
+  "meta_description": "AOM은 주식 40·채권 60으로 채권 쪽이 더 무거운 자산배분 ETF다. 채권 비중이 높다는 이유로 '안전한 상품'으로 읽히기 쉽지만, 정확히는 위험이 줄어든 것이 아니라 위험의 종류가 바뀐 상품이다. 이 글은 그 전환의 내용과, 주식 40%라는 숫자가 한국 연금 규정의 경계선과 겹치면서 생기는 오해를 1차 출처 기준으로 정리한다.AOM은 어떤 ETF인가?AOM은 iShares Core 40/60 Moderate Allocation ETF의 티커다. S&P Target Risk Moderate Index를 추종하며, 개별 종목이 아니라 다른 iShares ETF를 담는 재간접(fund of funds) 구조다.AOM 기본 사양 (출처: 발행사 공시·투자설명서)항목내용정식 명칭iShares Core 40..",
+  "modified_time": "2026-09-17T00:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AOM은 주식 40·채권 60으로 채권 쪽이 더 무거운 자산배분 ETF다. 채권 비중이 높다는 이유로 '안전한 상품'으로 읽히기 쉽지만, 정확히는 위험이 줄어든 것이 아니라 위험의 종류가 바뀐 상품이다. 이 글은 그 전환의 내용과, 주식 40%라는 숫자가 한국 연금 규정의 경계선과 겹치면서 생기는 오해를 1차 출처 기준으로 정리한다.AOM은 어떤 ETF인가?AOM은 iShares Core 40/60 Moderate Allocation ETF의 티커다. S&P Target Risk Moderate Index를 추종하며, 개별 종목이 아니라 다른 iShares ETF를 담는 재간접(fund of funds) 구조다.AOM 기본 사양 (출처: 발행사 공시·투자설명서)항목내용정식 명칭iShares Core 40..",
+  "og_title": "AOM ETF란? 채권 60%가 '안전'을 뜻하지 않는 이유 — 주식 40%가 한국 연금 규정 경계선과 겹치는 지점",
+  "post_id": "578",
+  "published_time": "2026-09-17T00:31:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AOM ETF란? 채권 60%가 '안전'을 뜻하지 않는 이유 — 주식 40%가 한국 연금 규정 경계선과 겹치는 지점",
+  "url": "https://mystock-note.tistory.com/578"
+}

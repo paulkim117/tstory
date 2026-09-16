@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-16",
+  "body_html_length": 9109,
+  "canonical_url": "https://mystock-note.tistory.com/580",
+  "content_hash": "88fe726291459247205443bb210bb87945d4ab0d24ea28389d63398943390b3a",
+  "json_ld_count": 2,
+  "meta_description": "AAXJ는 일본을 뺀 아시아 주식에 한 번에 투자하는 ETF다. 그런데 이 상품을 한국 투자자가 살 때 반드시 먼저 확인해야 할 것이 있다. 기초지수의 신흥국 목록에 한국이 들어 있다. 이 글은 '아시아 ex 일본'이라는 이름이 정확히 어느 범위를 뜻하는지, 그리고 비슷한 이름의 다른 지수와 무엇이 갈리는지를 1차 출처 기준으로 정리한다.AAXJ는 어떤 ETF인가?AAXJ 기본 사양 (출처: 발행사 상품 공시·팩트시트)항목내용정식 명칭iShares MSCI All Country Asia ex Japan ETF추종 지수MSCI AC Asia ex Japan Index거래소Nasdaq투자 대상일본을 제외한 아시아 주식법적 분류1940년법상 분산형(diversified) 지정지수 제공자MSCI Inc. — 발..",
+  "modified_time": "2026-09-17T02:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AAXJ는 일본을 뺀 아시아 주식에 한 번에 투자하는 ETF다. 그런데 이 상품을 한국 투자자가 살 때 반드시 먼저 확인해야 할 것이 있다. 기초지수의 신흥국 목록에 한국이 들어 있다. 이 글은 '아시아 ex 일본'이라는 이름이 정확히 어느 범위를 뜻하는지, 그리고 비슷한 이름의 다른 지수와 무엇이 갈리는지를 1차 출처 기준으로 정리한다.AAXJ는 어떤 ETF인가?AAXJ 기본 사양 (출처: 발행사 상품 공시·팩트시트)항목내용정식 명칭iShares MSCI All Country Asia ex Japan ETF추종 지수MSCI AC Asia ex Japan Index거래소Nasdaq투자 대상일본을 제외한 아시아 주식법적 분류1940년법상 분산형(diversified) 지정지수 제공자MSCI Inc. — 발..",
+  "og_title": "AAXJ ETF란? '아시아 ex 일본'에 한국이 들어간다 — 아시아태평양과 한 단어 차이가 가르는 것",
+  "post_id": "580",
+  "published_time": "2026-09-17T02:32:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AAXJ ETF란? '아시아 ex 일본'에 한국이 들어간다 — 아시아태평양과 한 단어 차이가 가르는 것",
+  "url": "https://mystock-note.tistory.com/580"
+}
