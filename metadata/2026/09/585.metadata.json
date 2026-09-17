@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-17",
+  "body_html_length": 8443,
+  "canonical_url": "https://mystock-note.tistory.com/585",
+  "content_hash": "3f7f0f8b7a8b1413e7c91fc33e68bda3904afab3b28af2fab86a699471ecf2f1",
+  "json_ld_count": 2,
+  "meta_description": "대부분의 ETF는 시가총액이나 재무 지표로 종목을 고른다. CSD는 다르다. 편입 기준이 기업에게 일어난 사건 하나다 — 모회사에서 떨어져 나왔는가. 그리고 그 사건으로부터 4년이 지나면 실적과 무관하게 지수에서 빠진다. 이 글은 사건 기준 지수의 구조와, 한국의 '분할'과 무엇이 다른지를 1차 출처 기준으로 정리한다.CSD는 어떤 ETF인가?CSD 기본 사양 (출처: 발행사 공시)항목내용정식 명칭Invesco S&P Spin-Off ETF추종 지수S&P U.S. Spin-Off Index상장일2006-12-15복제 방식완전 복제투자 정책총자산의 최소 90%를 지수 구성종목 및 예탁증서에 투자법적 분류비분산형(non-diversified)지수 산출 방식총수익(gross total return) — 배당 ..",
+  "modified_time": "2026-09-18T03:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "대부분의 ETF는 시가총액이나 재무 지표로 종목을 고른다. CSD는 다르다. 편입 기준이 기업에게 일어난 사건 하나다 — 모회사에서 떨어져 나왔는가. 그리고 그 사건으로부터 4년이 지나면 실적과 무관하게 지수에서 빠진다. 이 글은 사건 기준 지수의 구조와, 한국의 '분할'과 무엇이 다른지를 1차 출처 기준으로 정리한다.CSD는 어떤 ETF인가?CSD 기본 사양 (출처: 발행사 공시)항목내용정식 명칭Invesco S&P Spin-Off ETF추종 지수S&P U.S. Spin-Off Index상장일2006-12-15복제 방식완전 복제투자 정책총자산의 최소 90%를 지수 구성종목 및 예탁증서에 투자법적 분류비분산형(non-diversified)지수 산출 방식총수익(gross total return) — 배당 ..",
+  "og_title": "CSD ETF란? 분사 4년이 지나면 성적과 무관하게 빠진다 — 사건이 기준인 지수",
+  "post_id": "585",
+  "published_time": "2026-09-18T03:41:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CSD ETF란? 분사 4년이 지나면 성적과 무관하게 빠진다 — 사건이 기준인 지수",
+  "url": "https://mystock-note.tistory.com/585"
+}

@@ -1,0 +1,285 @@
+<!--
+source: https://mystock-note.tistory.com/584
+backup_date: 2026-09-17
+post_id: 584
+-->
+<p data-ke-size="size16">원자재 ETF를 사면 원자재를 사는 것이라고 생각하기 쉽다. DBC는 그렇지 않다. 창고에 금속이나 곡물을 쌓아 두는 것이 아니라 선물계약을 굴린다. 그리고 이 상품의 수익은 추종 지수의 등락과 같지 않다 &mdash; 구조상 세 개의 항이 더해지고 빠진다. 이 글은 그 구조를 1차 출처 기준으로 분해한다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">DBC는 어떤 상품인가?</h2>
+<table data-ke-align="alignLeft"><caption>DBC 기본 사양 (출처: SEC 제출서류&middot;발행사 공시)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>Invesco DB Commodity Index Tracking Fund</td>
+</tr>
+<tr>
+<td>추종 지수</td>
+<td>DBIQ Optimum Yield Diversified Commodity Index <b>Excess Return</b></td>
+</tr>
+<tr>
+<td>거래소</td>
+<td>NYSE Arca</td>
+</tr>
+<tr>
+<td>CUSIP &middot; ISIN</td>
+<td>46138B103 &middot; US46138B1035</td>
+</tr>
+<tr>
+<td>설정일</td>
+<td>2006년 2월 [확인 필요] &mdash; 자료별로 2일&middot;3일 표기 상이</td>
+</tr>
+<tr>
+<td>법적 지위</td>
+<td>커모디티 풀 &mdash; Invesco Capital Management LLC가 관리오너&middot;CPO&middot;CTA</td>
+</tr>
+<tr>
+<td>수탁자</td>
+<td>Wilmington Trust Company (델라웨어)</td>
+</tr>
+<tr>
+<td>세무 서류</td>
+<td><b>Schedule K-1 발행</b></td>
+</tr>
+<tr>
+<td>리밸런싱&middot;재구성</td>
+<td>연 1회 (11월)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">표의 아래 세 줄이 이 상품을 일반 ETF와 갈라놓는다. 이것은 1940년 투자회사법에 따른 펀드가 아니라 <b>커모디티 풀</b>이며, 세무상 파트너십으로 취급돼 K-1 서류를 발행한다. 그리고 재구성이 연 1회뿐이다.</p>
+<h2 data-ke-size="size26">무엇을 담는가?</h2>
+<p data-ke-size="size16">[사실] 지수는 실물 원자재 14종의 거래소 상장 선물로 구성된다.</p>
+<table data-ke-align="alignLeft"><caption>구성 원자재 14종</caption>
+<thead>
+<tr>
+<th>부문</th>
+<th>품목</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>에너지</td>
+<td>WTI 경질저유황원유 &middot; 브렌트유 &middot; 난방유 &middot; RBOB 휘발유 &middot; 천연가스</td>
+</tr>
+<tr>
+<td>귀금속</td>
+<td>금 &middot; 은</td>
+</tr>
+<tr>
+<td>산업금속</td>
+<td>알루미늄 &middot; 아연 &middot; 구리(Grade A)</td>
+</tr>
+<tr>
+<td>농산물</td>
+<td>옥수수 &middot; 밀 &middot; 대두 &middot; 설탕</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">에너지가 5개 품목으로 가장 많다. 지수가 '분산(Diversified)'을 표방하지만 부문별 품목 수는 균등하지 않으며, 실제 비중은 명목 금액으로 정해진다. 따라서 이 상품의 가격은 에너지 시황에 크게 좌우되는 구조다.</p>
+<p data-ke-size="size16">[판단] 여기서 중요한 구분이 하나 있다. 원자재에 노출되는 ETF에는 두 갈래가 있다. 하나는 원자재를 <b>생산하는 기업의 주식</b>을 담는 것이고, 다른 하나는 원자재 <b>선물계약</b>을 담는 것이다. 앞의 유형은 주식 시장과 함께 움직이고, 뒤의 유형은 원자재 가격 자체를 따라간다. DBC는 후자다. 기업 주식형 구조는 <a href="/522">농업 ETF 글</a>에서 다뤘다.</p>
+<h2 data-ke-size="size26">지수가 오르면 내 수익도 그만큼인가?</h2>
+<p data-ke-size="size16">아니다. 지수 이름 끝에 붙은 <b>Excess Return</b>이 그 이유다.</p>
+<table data-ke-align="alignLeft"><caption>원자재 지수의 두 버전</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>포함하는 것</th>
+<th>제외하는 것</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>초과수익(ER)</td>
+<td>선물 가격 변동 + 롤 손익</td>
+<td><b>담보 자산의 이자수익</b></td>
+</tr>
+<tr>
+<td>총수익(TR)</td>
+<td>ER + 담보 이자수익</td>
+<td>&mdash;</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">선물은 계약 금액 전부를 미리 낼 필요가 없다. 증거금만 걸면 되고 나머지 자금은 남는다. 그 남는 자금을 어디에 두느냐에 따라 수익이 달라지는데, ER 지수는 <b>그 부분을 아예 계산에서 뺀 값</b>이다.</p>
+<p data-ke-size="size16">[사실] 발행사 설명에 따르면 이 펀드는 ER 지수의 등락에 국채 보유에서 나오는 이자수익과 머니마켓 수익을 더하고 펀드 비용을 뺀 결과를 추구한다. 국채 노출은 직접 보유뿐 아니라 잔존만기 12개월 이내 미국 국채 지수를 추종하는 ETF를 통해서도 얻는다.</p>
+<table data-ke-align="alignLeft"><caption>펀드 수익의 구성</caption>
+<thead>
+<tr>
+<th>항</th>
+<th>내용</th>
+<th>부호</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>ER 지수 등락 (선물 가격 + 롤 손익)</td>
+<td>&plusmn;</td>
+</tr>
+<tr>
+<td>2</td>
+<td>국채 이자수익</td>
+<td>+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>머니마켓 수익</td>
+<td>+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>펀드 비용</td>
+<td>&minus;</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[판단] 이 구조의 함의는 크다. 금리가 높은 국면에서는 2번 항이 커져 원자재 가격이 제자리여도 플러스 요인이 생기고, 금리가 낮으면 그 완충이 사라진다. <b>원자재 ETF의 성과에 금리가 개입한다</b>는 것은 직관에 반하지만 구조상 당연하다. 성과를 볼 때 ER 지수 차트와 상품 차트를 그대로 비교하면 안 되는 이유이기도 하다.</p>
+<h2 data-ke-size="size26">Optimum Yield는 무엇을 하는가?</h2>
+<p data-ke-size="size16">선물은 만기가 있다. 만기가 오면 다음 만기 계약으로 갈아타야 하고, 이를 롤오버라 한다. 이때 다음 계약 가격이 지금보다 비싸면(콘탱고) 갈아탈 때마다 손실이 누적된다.</p>
+<p data-ke-size="size16">지수 이름의 Optimum Yield는 이 문제에 대한 규칙이다. 만기가 임박한 계약으로 기계적으로 옮기는 대신, 선택 가능한 만기들 중 <b>내재 롤 수익이 가장 유리한 만기</b>를 고른다.</p>
+<table data-ke-align="alignLeft"><caption>롤 방식 두 갈래</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>규칙</th>
+<th>성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>표준 롤</td>
+<td>근월물 &rarr; 차월물로 순차 이동</td>
+<td>단순&middot;예측 가능</td>
+</tr>
+<tr>
+<td>최적 롤</td>
+<td>후보 만기 중 롤 수익이 유리한 것 선택</td>
+<td>콘탱고 손실 완화 시도</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[판단] 최적 롤은 콘탱고 손실을 줄이려는 장치이지 없애는 장치가 아니다. 시장 전체가 콘탱고면 어느 만기를 골라도 롤 손실은 발생한다. 또한 만기가 멀어질수록 현물 가격과의 연동이 느슨해지므로, 롤 손실을 줄이는 대신 <b>현물 추종력이 떨어지는</b> 맞교환이 생긴다. 단일 원자재에서 이 문제가 어떻게 나타나는지는 <a href="/557">USO 글</a>에 정리돼 있다.</p>
+<h2 data-ke-size="size26">재구성이 연 1회뿐인 것은 무슨 뜻인가?</h2>
+<p data-ke-size="size16">[사실] 펀드와 지수는 매년 11월에 리밸런싱&middot;재구성된다. 앞서 다룬 상품들이 분기 또는 월 단위로 조정하는 것과 대비된다.</p>
+<p data-ke-size="size16">연 1회 재구성은 두 가지를 뜻한다. 첫째, 비중이 1년 내내 표류한다. 특정 원자재가 크게 오르면 그 비중이 커진 상태로 유지된다. 둘째, 거래 비용과 회전율이 낮다. 다만 이는 <b>구성 비중</b>의 조정 주기이며, 만기 도래에 따른 <b>롤 거래는 그와 별개로 상시</b> 발생한다는 점을 혼동하면 안 된다.</p>
+<h2 data-ke-size="size26">지수는 누가 만들고 누가 소유하는가?</h2>
+<p data-ke-size="size16">이 상품의 지수 거버넌스는 3자로 갈린다.</p>
+<table data-ke-align="alignLeft"><caption>지수 관련 주체 구분</caption>
+<thead>
+<tr>
+<th>역할</th>
+<th>주체</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>상표&middot;지수 소유</td>
+<td>Deutsche Bank AG 및 계열</td>
+</tr>
+<tr>
+<td>지수 제공(산출)</td>
+<td>DWS Investment Management Americas Inc.</td>
+</tr>
+<tr>
+<td>운용(관리오너)</td>
+<td>Invesco Capital Management LLC &mdash; 라이선스 사용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[사실] 발행사 공시는 이 펀드의 지분이 Deutsche Bank 계열의 예금이나 채무가 아니며 그들이 보증하지 않는다고 명시하고, 지수 관련 당사자들이 이 펀드를 후원&middot;보증&middot;판매&middot;홍보하지 않는다고 밝힌다.</p>
+<p data-ke-size="size16">[판단] 상품명에 'DB'가 남아 있어 지금도 Deutsche Bank가 운용한다고 오해하기 쉽지만, 운용 주체는 Invesco다. <b>상품명에 남은 브랜드와 실제 운용사가 다른 사례</b>이며, 상품을 확인할 때 이름이 아니라 운용사 법인명을 봐야 하는 이유다.</p>
+<h2 data-ke-size="size26">K-1 발행은 한국 투자자에게 무엇을 뜻하는가?</h2>
+<p data-ke-size="size16">[사실] 발행사는 이 펀드가 Schedule K-1을 발행한다고 명시한다. 1940년법 펀드가 아니라 커모디티 풀이고 세무상 파트너십으로 취급되기 때문이다.</p>
+<table data-ke-align="alignLeft"><caption>일반 ETF와 파트너십형 상품의 차이</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>일반 ETF</th>
+<th>DBC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>법적 근거</td>
+<td>1940년 투자회사법</td>
+<td>커모디티 풀</td>
+</tr>
+<tr>
+<td>세무 취급</td>
+<td>규제투자회사(RIC)</td>
+<td>파트너십</td>
+</tr>
+<tr>
+<td>미국 세무 서류</td>
+<td>1099 계열</td>
+<td><b>K-1</b></td>
+</tr>
+<tr>
+<td>투자설명서 특이 항목</td>
+<td>&mdash;</td>
+<td>손익분기(breakeven) 수치 게재</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[확인 필요] 한국 거주자에게 실무적으로 중요한 것은 두 가지다. 첫째, 이런 구조의 상품은 <b>증권사별로 취급 방침이 다를 수</b> 있어 매수 자체가 제한될 수 있다. 둘째, 파트너십 지분 성격의 상품에는 매도 대금에 대한 원천징수가 적용되는 사례가 있다. 매수 전 거래 증권사에 직접 확인해야 하며, 관련 구조는 <a href="/456">PTP 글</a>에 정리돼 있다.</p>
+<h2 data-ke-size="size26">발행사가 직접 붙인 경고를 어떻게 읽을 것인가?</h2>
+<p data-ke-size="size16">[사실] 발행사 공시에는 이 펀드가 <b>모든 투자자에게 적합하지 않다</b>는 문장이 들어 있다. 이유로는 매우 변동성이 큰 시장에서 이뤄지는 거래의 투기적 성격을 든다. 선물 가격의 잦은 변동이 큰 손실을 초래할 수 있다는 서술도 함께 있다.</p>
+<p data-ke-size="size16">[판단] 일반적인 지수 ETF에는 이런 수위의 문구가 붙지 않는다. 발행사가 스스로 적합성 제한을 명시했다는 사실 자체를 상품 성격의 일부로 받아들이는 것이 맞다. 원자재 선물은 주식&middot;채권과 달리 이자나 배당 같은 내재 현금흐름이 없고, 가격 변동만이 손익의 원천이다.</p>
+<h2 data-ke-size="size26">국내 상장 대안이 있는가?</h2>
+<p data-ke-size="size16">[정보부족] DBIQ Optimum Yield Diversified Commodity 지수를 추종하는 국내 상장 ETF의 존재 여부는 확인하지 못했다. 부재로 단정하지 않는다.</p>
+<p data-ke-size="size16">[판단] 다만 국내 계좌에서 원자재 노출을 구성할 때 확인해야 할 축은 동일하다. ① 실물&middot;선물&middot;기업 주식 중 무엇을 담는가 ② 선물이라면 롤 규칙이 무엇인가 ③ 담보 자산의 수익이 성과에 어떻게 반영되는가. 이 세 질문에 답할 수 없는 상품은 이름이 같아도 성과가 크게 갈린다.</p>
+<h2 data-ke-size="size26">한국 투자자의 계좌와 세금, 환은?</h2>
+<table data-ke-align="alignLeft"><caption>계좌별 편입 가능 여부와 한국 거주자 과세 구조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>일반 위탁계좌 (해외주식)</td>
+<td>증권사 취급 방침 확인 필요</td>
+</tr>
+<tr>
+<td>연금저축 &middot; IRP &middot; DC &middot; ISA</td>
+<td>편입 불가</td>
+</tr>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22% (지방소득세 포함), 연 250만 원 공제, 분류과세</td>
+</tr>
+<tr>
+<td>매도 시 원천징수</td>
+<td>[확인 필요] &mdash; 파트너십형 상품 관련 규정 적용 여부</td>
+</tr>
+<tr>
+<td>분배</td>
+<td>구조상 정기 분배가 없거나 제한적 [확인 필요]</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">한 가지 짚어 둘 것이 있다. 미국 세법에는 선물 계약의 손익을 보유 기간과 무관하게 일정 비율로 나눠 과세하는 규정이 있고, 이런 상품에 적용된다. 그러나 그것은 <b>미국 납세자에게 적용되는 규정</b>이며 한국 거주자에게 이전되지 않는다. 한국 거주자는 한국 세법으로 판단한다. 미국 직접투자와 국내 상장의 과세 차이는 <a href="/400">미국 직접투자 vs 국내 상장 글</a>에 정리돼 있다.</p>
+<p data-ke-size="size16">환은 원/달러 1단이다. 다만 원자재는 국제적으로 달러로 거래되므로, 달러 가치가 변하면 원자재 가격 자체도 반대 방향으로 움직이는 경향이 있다. 환 손익과 자산 손익이 서로 상쇄되는 방향으로 작동할 수 있다는 뜻이며, 이는 다른 자산군에는 없는 특성이다.</p>
+<p data-ke-size="size16">[진행 중] 금융투자소득세는 2024-12-10 폐지가 확정됐다. 2026년 재도입 논의는 진행 중이며 확정 사항이 아니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">K-1 발행 &middot; 증권사 취급 여부 확인</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">지수는 ER &mdash; 담보 이자가 별도 항</p>
+<progress value="85" max="100"></progress>
+<p data-ke-size="size16">실물이 아니라 선물, 롤 손익 발생</p>
+<progress value="75" max="100"></progress>
+<p data-ke-size="size16">에너지 편중 구조</p>
+<progress value="60" max="100"></progress>
+<p data-ke-size="size16">연 1회 재구성에 따른 비중 표류</p>
+<progress value="45" max="100"></progress>

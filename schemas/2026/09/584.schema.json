@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-18T02:39:00+09:00",
+    "datePublished": "2026-09-18T02:38:34+09:00",
+    "description": "원자재 ETF를 사면 원자재를 사는 것이라고 생각하기 쉽다. DBC는 그렇지 않다. 창고에 금속이나 곡물을 쌓아 두는 것이 아니라 선물계약을 굴린다. 그리고 이 상품의 수익은 추종 지수의 등락과 같지 않다 — 구조상 세 개의 항이 더해지고 빠진다. 이 글은 그 구조를 1차 출처 기준으로 분해한다.DBC는 어떤 상품인가?DBC 기본 사양 (출처: SEC 제출서류·발행사 공시)항목내용정식 명칭Invesco DB Commodity Index Tracking Fund추종 지수DBIQ Optimum Yield Diversified Commodity Index Excess Return거래소NYSE ArcaCUSIP · ISIN46138B103 · US46138B1035설정일2006년 2월 [확인 필요] — 자료별로..",
+    "headline": "DBC ETF란? 원자재 14종을 선물로 담는다 — 지수 수익률이 곧 내 수익률이 아닌 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/584",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/584"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "DBC"
+      },
+      {
+        "@type": "Thing",
+        "name": "원자재 선물 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "DBIQ Optimum Yield Diversified Commodity Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-18T09:00:00+09:00",
+    "datePublished": "2026-09-18T09:00:00+09:00",
+    "description": "DBC는 실물 원자재 14종의 선물로 구성된 지수를 추종하는 커모디티 풀이다. 초과수익(ER) 지수와 담보 이자가 분리된 수익 구조, Optimum Yield 롤 규칙, 연 1회 재구성, K-1 발행과 증권사 취급 문제, 한국 투자자의 계좌·세금·환 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "DBC ETF란? 원자재 14종을 선물로 담는다 — 지수 수익률이 곧 내 수익률이 아닌 이유",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/584",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/584"
+  }
+]

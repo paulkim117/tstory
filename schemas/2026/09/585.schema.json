@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-18T03:42:00+09:00",
+    "datePublished": "2026-09-18T03:41:35+09:00",
+    "description": "대부분의 ETF는 시가총액이나 재무 지표로 종목을 고른다. CSD는 다르다. 편입 기준이 기업에게 일어난 사건 하나다 — 모회사에서 떨어져 나왔는가. 그리고 그 사건으로부터 4년이 지나면 실적과 무관하게 지수에서 빠진다. 이 글은 사건 기준 지수의 구조와, 한국의 '분할'과 무엇이 다른지를 1차 출처 기준으로 정리한다.CSD는 어떤 ETF인가?CSD 기본 사양 (출처: 발행사 공시)항목내용정식 명칭Invesco S&P Spin-Off ETF추종 지수S&P U.S. Spin-Off Index상장일2006-12-15복제 방식완전 복제투자 정책총자산의 최소 90%를 지수 구성종목 및 예탁증서에 투자법적 분류비분산형(non-diversified)지수 산출 방식총수익(gross total return) — 배당 ..",
+    "headline": "CSD ETF란? 분사 4년이 지나면 성적과 무관하게 빠진다 — 사건이 기준인 지수",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/585",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/585"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "CSD"
+      },
+      {
+        "@type": "Thing",
+        "name": "스핀오프"
+      },
+      {
+        "@type": "Thing",
+        "name": "S&P U.S. Spin-Off Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-18T09:00:00+09:00",
+    "datePublished": "2026-09-18T09:00:00+09:00",
+    "description": "CSD는 모회사에서 분사된 미국 기업을 담는 사건 기반 ETF다. 48개월 경과가 편출 사유가 되는 구조, 비중 상한과 비분산형 분류, 2016년 지수 전환으로 전략이 바뀐 이력, 스핀오프와 한국 물적분할의 주주 효과 차이를 1차 출처 기준으로 정리했다.",
+    "headline": "CSD ETF란? 분사 4년이 지나면 성적과 무관하게 빠진다 — 사건이 기준인 지수",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/585",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/585"
+  }
+]

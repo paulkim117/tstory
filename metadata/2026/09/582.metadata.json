@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-17",
+  "body_html_length": 8087,
+  "canonical_url": "https://mystock-note.tistory.com/582",
+  "content_hash": "9bdd19b78b39f0c02f81fce0ef6180bd87fdbbf7c2f436d749349a04aa345868",
+  "json_ld_count": 2,
+  "meta_description": "AIRR은 미국 산업재 ETF로 분류되지만 구성종목에 지역은행이 들어간다. 섹터 분류를 벗어난 것처럼 보이는 이 구성에는 명확한 논리가 있고, 그 논리를 이해하면 이 상품이 일반적인 산업재 섹터 ETF와 무엇이 다른지가 정리된다. 이 글은 지수 선정 규칙을 1차 출처 기준으로 뜯어본다.AIRR은 어떤 ETF인가?AIRR 기본 사양 (출처: 발행사 공시·RBA 지수 가이드)항목내용정식 명칭First Trust RBA American Industrial Renaissance® ETF추종 지수Richard Bernstein Advisors American Industrial Renaissance® Index지수 제공자Richard Bernstein Advisors LLC (RBA) — 발행사가 라이선스대상미국..",
+  "modified_time": "2026-09-18T00:38:03+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AIRR은 미국 산업재 ETF로 분류되지만 구성종목에 지역은행이 들어간다. 섹터 분류를 벗어난 것처럼 보이는 이 구성에는 명확한 논리가 있고, 그 논리를 이해하면 이 상품이 일반적인 산업재 섹터 ETF와 무엇이 다른지가 정리된다. 이 글은 지수 선정 규칙을 1차 출처 기준으로 뜯어본다.AIRR은 어떤 ETF인가?AIRR 기본 사양 (출처: 발행사 공시·RBA 지수 가이드)항목내용정식 명칭First Trust RBA American Industrial Renaissance® ETF추종 지수Richard Bernstein Advisors American Industrial Renaissance® Index지수 제공자Richard Bernstein Advisors LLC (RBA) — 발행사가 라이선스대상미국..",
+  "og_title": "AIRR ETF란? 산업재 ETF에 지역은행이 들어가는 이유 — 해외 매출 25%가 넘으면 탈락한다",
+  "post_id": "582",
+  "published_time": "2026-09-18T00:37:32+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AIRR ETF란? 산업재 ETF에 지역은행이 들어가는 이유 — 해외 매출 25%가 넘으면 탈락한다",
+  "url": "https://mystock-note.tistory.com/582"
+}

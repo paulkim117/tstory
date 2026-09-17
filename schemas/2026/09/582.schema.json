@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-18T00:38:03+09:00",
+    "datePublished": "2026-09-18T00:37:32+09:00",
+    "description": "AIRR은 미국 산업재 ETF로 분류되지만 구성종목에 지역은행이 들어간다. 섹터 분류를 벗어난 것처럼 보이는 이 구성에는 명확한 논리가 있고, 그 논리를 이해하면 이 상품이 일반적인 산업재 섹터 ETF와 무엇이 다른지가 정리된다. 이 글은 지수 선정 규칙을 1차 출처 기준으로 뜯어본다.AIRR은 어떤 ETF인가?AIRR 기본 사양 (출처: 발행사 공시·RBA 지수 가이드)항목내용정식 명칭First Trust RBA American Industrial Renaissance® ETF추종 지수Richard Bernstein Advisors American Industrial Renaissance® Index지수 제공자Richard Bernstein Advisors LLC (RBA) — 발행사가 라이선스대상미국..",
+    "headline": "AIRR ETF란? 산업재 ETF에 지역은행이 들어가는 이유 — 해외 매출 25%가 넘으면 탈락한다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/582",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/582"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "AIRR"
+      },
+      {
+        "@type": "Thing",
+        "name": "리쇼어링"
+      },
+      {
+        "@type": "Thing",
+        "name": "RBA American Industrial Renaissance Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-18T09:00:00+09:00",
+    "datePublished": "2026-09-18T09:00:00+09:00",
+    "description": "AIRR은 RBA American Industrial Renaissance 지수를 추종하는 테마형 ETF다. 미국 중소형 산업재와 커뮤니티 뱅킹을 함께 담는 논리, 비미국 매출 25% 제외 필터, 은행의 지리 기준 선정, 리서치 하우스형 지수 거버넌스, 집중도 구조와 한국 투자자의 계좌·세금을 1차 출처 기준으로 정리했다.",
+    "headline": "AIRR ETF란? 산업재 ETF에 지역은행이 들어가는 이유 — 해외 매출 25%가 넘으면 탈락한다",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/582",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/582"
+  }
+]

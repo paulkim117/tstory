@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-18T01:39:00+09:00",
+    "datePublished": "2026-09-18T01:38:05+09:00",
+    "description": "AGGY는 미국 종합채권 지수와 같은 채권 유니버스를 쓴다. 담는 대상이 아니라 비중만 다르다. 그 비중은 사람이 정하지 않고 최적화 엔진이 계산한다. 이 글은 그 계산이 무엇을 목표로 하고 어떤 제약을 받는지, 그리고 높아진 수익률의 대가를 어디서 치르는지를 1차 출처 기준으로 정리한다.AGGY는 어떤 ETF인가?AGGY 기본 사양 (출처: 발행사 팩트시트·Bloomberg 지수 팩트시트)항목내용정식 명칭WisdomTree Yield Enhanced U.S. Aggregate Bond Fund추종 지수Bloomberg U.S. Aggregate Enhanced Yield Index지수 제공자Bloomberg — 발행사와 별개모집단Bloomberg U.S. Aggregate Bond Index와 동일가중..",
+    "headline": "AGGY ETF란? AGG와 같은 채권을 담고 가중만 바꾼다 — 수익률을 높인 값은 어디서 치르나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/583",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/583"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "AGGY"
+      },
+      {
+        "@type": "Thing",
+        "name": "채권 ETF 가중"
+      },
+      {
+        "@type": "Thing",
+        "name": "Bloomberg U.S. Aggregate Enhanced Yield Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-18T09:00:00+09:00",
+    "datePublished": "2026-09-18T09:00:00+09:00",
+    "description": "AGGY는 미국 종합채권 지수와 같은 모집단을 쓰고 최적화로 비중만 재조정하는 채권 ETF다. 목적함수와 제약조건 5종, 듀레이션 1년 연장 허용, 회전율 제약이 먼저 완화되는 위계, 수익률 향상의 대가, 버킷 단위 가중 전달 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "AGGY ETF란? AGG와 같은 채권을 담고 가중만 바꾼다 — 수익률을 높인 값은 어디서 치르나",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/583",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/583"
+  }
+]
