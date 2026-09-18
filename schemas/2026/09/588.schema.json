@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "ONEQ"
+    },
+    {
+      "@type": "Thing",
+      "name": "나스닥 종합지수"
+    },
+    {
+      "@type": "Thing",
+      "name": "표본추출 복제"
+    }
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-09-19T09:00:00+09:00",
+  "datePublished": "2026-09-19T09:00:00+09:00",
+  "description": "ONEQ는 약 3,000종목의 나스닥 종합지수를 추종한다. 100선 지수와의 구조 차이, 편입 기준이 거래소 상장 사실이라는 점, 통계적 표본추출과 구조적 오차, 일별 재구성, 공시에 명시된 지수 산출 오류 위험, 한국 투자자의 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+  "headline": "ONEQ ETF란? '나스닥'이 두 개다 — 100종목과 3,000종목, 편입 기준은 상장 사실 하나",
+  "inLanguage": "ko-KR",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/588",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/588"
+}

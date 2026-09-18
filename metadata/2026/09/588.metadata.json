@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-18",
+  "body_html_length": 8010,
+  "canonical_url": "https://mystock-note.tistory.com/588",
+  "content_hash": "dd25ea14b50925d2c860cc123b057d84c0089e41819481f11dc9e8d56b97241b",
+  "json_ld_count": 1,
+  "meta_description": "\"나스닥에 투자한다\"는 말은 두 개의 서로 다른 지수를 가리킬 수 있다. 하나는 100종목짜리이고 다른 하나는 약 3,000종목짜리다. ONEQ는 후자를 따른다. 그리고 이 지수의 편입 기준은 재무 지표도 규모도 아닌 나스닥에 상장돼 있다는 사실 하나다. 이 글은 그 구조가 무엇을 뜻하는지를 1차 출처 기준으로 정리한다.ONEQ는 어떤 ETF인가?ONEQ 기본 사양 (출처: SEC 제출 투자설명서·발행사 공시)항목내용정식 명칭Fidelity Nasdaq Composite Index ETF추종 지수Nasdaq Composite Index상장일2003-09-25ISINUS3159128087가중 방식시가총액 가중지수 종목 수약 3,000복제 방식통계적 표본추출투자 정책통상 자산의 최소 80%를 지수 구성종목에..",
+  "modified_time": "2026-09-19T02:08:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/588\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/588\",\"headline\":\"ONEQ ETF란? '나스닥'이 두 개다 — 100종목과 3,000종목, 편입 기준은 상장 사실 하나\",\"description\":\"\"나스닥에 투자한다\"는 말은 두 개의 서로 다른 지수를 가리킬 수 있다. 하나는 100종목짜리이고 다른 하나는 약 3,000종목짜리다. ONEQ는 후자를 따른다. 그리고 이 지수의 편입 기준은 재무 지표도 규모도 아닌 나스닥에 상장돼 있다는 사실 하나다. 이 글은 그 구조가 무엇을 뜻하는지를 1차 출처 기준으로 정리한다.ONEQ는 어떤 ETF인가?ONEQ 기본 사양 (출처: SEC 제출 투자설명서·발행사 공시)항목내용정식 명칭Fidelity Nasdaq Composite Index ETF추종 지수Nasdaq Composite Index상장일2003-09-25ISINUS3159128087가중 방식시가총액 가중지수 종목 수약 3,000복제 방식통계적 표본추출투자 정책통상 자산의 최소 80%를 지수 구성종목에..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-19T02:07:24+09:00\",\"dateModified\":\"2026-09-19T02:08:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"나스닥에 투자한다\"는 말은 두 개의 서로 다른 지수를 가리킬 수 있다. 하나는 100종목짜리이고 다른 하나는 약 3,000종목짜리다. ONEQ는 후자를 따른다. 그리고 이 지수의 편입 기준은 재무 지표도 규모도 아닌 나스닥에 상장돼 있다는 사실 하나다. 이 글은 그 구조가 무엇을 뜻하는지를 1차 출처 기준으로 정리한다.ONEQ는 어떤 ETF인가?ONEQ 기본 사양 (출처: SEC 제출 투자설명서·발행사 공시)항목내용정식 명칭Fidelity Nasdaq Composite Index ETF추종 지수Nasdaq Composite Index상장일2003-09-25ISINUS3159128087가중 방식시가총액 가중지수 종목 수약 3,000복제 방식통계적 표본추출투자 정책통상 자산의 최소 80%를 지수 구성종목에..",
+  "og_title": "ONEQ ETF란? '나스닥'이 두 개다 — 100종목과 3,000종목, 편입 기준은 상장 사실 하나",
+  "post_id": "588",
+  "published_time": "2026-09-19T02:07:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ONEQ ETF란? '나스닥'이 두 개다 — 100종목과 3,000종목, 편입 기준은 상장 사실 하나",
+  "url": "https://mystock-note.tistory.com/588"
+}

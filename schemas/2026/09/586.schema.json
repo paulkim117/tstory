@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-19T00:07:00+09:00",
+    "datePublished": "2026-09-19T00:06:30+09:00",
+    "description": "NTSX는 자산의 90%로 미국 대형주를 사고, 남은 10%를 담보로 국채 선물에 명목 60%를 걸어 둔다. 합치면 150%다. 돈을 빌리지 않았는데 100%를 넘는 노출이 생긴다. 이 글은 그 구조가 어떻게 성립하는지, 그리고 흔히 아는 '3배 레버리지 ETF'와 무엇이 결정적으로 다른지를 1차 출처 기준으로 정리한다.NTSX는 어떤 ETF인가?NTSX 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. Efficient Core Fund이전 명칭WisdomTree 90/60 U.S. Balanced Fund (2021-05-20 변경)상장일2018-08-02목표 노출주식 90% · 국채 선물 명목 60% · 현금 약 10%주식 보유 방식대형주 개별 종목 직접 ..",
+    "headline": "NTSX ETF란? 90+60=150 — 빌리지 않고 1.5배를 만드는 구조와 일일 레버리지와의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/586",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/586"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "NTSX"
+      },
+      {
+        "@type": "Thing",
+        "name": "자본 효율"
+      },
+      {
+        "@type": "Thing",
+        "name": "90/60 전략"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-19T09:00:00+09:00",
+    "datePublished": "2026-09-19T09:00:00+09:00",
+    "description": "NTSX는 자산 90%로 미국 대형주를 담고 약 10%를 담보로 국채 선물에 명목 60% 노출을 만드는 ETF다. 회계적 레버리지의 성립 원리, 일일 배수형과의 리셋 구조 차이, 60/40과의 등가 관계, 5% 밴드 리밸런싱, 2021년 명칭 변경의 성격을 1차 출처 기준으로 정리했다.",
+    "headline": "NTSX ETF란? 90+60=150 — 빌리지 않고 1.5배를 만드는 구조와 일일 레버리지와의 차이",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/586",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/586"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-19T03:08:00+09:00",
+    "datePublished": "2026-09-19T03:07:48+09:00",
+    "description": "지수 ETF의 비중 결정 방식은 보통 둘 중 하나다. 시가총액에 비례하거나, 모든 종목을 똑같이 담거나. FEX는 어느 쪽도 아니다. 종목에 점수를 매겨 줄을 세운 뒤 5개 그룹으로 나누고, 그룹별로 다른 비중을 배분한다. 이 글은 그 방식이 무엇을 바꾸는지를 1차 출처 기준으로 정리한다. FEX는 어떤 ETF인가?FEX 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust Large Cap Core AlphaDEX Fund추종 지수Nasdaq AlphaDEX Large Cap Core Index모집단NASDAQ US 500 Large Cap Index상장일2007-05-08복제 방식완전 복제선정 종목 수상위 375가중 방식5분위 계층 가중 (분위 내 동일가중)이전 지수S&P Define..",
+    "headline": "FEX ETF란? 500종목을 순위로 줄 세워 375개만 남긴다 — 시총가중도 동일가중도 아닌 제3의 가중",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/589",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/589"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "FEX"
+      },
+      {
+        "@type": "Thing",
+        "name": "AlphaDEX"
+      },
+      {
+        "@type": "Thing",
+        "name": "계층 가중"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-19T09:00:00+09:00",
+    "datePublished": "2026-09-19T09:00:00+09:00",
+    "description": "FEX는 AlphaDEX 방법론으로 종목을 성장·가치로 분류해 점수화하고 상위 375종목을 5분위 계층 가중으로 담는 ETF다. 팩터 구성, 계층 가중이 회전율에 미치는 영향, 2016년 지수 제공자·모집단 동시 변경, 2차 자료 갱신 지연 문제를 1차 출처 기준으로 정리했다.",
+    "headline": "FEX ETF란? 500종목을 순위로 줄 세워 375개만 남긴다 — 시총가중도 동일가중도 아닌 제3의 가중",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/589",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/589"
+  }
+]

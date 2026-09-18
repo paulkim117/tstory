@@ -1,0 +1,272 @@
+<!--
+source: https://mystock-note.tistory.com/589
+backup_date: 2026-09-18
+post_id: 589
+-->
+<p data-ke-size="size16">지수 ETF의 비중 결정 방식은 보통 둘 중 하나다. 시가총액에 비례하거나, 모든 종목을 똑같이 담거나. FEX는 어느 쪽도 아니다. 종목에 점수를 매겨 줄을 세운 뒤 5개 그룹으로 나누고, 그룹별로 다른 비중을 배분한다. 이 글은 그 방식이 무엇을 바꾸는지를 1차 출처 기준으로 정리한다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+
+<h2 data-ke-size="size26">FEX는 어떤 ETF인가?</h2>
+<table data-ke-align="alignLeft"><caption>FEX 기본 사양 (출처: 발행사 공시)</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>First Trust Large Cap Core AlphaDEX Fund</td>
+</tr>
+<tr>
+<td>추종 지수</td>
+<td>Nasdaq AlphaDEX Large Cap Core Index</td>
+</tr>
+<tr>
+<td>모집단</td>
+<td>NASDAQ US 500 Large Cap Index</td>
+</tr>
+<tr>
+<td>상장일</td>
+<td>2007-05-08</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>완전 복제</td>
+</tr>
+<tr>
+<td>선정 종목 수</td>
+<td>상위 375</td>
+</tr>
+<tr>
+<td>가중 방식</td>
+<td>5분위 계층 가중 (분위 내 동일가중)</td>
+</tr>
+<tr>
+<td>이전 지수</td>
+<td>S&amp;P Defined Large-Cap Core Index (2016년 4월 변경)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이름의 AlphaDEX는 발행사가 쓰는 선정 방법론의 명칭이다. 같은 방법론을 대형&middot;중형&middot;소형, 성장&middot;가치&middot;코어로 나눠 여러 상품에 적용한다. FEX는 그중 대형&middot;코어에 해당한다.</p>
+<h2 data-ke-size="size26">AlphaDEX는 어떤 순서로 작동하는가?</h2>
+<table data-ke-align="alignLeft"><caption>선정&middot;가중 4단계</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. 분류</td>
+<td>모집단 종목을 성장형 &middot; 가치형 &middot; 양쪽 중 하나로 분류</td>
+</tr>
+<tr>
+<td>2. 채점</td>
+<td>해당 분류에 맞는 팩터로 점수화하고 순위 산출</td>
+</tr>
+<tr>
+<td>3. 선정</td>
+<td>점수 <b>상위 375종목</b>만 편입</td>
+</tr>
+<tr>
+<td>4. 가중</td>
+<td>375종목을 5분위로 나눠 <b>분위 내 동일가중 &middot; 상위 분위에 더 큰 비중</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1단계가 특이하다. 모든 종목을 같은 잣대로 재는 것이 아니라 <b>성격에 맞는 잣대로 각각 잰다</b>. 성장주는 성장 팩터로, 가치주는 가치 팩터로 평가한다. 성장주에 가치 지표를 들이대면 대부분 낮은 점수를 받게 되는데, 이 구조는 그 문제를 피한다.</p>
+<p data-ke-size="size16">3단계에서 모집단 500종목 중 125종목이 탈락한다. <b>하위 25%를 통째로 배제</b>하는 것이 이 방법론의 첫 번째 효과다.</p>
+<h2 data-ke-size="size26">어떤 팩터로 점수를 매기는가?</h2>
+<table data-ke-align="alignLeft"><caption>성장&middot;가치 팩터 구성 (구 지수 기준 공개 항목)</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>팩터</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">성장</td>
+<td>3개월 주가 상승률</td>
+</tr>
+<tr>
+<td>6개월 주가 상승률</td>
+</tr>
+<tr>
+<td>12개월 주가 상승률</td>
+</tr>
+<tr>
+<td>매출 대비 주가 &middot; 1년 매출 성장률</td>
+</tr>
+<tr>
+<td rowspan="3">가치</td>
+<td>장부가 대비 주가</td>
+</tr>
+<tr>
+<td>현금흐름 대비 주가</td>
+</tr>
+<tr>
+<td>총자산이익률(ROA)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[판단] 성장 팩터의 절반이 <b>주가 상승률</b>이라는 점을 짚어야 한다. 3&middot;6&middot;12개월 상승률은 통상 모멘텀 팩터로 분류되는 지표다. 즉 이 방법론에서 '성장'은 기업의 이익 성장만이 아니라 <b>주가가 이미 올랐다는 사실</b>을 상당 부분 포함한다. 단일 팩터 상품과 비교할 때 이 점을 감안해야 한다. 모멘텀 팩터 자체의 구조는 <a href="/379">MTUM 글</a>에 정리돼 있다.</p>
+<p data-ke-size="size16">[확인 필요] 위 팩터 목록은 이전 지수(S&amp;P 관리) 기준으로 공개된 항목이다. 2016년 지수 전환 이후 현행 지수의 팩터 구성이 동일한지는 지수 제공자 방법론 문서에서 직접 확인이 필요하다.</p>
+<h2 data-ke-size="size26">가중 방식이 왜 제3의 유형인가?</h2>
+<table data-ke-align="alignLeft"><caption>가중 방식 3유형</caption>
+<thead>
+<tr>
+<th>유형</th>
+<th>비중 결정</th>
+<th>대형주 편중</th>
+<th>회전율</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>시가총액 가중</td>
+<td>규모에 비례</td>
+<td>강함</td>
+<td>낮음</td>
+</tr>
+<tr>
+<td>동일가중</td>
+<td>전 종목 균등</td>
+<td>없음</td>
+<td>중간</td>
+</tr>
+<tr>
+<td><b>계층(분위) 가중</b></td>
+<td>순위 그룹별 차등 &middot; 그룹 내 균등</td>
+<td><b>순위가 결정</b></td>
+<td><b>높음</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">계층 가중은 앞의 두 방식이 각각 놓치는 것을 겨냥한다. 시가총액 가중은 규모가 큰 기업에 자동으로 큰 비중을 주고, 동일가중은 점수가 높든 낮든 같은 비중을 준다. 계층 가중은 <b>점수가 비중을 결정하되 같은 그룹 안에서는 규모를 무시</b>한다.</p>
+<p data-ke-size="size16">[판단] 대가는 회전율이다. 순위는 매 재구성 시점마다 바뀌므로 종목의 분위 이동이 빈번하고, 그때마다 비중을 조정해야 한다. 시가총액 가중 지수는 시장 가격이 알아서 비중을 조정해주므로 거래가 거의 필요 없다는 점과 대조된다. 동일가중 방식의 구조는 <a href="/450">RSP 글</a>에 정리돼 있다.</p>
+<h2 data-ke-size="size26">이 지수는 2016년에 바뀌었다</h2>
+<p data-ke-size="size16">[사실] 2016년 4월 이전 FEX는 S&amp;P가 만들고 관리하던 Defined Large-Cap Core Index를 추종했다. 이후 Nasdaq AlphaDEX Large-Cap Core Index로 바뀌었다.</p>
+<table data-ke-align="alignLeft"><caption>지수 전환 전후 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>전환 전</th>
+<th>전환 후</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수 제공자</td>
+<td>S&amp;P</td>
+<td><b>Nasdaq</b></td>
+</tr>
+<tr>
+<td>지수명</td>
+<td>Defined Large-Cap Core Index</td>
+<td>Nasdaq AlphaDEX Large Cap Core Index</td>
+</tr>
+<tr>
+<td>모집단</td>
+<td>S&amp;P 500 Index</td>
+<td><b>NASDAQ US 500 Large Cap Index</b></td>
+</tr>
+<tr>
+<td>선정 방법론</td>
+<td>AlphaDEX</td>
+<td>AlphaDEX (동일 명칭 유지)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[판단] 이 전환의 핵심은 방법론이 아니라 <b>모집단</b>이다. 선정 규칙의 이름은 그대로지만, 그 규칙을 적용하는 대상 집합이 완전히 다른 회사가 만든 다른 지수로 바뀌었다. S&amp;P 500과 다른 제공자의 대형주 500 지수는 편입 기준이 다르므로 구성종목이 완전히 일치하지 않는다.</p>
+<p data-ke-size="size16">따라서 2016년 4월을 기준으로 <b>같은 규칙을 다른 재료에 적용</b>한 것이 된다. 장기 성과 자료를 볼 때 구간을 나눠 읽어야 하는 이유다.</p>
+<h2 data-ke-size="size26">2차 자료가 여전히 옛 지수를 설명하는 경우가 있다</h2>
+<p data-ke-size="size16">[확인 필요] 이 상품을 조회하면 일부 정보 제공 사이트가 아직 이전 지수명과 이전 모집단(S&amp;P 500 기준)으로 상품을 설명하는 경우가 확인된다. 지수 전환이 10년 가까이 지났는데도 갱신되지 않은 서술이 남아 있다.</p>
+<p data-ke-size="size16">[판단] 이는 이 상품만의 문제가 아니다. 지수나 명칭이 바뀐 상품에서 2차 자료의 갱신 지연은 반복적으로 나타난다. 따라서 확인 순서는 항상 <b>발행사 공식 문서와 지수 제공자 방법론 문서가 먼저</b>이고, 요약 사이트는 참고에 그쳐야 한다.</p>
+<h2 data-ke-size="size26">회전율과 비용은 어떻게 보아야 하는가?</h2>
+<p data-ke-size="size16">순위 기반 선정과 계층 가중은 구조적으로 매매를 많이 유발한다. 재구성 때마다 375종목의 명단이 바뀌고, 잔류 종목도 분위가 이동하면 비중이 달라진다.</p>
+<p data-ke-size="size16">이 비용은 두 갈래로 나타난다. 하나는 상품 성과에 직접 반영되는 거래 비용이고, 다른 하나는 실현 손익이 분배로 나올 가능성이다. 후자는 한국 거주자에게 세금 문제로 연결된다.</p>
+<p data-ke-size="size16">[판단] 규칙이 정교할수록 실행 비용이 커진다는 것은 팩터 상품 전반의 구조적 특성이다. 규칙의 정교함이 그 비용을 넘어서는지는 사전에 알 수 없으며, 방법론 설명만으로 판단할 수 없는 영역이다.</p>
+<h2 data-ke-size="size26">단일 스타일 상품과는 무엇이 다른가?</h2>
+<p data-ke-size="size16">성장 상품이나 가치 상품은 한쪽 성격의 종목만 담는다. FEX는 성장과 가치를 <b>모두 담되 각각 다른 잣대로 평가</b>한다. 이름의 Core가 그 뜻이다.</p>
+<table data-ke-align="alignLeft"><caption>스타일 상품과 코어형 다중팩터 상품의 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>단일 스타일 상품</th>
+<th>FEX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>편입 대상</td>
+<td>한쪽 성격만</td>
+<td>양쪽 모두</td>
+</tr>
+<tr>
+<td>평가 기준</td>
+<td>단일 기준</td>
+<td>종목 성격에 따라 분기</td>
+</tr>
+<tr>
+<td>노출 성격</td>
+<td>스타일 베팅</td>
+<td>스타일 중립 + 종목 선별</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">[판단] 따라서 이 상품은 "성장이 이길 것인가 가치가 이길 것인가"에 베팅하지 않는다. 대신 <b>각 진영 안에서 점수가 높은 종목이 낮은 종목보다 낫다</b>는 가설에 베팅한다. 스타일 구분 자체의 기준은 <a href="/418">VUG 글</a>에 정리돼 있다.</p>
+<h2 data-ke-size="size26">국내 상장 대안이 있는가?</h2>
+<p data-ke-size="size16">[정보부족] AlphaDEX 방법론 지수를 추종하는 국내 상장 ETF의 존재 여부는 확인하지 못했다. 부재로 단정하지 않는다.</p>
+<p data-ke-size="size16">[판단] 다만 구조적으로 유사한 접근은 국내에도 존재한다. 여러 지표로 종목에 점수를 매겨 상위를 선별하는 방식은 국내 상장 액티브&middot;전략형 상품에서도 쓰인다. 차이는 <b>규칙의 공개 수준</b>이다. 규칙 기반 상품은 팩터 목록과 가중 방식이 방법론 문서로 공개되지만, 액티브 상품은 그렇지 않은 경우가 많다.</p>
+<h2 data-ke-size="size26">한국 투자자의 계좌와 세금, 환은?</h2>
+<table data-ke-align="alignLeft"><caption>계좌별 편입 가능 여부와 한국 거주자 과세 구조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>일반 위탁계좌 (해외주식)</td>
+<td>편입 가능 &mdash; 사실상 유일한 경로</td>
+</tr>
+<tr>
+<td>연금저축 &middot; IRP &middot; DC &middot; ISA</td>
+<td>편입 불가</td>
+</tr>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22% (지방소득세 포함), 연 250만 원 공제, 분류과세</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>배당소득 &mdash; 미국 원천징수 후 국내 정산</td>
+</tr>
+<tr>
+<td>금융소득 합산</td>
+<td>연 2,000만 원 초과 시 종합과세 대상 포함</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">회전율이 높은 상품은 실현 손익이 분배로 나올 여지가 상대적으로 크다. 매매차익은 분류과세인데 분배금은 금융소득에 합산되는 비대칭이 여기서 실질적 차이를 만든다. 미국 직접투자와 국내 상장의 과세 차이는 <a href="/400">미국 직접투자 vs 국내 상장 글</a>에 정리돼 있다.</p>
+<p data-ke-size="size16">환은 원/달러 1단이다. 편입 기업이 미국 대형주 중심이므로 상품 구조상의 추가 환 층은 없다.</p>
+<p data-ke-size="size16">[진행 중] 금융투자소득세는 2024-12-10 폐지가 확정됐다. 2026년 재도입 논의는 진행 중이며 확정 사항이 아니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">시총가중도 동일가중도 아닌 계층 가중</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">2016년 지수&middot;모집단 동시 변경</p>
+<progress value="85" max="100"></progress>
+<p data-ke-size="size16">'성장' 팩터에 주가 상승률이 포함</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">높은 회전율과 그에 따른 비용&middot;분배</p>
+<progress value="60" max="100"></progress>
+<p data-ke-size="size16">2차 자료의 옛 지수 서술 잔존</p>
+<progress value="45" max="100"></progress>

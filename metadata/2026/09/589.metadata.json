@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-18",
+  "body_html_length": 8034,
+  "canonical_url": "https://mystock-note.tistory.com/589",
+  "content_hash": "cd367a54d5fd4b640afbfeb686959383b20cdbde05928d35595dba71fd7e9a4e",
+  "json_ld_count": 2,
+  "meta_description": "지수 ETF의 비중 결정 방식은 보통 둘 중 하나다. 시가총액에 비례하거나, 모든 종목을 똑같이 담거나. FEX는 어느 쪽도 아니다. 종목에 점수를 매겨 줄을 세운 뒤 5개 그룹으로 나누고, 그룹별로 다른 비중을 배분한다. 이 글은 그 방식이 무엇을 바꾸는지를 1차 출처 기준으로 정리한다. FEX는 어떤 ETF인가?FEX 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust Large Cap Core AlphaDEX Fund추종 지수Nasdaq AlphaDEX Large Cap Core Index모집단NASDAQ US 500 Large Cap Index상장일2007-05-08복제 방식완전 복제선정 종목 수상위 375가중 방식5분위 계층 가중 (분위 내 동일가중)이전 지수S&P Define..",
+  "modified_time": "2026-09-19T03:08:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "지수 ETF의 비중 결정 방식은 보통 둘 중 하나다. 시가총액에 비례하거나, 모든 종목을 똑같이 담거나. FEX는 어느 쪽도 아니다. 종목에 점수를 매겨 줄을 세운 뒤 5개 그룹으로 나누고, 그룹별로 다른 비중을 배분한다. 이 글은 그 방식이 무엇을 바꾸는지를 1차 출처 기준으로 정리한다. FEX는 어떤 ETF인가?FEX 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust Large Cap Core AlphaDEX Fund추종 지수Nasdaq AlphaDEX Large Cap Core Index모집단NASDAQ US 500 Large Cap Index상장일2007-05-08복제 방식완전 복제선정 종목 수상위 375가중 방식5분위 계층 가중 (분위 내 동일가중)이전 지수S&P Define..",
+  "og_title": "FEX ETF란? 500종목을 순위로 줄 세워 375개만 남긴다 — 시총가중도 동일가중도 아닌 제3의 가중",
+  "post_id": "589",
+  "published_time": "2026-09-19T03:07:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FEX ETF란? 500종목을 순위로 줄 세워 375개만 남긴다 — 시총가중도 동일가중도 아닌 제3의 가중",
+  "url": "https://mystock-note.tistory.com/589"
+}

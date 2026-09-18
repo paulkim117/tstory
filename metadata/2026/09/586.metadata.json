@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-18",
+  "body_html_length": 8234,
+  "canonical_url": "https://mystock-note.tistory.com/586",
+  "content_hash": "a468a1af567cd27cc7ac67e6275545689e5cf6d5d410cc2a0c661d5d2ea3a8b5",
+  "json_ld_count": 2,
+  "meta_description": "NTSX는 자산의 90%로 미국 대형주를 사고, 남은 10%를 담보로 국채 선물에 명목 60%를 걸어 둔다. 합치면 150%다. 돈을 빌리지 않았는데 100%를 넘는 노출이 생긴다. 이 글은 그 구조가 어떻게 성립하는지, 그리고 흔히 아는 '3배 레버리지 ETF'와 무엇이 결정적으로 다른지를 1차 출처 기준으로 정리한다.NTSX는 어떤 ETF인가?NTSX 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. Efficient Core Fund이전 명칭WisdomTree 90/60 U.S. Balanced Fund (2021-05-20 변경)상장일2018-08-02목표 노출주식 90% · 국채 선물 명목 60% · 현금 약 10%주식 보유 방식대형주 개별 종목 직접 ..",
+  "modified_time": "2026-09-19T00:07:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "NTSX는 자산의 90%로 미국 대형주를 사고, 남은 10%를 담보로 국채 선물에 명목 60%를 걸어 둔다. 합치면 150%다. 돈을 빌리지 않았는데 100%를 넘는 노출이 생긴다. 이 글은 그 구조가 어떻게 성립하는지, 그리고 흔히 아는 '3배 레버리지 ETF'와 무엇이 결정적으로 다른지를 1차 출처 기준으로 정리한다.NTSX는 어떤 ETF인가?NTSX 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. Efficient Core Fund이전 명칭WisdomTree 90/60 U.S. Balanced Fund (2021-05-20 변경)상장일2018-08-02목표 노출주식 90% · 국채 선물 명목 60% · 현금 약 10%주식 보유 방식대형주 개별 종목 직접 ..",
+  "og_title": "NTSX ETF란? 90+60=150 — 빌리지 않고 1.5배를 만드는 구조와 일일 레버리지와의 차이",
+  "post_id": "586",
+  "published_time": "2026-09-19T00:06:30+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NTSX ETF란? 90+60=150 — 빌리지 않고 1.5배를 만드는 구조와 일일 레버리지와의 차이",
+  "url": "https://mystock-note.tistory.com/586"
+}
