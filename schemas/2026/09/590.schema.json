@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-20T00:09:00+09:00",
+    "datePublished": "2026-09-20T00:08:11+09:00",
+    "description": "대부분의 지수는 기업의 시가총액에 비례해 비중을 준다. DES가 따르는 지수는 다르다. 기업이 1년 동안 지급할 배당금 총액에 비례해 비중을 준다. 주가가 아무리 올라도 배당을 늘리지 않으면 비중이 커지지 않는다. 이 글은 그 가중 방식이 무엇을 바꾸는지, 그리고 그것을 소형주에 적용하면 어떤 구조가 되는지를 1차 출처 기준으로 정리한다.DES는 어떤 ETF인가?DES 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. SmallCap Dividend Fund추종 지수WisdomTree U.S. SmallCap Dividend Index지수 제공자WisdomTree, Inc. — 운용사의 모회사모집단WisdomTree U.S. Dividend Index가중 방식배..",
+    "headline": "DES ETF란? 시가총액이 아니라 배당금 총액으로 비중을 정한다 — 소형주에 적용하면 생기는 일",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/590",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/590"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "DES"
+      },
+      {
+        "@type": "Thing",
+        "name": "배당 총액 가중"
+      },
+      {
+        "@type": "Thing",
+        "name": "WisdomTree U.S. SmallCap Dividend Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-20T09:00:00+09:00",
+    "datePublished": "2026-09-20T09:00:00+09:00",
+    "description": "DES는 기업이 지급할 현금배당 총액에 비례해 비중을 정하는 지수를 추종하는 소형주 ETF다. 배당 총액 가중과 시가총액 가중의 차이, 소형 구간 정의 방식, 부동산 10% 상한이 필요한 이유, 연 1회 재구성의 함의, 한국 투자자의 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "DES ETF란? 시가총액이 아니라 배당금 총액으로 비중을 정한다 — 소형주에 적용하면 생기는 일",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/590",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/590"
+  }
+]

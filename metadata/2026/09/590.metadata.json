@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-19",
+  "body_html_length": 8648,
+  "canonical_url": "https://mystock-note.tistory.com/590",
+  "content_hash": "f7d66d94b2a5b5323f504b123300615f7da823f1013de686a016d7a911c1c7c4",
+  "json_ld_count": 2,
+  "meta_description": "대부분의 지수는 기업의 시가총액에 비례해 비중을 준다. DES가 따르는 지수는 다르다. 기업이 1년 동안 지급할 배당금 총액에 비례해 비중을 준다. 주가가 아무리 올라도 배당을 늘리지 않으면 비중이 커지지 않는다. 이 글은 그 가중 방식이 무엇을 바꾸는지, 그리고 그것을 소형주에 적용하면 어떤 구조가 되는지를 1차 출처 기준으로 정리한다.DES는 어떤 ETF인가?DES 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. SmallCap Dividend Fund추종 지수WisdomTree U.S. SmallCap Dividend Index지수 제공자WisdomTree, Inc. — 운용사의 모회사모집단WisdomTree U.S. Dividend Index가중 방식배..",
+  "modified_time": "2026-09-20T00:09:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "대부분의 지수는 기업의 시가총액에 비례해 비중을 준다. DES가 따르는 지수는 다르다. 기업이 1년 동안 지급할 배당금 총액에 비례해 비중을 준다. 주가가 아무리 올라도 배당을 늘리지 않으면 비중이 커지지 않는다. 이 글은 그 가중 방식이 무엇을 바꾸는지, 그리고 그것을 소형주에 적용하면 어떤 구조가 되는지를 1차 출처 기준으로 정리한다.DES는 어떤 ETF인가?DES 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용정식 명칭WisdomTree U.S. SmallCap Dividend Fund추종 지수WisdomTree U.S. SmallCap Dividend Index지수 제공자WisdomTree, Inc. — 운용사의 모회사모집단WisdomTree U.S. Dividend Index가중 방식배..",
+  "og_title": "DES ETF란? 시가총액이 아니라 배당금 총액으로 비중을 정한다 — 소형주에 적용하면 생기는 일",
+  "post_id": "590",
+  "published_time": "2026-09-20T00:08:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DES ETF란? 시가총액이 아니라 배당금 총액으로 비중을 정한다 — 소형주에 적용하면 생기는 일",
+  "url": "https://mystock-note.tistory.com/590"
+}

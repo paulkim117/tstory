@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-20T03:50:00+09:00",
+    "datePublished": "2026-09-20T03:49:56+09:00",
+    "description": "미국 에너지 인프라 기업 중 상당수는 파트너십(MLP) 형태다. 그런데 미국 세법은 일반 펀드가 이런 파트너십을 총자산의 25%까지만 담도록 제한한다. 이 제약 앞에서 상품들은 두 갈래로 갈렸다 — 제한을 받아들이고 다른 것으로 채우거나, 펀드 형태 자체를 바꾸고 법인세를 물거나. EMLP는 전자를 택한 상품이다. 이 글은 그 선택이 포트폴리오를 어떻게 바꿨는지를 1차 출처 기준으로 정리한다.EMLP는 어떤 ETF인가?EMLP 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust North American Energy Infrastructure Fund운용 방식액티브 — 추종 지수 없음부운용사Energy Income Partners, LLC (실제 포트폴리오 운용)투자 목표총수익. 전략은..",
+    "headline": "EMLP ETF란? MLP를 25%까지만 담는 이유 — 세법이 포트폴리오를 결정한다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/593",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/593"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "EMLP"
+      },
+      {
+        "@type": "Thing",
+        "name": "에너지 인프라"
+      },
+      {
+        "@type": "Thing",
+        "name": "MLP 25% 한도"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-20T09:00:00+09:00",
+    "datePublished": "2026-09-20T09:00:00+09:00",
+    "description": "EMLP는 1940년법 펀드 구조를 유지하려고 MLP 직접 투자를 총자산의 25%로 제한하는 액티브 ETF다. C법인 전환과의 두 갈래 해법, 나머지 자산을 채우는 유니버스 확장, 유가 연동이 약한 수익 구조, 부운용사 운용 체계, 한국 투자자의 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "EMLP ETF란? MLP를 25%까지만 담는 이유 — 세법이 포트폴리오를 결정한다",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/593",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/593"
+  }
+]

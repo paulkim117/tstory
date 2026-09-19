@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-20T02:50:00+09:00",
+    "datePublished": "2026-09-20T02:49:27+09:00",
+    "description": "'보험'은 하나의 업종처럼 들리지만 그 안에는 사업 구조가 정반대인 회사들이 섞여 있다. 어떤 회사는 위험을 떠안아 돈을 벌고, 어떤 회사는 위험을 전혀 지지 않고 수수료만 받는다. KIE가 따르는 지수는 이 다섯 종류를 거의 비슷한 비중으로 담는다. 이 글은 그 구조와 함의를 1차 출처 기준으로 정리한다.KIE는 어떤 ETF인가?KIE 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용추종 지수S&P Insurance Select Industry Index모집단S&P Total Market Index (S&P TMI)지수 제공자S&P Dow Jones Indices — 펀드·운용사와 비계열가중 방식수정 동일가중복제 방식표본추출투자 정책총자산의 최소 80%를 지수 구성종목에 투자법적 분류비분산형(n..",
+    "headline": "KIE ETF란? '보험' 한 단어에 위험 구조가 정반대인 다섯 업종이 들어 있다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/592",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/592"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "KIE"
+      },
+      {
+        "@type": "Thing",
+        "name": "보험 산업"
+      },
+      {
+        "@type": "Thing",
+        "name": "S&P Insurance Select Industry Index"
+      }
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-20T09:00:00+09:00",
+    "datePublished": "2026-09-20T09:00:00+09:00",
+    "description": "KIE는 보험중개·생명건강·종합·손해·재보험 5개 하위산업을 수정 동일가중으로 담는 ETF다. 위험 인수 구조가 상반된 업종의 혼재, 보험영업과 투자 두 손익 원천, 금리 영향의 경로별 부호 차이, 2011년 지수 전환 이력, 한국 투자자의 계좌·세금 구조를 1차 출처 기준으로 정리했다.",
+    "headline": "KIE ETF란? '보험' 한 단어에 위험 구조가 정반대인 다섯 업종이 들어 있다",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/592",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/592"
+  }
+]

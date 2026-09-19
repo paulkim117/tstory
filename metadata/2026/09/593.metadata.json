@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-19",
+  "body_html_length": 7879,
+  "canonical_url": "https://mystock-note.tistory.com/593",
+  "content_hash": "596f40ae8246ab479d44ba1b1dd0e40ff05e87a3cce8bfd9ce69d31fb0f84be5",
+  "json_ld_count": 2,
+  "meta_description": "미국 에너지 인프라 기업 중 상당수는 파트너십(MLP) 형태다. 그런데 미국 세법은 일반 펀드가 이런 파트너십을 총자산의 25%까지만 담도록 제한한다. 이 제약 앞에서 상품들은 두 갈래로 갈렸다 — 제한을 받아들이고 다른 것으로 채우거나, 펀드 형태 자체를 바꾸고 법인세를 물거나. EMLP는 전자를 택한 상품이다. 이 글은 그 선택이 포트폴리오를 어떻게 바꿨는지를 1차 출처 기준으로 정리한다.EMLP는 어떤 ETF인가?EMLP 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust North American Energy Infrastructure Fund운용 방식액티브 — 추종 지수 없음부운용사Energy Income Partners, LLC (실제 포트폴리오 운용)투자 목표총수익. 전략은..",
+  "modified_time": "2026-09-20T03:50:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 에너지 인프라 기업 중 상당수는 파트너십(MLP) 형태다. 그런데 미국 세법은 일반 펀드가 이런 파트너십을 총자산의 25%까지만 담도록 제한한다. 이 제약 앞에서 상품들은 두 갈래로 갈렸다 — 제한을 받아들이고 다른 것으로 채우거나, 펀드 형태 자체를 바꾸고 법인세를 물거나. EMLP는 전자를 택한 상품이다. 이 글은 그 선택이 포트폴리오를 어떻게 바꿨는지를 1차 출처 기준으로 정리한다.EMLP는 어떤 ETF인가?EMLP 기본 사양 (출처: 발행사 공시)항목내용정식 명칭First Trust North American Energy Infrastructure Fund운용 방식액티브 — 추종 지수 없음부운용사Energy Income Partners, LLC (실제 포트폴리오 운용)투자 목표총수익. 전략은..",
+  "og_title": "EMLP ETF란? MLP를 25%까지만 담는 이유 — 세법이 포트폴리오를 결정한다",
+  "post_id": "593",
+  "published_time": "2026-09-20T03:49:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EMLP ETF란? MLP를 25%까지만 담는 이유 — 세법이 포트폴리오를 결정한다",
+  "url": "https://mystock-note.tistory.com/593"
+}

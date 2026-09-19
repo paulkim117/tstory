@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-19",
+  "body_html_length": 8418,
+  "canonical_url": "https://mystock-note.tistory.com/592",
+  "content_hash": "3141175e3fd4911e487373e36e48ea18519b12523b590a4c251ab0e4c0fe3ea5",
+  "json_ld_count": 2,
+  "meta_description": "'보험'은 하나의 업종처럼 들리지만 그 안에는 사업 구조가 정반대인 회사들이 섞여 있다. 어떤 회사는 위험을 떠안아 돈을 벌고, 어떤 회사는 위험을 전혀 지지 않고 수수료만 받는다. KIE가 따르는 지수는 이 다섯 종류를 거의 비슷한 비중으로 담는다. 이 글은 그 구조와 함의를 1차 출처 기준으로 정리한다.KIE는 어떤 ETF인가?KIE 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용추종 지수S&P Insurance Select Industry Index모집단S&P Total Market Index (S&P TMI)지수 제공자S&P Dow Jones Indices — 펀드·운용사와 비계열가중 방식수정 동일가중복제 방식표본추출투자 정책총자산의 최소 80%를 지수 구성종목에 투자법적 분류비분산형(n..",
+  "modified_time": "2026-09-20T02:50:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "'보험'은 하나의 업종처럼 들리지만 그 안에는 사업 구조가 정반대인 회사들이 섞여 있다. 어떤 회사는 위험을 떠안아 돈을 벌고, 어떤 회사는 위험을 전혀 지지 않고 수수료만 받는다. KIE가 따르는 지수는 이 다섯 종류를 거의 비슷한 비중으로 담는다. 이 글은 그 구조와 함의를 1차 출처 기준으로 정리한다.KIE는 어떤 ETF인가?KIE 기본 사양 (출처: 발행사 공시·SEC 제출서류)항목내용추종 지수S&P Insurance Select Industry Index모집단S&P Total Market Index (S&P TMI)지수 제공자S&P Dow Jones Indices — 펀드·운용사와 비계열가중 방식수정 동일가중복제 방식표본추출투자 정책총자산의 최소 80%를 지수 구성종목에 투자법적 분류비분산형(n..",
+  "og_title": "KIE ETF란? '보험' 한 단어에 위험 구조가 정반대인 다섯 업종이 들어 있다",
+  "post_id": "592",
+  "published_time": "2026-09-20T02:49:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "KIE ETF란? '보험' 한 단어에 위험 구조가 정반대인 다섯 업종이 들어 있다",
+  "url": "https://mystock-note.tistory.com/592"
+}

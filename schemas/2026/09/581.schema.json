@@ -7,10 +7,10 @@
       "logo": null,
       "name": "Blackshoot"
     },
-    "dateModified": "2026-09-17T03:38:00+09:00",
+    "dateModified": "2026-09-19T08:24:52+09:00",
     "datePublished": "2026-09-17T03:37:09+09:00",
-    "description": "채권 ETF의 주된 위험은 금리다. 금리가 오르면 채권 가격이 떨어지고 ETF 가격도 따라 떨어진다. AGRH는 그 금리 위험을 파생상품으로 걷어내려는 상품이다. 그런데 금리 위험을 제거하면 무엇이 남는가. 이 글은 그 질문을 1차 출처 기준으로 정리한다.AGRH는 어떤 ETF인가?AGRH 기본 사양 (출처: 발행사 상품 공시)항목내용정식 명칭iShares Interest Rate Hedged U.S. Aggregate Bond ETF추종 지수BlackRock Interest Rate Hedged U.S. Aggregate Bond Index지수 제공자발행사 계열 (BlackRock)상장일2022-06-22ISINUS46431W5316복제 방식합성 — 파생상품 사용운용 방식패시브기초 보유iShares C..",
-    "headline": "AGRH ETF란? 금리 위험만 걷어낸 채권 ETF — 남는 것은 신용 위험이다",
+    "description": "AGRH는 2026년 8월 17일자로 청산됐다. 금리 위험을 파생상품으로 걷어내려던 채권 ETF였고 지금은 존재하지 않는다. 이 글은 그 구조와 함께, 청산이 어떤 순서로 진행됐는지를 1차 문서로 정리한다.이미 없어진 상품을 다루는 이유는 하나다. ETF가 사라질 때 실제로 무슨 일이 일어나는지를 날짜 단위로 보여주는 자료는 드물다. 이 사례는 예고부터 대금 지급까지의 전 과정이 공시 문서에 남아 있다.AGRH는 지금 존재하나?존재하지 않는다. 2026년 8월 17일자 보충서는 해당 펀드가 그날짜로 청산됐으며, 설명서와 추가정보서의 모든 언급을 삭제한다고 적는다.표 1. 상품 개요 (청산 전 기준)항목내용정식 명칭iShares Interest Rate Hedged U.S. Aggregate Bond ET..",
+    "headline": "AGRH는 2026년 8월 청산됐다 — 금리 위험을 걷어낸 채권 ETF의 구조와 소멸 과정",
     "image": {
       "@type": "ImageObject",
       "height": "800px",
@@ -35,38 +35,46 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "about": [
+    "@graph": [
       {
-        "@type": "Thing",
-        "name": "AGRH"
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Interest Rate Hedged U.S. Aggregate Bond ETF",
+          "description": "미국 종합채권 ETF에 금리스왑을 얹어 금리 위험을 완화하려 한 합성 구조의 채권 ETF. 2026년 8월 17일 청산됨",
+          "name": "AGRH"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "AGRH는 2026년 8월 17일자로 청산됐다. 금리 위험을 파생상품으로 걷어내려던 채권 ETF였고 지금은 존재하지 않는다. 이 글은 그 구조와 함께, 청산이 어떤 순서로 진행됐는지를 1차 문서로 정리한다.",
+        "headline": "AGRH는 2026년 8월 청산됐다 — 금리 위험을 걷어낸 채권 ETF의 구조와 소멸 과정",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "AGRH, ETF 청산, 상장폐지 절차, 거래정지, 금리 헤지 채권 ETF, 합성 복제, 커모디티 풀, 청산 비용, 보충서",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
       },
       {
-        "@type": "Thing",
-        "name": "금리 헤지"
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
       },
       {
-        "@type": "Thing",
-        "name": "신용 스프레드"
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
       }
-    ],
-    "author": {
-      "@type": "Organization",
-      "name": "Stock Memo"
-    },
-    "dateModified": "2026-09-17T09:00:00+09:00",
-    "datePublished": "2026-09-17T09:00:00+09:00",
-    "description": "AGRH는 AGG 롱 포지션에 금리스왑을 덧씌워 듀레이션을 상쇄하는 채권 ETF다. 헤지 대상이 금리에 한정되고 신용 스프레드가 남는 구조, 계열 지수 산출, 재간접과 파생의 이중 비용, 커모디티 풀 등록과 K-1 문제, 단기채형과의 경로 차이를 1차 출처 기준으로 정리했다.",
-    "headline": "AGRH ETF란? 금리 위험만 걷어낸 채권 ETF — 남는 것은 신용 위험이다",
-    "inLanguage": "ko-KR",
-    "mainEntityOfPage": {
-      "@id": "https://mystock-note.tistory.com/581",
-      "@type": "WebPage"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Stock Memo"
-    },
-    "url": "https://mystock-note.tistory.com/581"
+    ]
   }
 ]
