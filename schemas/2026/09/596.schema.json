@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-21T02:01:03+09:00",
+    "datePublished": "2026-09-21T02:00:35+09:00",
+    "description": "SIZE는 무엇을 담는 상품인가?SIZE(iShares MSCI USA Size Factor ETF)는 미국 대형·중형주를 담는다. 소형주가 아니다. 그런데 이름에 '사이즈'가 붙어 있고 분류상 중형주 계열로 묶이는 경우가 많아, 소형주 상품으로 오해받기 쉽다.이 상품의 정체는 한 문장으로 정리된다. 미국 대형·중형주 지수를 그대로 가져오되, 종목별 비중만 다시 매긴 것이다. 작은 기업일수록 더 큰 비중을 준다. 종목을 고르는 상품이 아니라 비중을 다시 계산하는 상품이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·섹터 비중·배당수익률처럼 시점에 따라 달라지는 값은 싣지 않는다.'규모 팩터'는 소형주 투자와 어떻게 다른가?가장 먼저 정리해야 할 오해다. 규모 팩터 상품과 ..",
+    "headline": "SIZE ETF란? 규모 팩터가 소형주 투자와 다른 이유와 2018년 지수 교체",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/596",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/596"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 구조 분석",
+    "author": {
+      "@type": "Organization",
+      "name": "주식 메모"
+    },
+    "dateModified": "2026-09-21",
+    "datePublished": "2026-09-21",
+    "description": "SIZE는 미국 대형·중형주 지수를 재가중한 상품이며 소형주 ETF가 아니다. 자연로그 반비례 가중의 실제 효과, 섹터 편향 발생 구조, 2018년 12월 저변동성 지수에서 규모 지수로의 교체 이력을 1차 출처로 정리했다.",
+    "headline": "SIZE ETF란? 규모 팩터가 소형주 투자와 다른 이유와 2018년 지수 교체",
+    "inLanguage": "ko-KR",
+    "keywords": "SIZE, 규모 팩터, MSCI USA Low Size, 재가중, 자연로그 가중, 팩터 ETF, 지수 전환, 섹터 편향, 미국 대형주 ETF, 해외주식 양도소득세",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/596",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "주식 메모"
+    }
+  }
+]

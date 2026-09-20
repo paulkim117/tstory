@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": "ETF 구조 분석",
+  "author": {
+    "@type": "Organization",
+    "name": "주식 메모"
+  },
+  "dateModified": "2026-09-21",
+  "datePublished": "2026-09-21",
+  "description": "GARP는 성장 점수만으로 종목을 선정하고 퀄리티·밸류는 비중 조정 단계에서만 쓴다. 모지수 비중 50% 커버 방식, 틸트 점수 구성, 종목·섹터 상한, 2024년 STLG에서 GARP로의 티커·지수 동시 교체 이력을 1차 출처로 정리했다.",
+  "headline": "GARP ETF란? 성장으로 뽑고 밸류·퀄리티로 기울이는 2단 구조와 2024년 티커 교체",
+  "inLanguage": "ko-KR",
+  "keywords": "GARP, STLG, MSCI USA Quality GARP, 성장주 ETF, 퀄리티 팩터, 밸류 팩터, 틸트 점수, 지수 전환, 비분산형, 해외주식 양도소득세",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/597",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "주식 메모"
+  }
+}

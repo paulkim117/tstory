@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-20",
+  "body_html_length": 12951,
+  "canonical_url": "https://mystock-note.tistory.com/597",
+  "content_hash": "85b997ca146c35160d037e77917cbaf693c5d5e1e8471c4176e18fd190de75b0",
+  "json_ld_count": 1,
+  "meta_description": "GARP는 어떤 상품인가?GARP(iShares MSCI USA Quality GARP ETF)는 미국 대형·중형주 중에서 성장성이 높은 기업을 뽑되, 값이 비싸지 않고 재무가 튼튼한 쪽으로 비중을 기울이는 상품이다. 상장 거래소는 Cboe BZX다.이름에 퀄리티와 GARP가 모두 들어 있어 \"퀄리티·밸류·성장 세 팩터를 합친 상품\"으로 이해되기 쉽다. 정확하지 않다. 세 팩터가 같은 층위에서 작동하지 않는다. 종목을 뽑는 단계와 비중을 정하는 단계에서 서로 다른 팩터가 순차적으로 쓰인다. 이 구조를 이해하는 것이 이 글의 목적이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·자금흐름·수익률·구성종목 수·섹터 비중·평가등급처럼 시점에 따라 달라지는 값은 싣지 않는다.'GARP'는 무슨 뜻인가..",
+  "modified_time": "2026-09-21T03:01:04+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/597\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/597\",\"headline\":\"GARP ETF란? 성장으로 뽑고 밸류·퀄리티로 기울이는 2단 구조와 2024년 티커 교체\",\"description\":\"GARP는 어떤 상품인가?GARP(iShares MSCI USA Quality GARP ETF)는 미국 대형·중형주 중에서 성장성이 높은 기업을 뽑되, 값이 비싸지 않고 재무가 튼튼한 쪽으로 비중을 기울이는 상품이다. 상장 거래소는 Cboe BZX다.이름에 퀄리티와 GARP가 모두 들어 있어 \"퀄리티·밸류·성장 세 팩터를 합친 상품\"으로 이해되기 쉽다. 정확하지 않다. 세 팩터가 같은 층위에서 작동하지 않는다. 종목을 뽑는 단계와 비중을 정하는 단계에서 서로 다른 팩터가 순차적으로 쓰인다. 이 구조를 이해하는 것이 이 글의 목적이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·자금흐름·수익률·구성종목 수·섹터 비중·평가등급처럼 시점에 따라 달라지는 값은 싣지 않는다.'GARP'는 무슨 뜻인가..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-21T03:01:01+09:00\",\"dateModified\":\"2026-09-21T03:01:04+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "GARP는 어떤 상품인가?GARP(iShares MSCI USA Quality GARP ETF)는 미국 대형·중형주 중에서 성장성이 높은 기업을 뽑되, 값이 비싸지 않고 재무가 튼튼한 쪽으로 비중을 기울이는 상품이다. 상장 거래소는 Cboe BZX다.이름에 퀄리티와 GARP가 모두 들어 있어 \"퀄리티·밸류·성장 세 팩터를 합친 상품\"으로 이해되기 쉽다. 정확하지 않다. 세 팩터가 같은 층위에서 작동하지 않는다. 종목을 뽑는 단계와 비중을 정하는 단계에서 서로 다른 팩터가 순차적으로 쓰인다. 이 구조를 이해하는 것이 이 글의 목적이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·자금흐름·수익률·구성종목 수·섹터 비중·평가등급처럼 시점에 따라 달라지는 값은 싣지 않는다.'GARP'는 무슨 뜻인가..",
+  "og_title": "GARP ETF란? 성장으로 뽑고 밸류·퀄리티로 기울이는 2단 구조와 2024년 티커 교체",
+  "post_id": "597",
+  "published_time": "2026-09-21T03:01:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GARP ETF란? 성장으로 뽑고 밸류·퀄리티로 기울이는 2단 구조와 2024년 티커 교체",
+  "url": "https://mystock-note.tistory.com/597"
+}

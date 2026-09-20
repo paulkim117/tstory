@@ -1,0 +1,399 @@
+<!--
+source: https://mystock-note.tistory.com/596
+backup_date: 2026-09-20
+post_id: 596
+-->
+<h2 data-ke-size="size26">SIZE는 무엇을 담는 상품인가?</h2>
+<p data-ke-size="size16">SIZE(iShares MSCI USA Size Factor ETF)는 미국 <b>대형&middot;중형주</b>를 담는다. 소형주가 아니다. 그런데 이름에 '사이즈'가 붙어 있고 분류상 중형주 계열로 묶이는 경우가 많아, 소형주 상품으로 오해받기 쉽다.</p>
+<p data-ke-size="size16">이 상품의 정체는 한 문장으로 정리된다. <b>미국 대형&middot;중형주 지수를 그대로 가져오되, 종목별 비중만 다시 매긴 것이다.</b> 작은 기업일수록 더 큰 비중을 준다. 종목을 고르는 상품이 아니라 <b>비중을 다시 계산하는 상품</b>이다.</p>
+
+<p></p>
+
+<p data-ke-size="size16">본 글은 <b>지수 규칙과 상품 구조</b>만 다룬다. 총보수&middot;순자산&middot;수익률&middot;구성종목 수&middot;섹터 비중&middot;배당수익률처럼 시점에 따라 달라지는 값은 싣지 않는다.</p>
+<h2 data-ke-size="size26">'규모 팩터'는 소형주 투자와 어떻게 다른가?</h2>
+<p data-ke-size="size16">가장 먼저 정리해야 할 오해다. <b>규모 팩터 상품과 소형주 지수 상품은 모집단부터 다르다.</b></p>
+<table data-ke-align="alignLeft"><caption>표1. 규모 팩터와 소형주 지수의 구조 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>규모 팩터(SIZE)</th>
+<th>소형주 지수 상품</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>출발 모집단</td>
+<td>미국 <b>대형&middot;중형주</b> 지수</td>
+<td>대형주를 <b>제외한</b> 소형주 구간</td>
+</tr>
+<tr>
+<td>종목 선정</td>
+<td>선정하지 않음 &mdash; 모지수 구성종목을 그대로 사용</td>
+<td>규모 구간으로 잘라 선정</td>
+</tr>
+<tr>
+<td>작동 방식</td>
+<td>비중 <b>재계산</b></td>
+<td>구간 <b>분할</b></td>
+</tr>
+<tr>
+<td>담기는 기업</td>
+<td>대형주도 담긴다(비중만 작아짐)</td>
+<td>대형주는 담기지 않음</td>
+</tr>
+<tr>
+<td>목표</td>
+<td>기존 유니버스 안에서 규모 방향 기울기 확보</td>
+<td>소형주 구간 자체에 대한 노출</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">차이가 명확하다. 소형주 ETF는 "대형주를 빼고 작은 기업만 담는다". 규모 팩터 ETF는 <b>"대형주도 담되 비중을 줄이고, 상대적으로 작은 기업의 비중을 늘린다"</b>. 소형주 노출을 원해서 규모 팩터 상품을 사면 의도한 것과 다른 결과를 얻는다.</p>
+<p data-ke-size="size16">규모 구간을 잘라 담는 방식은 <a href="/410">VO ETF란? 미국 중형주 투자, 대형&middot;소형 ETF와 무엇이 다른가</a>에서 정리했다.</p>
+<h2 data-ke-size="size26">지수는 어떻게 만들어지는가?</h2>
+<p data-ke-size="size16">SIZE의 기초지수는 <b>MSCI USA Low Size Index</b>다. 모지수는 <b>MSCI USA Index</b>로, 미국 대형&middot;중형주를 담는 전통적 시가총액 가중 지수다. <span>[사실]</span></p>
+<table data-ke-align="alignLeft"><caption>표2. 지수 구성 절차</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. 모집단 확정</td>
+<td>MSCI USA Index 구성종목을 그대로 가져온다</td>
+</tr>
+<tr>
+<td>2. 종목 선별</td>
+<td><b>없음</b> &mdash; 별도 스크리닝이나 컷오프를 적용하지 않는다</td>
+</tr>
+<tr>
+<td>3. 재가중</td>
+<td>수학 공식을 적용해 비중을 다시 계산한다. 시가총액이 작은 기업일수록 큰 비중을 받는다</td>
+</tr>
+<tr>
+<td>4. 가중 산식</td>
+<td>발행자 총 시가총액의 <b>자연로그에 반비례</b>하는 비중 부여</td>
+</tr>
+<tr>
+<td>5. 정기 조정</td>
+<td>반기 리밸런싱 <span>[확인 필요]</span> 정확한 실행 월은 지수 제공자 방법론 문서에서 확인 필요</td>
+</tr>
+<tr>
+<td>지수 산출 주체</td>
+<td>MSCI &mdash; 운용사(블랙록)와 <b>비계열</b>. 발행사 문서에 명시</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">2단계가 이 상품의 성격을 규정한다. <b>종목을 고르는 절차가 아예 없다.</b> 대부분의 팩터 지수는 점수를 매겨 상위 몇 %를 뽑거나 하위를 잘라낸다. 규모 팩터는 그렇게 하지 않는다. 모집단은 건드리지 않고 오직 비중 계산식만 바꾼다. 팩터 상품 안에서도 드문 유형이다.</p>
+<h2 data-ke-size="size26">왜 하필 '자연로그'인가?</h2>
+<p data-ke-size="size16">"작은 기업에 큰 비중"이라는 목표만 놓고 보면 시가총액의 <b>단순 역수</b>를 쓰는 방법도 있다. 그런데 그렇게 하면 문제가 생긴다. 시가총액 차이가 수십 배, 수백 배 나기 때문에 비중이 극단적으로 쏠린다. 가장 작은 기업 하나가 포트폴리오의 대부분을 차지하게 된다.</p>
+<p data-ke-size="size16">자연로그를 쓰면 이 극단이 완화된다. 로그는 큰 숫자의 차이를 압축하기 때문이다.</p>
+<table data-ke-align="alignLeft"><caption>표3. 가중 방식별 비중 배분 <span>(가상 예시)</span></caption>
+<thead>
+<tr>
+<th>기업</th>
+<th>가정 시가총액</th>
+<th>시가총액 가중</th>
+<th>단순 역수 가중</th>
+<th><b>자연로그 반비례 가중</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A(가장 작음)</td>
+<td>1조</td>
+<td>약 1%</td>
+<td>약 90%</td>
+<td><b>약 36%</b></td>
+</tr>
+<tr>
+<td>B</td>
+<td>10조</td>
+<td>약 9%</td>
+<td>약 9%</td>
+<td><b>약 33%</b></td>
+</tr>
+<tr>
+<td>C(가장 큼)</td>
+<td>100조</td>
+<td>약 90%</td>
+<td>약 1%</td>
+<td><b>약 31%</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">위 수치는 이해를 돕기 위한 <b>가상의 계산 예시</b>이며 실제 지수 구성이 아니다. 그러나 구조적 성질은 그대로 드러난다. <b>자연로그 반비례 가중의 결과는 '작은 기업 몰빵'이 아니라 '거의 동일가중에 가까운 상태에서 작은 쪽으로 살짝 기운 것'이다.</b></p>
+<p data-ke-size="size16">이 점이 중요하다. 시가총액이 100배 차이 나도 비중 차이는 몇 %p 수준에 그친다. <b>규모 팩터 상품에서 실제로 일어나는 가장 큰 변화는 "소형주 노출"이 아니라 "대형주 집중의 해체"다.</b></p>
+<h2 data-ke-size="size26">의도하지 않은 섹터 편향은 왜 생기는가?</h2>
+<p data-ke-size="size16">비중 계산식만 바꿨는데 부수 효과가 발생한다. <b>업종마다 기업의 평균 규모가 다르기 때문이다.</b></p>
+<table data-ke-align="alignLeft"><caption>표4. 재가중이 만드는 부수 효과</caption>
+<thead>
+<tr>
+<th>효과</th>
+<th>발생 원인</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>섹터 비중이 모지수와 크게 달라짐</td>
+<td>초대형 기업이 몰린 업종은 비중이 줄고, 중소 규모 기업이 많은 업종은 비중이 늘어남</td>
+</tr>
+<tr>
+<td>섹터 중립 장치 없음</td>
+<td>규모 외 다른 기준을 적용하지 않으므로 업종 편향을 보정하지 않음</td>
+</tr>
+<tr>
+<td>구성종목이 자주 바뀔 수 있음</td>
+<td>모지수의 대형&middot;중형 경계 근처 기업이 시장 움직임과 기업 행위에 따라 드나듦</td>
+</tr>
+<tr>
+<td>분류상 중형주 계열로 묶임</td>
+<td>대형&middot;중형 유니버스에서 출발했으나 재가중 결과가 중형 쪽 특성에 가까워짐</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 팩터 상품 전반에 적용되는 원칙이 나온다. <b>하나의 기준으로 비중을 바꾸면, 그 기준과 상관관계가 있는 다른 성질도 함께 바뀐다.</b> 규모만 조정했다고 생각해도 업종 구성이 따라 움직인다. 이를 억제하려면 별도의 중립화 장치가 필요한데, 이 지수에는 그런 장치가 없다. 섹터 중립 장치를 갖춘 팩터 지수의 사례는 <a href="/374">QUAL ETF란? 미국 퀄리티 팩터 선정 3지표와 섹터 중립 구조 (밸류&middot;저변동 팩터와 차이)</a>에서 다뤘다.</p>
+<h2 data-ke-size="size26">리밸런싱에 어떤 성질이 내장돼 있는가?</h2>
+<p data-ke-size="size16">시가총액에 반비례하는 가중은 <b>자동 역발상 조정</b>을 규칙에 내장한다. 주가가 오른 기업은 시가총액이 커지므로 다음 리밸런싱에서 비중이 줄고, 내린 기업은 비중이 늘어난다.</p>
+<p data-ke-size="세ize16">즉 <b>정기적으로 오른 종목을 팔고 내린 종목을 사는 매매가 규칙에 따라 강제된다.</b> 이는 시가총액 가중 지수와 정반대다. 시가총액 가중은 오른 종목의 비중이 저절로 커지므로 별도 매매가 필요 없다.</p>
+<p data-ke-size="size16">이 성질은 장단이 뚜렷하다. 특정 종목으로의 쏠림을 구조적으로 억제하지만, 강한 추세가 장기간 이어지는 국면에서는 상승 종목을 계속 덜어내게 된다. 또한 정기 매매가 발생하므로 <b>회전율과 거래비용이 시가총액 가중 상품보다 높을 수 있다.</b> 실제 수준은 발행사 자료에서 직접 확인해야 한다.</p>
+<h2 data-ke-size="size26">이 상품은 과거에 다른 지수를 추종했다</h2>
+<p data-ke-size="size16">장기 차트를 볼 때 반드시 알아야 할 사실이다. <b>SIZE는 2018년 12월 3일에 기초지수를 교체했다.</b> 그 이전에 추종하던 지수는 <b>MSCI USA Risk Weighted Index</b>로, 규모가 아니라 <b>변동성이 낮은 종목에 비중을 기울이는</b> 성격의 지수였다. <span>[사실]</span></p>
+<table data-ke-align="alignLeft"><caption>표5. 지수 전환 이력</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>2018년 12월 3일 이전</th>
+<th>2018년 12월 3일 이후</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초지수</td>
+<td>MSCI USA Risk Weighted Index</td>
+<td>MSCI USA Low Size Index</td>
+</tr>
+<tr>
+<td>비중 결정 기준</td>
+<td>위험(변동성) 기반</td>
+<td>시가총액 규모 기반</td>
+</tr>
+<tr>
+<td>노출 팩터</td>
+<td>저변동성 성향</td>
+<td>규모 성향</td>
+</tr>
+<tr>
+<td>모집단</td>
+<td colspan="2">MSCI USA Index 계열로 동일</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이 전환의 성격은 명확하다. <b>모집단은 유지하면서 구성 논리를 통째로 바꿨다.</b> 저변동성 지수의 구조는 <a href="/370">USMV ETF란? SPLV와 차이, 최소변동성 최적화와 저변동 팩터의 함정</a>에서 다뤘는데, 규모 가중과는 작동 원리가 전혀 다르다.</p>
+<p data-ke-size="size16">따라서 <b>2018년 이전 구간의 성과는 현재 전략의 성과가 아니다.</b> 설정 이후 장기 수익률이나 10년 성과를 볼 때, 앞부분은 다른 상품의 기록이라고 보아야 한다. 팩터 ETF에서 이런 지수 교체는 드물지 않으며, 상품명과 티커가 그대로여서 알아채기 어렵다.</p>
+<p data-ke-size="size16">참고로 이 상품은 명칭도 바뀌었다. 과거 'iShares Edge' 브랜드를 달고 있었으나 이후 현재 명칭으로 변경됐다. 명칭 변경은 전략 변경을 동반할 수도, 동반하지 않을 수도 있다. <b>판별법은 변경 공시 문구를 직접 확인하는 것뿐이다.</b></p>
+<h2 data-ke-size="size26">운용사는 지수를 어떻게 추종하는가?</h2>
+<table data-ke-align="alignLeft"><caption>표6. SIZE 운용 정책</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>상장 거래소</td>
+<td>NYSE Arca</td>
+</tr>
+<tr>
+<td>설정일</td>
+<td>2013년 4월 16일</td>
+</tr>
+<tr>
+<td>운용사</td>
+<td>BlackRock Fund Advisors</td>
+</tr>
+<tr>
+<td>지수 제공자</td>
+<td>MSCI &mdash; 운용사와 비계열</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>실물 보유</td>
+</tr>
+<tr>
+<td>최소 투자 정책</td>
+<td>자산의 80% 이상을 기초지수 구성 증권에 투자</td>
+</tr>
+<tr>
+<td>나머지 20%</td>
+<td>선물&middot;옵션&middot;스왑, 현금 및 현금성 자산(계열 머니마켓펀드 포함), 그리고 <b>지수에 포함되지 않았으나 추적에 도움이 된다고 판단한 증권</b></td>
+</tr>
+<tr>
+<td>세법상 분류</td>
+<td>Regulated Investment Company(RIC)</td>
+</tr>
+<tr>
+<td>분산 분류</td>
+<td><b>분산형</b> &mdash; 미국 규제 요건 충족</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">20% 항목의 마지막 문구를 눈여겨볼 만하다. <b>지수에 없는 종목도 추적 목적으로 담을 수 있다.</b> "지수를 그대로 복제한다"는 통념과 실제 규정 사이에는 이만큼의 여지가 있다.</p>
+<h2 data-ke-size="size26">왜 '분산형'으로 분류되는가?</h2>
+<p data-ke-size="size16">SIZE는 미국 규제상 <b>분산형(diversified)</b> 펀드 요건을 충족한다. 미국 대형주 광역 상품 중에는 종목 수가 훨씬 많은데도 <b>비분산형</b>으로 분류되는 사례가 있다는 점과 대비된다.</p>
+<p data-ke-size="size16">이유는 이 글에서 다룬 가중 구조에 있다. 분산 요건은 종목 수가 아니라 <b>개별 종목 비중의 상한</b>으로 판정된다. 시가총액 가중 상품은 상위 몇 종목의 비중이 크게 올라가 요건을 벗어날 수 있지만, <b>자연로그 반비례 가중은 비중을 고르게 펴놓기 때문에 개별 종목 비중이 애초에 크게 올라가지 않는다.</b></p>
+<p data-ke-size="size16">여기서 얻을 수 있는 원칙은 이렇다. <b>'분산'은 담은 종목 수가 아니라 비중 분포로 판정된다.</b> 1,000종목을 담아도 상위 쏠림이 크면 비분산형이 되고, 그보다 적은 종목을 담아도 비중이 고르면 분산형이 된다.</p>
+
+<h2 data-ke-size="size26">규모 관련 상품들과 어떻게 나눠 쓰는가?</h2>
+<p data-ke-size="size16">"작은 기업 노출"이라는 목적 하나에 대해 서로 다른 구조가 존재한다.</p>
+<table data-ke-align="alignLeft"><caption>표7. 규모 관련 상품 4계열 대조</caption>
+<thead>
+<tr>
+<th>계열</th>
+<th>작동 방식</th>
+<th>대형주 포함</th>
+<th>주된 효과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>대형주 지수</td>
+<td>상위 구간 선정</td>
+<td>포함</td>
+<td>시장 상위 집중</td>
+</tr>
+<tr>
+<td>중형주 지수</td>
+<td>중간 구간 선정</td>
+<td>미포함</td>
+<td>중간 규모 구간 노출</td>
+</tr>
+<tr>
+<td>소형주 지수</td>
+<td>하위 구간 선정</td>
+<td>미포함</td>
+<td>소형 구간 노출</td>
+</tr>
+<tr>
+<td><b>규모 팩터(SIZE)</b></td>
+<td><b>대형&middot;중형 유니버스 재가중</b></td>
+<td><b>포함(비중 축소)</b></td>
+<td><b>대형주 집중 해체 + 소형 쪽 완만한 기울기</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">정리하면, 규모 팩터 상품은 <b>소형주 상품의 대체재가 아니라 대형주 지수의 변형</b>에 가깝다. 이미 시가총액 가중 대형주 상품을 보유한 투자자가 상위 종목 쏠림을 완화하고 싶을 때 검토할 수 있는 도구이며, 소형주 구간 자체에 노출되고 싶다면 소형주 지수 상품을 별도로 보아야 한다.</p>
+<h2 data-ke-size="size26">국내 상장 대안은 있는가?</h2>
+<p data-ke-size="size16"><span>[정보부족]</span> 미국 규모 팩터 지수를 추종하는 국내 상장 ETF의 존재 여부는 본 글 작성 시점 조사에서 <b>확인되지 않았다.</b> 이는 부재가 확인됐다는 뜻이 아니라 확인하지 못했다는 뜻이다. 한국거래소 상장 종목 검색 또는 각 운용사 상품 페이지에서 직접 확인하기를 권한다.</p>
+<p data-ke-size="size16">다만 구조적으로 짚어둘 점이 있다. 규모 팩터가 만드는 효과의 상당 부분은 <b>대형주 집중 완화</b>이며, 이는 동일가중 방식으로도 비슷하게 달성된다. 국내 상장 상품 중 미국 대형주 동일가중형이 있다면 목적이 겹칠 수 있다. <span>[확인 필요]</span> 두 방식의 실제 결과 차이는 별도 검토가 필요하다.</p>
+<h2 data-ke-size="size26">한국 거주자의 세금은 어떻게 되는가?</h2>
+<table data-ke-align="alignLeft"><caption>표8. 한국 거주자 기준 과세 경로</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>미국 상장 직접투자(SIZE)</th>
+<th>국내 상장 해외지수 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>해외주식 양도소득세 22%(지방소득세 포함), 분류과세</td>
+<td>배당소득세 15.4%</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>배당소득으로 과세. 미국 원천징수 후 국내 정산</td>
+<td>배당소득세 15.4%</td>
+</tr>
+<tr>
+<td>금융소득종합과세</td>
+<td>분배금이 금융소득에 합산. 연 2,000만원 초과 시 대상</td>
+<td>매매차익&middot;분배금 모두 합산. 2,000만원 초과 시 대상</td>
+</tr>
+<tr>
+<td>연금&middot;ISA 계좌</td>
+<td>편입 불가</td>
+<td>편입 가능</td>
+</tr>
+<tr>
+<td>환위험</td>
+<td>원/달러 변동에 직접 노출</td>
+<td>상품별 환헤지 여부 상이</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">계좌 유형별 유불리 판단 기준은 <a href="/400">미국 ETF 직접투자 vs 국내 상장, 세금&middot;환전&middot;계좌 어디가 유리한가</a>에 정리돼 있다. 금융투자소득세는 2024년 12월 10일 폐지가 확정됐으며 <span>[사실]</span>, 2026년 재도입 논의는 <span>[진행 중]</span>이다.</p>
+<h2 data-ke-size="size26">어떤 경우에 검토 대상이 되는가?</h2>
+<table data-ke-align="alignLeft"><caption>표9. 구조 적합성 판단 기준</caption>
+<thead>
+<tr>
+<th>상황</th>
+<th>구조적 정합성</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>보유 중인 대형주 상품의 상위 종목 쏠림을 완화하고 싶은 경우</td>
+<td>부합</td>
+<td>재가중이 개별 종목 비중을 고르게 편다</td>
+</tr>
+<tr>
+<td>규칙에 역발상 조정이 내장된 상품을 원하는 경우</td>
+<td>부합</td>
+<td>리밸런싱 시 오른 종목 비중 자동 축소</td>
+</tr>
+<tr>
+<td><b>소형주 구간에 노출되고 싶은 경우</b></td>
+<td><b>부적합</b></td>
+<td>모집단이 대형&middot;중형이며 소형주는 담기지 않음</td>
+</tr>
+<tr>
+<td>업종 구성을 시장과 비슷하게 유지하고 싶은 경우</td>
+<td>부적합</td>
+<td>섹터 중립 장치가 없어 업종 편향 발생</td>
+</tr>
+<tr>
+<td>장기 성과 이력을 근거로 판단하려는 경우</td>
+<td>주의</td>
+<td>2018년 12월 지수 교체로 앞 구간은 다른 전략의 기록</td>
+</tr>
+<tr>
+<td>연금계좌에서 운용하려는 경우</td>
+<td>불가</td>
+<td>미국 상장 개별 ETF 직접 편입 제한</td>
+</tr>
+</tbody>
+</table>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">규모 팩터 &ne; 소형주</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">100</p>
+<p data-ke-size="size16">2018년 지수 교체 이력</p>
+<progress value="95" max="100"></progress>
+<p data-ke-size="size16">95</p>
+<p data-ke-size="size16">자연로그 가중의 실제 효과</p>
+<progress value="85" max="100"></progress>
+<p data-ke-size="size16">85</p>
+<p data-ke-size="size16">섹터 편향 발생</p>
+<progress value="80" max="100"></progress>
+<p data-ke-size="size16">80</p>
+<p data-ke-size="size16">기존 보유 상품과의 중복</p>
+<progress value="75" max="100"></progress>
+<p data-ke-size="size16">75</p>
+<p data-ke-size="size16">과세 경로 선택</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">70</p>
+<p data-ke-size="size16">회전율&middot;거래비용</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">50</p>

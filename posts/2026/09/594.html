@@ -1,0 +1,486 @@
+<!--
+source: https://mystock-note.tistory.com/594
+backup_date: 2026-09-20
+post_id: 594
+-->
+<h2 data-ke-size="size26">EDV는 정확히 무엇에 투자하는 상품인가?</h2>
+<p data-ke-size="size16">EDV(Vanguard Extended Duration Treasury ETF)는 미국 국채를 담는다. 그런데 우리가 흔히 아는 '국채'가 아니다. 국채에서 이자 지급 권리와 원금 상환 권리를 <b>따로 떼어내 각각 별도의 증권으로 만든 것</b>, 즉 STRIPS를 담는다.</p>
+<p data-ke-size="size16">이 차이가 상품 성격 전체를 바꾼다. 만기까지 한 푼도 이자를 주지 않는 증권만 모아놓았기 때문에, 같은 만기의 일반 국채보다 금리 변동에 훨씬 크게 반응한다. 발행사인 뱅가드는 투자설명서에서 이 상품이 <b>주로 기관 투자자를 위한 것</b>이라고 직접 명시한다. ETF 설명서가 특정 투자자군을 지목하는 경우는 드물다.</p>
+
+<p></p>
+
+<p data-ke-size="size16">본 글은 <b>구조와 규칙</b>만 다룬다. 총보수&middot;순자산&middot;수익률&middot;분배율&middot;듀레이션 수치&middot;구성종목 수처럼 시점에 따라 달라지는 값은 일절 싣지 않는다. 그런 값은 발행사 공식 페이지에서 직접 확인해야 한다.</p>
+<h2 data-ke-size="size26">국채 STRIPS란 무엇이고, 어떻게 만들어지는가?</h2>
+<p data-ke-size="size16">STRIPS는 Separate Trading of Registered Interest and Principal of Securities의 약자다. 미국 재무부에 등록된 제도로, 하나의 국채를 이자 조각과 원금 조각으로 쪼개 각각을 독립적으로 사고팔 수 있게 만든다. <span>[사실]</span> 뱅가드 투자설명서는 신규 발행 10년 만기 국채를 예로 든다.</p>
+<table data-ke-align="alignLeft"><caption>표1. 국채 1종의 STRIPS 분해 구조</caption>
+<thead>
+<tr>
+<th>원 증권</th>
+<th>분해 결과</th>
+<th>각 조각의 성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">신규 발행 10년 만기 국채 1종</td>
+<td>반기 이표 지급 20회분 &rarr; 이표 STRIPS 20개</td>
+<td>각각 정해진 날짜에 정해진 금액 1회만 지급</td>
+</tr>
+<tr>
+<td>만기 원금 상환 1회분 &rarr; 원금 STRIPS 1개</td>
+<td>만기일에 액면금액 1회만 지급</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">즉 국채 1종이 21개의 별도 증권으로 나뉜다. 각 조각은 "언제 얼마를 받는다"는 약속 하나만 남은 상태다. 중간 현금흐름이 사라졌으므로 각 조각은 <b>무이표채(제로쿠폰채)</b>가 된다. 원리금 지급 주체는 여전히 미국 재무부이므로 신용 위험 성격은 원 국채와 동일하다.</p>
+<h2 data-ke-size="size26">기초지수는 이 조각들을 어떤 기준으로 담는가?</h2>
+<p data-ke-size="size16">EDV의 목표지수는 <b>Bloomberg U.S. Treasury STRIPS 20&ndash;30 Year Equal Par Bond Index</b>다. 지수 산출 주체는 Bloomberg Index Services Limited(BISL)다. <span>[사실]</span></p>
+<table data-ke-align="alignLeft"><caption>표2. 목표지수 방법론 요약</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>규칙</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>편입 대상</td>
+<td>미국 재무부에 등록된 미국 달러 표시 고정금리 STRIPS</td>
+</tr>
+<tr>
+<td>조각 유형</td>
+<td>기존 국채&middot;국채증권에서 분리된 <b>이자 지급분과 원금 지급분 모두</b></td>
+</tr>
+<tr>
+<td>만기 범위</td>
+<td>20년 ~ 30년</td>
+</tr>
+<tr>
+<td>가중 방식</td>
+<td>동일 액면(Equal Par)</td>
+</tr>
+<tr>
+<td>재구성 주기</td>
+<td>월 1회, 지수 제공자가 수행</td>
+</tr>
+<tr>
+<td>구성 결정권</td>
+<td>지수 제공자 단독 재량. 운용사&middot;계열사는 구성 선정&middot;방법론 변경 권한 없음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 두 가지를 짚어야 한다. 첫째, 이 지수는 <b>이표 STRIPS와 원금 STRIPS를 모두 담는다</b>. 뒤에서 볼 국내 상장 상품은 원금 STRIPS만 담는 지수를 쓴다. 둘째, 지수가 <b>운용사 계열이 아니다</b>. 뱅가드는 상표 사용권만 라이선스했고, 지수 구성&middot;산출은 블룸버그가 뱅가드나 펀드 투자자의 사정을 고려하지 않고 결정한다고 설명서에 명시돼 있다.</p>
+<h2 data-ke-size="size26">'동일 액면 가중'은 시가총액 가중과 무엇이 다른가?</h2>
+<p data-ke-size="size16">대부분의 채권지수는 발행 잔액에 비례해 비중을 준다. 많이 발행된 종목이 많이 담긴다. 동일 액면 가중은 그렇지 않다. <b>액면금액 기준으로 균등하게</b> 담는다.</p>
+<table data-ke-align="alignLeft"><caption>표3. 가중 방식 3유형 대조</caption>
+<thead>
+<tr>
+<th>유형</th>
+<th>비중 결정 기준</th>
+<th>시장가격이 계산식에 들어가는가</th>
+<th>재구성 시 자동으로 생기는 효과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>시가총액&middot;발행잔액 가중</td>
+<td>발행 규모</td>
+<td>들어감</td>
+<td>가격이 오른 종목 비중이 자동 확대</td>
+</tr>
+<tr>
+<td>동일가중</td>
+<td>종목 수 균등</td>
+<td>안 들어감</td>
+<td>오른 종목을 덜어내고 내린 종목을 보탬</td>
+</tr>
+<tr>
+<td><b>동일 액면 가중</b></td>
+<td>액면금액 균등</td>
+<td>안 들어감</td>
+<td>만기 시점이 다른 조각들에 균등 배분 &rarr; 만기 분포가 규칙적으로 유지됨</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">동일 액면 가중은 만기별로 받을 금액을 고르게 깔아둔다는 뜻이다. 이는 우연이 아니다. 이 상품이 겨냥한 사용처 &mdash; 먼 미래에 순차적으로 발생하는 부채를 국채 현금흐름으로 맞추는 작업 &mdash; 와 정확히 맞물린다. <b>가중 방식이 상품의 용도를 그대로 반영한 사례</b>다.</p>
+<h2 data-ke-size="size26">왜 만기와 금리 민감도가 거의 같아지는가?</h2>
+<p data-ke-size="size16">듀레이션은 금리가 변할 때 가격이 얼마나 움직이는지를 나타내는 지표다. 뱅가드 설명서는 이렇게 설명한다. <span>(가상 예시)</span> 듀레이션이 2년인 채권은 금리가 1%p 오르면 가격이 약 2% 하락하고, 1%p 내리면 약 2% 상승한다.</p>
+<p data-ke-size="size16">일반 이표채는 만기 전에 이자를 계속 받는다. 받은 돈은 이미 회수된 것이므로, 가중평균으로 계산한 회수 시점은 만기보다 앞당겨진다. 그래서 <b>만기 30년 이표채의 듀레이션은 30년보다 상당히 짧다</b>.</p>
+<p data-ke-size="size16">무이표채는 다르다. 중간 회수가 없으므로 회수 시점이 만기 하나뿐이다. 듀레이션이 잔존만기에 근접한다. 뱅가드는 이를 위험 항목으로 별도 기재해, STRIPS가 <b>같은 만기의 이표채보다 금리 변화에 더 민감</b>하며 금리 상승 시 가치가 크게 하락할 수 있다고 명시한다.</p>
+<table data-ke-align="alignLeft"><caption>표4. 이표채와 무이표채의 구조 대비</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>이표 국채</th>
+<th>국채 STRIPS(무이표)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>만기 전 현금 지급</td>
+<td>있음(통상 반기)</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>만기 대비 듀레이션</td>
+<td>만기보다 짧음</td>
+<td>만기에 근접</td>
+</tr>
+<tr>
+<td>같은 만기 기준 금리 민감도</td>
+<td>상대적으로 낮음</td>
+<td>상대적으로 높음</td>
+</tr>
+<tr>
+<td>재투자 위험</td>
+<td>이자 재투자 시점 금리에 노출</td>
+<td>중간 이자가 없어 해당 문제 미발생</td>
+</tr>
+<tr>
+<td>만기 수령액</td>
+<td>원금 + 최종 이표</td>
+<td>액면금액 단일</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">"만기가 길면 위험하다"는 통념은 이표채를 전제로 만들어졌다. 무이표 상품에서는 <b>같은 만기라도 위험의 크기가 달라진다</b>. 장기국채 상품을 고를 때 만기 숫자만 비교하면 안 되는 이유다.</p>
+<h2 data-ke-size="size26">이자를 안 주는데 왜 분배금이 나오는가?</h2>
+<p data-ke-size="size16">이 상품에서 가장 이해하기 어려운 지점이다. STRIPS는 현금 이자를 지급하지 않는다. 그런데 EDV는 분배금을 낸다.</p>
+<p data-ke-size="size16">이유는 세법에 있다. 무이표증권의 <b>원본할인액(Original Issue Discount, OID)</b>은 미국 세법상 이자로 간주된다. 실제 현금이 들어오지 않아도 회계&middot;세무상으로는 이자 수익이 발생한 것으로 처리된다. 규제상 펀드는 이 수익을 주주에게 분배해야 한다.</p>
+<p data-ke-size="size16">뱅가드는 그 결과를 위험 항목에 그대로 적어두었다. <b>펀드가 분배 요건을 충족하기 위해 보유 자산을 매각해야 할 수 있으며, 그 시점이 불리한 때일 수 있다</b>는 것이다.</p>
+<table data-ke-align="alignLeft"><caption>표5. 현금흐름 없는 수익과 분배 의무의 연결 구조</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>실제 현금</th>
+<th>세무&middot;회계 처리</th>
+<th>펀드에 미치는 영향</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STRIPS 보유 기간</td>
+<td>유입 없음</td>
+<td>OID를 이자 수익으로 인식</td>
+<td>분배 대상 소득 발생</td>
+</tr>
+<tr>
+<td>분배 시점</td>
+<td>지급할 현금 필요</td>
+<td>이자 성격 분배로 처리</td>
+<td>자산 매각이 필요할 수 있음</td>
+</tr>
+<tr>
+<td>매각 발생 시</td>
+<td>매각대금 유입</td>
+<td>매매손익 인식</td>
+<td>시점 선택권 없음 &rarr; 불리한 가격에 팔릴 수 있음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">정리하면 이렇다. <b>이 ETF의 분배금은 이자를 받아서 주는 돈이 아니라, 받은 적 없는 이자를 세법상 받은 것으로 보고 자산을 팔아서라도 내보내는 돈일 수 있다.</b> 분배금을 인컴으로 이해하고 접근하면 상품 성격을 오해하게 된다. 참고로 소득 분배는 통상 3&middot;6&middot;9&middot;12월에, 자본이득 분배는 통상 12월에 이뤄지며, 별도 추가 분배가 있을 수 있다.</p>
+<h2 data-ke-size="size26">발행사는 왜 '기관 투자자용'이라고 못 박았는가?</h2>
+<p data-ke-size="size16">투자설명서는 이 펀드가 <b>장기 부채를 유사한 장기 듀레이션의 미국 국채 포트폴리오로 정밀하게 맞추려는 기관 투자자를 주된 대상으로 한다</b>고 두 곳에 걸쳐 기재한다. 그리고 잠재 투자자는 이 펀드가 자신에게 적합한지, 그리고 자신의 전체 투자 계획&middot;재무&middot;세무 상황과 어떤 관계에 있는지 자문을 구하라고 덧붙인다. <span>[사실]</span></p>
+<p data-ke-size="size16">설명서는 STRIPS가 연기금과 보험사에 인기 있는 이유도 밝힌다. <b>만기 시점의 현금 가치가 확정돼 있어 부채와 지급액을 정밀하게 매칭할 수 있기 때문</b>이다. 30년 뒤 지급할 연금 채무가 있는 기관에게는 30년 뒤 확정액을 주는 증권이 가장 정확한 대응 자산이다.</p>
+<p data-ke-size="size16">여기서 개인 투자자가 놓치기 쉬운 점이 나온다. 기관에게 이 상품의 매력은 <b>부채와의 대응</b>이지 가격 상승이 아니다. 대응할 부채가 없는 투자자가 이 상품을 사면, 남는 것은 <b>구조적으로 증폭된 금리 민감도</b>뿐이다. 그것을 원해서 사는 것과, 안전한 국채로 알고 사는 것은 전혀 다르다.</p>
+<h2 data-ke-size="size26">운용사는 지수를 그대로 복제하는가?</h2>
+<p data-ke-size="size16">아니다. EDV는 <b>샘플링(표본추출)</b> 방식이다. 지수 편입 종목 전부를 담지 않고, 듀레이션&middot;현금흐름&middot;신용등급&middot;중도상환 가능성 같은 핵심 위험 요인 측면에서 지수 전체를 근사하는 대표 표본을 담는다.</p>
+<table data-ke-align="alignLeft"><caption>표6. 운용사에게 허용된 재량의 범위</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>규정 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>최소 투자 정책</td>
+<td>통상적 상황에서 순자산의 80% 이상을 목표지수 구성 미국 국채에 투자</td>
+</tr>
+<tr>
+<td>80% 정책 변경</td>
+<td>주주에게 60일 사전 통지 후에만 가능</td>
+</tr>
+<tr>
+<td>파생상품의 80% 산입</td>
+<td>해당 증권 또는 관련 시장 위험 요인에 노출을 제공하는 범위에서 산입 가능</td>
+</tr>
+<tr>
+<td>지수 외 자산</td>
+<td>20% 한도 내에서 지수 미편입 자산 보유 가능. 편입 당시에는 지수에 있었으나 이후 제외된 채권 보유도 가능</td>
+</tr>
+<tr>
+<td>파생상품 사용 목적</td>
+<td>저비용 효율적 투자, 유리한 가격 시 가치 부가, 금리 민감도 조정</td>
+</tr>
+<tr>
+<td>현금 관리</td>
+<td>일일 현금 잔고를 뱅가드 그룹 내 현금관리 전용 펀드에 투자</td>
+</tr>
+<tr>
+<td>대체지수 조항</td>
+<td>현 지수 중단&middot;계약 종료 등의 사유 발생 시 이사회 판단으로 동일 시장 구간을 대표하는 다른 지수로 교체 가능</td>
+</tr>
+<tr>
+<td>일시적 방어 조치</td>
+<td>펀드 이익에 부합한다고 판단되면 통상 한도를 넘어 파생상품&middot;ETF 활용 가능</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">"패시브 인덱스"라는 표현이 "지수를 그대로 복제한다"는 뜻은 아니다. 실제로는 <b>20% 한도, 파생상품 활용, 대체지수 교체권</b>이라는 재량 장치가 존재한다. 다만 이 재량은 초과수익을 노리는 재량이 아니라 <b>추적을 유지하기 위한 재량</b>이라는 점에서 액티브 상품의 재량과 성격이 다르다.</p>
+<h2 data-ke-size="size26">지수 제공자가 오류를 내면 누가 부담하는가?</h2>
+<p data-ke-size="size16">투자설명서는 이 질문에 명확히 답한다. 지수 제공자는 지수의 품질&middot;정확성&middot;완전성에 대해 어떤 보증도 하지 않고 책임도 지지 않는다. 지수 제공자가 오류를 낼 수 있고, <b>그 오류가 일정 기간 동안 발견되지 않거나 아예 발견되지 않을 수도 있다</b>고 적혀 있다. 그리고 결정적인 한 문장이 이어진다. <b>지수 제공자의 오류로 인한 손익과 비용은 일반적으로 펀드가 부담하며, 결과적으로 펀드 주주가 부담한다.</b></p>
+<p data-ke-size="size16">지수 제공자는 정기 일정 외에 재구성을 앞당기거나, 예정된 재구성을 지연&middot;취소할 수도 있다. 이 경우 펀드에 추가 비용이 발생하거나 추적오차가 커질 수 있다. <b>지수는 객관적으로 존재하는 사실이 아니라 특정 회사가 규칙에 따라 계산해 내놓는 산출물</b>이며, 그 계산이 틀렸을 때의 비용은 투자자에게 온다는 뜻이다.</p>
+<h2 data-ke-size="size26">EDV는 왜 '펀드'가 아니라 '펀드의 한 클래스'인가?</h2>
+<p data-ke-size="size16">EDV는 독립된 펀드가 아니다. <b>Vanguard Extended Duration Treasury Index Fund</b>라는 인덱스 펀드가 발행하는 <b>거래소 상장 주식 클래스</b>다. 이 펀드는 Vanguard World Fund라는 신탁의 한 시리즈이며, 뱅가드는 SEC로부터 일반 뮤추얼펀드 주식과 ETF 주식을 함께 발행할 수 있는 면제 명령을 받아 이 구조를 운영한다. <span>[사실]</span></p>
+<table data-ke-align="alignLeft"><caption>표7. 다중 클래스 구조에서 발생하는 특이 사항</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>클래스 간 관계</td>
+<td>투자 목적&middot;전략&middot;정책은 동일. 비용 구조가 달라 수익률은 차이 날 수 있음</td>
+</tr>
+<tr>
+<td>전환 방향</td>
+<td>일반 클래스 &rarr; ETF 클래스 전환 가능. <b>ETF 클래스 &rarr; 일반 클래스 전환 불가</b></td>
+</tr>
+<tr>
+<td>타 펀드로 전환</td>
+<td>불가. 한 펀드의 ETF 주식을 다른 펀드의 ETF 주식으로 교환할 수 없음</td>
+</tr>
+<tr>
+<td>단수 처리</td>
+<td>예탁기관이 소수점 주식을 처리하지 못해 정수 주식만 전환</td>
+</tr>
+<tr>
+<td>클래스 간 영향</td>
+<td>일반 클래스의 자금 유출입에 대응한 매매 비용&middot;현금 보유&middot;자본이득 분배가 ETF 클래스에도 영향</td>
+</tr>
+<tr>
+<td>분배 순서</td>
+<td>일반 클래스 보유자가 ETF 클래스 보유자보다 먼저 분배금을 수령</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">마지막 두 항목이 실질적으로 중요하다. <b>같은 ETF라도 뒤에 일반 뮤추얼펀드 클래스가 붙어 있으면, 그 클래스 투자자들의 환매가 만든 비용과 세금이 ETF 투자자에게 전가될 수 있다.</b> 뱅가드는 이를 'ETF 클래스 위험'으로 별도 항목화해 공시한다. 단일 클래스 ETF에는 없는 구조적 층위다.</p>
+<p data-ke-size="size16">또한 2026년 1월 12일자 투자설명서 보충서에 따르면, 뱅가드는 포트폴리오 운용 기능과 의결권 행사 관리 기능을 각각 <b>Vanguard Capital Management, LLC</b>와 <b>Vanguard Portfolio Management, LLC</b>라는 신설 완전자회사로 분리했다. 본 펀드는 이 조직 개편의 적용 대상이며, 보충서는 이 개편이 보수율 상승을 초래하지 않고 투자 목적&middot;전략 변경도 수반하지 않는다고 기재한다. <span>[사실]</span></p>
+<h2 data-ke-size="size26">이표 장기국채 ETF와는 무엇이 다른가?</h2>
+<p data-ke-size="size16">장기 국채 노출이라는 점은 같지만, 담는 증권의 종류가 다르므로 결과가 달라진다.</p>
+<table data-ke-align="alignLeft"><caption>표8. 무이표형과 이표형 장기국채 ETF의 구조 대조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>EDV(무이표 STRIPS형)</th>
+<th>일반 장기 국채 ETF(이표형)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>편입 증권</td>
+<td>국채에서 분리된 이표&middot;원금 조각</td>
+<td>국채 원 증권</td>
+</tr>
+<tr>
+<td>중간 이자 수취</td>
+<td>없음</td>
+<td>있음</td>
+</tr>
+<tr>
+<td>만기 대비 금리 민감도</td>
+<td>구조적으로 더 큼</td>
+<td>상대적으로 작음</td>
+</tr>
+<tr>
+<td>분배금의 원천</td>
+<td>세법상 인식된 이자(현금 미수취 가능)</td>
+<td>실제 수취한 이표</td>
+</tr>
+<tr>
+<td>분배 위한 자산 매각 가능성</td>
+<td>설명서가 명시적으로 경고</td>
+<td>일반적으로 이표로 충당</td>
+</tr>
+<tr>
+<td>유통 시장</td>
+<td>STRIPS 시장(원 국채 대비 좁음)</td>
+<td>국채 시장(세계 최대급 유동성)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이표형 장기국채 ETF의 구체적 구조와 국내 대안 비교는 <a href="/332">미국 장기국채 ETF 비교: TLT와 국내 상장 30년국채, 환헤지&middot;변형 어떻게 고르나</a>에서, 만기 구간이 짧아졌을 때 성격이 어떻게 달라지는지는 <a href="/416">IEF ETF란? 미국 중기(7-10년) 국채 투자, TLT&middot;국내 대안과 어떻게 다른가</a>에서 다뤘다.</p>
+<h2 data-ke-size="size26">국내 상장 대안은 존재하는가?</h2>
+<p data-ke-size="size16">존재한다. <b>TIGER 미국30년국채스트립액티브(합성 H)</b>(종목코드 458250, 미래에셋자산운용, 상장 2023-05-31)가 미국 국채 STRIPS를 대상으로 한다. <span>[사실]</span> 다만 EDV와 같은 상품으로 취급하면 안 된다. 네 가지 층위에서 다르다.</p>
+<table data-ke-align="alignLeft"><caption>표9. EDV와 국내 상장 STRIPS ETF의 구조 대조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>EDV</th>
+<th>TIGER 미국30년국채스트립액티브(합성 H)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초&middot;비교지수</td>
+<td>Bloomberg U.S. Treasury STRIPS 20&ndash;30 Year Equal Par Bond Index</td>
+<td>ICE BofA Long US Treasury Principal STRIPS Index</td>
+</tr>
+<tr>
+<td>담는 STRIPS 종류</td>
+<td>이표 STRIPS + 원금 STRIPS</td>
+<td><b>원금(Principal) STRIPS 중심</b></td>
+</tr>
+<tr>
+<td>운용 성격</td>
+<td>패시브 인덱스(지수 추종)</td>
+<td><b>액티브</b>(비교지수 초과 목표, 구성종목 외 편입 가능)</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>실물 보유 + 샘플링</td>
+<td><b>합성</b> &mdash; 장외파생(스왑) 및 역외 상장 ETF 활용</td>
+</tr>
+<tr>
+<td>환위험</td>
+<td>환헤지 없음 &rarr; 원/달러 변동에 직접 노출</td>
+<td>환헤지 실행 예정</td>
+</tr>
+<tr>
+<td>추가 위험</td>
+<td>추적오차, 지수 제공자 오류</td>
+<td>추적오차에 더해 <b>거래상대방 위험</b></td>
+</tr>
+<tr>
+<td>연금계좌 편입</td>
+<td>불가</td>
+<td>가능</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">'스트립'이라는 같은 단어를 쓰지만 <b>이표 조각을 담느냐 원금 조각만 담느냐</b>는 만기 분포와 가격 움직임을 다르게 만든다. 여기에 액티브 재량과 합성 복제가 더해지면 두 상품의 성과는 상당 기간 벌어질 수 있다. 합성 ETF는 거래상대방이 채무를 이행하지 못할 위험이 구조에 내장돼 있으며, 국내 제도상 담보 비율 요건이 적용된다.</p>
+<p data-ke-size="size16">참고로 국내에는 한국 국고채를 대상으로 한 스트립 ETF도 있다. 같은 스트립 구조가 발행국만 바뀌면 어떻게 달라지는지는 <a href="/247">TIGER 국고채30년스트립액티브, 일반 30년 국고채 ETF와 무엇이 다를까?</a>에서 정리했다.</p>
+<p data-ke-size="size16"><span>[확인 필요]</span> 두 국내외 상품의 보수 수준&middot;순자산&middot;추적오차 실적은 시점에 따라 달라지므로 각 운용사 공식 페이지에서 직접 확인해야 한다.</p>
+
+<h2 data-ke-size="size26">한국 거주자가 투자할 때 세금은 어떻게 되는가?</h2>
+<p data-ke-size="size16">어디에 상장된 상품을 사느냐에 따라 과세 체계 자체가 달라진다.</p>
+<table data-ke-align="alignLeft"><caption>표10. 한국 거주자 기준 과세 경로 비교</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>미국 상장 직접투자(EDV)</th>
+<th>국내 상장 해외자산 ETF(458250)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>해외주식 양도소득세 22%(지방소득세 포함), 분류과세</td>
+<td>배당소득세 15.4%</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>배당소득으로 과세</td>
+<td>배당소득세 15.4%</td>
+</tr>
+<tr>
+<td>금융소득종합과세</td>
+<td>분배금은 금융소득에 합산. 연 2,000만원 초과 시 종합과세 대상</td>
+<td>매매차익&middot;분배금 모두 합산. 2,000만원 초과 시 종합과세 대상</td>
+</tr>
+<tr>
+<td>손익통산</td>
+<td>해외주식 양도소득 내에서 통산</td>
+<td>배당소득 성격상 통산 제한</td>
+</tr>
+<tr>
+<td>연금&middot;ISA 계좌</td>
+<td>편입 불가</td>
+<td>편입 가능</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">EDV의 경우 특히 주의할 점이 있다. 앞서 본 대로 <b>분배금은 현금 이자를 받지 않았음에도 발생할 수 있다</b>. 그리고 이 분배금은 한국에서 배당소득으로 과세된다. 즉 <b>실제 현금흐름 없이 세금이 먼저 발생하는 구간</b>이 생길 수 있다. 계좌 규모가 커질수록 이 부분이 실질 부담이 된다.</p>
+<p data-ke-size="size16"><span>[확인 필요]</span> 미국 국채 이자 성격 분배금에 대한 미국 원천징수 적용 여부는 분배금의 세부 성격 분류와 증권사의 원천징수 처리 방식에 따라 달라질 수 있다. 실제 적용 세율은 거래 증권사와 세무 전문가에게 확인해야 한다.</p>
+<p data-ke-size="size16">금융투자소득세는 2024년 12월 10일 폐지가 확정됐다. <span>[사실]</span> 2026년 재도입 논의는 <span>[진행 중]</span>이므로 확정 사항으로 간주해서는 안 된다. 계좌 유형별 유불리 판단 기준은 <a href="/400">미국 ETF 직접투자 vs 국내 상장, 세금&middot;환전&middot;계좌 어디가 유리한가</a>에 정리돼 있다.</p>
+<h2 data-ke-size="size26">과거 성과는 이 상품에 대해 무엇을 알려주는가?</h2>
+<p data-ke-size="size16">개별 수치는 본 글에서 다루지 않는다. 다만 구조상 확정적으로 말할 수 있는 것이 있다. <b>이 상품은 연간 단위로 30% 넘는 하락을 기록한 적이 있고, 분기 단위로도 대폭의 상승과 하락을 모두 기록했다.</b> 이는 운용 실패가 아니라 무이표 장기채라는 구조가 만든 필연적 결과다.</p>
+<p data-ke-size="size16">투자설명서의 최고&middot;최저 분기 수익률 표가 존재한다는 사실 자체가 시사점을 준다. 채권 상품인데 분기 변동폭이 주식형에 준하거나 그를 넘는다. <b>"채권이니까 안정적"이라는 분류는 이 상품에 적용되지 않는다.</b> 구체적 수치는 발행사 공식 페이지에서 최신 기준으로 확인해야 한다.</p>
+<h2 data-ke-size="size26">지수가 사라지거나 바뀌면 어떻게 되는가?</h2>
+<p data-ke-size="size16">투자설명서는 <b>대체지수 조항</b>을 두고 있다. 현재 지수가 중단되거나, 지수 제공자와의 계약이 종료되거나, 이사회가 선의로 판단한 기타 사유가 발생하면 다른 지수로 교체할 수 있다. 이때 대체지수는 기존 목표지수와 <b>동일한 시장 구간을 대표해야</b> 한다.</p>
+<p data-ke-size="size16">또한 펀드의 투자 목적은 <b>기본 정책이 아니어서 주주 승인 없이 변경될 수 있다</b>고 명시돼 있다. 다만 80% 최소 투자 정책 변경에는 60일 사전 통지가 필요하다. <b>장기 보유를 전제로 하는 상품일수록, 보유 기간 중 규칙이 바뀔 수 있다는 점을 계산에 넣어야 한다.</b> 지수 전환은 과거 차트 해석에도 영향을 준다.</p>
+<h2 data-ke-size="size26">어떤 경우에 검토 대상이 되고, 어떤 경우에 아닌가?</h2>
+<p data-ke-size="size16">발행사가 스스로 밝힌 용도와 구조상 특성을 종합하면 판단 기준이 정리된다.</p>
+<table data-ke-align="alignLeft"><caption>표11. 구조 적합성 판단 기준</caption>
+<thead>
+<tr>
+<th>상황</th>
+<th>구조적 정합성</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>먼 미래 확정 지출에 대응할 자산을 찾는 경우</td>
+<td>설계 의도와 일치</td>
+<td>설명서가 명시한 주 대상 용도</td>
+</tr>
+<tr>
+<td>금리 하락 국면에서 최대 민감도를 원하는 경우</td>
+<td>구조상 부합하나 방향 예측에 전적으로 의존</td>
+<td>무이표 구조가 민감도를 증폭</td>
+</tr>
+<tr>
+<td>안정적 인컴을 원하는 경우</td>
+<td>부적합</td>
+<td>분배금이 실제 이자 수취와 무관하게 발생</td>
+</tr>
+<tr>
+<td>포트폴리오 방어 자산을 원하는 경우</td>
+<td>재검토 필요</td>
+<td>분기 변동폭이 방어 자산 성격과 상충</td>
+</tr>
+<tr>
+<td>연금계좌에서 운용하려는 경우</td>
+<td>불가</td>
+<td>미국 상장 개별 ETF 직접 편입 제한</td>
+</tr>
+<tr>
+<td>환위험을 피하고 싶은 경우</td>
+<td>미국 상장분은 부적합</td>
+<td>환헤지 미실행</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">핵심은 하나다. <b>이 상품은 "더 안전한 채권"이 아니라 "금리 방향에 대한 집중된 노출"이다.</b> 그 노출을 의도적으로 원하는 것이 아니라면 다른 구간의 국채 상품이 더 적합할 수 있다.</p>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">무이표 구조 이해</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">100</p>
+<p data-ke-size="size16">분배금 발생 원리</p>
+<progress value="95" max="100"></progress>
+<p data-ke-size="size16">95</p>
+<p data-ke-size="size16">금리 민감도 수준</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">90</p>
+<p data-ke-size="size16">국내 상장분과의 지수 차이</p>
+<progress value="80" max="100"></progress>
+<p data-ke-size="size16">80</p>
+<p data-ke-size="size16">과세 경로 선택</p>
+<progress value="75" max="100"></progress>
+<p data-ke-size="size16">75</p>
+<p data-ke-size="size16">환위험 처리</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">70</p>
+<p data-ke-size="size16">지수 변경 조항</p>
+<progress value="45" max="100"></progress>
+<p data-ke-size="size16">45</p>

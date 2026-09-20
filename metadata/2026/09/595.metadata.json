@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-20",
+  "body_html_length": 14214,
+  "canonical_url": "https://mystock-note.tistory.com/595",
+  "content_hash": "bd94580a4f51d5bf9e13a304e0aaa3fd4a561b70132d174d65972b9001849313",
+  "json_ld_count": 1,
+  "meta_description": "IWB는 어떤 지수를 담는 상품인가?IWB(iShares Russell 1000 ETF)는 미국 대형·중형주 1,000개로 구성된 러셀1000 지수를 추종한다. 블랙록이 운용하며 뉴욕증권거래소 아카(NYSE Arca)에 상장돼 있다.그런데 이 상품을 \"S&P500과 비슷한 미국 대형주 ETF\"로 정리하고 넘어가면 핵심을 놓친다. 두 지수는 종목을 고르는 방식 자체가 다르다. 그리고 2026년, 러셀 지수 체계에는 37년 만의 구조 변경이 일어났다.본 글은 지수 규칙과 운용 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·상위 종목 비중·시가총액 경계값처럼 시점에 따라 달라지는 값은 싣지 않는다. 그런 값은 발행사와 지수 제공자의 공식 자료에서 직접 확인해야 한다.러셀1000은 어떻게 만들어지는가?러셀 ..",
+  "modified_time": "2026-09-21T01:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/595\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/595\",\"headline\":\"IWB ETF란? 러셀1000 지수 구조와 2026년 반기 재구성 전환의 의미\",\"description\":\"IWB는 어떤 지수를 담는 상품인가?IWB(iShares Russell 1000 ETF)는 미국 대형·중형주 1,000개로 구성된 러셀1000 지수를 추종한다. 블랙록이 운용하며 뉴욕증권거래소 아카(NYSE Arca)에 상장돼 있다.그런데 이 상품을 \"S&P500과 비슷한 미국 대형주 ETF\"로 정리하고 넘어가면 핵심을 놓친다. 두 지수는 종목을 고르는 방식 자체가 다르다. 그리고 2026년, 러셀 지수 체계에는 37년 만의 구조 변경이 일어났다.본 글은 지수 규칙과 운용 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·상위 종목 비중·시가총액 경계값처럼 시점에 따라 달라지는 값은 싣지 않는다. 그런 값은 발행사와 지수 제공자의 공식 자료에서 직접 확인해야 한다.러셀1000은 어떻게 만들어지는가?러셀 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-21T01:51:37+09:00\",\"dateModified\":\"2026-09-21T01:52:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "IWB는 어떤 지수를 담는 상품인가?IWB(iShares Russell 1000 ETF)는 미국 대형·중형주 1,000개로 구성된 러셀1000 지수를 추종한다. 블랙록이 운용하며 뉴욕증권거래소 아카(NYSE Arca)에 상장돼 있다.그런데 이 상품을 \"S&P500과 비슷한 미국 대형주 ETF\"로 정리하고 넘어가면 핵심을 놓친다. 두 지수는 종목을 고르는 방식 자체가 다르다. 그리고 2026년, 러셀 지수 체계에는 37년 만의 구조 변경이 일어났다.본 글은 지수 규칙과 운용 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·상위 종목 비중·시가총액 경계값처럼 시점에 따라 달라지는 값은 싣지 않는다. 그런 값은 발행사와 지수 제공자의 공식 자료에서 직접 확인해야 한다.러셀1000은 어떻게 만들어지는가?러셀 ..",
+  "og_title": "IWB ETF란? 러셀1000 지수 구조와 2026년 반기 재구성 전환의 의미",
+  "post_id": "595",
+  "published_time": "2026-09-21T01:51:37+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IWB ETF란? 러셀1000 지수 구조와 2026년 반기 재구성 전환의 의미",
+  "url": "https://mystock-note.tistory.com/595"
+}
