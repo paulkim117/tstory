@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-22T02:03:00+09:00",
+    "datePublished": "2026-09-22T02:02:20+09:00",
+    "description": "FVD는 어떤 상품인가?FVD(First Trust Value Line Dividend Index Fund)는 미국 배당주 ETF로 분류된다. 2003년에 상장돼 이 분야에서 가장 오래된 상품 중 하나이며 NYSE Arca에 상장돼 있다.그런데 이 상품에는 배당 ETF로서 특이한 점이 있다. 종목을 고를 때 배당을 1차 기준으로 쓰지 않는다. 1차 선별 기준은 외부 리서치 회사가 매기는 안전성 등급이다. 배당은 그 다음에 통과 여부만 확인하는 조건으로 들어온다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·분배수익률·수익률·구성종목 수·업종 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.종목은 어떤 순서로 선정되는가?기초지수는 Value Line Dividend Index다. 선정 절차는 네..",
+    "headline": "FVD ETF란? 배당으로 종목을 고르지 않는 배당 ETF — 안전성 등급 선별 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/600",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/600"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "ETF 구조 분석",
+    "author": {
+      "@type": "Organization",
+      "name": "주식 메모"
+    },
+    "dateModified": "2026-09-22",
+    "datePublished": "2026-09-22",
+    "description": "FVD의 1차 선별 기준은 배당이 아니라 외부 리서치 회사의 안전성 등급이다. 등급의 절반이 5년 변동성에서 나오는 구조, 배당수익률이 문턱으로만 쓰이는 이유, 주간 랭킹과 월간 재구성의 시차를 1차 출처로 정리했다.",
+    "headline": "FVD ETF란? 배당으로 종목을 고르지 않는 배당 ETF의 안전성 등급 선별 구조",
+    "inLanguage": "ko-KR",
+    "keywords": "FVD, Value Line, 안전성 등급, 배당 ETF, 동일가중, 가격 안정성, 재무 건전성, 리서치 하우스형 지수, 지수 산출 대리인, 해외주식 양도소득세",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/600",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "주식 메모"
+    }
+  }
+]

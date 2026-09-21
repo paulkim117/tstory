@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-21",
+  "body_html_length": 10994,
+  "canonical_url": "https://mystock-note.tistory.com/600",
+  "content_hash": "bd844bc01b323bcdbc5770859f1c29f827d2eb29bb48159a626804f2ae01ebba",
+  "json_ld_count": 2,
+  "meta_description": "FVD는 어떤 상품인가?FVD(First Trust Value Line Dividend Index Fund)는 미국 배당주 ETF로 분류된다. 2003년에 상장돼 이 분야에서 가장 오래된 상품 중 하나이며 NYSE Arca에 상장돼 있다.그런데 이 상품에는 배당 ETF로서 특이한 점이 있다. 종목을 고를 때 배당을 1차 기준으로 쓰지 않는다. 1차 선별 기준은 외부 리서치 회사가 매기는 안전성 등급이다. 배당은 그 다음에 통과 여부만 확인하는 조건으로 들어온다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·분배수익률·수익률·구성종목 수·업종 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.종목은 어떤 순서로 선정되는가?기초지수는 Value Line Dividend Index다. 선정 절차는 네..",
+  "modified_time": "2026-09-22T02:03:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FVD는 어떤 상품인가?FVD(First Trust Value Line Dividend Index Fund)는 미국 배당주 ETF로 분류된다. 2003년에 상장돼 이 분야에서 가장 오래된 상품 중 하나이며 NYSE Arca에 상장돼 있다.그런데 이 상품에는 배당 ETF로서 특이한 점이 있다. 종목을 고를 때 배당을 1차 기준으로 쓰지 않는다. 1차 선별 기준은 외부 리서치 회사가 매기는 안전성 등급이다. 배당은 그 다음에 통과 여부만 확인하는 조건으로 들어온다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·분배수익률·수익률·구성종목 수·업종 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.종목은 어떤 순서로 선정되는가?기초지수는 Value Line Dividend Index다. 선정 절차는 네..",
+  "og_title": "FVD ETF란? 배당으로 종목을 고르지 않는 배당 ETF — 안전성 등급 선별 구조",
+  "post_id": "600",
+  "published_time": "2026-09-22T02:02:20+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FVD ETF란? 배당으로 종목을 고르지 않는 배당 ETF — 안전성 등급 선별 구조",
+  "url": "https://mystock-note.tistory.com/600"
+}

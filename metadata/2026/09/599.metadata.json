@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-21",
+  "body_html_length": 12385,
+  "canonical_url": "https://mystock-note.tistory.com/599",
+  "content_hash": "9557696773c530f473aa8d9d3176da4790c866f07ad5ddfc8fe696807b2e4954",
+  "json_ld_count": 1,
+  "meta_description": "SCZ는 무엇을 담는 상품인가?SCZ(iShares MSCI EAFE Small-Cap ETF)는 미국과 캐나다를 제외한 선진국의 소형주를 담는다. 유럽, 오세아니아, 극동아시아가 주된 지역이며 나스닥에 상장돼 있다.이 상품이 답하는 질문은 하나다. \"선진국 분산 투자 상품을 사면 그 나라 주식시장을 다 담는 것인가?\" 답은 아니다. 표준 선진국 지수는 각 시장의 큰 기업들만 담고 작은 기업 구간을 통째로 비워둔다. SCZ는 그 비워진 구간을 담는 상품이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·국가별 비중·업종별 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.EAFE란 무엇이고, 왜 캐나다까지 빼는가?EAFE는 Europe, Australasia and Far E..",
+  "modified_time": "2026-09-22T01:02:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/599\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/599\",\"headline\":\"SCZ ETF란? 선진국 소형주 85~99% 구간과 표준 지수가 비워둔 자리\",\"description\":\"SCZ는 무엇을 담는 상품인가?SCZ(iShares MSCI EAFE Small-Cap ETF)는 미국과 캐나다를 제외한 선진국의 소형주를 담는다. 유럽, 오세아니아, 극동아시아가 주된 지역이며 나스닥에 상장돼 있다.이 상품이 답하는 질문은 하나다. \"선진국 분산 투자 상품을 사면 그 나라 주식시장을 다 담는 것인가?\" 답은 아니다. 표준 선진국 지수는 각 시장의 큰 기업들만 담고 작은 기업 구간을 통째로 비워둔다. SCZ는 그 비워진 구간을 담는 상품이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·국가별 비중·업종별 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.EAFE란 무엇이고, 왜 캐나다까지 빼는가?EAFE는 Europe, Australasia and Far E..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-22T01:01:57+09:00\",\"dateModified\":\"2026-09-22T01:02:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "SCZ는 무엇을 담는 상품인가?SCZ(iShares MSCI EAFE Small-Cap ETF)는 미국과 캐나다를 제외한 선진국의 소형주를 담는다. 유럽, 오세아니아, 극동아시아가 주된 지역이며 나스닥에 상장돼 있다.이 상품이 답하는 질문은 하나다. \"선진국 분산 투자 상품을 사면 그 나라 주식시장을 다 담는 것인가?\" 답은 아니다. 표준 선진국 지수는 각 시장의 큰 기업들만 담고 작은 기업 구간을 통째로 비워둔다. SCZ는 그 비워진 구간을 담는 상품이다.본 글은 지수 규칙과 상품 구조만 다룬다. 총보수·순자산·수익률·구성종목 수·국가별 비중·업종별 비중처럼 시점에 따라 달라지는 값은 싣지 않는다.EAFE란 무엇이고, 왜 캐나다까지 빼는가?EAFE는 Europe, Australasia and Far E..",
+  "og_title": "SCZ ETF란? 선진국 소형주 85~99% 구간과 표준 지수가 비워둔 자리",
+  "post_id": "599",
+  "published_time": "2026-09-22T01:01:57+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SCZ ETF란? 선진국 소형주 85~99% 구간과 표준 지수가 비워둔 자리",
+  "url": "https://mystock-note.tistory.com/599"
+}

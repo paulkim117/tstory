@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": "ETF 구조 분석",
+  "author": {
+    "@type": "Organization",
+    "name": "주식 메모"
+  },
+  "dateModified": "2026-09-22",
+  "datePublished": "2026-09-22",
+  "description": "SCZ는 미국·캐나다를 제외한 선진국 소형주를 담는다. 소형주가 각 시장 누적 시가총액 85~99% 구간으로 정의되는 규칙, 표준 선진국 지수가 담지 않는 구간, 국가별 상대 기준이 만드는 결과를 1차 출처로 정리했다.",
+  "headline": "SCZ ETF란? 선진국 소형주 85~99% 구간과 표준 지수가 비워둔 자리",
+  "inLanguage": "ko-KR",
+  "keywords": "SCZ, MSCI EAFE Small Cap, 선진국 소형주, IMI, 규모 구간, 부동주 조정, 캐나다 제외, 한국 신흥국 분류, 이중 환위험, 해외주식 양도소득세",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/599",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "주식 메모"
+  }
+}
