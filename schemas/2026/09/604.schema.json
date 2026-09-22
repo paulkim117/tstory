@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-23T02:42:00+09:00",
+    "datePublished": "2026-09-23T02:41:05+09:00",
+    "description": "섹터 ETF는 대개 한 나라 안에서 만들어진다. 미국 금융 섹터, 미국 헬스케어 섹터 같은 식이다. 그런데 업종이라는 기준은 원래 국경과 상관이 없다. 은행은 어느 나라에나 있고 보험도 마찬가지다. 그렇다면 국가 경계를 지우고 업종만으로 잘라 보면 어떻게 될까.iShares Global Financials ETF(IXG)가 그 질문에 대한 상품이다. 전 세계 금융 기업을 한 종목에 담는다. 다만 「전 세계」라는 말이 실제로 무엇을 뜻하는지는 지수 구조를 열어 봐야 알 수 있고, 이 상품의 지수는 2026년에 한 번 바뀌었다.IXG는 어떤 상품인가?표1. IXG 기본 구조항목내용상품명iShares Global Financials ETF티커 · 거래소IXG · NYSE Arca설정일2001-11-12현재 추..",
+    "headline": "IXG ETF란? 전 세계 금융주를 한 종목에 — 지역 지수 7개를 이어 붙인 '글로벌'의 실체",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/604",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/604"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-23",
+    "datePublished": "2026-09-23",
+    "description": "iShares Global Financials ETF(IXG)의 구조를 분석한다. 2026년 3월 지수 전환(상한 도입), S&P Global 1200의 7개 지역 지수 조립 구조, 한국 편입 경로, 외국인 투자 한도의 비중 반영, 한국 투자자 과세까지 1차 출처로 정리했다.",
+    "headline": "IXG ETF란? 전 세계 금융주를 한 종목에 — 지역 지수 7개를 이어 붙인 '글로벌'의 실체",
+    "keywords": "IXG, 글로벌 금융 ETF, S&P Global 1200, S&P Asia 50, GICS 금융 섹터, 지수 전환, 외국인 투자 한도, 다통화 노출, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/604",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

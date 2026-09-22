@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-23T03:42:00+09:00",
+    "datePublished": "2026-09-23T03:41:29+09:00",
+    "description": "은에 투자하려는 사람이 마주치는 선택지는 셋이다. 실물을 보관하는 신탁형, 선물을 굴리는 상품형, 그리고 은을 캐는 기업에 투자하는 광산주형이다. Global X Silver Miners ETF(SIL)는 세 번째다.그런데 이 상품에는 다른 두 경로에 없는 문제가 하나 있다. 은을 캐는 기업을 모아 담겠다고 했는데, 세상에 은만 캐는 기업이 생각보다 적다는 것이다. 이 사실 하나가 상품의 성격 대부분을 결정한다.SIL은 어떤 상품인가?표1. SIL 기본 구조항목내용상품명Global X Silver Miners ETF티커 · 거래소SIL · NYSE Arca설정일2010-04-19추종 지수Solactive Global Silver Miners Total Return Index지수 관리Solactive AG..",
+    "headline": "SIL ETF란? 은광 기업에 투자하는 법 — 은은 대부분 '부산물'이라는 사실이 바꾸는 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/605",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/605"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-23",
+    "datePublished": "2026-09-23",
+    "description": "Global X Silver Miners ETF(SIL)의 구조를 분석한다. 은이 납·아연·구리·금의 부산물로 생산되는 공급 구조, 지수 편입이 매출 비중이 아닌 활동 영역 기준인 이유, 거래소 상장 규율 목적의 상한, 실물·선물형과의 세무 차이까지 1차 출처로 정리했다.",
+    "headline": "SIL ETF란? 은광 기업에 투자하는 법 — 은은 대부분 '부산물'이라는 사실이 바꾸는 것",
+    "keywords": "SIL, 은광 ETF, Solactive, 부산물, 은 공급, 광산주, SLV, 원자재 ETF, PTP, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/605",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
