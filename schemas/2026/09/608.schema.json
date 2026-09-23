@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-24T02:35:00+09:00",
+    "datePublished": "2026-09-24T02:34:21+09:00",
+    "description": "우선주 ETF를 한 번쯤 본 적이 있을 것이다. 보통주보다 배당이 먼저 나오고 채권보다는 후순위인 증권을 모아 담는 상품이다. 그런데 그 우선주 시장에는 개인 투자자가 아예 들어갈 수 없는 구역이 따로 있다.First Trust Institutional Preferred Securities and Income ETF(FPEI)는 그 구역을 담는다. 상품명의 「Institutional」이 그 뜻이다. 이 상품이 존재하는 이유는 수익률이 높아서가 아니라, ETF 말고는 개인이 그 증권에 닿을 방법이 없기 때문이다.기관용 우선증권은 무엇이 다른가?투자설명서는 구분을 명확히 적고 있다. 기관용 우선증권은 개인이 아니라 기관 투자자를 대상으로 하고, 일반적으로 장외에서 거래되며, 「1,000달러 액면 우선증권」이..",
+    "headline": "FPEI ETF란? 개인은 직접 못 사는 '기관용 우선증권' — 액면 1,000달러 시장과 144A 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/608",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/608"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-24",
+    "datePublished": "2026-09-24",
+    "description": "First Trust Institutional Preferred Securities and Income ETF(FPEI)의 구조를 분석한다. 기관용과 리테일 우선증권의 액면·시장 분리, 규칙 144A의 매수 자격 제한, 지급 유예와 CoCo 상각 위험, 금융 섹터 25% 집중 정책까지 투자설명서 원문 기준으로 정리했다.",
+    "headline": "FPEI ETF란? 개인은 직접 못 사는 '기관용 우선증권' — 액면 1,000달러 시장과 144A 구조",
+    "keywords": "FPEI, 기관용 우선증권, 144A, CoCo, 조건부전환증권, 하이브리드 자본증권, 우선주 ETF, 액티브 ETF, 금융 섹터, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/608",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

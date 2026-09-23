@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-23",
+  "body_html_length": 11038,
+  "canonical_url": "https://mystock-note.tistory.com/608",
+  "content_hash": "95239927d88849a822e3d913039f5b7012e9f96781060252e182c9dbb878a43b",
+  "json_ld_count": 2,
+  "meta_description": "우선주 ETF를 한 번쯤 본 적이 있을 것이다. 보통주보다 배당이 먼저 나오고 채권보다는 후순위인 증권을 모아 담는 상품이다. 그런데 그 우선주 시장에는 개인 투자자가 아예 들어갈 수 없는 구역이 따로 있다.First Trust Institutional Preferred Securities and Income ETF(FPEI)는 그 구역을 담는다. 상품명의 「Institutional」이 그 뜻이다. 이 상품이 존재하는 이유는 수익률이 높아서가 아니라, ETF 말고는 개인이 그 증권에 닿을 방법이 없기 때문이다.기관용 우선증권은 무엇이 다른가?투자설명서는 구분을 명확히 적고 있다. 기관용 우선증권은 개인이 아니라 기관 투자자를 대상으로 하고, 일반적으로 장외에서 거래되며, 「1,000달러 액면 우선증권」이..",
+  "modified_time": "2026-09-24T02:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "우선주 ETF를 한 번쯤 본 적이 있을 것이다. 보통주보다 배당이 먼저 나오고 채권보다는 후순위인 증권을 모아 담는 상품이다. 그런데 그 우선주 시장에는 개인 투자자가 아예 들어갈 수 없는 구역이 따로 있다.First Trust Institutional Preferred Securities and Income ETF(FPEI)는 그 구역을 담는다. 상품명의 「Institutional」이 그 뜻이다. 이 상품이 존재하는 이유는 수익률이 높아서가 아니라, ETF 말고는 개인이 그 증권에 닿을 방법이 없기 때문이다.기관용 우선증권은 무엇이 다른가?투자설명서는 구분을 명확히 적고 있다. 기관용 우선증권은 개인이 아니라 기관 투자자를 대상으로 하고, 일반적으로 장외에서 거래되며, 「1,000달러 액면 우선증권」이..",
+  "og_title": "FPEI ETF란? 개인은 직접 못 사는 '기관용 우선증권' — 액면 1,000달러 시장과 144A 구조",
+  "post_id": "608",
+  "published_time": "2026-09-24T02:34:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FPEI ETF란? 개인은 직접 못 사는 '기관용 우선증권' — 액면 1,000달러 시장과 144A 구조",
+  "url": "https://mystock-note.tistory.com/608"
+}

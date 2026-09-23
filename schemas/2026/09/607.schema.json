@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-24T01:34:00+09:00",
+    "datePublished": "2026-09-24T01:33:59+09:00",
+    "description": "단일국 ETF를 살 때 사람들은 대체로 그 나라의 주식시장을 산다고 생각한다. 인도 ETF는 뭄바이 상장 주식을, 브라질 ETF는 상파울루 상장 주식을 담는다. Global X MSCI Argentina ETF(ARGT)는 그렇지 않다.이 상품이 추종하는 지수는 부에노스아이레스 거래소 상장 주식을 편입 대상으로 삼지 않는다. 지수 제공자가 강등 결정을 발표하면서 직접 밝힌 내용이다. 그리고 그 사실이야말로 이 상품이 지금도 정상 작동하는 이유다.ARGT는 어떤 상품인가?표1. ARGT 기본 구조 (출처: 운용사 지수 방법론 요약서·연차보고서)항목내용상품명Global X MSCI Argentina ETF티커ARGT설정일2011-03-02추종 지수MSCI All Argentina 25/50 Index지수 제..",
+    "headline": "ARGT ETF란? 아르헨티나 ETF인데 아르헨티나 주식이 아니다 — 독립시장 분류와 지수 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/607",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/607"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-24",
+    "datePublished": "2026-09-24",
+    "description": "Global X MSCI Argentina ETF(ARGT)의 구조를 분석한다. 외국 상장분만 편입하는 지수 설계, MSCI 독립시장 분류의 의미, 두 갈래 편입 경로와 1% 상한, 그룹 단위 25/50 상한, 2014년 지수 제공자 교체까지 1차 출처로 정리했다.",
+    "headline": "ARGT ETF란? 아르헨티나 ETF인데 아르헨티나 주식이 아니다 — 독립시장 분류와 지수 구조",
+    "keywords": "ARGT, 아르헨티나 ETF, MSCI 독립시장, 자본통제, ADR, 단일국 ETF, 시장접근성, 그룹 엔티티, 신흥국 분류, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/607",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

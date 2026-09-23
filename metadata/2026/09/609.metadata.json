@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-23",
+  "body_html_length": 9437,
+  "canonical_url": "https://mystock-note.tistory.com/609",
+  "content_hash": "0c37af8982f300d7c59fa1d958f7c4837ef9e7b882b318eaf0e624c9f630de20",
+  "json_ld_count": 2,
+  "meta_description": "섹터 ETF는 시장을 열한 조각으로 나눈다. 헬스케어, 금융, 기술 같은 단위다. 그런데 헬스케어 안에는 신약을 개발하는 제약사와 수술 장비를 만드는 회사와 보험을 파는 회사가 함께 들어 있다. 사업이 전혀 다르다.State Street SPDR S&P Health Care Equipment ETF(XHE)는 그보다 한 단계 아래를 자른다. 의료기기와 의료용품만 남긴다. 그런데 그렇게 좁게 자르면 곧바로 문제가 생긴다. 남는 종목이 적어지고, 그중 상당수가 거래가 활발하지 않다. 이 지수가 그 문제를 어떻게 처리하는지가 이 글의 주제다.XHE는 어떤 상품인가?표1. XHE 기본 구조항목내용상품명State Street® SPDR® S&P® Health Care Equipment ETF티커 · 거래소XHE ..",
+  "modified_time": "2026-09-24T03:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "섹터 ETF는 시장을 열한 조각으로 나눈다. 헬스케어, 금융, 기술 같은 단위다. 그런데 헬스케어 안에는 신약을 개발하는 제약사와 수술 장비를 만드는 회사와 보험을 파는 회사가 함께 들어 있다. 사업이 전혀 다르다.State Street SPDR S&P Health Care Equipment ETF(XHE)는 그보다 한 단계 아래를 자른다. 의료기기와 의료용품만 남긴다. 그런데 그렇게 좁게 자르면 곧바로 문제가 생긴다. 남는 종목이 적어지고, 그중 상당수가 거래가 활발하지 않다. 이 지수가 그 문제를 어떻게 처리하는지가 이 글의 주제다.XHE는 어떤 상품인가?표1. XHE 기본 구조항목내용상품명State Street® SPDR® S&P® Health Care Equipment ETF티커 · 거래소XHE ..",
+  "og_title": "XHE ETF란? 의료기기만 담는 ETF — 좁게 자를수록 소형주가 늘어나는 이유",
+  "post_id": "609",
+  "published_time": "2026-09-24T03:34:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XHE ETF란? 의료기기만 담는 ETF — 좁게 자를수록 소형주가 늘어나는 이유",
+  "url": "https://mystock-note.tistory.com/609"
+}

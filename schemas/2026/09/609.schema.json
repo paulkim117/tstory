@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-24T03:35:00+09:00",
+    "datePublished": "2026-09-24T03:34:42+09:00",
+    "description": "섹터 ETF는 시장을 열한 조각으로 나눈다. 헬스케어, 금융, 기술 같은 단위다. 그런데 헬스케어 안에는 신약을 개발하는 제약사와 수술 장비를 만드는 회사와 보험을 파는 회사가 함께 들어 있다. 사업이 전혀 다르다.State Street SPDR S&P Health Care Equipment ETF(XHE)는 그보다 한 단계 아래를 자른다. 의료기기와 의료용품만 남긴다. 그런데 그렇게 좁게 자르면 곧바로 문제가 생긴다. 남는 종목이 적어지고, 그중 상당수가 거래가 활발하지 않다. 이 지수가 그 문제를 어떻게 처리하는지가 이 글의 주제다.XHE는 어떤 상품인가?표1. XHE 기본 구조항목내용상품명State Street® SPDR® S&P® Health Care Equipment ETF티커 · 거래소XHE ..",
+    "headline": "XHE ETF란? 의료기기만 담는 ETF — 좁게 자를수록 소형주가 늘어나는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/609",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/609"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-24",
+    "datePublished": "2026-09-24",
+    "description": "State Street SPDR S&P Health Care Equipment ETF(XHE)의 구조를 분석한다. 모집단이 S&P500이 아닌 전체 시장인 이유, 규모와 유동성을 교환하는 편입 요건, 분기 2단계 조정, 수정 동일가중이 만드는 소형주 편중까지 1차 출처로 정리했다.",
+    "headline": "XHE ETF란? 의료기기만 담는 ETF — 좁게 자를수록 소형주가 늘어나는 이유",
+    "keywords": "XHE, 의료기기 ETF, Select Industry, S&P TMI, 수정 동일가중, 하위산업 ETF, GICS, 헬스케어 ETF, 소형주, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/609",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
