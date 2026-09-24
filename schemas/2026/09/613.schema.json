@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-25T03:54:00+09:00",
+    "datePublished": "2026-09-25T03:53:15+09:00",
+    "description": "금에 투자하려면 금을 사면 된다. 은도, 원유도, 구리도 마찬가지다. 실물이 있고 선물 시장이 있으니 가격에 직접 연동되는 상품을 만들 수 있다.물은 다르다. 투자자가 사고팔 수 있는 물 시장이 사실상 없다. 물은 지역마다 가격이 다르고, 운송이 거의 불가능하며, 대부분의 나라에서 가격이 시장이 아니라 규제로 정해진다. 그래서 「물 ETF」는 필연적으로 물이 아닌 다른 것을 담는다. Invesco S&P Global Water Index ETF(CGW)가 무엇을 담는지, 그리고 왜 그렇게 담을 수밖에 없는지가 이 글의 내용이다.CGW는 어떤 상품인가?표1. CGW 기본 구조 (출처: 운용사 상품 자료 및 지수 구성 규칙)항목내용상품명Invesco S&P Global Water Index ETF티커CGW상..",
+    "headline": "CGW ETF란? 살 수 있는 물 시장이 없는데 물 ETF는 무엇을 담는가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/613",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/613"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-25",
+    "datePublished": "2026-09-25",
+    "description": "Invesco S&P Global Water Index ETF(CGW)의 구조를 분석한다. 수도 유틸리티와 물 장비를 25종목씩 균형 배분하는 설계, 노출 점수 1·0.5 체계와 점수별 차등 상한, 선진국 한정이 만드는 테마 괴리, 순수익 지수 기준까지 1차 출처로 정리했다.",
+    "headline": "CGW ETF란? 살 수 있는 물 시장이 없는데 물 ETF는 무엇을 담는가",
+    "keywords": "CGW, 물 ETF, 수자원 투자, S&P Global Water, 테마 ETF, 노출 점수, 순수익 지수, 유틸리티, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/613",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

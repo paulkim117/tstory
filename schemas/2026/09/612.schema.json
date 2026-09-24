@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-25T02:53:00+09:00",
+    "datePublished": "2026-09-25T02:52:14+09:00",
+    "description": "팩터 ETF를 고를 때 사람들은 대개 하나를 정한다. 모멘텀이 좋을지, 퀄리티가 나을지, 저변동을 담을지 고민한다. 그런데 어떤 팩터가 잘 작동하는 국면은 따로 있다는 것이 오랜 관찰이다. 그렇다면 국면을 보고 팩터를 바꾸면 되지 않을까.Invesco Russell 1000 Dynamic Multifactor ETF(OMFL)가 그 발상을 상품으로 만든 것이다. 다만 이 상품에는 다른 지수형 ETF에 없는 특징이 하나 있다. 규칙은 공개돼 있는데, 그 규칙에 들어가는 값 하나가 공개돼 있지 않다.OMFL은 어떤 상품인가?표1. OMFL 기본 구조 (출처: 운용사 상품 자료 및 지수 방법론 개요)항목내용상품명Invesco Russell 1000® Dynamic Multifactor ETF티커OMFL운용 방..",
+    "headline": "OMFL ETF란? 경기 국면에 따라 팩터를 바꾸는 지수 — 규칙은 공개, 판정은 비공개",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/612",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/612"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-25",
+    "datePublished": "2026-09-25",
+    "description": "Invesco Russell 1000 Dynamic Multifactor ETF(OMFL)의 구조를 분석한다. 회복·확장·둔화·수축 4국면과 국면별 팩터 조합, 국면 판정을 담당하는 독자 모형, 월 1회·연 2회 이중 검토 주기, 지수 명칭 변경 이력까지 1차 출처로 정리했다.",
+    "headline": "OMFL ETF란? 경기 국면에 따라 팩터를 바꾸는 지수 — 규칙은 공개, 판정은 비공개",
+    "keywords": "OMFL, 동적 멀티팩터, 경기 국면, 팩터 로테이션, Russell 1000, FTSE Russell, 지수 거버넌스, 팩터 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/612",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

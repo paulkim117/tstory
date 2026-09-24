@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-24",
+  "body_html_length": 9460,
+  "canonical_url": "https://mystock-note.tistory.com/612",
+  "content_hash": "b93802af07e6479f6d577c355f1d9ceca6ae9dc9fdb3b1470105f175264fb03a",
+  "json_ld_count": 2,
+  "meta_description": "팩터 ETF를 고를 때 사람들은 대개 하나를 정한다. 모멘텀이 좋을지, 퀄리티가 나을지, 저변동을 담을지 고민한다. 그런데 어떤 팩터가 잘 작동하는 국면은 따로 있다는 것이 오랜 관찰이다. 그렇다면 국면을 보고 팩터를 바꾸면 되지 않을까.Invesco Russell 1000 Dynamic Multifactor ETF(OMFL)가 그 발상을 상품으로 만든 것이다. 다만 이 상품에는 다른 지수형 ETF에 없는 특징이 하나 있다. 규칙은 공개돼 있는데, 그 규칙에 들어가는 값 하나가 공개돼 있지 않다.OMFL은 어떤 상품인가?표1. OMFL 기본 구조 (출처: 운용사 상품 자료 및 지수 방법론 개요)항목내용상품명Invesco Russell 1000® Dynamic Multifactor ETF티커OMFL운용 방..",
+  "modified_time": "2026-09-25T02:53:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "팩터 ETF를 고를 때 사람들은 대개 하나를 정한다. 모멘텀이 좋을지, 퀄리티가 나을지, 저변동을 담을지 고민한다. 그런데 어떤 팩터가 잘 작동하는 국면은 따로 있다는 것이 오랜 관찰이다. 그렇다면 국면을 보고 팩터를 바꾸면 되지 않을까.Invesco Russell 1000 Dynamic Multifactor ETF(OMFL)가 그 발상을 상품으로 만든 것이다. 다만 이 상품에는 다른 지수형 ETF에 없는 특징이 하나 있다. 규칙은 공개돼 있는데, 그 규칙에 들어가는 값 하나가 공개돼 있지 않다.OMFL은 어떤 상품인가?표1. OMFL 기본 구조 (출처: 운용사 상품 자료 및 지수 방법론 개요)항목내용상품명Invesco Russell 1000® Dynamic Multifactor ETF티커OMFL운용 방..",
+  "og_title": "OMFL ETF란? 경기 국면에 따라 팩터를 바꾸는 지수 — 규칙은 공개, 판정은 비공개",
+  "post_id": "612",
+  "published_time": "2026-09-25T02:52:14+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "OMFL ETF란? 경기 국면에 따라 팩터를 바꾸는 지수 — 규칙은 공개, 판정은 비공개",
+  "url": "https://mystock-note.tistory.com/612"
+}

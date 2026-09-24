@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-25T00:36:00+09:00",
+    "datePublished": "2026-09-25T00:35:15+09:00",
+    "description": "ESG ETF는 흔히 「착한 기업에 투자하는 상품」으로 소개된다. 그 설명이 틀린 것은 아니지만, 상품 구조를 보면 초점이 다른 곳에 있다. iShares ESG Aware MSCI USA ETF(ESGU)의 설계를 한 줄로 요약하면 이렇다.ESG 점수를 최대한 높이되, 원래 지수에서 너무 벗어나지는 마라.두 번째 조건이 이 상품의 성격 대부분을 결정한다. ESG가 목적이고 시장 추종이 제약인 구조이며, 그 제약에는 구체적인 수치가 붙어 있다.ESGU는 어떤 상품인가?표1. ESGU 기본 구조 (출처: 운용사 상품 자료 및 제출 서류)항목내용상품명iShares ESG Aware MSCI USA ETF티커ESGU현재 추종 지수MSCI USA Extended ESG Focus Index이전 추종 지수MSCI..",
+    "headline": "ESGU ETF란? ESG를 최대화하되 시장에서 벗어나지 마라 — 제약조건이 결과를 정하는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/610",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/610"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-25",
+    "datePublished": "2026-09-25",
+    "description": "iShares ESG Aware MSCI USA ETF(ESGU)의 구조를 분석한다. 추적오차 제약 하의 최적화 방식, 매출 문턱과 범주적 배제가 섞인 스크린 5종, 2018년 지수 전환과 '접합' 성과 표기, 90% 최소 투자 정책까지 1차 출처로 정리했다.",
+    "headline": "ESGU ETF란? ESG를 최대화하되 시장에서 벗어나지 마라 — 제약조건이 결과를 정하는 구조",
+    "keywords": "ESGU, ESG ETF, 최적화 지수, 추적오차 제약, MSCI, 배제 스크린, 지수 전환, 접합 성과, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/610",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

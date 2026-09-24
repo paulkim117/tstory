@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-24",
+  "body_html_length": 10068,
+  "canonical_url": "https://mystock-note.tistory.com/610",
+  "content_hash": "9fbdb9838a2cf0e8701eb3aa922e4c5c92c580299f061b2175957bad70e9d61c",
+  "json_ld_count": 2,
+  "meta_description": "ESG ETF는 흔히 「착한 기업에 투자하는 상품」으로 소개된다. 그 설명이 틀린 것은 아니지만, 상품 구조를 보면 초점이 다른 곳에 있다. iShares ESG Aware MSCI USA ETF(ESGU)의 설계를 한 줄로 요약하면 이렇다.ESG 점수를 최대한 높이되, 원래 지수에서 너무 벗어나지는 마라.두 번째 조건이 이 상품의 성격 대부분을 결정한다. ESG가 목적이고 시장 추종이 제약인 구조이며, 그 제약에는 구체적인 수치가 붙어 있다.ESGU는 어떤 상품인가?표1. ESGU 기본 구조 (출처: 운용사 상품 자료 및 제출 서류)항목내용상품명iShares ESG Aware MSCI USA ETF티커ESGU현재 추종 지수MSCI USA Extended ESG Focus Index이전 추종 지수MSCI..",
+  "modified_time": "2026-09-25T00:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ESG ETF는 흔히 「착한 기업에 투자하는 상품」으로 소개된다. 그 설명이 틀린 것은 아니지만, 상품 구조를 보면 초점이 다른 곳에 있다. iShares ESG Aware MSCI USA ETF(ESGU)의 설계를 한 줄로 요약하면 이렇다.ESG 점수를 최대한 높이되, 원래 지수에서 너무 벗어나지는 마라.두 번째 조건이 이 상품의 성격 대부분을 결정한다. ESG가 목적이고 시장 추종이 제약인 구조이며, 그 제약에는 구체적인 수치가 붙어 있다.ESGU는 어떤 상품인가?표1. ESGU 기본 구조 (출처: 운용사 상품 자료 및 제출 서류)항목내용상품명iShares ESG Aware MSCI USA ETF티커ESGU현재 추종 지수MSCI USA Extended ESG Focus Index이전 추종 지수MSCI..",
+  "og_title": "ESGU ETF란? ESG를 최대화하되 시장에서 벗어나지 마라 — 제약조건이 결과를 정하는 구조",
+  "post_id": "610",
+  "published_time": "2026-09-25T00:35:15+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ESGU ETF란? ESG를 최대화하되 시장에서 벗어나지 마라 — 제약조건이 결과를 정하는 구조",
+  "url": "https://mystock-note.tistory.com/610"
+}
