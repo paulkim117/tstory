@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-25",
+  "body_html_length": 9905,
+  "canonical_url": "https://mystock-note.tistory.com/617",
+  "content_hash": "38eb598b12beee89f968f40ef8f940108aaaf3b8adbc085ce7e5c983878c20bf",
+  "json_ld_count": 2,
+  "meta_description": "모멘텀과 저변동성은 성격이 반대인 팩터다. 모멘텀은 오르는 것을 따라가고, 저변동성은 흔들리지 않는 것을 고른다. 크게 오르는 종목은 대체로 크게 흔들린다.First Trust Dorsey Wright Momentum & Low Volatility ETF(DVOL)는 이 둘을 함께 쓴다. 다만 점수를 더하는 방식이 아니다. 순서대로 적용한다. 먼저 모멘텀으로 자격을 주고, 그 안에서 변동성이 낮은 쪽을 남긴다. 순서를 바꾸면 전혀 다른 상품이 된다.DVOL은 어떤 상품인가?표1. DVOL 기본 구조 (출처: 제출 서류 및 지수 제공자 자료)항목내용상품명First Trust Dorsey Wright Momentum & Low Volatility ETF티커DVOL운용 방식패시브 — 지수 추종추종 지수Dors..",
+  "modified_time": "2026-09-26T03:51:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "모멘텀과 저변동성은 성격이 반대인 팩터다. 모멘텀은 오르는 것을 따라가고, 저변동성은 흔들리지 않는 것을 고른다. 크게 오르는 종목은 대체로 크게 흔들린다.First Trust Dorsey Wright Momentum & Low Volatility ETF(DVOL)는 이 둘을 함께 쓴다. 다만 점수를 더하는 방식이 아니다. 순서대로 적용한다. 먼저 모멘텀으로 자격을 주고, 그 안에서 변동성이 낮은 쪽을 남긴다. 순서를 바꾸면 전혀 다른 상품이 된다.DVOL은 어떤 상품인가?표1. DVOL 기본 구조 (출처: 제출 서류 및 지수 제공자 자료)항목내용상품명First Trust Dorsey Wright Momentum & Low Volatility ETF티커DVOL운용 방식패시브 — 지수 추종추종 지수Dors..",
+  "og_title": "DVOL ETF란? 팩터를 합치지 않고 순서대로 거른다 — 모멘텀 다음에 저변동",
+  "post_id": "617",
+  "published_time": "2026-09-26T03:50:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DVOL ETF란? 팩터를 합치지 않고 순서대로 거른다 — 모멘텀 다음에 저변동",
+  "url": "https://mystock-note.tistory.com/617"
+}

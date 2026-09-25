@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-26T00:54:00+09:00",
+    "datePublished": "2026-09-26T00:53:43+09:00",
+    "description": "지수가 종목을 거르는 기준은 대개 「그 회사가 무엇을 하는가」다. 어떤 업종인지, 매출이 얼마인지, 배당을 주는지, 재무가 튼튼한지를 본다. WisdomTree China ex-State-Owned Enterprises Fund(CXSE)는 다른 것을 본다.누가 그 회사를 소유하고 있는가. 정부 지분이 일정 비율을 넘으면 사업 내용과 무관하게 빠진다. 중국 투자에서 늘 거론되는 국유기업 문제를 지분율이라는 숫자 하나로 처리하는 방식이며, 그 숫자가 무엇이고 왜 그 값인지가 이 상품의 핵심이다.CXSE는 어떤 상품인가?표1. CXSE 기본 구조 (출처: 투자설명서 및 운용사 자료)항목내용상품명WisdomTree China ex-State-Owned Enterprises Fund티커 · 거래소CXSE · 나..",
+    "headline": "CXSE ETF란? 국유기업을 빼는 중국 ETF — 정부 지분 20%라는 문턱과 그 부작용",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/614",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/614"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-26",
+    "datePublished": "2026-09-26",
+    "description": "WisdomTree China ex-State-Owned Enterprises Fund(CXSE)의 구조를 분석한다. 사업이 아닌 소유 구조로 배제하는 설계, 정부 지분 20% 문턱, 배제가 업종 편중으로 전달되는 경로와 섹터 30% 상한, 2015년 CHXF에서의 전환까지 투자설명서 기준으로 정리했다.",
+    "headline": "CXSE ETF란? 국유기업을 빼는 중국 ETF — 정부 지분 20%라는 문턱과 그 부작용",
+    "keywords": "CXSE, 중국 ETF, 국유기업, 정부 지분, WisdomTree, 배제형 지수, 섹터 상한, 지배구조, 자체 지수, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/614",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

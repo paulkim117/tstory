@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-26T01:55:00+09:00",
+    "datePublished": "2026-09-26T01:54:04+09:00",
+    "description": "배당주는 금리가 오르면 약하다는 말이 있다. 근거가 없지 않다. 안정적으로 배당을 주는 기업은 채권의 대체재처럼 취급되므로, 채권 수익률이 오르면 상대적 매력이 떨어진다.Fidelity Dividend ETF for Rising Rates(FDRR)는 그 문제를 지수 규칙 안에서 해결하려 한다. 배당을 주면서 동시에 금리가 오를 때 함께 오르는 경향이 있는 기업만 담는다는 발상이다. 그런데 이 두 조건은 서로를 밀어낸다. 이 상품의 성격은 그 긴장에서 나온다.FDRR은 어떤 상품인가?표1. FDRR 기본 구조 (출처: SEC 제출 요약투자설명서 및 운용사 자료)항목내용상품명Fidelity Dividend ETF for Rising Rates티커FDRR설정일2016-09-12운용 방식패시브 — 지수 추종추..",
+    "headline": "FDRR ETF란? 배당과 금리 대응을 동시에 요구하면 배당수익률이 희생된다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/615",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/615"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-26",
+    "datePublished": "2026-09-26",
+    "description": "Fidelity Dividend ETF for Rising Rates(FDRR)의 구조를 분석한다. 배당 조건과 10년물 국채 수익률 상관 조건이 서로 당기는 설계, 상관계수를 편입 기준으로 쓰는 것의 한계, 금리 하락기 역방향 작동, 자체 지수 구조까지 1차 출처로 정리했다.",
+    "headline": "FDRR ETF란? 배당과 금리 대응을 동시에 요구하면 배당수익률이 희생된다",
+    "keywords": "FDRR, 배당 ETF, 금리 상승, 국채 수익률, 상관관계, Fidelity, 자체 지수, 배당수익률, 팩터 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/615",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

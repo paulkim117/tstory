@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-25",
+  "body_html_length": 9357,
+  "canonical_url": "https://mystock-note.tistory.com/616",
+  "content_hash": "818fa3c8c745a4c2c997c6c4f8b53fc23b575f408ff9730869721e68a13f0af2",
+  "json_ld_count": 2,
+  "meta_description": "티커가 같으면 같은 상품이라고 생각하기 쉽다. PPH는 그렇지 않다. 이 티커는 2011년 이전에도 존재했지만, 그때의 PPH와 지금의 PPH는 법적으로 다른 종류의 증권이다.VanEck Pharmaceutical ETF(PPH)는 미국 상장 제약 25종목을 담는 상품이다. 그런데 이 상품이 만들어진 방식과 편입 종목을 고르는 방식 모두에 일반적인 섹터 ETF와 다른 지점이 있다.PPH는 어떤 상품인가?표1. PPH 기본 구조 (출처: SEC 제출 서류 및 운용사 자료)항목내용상품명VanEck Pharmaceutical ETF티커 · 거래소PPH · NYSE Arca성립 방식2011년 HOLDRS 교환 공모법적 형태1940년법상 개방형 관리투자회사의 시리즈추종 지수MVIS® US Listed Pharma..",
+  "modified_time": "2026-09-26T02:50:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "티커가 같으면 같은 상품이라고 생각하기 쉽다. PPH는 그렇지 않다. 이 티커는 2011년 이전에도 존재했지만, 그때의 PPH와 지금의 PPH는 법적으로 다른 종류의 증권이다.VanEck Pharmaceutical ETF(PPH)는 미국 상장 제약 25종목을 담는 상품이다. 그런데 이 상품이 만들어진 방식과 편입 종목을 고르는 방식 모두에 일반적인 섹터 ETF와 다른 지점이 있다.PPH는 어떤 상품인가?표1. PPH 기본 구조 (출처: SEC 제출 서류 및 운용사 자료)항목내용상품명VanEck Pharmaceutical ETF티커 · 거래소PPH · NYSE Arca성립 방식2011년 HOLDRS 교환 공모법적 형태1940년법상 개방형 관리투자회사의 시리즈추종 지수MVIS® US Listed Pharma..",
+  "og_title": "PPH ETF란? 티커는 그대로인데 껍데기가 바뀐 상품 — HOLDRS에서 ETF로",
+  "post_id": "616",
+  "published_time": "2026-09-26T02:49:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PPH ETF란? 티커는 그대로인데 껍데기가 바뀐 상품 — HOLDRS에서 ETF로",
+  "url": "https://mystock-note.tistory.com/616"
+}
