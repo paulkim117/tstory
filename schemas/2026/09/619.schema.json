@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-27T01:52:00+09:00",
+    "datePublished": "2026-09-27T01:51:29+09:00",
+    "description": "채권 지수는 거의 예외 없이 신용평가사가 공시한 등급으로 편입 종목을 고른다. 투자등급 지수는 BBB− 이상을, 하이일드 지수는 그 아래를 담는다. 등급이 곧 규칙이다.VanEck Moody's Analytics BBB Corporate Bond ETF(MBBB)는 다르게 접근한다. BBB 등급 채권 중에서 「앞으로 강등될 확률이 낮은」 것을 고른다. 등급이라는 현재 상태가 아니라 등급이 바뀔 확률이 기준이며, 그 확률은 공시 등급이 아니라 별도의 모형이 추정한다.BBB는 무엇이 걸린 자리인가신용등급 체계에서 BBB는 투자등급의 가장 아래 구간이다. 한 단계만 내려가면 투자등급을 벗어나 하이일드가 된다. 이 경계선이 단순한 명칭 변경이 아닌 이유는 제도가 그 선을 기준으로 작동하기 때문이다.표1. 투자등..",
+    "headline": "MBBB ETF란? 등급이 아니라 '강등 확률'로 고르는 채권 지수",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/619",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/619"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-27",
+    "datePublished": "2026-09-27",
+    "description": "VanEck Moody's Analytics BBB Corporate Bond ETF(MBBB)의 구조를 분석한다. BBB 경계선이 만드는 강제 매도, 공시 등급과 모형 추정 확률의 차이, 평가 부문과 애널리틱스 부문의 분리, 밸류에이션 조건의 견제 역할까지 1차 출처로 정리했다.",
+    "headline": "MBBB ETF란? 등급이 아니라 '강등 확률'로 고르는 채권 지수",
+    "keywords": "MBBB, BBB 회사채, 신용위험 모형, 강등 확률, 투자등급, Moody's Analytics, 강제 매도, 채권 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/619",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-27T00:52:00+09:00",
+    "datePublished": "2026-09-27T00:51:04+09:00",
+    "description": "가치주 ETF와 성장주 ETF를 나란히 놓고 보면 이상한 일이 발견된다. 같은 종목이 양쪽에 모두 들어 있는 경우가 있다. 실수가 아니라 설계다. 표준 스타일 지수는 어느 쪽 특성도 뚜렷하지 않은 종목을 비중으로 쪼개 양쪽에 나눠 담는다.Invesco S&P 500 Pure Value ETF(RPV)의 「Pure」는 그 중간지대를 없앴다는 뜻이다. 가치 특성이 확실한 종목만 남기고, 비중까지 그 특성의 강도로 정한다. 무엇이 빠지고 그 대가로 무엇이 따라오는지가 이 글의 내용이다.표준 스타일 지수는 왜 한 종목을 양쪽에 담는가가치와 성장은 서로를 배제하는 범주가 아니다. 이익 대비 주가가 낮으면서 매출도 꾸준히 늘어나는 기업이 있고, 어느 쪽 지표도 뚜렷하지 않은 기업도 많다.표준 스타일 지수는 이 문제..",
+    "headline": "RPV ETF란? 가치와 성장 사이 '중간지대'를 없앤 지수 — 순도를 높인 대가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/618",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/618"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-27",
+    "datePublished": "2026-09-27",
+    "description": "Invesco S&P 500 Pure Value ETF(RPV)의 구조를 분석한다. 표준 스타일 지수가 중간 종목을 양쪽에 나눠 담는 이유, 가치·성장 점수의 비율 판정, 성장 점수에 포함된 모멘텀의 작동, 스타일 점수 가중과 비분산형 자동 전환 조항까지 1차 출처로 정리했다.",
+    "headline": "RPV ETF란? 가치와 성장 사이 '중간지대'를 없앤 지수 — 순도를 높인 대가",
+    "keywords": "RPV, 순수 가치, Pure Value, 스타일 지수, 팩터 가중, 가치주 ETF, S&P 500, 비분산형, 가치 함정, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/618",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

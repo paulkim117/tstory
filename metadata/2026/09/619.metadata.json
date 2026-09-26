@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-26",
+  "body_html_length": 9998,
+  "canonical_url": "https://mystock-note.tistory.com/619",
+  "content_hash": "f5b4e66b2b577932fe3291a49b636dacf265776a23aad9c99686ad41163759f8",
+  "json_ld_count": 2,
+  "meta_description": "채권 지수는 거의 예외 없이 신용평가사가 공시한 등급으로 편입 종목을 고른다. 투자등급 지수는 BBB− 이상을, 하이일드 지수는 그 아래를 담는다. 등급이 곧 규칙이다.VanEck Moody's Analytics BBB Corporate Bond ETF(MBBB)는 다르게 접근한다. BBB 등급 채권 중에서 「앞으로 강등될 확률이 낮은」 것을 고른다. 등급이라는 현재 상태가 아니라 등급이 바뀔 확률이 기준이며, 그 확률은 공시 등급이 아니라 별도의 모형이 추정한다.BBB는 무엇이 걸린 자리인가신용등급 체계에서 BBB는 투자등급의 가장 아래 구간이다. 한 단계만 내려가면 투자등급을 벗어나 하이일드가 된다. 이 경계선이 단순한 명칭 변경이 아닌 이유는 제도가 그 선을 기준으로 작동하기 때문이다.표1. 투자등..",
+  "modified_time": "2026-09-27T01:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "채권 지수는 거의 예외 없이 신용평가사가 공시한 등급으로 편입 종목을 고른다. 투자등급 지수는 BBB− 이상을, 하이일드 지수는 그 아래를 담는다. 등급이 곧 규칙이다.VanEck Moody's Analytics BBB Corporate Bond ETF(MBBB)는 다르게 접근한다. BBB 등급 채권 중에서 「앞으로 강등될 확률이 낮은」 것을 고른다. 등급이라는 현재 상태가 아니라 등급이 바뀔 확률이 기준이며, 그 확률은 공시 등급이 아니라 별도의 모형이 추정한다.BBB는 무엇이 걸린 자리인가신용등급 체계에서 BBB는 투자등급의 가장 아래 구간이다. 한 단계만 내려가면 투자등급을 벗어나 하이일드가 된다. 이 경계선이 단순한 명칭 변경이 아닌 이유는 제도가 그 선을 기준으로 작동하기 때문이다.표1. 투자등..",
+  "og_title": "MBBB ETF란? 등급이 아니라 '강등 확률'로 고르는 채권 지수",
+  "post_id": "619",
+  "published_time": "2026-09-27T01:51:29+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "MBBB ETF란? 등급이 아니라 '강등 확률'로 고르는 채권 지수",
+  "url": "https://mystock-note.tistory.com/619"
+}

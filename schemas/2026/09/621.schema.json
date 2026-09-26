@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-27T03:37:00+09:00",
+    "datePublished": "2026-09-27T03:36:17+09:00",
+    "description": "희토류가 중요하다는 이야기는 익숙하다. 전기차 모터, 풍력 터빈, 반도체 장비에 들어가고 특정 국가에 공급이 몰려 있다는 설명도 자주 나온다.Global X Rare Earth & Critical Materials ETF(EART)는 그 주제를 담는 상품이다. 그런데 지수 정의를 열어 보면 두 가지가 눈에 걸린다. 희토류는 열 개 범주 중 하나일 뿐이고, 편입 활동에 채굴·생산과 나란히 「향상」이라는 낯선 항목이 따로 정의돼 있다. 이 두 번째 항목이 이 산업의 실제 병목을 가리킨다.EART는 어떤 상품인가?표1. EART 기본 구조 (출처: SEC 제출 서류 및 운용사 자료)항목내용상품명Global X Rare Earth & Critical Materials ETF티커 · 거래소EART · 나스닥출시2..",
+    "headline": "EART ETF란? '희토류'가 이름에 붙었지만 열 가지 중 하나다 — 진짜 병목은 정제다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/621",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/621"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-27",
+    "datePublished": "2026-09-27",
+    "description": "Global X Rare Earth & Critical Materials ETF(EART)의 구조를 분석한다. DMAT에서 상품명·티커·지수명이 함께 바뀐 이력, 10개 소재 범주와 매출 50% 문턱, 정제·제련을 뜻하는 '향상'이 별도 단계로 정의된 이유까지 SEC 제출 서류 기준으로 정리했다.",
+    "headline": "EART ETF란? '희토류'가 이름에 붙었지만 열 가지 중 하나다 — 진짜 병목은 정제다",
+    "keywords": "EART, 희토류 ETF, 핵심 소재, 정제, 제련, 공급망, DMAT, Solactive, 테마 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/621",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-27T02:53:00+09:00",
+    "datePublished": "2026-09-27T02:52:03+09:00",
+    "description": "광산 기업은 다 같지 않다. 금을 캐서 파는 회사가 있고, 광산을 짓고 있는 회사가 있고, 아직 금이 있는지 확인하는 중인 회사가 있다. 마지막 부류는 매출이 없는 경우가 흔하다.Global X Gold Explorers ETF(GOEX)는 그 앞단에 투자하는 상품으로 알려져 있다. 그런데 상품명과 추종 지수의 이름이 어긋나 있다. 상품명에는 「탐사」만 있고 지수명에는 「탐사와 개발」이 있다. 2017년에 무슨 일이 있었는지, 그리고 지수가 그 이후 무엇을 하고 있는지가 이 글의 내용이다.광산 기업의 세 단계먼저 구분이 필요하다. 광산 사업은 단계마다 성격이 전혀 다르다.표1. 광산 기업의 사업 단계단계하는 일매출주가를 움직이는 것탐사시추, 자원량 평가대체로 없음시추 결과 발표, 자금 조달개발인허가, 광..",
+    "headline": "GOEX ETF란? 상품명은 '탐사'인데 지수는 '탐사와 개발'이다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/620",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/620"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-27",
+    "datePublished": "2026-09-27",
+    "description": "Global X Gold Explorers ETF(GOEX)의 구조를 분석한다. 2017년 지수 전환으로 개발 단계가 추가된 이력, 선정 기준이 유동성에서 시가총액으로 바뀐 의미, 생산량이 많을수록 상한이 낮아지는 역방향 차등 구조, 매출 없는 기업의 평가 한계까지 1차 출처로 정리했다.",
+    "headline": "GOEX ETF란? 상품명은 '탐사'인데 지수는 '탐사와 개발'이다",
+    "keywords": "GOEX, 금광 ETF, 탐사 기업, 개발 단계, Solactive, 지수 전환, 차등 상한, 금 투자, 원자재 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/620",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
