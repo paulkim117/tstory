@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-28T03:39:00+09:00",
+    "datePublished": "2026-09-28T03:38:11+09:00",
+    "description": "배당주 ETF의 업종 구성을 열어 보면 대체로 비슷하다. 유틸리티, 필수소비재, 리츠, 통신이 크고 기술은 작다. 배당을 많이 주는 기업이 그 업종에 몰려 있으니 당연한 결과다.문제는 그 결과가 의도한 것이 아니라는 점이다. 배당을 기준으로 골랐을 뿐인데 특정 업종에 베팅한 포트폴리오가 만들어진다. State Street SPDR Portfolio S&P Sector Neutral Dividend ETF(SPDG)는 그 문제를 정면으로 다루는 상품이고, 그 해법에는 대가가 따른다.배당으로 고르면 왜 업종이 쏠리는가배당을 많이, 꾸준히 주는 기업에는 공통점이 있다. 사업이 성숙해 재투자할 곳이 적고, 현금흐름이 안정적이며, 성장보다 배분을 택한 기업들이다.표1. 배당 스크리닝이 업종을 왜곡하는 경로업종 특..",
+    "headline": "SPDG ETF란? 배당으로 고르면 업종이 쏠린다 — 섹터 중립이 요구하는 대가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/625",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/625"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-28",
+    "datePublished": "2026-09-28",
+    "description": "State Street SPDR Portfolio S&P Sector Neutral Dividend ETF(SPDG)의 구조를 분석한다. 배당 스크리닝이 업종을 왜곡하는 경로, 모지수 섹터 비중 미러링 방식, 섹터 중립을 위해 배당 요건이 7년·유지 포함으로 완화된 이유, 신규·기존 차등 요건까지 1차 출처로 정리했다.",
+    "headline": "SPDG ETF란? 배당으로 고르면 업종이 쏠린다 — 섹터 중립이 요구하는 대가",
+    "keywords": "SPDG, 섹터 중립, 배당 ETF, 배당 귀족, 업종 편중, S&P Composite 1500, 완충 구간, 배당성장, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/625",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-27",
+  "body_html_length": 8466,
+  "canonical_url": "https://mystock-note.tistory.com/622",
+  "content_hash": "f043a9da7dcbab7f29a1036b98df6f8cc5546c731eccbd2b7eba2ae1cc506133",
+  "json_ld_count": 2,
+  "meta_description": "지수 이름에는 대개 무엇을 담는지가 적혀 있다. S&P500은 500종목을, 나스닥100은 100종목을 담는다. MSCI Kokusai는 다르다. 「Kokusai(国際)」는 일본어로 「국제」라는 뜻이며, 이 지수의 정식 별칭은 MSCI World ex Japan, 즉 일본을 제외한 선진국 지수다.일본 투자자에게 「국제」란 자국 밖을 뜻한다. 그래서 일본을 뺀 선진국 지수가 「국제 지수」가 된다. 이름 안에 관점이 새겨져 있는 것이며, iShares MSCI Kokusai ETF(TOK)는 그 지수를 미국 시장에서 거래할 수 있게 만든 상품이다. 한국 투자자가 이 상품을 볼 때 확인해야 할 것들이 여기서 갈린다.TOK는 어떤 상품인가?표1. TOK 기본 구조 (출처: 운용사 공식 자료 및 지수 제공자 개요..",
+  "modified_time": "2026-09-28T00:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "지수 이름에는 대개 무엇을 담는지가 적혀 있다. S&P500은 500종목을, 나스닥100은 100종목을 담는다. MSCI Kokusai는 다르다. 「Kokusai(国際)」는 일본어로 「국제」라는 뜻이며, 이 지수의 정식 별칭은 MSCI World ex Japan, 즉 일본을 제외한 선진국 지수다.일본 투자자에게 「국제」란 자국 밖을 뜻한다. 그래서 일본을 뺀 선진국 지수가 「국제 지수」가 된다. 이름 안에 관점이 새겨져 있는 것이며, iShares MSCI Kokusai ETF(TOK)는 그 지수를 미국 시장에서 거래할 수 있게 만든 상품이다. 한국 투자자가 이 상품을 볼 때 확인해야 할 것들이 여기서 갈린다.TOK는 어떤 상품인가?표1. TOK 기본 구조 (출처: 운용사 공식 자료 및 지수 제공자 개요..",
+  "og_title": "TOK ETF란? '코쿠사이'는 일본어 '국제'다 — 지수 이름에 새겨진 관점",
+  "post_id": "622",
+  "published_time": "2026-09-28T00:36:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TOK ETF란? '코쿠사이'는 일본어 '국제'다 — 지수 이름에 새겨진 관점",
+  "url": "https://mystock-note.tistory.com/622"
+}

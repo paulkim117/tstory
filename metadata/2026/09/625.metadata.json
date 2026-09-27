@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-27",
+  "body_html_length": 9559,
+  "canonical_url": "https://mystock-note.tistory.com/625",
+  "content_hash": "b954901d6e67d1ba18494daccbb54bb28c59c2a4d90374b1eed1660475b1c8d3",
+  "json_ld_count": 2,
+  "meta_description": "배당주 ETF의 업종 구성을 열어 보면 대체로 비슷하다. 유틸리티, 필수소비재, 리츠, 통신이 크고 기술은 작다. 배당을 많이 주는 기업이 그 업종에 몰려 있으니 당연한 결과다.문제는 그 결과가 의도한 것이 아니라는 점이다. 배당을 기준으로 골랐을 뿐인데 특정 업종에 베팅한 포트폴리오가 만들어진다. State Street SPDR Portfolio S&P Sector Neutral Dividend ETF(SPDG)는 그 문제를 정면으로 다루는 상품이고, 그 해법에는 대가가 따른다.배당으로 고르면 왜 업종이 쏠리는가배당을 많이, 꾸준히 주는 기업에는 공통점이 있다. 사업이 성숙해 재투자할 곳이 적고, 현금흐름이 안정적이며, 성장보다 배분을 택한 기업들이다.표1. 배당 스크리닝이 업종을 왜곡하는 경로업종 특..",
+  "modified_time": "2026-09-28T03:39:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "배당주 ETF의 업종 구성을 열어 보면 대체로 비슷하다. 유틸리티, 필수소비재, 리츠, 통신이 크고 기술은 작다. 배당을 많이 주는 기업이 그 업종에 몰려 있으니 당연한 결과다.문제는 그 결과가 의도한 것이 아니라는 점이다. 배당을 기준으로 골랐을 뿐인데 특정 업종에 베팅한 포트폴리오가 만들어진다. State Street SPDR Portfolio S&P Sector Neutral Dividend ETF(SPDG)는 그 문제를 정면으로 다루는 상품이고, 그 해법에는 대가가 따른다.배당으로 고르면 왜 업종이 쏠리는가배당을 많이, 꾸준히 주는 기업에는 공통점이 있다. 사업이 성숙해 재투자할 곳이 적고, 현금흐름이 안정적이며, 성장보다 배분을 택한 기업들이다.표1. 배당 스크리닝이 업종을 왜곡하는 경로업종 특..",
+  "og_title": "SPDG ETF란? 배당으로 고르면 업종이 쏠린다 — 섹터 중립이 요구하는 대가",
+  "post_id": "625",
+  "published_time": "2026-09-28T03:38:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPDG ETF란? 배당으로 고르면 업종이 쏠린다 — 섹터 중립이 요구하는 대가",
+  "url": "https://mystock-note.tistory.com/625"
+}

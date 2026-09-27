@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-28T02:38:00+09:00",
+    "datePublished": "2026-09-28T02:37:45+09:00",
+    "description": "퀄리티 팩터는 「재무가 튼튼한 기업을 고른다」는 발상이다. 수익성이 높고, 회계가 깨끗하고, 부채가 적은 기업을 뽑는다. 지표 세 개면 대체로 설명된다.그런데 Invesco S&P MidCap Quality ETF(XMHQ)가 추종하는 지수에는 예외 조항이 있다. 금융과 부동산 섹터 기업은 세 지표 중 두 개로만 평가한다. 같은 팩터를 쓰는데 업종에 따라 재는 자가 달라진다는 뜻이며, 이 예외가 왜 필요한지를 알면 퀄리티 팩터 자체를 다르게 보게 된다.XMHQ는 어떤 상품인가?표1. XMHQ 기본 구조 (출처: 제출 서류 기재 지수 설명 및 지수 제공자 자료)항목내용상품명Invesco S&P MidCap Quality ETF티커XMHQ설정일2006-12-01현재 추종 지수S&P MidCap 400® Qu..",
+    "headline": "XMHQ ETF란? 같은 퀄리티 팩터인데 금융·부동산은 지표가 하나 적다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/624",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/624"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "articleSection": "미국 ETF",
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-09-28",
+    "datePublished": "2026-09-28",
+    "description": "Invesco S&P MidCap Quality ETF(XMHQ)의 구조를 분석한다. 품질 3지표와 발생액 비율의 역할, 금융·부동산 섹터에만 적용되는 2지표 예외, 품질 점수와 시가총액의 곱으로 가중하는 방식, 2019년 동일가중에서의 지수 전환까지 1차 출처로 정리했다.",
+    "headline": "XMHQ ETF란? 같은 퀄리티 팩터인데 금융·부동산은 지표가 하나 적다",
+    "keywords": "XMHQ, 퀄리티 팩터, 중형주, 발생액 비율, 자기자본이익률, 재무 레버리지, 복합 가중, 섹터 상한, 팩터 ETF, 미국 ETF 세금",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/624",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

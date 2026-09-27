@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-27",
+  "body_html_length": 8609,
+  "canonical_url": "https://mystock-note.tistory.com/624",
+  "content_hash": "eb5bdb6badc3385063d40b1575c70459b47d57b585dc37d1c4b76408425698f6",
+  "json_ld_count": 2,
+  "meta_description": "퀄리티 팩터는 「재무가 튼튼한 기업을 고른다」는 발상이다. 수익성이 높고, 회계가 깨끗하고, 부채가 적은 기업을 뽑는다. 지표 세 개면 대체로 설명된다.그런데 Invesco S&P MidCap Quality ETF(XMHQ)가 추종하는 지수에는 예외 조항이 있다. 금융과 부동산 섹터 기업은 세 지표 중 두 개로만 평가한다. 같은 팩터를 쓰는데 업종에 따라 재는 자가 달라진다는 뜻이며, 이 예외가 왜 필요한지를 알면 퀄리티 팩터 자체를 다르게 보게 된다.XMHQ는 어떤 상품인가?표1. XMHQ 기본 구조 (출처: 제출 서류 기재 지수 설명 및 지수 제공자 자료)항목내용상품명Invesco S&P MidCap Quality ETF티커XMHQ설정일2006-12-01현재 추종 지수S&P MidCap 400® Qu..",
+  "modified_time": "2026-09-28T02:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "퀄리티 팩터는 「재무가 튼튼한 기업을 고른다」는 발상이다. 수익성이 높고, 회계가 깨끗하고, 부채가 적은 기업을 뽑는다. 지표 세 개면 대체로 설명된다.그런데 Invesco S&P MidCap Quality ETF(XMHQ)가 추종하는 지수에는 예외 조항이 있다. 금융과 부동산 섹터 기업은 세 지표 중 두 개로만 평가한다. 같은 팩터를 쓰는데 업종에 따라 재는 자가 달라진다는 뜻이며, 이 예외가 왜 필요한지를 알면 퀄리티 팩터 자체를 다르게 보게 된다.XMHQ는 어떤 상품인가?표1. XMHQ 기본 구조 (출처: 제출 서류 기재 지수 설명 및 지수 제공자 자료)항목내용상품명Invesco S&P MidCap Quality ETF티커XMHQ설정일2006-12-01현재 추종 지수S&P MidCap 400® Qu..",
+  "og_title": "XMHQ ETF란? 같은 퀄리티 팩터인데 금융·부동산은 지표가 하나 적다",
+  "post_id": "624",
+  "published_time": "2026-09-28T02:37:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XMHQ ETF란? 같은 퀄리티 팩터인데 금융·부동산은 지표가 하나 적다",
+  "url": "https://mystock-note.tistory.com/624"
+}
