@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-28",
+  "body_html_length": 11751,
+  "canonical_url": "https://mystock-note.tistory.com/627",
+  "content_hash": "9ba752a95f289ca8f67a7d82e55319b2922f9f01488114f5b5a675d0df6e7fba",
+  "json_ld_count": 2,
+  "meta_description": "CEFA(Global X S&P Catholic Values Developed ex-U.S. ETF)는 미국 제외 선진국 대형주에서 가톨릭 투자지침에 어긋나는 활동을 하는 기업을 배제하는 ETF입니다. 특이한 점은 규칙을 쓴 주체가 지수사도 운용사도 아니라는 것입니다. 이 글은 지침의 저자와 지수 설계자가 분리된 구조가 무엇을 뜻하는지, ESG 스크린과 어떻게 다른지, 모지수가 한국을 뺀 이유는 무엇인지를 확인 순서로 정리합니다.CEFA는 어떤 지수를 추종하나요?S&P Developed ex-U.S. Catholic Values Index입니다. 모지수인 S&P EPAC ex-Korea Large Cap Index에서 출발해 배제 스크린을 적용하고, 남은 종목을 다시 섹터 비중에 맞춰 재가중하는 3단 구..",
+  "modified_time": "2026-09-29T01:20:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "CEFA(Global X S&P Catholic Values Developed ex-U.S. ETF)는 미국 제외 선진국 대형주에서 가톨릭 투자지침에 어긋나는 활동을 하는 기업을 배제하는 ETF입니다. 특이한 점은 규칙을 쓴 주체가 지수사도 운용사도 아니라는 것입니다. 이 글은 지침의 저자와 지수 설계자가 분리된 구조가 무엇을 뜻하는지, ESG 스크린과 어떻게 다른지, 모지수가 한국을 뺀 이유는 무엇인지를 확인 순서로 정리합니다.CEFA는 어떤 지수를 추종하나요?S&P Developed ex-U.S. Catholic Values Index입니다. 모지수인 S&P EPAC ex-Korea Large Cap Index에서 출발해 배제 스크린을 적용하고, 남은 종목을 다시 섹터 비중에 맞춰 재가중하는 3단 구..",
+  "og_title": "CEFA ETF란? 종교 지침이 지수가 되는 경로, ESG 스크린과 무엇이 다르고 한국은 왜 빠지나",
+  "post_id": "627",
+  "published_time": "2026-09-29T01:19:40+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CEFA ETF란? 종교 지침이 지수가 되는 경로, ESG 스크린과 무엇이 다르고 한국은 왜 빠지나",
+  "url": "https://mystock-note.tistory.com/627"
+}

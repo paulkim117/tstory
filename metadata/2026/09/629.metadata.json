@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-28",
+  "body_html_length": 12134,
+  "canonical_url": "https://mystock-note.tistory.com/629",
+  "content_hash": "98ac6579c0e5059067739482ba2f466954d5a66e3adb5dc5cea933af5b345395",
+  "json_ld_count": 2,
+  "meta_description": "ROBT(First Trust Nasdaq Artificial Intelligence and Robotics ETF)는 AI·로봇 관련 기업을 세 가지 역할로 분류하고 역할마다 자본 배분 비율을 고정하는 ETF입니다. 대부분의 테마 ETF가 '매출 몇 % 이상'으로 편입을 정하는 것과 달리, 이 지수는 그 기업이 생태계에서 어떤 자리에 있는지로 나눕니다. 이 글은 3분류가 어떻게 비중을 결정하는지, 선정 기준과 가중 기준이 왜 분리돼 있는지, 동일가중·시총가중과 무엇이 다른지를 확인 순서로 정리합니다.ROBT는 어떤 지수를 추종하나요?Nasdaq CTA Artificial Intelligence and Robotics Index입니다. 지수 산출은 나스닥이, 기업 분류·평가는 소비자기술협회(CTA)가 맡..",
+  "modified_time": "2026-09-29T03:23:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ROBT(First Trust Nasdaq Artificial Intelligence and Robotics ETF)는 AI·로봇 관련 기업을 세 가지 역할로 분류하고 역할마다 자본 배분 비율을 고정하는 ETF입니다. 대부분의 테마 ETF가 '매출 몇 % 이상'으로 편입을 정하는 것과 달리, 이 지수는 그 기업이 생태계에서 어떤 자리에 있는지로 나눕니다. 이 글은 3분류가 어떻게 비중을 결정하는지, 선정 기준과 가중 기준이 왜 분리돼 있는지, 동일가중·시총가중과 무엇이 다른지를 확인 순서로 정리합니다.ROBT는 어떤 지수를 추종하나요?Nasdaq CTA Artificial Intelligence and Robotics Index입니다. 지수 산출은 나스닥이, 기업 분류·평가는 소비자기술협회(CTA)가 맡..",
+  "og_title": "ROBT ETF란? AI·로봇 기업 3분류 지수 구조, 동일가중·시총가중과 무엇이 다른가",
+  "post_id": "629",
+  "published_time": "2026-09-29T03:22:25+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ROBT ETF란? AI·로봇 기업 3분류 지수 구조, 동일가중·시총가중과 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/629"
+}

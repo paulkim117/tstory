@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-29T03:23:00+09:00",
+    "datePublished": "2026-09-29T03:22:25+09:00",
+    "description": "ROBT(First Trust Nasdaq Artificial Intelligence and Robotics ETF)는 AI·로봇 관련 기업을 세 가지 역할로 분류하고 역할마다 자본 배분 비율을 고정하는 ETF입니다. 대부분의 테마 ETF가 '매출 몇 % 이상'으로 편입을 정하는 것과 달리, 이 지수는 그 기업이 생태계에서 어떤 자리에 있는지로 나눕니다. 이 글은 3분류가 어떻게 비중을 결정하는지, 선정 기준과 가중 기준이 왜 분리돼 있는지, 동일가중·시총가중과 무엇이 다른지를 확인 순서로 정리합니다.ROBT는 어떤 지수를 추종하나요?Nasdaq CTA Artificial Intelligence and Robotics Index입니다. 지수 산출은 나스닥이, 기업 분류·평가는 소비자기술협회(CTA)가 맡..",
+    "headline": "ROBT ETF란? AI·로봇 기업 3분류 지수 구조, 동일가중·시총가중과 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/629",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/629"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Nasdaq CTA Artificial Intelligence and Robotics Index를 추종하는 미국 상장 AI·로봇 테마 ETF",
+      "name": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "[R10 — 필명·About URL 미확정]"
+    },
+    "dateModified": "2026-09-29",
+    "datePublished": "2026-09-29",
+    "description": "ROBT는 AI·로봇 기업을 인에이블러·인게이저·인핸서 세 역할로 나누고 범주별 비중을 고정하는 ETF입니다. 선정과 가중이 분리된 구조, 동일가중과의 차이, 국내 대안을 확인 순서로 정리합니다.",
+    "headline": "ROBT ETF란? AI·로봇 기업 3분류 지수 구조, 동일가중·시총가중과 무엇이 다른가",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/629",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/629"
+  }
+]

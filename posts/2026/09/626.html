@@ -1,0 +1,251 @@
+<!--
+source: https://mystock-note.tistory.com/626
+backup_date: 2026-09-28
+post_id: 626
+-->
+<p data-ke-size="size16">BAB(Invesco Taxable Municipal Bond ETF)는 <strong>면세가 아닌 미국 지방채</strong>를 담는 ETF입니다. 티커 BAB는 상장 당시 이름인 Build America Bond에서 왔지만, <strong>현재 추종 지수는 그 프로그램 채권에 한정되지 않습니다.</strong> 이 글은 과세형 지방채가 왜 존재하는지, MUB(면세채권)와 구조가 어떻게 갈리는지, 2017년 지수 교체가 무엇을 바꿨는지를 확인 순서로 정리합니다.</p>
+
+<h2>BAB는 어떤 지수를 추종하나요?</h2>
+
+<p data-ke-size="size16"><strong>ICE BofA US Taxable Municipal Securities Plus Index</strong>입니다. 미국 주(州)·준주와 그 산하 정치적 하부조직이 미국 국내시장에 공모 발행한 <strong>달러표시 과세형 지방채</strong>의 성과를 측정하도록 설계된 지수입니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>항목</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>기초지수</td><td>ICE BofA US Taxable Municipal Securities Plus Index</td></tr>
+<tr><td>지수 제공자</td><td>ICE Data Indices, LLC (외부 독립 지수사)</td></tr>
+<tr><td>발행 주체</td><td>미국 주·준주 및 산하 정치적 하부조직</td></tr>
+<tr><td>과세 여부</td><td><strong>이자에 연방·주 소득세 과세</strong>(일반 지방채와 반대)</td></tr>
+<tr><td>가중 방식</td><td>시가총액 가중 — 현재 발행잔액 × 시장가격 <strong>+ 경과이자</strong></td></tr>
+<tr><td>복제 방식</td><td>표본추출(sampling)</td></tr>
+<tr><td>상장일 / 상장지</td><td>2009-11-17 / NYSE Arca</td></tr>
+<tr><td>투자 정책</td><td>지수 구성증권에 <strong>총자산의 80% 이상</strong></td></tr>
+</tbody>
+</table>
+<figcaption>출처: SEC EDGAR 제출 요약투자설명서(Invesco Exchange-Traded Fund Trust II, 497K), Invesco 공식 상품 페이지. 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 직접 확인 관점 ①</strong>: 80% 투자 정책의 기준 금액이 <strong>순자산이 아니라 '총자산(total assets)'</strong>입니다. 이 블로그가 반복 확인해 온 대로 80%는 상품마다 수치도, 기준 금액도 다릅니다. <strong>[판단]</strong> 총자산 기준은 차입·레버리지가 있을 때 순자산 기준보다 느슨하게 작동할 수 있으므로, 같은 "80%"라는 표기를 상품 간에 그대로 비교하면 안 됩니다.</p>
+
+<p data-ke-size="size16"><strong>해석 — 직접 확인 관점 ②</strong>: 지수 제공자는 ICE Data Indices이고 상장 거래소는 NYSE Arca입니다. <strong>둘 다 Intercontinental Exchange 계열</strong>입니다. <strong>[판단]</strong> 이것이 이해상충을 뜻하지는 않지만, "외부 독립 지수사"라는 표기가 곧 "상품 생태계 전체와 무관한 제3자"를 의미하지는 않는다는 점은 기록해 둘 만합니다.</p>
+
+
+
+<h2>지방채인데 왜 과세되나요?</h2>
+
+<p data-ke-size="size16"><strong>보조의 방향이 반대이기 때문입니다.</strong> 일반 지방채는 투자자가 받는 이자를 비과세로 만들어 발행자의 조달금리를 낮춥니다. 과세형 지방채는 이자를 과세로 두는 대신 <strong>연방정부가 발행자에게 직접 현금을 지급</strong>합니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>면세 지방채</th><th>과세형 지방채(직접지불형)</th></tr></thead>
+<tbody>
+<tr><td>투자자 이자</td><td>연방소득세 면제</td><td><strong>과세</strong></td></tr>
+<tr><td>보조 수령자</td><td><strong>투자자</strong>(세금을 안 냄)</td><td><strong>발행자</strong>(현금을 받음)</td></tr>
+<tr><td>보조 형태</td><td>세제 혜택</td><td>연방 환급금</td></tr>
+<tr><td>발행자 조달금리</td><td>표면금리를 낮게 발행</td><td>표면금리는 높게, 보조로 상쇄</td></tr>
+</tbody>
+</table>
+<figcaption>구조 비교. 출처: ARRA 2009 제1531조, 내국세법 §6431, IRS 세제혜택채권 자료.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>[사실]</strong> Build America Bonds(직접지불형)의 발행자는 채권 이자의 <strong>35%</strong>를 연방정부로부터 환급받을 자격을 가졌으며, 이 권리는 <strong>채권 존속기간 전체</strong>에 적용됩니다.</p>
+
+<figure>
+<figcaption>표. 보조 방식이 발행자 실부담에 미치는 영향 <strong>(가상 예시)</strong></figcaption>
+<table>
+<thead><tr><th>항목</th><th>값</th></tr></thead>
+<tbody>
+<tr><td>과세형 채권 표면금리</td><td>연 5.00%</td></tr>
+<tr><td>연방 보조(35%)</td><td>1.75%p</td></tr>
+<tr><td>발행자 실부담</td><td><strong>3.25%</strong></td></tr>
+<tr><td>시퀘스터 5.7% 적용 시 보조</td><td>1.65%p</td></tr>
+<tr><td>시퀘스터 후 실부담</td><td><strong>약 3.35%</strong></td></tr>
+</tbody>
+</table>
+<figcaption><strong>(가상 예시)</strong> 표면금리는 설명을 위한 가정값입니다. 실제 채권별 조건과 다릅니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 이 구조에서 투자자는 "과세되는 지방채"를 사고, 발행자는 "세금 대신 현금"을 받습니다. 미국 납세자에게는 면세 혜택이 사라진 대신 표면금리가 그만큼 높게 형성되는 교환입니다.</p>
+
+
+
+
+
+<h2>티커가 BAB인데 왜 Build America Bond가 아닌가요?</h2>
+
+<p data-ke-size="size16"><strong>담을 채권이 더 이상 늘어나지 않았기 때문입니다.</strong> 이 상품의 이력에서 가장 중요한 사실입니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>시점</th><th>사건</th></tr></thead>
+<tbody>
+<tr><td>2009</td><td>ARRA 제1531조로 Build America Bond 프로그램 신설</td></tr>
+<tr><td>2009-11-17</td><td>본 ETF 상장 — 당시 기초지수는 <strong>Build America Bond 지수</strong></td></tr>
+<tr><td><strong>2010-12-31</strong></td><td><strong>프로그램 만료. 의회 재개 없이는 신규 발행 불가</strong></td></tr>
+<tr><td>2013-03-01</td><td>예산통제법(2011)에 따른 시퀘스터로 보조금 감액 개시</td></tr>
+<tr><td>2015-12-01</td><td>현 기초지수 산출 개시일</td></tr>
+<tr><td><strong>2017-05-31</strong></td><td><strong>기초지수 교체</strong> — 과세형 지방채 전반으로 확대. 상품명도 Taxable Municipal Bond ETF로 변경</td></tr>
+<tr><td>—</td><td><strong>티커는 BAB 그대로 유지</strong></td></tr>
+</tbody>
+</table>
+<figcaption>출처: 요약투자설명서 성과표 각주(블렌디드 지수 정의), Build America Bonds Risk 항목, IRS·재무부 공개자료. 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>[사실]</strong> 투자설명서는 위험 항목에서 이렇게 명시합니다. 프로그램은 2010년 12월 31일 만료됐고 의회가 장래에 재개하지 않는 한 추가 발행은 허용되지 않으며, <strong>그 결과 이용 가능한 Build America Bonds의 수가 제한적</strong>이어서 가치에 부정적 영향을 줄 수 있다는 것입니다. 2010년 말 시점의 미상환분은 존속기간 내내 연방 보조 자격을 유지하지만, 만료 이후 발행분은 자격이 없습니다.</p>
+
+<p data-ke-size="size16"><strong>해석 — 이 글의 핵심</strong>: 발행이 끝난 자산군을 추종하는 지수는 시간이 갈수록 <strong>만기 도래로 종목이 빠지기만 하고 새로 들어오지 않습니다.</strong> 모집단이 한 방향으로만 줄어드는 구조입니다. 2017년의 지수 교체는 그 고갈에 대한 대응으로 읽는 것이 자연스럽습니다. <strong>[판단]</strong> 다만 운용사가 교체 사유를 "모집단 고갈"로 공식 표기한 문서는 확인하지 못했으므로, 시점 정합에 근거한 해석으로 둡니다.</p>
+
+<p data-ke-size="size16"><strong>[확인 필요]</strong> 참고로 Invesco 공식 상품 페이지의 내부 전략 분류 태그는 여전히 <strong>"Build America Bond"</strong>로 표기돼 있습니다. 상품명과 지수는 바뀌었는데 분류 라벨은 갱신되지 않은 상태로 보이며, 이는 상품 정체성 판단을 티커나 라벨에 의존하면 안 되는 이유를 보여줍니다.</p>
+
+<h2>지수 편입 기준은 무엇인가요?</h2>
+
+<p data-ke-size="size16">네 가지 요건과 발행잔액 문턱이 있습니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>기준</th></tr></thead>
+<tbody>
+<tr><td>발행 시점 최종만기</td><td>18개월 이상</td></tr>
+<tr><td>잔존 최종만기</td><td>1년 이상</td></tr>
+<tr><td>쿠폰</td><td>고정 쿠폰 스케줄 — <strong>제로쿠폰 포함</strong></td></tr>
+<tr><td>신용등급</td><td>투자등급 (Moody's·S&amp;P·Fitch <strong>평균</strong>)</td></tr>
+<tr><td>최소 발행잔액 (만기 1~5년)</td><td>1,000만 달러</td></tr>
+<tr><td>최소 발행잔액 (만기 5~10년)</td><td>1,500만 달러</td></tr>
+<tr><td>최소 발행잔액 (만기 10년 이상)</td><td>2,500만 달러</td></tr>
+<tr><td><strong>Build America Bonds</strong></td><td><strong>100만 달러</strong></td></tr>
+</tbody>
+</table>
+<figcaption>출처: 요약투자설명서 주요 투자전략(Principal Investment Strategies). 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 직접 확인 관점 ③</strong>: 같은 지수 안에서 <strong>BAB에만 25분의 1 수준의 완화된 문턱</strong>이 적용됩니다. 일반 과세형 지방채가 10년 이상 만기에서 2,500만 달러를 요구받는 반면 BAB는 100만 달러면 됩니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 이 차등은 신규 발행이 끊긴 자산군을 지수 안에 최대한 남기기 위한 장치로 읽힙니다. 편입 기준은 흔히 "유동성 확보"를 목적으로 설명되지만, 여기서는 <strong>모집단 유지가 유동성 기준보다 앞선 사례</strong>입니다. 신용등급을 세 평가사 <strong>평균</strong>으로 판정하는 점도 함께 봐야 합니다. 한 곳만 강등해도 즉시 탈락하는 방식이 아니라는 뜻입니다.</p>
+
+<h2>지수가 빼는 것은 무엇인가요?</h2>
+
+<p data-ke-size="size16">배제 목록이 이 지수의 성격을 드러냅니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>배제 대상</th><th>성격</th></tr></thead>
+<tbody>
+<tr><td>2차 보험(secondarily insured) 증권</td><td>신용보강 경로가 다름</td></tr>
+<tr><td><strong>지방정부 유동성 지원창구(MLF) 발행분</strong></td><td>정책 지원으로 만들어진 증권</td></tr>
+<tr><td>지방채 기업어음(CP) 프로그램</td><td>초단기</td></tr>
+<tr><td><strong>Rule 144A 증권</strong></td><td>적격기관투자자 전용 사모</td></tr>
+<tr><td>법적 디폴트 상태 증권</td><td>이미 부도</td></tr>
+<tr><td><strong>세액공제형 BAB</strong></td><td>보조가 투자자에게 가는 유형</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 요약투자설명서 주요 투자전략. 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 두 가지가 눈에 띕니다. 첫째, <strong>Rule 144A 배제</strong>입니다. 채권 ETF 중에는 반대로 144A 증권을 담아 개인이 원래 접근할 수 없던 증권에 접근시키는 상품도 있는데, 이 지수는 그 반대 방향을 택했습니다. 둘째, <strong>같은 BAB라도 세액공제형은 배제</strong>합니다. 즉 이 지수가 담는 것은 "과세형 지방채"이지 "BAB 프로그램 채권"이 아닙니다. 보조가 발행자에게 현금으로 가는 유형만 남깁니다.</p>
+
+<h2>장기 성과를 그대로 읽어도 되나요?</h2>
+
+<p data-ke-size="size16"><strong>아닙니다.</strong> 세 겹의 단절이 있습니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>단절</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>지수 교체</td><td>2017-05-31 이전은 <strong>구 지수</strong>(Build America Bond), 이후는 현 지수. 투자설명서는 이를 <strong>"블렌디드(Blended)"</strong> 지수로 별도 표기</td></tr>
+<tr><td>지수 산출 개시</td><td>현 지수의 산출 개시일은 <strong>2015-12-01</strong>. 그 이전 구간의 현 지수 성과는 <strong>존재하지 않음</strong></td></tr>
+<tr><td>수익률 정의 변경</td><td><strong>2022-07-01</strong>부로 지수 수익률에 지수 제공자가 산정한 <strong>거래비용이 포함</strong>되도록 변경</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 요약투자설명서 성과표 각주 1·2·3. 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 이 상품 특유의 논점</strong>: 세 번째가 특히 드문 사례입니다. 지수 자체의 <strong>성과 산출 규칙이 중간에 바뀌었습니다.</strong> 2022년 7월 이전 구간은 거래비용을 빼지 않은 수치, 이후는 뺀 수치입니다. <strong>[판단]</strong> 지수 대비 초과·미달을 판단할 때 이 경계를 모르면 성과 해석이 왜곡됩니다. 지수 교체 이력을 먼저 확인해야 한다는 원칙은 <a href="https://mystock-note.tistory.com/461">티커가 같은데 기초지수가 바뀐 ANGL의 접합 성과 문제를 다룬 글</a>에서도 같은 형태로 나타났습니다.</p>
+
+<h2>MUB(면세 지방채)와 무엇이 다른가요?</h2>
+
+<p data-ke-size="size16">같은 "미국 지방채 ETF"지만 한국 투자자 입장에서 갈리는 지점이 다릅니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>BAB(과세형)</th><th>MUB(면세형)</th></tr></thead>
+<tbody>
+<tr><td>미국 투자자 이자 과세</td><td>과세</td><td>연방소득세 면제</td></tr>
+<tr><td>보조 수령자</td><td>발행자(현금)</td><td>투자자(세제)</td></tr>
+<tr><td>한국 투자자가 받는 면세 혜택</td><td>해당 없음</td><td><strong>해당 없음</strong></td></tr>
+<tr><td>발행 지속성</td><td>과세형 지방채는 계속 발행</td><td>계속 발행</td></tr>
+<tr><td>지수 성격</td><td>과세형 전반(BAB 포함)</td><td>면세 전반</td></tr>
+</tbody>
+</table>
+<figcaption>구조 비교. 세부 기준은 각 상품 투자설명서에서 확인 필요.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 결정 축</strong>: <a href="https://mystock-note.tistory.com/443">미국 면세채권 ETF인 MUB의 '면세'가 한국 투자자에게 왜 불리한지를 정리한 글</a>에서 다룬 논점이 여기서 뒤집힙니다. 면세채권은 <strong>세제 혜택을 전제로 가격이 형성되는 구조</strong>인데 한국 투자자는 그 혜택을 받지 못합니다. <strong>[판단]</strong> 과세형 지방채는 애초에 면세를 전제하지 않고 가격이 형성되므로, 이 왜곡이 구조적으로 존재하지 않습니다. 두 상품 중 무엇이 낫다는 뜻이 아니라, <strong>한국 투자자에게 불리하게 작동하는 요인의 종류가 다르다</strong>는 뜻입니다.</p>
+
+<h2>이 상품의 주된 위험은 무엇인가요?</h2>
+
+<p data-ke-size="size16">투자설명서가 주요 위험으로 열거하는 항목 중 이 상품 고유의 것들입니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>위험</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td><strong>보조금 중단</strong></td><td>발행자가 요건을 계속 충족하지 못하면 연방 현금 보조를 받지 못해 <strong>이자 지급 능력이 훼손</strong>될 수 있음</td></tr>
+<tr><td><strong>캘리포니아 집중</strong></td><td>투자설명서가 <strong>주요 위험으로 별도 명시</strong>. 캘리포니아 재정·정치 요인에 노출</td></tr>
+<tr><td>산업 집중</td><td>지수가 특정 산업군에 집중되면 펀드도 같은 정도로 집중</td></tr>
+<tr><td>콜(조기상환)</td><td>금리 하락 시 고쿠폰 채권이 조기상환될 수 있음</td></tr>
+<tr><td>재투자</td><td>조기상환 자금을 더 낮은 금리로만 재투자하게 될 수 있음</td></tr>
+<tr><td>표본추출</td><td>지수 전 종목을 보유하지 않으므로 개별 발행자 악재의 영향이 커질 수 있음</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 요약투자설명서 주요 위험(Principal Risks). 확인일 2026-09-29.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 캘리포니아 집중이 별도 위험으로 적혀 있다는 점을 그냥 넘기면 안 됩니다. 시가총액 가중 지수에서 가장 많이 발행한 주가 가장 큰 자리를 갖는다는 산술적 결과이며, <strong>지수에 주(州)별 상한 장치가 없다는 뜻</strong>이기도 합니다. <strong>[확인 필요]</strong> 실제 주별 비중은 변동 지표이므로 본문에 기재하지 않았습니다. 매수 전 운용사 공시에서 직접 확인하십시오.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 보조금 중단 위험은 이 자산군에만 있는 종류입니다. 2013년 시퀘스터로 실제 보조율이 낮아졌고, 이후 법원은 <strong>시퀘스터가 연방정부의 지급 의무 자체를 축소했다</strong>고 판단해 35% 복원 청구를 받아들이지 않았습니다. 즉 <strong>정책이 만든 자산은 정책으로 바뀐다</strong>는 것이 이 채권군의 구조적 성격입니다.</p>
+
+<h2>국내에 대안이 있나요?</h2>
+
+<p data-ke-size="size16"><strong>[정보부족]</strong> 본 글 작성 시점에 <strong>미국 과세형 지방채를 담는 국내 상장 ETF를 확인하지 못했습니다.</strong></p>
+
+<figure>
+<table>
+<thead><tr><th>유형</th><th>국내 상장</th><th>BAB 대체 여부</th></tr></thead>
+<tbody>
+<tr><td>미국 종합채권</td><td>확인됨</td><td><strong>불가</strong> — 국채·회사채·증권화 중심</td></tr>
+<tr><td>미국 투자등급 회사채</td><td>확인됨</td><td>불가 — 발행 주체가 기업</td></tr>
+<tr><td><strong>미국 지방채(면세·과세형 불문)</strong></td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+</tbody>
+</table>
+<figcaption>확인 범위 내 결과이며 부재 단정이 아닙니다. 한국거래소 및 각 운용사 공식 자료에서 직접 확인 필요.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>중요 — 부재로 단정하지 않습니다.</strong> 확인하지 못했을 뿐입니다. 국내 대안 가용성을 판단하는 절차는 <a href="https://mystock-note.tistory.com/440">미국 ETF의 국내 상장 대안이 있는지부터 판단하는 기준을 정리한 글</a>에 정리돼 있습니다.</p>
+
+<h2>세금은 어떻게 되나요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>BAB (미국 상장)</th><th>비고</th></tr></thead>
+<tbody>
+<tr><td>매매차익</td><td><strong>양도소득세 22%</strong>(지방세 포함)</td><td>해외주식 취급</td></tr>
+<tr><td>연간 공제</td><td>250만 원 기본공제</td><td>연 단위 리셋</td></tr>
+<tr><td>과세 방식</td><td><strong>분리과세</strong></td><td>종합소득 합산 안 함</td></tr>
+<tr><td>분배금</td><td>배당소득 15.4% — <strong>종합과세 합산</strong></td><td>미국 원천징수 처리는 <strong>[확인 필요]</strong></td></tr>
+<tr><td>건강보험료</td><td>매매차익 제외 / <strong>분배금은 합산</strong></td><td>—</td></tr>
+<tr><td>연금·IRP·ISA</td><td><strong>불가</strong></td><td>국내 상장 상품만 편입 가능</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 국세청 해외주식 양도소득세 기준. 세율·한도는 세법 개정 시 변동. <strong>[진행 중]</strong> 금융투자소득세 재도입 논의가 이어지고 있어 향후 체계가 달라질 수 있습니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 반드시 짚을 지점</strong>: 미국 지방채의 '면세'는 <strong>미국 납세자에게 적용되는 미국 세법</strong>입니다. 한국 거주자에게는 면세형이든 과세형이든 분배금이 모두 배당소득입니다. 그런데 BAB는 <strong>미국 납세자에게도 과세되는 채권</strong>을 담으므로, "면세 프리미엄을 못 받고 낮은 표면금리만 떠안는" 구조적 불일치가 이 상품에는 없습니다. 상장지별 과세 경로의 일반 프레임은 <a href="https://mystock-note.tistory.com/400">미국 직접 매수와 국내 상장 상품의 과세 경로를 비교한 글</a>에 정리돼 있습니다.</p>
+
+<h2>BAB는 어떤 순서로 확인해야 하나요?</h2>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:20px; background:#fafafa; margin:24px 0;">
+  <p style="margin:0 0 16px 0; font-weight:bold; font-size:1.05em;">과세형 지방채 ETF 확인 우선순위</p>
+
+  <p style="margin:0 0 4px 0;"><strong>1. 지수 교체 이력</strong> — 2017-05-31 전후로 담는 대상이 다름</p>
+  <div style="background:#e8e8e8; border-radius:4px; height:12px; margin-bottom:12px;"><div style="background:#2c5f8d; width:100%; height:12px; border-radius:4px;">

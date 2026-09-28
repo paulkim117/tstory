@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-28",
+  "body_html_length": 13084,
+  "canonical_url": "https://mystock-note.tistory.com/626",
+  "content_hash": "1b0f7ed9717ba1332b09e6e0fabac5bec9a6a58d843e680e70995ab72f1dc19d",
+  "json_ld_count": 2,
+  "meta_description": "BAB(Invesco Taxable Municipal Bond ETF)는 면세가 아닌 미국 지방채를 담는 ETF입니다. 티커 BAB는 상장 당시 이름인 Build America Bond에서 왔지만, 현재 추종 지수는 그 프로그램 채권에 한정되지 않습니다. 이 글은 과세형 지방채가 왜 존재하는지, MUB(면세채권)와 구조가 어떻게 갈리는지, 2017년 지수 교체가 무엇을 바꿨는지를 확인 순서로 정리합니다.BAB는 어떤 지수를 추종하나요?ICE BofA US Taxable Municipal Securities Plus Index입니다. 미국 주(州)·준주와 그 산하 정치적 하부조직이 미국 국내시장에 공모 발행한 달러표시 과세형 지방채의 성과를 측정하도록 설계된 지수입니다.항목내용기초지수ICE BofA US ..",
+  "modified_time": "2026-09-29T00:19:04+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "BAB(Invesco Taxable Municipal Bond ETF)는 면세가 아닌 미국 지방채를 담는 ETF입니다. 티커 BAB는 상장 당시 이름인 Build America Bond에서 왔지만, 현재 추종 지수는 그 프로그램 채권에 한정되지 않습니다. 이 글은 과세형 지방채가 왜 존재하는지, MUB(면세채권)와 구조가 어떻게 갈리는지, 2017년 지수 교체가 무엇을 바꿨는지를 확인 순서로 정리합니다.BAB는 어떤 지수를 추종하나요?ICE BofA US Taxable Municipal Securities Plus Index입니다. 미국 주(州)·준주와 그 산하 정치적 하부조직이 미국 국내시장에 공모 발행한 달러표시 과세형 지방채의 성과를 측정하도록 설계된 지수입니다.항목내용기초지수ICE BofA US ..",
+  "og_title": "BAB ETF란? 과세형 지방채와 면세채권(MUB) 차이, 2017년 지수 교체로 바뀐 것",
+  "post_id": "626",
+  "published_time": "2026-09-29T00:19:00+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BAB ETF란? 과세형 지방채와 면세채권(MUB) 차이, 2017년 지수 교체로 바뀐 것",
+  "url": "https://mystock-note.tistory.com/626"
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-09-28",
+  "body_html_length": 11324,
+  "canonical_url": "https://mystock-note.tistory.com/628",
+  "content_hash": "8a2a8ca33a9921153690494091a87e27ea19cefd3805541ce31fa26b9efedf4b",
+  "json_ld_count": 1,
+  "meta_description": "XPND(First Trust Expanded Technology ETF)는 GICS 정보기술 섹터에 갇히지 않는 기술주를 담는 ETF입니다. 다만 이 상품에는 추종 지수가 없습니다. 투자설명서는 이 펀드가 액티브 운용이며 지수 성과를 추종하지 않는다고 명시합니다. 이 글은 '확장 기술'이 어떤 기준으로 정의되는지, 그 정의가 상장 이후 어떻게 바뀌었는지, XLK와 무엇이 다른지를 확인 순서로 정리합니다.XPND는 어떤 지수를 추종하나요?추종 지수가 없습니다. 이것이 첫 번째 확인 항목입니다.항목내용운용 방식액티브 — 투자설명서가 \"지수 성과를 추종하지 않는다\"고 명시투자 목적장기 자본 성장선정 도구정량 모델(quantitative model) + 운용사 재량보유 종목 수약 50종목비중 밴드매수 시점 0..",
+  "modified_time": "2026-09-29T02:22:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/628\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/628\",\"headline\":\"XPND ETF란? XLK와 차이, GICS를 벗어난 '확장 기술' 정의와 편입 기준 확인\",\"description\":\"XPND(First Trust Expanded Technology ETF)는 GICS 정보기술 섹터에 갇히지 않는 기술주를 담는 ETF입니다. 다만 이 상품에는 추종 지수가 없습니다. 투자설명서는 이 펀드가 액티브 운용이며 지수 성과를 추종하지 않는다고 명시합니다. 이 글은 '확장 기술'이 어떤 기준으로 정의되는지, 그 정의가 상장 이후 어떻게 바뀌었는지, XLK와 무엇이 다른지를 확인 순서로 정리합니다.XPND는 어떤 지수를 추종하나요?추종 지수가 없습니다. 이것이 첫 번째 확인 항목입니다.항목내용운용 방식액티브 — 투자설명서가 \"지수 성과를 추종하지 않는다\"고 명시투자 목적장기 자본 성장선정 도구정량 모델(quantitative model) + 운용사 재량보유 종목 수약 50종목비중 밴드매수 시점 0..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-09-29T02:21:33+09:00\",\"dateModified\":\"2026-09-29T02:22:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "XPND(First Trust Expanded Technology ETF)는 GICS 정보기술 섹터에 갇히지 않는 기술주를 담는 ETF입니다. 다만 이 상품에는 추종 지수가 없습니다. 투자설명서는 이 펀드가 액티브 운용이며 지수 성과를 추종하지 않는다고 명시합니다. 이 글은 '확장 기술'이 어떤 기준으로 정의되는지, 그 정의가 상장 이후 어떻게 바뀌었는지, XLK와 무엇이 다른지를 확인 순서로 정리합니다.XPND는 어떤 지수를 추종하나요?추종 지수가 없습니다. 이것이 첫 번째 확인 항목입니다.항목내용운용 방식액티브 — 투자설명서가 \"지수 성과를 추종하지 않는다\"고 명시투자 목적장기 자본 성장선정 도구정량 모델(quantitative model) + 운용사 재량보유 종목 수약 50종목비중 밴드매수 시점 0..",
+  "og_title": "XPND ETF란? XLK와 차이, GICS를 벗어난 '확장 기술' 정의와 편입 기준 확인",
+  "post_id": "628",
+  "published_time": "2026-09-29T02:21:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XPND ETF란? XLK와 차이, GICS를 벗어난 '확장 기술' 정의와 편입 기준 확인",
+  "url": "https://mystock-note.tistory.com/628"
+}

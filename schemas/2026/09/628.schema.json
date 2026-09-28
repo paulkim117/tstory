@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "추종 지수 없이 GICS 3개 섹터의 지정 산업에서 기술주를 선별하는 미국 상장 액티브 ETF",
+    "name": "First Trust Expanded Technology ETF (XPND)"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Stock Memo",
+    "url": "[R10 — 필명·About URL 미확정]"
+  },
+  "dateModified": "2026-09-29",
+  "datePublished": "2026-09-29",
+  "description": "XPND는 GICS 정보기술 섹터에 갇히지 않는 기술주 ETF입니다. 추종 지수가 없는 액티브 구조, 확장 대상 섹터가 바뀐 이력, XLK와의 차이를 확인 순서로 정리합니다.",
+  "headline": "XPND ETF란? XLK와 차이, GICS를 벗어난 '확장 기술' 정의와 편입 기준 확인",
+  "inLanguage": "ko-KR",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/628",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  },
+  "url": "https://mystock-note.tistory.com/628"
+}
