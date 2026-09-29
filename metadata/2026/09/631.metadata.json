@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-29",
+  "body_html_length": 11088,
+  "canonical_url": "https://mystock-note.tistory.com/631",
+  "content_hash": "17b695d3f06c021a122a85ee63aa495a80b8a81bf616f480650a4a8edb7fcfdf",
+  "json_ld_count": 2,
+  "meta_description": "XCLR(Global X S&P 500® Collar 95-110 ETF)은 S&P 500 종목을 그대로 보유하면서 풋 옵션을 사고 콜 옵션을 파는 ETF입니다. 커버드콜에 하방 보호를 덧붙인 구조로, 상승과 하락 모두에 범위를 두는 것이 목표입니다. 다만 상품 이름에 붙은 '95-110'은 분기마다 옵션을 새로 설정하는 그 시점에만 성립합니다. 이 글은 칼라가 무엇이고, 커버드콜과 무엇이 다르며, 매수 시점이 왜 결과를 가르는지를 확인 순서로 정리합니다.XCLR은 어떤 지수를 추종하나요?항목내용기초지수Cboe S&P 500 3-Month Collar 95-110 Index지수 제공자Cboe — 옵션 거래소 운영사기초 보유S&P 500 구성종목옵션 ①5% 외가격(OTM) 풋 매수옵션 ②10% 외가격(OT..",
+  "modified_time": "2026-09-30T01:27:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XCLR(Global X S&P 500® Collar 95-110 ETF)은 S&P 500 종목을 그대로 보유하면서 풋 옵션을 사고 콜 옵션을 파는 ETF입니다. 커버드콜에 하방 보호를 덧붙인 구조로, 상승과 하락 모두에 범위를 두는 것이 목표입니다. 다만 상품 이름에 붙은 '95-110'은 분기마다 옵션을 새로 설정하는 그 시점에만 성립합니다. 이 글은 칼라가 무엇이고, 커버드콜과 무엇이 다르며, 매수 시점이 왜 결과를 가르는지를 확인 순서로 정리합니다.XCLR은 어떤 지수를 추종하나요?항목내용기초지수Cboe S&P 500 3-Month Collar 95-110 Index지수 제공자Cboe — 옵션 거래소 운영사기초 보유S&P 500 구성종목옵션 ①5% 외가격(OTM) 풋 매수옵션 ②10% 외가격(OT..",
+  "og_title": "XCLR ETF란? XYLD와 차이, S&P500 칼라 구조와 '95-110'이 흔들리는 이유",
+  "post_id": "631",
+  "published_time": "2026-09-30T01:26:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XCLR ETF란? XYLD와 차이, S&P500 칼라 구조와 '95-110'이 흔들리는 이유",
+  "url": "https://mystock-note.tistory.com/631"
+}

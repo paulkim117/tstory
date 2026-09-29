@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-29",
+  "body_html_length": 10644,
+  "canonical_url": "https://mystock-note.tistory.com/632",
+  "content_hash": "95b58809f8774e06d9376f88176bd94dffb566b572bf334c9b2462efd0b5b06d",
+  "json_ld_count": 2,
+  "meta_description": "VRP(Invesco Variable Rate Preferred ETF)는 쿠폰이 주기적으로 다시 정해지는 우선주를 담는 ETF입니다. 고정 배당을 주는 일반 우선주와 달리 시장금리가 오르면 지급액도 따라 올라갑니다. 금리 위험을 상당 부분 넘긴 셈인데, 그 대가로 다른 위험이 전면에 나옵니다. 이 글은 그 교환이 무엇인지, 그리고 이 상품의 조건이 지난 몇 년간 어떻게 바뀌어 왔는지를 확인 순서로 정리합니다.VRP는 어떤 지수를 추종하나요?항목내용기초지수ICE Variable Rate Preferred & Hybrid Securities Index지수 제공자ICE Data Indices, LLC담는 것달러표시 변동·부동금리 우선주 및 우선주와 기능적으로 동등한 하이브리드 증권신용등급투자등급 + 투자등급..",
+  "modified_time": "2026-09-30T02:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VRP(Invesco Variable Rate Preferred ETF)는 쿠폰이 주기적으로 다시 정해지는 우선주를 담는 ETF입니다. 고정 배당을 주는 일반 우선주와 달리 시장금리가 오르면 지급액도 따라 올라갑니다. 금리 위험을 상당 부분 넘긴 셈인데, 그 대가로 다른 위험이 전면에 나옵니다. 이 글은 그 교환이 무엇인지, 그리고 이 상품의 조건이 지난 몇 년간 어떻게 바뀌어 왔는지를 확인 순서로 정리합니다.VRP는 어떤 지수를 추종하나요?항목내용기초지수ICE Variable Rate Preferred & Hybrid Securities Index지수 제공자ICE Data Indices, LLC담는 것달러표시 변동·부동금리 우선주 및 우선주와 기능적으로 동등한 하이브리드 증권신용등급투자등급 + 투자등급..",
+  "og_title": "VRP ETF란? PFF와 차이, 변동금리 우선주의 쿠폰 재설정과 발행자 조기상환 위험",
+  "post_id": "632",
+  "published_time": "2026-09-30T02:27:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VRP ETF란? PFF와 차이, 변동금리 우선주의 쿠폰 재설정과 발행자 조기상환 위험",
+  "url": "https://mystock-note.tistory.com/632"
+}

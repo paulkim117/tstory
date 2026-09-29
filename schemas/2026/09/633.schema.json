@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-09-30T03:28:00+09:00",
+    "datePublished": "2026-09-30T03:27:26+09:00",
+    "description": "CUT(Invesco MSCI Global Timber ETF)은 숲과 임야를 소유·관리하는 기업, 그리고 목재를 원재료로 완제품을 만드는 기업을 담는 ETF입니다. 목재라는 실물 자산에 주식으로 접근하는 구조인데, 편입 기업의 성격이 층마다 크게 다릅니다. 또 하나, 이 상품의 기초지수는 세금을 차감한 뒤 계산되는 순수익 지수입니다. 이 글은 세 개 층이 무엇이고, 세후 벤치마크가 성과 해석에 무엇을 뜻하는지를 확인 순서로 정리합니다.CUT은 어떤 지수를 추종하나요?항목내용기초지수MSCI ACWI IMI Timber Select Capped Index지수 제공자MSCI Inc.대상선진국·신흥국의 산림·임야 소유·관리 기업 및 목재를 원재료로 쓰는 완제품 생산 기업가중시가총액 가중 + 상한 적용(지수명에..",
+    "headline": "CUT ETF란? 글로벌 목재 ETF가 담는 3개 층과 '순수익 지수'가 만드는 성과 착시",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/633",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/633"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "MSCI ACWI IMI Timber Select Capped Index를 추종하는 미국 상장 글로벌 목재·임업 테마 ETF",
+      "name": "Invesco MSCI Global Timber ETF (CUT)"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "[R10 — 필명·About URL 미확정]"
+    },
+    "dateModified": "2026-09-30",
+    "datePublished": "2026-09-30",
+    "description": "CUT은 임야를 소유한 리츠부터 제지·목재 가공까지 담는 글로벌 목재 ETF입니다. 세 층의 연결 강도가 어떻게 다른지, 기초지수가 세금을 뺀 뒤 산출된다는 것이 성과 비교에 무엇을 뜻하는지 정리합니다.",
+    "headline": "CUT ETF란? 글로벌 목재 ETF가 담는 3개 층과 '순수익 지수'가 만드는 성과 착시",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/633",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/633"
+  }
+]

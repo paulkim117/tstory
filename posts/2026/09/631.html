@@ -1,0 +1,207 @@
+<!--
+source: https://mystock-note.tistory.com/631
+backup_date: 2026-09-29
+post_id: 631
+-->
+<p data-ke-size="size16">XCLR(Global X S&amp;P 500® Collar 95-110 ETF)은 S&amp;P 500 종목을 그대로 보유하면서 <strong>풋 옵션을 사고 콜 옵션을 파는</strong> ETF입니다. 커버드콜에 하방 보호를 덧붙인 구조로, 상승과 하락 모두에 범위를 두는 것이 목표입니다. 다만 상품 이름에 붙은 <strong>'95-110'은 분기마다 옵션을 새로 설정하는 그 시점에만 성립합니다.</strong> 이 글은 칼라가 무엇이고, 커버드콜과 무엇이 다르며, 매수 시점이 왜 결과를 가르는지를 확인 순서로 정리합니다.</p>
+
+<h2>XCLR은 어떤 지수를 추종하나요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>항목</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>기초지수</td><td><strong>Cboe S&amp;P 500 3-Month Collar 95-110 Index</strong></td></tr>
+<tr><td>지수 제공자</td><td><strong>Cboe</strong> — 옵션 거래소 운영사</td></tr>
+<tr><td>기초 보유</td><td>S&amp;P 500 구성종목</td></tr>
+<tr><td>옵션 ①</td><td><strong>5% 외가격(OTM) 풋 매수</strong></td></tr>
+<tr><td>옵션 ②</td><td><strong>10% 외가격(OTM) 콜 매도</strong></td></tr>
+<tr><td>옵션 주기</td><td><strong>분기</strong> — 3개월물</td></tr>
+<tr><td>행사 방식</td><td>만기일에만 행사 가능, <strong>현금결제</strong>, 만기까지 보유</td></tr>
+<tr><td>상장일 / 상장지</td><td>2021-08-25 / NYSE Arca</td></tr>
+<tr><td>분배 주기</td><td><strong>반기</strong></td></tr>
+<tr><td>투자 정책</td><td>지수 구성증권에 <strong>총자산의 80% 이상</strong></td></tr>
+</tbody>
+</table>
+<figcaption>출처: SEC 제출 Global X Funds 투자설명서, Global X 공식 상품 자료. 확인일 2026-09-30.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 직접 확인 관점 ①</strong>: 분배가 <strong>반기</strong>입니다. 월배당 커버드콜 상품과 성격이 다릅니다. 콜을 10% 외가격에서 팔기 때문에 받는 프리미엄이 작고, 그 프리미엄으로 인컴을 만드는 것이 목적이 아니라 <strong>풋을 사는 비용에 충당하는 것</strong>이 목적입니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 지수 제공자가 <strong>옵션 거래소를 운영하는 회사</strong>라는 점도 기록해 둘 만합니다. 이 지수가 쓰는 S&amp;P 500 지수옵션의 주된 거래 장소와 지수 산출 주체가 같은 계열입니다. 이해상충을 뜻하지는 않지만, "외부 독립 지수사"라는 표현이 상품 생태계와 무관한 제3자를 의미하지는 않는다는 사례입니다.</p>
+
+<h2>칼라는 어떤 구조인가요?</h2>
+
+<p data-ke-size="size16">다리가 <strong>셋</strong>입니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>다리</th><th>포지션</th><th>역할</th><th>대가</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>S&amp;P 500 주식 <strong>보유</strong></td><td>기본 수익원</td><td>—</td></tr>
+<tr><td>2</td><td>5% OTM 풋 <strong>매수</strong></td><td><strong>하방 보호</strong></td><td>프리미엄 <strong>지불</strong></td></tr>
+<tr><td>3</td><td>10% OTM 콜 <strong>매도</strong></td><td>비용 충당</td><td><strong>상방 포기</strong></td></tr>
+</tbody>
+</table>
+<figcaption>구조 요약. 출처: 투자설명서 지수 설명 및 주요 위험. 확인일 2026-09-30.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 보험에 비유하면 <strong>보험료를 내면서 동시에 다른 보험을 팔아 그 돈으로 보험료를 내는</strong> 구조입니다. 나가는 돈과 들어오는 돈이 상쇄되므로 순비용이 줄지만, <strong>대가로 상방이 잘립니다.</strong></p>
+
+<p data-ke-size="size16"><strong>[사실]</strong> 투자설명서는 이 교환을 명확히 기재합니다. 콜을 팔아 프리미엄을 받는 대가로 <strong>행사가를 넘는 상승분의 이익 기회를 포기</strong>하고, 풋을 사서 하락을 방어할 수 있지만 <strong>지수가 상승하는 국면에서는 지불한 프리미엄 비용 때문에 부진</strong>하게 됩니다.</p>
+
+<p data-ke-size="size16"><strong>[확인 필요]</strong> 풋 매수 비용과 콜 매도 수취액 중 어느 쪽이 큰지는 투자설명서에 명시돼 있지 않습니다. 일반적으로 같은 만기에서 5% 외가격 풋이 10% 외가격 콜보다 비싼 경향이 있으나, 실제 순액은 시점마다 다릅니다.</p>
+
+
+
+<h2>커버드콜과 무엇이 다른가요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>XCLR(칼라)</th><th>XYLD 유형(커버드콜)</th></tr></thead>
+<tbody>
+<tr><td>콜 매도</td><td>있음 (10% OTM)</td><td>있음 (통상 등가격 부근)</td></tr>
+<tr><td><strong>풋 매수</strong></td><td><strong>있음</strong></td><td><strong>없음</strong></td></tr>
+<tr><td>하방</td><td><strong>일정 수준 아래 보호</strong></td><td>보호 없음 — 하락 그대로 노출</td></tr>
+<tr><td>수취 프리미엄</td><td>작음 (외가격 매도)</td><td>큼 (등가격 부근 매도)</td></tr>
+<tr><td>설계 목적</td><td><strong>범위 한정</strong></td><td><strong>분배 재원 확보</strong></td></tr>
+<tr><td>분배 주기</td><td>반기</td><td>통상 월간</td></tr>
+</tbody>
+</table>
+<figcaption>구조 비교. 분배율·성과 등 변동 지표는 제외했습니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 결정 축</strong>: 커버드콜은 <strong>상방을 팔아 현금을 만드는</strong> 구조이고, 칼라는 <strong>상방을 팔아 하방 보험을 사는</strong> 구조입니다. 커버드콜의 가장 큰 약점은 <strong>하락장에서 아무 보호가 없다는 점</strong>인데, 칼라는 바로 그 지점을 메우는 대신 손에 쥐는 현금을 포기합니다. 커버드콜의 분배 구조가 왜 착시를 만드는지는 <a href="https://mystock-note.tistory.com/180">커버드콜 ETF 분배금과 NAV 감소 구조를 다룬 글</a>에, S&amp;P500 커버드콜의 구체적 작동은 <a href="https://mystock-note.tistory.com/406">XYLD 분석</a>에 정리돼 있습니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 따라서 "월배당을 원한다"면 이 상품은 답이 아닙니다. 반대로 "S&amp;P 500을 담되 급락 구간을 완화하고 싶다"면 검토 대상이 됩니다. 두 상품을 <strong>같은 커버드콜 범주로 묶어 비교하면 판단을 그르칩니다.</strong></p>
+
+<h2>'95-110'은 언제 성립하나요?</h2>
+
+<p data-ke-size="size16"><strong>분기마다 옵션을 새로 설정하는 그 시점에만 성립합니다.</strong> 이 글에서 가장 중요한 부분입니다.</p>
+
+<p data-ke-size="size16">행사가는 <strong>절대 가격이 아니라 설정 당시 지수 수준의 비율</strong>로 정해집니다. 한 번 정해지면 다음 롤까지 고정입니다. 그 사이 지수가 움직이면 <strong>남은 보호 폭과 남은 상승 여지가 함께 이동합니다.</strong></p>
+
+<figure>
+<figcaption>표. 롤 시점 이후 지수 변동에 따른 실제 여유 <strong>(가상 예시)</strong></figcaption>
+<table>
+<thead><tr><th>상황</th><th>지수</th><th>상단까지 여유</th><th>하단까지 여유</th></tr></thead>
+<tbody>
+<tr><td><strong>롤 시점</strong> (풋 95 / 콜 110 설정)</td><td>100</td><td><strong>+10.0%</strong></td><td><strong>-5.0%</strong></td></tr>
+<tr><td>이후 3% 상승 시점에 매수</td><td>103</td><td><strong>+6.8%</strong></td><td><strong>-7.8%</strong></td></tr>
+<tr><td>이후 3% 하락 시점에 매수</td><td>97</td><td>+13.4%</td><td><strong>-2.1%</strong></td></tr>
+</tbody>
+</table>
+<figcaption><strong>(가상 예시)</strong> 설명을 위한 가정값이며 실제 지수 수준·행사가와 다릅니다. 옵션 시간가치는 반영하지 않은 단순 산술입니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 이 글의 핵심</strong>: 같은 상품을 사도 <strong>언제 사느냐에 따라 완전히 다른 구조를 사게 됩니다.</strong> 분기 중 지수가 오른 뒤에 들어가면 <strong>상방은 좁아졌는데 보호선은 멀어진</strong> 최악의 조합을 떠안습니다. 반대로 하락한 뒤에 들어가면 보호선이 가까워집니다.</p>
+
+<p data-ke-size="size16"><strong>[사실]</strong> 투자설명서는 이 문제를 위험 항목으로 직접 기재합니다. <strong>옵션 포지션이 설정된 시점 외에 주식을 매수한 투자자는 시장 상황에 따라 서로 다른 수준의 하방 보호와 상방 참여를 경험할 수 있다</strong>는 문장입니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 따라서 이 상품에서 <strong>"현재 상단·하단이 어디인지"는 매수 전 필수 확인 항목</strong>입니다. 운용사가 보유 옵션의 행사가와 잔여 여유를 공시하므로, 상품 페이지에서 직접 확인해야 합니다. 티커와 이름만 보고 "-5%에서 막아주고 +10%까지 먹는 상품"이라고 이해하면 틀립니다.</p>
+
+
+
+
+
+<h2>정확한 행사가가 없으면 어떻게 하나요?</h2>
+
+<p data-ke-size="size16">시장에 딱 맞는 행사가가 없을 때의 대체 규칙이 지수 방법론에 명시돼 있습니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>다리</th><th>기본</th><th>대체 규칙</th><th>결과</th></tr></thead>
+<tbody>
+<tr><td>풋 매수</td><td>지수 대비 5% 아래</td><td><strong>"5% 아래보다 높되 가장 가까운"</strong> 행사가</td><td>보호선이 <strong>더 가까워짐</strong></td></tr>
+<tr><td>콜 매도</td><td>지수 대비 10% 위</td><td><strong>"10% 위보다 높되 가장 가까운"</strong> 행사가</td><td>상한이 <strong>더 멀어짐</strong></td></tr>
+</tbody>
+</table>
+<figcaption>출처: 투자설명서 지수 설명. 확인일 2026-09-30.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 직접 확인 관점 ②</strong>: 두 대체 규칙 모두 <strong>행사가를 위쪽으로 올리는 방향</strong>입니다. 결과적으로 보호는 강해지고 상방 여지도 넓어집니다. 손익 구조만 보면 보유자에게 유리한 방향입니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 다만 공짜는 아닙니다. 보호선이 가까워진 풋은 <strong>더 비싸고</strong>, 멀어진 콜은 <strong>프리미엄을 덜 줍니다.</strong> 즉 대체 규칙이 작동하면 <strong>순비용이 커집니다.</strong> 규칙이 한쪽 방향으로만 정해져 있다는 점은, 이 지수가 <strong>비용보다 손익 구조의 일관성을 우선</strong>했다는 설계 판단으로 읽힙니다.</p>
+
+<h2>이 상품의 주된 위험은 무엇인가요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>위험</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td><strong>상승장 부진</strong></td><td>지수 상승 국면에서는 <strong>풋 프리미엄 비용 때문에 부진</strong>. 콜 행사가 초과분은 아예 포기</td></tr>
+<tr><td><strong>매수 시점 의존</strong></td><td>옵션 설정 시점 외에 매수하면 <strong>보호와 상방 참여 수준이 달라짐</strong></td></tr>
+<tr><td><strong>기초자산 매도 제약</strong></td><td>옵션이 유효한 동안에는 <strong>기초 증권을 매도할 능력이 제한</strong>됨(상쇄 거래로 정리하지 않는 한)</td></tr>
+<tr><td><strong>옵션 거래 중단</strong></td><td>변동성 장세에서 거래소가 <strong>옵션 거래를 중단</strong>하면 원하는 시점에 매매 불가 → <strong>추적오차 확대</strong></td></tr>
+<tr><td>하방 보호의 한계</td><td>풋 행사가 <strong>아래로는 다시 노출</strong>. 무한 방어가 아님</td></tr>
+<tr><td>규모</td><td>순자산 규모가 작은 상품은 <strong>청산될 수 있음</strong> — 매수 전 공시 확인 필요</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 투자설명서 Collar Option Risk 항목 및 구조 기반 정리. 순자산·성과는 변동 지표이므로 기재하지 않았습니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 세 번째와 네 번째가 잘 알려지지 않은 위험입니다. 옵션 포지션이 걸려 있는 동안 펀드는 기초 주식을 자유롭게 팔 수 없습니다. 그리고 <strong>가장 옵션이 필요한 급변동 장세가 바로 옵션 거래가 중단될 수 있는 국면</strong>입니다.</p>
+
+<p data-ke-size="size16"><strong>[판단]</strong> 하방 보호를 다른 방식으로 얻는 선택지도 있습니다. 저변동 종목을 골라 담는 접근은 옵션 비용이 없는 대신 방어 폭이 정해져 있지 않습니다. 그 구조와 한계는 <a href="https://mystock-note.tistory.com/370">최소변동성 최적화와 저변동 팩터의 함정을 다룬 USMV 글</a>에 정리돼 있습니다.</p>
+
+<h2>기초 지수인 S&amp;P 500만 담는 것과 비교하면요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>국면</th><th>S&amp;P 500 단순 보유</th><th>XCLR</th></tr></thead>
+<tbody>
+<tr><td>큰 폭 상승</td><td>전부 반영</td><td><strong>콜 행사가에서 잘림</strong></td></tr>
+<tr><td>완만한 상승</td><td>전부 반영</td><td>풋 비용만큼 <strong>덜 반영</strong></td></tr>
+<tr><td>횡보</td><td>배당만</td><td>풋 비용 부담 — <strong>불리할 수 있음</strong></td></tr>
+<tr><td>큰 폭 하락</td><td>전부 반영</td><td><strong>풋 행사가까지만 손실</strong></td></tr>
+</tbody>
+</table>
+<figcaption>구조상 예상되는 방향이며 실제 결과는 옵션 가격·시간가치에 따라 달라집니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석 — 결정 축</strong>: 이 상품이 유리한 국면은 <strong>큰 폭 하락 하나</strong>입니다. 나머지 세 국면에서는 단순 보유가 낫거나 비슷합니다. 즉 <strong>"급락 보험료를 매 분기 내겠다"는 선택</strong>입니다. 코어 자산으로 S&amp;P 500을 어떻게 담을지의 기본 논의는 <a href="https://mystock-note.tistory.com/338">VOO와 SPY의 차이 및 국내 상장 대안을 다룬 글</a>에 있습니다.</p>
+
+<h2>국내에 대안이 있나요?</h2>
+
+<p data-ke-size="size16"><strong>[정보부족]</strong> S&amp;P 500 기초의 <strong>칼라(풋 매수 + 콜 매도) 구조</strong>를 쓰는 국내 상장 ETF는 확인하지 못했습니다.</p>
+
+<figure>
+<table>
+<thead><tr><th>유형</th><th>국내 상장</th><th>XCLR 대체 여부</th></tr></thead>
+<tbody>
+<tr><td>S&amp;P500 커버드콜</td><td>확인됨</td><td><strong>불가</strong> — 풋 매수 없음, 하방 무방비</td></tr>
+<tr><td>S&amp;P500 일반형</td><td>확인됨</td><td>불가 — 옵션 없음</td></tr>
+<tr><td><strong>칼라(3다리) 구조</strong></td><td><strong>[정보부족]</strong></td><td>—</td></tr>
+</tbody>
+</table>
+<figcaption>확인 범위 내 결과이며 부재 단정이 아닙니다. 한국거래소 및 각 운용사 공식 자료에서 직접 확인 필요.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>중요 — 부재로 단정하지 않습니다.</strong> 국내 대안 가용성 판단 절차는 <a href="https://mystock-note.tistory.com/440">미국 ETF의 국내 상장 대안이 있는지부터 판단하는 기준을 정리한 글</a>에 있습니다.</p>
+
+<h2>세금은 어떻게 되나요?</h2>
+
+<figure>
+<table>
+<thead><tr><th>구분</th><th>XCLR (미국 상장)</th><th>비고</th></tr></thead>
+<tbody>
+<tr><td>매매차익</td><td><strong>양도소득세 22%</strong>(지방세 포함)</td><td>해외주식 취급</td></tr>
+<tr><td>연간 공제</td><td>250만 원 기본공제</td><td>연 단위 리셋</td></tr>
+<tr><td>과세 방식</td><td><strong>분리과세</strong></td><td>종합소득 합산 안 함</td></tr>
+<tr><td>분배금</td><td>배당소득 15.4% — 종합과세 합산</td><td><strong>반기 분배</strong>, 규모는 제한적일 수 있음</td></tr>
+<tr><td>건강보험료</td><td>매매차익 제외 / 분배금은 합산</td><td>—</td></tr>
+<tr><td>연금·IRP·ISA</td><td><strong>불가</strong></td><td>국내 상장 상품만 편입 가능</td></tr>
+</tbody>
+</table>
+<figcaption>출처: 국세청 해외주식 양도소득세 기준. 세율·한도는 세법 개정 시 변동. <strong>[진행 중]</strong> 금융투자소득세 재도입 논의가 이어지고 있어 향후 체계가 달라질 수 있습니다.</figcaption>
+</figure>
+
+<p data-ke-size="size16"><strong>해석</strong>: 펀드 내부의 옵션 손익은 투자자에게 직접 과세되지 않고 <strong>기준가와 분배금에 반영</strong>됩니다. 한국 투자자에게는 매도 시점의 양도차익이 과세 대상입니다. 상장지별 과세 경로의 일반 프레임은 <a href="https://mystock-note.tistory.com/400">미국 직접 매수와 국내 상장 상품의 과세 경로를 비교한 글</a>에 정리돼 있습니다.</p>
+
+<h2>XCLR은 어떤 순서로 확인해야 하나요?</h2>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:20px; background:#fafafa; margin:24px 0;">
+  <p style="margin:0 0 16px 0; font-weight:bold; font-size:1.05em;">옵션 오버레이 ETF 확인 우선순위</p>
+
+  <p style="margin:0 0 4px 0;"><strong>1. 현재 행사가와 잔여 여유</strong> — 이름이 아니라 지금 포지션을 본다</p>
+  <div style="background:#e8e8e8; border-radius:4px; height:12px; margin-bottom:12px;"><div style="background:#2c5f8d; width:100%; height:12px; border-radius:4px;">

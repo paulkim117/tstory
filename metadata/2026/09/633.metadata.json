@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-29",
+  "body_html_length": 9476,
+  "canonical_url": "https://mystock-note.tistory.com/633",
+  "content_hash": "e5e93b9c2ad7d928511777b1c7bfb126bda09f8428175511049980917af9dac6",
+  "json_ld_count": 2,
+  "meta_description": "CUT(Invesco MSCI Global Timber ETF)은 숲과 임야를 소유·관리하는 기업, 그리고 목재를 원재료로 완제품을 만드는 기업을 담는 ETF입니다. 목재라는 실물 자산에 주식으로 접근하는 구조인데, 편입 기업의 성격이 층마다 크게 다릅니다. 또 하나, 이 상품의 기초지수는 세금을 차감한 뒤 계산되는 순수익 지수입니다. 이 글은 세 개 층이 무엇이고, 세후 벤치마크가 성과 해석에 무엇을 뜻하는지를 확인 순서로 정리합니다.CUT은 어떤 지수를 추종하나요?항목내용기초지수MSCI ACWI IMI Timber Select Capped Index지수 제공자MSCI Inc.대상선진국·신흥국의 산림·임야 소유·관리 기업 및 목재를 원재료로 쓰는 완제품 생산 기업가중시가총액 가중 + 상한 적용(지수명에..",
+  "modified_time": "2026-09-30T03:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "CUT(Invesco MSCI Global Timber ETF)은 숲과 임야를 소유·관리하는 기업, 그리고 목재를 원재료로 완제품을 만드는 기업을 담는 ETF입니다. 목재라는 실물 자산에 주식으로 접근하는 구조인데, 편입 기업의 성격이 층마다 크게 다릅니다. 또 하나, 이 상품의 기초지수는 세금을 차감한 뒤 계산되는 순수익 지수입니다. 이 글은 세 개 층이 무엇이고, 세후 벤치마크가 성과 해석에 무엇을 뜻하는지를 확인 순서로 정리합니다.CUT은 어떤 지수를 추종하나요?항목내용기초지수MSCI ACWI IMI Timber Select Capped Index지수 제공자MSCI Inc.대상선진국·신흥국의 산림·임야 소유·관리 기업 및 목재를 원재료로 쓰는 완제품 생산 기업가중시가총액 가중 + 상한 적용(지수명에..",
+  "og_title": "CUT ETF란? 글로벌 목재 ETF가 담는 3개 층과 '순수익 지수'가 만드는 성과 착시",
+  "post_id": "633",
+  "published_time": "2026-09-30T03:27:26+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CUT ETF란? 글로벌 목재 ETF가 담는 3개 층과 '순수익 지수'가 만드는 성과 착시",
+  "url": "https://mystock-note.tistory.com/633"
+}
