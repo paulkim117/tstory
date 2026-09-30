@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-30",
+  "body_html_length": 10520,
+  "canonical_url": "https://mystock-note.tistory.com/637",
+  "content_hash": "39007f878e781cc908fdfe08168aafee0497f6dcd8a9b14a886fa7f55c94e129",
+  "json_ld_count": 2,
+  "meta_description": "QQQJ(Invesco NASDAQ Next Gen 100 ETF)는 나스닥100에 들어가지 못한 바로 다음 100개 종목을 담는 ETF입니다. 나스닥에 상장된 비금융 기업 중 시가총액 101위부터 200위까지입니다. 이 구조에는 다른 상품에 없는 성질이 하나 있습니다. 편입 종목이 잘 되면 나스닥100으로 옮겨가면서 이 상품에서 빠진다는 점입니다. 이 글은 그 구조와 확인 순서를 정리합니다.QQQJ는 어떤 지수를 추종하나요?항목내용기초지수Nasdaq Next Generation 100 Index모집단나스닥 상장 비금융 기업 중 시가총액 101~200위적격 기준나스닥100과 동일한 편입 요건을 충족해야 함산업 분류ICB(산업분류벤치마크) — GICS 아님가중동일가중과 시가총액 가중의 혼합, 발행사당 4%..",
+  "modified_time": "2026-10-01T03:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QQQJ(Invesco NASDAQ Next Gen 100 ETF)는 나스닥100에 들어가지 못한 바로 다음 100개 종목을 담는 ETF입니다. 나스닥에 상장된 비금융 기업 중 시가총액 101위부터 200위까지입니다. 이 구조에는 다른 상품에 없는 성질이 하나 있습니다. 편입 종목이 잘 되면 나스닥100으로 옮겨가면서 이 상품에서 빠진다는 점입니다. 이 글은 그 구조와 확인 순서를 정리합니다.QQQJ는 어떤 지수를 추종하나요?항목내용기초지수Nasdaq Next Generation 100 Index모집단나스닥 상장 비금융 기업 중 시가총액 101~200위적격 기준나스닥100과 동일한 편입 요건을 충족해야 함산업 분류ICB(산업분류벤치마크) — GICS 아님가중동일가중과 시가총액 가중의 혼합, 발행사당 4%..",
+  "og_title": "QQQJ ETF란? QQQM과 차이, 나스닥100 '다음 100'과 승격이 만드는 강제 매도",
+  "post_id": "637",
+  "published_time": "2026-10-01T03:40:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QQQJ ETF란? QQQM과 차이, 나스닥100 '다음 100'과 승격이 만드는 강제 매도",
+  "url": "https://mystock-note.tistory.com/637"
+}

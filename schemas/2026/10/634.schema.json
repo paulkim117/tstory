@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-01T00:28:00+09:00",
+    "datePublished": "2026-10-01T00:27:54+09:00",
+    "description": "IGOV(iShares International Treasury Bond ETF)는 미국을 제외한 선진국 정부가 발행한 국채를 담는 ETF입니다. 결정적인 특징은 환헤지를 하지 않는다는 점입니다. 담는 채권이 유로·엔·파운드 같은 현지통화로 표시돼 있고, 그 통화 변동이 그대로 반영됩니다. 그 결과 이 상품의 수익은 채권 자체보다 통화가 더 크게 좌우할 수 있습니다. 이 글은 그 구조와 확인 순서를 정리합니다.IGOV는 어떤 지수를 추종하나요?항목내용기초지수FTSE World Government Bond Index – Developed Markets Capped Select Index지수 제공자FTSE (London Stock Exchange Group 계열)담는 것미국 제외 선진국의 고정금리 · 현지통..",
+    "headline": "IGOV ETF란? BNDX와 차이, 환헤지 없는 국제 국채에서 수익을 정하는 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/634",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/634"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "FTSE World Government Bond Index – Developed Markets Capped Select Index를 추종하는 미국 상장 환노출 국제 국채 ETF",
+      "name": "iShares International Treasury Bond ETF (IGOV)"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "[R10 — 필명·About URL 미확정]"
+    },
+    "dateModified": "2026-10-01",
+    "datePublished": "2026-10-01",
+    "description": "IGOV는 미국을 제외한 선진국 국채를 현지통화 그대로 담는 ETF입니다. 환헤지형(BNDX)과 무엇이 다른지, 원화 투자자에게 환이 몇 단으로 걸리는지, 국가 상한 구조와 지수 교체 이력을 정리합니다.",
+    "headline": "IGOV ETF란? BNDX와 차이, 환헤지 없는 국제 국채에서 수익을 정하는 것",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/634",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/634"
+  }
+]

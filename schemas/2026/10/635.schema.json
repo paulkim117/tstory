@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-01T01:29:00+09:00",
+    "datePublished": "2026-10-01T01:28:24+09:00",
+    "description": "CBON(VanEck China Bond ETF)은 중국 본토에서 발행된 위안화 표시 채권을 담는 ETF입니다. 홍콩이나 해외에서 발행된 달러 채권이 아니라 역내(onshore) 시장의 채권입니다. 그런데 이 시장은 외국인이 자유롭게 들어갈 수 있는 곳이 아니었습니다. 이 글은 그 접근 제도가 무엇이고, 왜 그것이 상품의 전제가 되는지, 그리고 무엇을 담는지를 확인 순서로 정리합니다.CBON은 어떤 지수를 추종하나요?항목내용기초지수FTSE Chinese Broad Bond 0–10 Diversified Select Index지수 산출FTSE Fixed Income LLC담는 것중국에서 발행된 고정금리 · 위안화 표시 채권발행 주체중국 크레딧 · 정부 · 준정부(정책은행 등)만기0~10년환헤지없음 — 위안..",
+    "headline": "CBON ETF란? EMB와 차이, 중국 본토 위안화 채권과 외국인 접근 경로 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/635",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/635"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "FTSE Chinese Broad Bond 0–10 Diversified Select Index를 추종하는 미국 상장 중국 역내 위안화 채권 ETF",
+      "name": "VanEck China Bond ETF (CBON)"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "[R10 — 필명·About URL 미확정]"
+    },
+    "dateModified": "2026-10-01",
+    "datePublished": "2026-10-01",
+    "description": "CBON은 중국 본토에서 발행된 위안화 표시 채권을 담는 ETF입니다. 신흥국 달러채(EMB)와 무엇이 다른지, 외국인이 이 시장에 들어가는 제도가 왜 상품의 전제인지, 정책은행채와 현지 신용등급을 정리합니다.",
+    "headline": "CBON ETF란? EMB와 차이, 중국 본토 위안화 채권과 외국인 접근 경로 확인",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/635",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/635"
+  }
+]

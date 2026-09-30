@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-30",
+  "body_html_length": 11015,
+  "canonical_url": "https://mystock-note.tistory.com/634",
+  "content_hash": "6c2e01594d24b180dd8c24d55d00de9e48f4a6c32951f4c613206df079ec4a1e",
+  "json_ld_count": 2,
+  "meta_description": "IGOV(iShares International Treasury Bond ETF)는 미국을 제외한 선진국 정부가 발행한 국채를 담는 ETF입니다. 결정적인 특징은 환헤지를 하지 않는다는 점입니다. 담는 채권이 유로·엔·파운드 같은 현지통화로 표시돼 있고, 그 통화 변동이 그대로 반영됩니다. 그 결과 이 상품의 수익은 채권 자체보다 통화가 더 크게 좌우할 수 있습니다. 이 글은 그 구조와 확인 순서를 정리합니다.IGOV는 어떤 지수를 추종하나요?항목내용기초지수FTSE World Government Bond Index – Developed Markets Capped Select Index지수 제공자FTSE (London Stock Exchange Group 계열)담는 것미국 제외 선진국의 고정금리 · 현지통..",
+  "modified_time": "2026-10-01T00:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IGOV(iShares International Treasury Bond ETF)는 미국을 제외한 선진국 정부가 발행한 국채를 담는 ETF입니다. 결정적인 특징은 환헤지를 하지 않는다는 점입니다. 담는 채권이 유로·엔·파운드 같은 현지통화로 표시돼 있고, 그 통화 변동이 그대로 반영됩니다. 그 결과 이 상품의 수익은 채권 자체보다 통화가 더 크게 좌우할 수 있습니다. 이 글은 그 구조와 확인 순서를 정리합니다.IGOV는 어떤 지수를 추종하나요?항목내용기초지수FTSE World Government Bond Index – Developed Markets Capped Select Index지수 제공자FTSE (London Stock Exchange Group 계열)담는 것미국 제외 선진국의 고정금리 · 현지통..",
+  "og_title": "IGOV ETF란? BNDX와 차이, 환헤지 없는 국제 국채에서 수익을 정하는 것",
+  "post_id": "634",
+  "published_time": "2026-10-01T00:27:54+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IGOV ETF란? BNDX와 차이, 환헤지 없는 국제 국채에서 수익을 정하는 것",
+  "url": "https://mystock-note.tistory.com/634"
+}

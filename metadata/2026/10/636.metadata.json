@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-30",
+  "body_html_length": 11098,
+  "canonical_url": "https://mystock-note.tistory.com/636",
+  "content_hash": "243e5417afcff251cebef9c017b013168fc69cd654c7244557cb0b070d4285b8",
+  "json_ld_count": 2,
+  "meta_description": "FDIQ(Invesco Bloomberg Financial Data Providers ETF)는 지수와 금융 데이터를 만들어 파는 회사들을 담는 ETF입니다. 은행이나 보험사가 아니라, 시장에 숫자를 공급하는 쪽입니다. 이 상품에는 두 가지 특이한 점이 있습니다. 하나는 2026년에 지역은행 ETF에서 통째로 바뀌었다는 것이고, 다른 하나는 이 지수를 만든 회사 자체가 그 산업의 주요 사업자라는 것입니다. 이 글은 그 구조를 확인 순서로 정리합니다.FDIQ는 어떤 지수를 추종하나요?항목내용기초지수Bloomberg Financial Data Providers Index지수 제공자Bloomberg Index Services Limited담는 것지수가 정의한 금융 데이터 제공업체복제 방식완전복제예탁증서ADR·..",
+  "modified_time": "2026-10-01T02:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FDIQ(Invesco Bloomberg Financial Data Providers ETF)는 지수와 금융 데이터를 만들어 파는 회사들을 담는 ETF입니다. 은행이나 보험사가 아니라, 시장에 숫자를 공급하는 쪽입니다. 이 상품에는 두 가지 특이한 점이 있습니다. 하나는 2026년에 지역은행 ETF에서 통째로 바뀌었다는 것이고, 다른 하나는 이 지수를 만든 회사 자체가 그 산업의 주요 사업자라는 것입니다. 이 글은 그 구조를 확인 순서로 정리합니다.FDIQ는 어떤 지수를 추종하나요?항목내용기초지수Bloomberg Financial Data Providers Index지수 제공자Bloomberg Index Services Limited담는 것지수가 정의한 금융 데이터 제공업체복제 방식완전복제예탁증서ADR·..",
+  "og_title": "FDIQ ETF란? 지수·데이터 회사에 투자하는 ETF — 구 KBWR에서 바뀐 것과 XLF 차이",
+  "post_id": "636",
+  "published_time": "2026-10-01T02:39:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FDIQ ETF란? 지수·데이터 회사에 투자하는 ETF — 구 KBWR에서 바뀐 것과 XLF 차이",
+  "url": "https://mystock-note.tistory.com/636"
+}

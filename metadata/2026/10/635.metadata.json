@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-09-30",
+  "body_html_length": 11479,
+  "canonical_url": "https://mystock-note.tistory.com/635",
+  "content_hash": "bd7b86d19947b3bb1b0b86f618e48d394624bca2d751701c31d6ffaa1cf8ebe3",
+  "json_ld_count": 2,
+  "meta_description": "CBON(VanEck China Bond ETF)은 중국 본토에서 발행된 위안화 표시 채권을 담는 ETF입니다. 홍콩이나 해외에서 발행된 달러 채권이 아니라 역내(onshore) 시장의 채권입니다. 그런데 이 시장은 외국인이 자유롭게 들어갈 수 있는 곳이 아니었습니다. 이 글은 그 접근 제도가 무엇이고, 왜 그것이 상품의 전제가 되는지, 그리고 무엇을 담는지를 확인 순서로 정리합니다.CBON은 어떤 지수를 추종하나요?항목내용기초지수FTSE Chinese Broad Bond 0–10 Diversified Select Index지수 산출FTSE Fixed Income LLC담는 것중국에서 발행된 고정금리 · 위안화 표시 채권발행 주체중국 크레딧 · 정부 · 준정부(정책은행 등)만기0~10년환헤지없음 — 위안..",
+  "modified_time": "2026-10-01T01:29:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "CBON(VanEck China Bond ETF)은 중국 본토에서 발행된 위안화 표시 채권을 담는 ETF입니다. 홍콩이나 해외에서 발행된 달러 채권이 아니라 역내(onshore) 시장의 채권입니다. 그런데 이 시장은 외국인이 자유롭게 들어갈 수 있는 곳이 아니었습니다. 이 글은 그 접근 제도가 무엇이고, 왜 그것이 상품의 전제가 되는지, 그리고 무엇을 담는지를 확인 순서로 정리합니다.CBON은 어떤 지수를 추종하나요?항목내용기초지수FTSE Chinese Broad Bond 0–10 Diversified Select Index지수 산출FTSE Fixed Income LLC담는 것중국에서 발행된 고정금리 · 위안화 표시 채권발행 주체중국 크레딧 · 정부 · 준정부(정책은행 등)만기0~10년환헤지없음 — 위안..",
+  "og_title": "CBON ETF란? EMB와 차이, 중국 본토 위안화 채권과 외국인 접근 경로 확인",
+  "post_id": "635",
+  "published_time": "2026-10-01T01:28:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CBON ETF란? EMB와 차이, 중국 본토 위안화 채권과 외국인 접근 경로 확인",
+  "url": "https://mystock-note.tistory.com/635"
+}

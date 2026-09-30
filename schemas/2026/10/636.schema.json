@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-01T02:40:00+09:00",
+    "datePublished": "2026-10-01T02:39:01+09:00",
+    "description": "FDIQ(Invesco Bloomberg Financial Data Providers ETF)는 지수와 금융 데이터를 만들어 파는 회사들을 담는 ETF입니다. 은행이나 보험사가 아니라, 시장에 숫자를 공급하는 쪽입니다. 이 상품에는 두 가지 특이한 점이 있습니다. 하나는 2026년에 지역은행 ETF에서 통째로 바뀌었다는 것이고, 다른 하나는 이 지수를 만든 회사 자체가 그 산업의 주요 사업자라는 것입니다. 이 글은 그 구조를 확인 순서로 정리합니다.FDIQ는 어떤 지수를 추종하나요?항목내용기초지수Bloomberg Financial Data Providers Index지수 제공자Bloomberg Index Services Limited담는 것지수가 정의한 금융 데이터 제공업체복제 방식완전복제예탁증서ADR·..",
+    "headline": "FDIQ ETF란? 지수·데이터 회사에 투자하는 ETF — 구 KBWR에서 바뀐 것과 XLF 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/636",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/636"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Bloomberg Financial Data Providers Index를 추종하는 미국 상장 금융 데이터·지수 산업 ETF, 구 Invesco KBW Regional Banking ETF",
+      "name": "Invesco Bloomberg Financial Data Providers ETF (FDIQ)"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "[R10 — 필명·About URL 미확정]"
+    },
+    "dateModified": "2026-10-01",
+    "datePublished": "2026-10-01",
+    "description": "FDIQ는 지수·금융 데이터를 만들어 파는 회사들을 담는 ETF입니다. 2026년 지역은행 ETF에서 전면 개편된 이력, 금융 섹터(XLF)와 무엇이 다른지, 지수를 만든 곳이 그 산업의 사업자라는 점을 정리합니다.",
+    "headline": "FDIQ ETF란? 지수·데이터 회사에 투자하는 ETF — 구 KBWR에서 바뀐 것과 XLF 차이",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/636",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    },
+    "url": "https://mystock-note.tistory.com/636"
+  }
+]
