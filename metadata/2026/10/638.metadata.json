@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-01",
+  "body_html_length": 17148,
+  "canonical_url": "https://mystock-note.tistory.com/638",
+  "content_hash": "c3f7926f59d523a52fbe59d508594a2bdea738475b55b4ed21deecf78498abe1",
+  "json_ld_count": 2,
+  "meta_description": "ILCG(iShares Morningstar Growth ETF)는 Morningstar US Large-Mid Cap Broad Growth Index를 추종하는 미국 상장 성장주 ETF입니다. 이름만 보면 VUG(Vanguard Morningstar Growth ETF)와 발행사만 다른 쌍둥이 같지만, 두 상품이 '성장주'를 고르는 규칙은 서로 다릅니다. 이 글은 모닝스타가 규모와 스타일을 어떻게 격자로 나누는지, 지수명의 'Broad'가 왜 한 종목을 두 지수에 나눠 담게 만드는지, 그리고 VUG·SCHG와 비교할 때 무엇을 확인해야 하는지를 정리합니다.ILCG는 어떤 ETF인가요?모닝스타가 만든 성장주 지수를 추종하는 패시브 ETF입니다. 운용은 블랙록(BlackRock Fund Advisors)..",
+  "modified_time": "2026-10-02T00:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ILCG(iShares Morningstar Growth ETF)는 Morningstar US Large-Mid Cap Broad Growth Index를 추종하는 미국 상장 성장주 ETF입니다. 이름만 보면 VUG(Vanguard Morningstar Growth ETF)와 발행사만 다른 쌍둥이 같지만, 두 상품이 '성장주'를 고르는 규칙은 서로 다릅니다. 이 글은 모닝스타가 규모와 스타일을 어떻게 격자로 나누는지, 지수명의 'Broad'가 왜 한 종목을 두 지수에 나눠 담게 만드는지, 그리고 VUG·SCHG와 비교할 때 무엇을 확인해야 하는지를 정리합니다.ILCG는 어떤 ETF인가요?모닝스타가 만든 성장주 지수를 추종하는 패시브 ETF입니다. 운용은 블랙록(BlackRock Fund Advisors)..",
+  "og_title": "ILCG ETF란? VUG·SCHG와 차이, 모닝스타 스타일 지수는 왜 한 종목을 두 번 담나",
+  "post_id": "638",
+  "published_time": "2026-10-02T00:40:44+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ILCG ETF란? VUG·SCHG와 차이, 모닝스타 스타일 지수는 왜 한 종목을 두 번 담나",
+  "url": "https://mystock-note.tistory.com/638"
+}

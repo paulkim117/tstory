@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-02T03:40:00+09:00",
+    "datePublished": "2026-10-02T03:39:43+09:00",
+    "description": "HAIL(State Street SPDR S&P Kensho Smart Mobility ETF)은 S&P Kensho Smart Transportation Index를 추종하는 미국 상장 이동수단 혁신 테마 ETF입니다. 이 상품의 특징은 담는 대상이 아니라 고르는 방법에 있습니다. 사람이 산업을 분류하는 것이 아니라, 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 특정 검색어와 구문이 나오는지를 보고 편입 여부를 정합니다. 나아가 그 단어가 문서에서 얼마나 자주, 얼마나 앞쪽에 나오는지를 계산해 비중까지 가릅니다. 이 글은 그 절차가 구체적으로 어떻게 작동하는지, 일반적인 테마 ETF의 선별 방식과 무엇이 다른지를 확인 기준으로 정리합니다.HAIL은 어떤 ETF인가요?이동수단 관련 혁신 기업을 담..",
+    "headline": "HAIL ETF란? 테마 ETF와 차이, 공시 문서를 기계가 읽어 만드는 지수 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/641",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/641"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/641/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/641/#etf-hail"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-02",
+        "datePublished": "2026-10-02",
+        "description": "HAIL은 S&P Kensho Smart Transportation Index를 추종하는 미국 상장 이동수단 혁신 테마 ETF다. 규제 제출서류 자동 스캔 방식의 선별 절차, Core 판정 기준, 동일가중 구조를 확인 기준으로 정리한다.",
+        "headline": "HAIL ETF란? 테마 ETF와 차이, 공시 문서를 기계가 읽어 만드는 지수 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/641"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/641/#etf-hail",
+        "@type": "Thing",
+        "description": "S&P Kensho Smart Transportation Index를 추종하는 NYSE Arca 상장 이동수단 혁신 테마 ETF. 2017년 12월 26일 설정. 기업의 규제 제출서류를 자동 스캔해 구성종목을 선정하고 Core·Non-Core 2계층 동일가중으로 비중을 정한다.",
+        "name": "State Street SPDR S&P Kensho Smart Mobility ETF (HAIL)"
+      }
+    ]
+  }
+]

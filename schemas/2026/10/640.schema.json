@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-02T02:42:00+09:00",
+    "datePublished": "2026-10-02T02:41:58+09:00",
+    "description": "EUFN(iShares MSCI Europe Financials ETF)은 MSCI Europe Financials Index를 추종하는 미국 상장 유럽 금융 섹터 ETF입니다. 이름은 간단하지만 그 안에는 성격이 다른 세 개의 '유럽'이 겹쳐 있습니다. 지수사가 정한 선진 유럽, 유럽연합, 그리고 유로존입니다. 은행 감독 관할과 통화가 이 경계를 따라 갈리기 때문에, 이 상품은 하나의 섹터를 담으면서도 규제 체계와 통화가 뒤섞인 바구니가 됩니다. 이 글은 편입 국가가 어떻게 정해지고 왜 시간에 따라 바뀌는지, '금융 섹터'의 범위가 언제 어떻게 달라졌는지, 그리고 미국 금융 섹터 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.EUFN은 어떤 ETF인가요?MSCI가 정의한 선진 유럽 국가의 금융..",
+    "headline": "EUFN ETF란? XLF와 차이, '유럽 금융' 한 상품에 섞인 세 개의 유럽 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/640",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/640"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/640/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/640/#etf-eufn"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-02",
+        "datePublished": "2026-10-02",
+        "description": "EUFN은 MSCI Europe Financials Index를 추종하는 미국 상장 유럽 금융 섹터 ETF다. 편입 국가가 정해지는 방식, 유로존·EU·역외가 섞인 규제 구조, 금융 섹터 범위 변경 이력을 확인 기준으로 정리한다.",
+        "headline": "EUFN ETF란? XLF와 차이, '유럽 금융' 한 상품에 섞인 세 개의 유럽 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/640"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/640/#etf-eufn",
+        "@type": "Thing",
+        "description": "MSCI Europe Financials Index를 추종하는 나스닥 상장 유럽 금융 섹터 ETF. 2010년 1월 20일 설정, 유동주식 조정 시가총액 가중, 대표표본 복제. 구 명칭은 iShares MSCI Europe Financials Sector Index Fund.",
+        "name": "iShares MSCI Europe Financials ETF (EUFN)"
+      }
+    ]
+  }
+]

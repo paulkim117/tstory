@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-02T00:41:00+09:00",
+    "datePublished": "2026-10-02T00:40:44+09:00",
+    "description": "ILCG(iShares Morningstar Growth ETF)는 Morningstar US Large-Mid Cap Broad Growth Index를 추종하는 미국 상장 성장주 ETF입니다. 이름만 보면 VUG(Vanguard Morningstar Growth ETF)와 발행사만 다른 쌍둥이 같지만, 두 상품이 '성장주'를 고르는 규칙은 서로 다릅니다. 이 글은 모닝스타가 규모와 스타일을 어떻게 격자로 나누는지, 지수명의 'Broad'가 왜 한 종목을 두 지수에 나눠 담게 만드는지, 그리고 VUG·SCHG와 비교할 때 무엇을 확인해야 하는지를 정리합니다.ILCG는 어떤 ETF인가요?모닝스타가 만든 성장주 지수를 추종하는 패시브 ETF입니다. 운용은 블랙록(BlackRock Fund Advisors)..",
+    "headline": "ILCG ETF란? VUG·SCHG와 차이, 모닝스타 스타일 지수는 왜 한 종목을 두 번 담나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/638",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/638"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/638/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/638/#etf-ilcg"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-02",
+        "datePublished": "2026-10-02",
+        "description": "ILCG는 Morningstar US Large-Mid Cap Broad Growth Index를 추종하는 미국 상장 성장주 ETF다. 규모·스타일 구분 방식, 'Broad'의 의미, 2021년 지수 전환 이력, VUG·SCHG와의 차이를 확인 기준으로 정리한다.",
+        "headline": "ILCG ETF란? VUG·SCHG와 차이, 모닝스타 스타일 지수는 왜 한 종목을 두 번 담나",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/638/#etf-vug"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/638/#etf-schg"
+          }
+        ],
+        "url": "https://mystock-note.tistory.com/638"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/638/#etf-ilcg",
+        "@type": "Thing",
+        "description": "Morningstar US Large-Mid Cap Broad Growth Index를 추종하는 NYSE Arca 상장 성장주 ETF. 2004년 6월 28일 설정, 대표표본 복제, 비분산형.",
+        "name": "iShares Morningstar Growth ETF (ILCG)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/638/#etf-vug",
+        "@type": "Thing",
+        "description": "구 CRSP 계열(현 Morningstar Market Indexes) 대형 성장 지수를 추종하는 미국 상장 성장주 ETF.",
+        "name": "Vanguard Morningstar Growth ETF (VUG)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/638/#etf-schg",
+        "@type": "Thing",
+        "description": "다우존스 계열 대형 성장 지수를 추종하는 미국 상장 성장주 ETF.",
+        "name": "Schwab U.S. Large-Cap Growth ETF (SCHG)"
+      }
+    ]
+  }
+]

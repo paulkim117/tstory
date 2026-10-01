@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-02T01:42:04+09:00",
+    "datePublished": "2026-10-02T01:41:31+09:00",
+    "description": "NZAC(State Street SPDR MSCI ACWI Climate Paris Aligned ETF)는 MSCI ACWI Climate Paris Aligned Index를 추종하는 미국 상장 전세계 주식 ETF입니다. 특이한 점은 미국에 상장된 상품인데 지수의 규격을 유럽연합 규정이 정한다는 것입니다. 설명서는 이 지수가 EU 저탄소 벤치마크 규정(EU BMR)의 '파리 정렬 벤치마크' 최소 기준을 초과하도록 설계됐다고 명시합니다. 이 글은 그 최소 기준이 구체적으로 무엇인지, 어떤 기업이 걸러지고 남은 기업은 어떻게 고르는지, 그리고 2022년에 바뀐 구 저탄소 지수와 무엇이 다른지를 확인 기준으로 정리합니다.NZAC은 어떤 ETF인가요?전세계 선진·신흥국 대형·중형주를 담되, 기후 기준을 통과..",
+    "headline": "NZAC ETF란? 저탄소 ETF와 차이, 유럽연합 규정이 정하는 감축 기준 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/639",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/639"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/639/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/639/#etf-nzac"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-02",
+        "datePublished": "2026-10-02",
+        "description": "NZAC은 MSCI ACWI Climate Paris Aligned Index를 추종하는 미국 상장 전세계 주식 ETF다. EU 규정이 정한 파리 정렬 벤치마크 기준, 배제 스크린 문턱, 2022년 지수 전환 이력을 확인 기준으로 정리한다.",
+        "headline": "NZAC ETF란? 저탄소 ETF와 차이, 유럽연합 규정이 정하는 감축 기준 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/639"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/639/#etf-nzac",
+        "@type": "Thing",
+        "description": "MSCI ACWI Climate Paris Aligned Index를 추종하는 나스닥 상장 전세계 주식 ETF. EU 저탄소 벤치마크 규정상 파리 정렬 벤치마크 최소 기준을 초과하도록 설계된 지수를 샘플링 방식으로 추종한다. 2022년 4월 22일 이전 티커는 LOWC.",
+        "name": "State Street SPDR MSCI ACWI Climate Paris Aligned ETF (NZAC)"
+      }
+    ]
+  }
+]

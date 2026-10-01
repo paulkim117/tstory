@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-01",
+  "body_html_length": 12911,
+  "canonical_url": "https://mystock-note.tistory.com/640",
+  "content_hash": "1b0a5c5a4a275221c15d6baddc91b641a8119efce854131458724f1b690ec737",
+  "json_ld_count": 2,
+  "meta_description": "EUFN(iShares MSCI Europe Financials ETF)은 MSCI Europe Financials Index를 추종하는 미국 상장 유럽 금융 섹터 ETF입니다. 이름은 간단하지만 그 안에는 성격이 다른 세 개의 '유럽'이 겹쳐 있습니다. 지수사가 정한 선진 유럽, 유럽연합, 그리고 유로존입니다. 은행 감독 관할과 통화가 이 경계를 따라 갈리기 때문에, 이 상품은 하나의 섹터를 담으면서도 규제 체계와 통화가 뒤섞인 바구니가 됩니다. 이 글은 편입 국가가 어떻게 정해지고 왜 시간에 따라 바뀌는지, '금융 섹터'의 범위가 언제 어떻게 달라졌는지, 그리고 미국 금융 섹터 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.EUFN은 어떤 ETF인가요?MSCI가 정의한 선진 유럽 국가의 금융..",
+  "modified_time": "2026-10-02T02:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EUFN(iShares MSCI Europe Financials ETF)은 MSCI Europe Financials Index를 추종하는 미국 상장 유럽 금융 섹터 ETF입니다. 이름은 간단하지만 그 안에는 성격이 다른 세 개의 '유럽'이 겹쳐 있습니다. 지수사가 정한 선진 유럽, 유럽연합, 그리고 유로존입니다. 은행 감독 관할과 통화가 이 경계를 따라 갈리기 때문에, 이 상품은 하나의 섹터를 담으면서도 규제 체계와 통화가 뒤섞인 바구니가 됩니다. 이 글은 편입 국가가 어떻게 정해지고 왜 시간에 따라 바뀌는지, '금융 섹터'의 범위가 언제 어떻게 달라졌는지, 그리고 미국 금융 섹터 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.EUFN은 어떤 ETF인가요?MSCI가 정의한 선진 유럽 국가의 금융..",
+  "og_title": "EUFN ETF란? XLF와 차이, '유럽 금융' 한 상품에 섞인 세 개의 유럽 확인법",
+  "post_id": "640",
+  "published_time": "2026-10-02T02:41:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EUFN ETF란? XLF와 차이, '유럽 금융' 한 상품에 섞인 세 개의 유럽 확인법",
+  "url": "https://mystock-note.tistory.com/640"
+}

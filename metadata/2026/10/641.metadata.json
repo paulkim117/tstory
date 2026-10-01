@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-01",
+  "body_html_length": 14422,
+  "canonical_url": "https://mystock-note.tistory.com/641",
+  "content_hash": "b7647786e7dc9f007c9830977fbc0ec309bdf415502bdb271046e41d952e2412",
+  "json_ld_count": 2,
+  "meta_description": "HAIL(State Street SPDR S&P Kensho Smart Mobility ETF)은 S&P Kensho Smart Transportation Index를 추종하는 미국 상장 이동수단 혁신 테마 ETF입니다. 이 상품의 특징은 담는 대상이 아니라 고르는 방법에 있습니다. 사람이 산업을 분류하는 것이 아니라, 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 특정 검색어와 구문이 나오는지를 보고 편입 여부를 정합니다. 나아가 그 단어가 문서에서 얼마나 자주, 얼마나 앞쪽에 나오는지를 계산해 비중까지 가릅니다. 이 글은 그 절차가 구체적으로 어떻게 작동하는지, 일반적인 테마 ETF의 선별 방식과 무엇이 다른지를 확인 기준으로 정리합니다.HAIL은 어떤 ETF인가요?이동수단 관련 혁신 기업을 담..",
+  "modified_time": "2026-10-02T03:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "HAIL(State Street SPDR S&P Kensho Smart Mobility ETF)은 S&P Kensho Smart Transportation Index를 추종하는 미국 상장 이동수단 혁신 테마 ETF입니다. 이 상품의 특징은 담는 대상이 아니라 고르는 방법에 있습니다. 사람이 산업을 분류하는 것이 아니라, 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 특정 검색어와 구문이 나오는지를 보고 편입 여부를 정합니다. 나아가 그 단어가 문서에서 얼마나 자주, 얼마나 앞쪽에 나오는지를 계산해 비중까지 가릅니다. 이 글은 그 절차가 구체적으로 어떻게 작동하는지, 일반적인 테마 ETF의 선별 방식과 무엇이 다른지를 확인 기준으로 정리합니다.HAIL은 어떤 ETF인가요?이동수단 관련 혁신 기업을 담..",
+  "og_title": "HAIL ETF란? 테마 ETF와 차이, 공시 문서를 기계가 읽어 만드는 지수 확인법",
+  "post_id": "641",
+  "published_time": "2026-10-02T03:39:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HAIL ETF란? 테마 ETF와 차이, 공시 문서를 기계가 읽어 만드는 지수 확인법",
+  "url": "https://mystock-note.tistory.com/641"
+}
