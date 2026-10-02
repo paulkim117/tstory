@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-02",
+  "body_html_length": 13885,
+  "canonical_url": "https://mystock-note.tistory.com/645",
+  "content_hash": "3ce4d0bcdfac450db053e420219e3a6dbee5732b51d3625a6e2fe79d7c010e34",
+  "json_ld_count": 2,
+  "meta_description": "S&P Kensho 계열 ETF는 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 종목을 고르는 지수를 추종합니다. 국내에서는 개별 상품 단위로만 소개되는 경우가 많은데, 실제로는 여러 하위 지수를 조각내어 조립하는 구조라 상품끼리 관계를 알아야 제대로 구분됩니다. 이 글은 CNRG(청정발전)·FITE(미래안보)·ROKT(심우주·심해)·SIMS(지능형 인프라) 네 상품이 각각 어떤 하위 지수를 가져오고 무엇을 잘라내는지를 대조합니다. 특히 하나의 드론 지수가 세 상품에 서로 다른 조각으로 나뉘어 들어가는 구조를 확인하면, 「같은 계열이니 비슷하겠지」라는 접근이 왜 어긋나는지 드러납니다.S&P Kensho 계열은 무엇인가요?S&P Dow Jones Indices가 산출하는 New Economies 지수..",
+  "modified_time": "2026-10-03T04:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "S&P Kensho 계열 ETF는 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 종목을 고르는 지수를 추종합니다. 국내에서는 개별 상품 단위로만 소개되는 경우가 많은데, 실제로는 여러 하위 지수를 조각내어 조립하는 구조라 상품끼리 관계를 알아야 제대로 구분됩니다. 이 글은 CNRG(청정발전)·FITE(미래안보)·ROKT(심우주·심해)·SIMS(지능형 인프라) 네 상품이 각각 어떤 하위 지수를 가져오고 무엇을 잘라내는지를 대조합니다. 특히 하나의 드론 지수가 세 상품에 서로 다른 조각으로 나뉘어 들어가는 구조를 확인하면, 「같은 계열이니 비슷하겠지」라는 접근이 왜 어긋나는지 드러납니다.S&P Kensho 계열은 무엇인가요?S&P Dow Jones Indices가 산출하는 New Economies 지수..",
+  "og_title": "S&P Kensho ETF 비교: CNRG·FITE·ROKT·SIMS 차이, 하나의 드론 지수를 셋이 나눠 갖는 구조",
+  "post_id": "645",
+  "published_time": "2026-10-03T04:41:31+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P Kensho ETF 비교: CNRG·FITE·ROKT·SIMS 차이, 하나의 드론 지수를 셋이 나눠 갖는 구조",
+  "url": "https://mystock-note.tistory.com/645"
+}

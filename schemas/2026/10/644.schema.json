@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-03T03:42:00+09:00",
+    "datePublished": "2026-10-03T03:41:03+09:00",
+    "description": "PWV(Invesco Large Cap Value ETF)는 Dynamic Large Cap Value Intellidex® Index를 추종하는 미국 상장 대형 가치주 ETF입니다. 2005년에 상장돼 20년 넘게 운용된 상품이지만, 선정 방식은 일반적인 가치주 ETF와 크게 다릅니다. 설명서를 그대로 읽으면 편입 기준이 저평가 지표가 아니라 '자본 이득 잠재력'입니다. 가치 특성은 대상을 좁히는 범주이고, 실제로 종목을 고르는 잣대는 가격이 오를 가능성이라는 뜻입니다. 이 글은 그 구조가 무엇을 뜻하는지, Intellidex 모델을 누가 만들고 유지하는지, 그리고 다른 대형 가치 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.PWV는 어떤 ETF인가요?미국 대형주 2,000종목을 독자 모델로..",
+    "headline": "PWV ETF란? 일반 가치 ETF와 차이, 저평가가 아니라 상승 잠재력으로 고르는 지수 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/644",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/644"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/644/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/644/#etf-pwv"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-03",
+        "datePublished": "2026-10-03",
+        "description": "PWV는 Dynamic Large Cap Value Intellidex Index를 추종하는 미국 상장 대형 가치 ETF다. 자본 이득 잠재력 기준 선정 구조, 50종목 고정, 90% 투자 정책, 분기 재구성을 확인 기준으로 정리한다.",
+        "headline": "PWV ETF란? 일반 가치 ETF와 차이, 저평가가 아니라 상승 잠재력으로 고르는 지수 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/644"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/644/#etf-pwv",
+        "@type": "Thing",
+        "description": "Dynamic Large Cap Value Intellidex Index를 추종하는 NYSE Arca 상장 대형 가치주 ETF. 2005년 3월 3일 설정. 시가총액 상위 2,000개 미국 주식을 ICE Data의 독자 Intellidex 모델로 평가해 50종목을 선정하며, 총자산의 90% 이상을 완전복제로 보유하고 분기마다 재구성한다. 구 명칭은 PowerShares Dynamic Large Cap Value Portfolio.",
+        "name": "Invesco Large Cap Value ETF (PWV)"
+      }
+    ]
+  }
+]

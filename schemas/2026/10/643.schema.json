@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-03T02:41:00+09:00",
+    "datePublished": "2026-10-03T02:40:38+09:00",
+    "description": "FTHF(First Trust Emerging Markets Human Flourishing ETF)는 Emerging Markets Human Flourishing Index를 추종하는 미국 상장 신흥국 주식 ETF입니다. 이 상품이 다른 신흥국 ETF와 갈라지는 지점은 종목 선정의 첫 단계에 있습니다. 기업을 보기 전에 나라를 먼저 심사합니다. 언론의 독립성, 학문의 자유, 종교 실천의 자유, 정치적 견해 표명의 자유 같은 지표로 국가에 점수를 매기고, 하위 절반에 속한 나라의 기업은 아무리 우량해도 편입되지 않습니다. 이 글은 그 점수가 어디서 오는지, 누가 이 지수를 만들고 산출하는지, 그리고 일반 신흥국 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.FTHF는 어떤 ETF인가요?신흥국 ..",
+    "headline": "FTHF ETF란? 일반 신흥국 ETF와 차이, 기업보다 나라를 먼저 심사하는 지수 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/643",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/643"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/643/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/643/#etf-fthf"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-03",
+        "datePublished": "2026-10-03",
+        "description": "FTHF는 Emerging Markets Human Flourishing Index를 추종하는 미국 상장 신흥국 ETF다. 국가 인권 지표로 절반을 걸러내는 선정 절차, 일곱 가지 배제 스크린, 상한 규칙을 확인 기준으로 정리한다.",
+        "headline": "FTHF ETF란? 일반 신흥국 ETF와 차이, 기업보다 나라를 먼저 심사하는 지수 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/643"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/643/#etf-fthf",
+        "@type": "Thing",
+        "description": "Emerging Markets Human Flourishing Index를 추종하는 NYSE Arca 상장 신흥국 주식 ETF. 2023년 10월 30일 설정. Freedom House 데이터 기반 국가 점수로 모집단을 절반으로 줄인 뒤 일곱 가지 기업 스크린과 품질 점수로 100종목을 선정한다. 지수 소유자는 Oak City Consulting, 산출은 Bloomberg Index Services가 대행한다.",
+        "name": "First Trust Emerging Markets Human Flourishing ETF (FTHF)"
+      }
+    ]
+  }
+]

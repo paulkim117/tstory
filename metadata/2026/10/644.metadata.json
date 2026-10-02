@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-02",
+  "body_html_length": 14252,
+  "canonical_url": "https://mystock-note.tistory.com/644",
+  "content_hash": "577d308e3b7fc407398ae8d7f4a926d13747d46abdecf65bf00c5b4f59b5bbca",
+  "json_ld_count": 2,
+  "meta_description": "PWV(Invesco Large Cap Value ETF)는 Dynamic Large Cap Value Intellidex® Index를 추종하는 미국 상장 대형 가치주 ETF입니다. 2005년에 상장돼 20년 넘게 운용된 상품이지만, 선정 방식은 일반적인 가치주 ETF와 크게 다릅니다. 설명서를 그대로 읽으면 편입 기준이 저평가 지표가 아니라 '자본 이득 잠재력'입니다. 가치 특성은 대상을 좁히는 범주이고, 실제로 종목을 고르는 잣대는 가격이 오를 가능성이라는 뜻입니다. 이 글은 그 구조가 무엇을 뜻하는지, Intellidex 모델을 누가 만들고 유지하는지, 그리고 다른 대형 가치 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.PWV는 어떤 ETF인가요?미국 대형주 2,000종목을 독자 모델로..",
+  "modified_time": "2026-10-03T03:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "PWV(Invesco Large Cap Value ETF)는 Dynamic Large Cap Value Intellidex® Index를 추종하는 미국 상장 대형 가치주 ETF입니다. 2005년에 상장돼 20년 넘게 운용된 상품이지만, 선정 방식은 일반적인 가치주 ETF와 크게 다릅니다. 설명서를 그대로 읽으면 편입 기준이 저평가 지표가 아니라 '자본 이득 잠재력'입니다. 가치 특성은 대상을 좁히는 범주이고, 실제로 종목을 고르는 잣대는 가격이 오를 가능성이라는 뜻입니다. 이 글은 그 구조가 무엇을 뜻하는지, Intellidex 모델을 누가 만들고 유지하는지, 그리고 다른 대형 가치 ETF와 비교할 때 무엇을 확인해야 하는지를 정리합니다.PWV는 어떤 ETF인가요?미국 대형주 2,000종목을 독자 모델로..",
+  "og_title": "PWV ETF란? 일반 가치 ETF와 차이, 저평가가 아니라 상승 잠재력으로 고르는 지수 확인법",
+  "post_id": "644",
+  "published_time": "2026-10-03T03:41:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PWV ETF란? 일반 가치 ETF와 차이, 저평가가 아니라 상승 잠재력으로 고르는 지수 확인법",
+  "url": "https://mystock-note.tistory.com/644"
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-03T00:41:00+09:00",
+    "datePublished": "2026-10-03T00:40:12+09:00",
+    "description": "WIP(State Street SPDR FTSE International Government Inflation-Protected Bond ETF)은 FTSE International Inflation-Linked Securities Select Index를 추종하는 미국 상장 물가연동국채 ETF입니다. 이름에 '물가연동'이 들어가지만 미국 TIPS와는 결정적인 차이가 하나 있습니다. 어느 나라 물가에 연동되느냐입니다. 이 상품 하나에는 스무 개 가까운 나라의 국채가 들어 있고, 각각은 자기 나라의 물가지수에 연동됩니다. 미국 소비자물가지수는 여기에 없습니다. 이 글은 그 구조가 무엇을 뜻하는지, 편입 조건과 국가 비중 규칙은 어떻게 되는지, 그리고 미국 TIPS 상품과 비교할 때 무엇을 확인해야 하는지를..",
+    "headline": "WIP ETF란? 미국 TIPS와 차이, 물가연동채가 어느 나라 물가에 연동되는지 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/642",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/642"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/642/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/642/#etf-wip"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-03",
+        "datePublished": "2026-10-03",
+        "description": "WIP은 FTSE International Inflation-Linked Securities Select Index를 추종하는 미국 상장 국제 물가연동국채 ETF다. 연동 물가지수, 신용등급 하한, 국가 비중 캡, 지수 전환 이력을 확인 기준으로 정리한다.",
+        "headline": "WIP ETF란? 미국 TIPS와 차이, 물가연동채가 어느 나라 물가에 연동되는지 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/642"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/642/#etf-wip",
+        "@type": "Thing",
+        "description": "FTSE International Inflation-Linked Securities Select Index를 추종하는 NYSE Arca 상장 국제 물가연동국채 ETF. 미국을 제외한 선진·신흥국 정부 발행 물가연동채를 시가총액 가중과 국가 비중 캡으로 담으며 매월 리밸런싱한다. 2016년 2월 12일 이전 기초지수는 DB Global Government ex-U.S. Inflation-Linked Bond Capped Index.",
+        "name": "State Street SPDR FTSE International Government Inflation-Protected Bond ETF (WIP)"
+      }
+    ]
+  }
+]

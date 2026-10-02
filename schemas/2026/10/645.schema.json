@@ -1,0 +1,107 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-03T04:42:00+09:00",
+    "datePublished": "2026-10-03T04:41:31+09:00",
+    "description": "S&P Kensho 계열 ETF는 기업이 감독당국에 제출한 공시 문서를 기계가 스캔해 종목을 고르는 지수를 추종합니다. 국내에서는 개별 상품 단위로만 소개되는 경우가 많은데, 실제로는 여러 하위 지수를 조각내어 조립하는 구조라 상품끼리 관계를 알아야 제대로 구분됩니다. 이 글은 CNRG(청정발전)·FITE(미래안보)·ROKT(심우주·심해)·SIMS(지능형 인프라) 네 상품이 각각 어떤 하위 지수를 가져오고 무엇을 잘라내는지를 대조합니다. 특히 하나의 드론 지수가 세 상품에 서로 다른 조각으로 나뉘어 들어가는 구조를 확인하면, 「같은 계열이니 비슷하겠지」라는 접근이 왜 어긋나는지 드러납니다.S&P Kensho 계열은 무엇인가요?S&P Dow Jones Indices가 산출하는 New Economies 지수..",
+    "headline": "S&P Kensho ETF 비교: CNRG·FITE·ROKT·SIMS 차이, 하나의 드론 지수를 셋이 나눠 갖는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/645",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/645"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/645/#blogposting",
+        "@type": "BlogPosting",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-03",
+        "datePublished": "2026-10-03",
+        "description": "S&P Kensho 계열 네 상품이 각각 어떤 하위 지수를 가져오고 무엇을 잘라내는지 대조한다. 상품 간 겹침, 지수명 불일치, 티커·방법론 변경 이력을 확인 기준으로 정리한다.",
+        "headline": "S&P Kensho ETF 비교: CNRG·FITE·ROKT·SIMS 차이, 하나의 드론 지수를 셋이 나눠 갖는 구조",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/645/#etf-cnrg"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/645/#etf-fite"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/645/#etf-rokt"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/645/#etf-sims"
+          }
+        ],
+        "url": "https://mystock-note.tistory.com/645"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/645/#etf-cnrg",
+        "@type": "Thing",
+        "description": "S&P Kensho Clean Power Index를 추종. Cleantech 지수와 Clean Energy 지수를 전부 편입한다. 상장 당시 티커는 XKCP.",
+        "name": "State Street SPDR S&P Kensho Clean Power ETF (CNRG)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/645/#etf-fite",
+        "@type": "Thing",
+        "description": "S&P Kensho Future Security Index를 추종. Cyber Security와 Smart Borders 지수를 전부 편입하고, Robotics·Drones·Space·Wearables·Virtual Reality 지수는 군용 구성종목만 편입한다. 상장 당시 티커는 XKFS.",
+        "name": "State Street SPDR S&P Kensho Future Security ETF (FITE)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/645/#etf-rokt",
+        "@type": "Thing",
+        "description": "S&P Kensho Final Frontiers Index를 추종. Space 지수를 전부 편입하고 Drones 지수는 심해 탐사 구성종목만 편입한다. 상장 당시 티커는 XKFF.",
+        "name": "State Street SPDR S&P Kensho Final Frontiers ETF (ROKT)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/645/#etf-sims",
+        "@type": "Thing",
+        "description": "S&P Kensho Intelligent Infrastructure Index를 추종. 스마트빌딩·스마트 전력망·지능형 교통 인프라·지능형 수처리 인프라를 담는다. 상품명과 지수명이 다르며 상장 당시 티커는 XKII.",
+        "name": "State Street SPDR S&P Kensho Intelligent Structures ETF (SIMS)"
+      }
+    ]
+  }
+]
