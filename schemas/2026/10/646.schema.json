@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-04T00:40:00+09:00",
+    "datePublished": "2026-10-04T00:39:04+09:00",
+    "description": "XHS(State Street SPDR S&P Health Care Services ETF)는 S&P Health Care Services Select Industry Index를 추종하는 미국 상장 헬스케어 ETF입니다. 다만 흔히 떠올리는 헬스케어 ETF와는 담기는 대상이 크게 다릅니다. 제약회사도 바이오텍도 의료기기 회사도 들어가지 않습니다. 대신 병원, 의약품 유통, 의료 서비스, 그리고 건강보험이 들어갑니다. 신약 개발이 아니라 의료를 전달하고 비용을 관리하는 쪽의 산업입니다. 이 글은 그 경계가 어떻게 정해지는지, 대표적인 헬스케어 섹터 ETF와 무엇이 다른지, 그리고 매수 전 무엇을 확인해야 하는지를 정리합니다.XHS는 어떤 ETF인가요?미국 주식시장 전체에서 헬스케어 서비스 하위산업만 뽑아..",
+    "headline": "XHS ETF란? XLV와 차이, 헬스케어에서 제약·바이오를 빼면 무엇이 남나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/646",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/646"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/646/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/646/#etf-xhs"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-04",
+        "datePublished": "2026-10-04",
+        "description": "XHS는 S&P Health Care Services Select Industry Index를 추종하는 미국 상장 헬스케어 서비스 ETF다. 편입 네 하위산업, S&P TMI 기반 규모 구간, 수정 동일가중, 최소 종목 수 보장 규정을 확인 기준으로 정리한다.",
+        "headline": "XHS ETF란? XLV와 차이, 헬스케어에서 제약·바이오를 빼면 무엇이 남나",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/646"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/646/#etf-xhs",
+        "@type": "Thing",
+        "description": "S&P Health Care Services Select Industry Index를 추종하는 NYSE Arca 상장 ETF. S&P Total Market Index에서 헬스케어 유통·시설·서비스·관리의료 네 하위산업만 담으며, 수정 동일가중으로 분기 재구성과 2차 재가중을 수행한다. 제약·생명공학·의료장비는 편입되지 않는다.",
+        "name": "State Street SPDR S&P Health Care Services ETF (XHS)"
+      }
+    ]
+  }
+]

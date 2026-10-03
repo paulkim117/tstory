@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-03",
+  "body_html_length": 12790,
+  "canonical_url": "https://mystock-note.tistory.com/648",
+  "content_hash": "f1883b6532fa5dcee35bf503ccb71efd1d32a4c55876b7b1ab4f9e8a47be6386",
+  "json_ld_count": 2,
+  "meta_description": "OEF(iShares S&P 100 ETF)는 S&P 100®을 추종하는 미국 상장 대형주 ETF입니다. S&P 500에서 100종목만 추린 지수인데, 그 추리는 기준이 특이합니다. 설명서를 그대로 읽으면 이 지수는 S&P 500 안의 다양한 산업에서 거래소 상장 옵션이 있는 블루칩으로 구성됩니다. 즉 편입 조건에 파생상품 시장의 존재가 들어가 있습니다. 이 글은 그 구조가 무엇을 뜻하는지, S&P 500 상품과 무엇이 다른지, 그리고 매수 전 무엇을 확인해야 하는지를 정리합니다.OEF는 어떤 ETF인가요?S&P 500의 부분집합인 100종목 지수를 추종하는 패시브 ETF입니다. 운용은 블랙록(BlackRock Fund Advisors)이 맡습니다.항목내용기초지수S&P 100®모지수(Parent Inde..",
+  "modified_time": "2026-10-04T02:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "OEF(iShares S&P 100 ETF)는 S&P 100®을 추종하는 미국 상장 대형주 ETF입니다. S&P 500에서 100종목만 추린 지수인데, 그 추리는 기준이 특이합니다. 설명서를 그대로 읽으면 이 지수는 S&P 500 안의 다양한 산업에서 거래소 상장 옵션이 있는 블루칩으로 구성됩니다. 즉 편입 조건에 파생상품 시장의 존재가 들어가 있습니다. 이 글은 그 구조가 무엇을 뜻하는지, S&P 500 상품과 무엇이 다른지, 그리고 매수 전 무엇을 확인해야 하는지를 정리합니다.OEF는 어떤 ETF인가요?S&P 500의 부분집합인 100종목 지수를 추종하는 패시브 ETF입니다. 운용은 블랙록(BlackRock Fund Advisors)이 맡습니다.항목내용기초지수S&P 100®모지수(Parent Inde..",
+  "og_title": "OEF ETF란? S&P 500과 차이, 편입 조건에 '옵션'이 들어간 지수 확인법",
+  "post_id": "648",
+  "published_time": "2026-10-04T02:39:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "OEF ETF란? S&P 500과 차이, 편입 조건에 '옵션'이 들어간 지수 확인법",
+  "url": "https://mystock-note.tistory.com/648"
+}

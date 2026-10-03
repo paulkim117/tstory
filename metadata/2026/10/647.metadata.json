@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-03",
+  "body_html_length": 13160,
+  "canonical_url": "https://mystock-note.tistory.com/647",
+  "content_hash": "25f953c3d71790e9ff268c6628e08b19e73582eb9bcd6a83c6c609169d223022",
+  "json_ld_count": 2,
+  "meta_description": "QQXT(First Trust NASDAQ-100 Ex-Technology Sector Index Fund)는 Nasdaq-100 Ex-Tech Sector™ Index를 추종하는 미국 상장 ETF입니다. 이름이 말하는 그대로, 나스닥100에서 기술 기업을 빼고 남은 것을 담습니다. 그런데 이 단순해 보이는 설계에는 확인할 지점이 여럿 있습니다. '기술'의 경계를 누가 정하는지, 나스닥100 자체가 이미 무엇을 빼고 시작하는지, 그리고 기술을 뺐는데도 왜 중국 관련 위험이 설명서에 남아 있는지입니다. 이 글은 그 구조를 하나씩 확인합니다.QQXT는 어떤 ETF인가요?나스닥100 구성종목 중 기술 산업으로 분류되지 않은 종목만 동일가중으로 담는 패시브 ETF입니다.항목내용기초지수Nasdaq-100 Ex-T..",
+  "modified_time": "2026-10-04T01:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QQXT(First Trust NASDAQ-100 Ex-Technology Sector Index Fund)는 Nasdaq-100 Ex-Tech Sector™ Index를 추종하는 미국 상장 ETF입니다. 이름이 말하는 그대로, 나스닥100에서 기술 기업을 빼고 남은 것을 담습니다. 그런데 이 단순해 보이는 설계에는 확인할 지점이 여럿 있습니다. '기술'의 경계를 누가 정하는지, 나스닥100 자체가 이미 무엇을 빼고 시작하는지, 그리고 기술을 뺐는데도 왜 중국 관련 위험이 설명서에 남아 있는지입니다. 이 글은 그 구조를 하나씩 확인합니다.QQXT는 어떤 ETF인가요?나스닥100 구성종목 중 기술 산업으로 분류되지 않은 종목만 동일가중으로 담는 패시브 ETF입니다.항목내용기초지수Nasdaq-100 Ex-T..",
+  "og_title": "QQXT ETF란? 나스닥100에서 기술을 빼면 무엇이 남나, QQQ·XLK와 차이",
+  "post_id": "647",
+  "published_time": "2026-10-04T01:39:28+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QQXT ETF란? 나스닥100에서 기술을 빼면 무엇이 남나, QQQ·XLK와 차이",
+  "url": "https://mystock-note.tistory.com/647"
+}

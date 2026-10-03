@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-04T01:40:00+09:00",
+    "datePublished": "2026-10-04T01:39:28+09:00",
+    "description": "QQXT(First Trust NASDAQ-100 Ex-Technology Sector Index Fund)는 Nasdaq-100 Ex-Tech Sector™ Index를 추종하는 미국 상장 ETF입니다. 이름이 말하는 그대로, 나스닥100에서 기술 기업을 빼고 남은 것을 담습니다. 그런데 이 단순해 보이는 설계에는 확인할 지점이 여럿 있습니다. '기술'의 경계를 누가 정하는지, 나스닥100 자체가 이미 무엇을 빼고 시작하는지, 그리고 기술을 뺐는데도 왜 중국 관련 위험이 설명서에 남아 있는지입니다. 이 글은 그 구조를 하나씩 확인합니다.QQXT는 어떤 ETF인가요?나스닥100 구성종목 중 기술 산업으로 분류되지 않은 종목만 동일가중으로 담는 패시브 ETF입니다.항목내용기초지수Nasdaq-100 Ex-T..",
+    "headline": "QQXT ETF란? 나스닥100에서 기술을 빼면 무엇이 남나, QQQ·XLK와 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/647",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/647"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/647/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/647/#etf-qqxt"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-04",
+        "datePublished": "2026-10-04",
+        "description": "QQXT는 Nasdaq-100 Ex-Tech Sector Index를 추종하는 미국 상장 ETF다. 이중 배제 구조, ICB 분류 종속, 동일가중 전환, VIE를 통한 중국 노출을 확인 기준으로 정리한다.",
+        "headline": "QQXT ETF란? 나스닥100에서 기술을 빼면 무엇이 남나, QQQ·XLK와 차이",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/647"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/647/#etf-qqxt",
+        "@type": "Thing",
+        "description": "Nasdaq-100 Ex-Tech Sector Index를 추종하는 나스닥 상장 ETF. 2007년 2월 8일 설정. 나스닥100 구성종목 중 ICB상 기술 산업으로 분류되지 않은 종목을 동일가중으로 담으며, 순자산의 90% 이상을 완전복제로 보유한다. 지수는 Nasdaq, Inc.가 개발·유지·후원한다.",
+        "name": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund (QQXT)"
+      }
+    ]
+  }
+]

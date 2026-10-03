@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-03",
+  "body_html_length": 13387,
+  "canonical_url": "https://mystock-note.tistory.com/649",
+  "content_hash": "b02d028c68f99cdd8a3276cf77d3ee1f0d45990945be99bf8d0251480ab4e9c1",
+  "json_ld_count": 2,
+  "meta_description": "State Street MyIncome ETF는 만기가 정해진 채권 ETF입니다. 일반 채권 ETF는 만기 도래분을 계속 재투자하며 무기한 굴러가지만, 이 계열은 목표 연도 12월 15일경 운용을 종료하고 남은 자산을 전부 분배합니다. 개별 채권을 만기까지 들고 가는 경험을 ETF 안에서 재현하려는 설계입니다. 다만 결정적인 차이가 하나 있습니다. 돌려받을 금액이 정해져 있지 않습니다. 이 글은 회사채 계열과 하이일드 계열의 구조를 대조하고, 국내 상장 만기매칭형 ETF와 무엇이 다른지를 확인 기준으로 정리합니다.State Street MyIncome 시리즈는 무엇인가요?목표 만기(target maturity) 전략을 쓰는 액티브 채권 ETF 묶음입니다.항목내용전략 유형액티브 운용 — 지수를 추종하지 않..",
+  "modified_time": "2026-10-04T03:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "State Street MyIncome ETF는 만기가 정해진 채권 ETF입니다. 일반 채권 ETF는 만기 도래분을 계속 재투자하며 무기한 굴러가지만, 이 계열은 목표 연도 12월 15일경 운용을 종료하고 남은 자산을 전부 분배합니다. 개별 채권을 만기까지 들고 가는 경험을 ETF 안에서 재현하려는 설계입니다. 다만 결정적인 차이가 하나 있습니다. 돌려받을 금액이 정해져 있지 않습니다. 이 글은 회사채 계열과 하이일드 계열의 구조를 대조하고, 국내 상장 만기매칭형 ETF와 무엇이 다른지를 확인 기준으로 정리합니다.State Street MyIncome 시리즈는 무엇인가요?목표 만기(target maturity) 전략을 쓰는 액티브 채권 ETF 묶음입니다.항목내용전략 유형액티브 운용 — 지수를 추종하지 않..",
+  "og_title": "State Street MyIncome 만기매칭 ETF 비교: 회사채·하이일드 차이, 국내 만기매칭형과 무엇이 다른가",
+  "post_id": "649",
+  "published_time": "2026-10-04T03:41:52+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "State Street MyIncome 만기매칭 ETF 비교: 회사채·하이일드 차이, 국내 만기매칭형과 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/649"
+}

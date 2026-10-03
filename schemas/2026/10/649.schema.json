@@ -1,0 +1,89 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-04T03:42:00+09:00",
+    "datePublished": "2026-10-04T03:41:52+09:00",
+    "description": "State Street MyIncome ETF는 만기가 정해진 채권 ETF입니다. 일반 채권 ETF는 만기 도래분을 계속 재투자하며 무기한 굴러가지만, 이 계열은 목표 연도 12월 15일경 운용을 종료하고 남은 자산을 전부 분배합니다. 개별 채권을 만기까지 들고 가는 경험을 ETF 안에서 재현하려는 설계입니다. 다만 결정적인 차이가 하나 있습니다. 돌려받을 금액이 정해져 있지 않습니다. 이 글은 회사채 계열과 하이일드 계열의 구조를 대조하고, 국내 상장 만기매칭형 ETF와 무엇이 다른지를 확인 기준으로 정리합니다.State Street MyIncome 시리즈는 무엇인가요?목표 만기(target maturity) 전략을 쓰는 액티브 채권 ETF 묶음입니다.항목내용전략 유형액티브 운용 — 지수를 추종하지 않..",
+    "headline": "State Street MyIncome 만기매칭 ETF 비교: 회사채·하이일드 차이, 국내 만기매칭형과 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/649",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/649"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/649/#blogposting",
+        "@type": "BlogPosting",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-04",
+        "datePublished": "2026-10-04",
+        "description": "State Street MyIncome 계열은 목표 연도에 청산하고 잔여 자산을 분배하는 액티브 목표 만기 채권 ETF다. 원금 미확정 구조, 청산 절차, 현금 드래그, 국내 만기매칭형과의 세금 차이를 확인 기준으로 정리한다.",
+        "headline": "State Street MyIncome 만기매칭 ETF 비교: 회사채·하이일드 차이, 국내 만기매칭형과 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/649/#etf-myincome-corp"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/649/#etf-myincome-hy"
+          }
+        ],
+        "url": "https://mystock-note.tistory.com/649"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/649/#etf-myincome-corp",
+        "@type": "Thing",
+        "description": "목표 연도에 만기가 도래하는 미국 달러 표시 투자등급 회사채에 투자하는 액티브 목표 만기 ETF 계열. 목표 연도 12월 15일경 청산하고 잔여 순자산을 분배하며, 사전에 정해진 금액을 분배하지 않는다. 구 명칭은 SPDR SSGA My20XX Corporate Bond ETF.",
+        "name": "State Street MyIncome 회사채 목표 만기 ETF (MYCF~MYCO)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/649/#etf-myincome-hy",
+        "@type": "Thing",
+        "description": "목표 연도에 만기가 도래하는 미국 달러 표시 투자등급 미만 회사채에 투자하는 액티브 목표 만기 ETF 계열. 2026년 2월 상장. 목표 만기는 2027년부터 2031년까지이며 회사채 계열과 동일한 청산 구조를 갖는다.",
+        "name": "State Street MyIncome 하이일드 목표 만기 ETF (MYHA~MYHE)"
+      }
+    ]
+  }
+]

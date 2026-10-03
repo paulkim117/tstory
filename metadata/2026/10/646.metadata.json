@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-03",
+  "body_html_length": 13523,
+  "canonical_url": "https://mystock-note.tistory.com/646",
+  "content_hash": "97bb4cab1723c7ed179aefb2b0ca4671e8d4896e0b06b81c040e549f1e362293",
+  "json_ld_count": 2,
+  "meta_description": "XHS(State Street SPDR S&P Health Care Services ETF)는 S&P Health Care Services Select Industry Index를 추종하는 미국 상장 헬스케어 ETF입니다. 다만 흔히 떠올리는 헬스케어 ETF와는 담기는 대상이 크게 다릅니다. 제약회사도 바이오텍도 의료기기 회사도 들어가지 않습니다. 대신 병원, 의약품 유통, 의료 서비스, 그리고 건강보험이 들어갑니다. 신약 개발이 아니라 의료를 전달하고 비용을 관리하는 쪽의 산업입니다. 이 글은 그 경계가 어떻게 정해지는지, 대표적인 헬스케어 섹터 ETF와 무엇이 다른지, 그리고 매수 전 무엇을 확인해야 하는지를 정리합니다.XHS는 어떤 ETF인가요?미국 주식시장 전체에서 헬스케어 서비스 하위산업만 뽑아..",
+  "modified_time": "2026-10-04T00:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "XHS(State Street SPDR S&P Health Care Services ETF)는 S&P Health Care Services Select Industry Index를 추종하는 미국 상장 헬스케어 ETF입니다. 다만 흔히 떠올리는 헬스케어 ETF와는 담기는 대상이 크게 다릅니다. 제약회사도 바이오텍도 의료기기 회사도 들어가지 않습니다. 대신 병원, 의약품 유통, 의료 서비스, 그리고 건강보험이 들어갑니다. 신약 개발이 아니라 의료를 전달하고 비용을 관리하는 쪽의 산업입니다. 이 글은 그 경계가 어떻게 정해지는지, 대표적인 헬스케어 섹터 ETF와 무엇이 다른지, 그리고 매수 전 무엇을 확인해야 하는지를 정리합니다.XHS는 어떤 ETF인가요?미국 주식시장 전체에서 헬스케어 서비스 하위산업만 뽑아..",
+  "og_title": "XHS ETF란? XLV와 차이, 헬스케어에서 제약·바이오를 빼면 무엇이 남나",
+  "post_id": "646",
+  "published_time": "2026-10-04T00:39:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XHS ETF란? XLV와 차이, 헬스케어에서 제약·바이오를 빼면 무엇이 남나",
+  "url": "https://mystock-note.tistory.com/646"
+}
