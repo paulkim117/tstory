@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-05T00:43:16+09:00",
+    "datePublished": "2026-10-05T00:42:16+09:00",
+    "description": "JUSA(JPMorgan U.S. Research Enhanced Large Cap ETF)는 미국 대형주에 투자하는 액티브 ETF입니다. 그런데 설명서를 읽어 보면 야심이 크지 않습니다. 「저평가 종목을 소폭 오버웨이트하고, 고평가 종목을 소폭 언더웨이트하며, 장기적으로 시장을 소폭 초과하는 수익을 추구한다」고 기재합니다. '소폭'이라는 단어가 세 번 반복됩니다. 지수를 크게 이기려는 것이 아니라 지수에 붙어서 조금만 앞서겠다는 설계입니다. 이 글은 이 '리서치 인핸스드' 구조가 무엇인지, 일반 액티브 펀드나 지수 추종 상품과 무엇이 다른지를 확인 기준으로 정리합니다.JUSA는 어떤 ETF인가요?S&P 500을 벤치마크로 삼되 추종하지는 않는 액티브 대형주 ETF입니다.항목내용운용 방식액티브 — 기초지..",
+    "headline": "JUSA ETF란? S&P 500과 차이, 지수를 '소폭만' 이기려는 리서치 인핸스드 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/650",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/650"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/650/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/650/#etf-jusa"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-05",
+        "datePublished": "2026-10-05",
+        "description": "JUSA는 S&P 500을 벤치마크로 쓰는 미국 대형주 액티브 ETF다. 섹터 중립 구조, 소폭 오버·언더웨이트, 벤치마크와 기초지수의 차이, 티커 이력을 확인 기준으로 정리한다.",
+        "headline": "JUSA ETF란? S&P 500과 차이, 지수를 '소폭만' 이기려는 리서치 인핸스드 구조",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/650"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/650/#etf-jusa",
+        "@type": "Thing",
+        "description": "S&P 500을 벤치마크로 삼는 NYSE Arca 상장 미국 대형주 액티브 ETF. 2025년 3월 13일 운용 개시. 섹터 비중을 시장과 유사하게 유지하면서 각 섹터 내에서 저평가 종목을 소폭 오버웨이트하고 고평가 종목을 소폭 언더웨이트해 장기적으로 시장을 소폭 초과하는 수익을 추구한다.",
+        "name": "JPMorgan U.S. Research Enhanced Large Cap ETF (JUSA)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-05T01:35:00+09:00",
+    "datePublished": "2026-10-05T01:34:55+09:00",
+    "description": "GOVT(iShares U.S. Treasury Bond ETF)는 ICE U.S. Treasury Core Bond Index를 추종하는 미국 국채 ETF입니다. 만기별로 잘라 담는 상품들과 달리 구간을 나누지 않고 한 번에 담는다는 점이 특징입니다. 다만 이름이 주는 인상과 실제 범위 사이에는 거리가 있습니다. 1년 이하 단기국채도, 물가연동국채도 들어가지 않습니다. 그리고 비중을 계산할 때 연방준비제도가 보유한 물량은 빼고 셉니다. 이 글은 그 규칙이 무엇을 뜻하는지, 만기별 상품이나 종합채권 상품과 무엇이 다른지를 확인 기준으로 정리합니다.GOVT는 어떤 ETF인가요?미국 재무부가 발행한 국채를 만기 구간을 나누지 않고 담는 패시브 ETF입니다.항목내용기초지수ICE U.S. Treasury Cor..",
+    "headline": "GOVT ETF란? '미국 국채 전부'가 아니다 — 빠지는 구간과 연준 보유분 제외 가중",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/651",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/651"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/651/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/651/#etf-govt"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-05",
+        "datePublished": "2026-10-05",
+        "description": "GOVT는 ICE U.S. Treasury Core Bond Index를 추종하는 미국 국채 ETF다. 재정증권·물가연동채 제외, 연준 보유분 제외 가중, 월 1회 갱신, 만기별 상품과의 중복을 확인 기준으로 정리한다.",
+        "headline": "GOVT ETF란? '미국 국채 전부'가 아니다 — 빠지는 구간과 연준 보유분 제외 가중",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/651"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/651/#etf-govt",
+        "@type": "Thing",
+        "description": "ICE U.S. Treasury Core Bond Index를 추종하는 NYSE Arca 상장 미국 국채 ETF. 잔존만기 1년 초과, 고정 쿠폰, 조정 발행잔액 3억 달러 이상의 재무부 발행 국채를 담으며 재정증권·물가연동증권·정부기관채·원발행 무이표채는 제외한다. 연방준비제도 공개시장계정 보유분을 제외한 시가총액으로 가중하고 매월 마지막 영업일에 구성을 갱신한다.",
+        "name": "iShares U.S. Treasury Bond ETF (GOVT)"
+      }
+    ]
+  }
+]

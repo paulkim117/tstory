@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-04",
+  "body_html_length": 12452,
+  "canonical_url": "https://mystock-note.tistory.com/651",
+  "content_hash": "c549763207a7e6e23afc475f6006ae44e95e31116f190c9ce5715b30bf7e2319",
+  "json_ld_count": 2,
+  "meta_description": "GOVT(iShares U.S. Treasury Bond ETF)는 ICE U.S. Treasury Core Bond Index를 추종하는 미국 국채 ETF입니다. 만기별로 잘라 담는 상품들과 달리 구간을 나누지 않고 한 번에 담는다는 점이 특징입니다. 다만 이름이 주는 인상과 실제 범위 사이에는 거리가 있습니다. 1년 이하 단기국채도, 물가연동국채도 들어가지 않습니다. 그리고 비중을 계산할 때 연방준비제도가 보유한 물량은 빼고 셉니다. 이 글은 그 규칙이 무엇을 뜻하는지, 만기별 상품이나 종합채권 상품과 무엇이 다른지를 확인 기준으로 정리합니다.GOVT는 어떤 ETF인가요?미국 재무부가 발행한 국채를 만기 구간을 나누지 않고 담는 패시브 ETF입니다.항목내용기초지수ICE U.S. Treasury Cor..",
+  "modified_time": "2026-10-05T01:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "GOVT(iShares U.S. Treasury Bond ETF)는 ICE U.S. Treasury Core Bond Index를 추종하는 미국 국채 ETF입니다. 만기별로 잘라 담는 상품들과 달리 구간을 나누지 않고 한 번에 담는다는 점이 특징입니다. 다만 이름이 주는 인상과 실제 범위 사이에는 거리가 있습니다. 1년 이하 단기국채도, 물가연동국채도 들어가지 않습니다. 그리고 비중을 계산할 때 연방준비제도가 보유한 물량은 빼고 셉니다. 이 글은 그 규칙이 무엇을 뜻하는지, 만기별 상품이나 종합채권 상품과 무엇이 다른지를 확인 기준으로 정리합니다.GOVT는 어떤 ETF인가요?미국 재무부가 발행한 국채를 만기 구간을 나누지 않고 담는 패시브 ETF입니다.항목내용기초지수ICE U.S. Treasury Cor..",
+  "og_title": "GOVT ETF란? '미국 국채 전부'가 아니다 — 빠지는 구간과 연준 보유분 제외 가중",
+  "post_id": "651",
+  "published_time": "2026-10-05T01:34:55+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GOVT ETF란? '미국 국채 전부'가 아니다 — 빠지는 구간과 연준 보유분 제외 가중",
+  "url": "https://mystock-note.tistory.com/651"
+}

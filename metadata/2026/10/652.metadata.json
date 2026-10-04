@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-04",
+  "body_html_length": 13048,
+  "canonical_url": "https://mystock-note.tistory.com/652",
+  "content_hash": "3ee986da88c5d5611bec8e8af1ecc7137386a186e9b097a2d8f70150ede64e2c",
+  "json_ld_count": 2,
+  "meta_description": "AFK(VanEck Africa Index ETF)는 MVIS GDP Africa Index를 추종하는 미국 상장 아프리카 주식 ETF입니다. 이름은 단순하지만 안을 들여다보면 통상적인 지역 ETF와 규칙이 크게 다릅니다. 국가별 비중을 시가총액이 아니라 국내총생산(GDP)으로 정하고, 아프리카에 상장하지 않은 기업도 조건을 채우면 들어옵니다. 그리고 이 지수를 소유한 회사는 이 ETF를 운용하는 회사의 자회사입니다. 이 글은 그 규칙들이 무엇을 뜻하는지, 일반적인 신흥국·단일국 상품과 무엇이 다른지를 확인 기준으로 정리합니다.AFK는 어떤 ETF인가요?아프리카 관련 기업을 담되, 국가 비중을 경제 규모로 정하는 패시브 ETF입니다.항목내용기초지수MVIS GDP Africa Index국가 비중 기준국내총..",
+  "modified_time": "2026-10-05T02:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AFK(VanEck Africa Index ETF)는 MVIS GDP Africa Index를 추종하는 미국 상장 아프리카 주식 ETF입니다. 이름은 단순하지만 안을 들여다보면 통상적인 지역 ETF와 규칙이 크게 다릅니다. 국가별 비중을 시가총액이 아니라 국내총생산(GDP)으로 정하고, 아프리카에 상장하지 않은 기업도 조건을 채우면 들어옵니다. 그리고 이 지수를 소유한 회사는 이 ETF를 운용하는 회사의 자회사입니다. 이 글은 그 규칙들이 무엇을 뜻하는지, 일반적인 신흥국·단일국 상품과 무엇이 다른지를 확인 기준으로 정리합니다.AFK는 어떤 ETF인가요?아프리카 관련 기업을 담되, 국가 비중을 경제 규모로 정하는 패시브 ETF입니다.항목내용기초지수MVIS GDP Africa Index국가 비중 기준국내총..",
+  "og_title": "AFK ETF란? 시가총액이 아니라 GDP로 국가를 나누는 아프리카 ETF 확인법",
+  "post_id": "652",
+  "published_time": "2026-10-05T02:35:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AFK ETF란? 시가총액이 아니라 GDP로 국가를 나누는 아프리카 ETF 확인법",
+  "url": "https://mystock-note.tistory.com/652"
+}

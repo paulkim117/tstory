@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-05T02:36:00+09:00",
+    "datePublished": "2026-10-05T02:35:19+09:00",
+    "description": "AFK(VanEck Africa Index ETF)는 MVIS GDP Africa Index를 추종하는 미국 상장 아프리카 주식 ETF입니다. 이름은 단순하지만 안을 들여다보면 통상적인 지역 ETF와 규칙이 크게 다릅니다. 국가별 비중을 시가총액이 아니라 국내총생산(GDP)으로 정하고, 아프리카에 상장하지 않은 기업도 조건을 채우면 들어옵니다. 그리고 이 지수를 소유한 회사는 이 ETF를 운용하는 회사의 자회사입니다. 이 글은 그 규칙들이 무엇을 뜻하는지, 일반적인 신흥국·단일국 상품과 무엇이 다른지를 확인 기준으로 정리합니다.AFK는 어떤 ETF인가요?아프리카 관련 기업을 담되, 국가 비중을 경제 규모로 정하는 패시브 ETF입니다.항목내용기초지수MVIS GDP Africa Index국가 비중 기준국내총..",
+    "headline": "AFK ETF란? 시가총액이 아니라 GDP로 국가를 나누는 아프리카 ETF 확인법",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/652",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/652"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/652/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/652/#etf-afk"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-05",
+        "datePublished": "2026-10-05",
+        "description": "AFK는 MVIS GDP Africa Index를 추종하는 미국 상장 아프리카 ETF다. GDP 기준 국가 배분, 매출 50% 편입 규칙, 25종목 최소 구성, 운용사 자회사의 지수 소유 구조를 확인 기준으로 정리한다.",
+        "headline": "AFK ETF란? 시가총액이 아니라 GDP로 국가를 나누는 아프리카 ETF 확인법",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/652"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/652/#etf-afk",
+        "@type": "Thing",
+        "description": "MVIS GDP Africa Index를 추종하는 NYSE Arca 상장 아프리카 주식 ETF. 2008년 7월 10일 설정. 국가 비중을 상대적 GDP로 산정하며, 아프리카 소재 기업의 현지 상장 종목과 아프리카 밖 소재이나 매출·관련 자산의 50% 이상이 아프리카에서 발생하는 기업을 담는다. 최소 25종목, 종목 비중 상한 8%. 구 명칭은 Market Vectors Africa Index ETF 및 VanEck Vectors Africa Index ETF.",
+        "name": "VanEck Africa Index ETF (AFK)"
+      }
+    ]
+  }
+]

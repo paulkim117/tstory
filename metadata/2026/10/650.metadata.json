@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-04",
+  "body_html_length": 13147,
+  "canonical_url": "https://mystock-note.tistory.com/650",
+  "content_hash": "437da208e9b356352a3f15c46ab1713ad7589f10f85ee43432502f699dc2f251",
+  "json_ld_count": 2,
+  "meta_description": "JUSA(JPMorgan U.S. Research Enhanced Large Cap ETF)는 미국 대형주에 투자하는 액티브 ETF입니다. 그런데 설명서를 읽어 보면 야심이 크지 않습니다. 「저평가 종목을 소폭 오버웨이트하고, 고평가 종목을 소폭 언더웨이트하며, 장기적으로 시장을 소폭 초과하는 수익을 추구한다」고 기재합니다. '소폭'이라는 단어가 세 번 반복됩니다. 지수를 크게 이기려는 것이 아니라 지수에 붙어서 조금만 앞서겠다는 설계입니다. 이 글은 이 '리서치 인핸스드' 구조가 무엇인지, 일반 액티브 펀드나 지수 추종 상품과 무엇이 다른지를 확인 기준으로 정리합니다.JUSA는 어떤 ETF인가요?S&P 500을 벤치마크로 삼되 추종하지는 않는 액티브 대형주 ETF입니다.항목내용운용 방식액티브 — 기초지..",
+  "modified_time": "2026-10-05T00:43:16+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "JUSA(JPMorgan U.S. Research Enhanced Large Cap ETF)는 미국 대형주에 투자하는 액티브 ETF입니다. 그런데 설명서를 읽어 보면 야심이 크지 않습니다. 「저평가 종목을 소폭 오버웨이트하고, 고평가 종목을 소폭 언더웨이트하며, 장기적으로 시장을 소폭 초과하는 수익을 추구한다」고 기재합니다. '소폭'이라는 단어가 세 번 반복됩니다. 지수를 크게 이기려는 것이 아니라 지수에 붙어서 조금만 앞서겠다는 설계입니다. 이 글은 이 '리서치 인핸스드' 구조가 무엇인지, 일반 액티브 펀드나 지수 추종 상품과 무엇이 다른지를 확인 기준으로 정리합니다.JUSA는 어떤 ETF인가요?S&P 500을 벤치마크로 삼되 추종하지는 않는 액티브 대형주 ETF입니다.항목내용운용 방식액티브 — 기초지..",
+  "og_title": "JUSA ETF란? S&P 500과 차이, 지수를 '소폭만' 이기려는 리서치 인핸스드 구조",
+  "post_id": "650",
+  "published_time": "2026-10-05T00:42:16+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "JUSA ETF란? S&P 500과 차이, 지수를 '소폭만' 이기려는 리서치 인핸스드 구조",
+  "url": "https://mystock-note.tistory.com/650"
+}

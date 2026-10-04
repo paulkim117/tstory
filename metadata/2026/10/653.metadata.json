@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-04",
+  "body_html_length": 13239,
+  "canonical_url": "https://mystock-note.tistory.com/653",
+  "content_hash": "1fd9f574ab426f261f8adc42867878856bea61a39f83622913ae1197fbdbe095",
+  "json_ld_count": 2,
+  "meta_description": "TDIV(First Trust NASDAQ Technology Dividend Index Fund)는 Nasdaq Technology Dividend Index를 추종하는 미국 상장 ETF입니다. 성장 섹터로 분류되는 기술주에 배당 요건을 건 상품인데, 그 요건이 통상적인 배당 ETF와 다릅니다. 배당수익률이 높은 순으로 고르지 않습니다. 대신 주당 배당금이 큰 순으로 100종목을 뽑고, 비중도 배당 총액으로 정합니다. 게다가 기술과 통신의 비중을 80대 20으로 고정합니다. 이 글은 그 규칙들이 무엇을 뜻하는지, 일반적인 배당 ETF나 기술 섹터 ETF와 무엇이 다른지를 확인 기준으로 정리합니다.TDIV는 어떤 ETF인가요?기술·통신 기업 중 배당을 주는 곳을 담되, 배당 금액을 기준으로 고르고 가중하..",
+  "modified_time": "2026-10-05T03:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "TDIV(First Trust NASDAQ Technology Dividend Index Fund)는 Nasdaq Technology Dividend Index를 추종하는 미국 상장 ETF입니다. 성장 섹터로 분류되는 기술주에 배당 요건을 건 상품인데, 그 요건이 통상적인 배당 ETF와 다릅니다. 배당수익률이 높은 순으로 고르지 않습니다. 대신 주당 배당금이 큰 순으로 100종목을 뽑고, 비중도 배당 총액으로 정합니다. 게다가 기술과 통신의 비중을 80대 20으로 고정합니다. 이 글은 그 규칙들이 무엇을 뜻하는지, 일반적인 배당 ETF나 기술 섹터 ETF와 무엇이 다른지를 확인 기준으로 정리합니다.TDIV는 어떤 ETF인가요?기술·통신 기업 중 배당을 주는 곳을 담되, 배당 금액을 기준으로 고르고 가중하..",
+  "og_title": "TDIV ETF란? 배당수익률이 아니라 배당 금액으로 고르는 기술 배당 ETF 확인법",
+  "post_id": "653",
+  "published_time": "2026-10-05T03:40:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TDIV ETF란? 배당수익률이 아니라 배당 금액으로 고르는 기술 배당 ETF 확인법",
+  "url": "https://mystock-note.tistory.com/653"
+}
