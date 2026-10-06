@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-06",
+  "body_html_length": 9159,
+  "canonical_url": "https://mystock-note.tistory.com/657",
+  "content_hash": "6c14960cb19c6e59f6072ecf6a10061179dfaae026185ab2607cec5bd37b8f51",
+  "json_ld_count": 2,
+  "meta_description": "MILN은 특정 산업이 아니라 특정 세대가 돈을 쓰는 방식을 기준으로 종목을 고르는 ETF입니다. 지수는 GICS 섹터를 쓰지 않고 '지출 범주'라는 여덟 개의 칸을 직접 만든 뒤, 칸마다 몇 개를 담을지 정원까지 정해 채웁니다. 상품명에 'Consumer'가 붙어 있지만 소비재 섹터 ETF는 아닙니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·비중은 신뢰성 관리를 위해 기재하지 않습니다.MILN은 어떤 ETF인가요?[사실] 정식 명칭은 Global X Millennial Consumer ETF이며 나스닥에 상장돼 있습니다. 기초지수는 Indxx Millennials Themati..",
+  "modified_time": "2026-10-06T03:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "MILN은 특정 산업이 아니라 특정 세대가 돈을 쓰는 방식을 기준으로 종목을 고르는 ETF입니다. 지수는 GICS 섹터를 쓰지 않고 '지출 범주'라는 여덟 개의 칸을 직접 만든 뒤, 칸마다 몇 개를 담을지 정원까지 정해 채웁니다. 상품명에 'Consumer'가 붙어 있지만 소비재 섹터 ETF는 아닙니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·비중은 신뢰성 관리를 위해 기재하지 않습니다.MILN은 어떤 ETF인가요?[사실] 정식 명칭은 Global X Millennial Consumer ETF이며 나스닥에 상장돼 있습니다. 기초지수는 Indxx Millennials Themati..",
+  "og_title": "MILN ETF란? 섹터 대신 '지출 범주'로 나누는 구조, 소비재 ETF와 무엇이 다른가",
+  "post_id": "657",
+  "published_time": "2026-10-06T03:31:46+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "MILN ETF란? 섹터 대신 '지출 범주'로 나누는 구조, 소비재 ETF와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/657"
+}

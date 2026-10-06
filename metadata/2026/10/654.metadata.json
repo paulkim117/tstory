@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-06",
+  "body_html_length": 9944,
+  "canonical_url": "https://mystock-note.tistory.com/654",
+  "content_hash": "8c396486c19cb9c01bb8f7b1863170f37489a5b667bc3a4154fb8f6f85ed05ea",
+  "json_ld_count": 2,
+  "meta_description": "TROT는 미국 국채만 담으면서도 만기 구간을 고정하지 않는 ETF입니다. GDP 성장률과 인플레이션 기대로 판정한 '경제 국면'에 따라 기초지수가 잔존만기 5년 미만 / 10년 이상 / 국채 곡선 전체 중 하나를 선택합니다. 만기를 정해 놓고 사는 기존 국채 ETF와는 결정 구조 자체가 다릅니다. 아래는 SEC 요약설명서(Form 497K, 2026년 2월 18일자)와 MSCI 지수 페이지, 인베스코 상장 보도자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·듀레이션 수치는 신뢰성 관리를 위해 기재하지 않습니다.TROT는 어떤 ETF인가요?[사실] 정식 명칭은 Invesco MSCI Treasury Duration Rotation ..",
+  "modified_time": "2026-10-06T00:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "TROT는 미국 국채만 담으면서도 만기 구간을 고정하지 않는 ETF입니다. GDP 성장률과 인플레이션 기대로 판정한 '경제 국면'에 따라 기초지수가 잔존만기 5년 미만 / 10년 이상 / 국채 곡선 전체 중 하나를 선택합니다. 만기를 정해 놓고 사는 기존 국채 ETF와는 결정 구조 자체가 다릅니다. 아래는 SEC 요약설명서(Form 497K, 2026년 2월 18일자)와 MSCI 지수 페이지, 인베스코 상장 보도자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·듀레이션 수치는 신뢰성 관리를 위해 기재하지 않습니다.TROT는 어떤 ETF인가요?[사실] 정식 명칭은 Invesco MSCI Treasury Duration Rotation ..",
+  "og_title": "TROT ETF란? 국채 만기를 고정하지 않는 구조, SHY·IEF·장기국채와 무엇이 다른가",
+  "post_id": "654",
+  "published_time": "2026-10-06T00:40:44+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TROT ETF란? 국채 만기를 고정하지 않는 구조, SHY·IEF·장기국채와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/654"
+}

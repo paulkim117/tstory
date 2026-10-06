@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-06",
+  "body_html_length": 8286,
+  "canonical_url": "https://mystock-note.tistory.com/656",
+  "content_hash": "a7f8a2f8b6c19c93c03ba6ab3fed84963586b87430272b8880cf2ecc33259527",
+  "json_ld_count": 2,
+  "meta_description": "EPU는 페루에 투자하는 ETF이지만, 페루 증권거래소에 상장된 주식만 담지 않습니다. 미국·영국·홍콩·칠레·콜롬비아 거래소에 상장된 기업도 함께 들어갑니다. 상품명에 붙은 'Global Exposure'가 그 사실을 가리킵니다. 한 나라에 투자한다는 말이 무엇을 뜻하는지 다시 묻게 만드는 구조입니다. 아래는 iShares 공식 상품 페이지와 MSCI 지수 페이지를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·국가별 비중은 신뢰성 관리를 위해 기재하지 않습니다.EPU는 어떤 ETF인가요?[사실] 현재 정식 명칭은 iShares MSCI Peru and Global Exposure ETF입니다. 운용사는 BlackRock이며 2009년 ..",
+  "modified_time": "2026-10-06T02:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EPU는 페루에 투자하는 ETF이지만, 페루 증권거래소에 상장된 주식만 담지 않습니다. 미국·영국·홍콩·칠레·콜롬비아 거래소에 상장된 기업도 함께 들어갑니다. 상품명에 붙은 'Global Exposure'가 그 사실을 가리킵니다. 한 나라에 투자한다는 말이 무엇을 뜻하는지 다시 묻게 만드는 구조입니다. 아래는 iShares 공식 상품 페이지와 MSCI 지수 페이지를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·국가별 비중은 신뢰성 관리를 위해 기재하지 않습니다.EPU는 어떤 ETF인가요?[사실] 현재 정식 명칭은 iShares MSCI Peru and Global Exposure ETF입니다. 운용사는 BlackRock이며 2009년 ..",
+  "og_title": "EPU ETF란? 페루 ETF인데 페루 상장 주식만 담지 않는 이유와 확인 기준",
+  "post_id": "656",
+  "published_time": "2026-10-06T02:31:18+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EPU ETF란? 페루 ETF인데 페루 상장 주식만 담지 않는 이유와 확인 기준",
+  "url": "https://mystock-note.tistory.com/656"
+}

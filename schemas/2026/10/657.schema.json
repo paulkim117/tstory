@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-06T03:32:00+09:00",
+    "datePublished": "2026-10-06T03:31:46+09:00",
+    "description": "MILN은 특정 산업이 아니라 특정 세대가 돈을 쓰는 방식을 기준으로 종목을 고르는 ETF입니다. 지수는 GICS 섹터를 쓰지 않고 '지출 범주'라는 여덟 개의 칸을 직접 만든 뒤, 칸마다 몇 개를 담을지 정원까지 정해 채웁니다. 상품명에 'Consumer'가 붙어 있지만 소비재 섹터 ETF는 아닙니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·비중은 신뢰성 관리를 위해 기재하지 않습니다.MILN은 어떤 ETF인가요?[사실] 정식 명칭은 Global X Millennial Consumer ETF이며 나스닥에 상장돼 있습니다. 기초지수는 Indxx Millennials Themati..",
+    "headline": "MILN ETF란? 섹터 대신 '지출 범주'로 나누는 구조, 소비재 ETF와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/657",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/657"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/657/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/657/#etf-miln"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-06",
+        "datePublished": "2026-10-06",
+        "description": "MILN은 GICS 섹터가 아니라 지수 제공자가 만든 여덟 개 지출 범주로 종목을 구획하고, 범주마다 최소 5개·최대 15개라는 정원제로 담습니다. 소비재 섹터 ETF와의 차이와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "MILN ETF란? 섹터 대신 '지출 범주'로 나누는 구조, 소비재 ETF와 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/657",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/657"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/657/#etf-miln",
+        "@type": "Thing",
+        "alternateName": "MILN",
+        "description": "Indxx Millennials Thematic Index를 추종하는 미국 상장 ETF. 미국 내 1980~2000년 출생 세대의 소비 트렌드에 노출된 미국 상장 기업을 담으며, 지수 제공자가 도출한 여덟 개 지출 범주에서 각각 최소 5개·최대 15개를 선정해 수정 시가총액 가중으로 구성한다. 재구성·리밸런싱은 연 1회. 과거 명칭은 Global X Millennials Thematic ETF.",
+        "name": "Global X Millennial Consumer ETF"
+      }
+    ]
+  }
+]

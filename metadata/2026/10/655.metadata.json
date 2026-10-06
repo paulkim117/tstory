@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-06",
+  "body_html_length": 9968,
+  "canonical_url": "https://mystock-note.tistory.com/655",
+  "content_hash": "808beaf64311410d6b5c525cc12f9135c3d909f24e072d55e5f2a478b2191065",
+  "json_ld_count": 2,
+  "meta_description": "CHRI는 S&P 500에서 특정 사업 활동에 관여한 기업을 걸러 낸 뒤, 빠진 만큼 남은 종목에 다시 비중을 채워 넣어 섹터 구성을 원래 지수와 맞추는 ETF입니다. 무엇을 빼느냐만 보면 종교 기준 상품이지만, 구조에서 더 중요한 것은 배제가 섹터 베팅으로 번지지 않게 막는 장치입니다. 아래는 SEC 요약설명서(2026년 3월 1일자)와 Global X 공식 자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·섹터 비중 수치는 신뢰성 관리를 위해 기재하지 않습니다.CHRI는 어떤 ETF인가요?[사실] 정식 명칭은 Global X S&P 500 Christian Values ETF이며 나스닥에 상장돼 있습니다. 운용은 2025년 9월 ..",
+  "modified_time": "2026-10-06T01:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "CHRI는 S&P 500에서 특정 사업 활동에 관여한 기업을 걸러 낸 뒤, 빠진 만큼 남은 종목에 다시 비중을 채워 넣어 섹터 구성을 원래 지수와 맞추는 ETF입니다. 무엇을 빼느냐만 보면 종교 기준 상품이지만, 구조에서 더 중요한 것은 배제가 섹터 베팅으로 번지지 않게 막는 장치입니다. 아래는 SEC 요약설명서(2026년 3월 1일자)와 Global X 공식 자료를 2026년 10월 6일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·섹터 비중 수치는 신뢰성 관리를 위해 기재하지 않습니다.CHRI는 어떤 ETF인가요?[사실] 정식 명칭은 Global X S&P 500 Christian Values ETF이며 나스닥에 상장돼 있습니다. 운용은 2025년 9월 ..",
+  "og_title": "CHRI ETF란? S&P 500에서 빼고 섹터를 되돌리는 구조, VOO·RSP와 무엇이 다른가",
+  "post_id": "655",
+  "published_time": "2026-10-06T01:41:10+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CHRI ETF란? S&P 500에서 빼고 섹터를 되돌리는 구조, VOO·RSP와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/655"
+}
