@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-07T00:33:00+09:00",
+    "datePublished": "2026-10-07T00:32:23+09:00",
+    "description": "JPSE는 미국 소형주를 담되, 비중을 고르게 나누는 것이 아니라 위험을 고르게 나누는 ETF입니다. 지수는 섹터별 과거 변동성을 반영해 비중을 조정하고, 그 안에서 가치·모멘텀·퀄리티 세 가지 특성으로 종목을 고릅니다. 팩터를 만든 곳은 운용사이고 지수를 관리하는 곳은 별도 기관입니다. 아래는 SEC 제출 문서 원문과 운용사 공개 자료를 2026년 10월 7일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·섹터 비중은 신뢰성 관리를 위해 기재하지 않습니다.JPSE는 어떤 ETF인가요?[사실] 정식 명칭은 JPMorgan Diversified Return U.S. Small Cap Equity ETF이며 2016년 설정됐습니다. 기초지수는 JP Morgan D..",
+    "headline": "JPSE ETF란? 금액이 아니라 위험을 고르게 나누는 구조, IWM·동일가중과 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/658",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/658"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/658/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/658/#etf-jpse"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-07",
+        "datePublished": "2026-10-07",
+        "description": "JPSE는 러셀2000에서 가치·모멘텀·퀄리티로 종목을 고르고, 섹터별 과거 변동성을 반영해 비중을 조정합니다. 금액이 아니라 위험을 고르게 나누는 설계와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "JPSE ETF란? 금액이 아니라 위험을 고르게 나누는 구조, IWM·동일가중과 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/658",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/658"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/658/#etf-jpse",
+        "@type": "Thing",
+        "alternateName": "JPSE",
+        "description": "JP Morgan Diversified Factor US Small Cap Equity Index를 추종하는 미국 상장 ETF. 러셀2000 구성종목 중 가치·모멘텀·퀄리티 세 특성을 동일 입력 비중으로 반영해 종목을 선정하고, 섹터별 과거 변동성을 반영해 비중을 조정함으로써 섹터와 개별 종목에 위험을 고르게 분배하도록 설계됐다. 팩터는 운용사가 개발했고 지수 관리·산출은 FTSE International Limited가 담당한다. 2016년 설정.",
+        "name": "JPMorgan Diversified Return U.S. Small Cap Equity ETF"
+      }
+    ]
+  }
+]

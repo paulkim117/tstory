@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-07T03:54:00+09:00",
+    "datePublished": "2026-10-07T03:53:09+09:00",
+    "description": "SPHB는 S&P 500 안에서 시장이 움직일 때 가장 크게 흔들린 100종목만 골라 담는 ETF입니다. 대부분의 규칙 기반 지수가 위험을 줄이거나 관리하려는 방향으로 설계되는 것과 달리, 이 지수는 변동이 큰 종목을 일부러 골라 그 성격을 더 키웁니다. 뽑는 기준도 베타이고 비중을 정하는 기준도 베타입니다. 아래는 운용사 공식 자료와 요약설명서 문구를 2026년 10월 7일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·보유 종목 수·밸류에이션 지표는 신뢰성 관리를 위해 기재하지 않습니다.SPHB는 어떤 ETF인가요?[사실] 정식 명칭은 Invesco S&P 500 High Beta ETF이며 NYSE Arca에 상장돼 있습니다. 기초지수는 S&P 500 High Bet..",
+    "headline": "SPHB ETF란? 변동이 큰 종목을 일부러 고르는 구조, 저변동·레버리지와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/661",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/661"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/661/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/661/#etf-sphb"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-07",
+        "datePublished": "2026-10-07",
+        "description": "SPHB는 S&P 500 중 과거 12개월 베타 상위 100종목을 담고 비중도 베타로 정합니다. 위험을 줄이는 설계가 아니라 집중시키는 설계이며, 레버리지와 증폭 방식이 다릅니다. 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "SPHB ETF란? 변동이 큰 종목을 일부러 고르는 구조, 저변동·레버리지와 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/661",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/661"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/661/#etf-sphb",
+        "@type": "Thing",
+        "alternateName": "SPHB",
+        "description": "S&P 500 High Beta Index를 추종하는 미국 상장 ETF. S&P 500 구성종목 중 과거 12개월 시장 민감도가 가장 높은 100종목을 선정하고 베타를 기준으로 비중을 부여한다. 재구성·리밸런싱은 2월, 5월, 8월, 11월에 이뤄지며 총자산의 90% 이상을 지수 구성 종목에 투자한다. NYSE Arca 상장.",
+        "name": "Invesco S&P 500 High Beta ETF"
+      }
+    ]
+  }
+]

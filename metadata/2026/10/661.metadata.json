@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-06",
+  "body_html_length": 9003,
+  "canonical_url": "https://mystock-note.tistory.com/661",
+  "content_hash": "0b4fdd4e2ea302544b16a0d4517ed7fa863a3eaa249b059da84e72380429d4cf",
+  "json_ld_count": 2,
+  "meta_description": "SPHB는 S&P 500 안에서 시장이 움직일 때 가장 크게 흔들린 100종목만 골라 담는 ETF입니다. 대부분의 규칙 기반 지수가 위험을 줄이거나 관리하려는 방향으로 설계되는 것과 달리, 이 지수는 변동이 큰 종목을 일부러 골라 그 성격을 더 키웁니다. 뽑는 기준도 베타이고 비중을 정하는 기준도 베타입니다. 아래는 운용사 공식 자료와 요약설명서 문구를 2026년 10월 7일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·보유 종목 수·밸류에이션 지표는 신뢰성 관리를 위해 기재하지 않습니다.SPHB는 어떤 ETF인가요?[사실] 정식 명칭은 Invesco S&P 500 High Beta ETF이며 NYSE Arca에 상장돼 있습니다. 기초지수는 S&P 500 High Bet..",
+  "modified_time": "2026-10-07T03:54:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SPHB는 S&P 500 안에서 시장이 움직일 때 가장 크게 흔들린 100종목만 골라 담는 ETF입니다. 대부분의 규칙 기반 지수가 위험을 줄이거나 관리하려는 방향으로 설계되는 것과 달리, 이 지수는 변동이 큰 종목을 일부러 골라 그 성격을 더 키웁니다. 뽑는 기준도 베타이고 비중을 정하는 기준도 베타입니다. 아래는 운용사 공식 자료와 요약설명서 문구를 2026년 10월 7일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·보유 종목 수·밸류에이션 지표는 신뢰성 관리를 위해 기재하지 않습니다.SPHB는 어떤 ETF인가요?[사실] 정식 명칭은 Invesco S&P 500 High Beta ETF이며 NYSE Arca에 상장돼 있습니다. 기초지수는 S&P 500 High Bet..",
+  "og_title": "SPHB ETF란? 변동이 큰 종목을 일부러 고르는 구조, 저변동·레버리지와 무엇이 다른가",
+  "post_id": "661",
+  "published_time": "2026-10-07T03:53:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPHB ETF란? 변동이 큰 종목을 일부러 고르는 구조, 저변동·레버리지와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/661"
+}

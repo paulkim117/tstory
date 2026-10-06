@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-07T02:34:00+09:00",
+    "datePublished": "2026-10-07T02:33:44+09:00",
+    "description": "SMHX는 반도체 기업 중에서 공장을 갖지 않은 회사만 담는 ETF입니다. 칩을 설계하되 생산은 다른 회사에 맡기는 기업, 이른바 팹리스가 대상입니다. 반도체 밸류체인 전체를 담는 상품에서 한 단계만 떼어 낸 구조입니다. 다만 공장을 갖지 않는다는 것이 공장에서 오는 위험에서 벗어난다는 뜻은 아닙니다. 아래는 SEC 요약설명서(2024년 8월 20일자)와 운용사 공식 자료를 2026년 10월 7일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·보유 종목 수·상위 비중은 신뢰성 관리를 위해 기재하지 않습니다.SMHX는 어떤 ETF인가요?[사실] 정식 명칭은 VanEck Fabless Semiconductor ETF이며 2024년 8월 27일 나스닥에 상장됐습니다. 기초지수는..",
+    "headline": "SMHX ETF란? 공장 없는 반도체 기업만 담는 구조, 기존 반도체 ETF와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/660",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/660"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/660/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/660/#etf-smhx"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-07",
+        "datePublished": "2026-10-07",
+        "description": "SMHX는 반도체 기업 중 설계만 하고 생산은 외주하는 팹리스만 담습니다. 파운드리와 종합반도체는 제외되며, 공장을 소유하지 않아도 생산 위탁 의존은 남습니다. 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "SMHX ETF란? 공장 없는 반도체 기업만 담는 구조, 기존 반도체 ETF와 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/660",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/660"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/660/#etf-smhx",
+        "@type": "Thing",
+        "alternateName": "SMHX",
+        "description": "MarketVector US Listed Fabless Semiconductor Index를 추종하는 미국 상장 ETF. 미국에 상장된 보통주 중 반도체 산업에서 매출의 50% 이상을 얻고 팹리스로 운영되는 기업만 담으며, 파운드리와 종합반도체는 제외된다. 지수는 운용사 계열 자회사가 소유하고 산출은 외부에 위탁된다. 2024년 8월 27일 NASDAQ 상장, 비다각화.",
+        "name": "VanEck Fabless Semiconductor ETF"
+      }
+    ]
+  }
+]
