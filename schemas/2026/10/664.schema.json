@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-08T02:16:02+09:00",
+    "datePublished": "2026-10-08T02:15:21+09:00",
+    "description": "LQDI는 투자등급 회사채를 담으면서 물가 위험만 따로 떼어 내려는 ETF입니다. 다만 이름만 보고 '물가가 오르면 이기는 상품'으로 읽으면 어긋납니다. 제출 문서가 밝히는 손익 구조는 실제 물가가 시장이 이미 예상한 수준보다 더 올라야 이 상품이 앞선다는 것입니다. 물가가 올랐어도 예상만큼 오르지 못했다면 손실이 납니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성 비중은 신뢰성 관리를 위해 기재하지 않습니다.LQDI는 어떤 ETF인가요?[사실] 정식 명칭은 iShares Inflation Hedged Corporate Bond ETF이며 2018년 5월 8일 설정돼 뉴욕증권거래소에서 거래..",
+    "headline": "LQDI ETF란? 물가가 올라도 질 수 있는 구조, 물가연동국채와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/664",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/664"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/664/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/664/#etf-lqdi"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-08",
+        "datePublished": "2026-10-08",
+        "description": "LQDI는 투자등급 회사채 ETF 위에 인플레이션 스왑을 얹은 상품입니다. 손익 기준은 실제 물가가 아니라 실제 물가와 기대 물가의 차이입니다. 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "LQDI ETF란? 물가가 올라도 질 수 있는 구조, 물가연동국채와 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/664",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/664"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/664/#etf-lqdi",
+        "@type": "Thing",
+        "alternateName": "LQDI",
+        "description": "BlackRock Inflation Hedged Corporate Bond Index를 추종하는 미국 상장 ETF. 기초지수는 약 열한 개 요소로 구성되며, 투자등급 회사채 노출은 기존 iShares 회사채 ETF 한 종목이 대표하고 그 위에 만기가 서로 다른 인플레이션 스왑이 최대 열 개까지 얹힌다. 스왑은 소비자물가지수에 연동되며 실제 물가가 기대 물가보다 낮으면 손실이 발생한다. 2018년 5월 8일 설정, NYSE 상장.",
+        "name": "iShares Inflation Hedged Corporate Bond ETF"
+      }
+    ]
+  }
+]

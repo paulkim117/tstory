@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-08T03:16:00+09:00",
+    "datePublished": "2026-10-08T03:15:38+09:00",
+    "description": "SHE는 미국 대형·중형주 가운데 조직 안의 성별 구성과 관련 정책을 기준으로 종목을 고르고 비중을 정하는 ETF입니다. 이 글은 그 기준이 옳은지를 따지는 글이 아니라, 지수가 무엇을 어떻게 재는지를 규칙 수준에서 정리하는 글입니다. 특히 이 상품은 과거에 세는 방식이 지금과 달랐습니다. 예전에는 비율 세 개만 셌고 지금은 점수 체계를 씁니다. 아래는 SEC 요약설명서(2025년 10월 31일자)와 과거 제출 문서를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수는 신뢰성 관리를 위해 기재하지 않습니다.SHE는 어떤 ETF인가요?[사실] 현재 정식 명칭은 State Street SPDR MSCI USA Gender Diversity ET..",
+    "headline": "SHE ETF란? 세는 방식이 바뀐 지수, 비율에서 점수 체계로 옮겨 간 구조 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/665",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/665"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/665/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/665/#etf-she"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-08",
+        "datePublished": "2026-10-08",
+        "description": "SHE는 조직 내 성별 구성과 관련 정책을 기준으로 종목을 고르고 비중을 정합니다. 과거에는 임원·이사 비율 세 가지만 썼으나 현재는 점수 체계를 씁니다. 지수 변경 이력과 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "SHE ETF란? 세는 방식이 바뀐 지수, 비율에서 점수 체계로 옮겨 간 구조 정리",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/665",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/665"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/665/#etf-she",
+        "@type": "Thing",
+        "alternateName": "SHE",
+        "description": "MSCI USA Gender Diversity Select Index를 추종하는 미국 상장 ETF. MSCI USA Index를 모집단으로 하며 이사회, 임원·고위 경영진, 전체 인력 세 층위의 성별 구성과 관련 정책·프로그램을 평가해 종목을 선정하고, 시가총액과 Gender Diversity Score를 함께 반영해 비중을 정한다. 과거 명칭은 SPDR SSGA Gender Diversity Index ETF이며 당시에는 운용사 계열 자체 지수를 따랐다.",
+        "name": "State Street SPDR MSCI USA Gender Diversity ETF"
+      }
+    ]
+  }
+]

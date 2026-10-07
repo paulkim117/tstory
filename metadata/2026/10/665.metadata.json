@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-07",
+  "body_html_length": 8271,
+  "canonical_url": "https://mystock-note.tistory.com/665",
+  "content_hash": "e90eb1083e17c088d5bcbd62b4b77e56c5bbb8d2b66ae8428586c0b23ce477f3",
+  "json_ld_count": 2,
+  "meta_description": "SHE는 미국 대형·중형주 가운데 조직 안의 성별 구성과 관련 정책을 기준으로 종목을 고르고 비중을 정하는 ETF입니다. 이 글은 그 기준이 옳은지를 따지는 글이 아니라, 지수가 무엇을 어떻게 재는지를 규칙 수준에서 정리하는 글입니다. 특히 이 상품은 과거에 세는 방식이 지금과 달랐습니다. 예전에는 비율 세 개만 셌고 지금은 점수 체계를 씁니다. 아래는 SEC 요약설명서(2025년 10월 31일자)와 과거 제출 문서를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수는 신뢰성 관리를 위해 기재하지 않습니다.SHE는 어떤 ETF인가요?[사실] 현재 정식 명칭은 State Street SPDR MSCI USA Gender Diversity ET..",
+  "modified_time": "2026-10-08T03:16:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SHE는 미국 대형·중형주 가운데 조직 안의 성별 구성과 관련 정책을 기준으로 종목을 고르고 비중을 정하는 ETF입니다. 이 글은 그 기준이 옳은지를 따지는 글이 아니라, 지수가 무엇을 어떻게 재는지를 규칙 수준에서 정리하는 글입니다. 특히 이 상품은 과거에 세는 방식이 지금과 달랐습니다. 예전에는 비율 세 개만 셌고 지금은 점수 체계를 씁니다. 아래는 SEC 요약설명서(2025년 10월 31일자)와 과거 제출 문서를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수는 신뢰성 관리를 위해 기재하지 않습니다.SHE는 어떤 ETF인가요?[사실] 현재 정식 명칭은 State Street SPDR MSCI USA Gender Diversity ET..",
+  "og_title": "SHE ETF란? 세는 방식이 바뀐 지수, 비율에서 점수 체계로 옮겨 간 구조 정리",
+  "post_id": "665",
+  "published_time": "2026-10-08T03:15:38+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SHE ETF란? 세는 방식이 바뀐 지수, 비율에서 점수 체계로 옮겨 간 구조 정리",
+  "url": "https://mystock-note.tistory.com/665"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-07",
+  "body_html_length": 10319,
+  "canonical_url": "https://mystock-note.tistory.com/662",
+  "content_hash": "f6c59093665feb11d34ed726bd7367b0ec2ddc3d9b01ec7d877441dca319c78c",
+  "json_ld_count": 2,
+  "meta_description": "피델리티는 미국 주식 ETF를 두 계열로 나눠 팔고 있습니다. 이름에 Enhanced가 붙은 것과 Fundamental이 붙은 것입니다. 규모와 스타일 칸은 똑같습니다. 대형 코어, 대형 성장, 대형 가치가 양쪽에 다 있습니다. 그렇다면 무엇이 다른가. 결론부터 말하면 종목을 고르는 순서가 반대입니다. 한쪽은 기계가 먼저 돌고, 다른 쪽은 사람이 먼저 봅니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·회전율은 신뢰성 관리를 위해 기재하지 않습니다.두 계열은 무엇이 다른가요?[사실] SEC 제출 문서에 기재된 각 계열의 운용 방식을 정리하면 다음과 같습니다.구분Enhanced 계열F..",
+  "modified_time": "2026-10-08T00:54:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "피델리티는 미국 주식 ETF를 두 계열로 나눠 팔고 있습니다. 이름에 Enhanced가 붙은 것과 Fundamental이 붙은 것입니다. 규모와 스타일 칸은 똑같습니다. 대형 코어, 대형 성장, 대형 가치가 양쪽에 다 있습니다. 그렇다면 무엇이 다른가. 결론부터 말하면 종목을 고르는 순서가 반대입니다. 한쪽은 기계가 먼저 돌고, 다른 쪽은 사람이 먼저 봅니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·회전율은 신뢰성 관리를 위해 기재하지 않습니다.두 계열은 무엇이 다른가요?[사실] SEC 제출 문서에 기재된 각 계열의 운용 방식을 정리하면 다음과 같습니다.구분Enhanced 계열F..",
+  "og_title": "피델리티 Enhanced vs Fundamental ETF 비교: FELC·FFLC 차이와 선택 기준",
+  "post_id": "662",
+  "published_time": "2026-10-08T00:53:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "피델리티 Enhanced vs Fundamental ETF 비교: FELC·FFLC 차이와 선택 기준",
+  "url": "https://mystock-note.tistory.com/662"
+}

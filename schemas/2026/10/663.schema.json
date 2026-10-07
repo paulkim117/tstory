@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-08T01:55:00+09:00",
+    "datePublished": "2026-10-08T01:54:01+09:00",
+    "description": "FTCE는 기업이 발표한 이익을 그대로 쓰지 않는 ETF입니다. 기초지수는 재무제표와 각주를 다시 뒤져 일회성 손익을 걷어 낸 뒤, 남은 '핵심 이익'이 발표 이익 대비 얼마나 되는지를 기준으로 종목을 고릅니다. 대부분의 지수가 공시된 숫자를 입력값으로 받아 쓰는 것과 달리, 이 지수는 입력값 자체를 다시 만듭니다. 아래는 운용사 상장 보도자료와 공개된 지수 규칙을 2026년 10월 8일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.FTCE는 어떤 ETF인가요?[사실] 정식 명칭은 First Trust New Constructs Core Earnings Leaders ETF이며 2024년 10월 2일 NYSE Arca..",
+    "headline": "FTCE ETF란? 발표 이익을 다시 계산해 고르는 구조, 퀄리티 팩터와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/663",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/663"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/663/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/663/#etf-ftce"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-08",
+        "datePublished": "2026-10-08",
+        "description": "FTCE는 공시된 이익을 그대로 쓰지 않고 일회성 손익을 걷어 낸 핵심 이익을 산출해 종목을 고릅니다. 이익의 크기가 아니라 반복성 비율을 보는 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "FTCE ETF란? 발표 이익을 다시 계산해 고르는 구조, 퀄리티 팩터와 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/663",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/663"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/663/#etf-ftce",
+        "@type": "Thing",
+        "alternateName": "FTCE",
+        "description": "Bloomberg New Constructs Core Earnings Leaders Index를 추종하는 미국 상장 ETF. Bloomberg 1000 Index를 모집단으로 하며, New Constructs가 기업 공시를 재분류해 산출한 핵심 이익을 바탕으로 이익의 질을 나타내는 Earnings Capture 지표 상위 100종목을 선정한다. 시가총액 가중에 개별 종목 상한과 섹터 비중 조정이 적용되고 분기마다 리밸런싱한다. 2024년 10월 2일 NYSE Arca 상장.",
+        "name": "First Trust New Constructs Core Earnings Leaders ETF"
+      }
+    ]
+  }
+]
