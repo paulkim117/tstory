@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-09T01:37:00+09:00",
+    "datePublished": "2026-10-09T01:36:13+09:00",
+    "description": "TUR는 이스탄불 증권거래소에 상장된 터키 주식을 담는 ETF입니다. 그런데 이 상품을 볼 때 먼저 알아야 할 것은 터키가 아니라 지수가 숫자를 만드는 방식입니다. 이 펀드가 따라가는 지수는 배당에서 세금을 뺀 뒤의 값으로 산출되고, 그때 적용하는 세율은 조세조약 혜택을 전혀 받지 못하는 투자자 기준의 최고세율입니다. 즉 지수에 표시된 수익률은 처음부터 세후 숫자이며, 그것도 가장 불리한 가정을 쓴 값입니다. 아래는 SEC 제출 문서 원문과 운용사 공식 자료를 2026년 10월 9일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·수익률은 신뢰성 관리를 위해 기재하지 않습니다.TUR은 어떤 ETF인가요?[사실] 정식 명칭은 iShares MSCI Turkey E..",
+    "headline": "TUR ETF란? 지수 수익률이 이미 세금을 뺀 값인 이유와 단일국 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/667",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/667"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/667/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/667/#etf-tur"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-09",
+        "datePublished": "2026-10-09",
+        "description": "TUR이 따라가는 지수는 순배당 기준으로 산출돼 배당에서 세금을 뺀 값이 반영됩니다. 그것도 조세조약 혜택이 없는 최고세율 가정입니다. 지수 산출 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "TUR ETF란? 지수 수익률이 이미 세금을 뺀 값인 이유와 단일국 확인 기준",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/667",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/667"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/667/#etf-tur",
+        "@type": "Thing",
+        "alternateName": "TUR",
+        "description": "MSCI Turkey IMI 25/50 Index를 추종하는 미국 상장 ETF. 주로 이스탄불 증권거래소에 상장된 대형·중형·소형 주식을 유동주식 시가총액 가중으로 담으며, 단일 발행자 25% 상한과 5% 초과 발행자 합계 50% 상한이 적용된다. 기초지수는 순배당 재투자 기준으로 산출되며, 조세조약 혜택을 받지 못하는 비거주 기관투자자에게 적용되는 최고세율로 원천징수한 뒤의 배당을 반영한다. 2008년 3월 26일 상장, 비다각화.",
+        "name": "iShares MSCI Turkey ETF"
+      }
+    ]
+  }
+]

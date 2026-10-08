@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-09T00:36:00+09:00",
+    "datePublished": "2026-10-09T00:35:54+09:00",
+    "description": "스테이트스트리트는 연도별로 하나씩, 여섯 개의 미국 지방채 ETF를 팔고 있습니다. My2026부터 My2031까지입니다. 각 상품은 그 해에 만기가 돌아오는 지방채를 담고, 해당 연도 12월 15일경 남은 원금을 나눠 준 뒤 청산됩니다. 상품 하나하나가 완결된 투자 대상이 아니라 사다리를 짜는 부품입니다. 다만 한국 투자자에게는 먼저 확인할 것이 있습니다. 이 상품군이 내건 목표는 미국 연방 소득세가 면제되는 수익을 키우는 것이고, 그 혜택은 한국 거주자에게 적용되지 않습니다. 아래는 운용사 공식 자료와 상장 보도자료를 2026년 10월 9일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수는 신뢰성 관리를 위해 기재하지 않습니다.여섯 개가 한 세트입니다[사실]..",
+    "headline": "My2026~My2031 지방채 ETF 비교: MYMF·MYMK 목표 만기 구조와 한국 투자자 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/666",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/666"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/666/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/666/#etf-myincome-muni"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-09",
+        "datePublished": "2026-10-09",
+        "description": "스테이트스트리트 My20XX 지방채 ETF 여섯 종은 연도별로 청산되는 목표 만기 상품입니다. 목표가 미국 연방세 면제 수익이라 한국 투자자에게는 낮은 금리만 남습니다. 구조와 선택 기준을 정리합니다.",
+        "headline": "My2026~My2031 지방채 ETF 비교: MYMF·MYMK 목표 만기 구조와 한국 투자자 기준",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/666",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/666"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/666/#etf-myincome-muni",
+        "@type": "Thing",
+        "alternateName": "MYMF · MYMG · MYMH · MYMI · MYMJ · MYMK",
+        "description": "스테이트스트리트 MyIncome 라인에 속하는 미국 상장 지방채 목표 만기 ETF 여섯 종. My2026부터 My2031까지 연도별로 배치돼 있으며 각 상품은 해당 연도 12월 15일경 남은 원금을 분배하고 청산한다. 여섯 종 모두 액티브 운용이며 정규 연방 소득세가 면제되는 경상 수익의 극대화를 목표로 한다. 투자자가 직접 채권 사다리를 구성하는 부품으로 설계됐다.",
+        "name": "State Street My20XX Municipal Bond ETF 시리즈"
+      }
+    ]
+  }
+]

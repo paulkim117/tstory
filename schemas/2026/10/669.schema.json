@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-09T03:38:00+09:00",
+    "datePublished": "2026-10-09T03:37:48+09:00",
+    "description": "EPP는 이름에 '태평양'이 들어가지만 실제로 담는 나라는 네 곳뿐입니다. 호주, 홍콩, 뉴질랜드, 싱가포르입니다. 태평양에 접한 나라는 수십 곳이고 미국도 그중 하나인데 이 상품에는 들어가지 않습니다. 지역명이 지리를 가리키는 것이 아니라 지수 제공자가 정한 분류 구획을 가리키기 때문입니다. 여기에 하나가 더 있습니다. 이 지역에서 가장 큰 시장인 일본이 이름에서부터 빠져 있습니다. 아래는 SEC 제출 문서와 운용사 공식 자료를 2026년 10월 9일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·국가별 비중은 신뢰성 관리를 위해 기재하지 않습니다.EPP는 어떤 ETF인가요?[사실] 정식 명칭은 iShares MSCI Pacific ex Japan ETF이며..",
+    "headline": "EPP ETF란? '태평양'에 네 곳뿐인 이유와 일본을 뺀 구조, 지역 조합 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/669",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/669"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/669/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/669/#etf-epp"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-09",
+        "datePublished": "2026-10-09",
+        "description": "EPP는 이름에 태평양이 들어가지만 담는 곳은 호주·홍콩·뉴질랜드·싱가포르 네 곳뿐입니다. 지역명이 지리가 아니라 지수 제공자의 분류를 뜻하기 때문입니다. 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "EPP ETF란? '태평양'에 네 곳뿐인 이유와 일본을 뺀 구조, 지역 조합 기준",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/669",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/669"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/669/#etf-epp",
+        "@type": "Thing",
+        "alternateName": "EPP",
+        "description": "MSCI Pacific ex Japan Index를 추종하는 미국 상장 ETF. 태평양 지역 선진시장 주식 중 일본을 제외한 호주, 홍콩, 뉴질랜드, 싱가포르 네 곳의 대형·중형주로 구성된다. 지역명은 지리적 범위가 아니라 지수 제공자의 시장 분류 구획을 뜻하며, 미국·캐나다는 다른 지역으로 분류되고 한국·대만·중국은 선진시장이 아니어서 제외된다. 2001년 10월 25일 설정, 비다각화.",
+        "name": "iShares MSCI Pacific ex Japan ETF"
+      }
+    ]
+  }
+]

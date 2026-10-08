@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-09T02:38:01+09:00",
+    "datePublished": "2026-10-09T02:37:26+09:00",
+    "description": "QVMT는 S&P 500에서 퀄리티·가치·모멘텀 점수가 가장 높은 100종목만 골라 담는 ETF입니다. 그런데 같은 발행사가 똑같은 세 팩터로 만든 또 하나의 상품을 함께 팔고 있고, 그쪽은 정반대로 움직입니다. 좋은 것을 고르는 대신 나쁜 하위 10%만 걸러 내고 나머지를 전부 담습니다. 같은 재료로 만든 두 지수가 반대 방향으로 간 셈입니다. 여기에 하나 더 있습니다. 이 상품은 2026년 2월까지 다른 티커, 다른 이름, 다른 지수였습니다. 아래는 SEC 제출 문서와 운용사 공식 자료를 2026년 10월 9일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·섹터 비중은 신뢰성 관리를 위해 기재하지 않습니다.QVMT는 어떤 ETF인가요?[사실] 정식 명칭은 ..",
+    "headline": "QVMT ETF란? 같은 팩터로 만든 정반대 지수, 상위 100을 고르는 구조와 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/668",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/668"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/668/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/668/#etf-qvmt"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-09",
+        "datePublished": "2026-10-09",
+        "description": "QVMT는 S&P 500에서 퀄리티·가치·모멘텀 점수 상위 100종목만 담습니다. 같은 팩터로 만든 다른 판본은 하위 10%만 제외합니다. 2026년 2월 티커·지수 전환 이력과 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "QVMT ETF란? 같은 팩터로 만든 정반대 지수, 상위 100을 고르는 구조와 확인 기준",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/668",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/668"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/668/#etf-qvmt",
+        "@type": "Thing",
+        "alternateName": "QVMT",
+        "description": "S&P 500 Quality, Value & Momentum Multi-factor Index를 추종하는 미국 상장 ETF. S&P 500 구성종목 중 퀄리티·가치·모멘텀 복합 점수가 가장 높은 100종목을 선정해 담으며, 총자산의 90% 이상을 지수 구성 종목에 투자한다. 같은 계열의 Top 90% 판본은 하위 점수 종목만 제외하는 반대 방식이다. 2026년 2월 23일 이전에는 티커 SPVU, 명칭 Invesco S&P 500 Enhanced Value ETF로 가치 단일 팩터 지수를 추종했다. 리밸런싱은 6월과 12월 연 2회, 비다각화.",
+        "name": "Invesco S&P 500 Concentrated QVM ETF"
+      }
+    ]
+  }
+]
