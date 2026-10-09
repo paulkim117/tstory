@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-09",
+  "body_html_length": 7909,
+  "canonical_url": "https://mystock-note.tistory.com/673",
+  "content_hash": "0b8426070323cb9fb8ac330c89c47a8beed4d83d8bc3a133a1c8a21b81f60a5d",
+  "json_ld_count": 2,
+  "meta_description": "FTXO는 미국 은행 주식을 담는 ETF입니다. 그런데 어떤 은행을 담을지 정할 때 은행의 재무 상태를 거의 보지 않습니다. SEC 제출 문서는 이 지수가 세 가지 '가격 요인(price factors)'으로 종목을 고른다고 적고 있습니다. 성장은 주가가 얼마나 올랐는지로, 가치는 현금흐름 대비 주가로, 안정성은 과거 주가가 얼마나 흔들렸는지로 잽니다. 자본비율도, 부실채권 비율도, 순이자마진도 규칙에 들어가지 않습니다. 아래는 SEC 제출 문서 원문과 운용사 자료를 2026년 10월 10일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.FTXO는 어떤 ETF인가요?[사실] 정식 명칭은 First Trust Nasdaq..",
+  "modified_time": "2026-10-10T03:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FTXO는 미국 은행 주식을 담는 ETF입니다. 그런데 어떤 은행을 담을지 정할 때 은행의 재무 상태를 거의 보지 않습니다. SEC 제출 문서는 이 지수가 세 가지 '가격 요인(price factors)'으로 종목을 고른다고 적고 있습니다. 성장은 주가가 얼마나 올랐는지로, 가치는 현금흐름 대비 주가로, 안정성은 과거 주가가 얼마나 흔들렸는지로 잽니다. 자본비율도, 부실채권 비율도, 순이자마진도 규칙에 들어가지 않습니다. 아래는 SEC 제출 문서 원문과 운용사 자료를 2026년 10월 10일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.FTXO는 어떤 ETF인가요?[사실] 정식 명칭은 First Trust Nasdaq..",
+  "og_title": "FTXO ETF란? 은행을 고르는데 재무제표가 아니라 주가만 보는 구조",
+  "post_id": "673",
+  "published_time": "2026-10-10T03:40:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FTXO ETF란? 은행을 고르는데 재무제표가 아니라 주가만 보는 구조",
+  "url": "https://mystock-note.tistory.com/673"
+}

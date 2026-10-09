@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-10T01:39:00+09:00",
+    "datePublished": "2026-10-10T01:38:26+09:00",
+    "description": "IYG와 IYF는 같은 발행사가 파는 미국 금융 섹터 ETF입니다. 이름은 'Financial Services'와 'Financials'로 한 단어 차이입니다. 그런데 두 상품은 서로 다른 회사가 만든 지수를 따라갑니다. 원래는 둘 다 같은 지수사를 썼는데, 한쪽만 2021년에 갈아탔기 때문입니다. 상품명으로는 그 사실이 전혀 드러나지 않습니다. 아래는 운용사 공식 자료와 지수 정보를 2026년 10월 10일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·비중은 신뢰성 관리를 위해 기재하지 않습니다.두 상품은 무엇이 다른가요?[사실] 운용사 자료와 지수 정보를 대조하면 다음과 같습니다.구분IYGIYF상품명U.S. Financial Services ETFU.S...",
+    "headline": "IYG ETF란? IYF와 이름은 한 단어 차이인데 지수사가 다른 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/671",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/671"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/671/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/671/#etf-iyg"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-10",
+        "datePublished": "2026-10-10",
+        "description": "IYG와 IYF는 같은 발행사의 미국 금융 섹터 ETF이지만 서로 다른 지수사의 지수를 따릅니다. IYF만 2021년에 지수를 전환했기 때문입니다. 두 상품의 구조 차이와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "IYG ETF란? IYF와 이름은 한 단어 차이인데 지수사가 다른 이유",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/671",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/671"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/671/#etf-iyg",
+        "@type": "Thing",
+        "alternateName": "IYG",
+        "description": "Dow Jones U.S. Financial Services Index를 추종하는 미국 상장 금융 섹터 ETF. 같은 발행사의 iShares U.S. Financials ETF(IYF)와 이름이 한 단어 차이이나, IYF는 2021년 9월 20일 Russell 1000 Financials 40 Act 15/22.5 Daily Capped Index로 지수를 전환해 현재 두 상품은 서로 다른 지수 제공사의 산업 분류 체계를 따른다. Financials가 섹터 전체를, Financial Services가 그 하위 묶음을 가리킨다.",
+        "name": "iShares U.S. Financial Services ETF"
+      }
+    ]
+  }
+]

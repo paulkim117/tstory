@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-10T03:41:00+09:00",
+    "datePublished": "2026-10-10T03:40:01+09:00",
+    "description": "FTXO는 미국 은행 주식을 담는 ETF입니다. 그런데 어떤 은행을 담을지 정할 때 은행의 재무 상태를 거의 보지 않습니다. SEC 제출 문서는 이 지수가 세 가지 '가격 요인(price factors)'으로 종목을 고른다고 적고 있습니다. 성장은 주가가 얼마나 올랐는지로, 가치는 현금흐름 대비 주가로, 안정성은 과거 주가가 얼마나 흔들렸는지로 잽니다. 자본비율도, 부실채권 비율도, 순이자마진도 규칙에 들어가지 않습니다. 아래는 SEC 제출 문서 원문과 운용사 자료를 2026년 10월 10일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 비중은 신뢰성 관리를 위해 기재하지 않습니다.FTXO는 어떤 ETF인가요?[사실] 정식 명칭은 First Trust Nasdaq..",
+    "headline": "FTXO ETF란? 은행을 고르는데 재무제표가 아니라 주가만 보는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/673",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/673"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/673/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/673/#etf-ftxo"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-10",
+        "datePublished": "2026-10-10",
+        "description": "FTXO의 기초지수는 세 가지 가격 요인으로 은행을 선정합니다. 성장은 매출이 아니라 주가 상승을 뜻하고, 자본비율이나 부실여신 같은 은행 지표는 규칙에 없습니다. 구조와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "FTXO ETF란? 은행을 고르는데 재무제표가 아니라 주가만 보는 구조",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/673",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/673"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/673/#etf-ftxo",
+        "@type": "Thing",
+        "alternateName": "FTXO",
+        "description": "NASDAQ US Benchmark Index를 모집단으로 은행 주식을 선별하는 미국 상장 ETF. SEC 제출 문서는 선정 기준을 세 가지 가격 요인으로 명시하며, 성장은 3·6·9·12개월 평균 주가 수익률, 가치는 현금흐름 대비 주가, 나머지는 과거 주가 변동에 기반한 낮은 예상 변동성이다. 자본비율이나 부실여신 비율 같은 은행 특유의 지표는 선정 규칙에 포함되지 않으며, 시가총액이 아닌 팩터 점수로 가중한다. 2016년 9월 20일 NASDAQ 상장.",
+        "name": "First Trust Nasdaq Bank ETF"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-10T02:40:00+09:00",
+    "datePublished": "2026-10-10T02:39:26+09:00",
+    "description": "BNDP는 이름에 'Core-Plus'와 'Index'가 함께 들어간 채권 ETF입니다. 그런데 Core-Plus는 원래 운용역이 판단해 굴리는 액티브 전략의 이름입니다. 코어(투자등급)에 하이일드와 신흥국 채권을 얼마나 얹을지 사람이 정하는 방식입니다. 이 상품은 그 판단을 없애고 시장 규모대로 담습니다. 같은 운용사가 같은 이름으로 액티브 상품도 따로 팔고 있어, 이름만 보고는 구분되지 않습니다. 아래는 운용사 공식 자료와 상장 보도자료를 2026년 10월 10일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·분배율·구성종목 수·비중은 신뢰성 관리를 위해 기재하지 않습니다.BNDP는 어떤 ETF인가요?[사실] 정식 명칭은 Vanguard Core-Plus Bond Index ..",
+    "headline": "BNDP ETF란? 액티브 전략 이름을 단 지수 상품, 종합채권과 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/672",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/672"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/672/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/672/#etf-bndp"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-10",
+        "datePublished": "2026-10-10",
+        "description": "BNDP는 Core-Plus라는 액티브 전략 이름을 쓰지만 지수를 추종합니다. 하이일드·신흥국 비중을 운용역이 아니라 시장 규모가 정합니다. 종합채권 지수와의 차이와 한국 투자자 확인 기준을 정리합니다.",
+        "headline": "BNDP ETF란? 액티브 전략 이름을 단 지수 상품, 종합채권과 무엇이 다른가",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mainEntityOfPage": "https://mystock-note.tistory.com/672",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/672"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/672/#etf-bndp",
+        "@type": "Thing",
+        "alternateName": "BNDP",
+        "description": "Bloomberg U.S. Universal Float Adjusted Index를 추종하는 미국 상장 채권 ETF. 미국 국채, 투자등급 회사채, 유동화 채권에 더해 하이일드 회사채와 달러 표시 신흥국 채권까지 시장가치 가중으로 담는다. Core-Plus는 통상 운용역이 하이일드·신흥국 비중을 판단하는 액티브 전략 이름이나 이 상품은 그 비중을 지수에 맡긴다. 같은 운용사가 동일 명칭의 액티브 ETF와 뮤추얼펀드를 별도로 운용한다. 2025년 12월 4일 출시, 최적화 표본추출.",
+        "name": "Vanguard Core-Plus Bond Index ETF"
+      }
+    ]
+  }
+]
