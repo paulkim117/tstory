@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-10",
+  "body_html_length": 12444,
+  "canonical_url": "https://mystock-note.tistory.com/674",
+  "content_hash": "9442e040a603ff058ce250cebbc7c8684eb1d1fb1275255f3f90ce0c51da466e",
+  "json_ld_count": 2,
+  "meta_description": "THD는 태국 주식만 담는 iShares 단일국 상장지수펀드입니다. 다른 단일국 ETF와 결정적으로 다른 점은, 태국에서는 외국인이 같은 회사에 투자해도 보통주가 아니라 NVDR(무의결권 예탁증서)이라는 별도 증권을 받게 되는 경우가 있다는 것입니다. 그리고 이 구조 때문에 같은 회사가 지수에 두 줄로 들어가는 일이 생깁니다. 아래는 SEC 요약설명서(497K)와 MSCI 지수 방법론, 태국거래소(SET) NVDR 발행설명서를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.THD는 어떤 ETF인가요?[사실] THD의 정식 명칭은 iShares MSCI Thailand ETF입니다. SEC ..",
+  "modified_time": "2026-10-11T00:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "THD는 태국 주식만 담는 iShares 단일국 상장지수펀드입니다. 다른 단일국 ETF와 결정적으로 다른 점은, 태국에서는 외국인이 같은 회사에 투자해도 보통주가 아니라 NVDR(무의결권 예탁증서)이라는 별도 증권을 받게 되는 경우가 있다는 것입니다. 그리고 이 구조 때문에 같은 회사가 지수에 두 줄로 들어가는 일이 생깁니다. 아래는 SEC 요약설명서(497K)와 MSCI 지수 방법론, 태국거래소(SET) NVDR 발행설명서를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.THD는 어떤 ETF인가요?[사실] THD의 정식 명칭은 iShares MSCI Thailand ETF입니다. SEC ..",
+  "og_title": "THD ETF란? 태국 투자·NVDR 구조와 외국인 지분 한도, 세금 정리",
+  "post_id": "674",
+  "published_time": "2026-10-11T00:40:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "THD ETF란? 태국 투자·NVDR 구조와 외국인 지분 한도, 세금 정리",
+  "url": "https://mystock-note.tistory.com/674"
+}

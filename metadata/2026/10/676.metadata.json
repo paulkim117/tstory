@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-10",
+  "body_html_length": 12171,
+  "canonical_url": "https://mystock-note.tistory.com/676",
+  "content_hash": "88d4e932616a47b5dd9d33b7e370b478ca45cf842a3ba219486b019320732ae4",
+  "json_ld_count": 2,
+  "meta_description": "QABA는 미국 커뮤니티 뱅크(지역 밀착 은행)에 투자하는 First Trust 상장지수펀드입니다. 특이한 점은 이 상품이 담는 '커뮤니티 뱅크'가 어떤 조건을 갖춘 은행이라고 정의된 것이 아니라, 큰 은행 50개를 뺀 나머지라는 것입니다. 그리고 그 기준선을 정하는 데이터는 주가나 시가총액이 아니라 미국 예금보험공사(FDIC)가 집계하는 은행 보고 자료입니다. 아래는 Nasdaq 지수 방법론 원문과 미국은행협회(ABA) 공식 자료, 펀드 요약설명서를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.QABA는 어떤 ETF인가요?[사실] QABA의 정식 명칭은 First Trust NASDAQ..",
+  "modified_time": "2026-10-11T02:26:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QABA는 미국 커뮤니티 뱅크(지역 밀착 은행)에 투자하는 First Trust 상장지수펀드입니다. 특이한 점은 이 상품이 담는 '커뮤니티 뱅크'가 어떤 조건을 갖춘 은행이라고 정의된 것이 아니라, 큰 은행 50개를 뺀 나머지라는 것입니다. 그리고 그 기준선을 정하는 데이터는 주가나 시가총액이 아니라 미국 예금보험공사(FDIC)가 집계하는 은행 보고 자료입니다. 아래는 Nasdaq 지수 방법론 원문과 미국은행협회(ABA) 공식 자료, 펀드 요약설명서를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.QABA는 어떤 ETF인가요?[사실] QABA의 정식 명칭은 First Trust NASDAQ..",
+  "og_title": "QABA ETF란? 미국 커뮤니티 뱅크의 '상위 50개 제외' 정의와 XLF 차이, 세금 정리",
+  "post_id": "676",
+  "published_time": "2026-10-11T02:25:13+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QABA ETF란? 미국 커뮤니티 뱅크의 '상위 50개 제외' 정의와 XLF 차이, 세금 정리",
+  "url": "https://mystock-note.tistory.com/676"
+}

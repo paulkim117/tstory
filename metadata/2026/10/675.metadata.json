@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-10",
+  "body_html_length": 12653,
+  "canonical_url": "https://mystock-note.tistory.com/675",
+  "content_hash": "34fb7160bd33cdacc7040e6aaa9eae4195877678432e8f20a77930173780172e",
+  "json_ld_count": 2,
+  "meta_description": "VDIG는 뱅가드(Vanguard)가 내놓았지만 실제 운용은 웰링턴 매니지먼트(Wellington Management)가 하는 액티브 배당성장 ETF입니다. 상품명에 위탁 운용사 이름이 그대로 들어가 있다는 점도 드물지만, 더 중요한 것은 그 운용사가 주주 투표 없이 교체될 수 있다는 조항이 등록 서류에 명시돼 있다는 점입니다. 아래는 SEC에 제출된 등록 서류(투자설명서·추가정보서)와 뱅가드 상장 보도자료, Cboe 상장 정보를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.VDIG는 어떤 ETF인가요?[사실] VDIG의 정식 명칭은 Vanguard Wellington Dividend G..",
+  "modified_time": "2026-10-11T01:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VDIG는 뱅가드(Vanguard)가 내놓았지만 실제 운용은 웰링턴 매니지먼트(Wellington Management)가 하는 액티브 배당성장 ETF입니다. 상품명에 위탁 운용사 이름이 그대로 들어가 있다는 점도 드물지만, 더 중요한 것은 그 운용사가 주주 투표 없이 교체될 수 있다는 조항이 등록 서류에 명시돼 있다는 점입니다. 아래는 SEC에 제출된 등록 서류(투자설명서·추가정보서)와 뱅가드 상장 보도자료, Cboe 상장 정보를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.VDIG는 어떤 ETF인가요?[사실] VDIG의 정식 명칭은 Vanguard Wellington Dividend G..",
+  "og_title": "VDIG ETF란? 뱅가드 웰링턴 액티브의 위탁 운용 구조와 VIG 차이, 세금 정리",
+  "post_id": "675",
+  "published_time": "2026-10-11T01:41:59+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VDIG ETF란? 뱅가드 웰링턴 액티브의 위탁 운용 구조와 VIG 차이, 세금 정리",
+  "url": "https://mystock-note.tistory.com/675"
+}

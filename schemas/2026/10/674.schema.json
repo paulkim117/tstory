@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-11T00:41:00+09:00",
+    "datePublished": "2026-10-11T00:40:47+09:00",
+    "description": "THD는 태국 주식만 담는 iShares 단일국 상장지수펀드입니다. 다른 단일국 ETF와 결정적으로 다른 점은, 태국에서는 외국인이 같은 회사에 투자해도 보통주가 아니라 NVDR(무의결권 예탁증서)이라는 별도 증권을 받게 되는 경우가 있다는 것입니다. 그리고 이 구조 때문에 같은 회사가 지수에 두 줄로 들어가는 일이 생깁니다. 아래는 SEC 요약설명서(497K)와 MSCI 지수 방법론, 태국거래소(SET) NVDR 발행설명서를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.THD는 어떤 ETF인가요?[사실] THD의 정식 명칭은 iShares MSCI Thailand ETF입니다. SEC ..",
+    "headline": "THD ETF란? 태국 투자·NVDR 구조와 외국인 지분 한도, 세금 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/674",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/674"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "MSCI Thailand IMI 25/50 Index를 추종하는 태국 단일국 상장지수펀드",
+      "name": "iShares MSCI Thailand ETF (THD)"
+    },
+    "dateModified": "2026-10-11",
+    "datePublished": "2026-10-11",
+    "description": "THD는 MSCI Thailand IMI 25/50 지수를 추종하는 태국 단일국 ETF입니다. 외국인 지분 한도와 NVDR 구조, 지수 반영 방식, 25/50 상한, 한국 투자자 세금까지 확인 기준을 정리했습니다.",
+    "headline": "THD ETF란? 태국 투자·NVDR 구조와 외국인 지분 한도, 세금 정리",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/674",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/674"
+  }
+]

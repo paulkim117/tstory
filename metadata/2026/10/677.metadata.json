@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-10",
+  "body_html_length": 11290,
+  "canonical_url": "https://mystock-note.tistory.com/677",
+  "content_hash": "59f3bc8b7f90c2bd1347a921eeced0ca200d501a855b14116ea5312d52fa6caf",
+  "json_ld_count": 2,
+  "meta_description": "DESK는 미국 오피스·상업용 부동산 리츠(REIT)에 투자하는 VanEck 상장지수펀드입니다. 이름은 '오피스와 커머셜'로 두 대상을 나란히 놓은 것처럼 보이지만, 지수 규칙은 두 대상을 대등하게 다루지 않습니다. 오피스 리츠를 먼저 채우고, 나머지는 합산 20%를 넘지 못하도록 묶어 둡니다. 아래는 지수 제공사 공개 규칙과 SEC 요약설명서, 운용사 자료를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·분배율·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.DESK는 어떤 ETF인가요?[사실] DESK의 정식 명칭은 VanEck Office and Commercial REIT ETF입니다. 요약설명서에 따르면 기초지수는 Mark..",
+  "modified_time": "2026-10-11T03:27:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "DESK는 미국 오피스·상업용 부동산 리츠(REIT)에 투자하는 VanEck 상장지수펀드입니다. 이름은 '오피스와 커머셜'로 두 대상을 나란히 놓은 것처럼 보이지만, 지수 규칙은 두 대상을 대등하게 다루지 않습니다. 오피스 리츠를 먼저 채우고, 나머지는 합산 20%를 넘지 못하도록 묶어 둡니다. 아래는 지수 제공사 공개 규칙과 SEC 요약설명서, 운용사 자료를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·분배율·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.DESK는 어떤 ETF인가요?[사실] DESK의 정식 명칭은 VanEck Office and Commercial REIT ETF입니다. 요약설명서에 따르면 기초지수는 Mark..",
+  "og_title": "DESK ETF란? 미국 오피스 리츠 구조와 커머셜 20% 상한, VNQ·XLRE 차이 정리",
+  "post_id": "677",
+  "published_time": "2026-10-11T03:26:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DESK ETF란? 미국 오피스 리츠 구조와 커머셜 20% 상한, VNQ·XLRE 차이 정리",
+  "url": "https://mystock-note.tistory.com/677"
+}

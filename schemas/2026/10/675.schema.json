@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-11T01:42:00+09:00",
+    "datePublished": "2026-10-11T01:41:59+09:00",
+    "description": "VDIG는 뱅가드(Vanguard)가 내놓았지만 실제 운용은 웰링턴 매니지먼트(Wellington Management)가 하는 액티브 배당성장 ETF입니다. 상품명에 위탁 운용사 이름이 그대로 들어가 있다는 점도 드물지만, 더 중요한 것은 그 운용사가 주주 투표 없이 교체될 수 있다는 조항이 등록 서류에 명시돼 있다는 점입니다. 아래는 SEC에 제출된 등록 서류(투자설명서·추가정보서)와 뱅가드 상장 보도자료, Cboe 상장 정보를 2026년 10월 11일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.VDIG는 어떤 ETF인가요?[사실] VDIG의 정식 명칭은 Vanguard Wellington Dividend G..",
+    "headline": "VDIG ETF란? 뱅가드 웰링턴 액티브의 위탁 운용 구조와 VIG 차이, 세금 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/675",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/675"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "웰링턴 매니지먼트가 자문하는 뱅가드 액티브 배당성장 상장지수펀드",
+      "name": "Vanguard Wellington Dividend Growth Active ETF (VDIG)"
+    },
+    "dateModified": "2026-10-11",
+    "datePublished": "2026-10-11",
+    "description": "VDIG는 뱅가드가 내놓고 웰링턴 매니지먼트가 운용하는 액티브 배당성장 ETF입니다. 위탁 운용 구조와 운용사 교체 조항, VIG·VDIGX와 차이, 한국 투자자 세금 기준을 정리했습니다.",
+    "headline": "VDIG ETF란? 뱅가드 웰링턴 액티브의 위탁 운용 구조와 VIG 차이, 세금 정리",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/675",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/675"
+  }
+]
