@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-12T02:29:00+09:00",
+    "datePublished": "2026-10-12T02:28:24+09:00",
+    "description": "EIDO는 인도네시아 주식만 담는 iShares 단일국 상장지수펀드입니다. 이 상품을 설명하는 자료는 대부분 기초지수 이름에 붙은 '25/50'을 상한 규칙으로 소개합니다. 그런데 이 상한은 처음부터 있었던 것이 아닙니다. 2019년에 지수를 갈아타면서 붙었습니다. 상한을 나중에 붙였다는 사실 자체가 이 시장에 대한 정보입니다. 아래는 SEC에 제출된 지수 변경 보충서와 요약설명서를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·분배율·구성 비중·종목 수는 신뢰성 관리를 위해 기재하지 않습니다.EIDO는 어떤 ETF인가요?[사실] EIDO의 정식 명칭은 iShares MSCI Indonesia ETF입니다. 현재 기초지수는 MSCI Indonesi..",
+    "headline": "EIDO ETF란? 인도네시아 투자, 25/50 상한이 2019년에 생긴 이유와 세금 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/680",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/680"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "MSCI Indonesia IMI 25/50 Index를 추종하는 인도네시아 단일국 상장지수펀드",
+      "name": "iShares MSCI Indonesia ETF (EIDO)"
+    },
+    "dateModified": "2026-10-12",
+    "datePublished": "2026-10-12",
+    "description": "EIDO는 MSCI Indonesia IMI 25/50 지수를 추종하는 인도네시아 단일국 ETF입니다. 2019년 지수 전환으로 상한이 추가된 경위와 그 의미, IMI 범위, 통화 3중 노출, 세금 기준을 정리했습니다.",
+    "headline": "EIDO ETF란? 인도네시아 투자, 25/50 상한이 2019년에 생긴 이유와 세금 정리",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/680",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/680"
+  }
+]

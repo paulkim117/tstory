@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-12T00:27:00+09:00",
+    "datePublished": "2026-10-12T00:26:52+09:00",
+    "description": "ISTB는 만기 1~5년 구간의 미국 달러 표시 채권을 담는 iShares 상장지수펀드입니다. 이름에 'Core'와 'USD Bond'가 붙어 있어 미국 채권을 모아 놓은 무난한 상품처럼 보이지만, 요약설명서의 위험 항목에는 중국 위험과 사우디아라비아 위험이 들어 있습니다. 오탈자가 아닙니다. 이 지수의 기준은 발행자의 국적이 아니라 표시 통화이기 때문입니다. 아래는 2026년 2월 27일자 SEC 요약설명서와 운용사 팩트시트를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·회전율·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.ISTB는 어떤 ETF인가요?[사실] ISTB의 정식 명칭은 iShares Core 1-5 Year US..",
+    "headline": "ISTB ETF란? 미국 단기 종합채권의 'Universal' 범위와 AGG·하이일드 차이 정리",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/678",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/678"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Bloomberg U.S. Universal 1-5 Year Index를 추종하는 미국 달러 표시 단기 종합채권 상장지수펀드",
+      "name": "iShares Core 1-5 Year USD Bond ETF (ISTB)"
+    },
+    "dateModified": "2026-10-12",
+    "datePublished": "2026-10-12",
+    "description": "ISTB는 Bloomberg U.S. Universal 1-5 Year Index를 추종하는 단기 종합채권 ETF입니다. 국적이 아닌 달러 표시 기준, 하이일드·신흥국 달러채권 포함, AGG와 차이, 세금 기준을 정리했습니다.",
+    "headline": "ISTB ETF란? 미국 단기 종합채권의 'Universal' 범위와 AGG·하이일드 차이 정리",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/678",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/678"
+  }
+]

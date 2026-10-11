@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-12T03:31:01+09:00",
+    "datePublished": "2026-10-12T03:30:44+09:00",
+    "description": "미국 상장 ETF 중에는 Dorsey Wright라는 이름을 단 섹터별 모멘텀 상품이 여덟 개 나란히 있습니다. PYZ · PEZ · PSL · PFI · PTH · PRN · PTF · PUI입니다. 흔히 '모멘텀 ETF'라고 하면 시장 전체에서 가장 강한 종목을 뽑는 상품을 떠올리지만, 이 여덟 개는 다릅니다. 섹터를 먼저 나누고, 그 안에서 다시 강한 종목을 뽑습니다. 즉 시장 1등이 아니라 각 섹터의 1등을 담습니다. 아래는 지수 산출사와 운용사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.Dorsey Wright 섹터 모멘텀 ETF는 무엇인가요?[사실] 여덟 상..",
+    "headline": "Dorsey Wright 섹터 모멘텀 ETF 8종 비교 — PTF·PSL·PFI 구조와 MTUM과의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/681",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/681"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Dorsey Wright Technical Leaders Index를 섹터별로 추종하는 상대강도 기반 상장지수펀드 묶음",
+      "name": "Invesco Dorsey Wright 섹터 모멘텀 ETF 8종"
+    },
+    "dateModified": "2026-10-12",
+    "datePublished": "2026-10-12",
+    "description": "PYZ·PEZ·PSL·PFI·PTH·PRN·PTF·PUI 여덟 상품은 상대강도 방법론을 섹터별로 적용한 복제본입니다. 시장 전체가 아닌 섹터 안에서 모멘텀을 재는 구조와 MTUM과의 차이, 세금 기준을 정리했습니다.",
+    "headline": "Dorsey Wright 섹터 모멘텀 ETF 8종 비교 — PTF·PSL·PFI 구조와 MTUM과의 차이",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/681",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/681"
+  }
+]

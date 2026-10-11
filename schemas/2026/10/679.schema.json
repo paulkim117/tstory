@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": {
+    "@type": "Thing",
+    "description": "ISE Clean Edge Water Index를 추종하는 미국 상장 물 산업 상장지수펀드",
+    "name": "First Trust Water ETF (FIW)"
+  },
+  "dateModified": "2026-10-12",
+  "datePublished": "2026-10-12",
+  "description": "FIW는 ISE Clean Edge Water Index를 추종하는 물 산업 ETF입니다. 물 산업의 네 갈래 정의, 시가총액이 순위만 정하는 계단식 고정 비중, 동일가중과 차이, 세금 기준을 정리했습니다.",
+  "headline": "FIW ETF란? 물 산업 네 갈래 정의와 순위별 계단 비중 구조, 동일가중과 차이",
+  "inLanguage": "ko-KR",
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/679",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo",
+    "url": "https://mystock-note.tistory.com"
+  },
+  "url": "https://mystock-note.tistory.com/679"
+}

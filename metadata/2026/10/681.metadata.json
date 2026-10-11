@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-11",
+  "body_html_length": 11673,
+  "canonical_url": "https://mystock-note.tistory.com/681",
+  "content_hash": "157a88836a024b6d59e126e425d960ef66f8d085bf6213d484b76664bf1690f3",
+  "json_ld_count": 2,
+  "meta_description": "미국 상장 ETF 중에는 Dorsey Wright라는 이름을 단 섹터별 모멘텀 상품이 여덟 개 나란히 있습니다. PYZ · PEZ · PSL · PFI · PTH · PRN · PTF · PUI입니다. 흔히 '모멘텀 ETF'라고 하면 시장 전체에서 가장 강한 종목을 뽑는 상품을 떠올리지만, 이 여덟 개는 다릅니다. 섹터를 먼저 나누고, 그 안에서 다시 강한 종목을 뽑습니다. 즉 시장 1등이 아니라 각 섹터의 1등을 담습니다. 아래는 지수 산출사와 운용사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.Dorsey Wright 섹터 모멘텀 ETF는 무엇인가요?[사실] 여덟 상..",
+  "modified_time": "2026-10-12T03:31:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 상장 ETF 중에는 Dorsey Wright라는 이름을 단 섹터별 모멘텀 상품이 여덟 개 나란히 있습니다. PYZ · PEZ · PSL · PFI · PTH · PRN · PTF · PUI입니다. 흔히 '모멘텀 ETF'라고 하면 시장 전체에서 가장 강한 종목을 뽑는 상품을 떠올리지만, 이 여덟 개는 다릅니다. 섹터를 먼저 나누고, 그 안에서 다시 강한 종목을 뽑습니다. 즉 시장 1등이 아니라 각 섹터의 1등을 담습니다. 아래는 지수 산출사와 운용사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.Dorsey Wright 섹터 모멘텀 ETF는 무엇인가요?[사실] 여덟 상..",
+  "og_title": "Dorsey Wright 섹터 모멘텀 ETF 8종 비교 — PTF·PSL·PFI 구조와 MTUM과의 차이",
+  "post_id": "681",
+  "published_time": "2026-10-12T03:30:44+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Dorsey Wright 섹터 모멘텀 ETF 8종 비교 — PTF·PSL·PFI 구조와 MTUM과의 차이",
+  "url": "https://mystock-note.tistory.com/681"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-11",
+  "body_html_length": 12140,
+  "canonical_url": "https://mystock-note.tistory.com/678",
+  "content_hash": "5b0e273178afaa27ab7b9b4b30e5f7a265ea2d1310a2fef8c8bd74103d41cd98",
+  "json_ld_count": 2,
+  "meta_description": "ISTB는 만기 1~5년 구간의 미국 달러 표시 채권을 담는 iShares 상장지수펀드입니다. 이름에 'Core'와 'USD Bond'가 붙어 있어 미국 채권을 모아 놓은 무난한 상품처럼 보이지만, 요약설명서의 위험 항목에는 중국 위험과 사우디아라비아 위험이 들어 있습니다. 오탈자가 아닙니다. 이 지수의 기준은 발행자의 국적이 아니라 표시 통화이기 때문입니다. 아래는 2026년 2월 27일자 SEC 요약설명서와 운용사 팩트시트를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·회전율·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.ISTB는 어떤 ETF인가요?[사실] ISTB의 정식 명칭은 iShares Core 1-5 Year US..",
+  "modified_time": "2026-10-12T00:27:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ISTB는 만기 1~5년 구간의 미국 달러 표시 채권을 담는 iShares 상장지수펀드입니다. 이름에 'Core'와 'USD Bond'가 붙어 있어 미국 채권을 모아 놓은 무난한 상품처럼 보이지만, 요약설명서의 위험 항목에는 중국 위험과 사우디아라비아 위험이 들어 있습니다. 오탈자가 아닙니다. 이 지수의 기준은 발행자의 국적이 아니라 표시 통화이기 때문입니다. 아래는 2026년 2월 27일자 SEC 요약설명서와 운용사 팩트시트를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·회전율·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.ISTB는 어떤 ETF인가요?[사실] ISTB의 정식 명칭은 iShares Core 1-5 Year US..",
+  "og_title": "ISTB ETF란? 미국 단기 종합채권의 'Universal' 범위와 AGG·하이일드 차이 정리",
+  "post_id": "678",
+  "published_time": "2026-10-12T00:26:52+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ISTB ETF란? 미국 단기 종합채권의 'Universal' 범위와 AGG·하이일드 차이 정리",
+  "url": "https://mystock-note.tistory.com/678"
+}

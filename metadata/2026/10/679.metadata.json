@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-11",
+  "body_html_length": 12221,
+  "canonical_url": "https://mystock-note.tistory.com/679",
+  "content_hash": "8c1b89122301d85b5799a3375f4a65bf49fc06213a72dca603e414e1e0086d7f",
+  "json_ld_count": 1,
+  "meta_description": "FIW는 미국·해외 거래소에 상장된 물 관련 기업에 투자하는 First Trust 상장지수펀드입니다. 지수 문서는 이 지수를 \"수정 시가총액 가중\"이라고 적어 두었지만, 실제 규칙을 열어 보면 시가총액은 종목을 줄 세우는 데만 쓰이고 비중은 다섯 계단의 고정값입니다. 1위 회사와 10위 회사의 비중이 같습니다. 아래는 Nasdaq 지수 방법론 원문과 펀드 요약설명서, 지수 산출사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·섹터 비중은 신뢰성 관리를 위해 기재하지 않습니다.FIW는 어떤 ETF인가요?[사실] FIW의 정식 명칭은 First Trust Water ETF입니다. 기초지수는 ISE Clean Edge Water ..",
+  "modified_time": "2026-10-12T01:28:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/679\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/679\",\"headline\":\"FIW ETF란? 물 산업 네 갈래 정의와 순위별 계단 비중 구조, 동일가중과 차이\",\"description\":\"FIW는 미국·해외 거래소에 상장된 물 관련 기업에 투자하는 First Trust 상장지수펀드입니다. 지수 문서는 이 지수를 \"수정 시가총액 가중\"이라고 적어 두었지만, 실제 규칙을 열어 보면 시가총액은 종목을 줄 세우는 데만 쓰이고 비중은 다섯 계단의 고정값입니다. 1위 회사와 10위 회사의 비중이 같습니다. 아래는 Nasdaq 지수 방법론 원문과 펀드 요약설명서, 지수 산출사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·섹터 비중은 신뢰성 관리를 위해 기재하지 않습니다.FIW는 어떤 ETF인가요?[사실] FIW의 정식 명칭은 First Trust Water ETF입니다. 기초지수는 ISE Clean Edge Water ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-12T01:27:35+09:00\",\"dateModified\":\"2026-10-12T01:28:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "FIW는 미국·해외 거래소에 상장된 물 관련 기업에 투자하는 First Trust 상장지수펀드입니다. 지수 문서는 이 지수를 \"수정 시가총액 가중\"이라고 적어 두었지만, 실제 규칙을 열어 보면 시가총액은 종목을 줄 세우는 데만 쓰이고 비중은 다섯 계단의 고정값입니다. 1위 회사와 10위 회사의 비중이 같습니다. 아래는 Nasdaq 지수 방법론 원문과 펀드 요약설명서, 지수 산출사 공개 자료를 2026년 10월 12일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·섹터 비중은 신뢰성 관리를 위해 기재하지 않습니다.FIW는 어떤 ETF인가요?[사실] FIW의 정식 명칭은 First Trust Water ETF입니다. 기초지수는 ISE Clean Edge Water ..",
+  "og_title": "FIW ETF란? 물 산업 네 갈래 정의와 순위별 계단 비중 구조, 동일가중과 차이",
+  "post_id": "679",
+  "published_time": "2026-10-12T01:27:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FIW ETF란? 물 산업 네 갈래 정의와 순위별 계단 비중 구조, 동일가중과 차이",
+  "url": "https://mystock-note.tistory.com/679"
+}
