@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-13T01:33:00+09:00",
+    "datePublished": "2026-10-13T01:32:04+09:00",
+    "description": "SMMD는 미국 중형·소형주를 함께 담는 iShares 상장지수펀드입니다. 기초지수인 Russell 2500은 Russell 3000에서 상위 500을 뺀 나머지로 만들어집니다. 여기서 짚어야 할 지점이 있습니다. 그 500은 S&P 500이 아닙니다. 순위를 매기는 모집단과 방식이 다르기 때문입니다. 그래서 S&P 500 상품과 SMMD를 함께 담으면 겹치는 구간과 비는 구간이 동시에 생깁니다. 아래는 SEC 요약설명서와 지수사·운용사 공개 자료를 2026년 10월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수·평균 시가총액은 신뢰성 관리를 위해 기재하지 않습니다.SMMD는 어떤 ETF인가요?[사실] SMMD의 정식 명칭은 iShares ..",
+    "headline": "SMMD ETF란? 러셀2500 구조와 S&P500 조합 시 생기는 중복·공백 구간",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/683",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/683"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Russell 2500 Index를 추종하는 미국 중형·소형주 결합 상장지수펀드",
+      "name": "iShares Russell 2500 ETF (SMMD)"
+    },
+    "dateModified": "2026-10-13",
+    "datePublished": "2026-10-13",
+    "description": "SMMD는 Russell 2500을 추종하는 미국 중소형 결합 ETF입니다. 상위 500을 빼는 방식이 S&P 500과 다른 이유, 조합 시 생기는 중복과 공백, IWM·IJH와의 차이, 세금 기준을 정리했습니다.",
+    "headline": "SMMD ETF란? 러셀2500 구조와 S&P500 조합 시 생기는 중복·공백 구간",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/683",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/683"
+  }
+]

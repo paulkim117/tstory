@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-13",
+  "body_html_length": 11506,
+  "canonical_url": "https://mystock-note.tistory.com/683",
+  "content_hash": "79be47deda27aca8ea4d95c2c53dd03b7b33188bd7bdeca0bc2e0bb235970435",
+  "json_ld_count": 2,
+  "meta_description": "SMMD는 미국 중형·소형주를 함께 담는 iShares 상장지수펀드입니다. 기초지수인 Russell 2500은 Russell 3000에서 상위 500을 뺀 나머지로 만들어집니다. 여기서 짚어야 할 지점이 있습니다. 그 500은 S&P 500이 아닙니다. 순위를 매기는 모집단과 방식이 다르기 때문입니다. 그래서 S&P 500 상품과 SMMD를 함께 담으면 겹치는 구간과 비는 구간이 동시에 생깁니다. 아래는 SEC 요약설명서와 지수사·운용사 공개 자료를 2026년 10월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수·평균 시가총액은 신뢰성 관리를 위해 기재하지 않습니다.SMMD는 어떤 ETF인가요?[사실] SMMD의 정식 명칭은 iShares ..",
+  "modified_time": "2026-10-13T01:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SMMD는 미국 중형·소형주를 함께 담는 iShares 상장지수펀드입니다. 기초지수인 Russell 2500은 Russell 3000에서 상위 500을 뺀 나머지로 만들어집니다. 여기서 짚어야 할 지점이 있습니다. 그 500은 S&P 500이 아닙니다. 순위를 매기는 모집단과 방식이 다르기 때문입니다. 그래서 S&P 500 상품과 SMMD를 함께 담으면 겹치는 구간과 비는 구간이 동시에 생깁니다. 아래는 SEC 요약설명서와 지수사·운용사 공개 자료를 2026년 10월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수·평균 시가총액은 신뢰성 관리를 위해 기재하지 않습니다.SMMD는 어떤 ETF인가요?[사실] SMMD의 정식 명칭은 iShares ..",
+  "og_title": "SMMD ETF란? 러셀2500 구조와 S&P500 조합 시 생기는 중복·공백 구간",
+  "post_id": "683",
+  "published_time": "2026-10-13T01:32:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SMMD ETF란? 러셀2500 구조와 S&P500 조합 시 생기는 중복·공백 구간",
+  "url": "https://mystock-note.tistory.com/683"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-13",
+  "body_html_length": 11398,
+  "canonical_url": "https://mystock-note.tistory.com/682",
+  "content_hash": "1969ac8c8a81137097c580f37b2864e3440c294ae2a7d3bb8ca316489ae0b7b8",
+  "json_ld_count": 2,
+  "meta_description": "미국 상장 ETF 중 S&P 500 성장주와 S&P 500 가치주를 담는 상품은 운용사별로 짝을 이뤄 여섯 개가 있습니다. IVW·IVE(iShares), SPYG·SPYV(SPDR), VOOG·VOOV(Vanguard)입니다. 성장과 가치는 보통 반대말로 쓰이므로 두 상품이 서로 겹치지 않는다고 생각하기 쉽습니다. 그런데 같은 회사가 성장주 ETF와 가치주 ETF에 동시에 들어갑니다. 오류가 아니라 지수 방법론이 그렇게 설계돼 있습니다. 아래는 S&P 지수 방법론 문서와 지수사 리서치 자료를 2026년 10월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.이 여섯 상품은 무엇인가요?[사실] 여섯 상품..",
+  "modified_time": "2026-10-13T00:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 상장 ETF 중 S&P 500 성장주와 S&P 500 가치주를 담는 상품은 운용사별로 짝을 이뤄 여섯 개가 있습니다. IVW·IVE(iShares), SPYG·SPYV(SPDR), VOOG·VOOV(Vanguard)입니다. 성장과 가치는 보통 반대말로 쓰이므로 두 상품이 서로 겹치지 않는다고 생각하기 쉽습니다. 그런데 같은 회사가 성장주 ETF와 가치주 ETF에 동시에 들어갑니다. 오류가 아니라 지수 방법론이 그렇게 설계돼 있습니다. 아래는 S&P 지수 방법론 문서와 지수사 리서치 자료를 2026년 10월 13일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.이 여섯 상품은 무엇인가요?[사실] 여섯 상품..",
+  "og_title": "IVW·IVE·SPYG·SPYV·VOOG·VOOV 비교 — 같은 회사가 성장·가치 양쪽에 들어가는 이유",
+  "post_id": "682",
+  "published_time": "2026-10-13T00:31:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IVW·IVE·SPYG·SPYV·VOOG·VOOV 비교 — 같은 회사가 성장·가치 양쪽에 들어가는 이유",
+  "url": "https://mystock-note.tistory.com/682"
+}
