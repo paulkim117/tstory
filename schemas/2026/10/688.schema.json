@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-14T02:37:00+09:00",
+    "datePublished": "2026-10-14T02:36:25+09:00",
+    "description": "HDMV는 미국 외 선진국 주식에 투자하면서 변동성을 관리하는 First Trust 상장지수펀드입니다. 실제 종목 선택은 First Trust가 아니라 부운용사(Sub-Advisor)인 Horizon Investments가 합니다. 그런데 2021년에 이 부운용사의 지분 과반이 사모투자회사 계열로 넘어갔고, 그 결과 기존 부운용 계약이 자동으로 종료됐습니다. 새 계약을 쓰려면 주주 투표가 필요했고, 이 펀드는 정족수를 채우지 못해 특별주주총회가 한 차례 연기됐습니다. 아래는 SEC 등록 서류와 운용사 공시·공개 자료를 2026년 10월 14일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.HDMV는 어떤 ET..",
+    "headline": "HDMV ETF란? 운용사 주인이 바뀌면 계약이 끝나는 이유와 관리 변동성 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/688",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/688"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "부운용사가 변동성 예측 모형으로 종목을 선별하는 미국 외 선진국 액티브 상장지수펀드",
+      "name": "First Trust Horizon Managed Volatility Developed International ETF (HDMV)"
+    },
+    "dateModified": "2026-10-14",
+    "datePublished": "2026-10-14",
+    "description": "HDMV는 부운용사가 미래 기대 변동성으로 종목을 고르는 액티브 국제 ETF입니다. 2021년 지배권 이전으로 계약이 자동 종료되고 주주 승인을 거친 과정, 최소변동성과 차이, 세금 기준을 정리했습니다.",
+    "headline": "HDMV ETF란? 운용사 주인이 바뀌면 계약이 끝나는 이유와 관리 변동성 구조",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/688",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/688"
+  }
+]

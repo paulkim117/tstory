@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-14T00:35:03+09:00",
+    "datePublished": "2026-10-14T00:34:59+09:00",
+    "description": "HDV는 미국 고배당주에 투자하는 iShares 상장지수펀드입니다. 고배당 상품은 보통 배당수익률이 높은 순서로 종목을 고릅니다. 그런데 이 상품의 기초지수는 배당을 계산하기 전에 먼저 두 개의 관문을 통과시킵니다. 그중 하나가 '거리 대 디폴트(Distance to Default)'입니다. 요약설명서는 이것을 기업의 부도 확률을 추정하는 옵션 가격결정 방식의 정량 지표로 설명합니다. 주식 지수가 채권·신용 분석의 도구를 빌려 쓰는 구조입니다. 아래는 SEC 요약설명서와 운용사 공개 자료를 2026년 10월 14일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·분배율·구성 비중은 신뢰성 관리를 위해 기재하지 않습니다.HDV는 어떤 ETF인가요?[사실] HDV의 정식 명칭은..",
+    "headline": "HDV ETF란? 배당 지수가 부도 확률 모형을 쓰는 이유와 VYM·SCHD 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/686",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/686"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": {
+      "@type": "Thing",
+      "description": "Morningstar Dividend Yield Focus Index를 추종하는 미국 고배당 상장지수펀드",
+      "name": "iShares Core High Dividend ETF (HDV)"
+    },
+    "dateModified": "2026-10-14",
+    "datePublished": "2026-10-14",
+    "description": "HDV는 Morningstar Dividend Yield Focus Index를 추종하는 고배당 ETF입니다. 배당보다 먼저 통과시키는 해자·거리 대 디폴트 관문, 옵션 가격결정 방식의 부도 확률 추정, VYM과 차이, 세금 기준을 정리했습니다.",
+    "headline": "HDV ETF란? 배당 지수가 부도 확률 모형을 쓰는 이유와 VYM·SCHD 차이",
+    "inLanguage": "ko-KR",
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/686",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    "url": "https://mystock-note.tistory.com/686"
+  }
+]

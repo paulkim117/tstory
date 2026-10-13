@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-13",
+  "body_html_length": 11318,
+  "canonical_url": "https://mystock-note.tistory.com/688",
+  "content_hash": "cc8cf736fd8995eeb9c3a7c904cbae4bc59d240ca1816142301b75850e9dd0d6",
+  "json_ld_count": 2,
+  "meta_description": "HDMV는 미국 외 선진국 주식에 투자하면서 변동성을 관리하는 First Trust 상장지수펀드입니다. 실제 종목 선택은 First Trust가 아니라 부운용사(Sub-Advisor)인 Horizon Investments가 합니다. 그런데 2021년에 이 부운용사의 지분 과반이 사모투자회사 계열로 넘어갔고, 그 결과 기존 부운용 계약이 자동으로 종료됐습니다. 새 계약을 쓰려면 주주 투표가 필요했고, 이 펀드는 정족수를 채우지 못해 특별주주총회가 한 차례 연기됐습니다. 아래는 SEC 등록 서류와 운용사 공시·공개 자료를 2026년 10월 14일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.HDMV는 어떤 ET..",
+  "modified_time": "2026-10-14T02:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "HDMV는 미국 외 선진국 주식에 투자하면서 변동성을 관리하는 First Trust 상장지수펀드입니다. 실제 종목 선택은 First Trust가 아니라 부운용사(Sub-Advisor)인 Horizon Investments가 합니다. 그런데 2021년에 이 부운용사의 지분 과반이 사모투자회사 계열로 넘어갔고, 그 결과 기존 부운용 계약이 자동으로 종료됐습니다. 새 계약을 쓰려면 주주 투표가 필요했고, 이 펀드는 정족수를 채우지 못해 특별주주총회가 한 차례 연기됐습니다. 아래는 SEC 등록 서류와 운용사 공시·공개 자료를 2026년 10월 14일 직접 대조해 정리한 구조·세금 기준입니다. 수시로 변하는 총보수·순자산·수익률·구성 비중·보유 종목 수는 신뢰성 관리를 위해 기재하지 않습니다.HDMV는 어떤 ET..",
+  "og_title": "HDMV ETF란? 운용사 주인이 바뀌면 계약이 끝나는 이유와 관리 변동성 구조",
+  "post_id": "688",
+  "published_time": "2026-10-14T02:36:25+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HDMV ETF란? 운용사 주인이 바뀌면 계약이 끝나는 이유와 관리 변동성 구조",
+  "url": "https://mystock-note.tistory.com/688"
+}

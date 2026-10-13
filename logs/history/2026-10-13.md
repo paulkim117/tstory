@@ -2,11 +2,11 @@
 
 - Run date: 2026-10-13
 - Source: sitemap.xml
-- Total URLs found: 665
-- Numeric post URLs: 648
-- Successfully backed up: 648
-- Skipped unchanged: 643
-- Updated: 5
+- Total URLs found: 668
+- Numeric post URLs: 651
+- Successfully backed up: 651
+- Skipped unchanged: 647
+- Updated: 4
 - Failed: 0
 
 ## Failed URLs
