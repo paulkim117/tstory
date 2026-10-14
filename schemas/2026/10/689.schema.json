@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-15T00:37:00+09:00",
+    "datePublished": "2026-10-15T00:36:42+09:00",
+    "description": "핵심 요약: FBT(First Trust NYSE Arca Biotechnology Index Fund)가 추종하는 NYSE Arca Biotechnology 지수는 2024년 1월 22일부로 종목 선정 규칙이 통째로 교체됐습니다. 그전에는 시가총액·거래대금·주가라는 세 개의 문턱만 넘으면 됐지만, 지금은 매출(50%)·매출 대비 연구개발비 비율(25%)·연구개발비 3년 증감률(25%)을 합산한 순위로 30종목을 뽑습니다. 즉 순위의 절반이 이익이 아니라 연구개발 지출에서 나옵니다. 지수 이름도 티커도 그대로여서 이 변경은 겉으로 드러나지 않습니다. 이 글은 규칙이 어떻게 바뀌었고, 그 결과 무엇이 달라지는지를 1차 출처(SEC 제출서류·지수 방법론 원문)로만 정리합니다.FBT는 어떤 ETF인가요?[사실..",
+    "headline": "FBT ETF란? 2024년 바뀐 선정 규칙 — 이익이 아니라 연구개발비로 고른다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/689",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/689"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "NYSE Arca Biotechnology Index"
+      },
+      {
+        "@type": "Thing",
+        "name": "바이오테크 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "지수 방법론 변경"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-15",
+    "datePublished": "2026-10-15",
+    "description": "FBT가 추종하는 NYSE Arca Biotechnology 지수는 2024년 1월 22일부로 선정 규칙이 전면 교체됐다. 매출 50%, 매출 대비 연구개발비 비율 25%, 연구개발비 3년 증감률 25%로 30종목을 고르며 수익성 지표는 쓰지 않는다. 지수명과 티커는 그대로여서 변경이 겉으로 드러나지 않는다.",
+    "headline": "FBT ETF란? 2024년 바뀐 선정 규칙 — 이익이 아니라 연구개발비로 고른다",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/689",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
