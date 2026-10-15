@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-15",
+  "body_html_length": 6936,
+  "canonical_url": "https://mystock-note.tistory.com/691",
+  "content_hash": "9def82b353d0b0af06b21f9d4fe0692282291d9175e89302baa967797b9a8c8d",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: CARZ(First Trust S-Network Future Vehicles & Technology ETF)의 기초지수는 100종목을 채웁니다. 먼저 매출의 50% 이상이 해당 사업에서 나오는 '순수 사업자(Pure-Play)'를 시가총액 순으로 담고, 100곳이 안 되면 매출 20% 초과인 '겸업 기업(Diversified)'으로 내려가 나머지를 채웁니다. 문제는 겸업 자격 판정에 숫자가 아닌 항목이 섞여 있다는 점입니다. \"주가에 중대한 영향을 미칠 가능성\", \"연구개발이 회사 미래 전략의 최전선에 있는지\" 같은 기준은 검증이 아니라 예측입니다. 이 글은 그 선정 절차를 SEC 제출서류 원문으로 정리합니다.CARZ는 어떤 ETF인가요?[사실] CARZ는 First Trust Advisor..",
+  "modified_time": "2026-10-16T01:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/691\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/691\",\"headline\":\"CARZ ETF란? 전기차 100종목을 채우는 2단계 규칙 — 순수 사업자와 겸업 기업\",\"description\":\"핵심 요약: CARZ(First Trust S-Network Future Vehicles & Technology ETF)의 기초지수는 100종목을 채웁니다. 먼저 매출의 50% 이상이 해당 사업에서 나오는 '순수 사업자(Pure-Play)'를 시가총액 순으로 담고, 100곳이 안 되면 매출 20% 초과인 '겸업 기업(Diversified)'으로 내려가 나머지를 채웁니다. 문제는 겸업 자격 판정에 숫자가 아닌 항목이 섞여 있다는 점입니다. \"주가에 중대한 영향을 미칠 가능성\", \"연구개발이 회사 미래 전략의 최전선에 있는지\" 같은 기준은 검증이 아니라 예측입니다. 이 글은 그 선정 절차를 SEC 제출서류 원문으로 정리합니다.CARZ는 어떤 ETF인가요?[사실] CARZ는 First Trust Advisor..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-16T01:40:59+09:00\",\"dateModified\":\"2026-10-16T01:41:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: CARZ(First Trust S-Network Future Vehicles & Technology ETF)의 기초지수는 100종목을 채웁니다. 먼저 매출의 50% 이상이 해당 사업에서 나오는 '순수 사업자(Pure-Play)'를 시가총액 순으로 담고, 100곳이 안 되면 매출 20% 초과인 '겸업 기업(Diversified)'으로 내려가 나머지를 채웁니다. 문제는 겸업 자격 판정에 숫자가 아닌 항목이 섞여 있다는 점입니다. \"주가에 중대한 영향을 미칠 가능성\", \"연구개발이 회사 미래 전략의 최전선에 있는지\" 같은 기준은 검증이 아니라 예측입니다. 이 글은 그 선정 절차를 SEC 제출서류 원문으로 정리합니다.CARZ는 어떤 ETF인가요?[사실] CARZ는 First Trust Advisor..",
+  "og_title": "CARZ ETF란? 전기차 100종목을 채우는 2단계 규칙 — 순수 사업자와 겸업 기업",
+  "post_id": "691",
+  "published_time": "2026-10-16T01:40:59+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CARZ ETF란? 전기차 100종목을 채우는 2단계 규칙 — 순수 사업자와 겸업 기업",
+  "url": "https://mystock-note.tistory.com/691"
+}

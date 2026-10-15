@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "단일국 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "지수 국가 분류"
+    },
+    {
+      "@type": "Thing",
+      "name": "MVIS Israel Index"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-16",
+  "datePublished": "2026-10-16",
+  "description": "ISRA의 기초지수는 주소지·설립국·경영진 소재·사업장·연구개발 시설·세무 지위·매출 발생지·임직원 소재를 종합해 이스라엘 기업 여부를 판정한다. 요인 목록은 '그 외'로 열려 있고 가중치는 공개되지 않으며, 이스라엘 밖 소재 기업도 편입될 수 있다.",
+  "headline": "ISRA ETF란? '이스라엘 기업'을 정하는 8가지 기준 — 그리고 그 목록은 닫혀 있지 않다",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/692",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

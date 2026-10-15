@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "전기차 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "지수 편입 자격"
+    },
+    {
+      "@type": "Thing",
+      "name": "VettaFi"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-16",
+  "datePublished": "2026-10-16",
+  "description": "CARZ의 기초지수는 매출 50% 이상인 순수 사업자를 시가총액 순으로 담고, 100종목에 미달하면 매출 20% 초과인 겸업 기업으로 내려가 채운다. 겸업 자격 네 항목 중 세 개는 주가 영향 가능성이나 연구개발 우선순위 같은 판단 기준이다.",
+  "headline": "CARZ ETF란? 전기차 100종목을 채우는 2단계 규칙 — 순수 사업자와 겸업 기업",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/691",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

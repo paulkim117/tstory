@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-15",
+  "body_html_length": 6551,
+  "canonical_url": "https://mystock-note.tistory.com/692",
+  "content_hash": "af7039ef29bc765bd970d566964f397a59fa35890a171a99238637cc73ab18c7",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: ISRA(VanEck Israel ETF)가 추종하는 지수는 \"이스라엘 기업\"을 담습니다. 그런데 무엇이 이스라엘 기업인지를 정하는 방식이 규칙이 아니라 판단입니다. 요약설명서는 주소지·설립국·경영진 소재·사업장·연구개발 시설·세무 지위·매출 발생지·임직원 소재를 열거한 뒤 \"그 외의 요인들(among others)\"이라고 덧붙입니다. 목록이 닫혀 있지 않고, 각 요인의 가중치도 공개돼 있지 않습니다. 그 결과 이스라엘에 소재하지 않은 기업도 편입될 수 있습니다. 이 글은 그 판정 구조를 SEC 제출서류 원문으로 정리합니다.ISRA는 어떤 ETF인가요?[사실] ISRA는 Van Eck Associates Corporation이 운용하는 미국 상장 ETF입니다. 주요 상장 거래소는 NYSE A..",
+  "modified_time": "2026-10-16T02:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/692\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/692\",\"headline\":\"ISRA ETF란? '이스라엘 기업'을 정하는 8가지 기준 — 그리고 그 목록은 닫혀 있지 않다\",\"description\":\"핵심 요약: ISRA(VanEck Israel ETF)가 추종하는 지수는 \"이스라엘 기업\"을 담습니다. 그런데 무엇이 이스라엘 기업인지를 정하는 방식이 규칙이 아니라 판단입니다. 요약설명서는 주소지·설립국·경영진 소재·사업장·연구개발 시설·세무 지위·매출 발생지·임직원 소재를 열거한 뒤 \"그 외의 요인들(among others)\"이라고 덧붙입니다. 목록이 닫혀 있지 않고, 각 요인의 가중치도 공개돼 있지 않습니다. 그 결과 이스라엘에 소재하지 않은 기업도 편입될 수 있습니다. 이 글은 그 판정 구조를 SEC 제출서류 원문으로 정리합니다.ISRA는 어떤 ETF인가요?[사실] ISRA는 Van Eck Associates Corporation이 운용하는 미국 상장 ETF입니다. 주요 상장 거래소는 NYSE A..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-16T02:41:20+09:00\",\"dateModified\":\"2026-10-16T02:42:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: ISRA(VanEck Israel ETF)가 추종하는 지수는 \"이스라엘 기업\"을 담습니다. 그런데 무엇이 이스라엘 기업인지를 정하는 방식이 규칙이 아니라 판단입니다. 요약설명서는 주소지·설립국·경영진 소재·사업장·연구개발 시설·세무 지위·매출 발생지·임직원 소재를 열거한 뒤 \"그 외의 요인들(among others)\"이라고 덧붙입니다. 목록이 닫혀 있지 않고, 각 요인의 가중치도 공개돼 있지 않습니다. 그 결과 이스라엘에 소재하지 않은 기업도 편입될 수 있습니다. 이 글은 그 판정 구조를 SEC 제출서류 원문으로 정리합니다.ISRA는 어떤 ETF인가요?[사실] ISRA는 Van Eck Associates Corporation이 운용하는 미국 상장 ETF입니다. 주요 상장 거래소는 NYSE A..",
+  "og_title": "ISRA ETF란? '이스라엘 기업'을 정하는 8가지 기준 — 그리고 그 목록은 닫혀 있지 않다",
+  "post_id": "692",
+  "published_time": "2026-10-16T02:41:20+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ISRA ETF란? '이스라엘 기업'을 정하는 8가지 기준 — 그리고 그 목록은 닫혀 있지 않다",
+  "url": "https://mystock-note.tistory.com/692"
+}

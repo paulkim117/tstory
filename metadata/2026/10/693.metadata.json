@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-15",
+  "body_html_length": 6072,
+  "canonical_url": "https://mystock-note.tistory.com/693",
+  "content_hash": "1e1b1000e278267f7ec3b8afb4f704ca38027cd9b6ef774e5108b5064f3704da",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: SMHC(VanEck China Semiconductor ETF)는 중국 반도체 기업 25종목을 담는데, 그 대부분이 본토 A주입니다. 외국인이 A주를 사는 통로는 Stock Connect이고, 이 통로에는 하루치 한도가 걸려 있습니다. 그 한도는 이 펀드 몫이 아니라 시장 전체가 함께 쓰는 것이며, 배분 방식은 선착순입니다. 한도가 소진되면 그날의 매수 주문은 거부됩니다. 이 글은 그 제도적 제약이 상품에 어떻게 반영되는지를 SEC 제출서류 원문으로 정리합니다.SMHC는 어떤 ETF인가요?[사실] SMHC는 Van Eck Associates Corporation이 운용하는 미국 상장 ETF입니다. 주요 상장 거래소는 Nasdaq이며, 요약설명서는 2026년 6월 22일자로 제출됐습니다. [..",
+  "modified_time": "2026-10-16T03:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: SMHC(VanEck China Semiconductor ETF)는 중국 반도체 기업 25종목을 담는데, 그 대부분이 본토 A주입니다. 외국인이 A주를 사는 통로는 Stock Connect이고, 이 통로에는 하루치 한도가 걸려 있습니다. 그 한도는 이 펀드 몫이 아니라 시장 전체가 함께 쓰는 것이며, 배분 방식은 선착순입니다. 한도가 소진되면 그날의 매수 주문은 거부됩니다. 이 글은 그 제도적 제약이 상품에 어떻게 반영되는지를 SEC 제출서류 원문으로 정리합니다.SMHC는 어떤 ETF인가요?[사실] SMHC는 Van Eck Associates Corporation이 운용하는 미국 상장 ETF입니다. 주요 상장 거래소는 Nasdaq이며, 요약설명서는 2026년 6월 22일자로 제출됐습니다. [..",
+  "og_title": "SMHC ETF란? 중국 반도체 A주와 Stock Connect 일일 쿼터 — 사고 싶어도 못 사는 날",
+  "post_id": "693",
+  "published_time": "2026-10-16T03:41:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SMHC ETF란? 중국 반도체 A주와 Stock Connect 일일 쿼터 — 사고 싶어도 못 사는 날",
+  "url": "https://mystock-note.tistory.com/693"
+}

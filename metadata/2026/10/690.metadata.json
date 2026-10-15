@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-15",
+  "body_html_length": 7390,
+  "canonical_url": "https://mystock-note.tistory.com/690",
+  "content_hash": "923e2c6127f83c134fc15a925d0fb7c561015e9c8d8a41d83b2fbe8c6c1abf5b",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: ASEA(Global X FTSE Southeast Asia ETF)는 이름에 '동남아시아'가 들어가지만 실제로 담는 나라는 싱가포르·말레이시아·인도네시아·태국·필리핀 다섯 곳뿐입니다. ASEAN 회원국은 열 곳인데 절반이 빠집니다. 베트남이 없는 이유는 정치적 선택이 아니라 편입 자격을 지수 제공자 FTSE가 정하기 때문입니다. 이 지수에 들어오려면 해당 국가의 FTSE All World Country 지수 구성 종목이어야 하는데, FTSE가 프론티어 이하로 분류한 시장은 애초에 그 지수가 없습니다. 이 글은 '지역 이름'과 '실제 경계'가 어떻게 갈리는지를 SEC 제출서류 원문으로 정리합니다.ASEA는 어떤 ETF인가요?[사실] ASEA는 Global X Management Company..",
+  "modified_time": "2026-10-16T00:39:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: ASEA(Global X FTSE Southeast Asia ETF)는 이름에 '동남아시아'가 들어가지만 실제로 담는 나라는 싱가포르·말레이시아·인도네시아·태국·필리핀 다섯 곳뿐입니다. ASEAN 회원국은 열 곳인데 절반이 빠집니다. 베트남이 없는 이유는 정치적 선택이 아니라 편입 자격을 지수 제공자 FTSE가 정하기 때문입니다. 이 지수에 들어오려면 해당 국가의 FTSE All World Country 지수 구성 종목이어야 하는데, FTSE가 프론티어 이하로 분류한 시장은 애초에 그 지수가 없습니다. 이 글은 '지역 이름'과 '실제 경계'가 어떻게 갈리는지를 SEC 제출서류 원문으로 정리합니다.ASEA는 어떤 ETF인가요?[사실] ASEA는 Global X Management Company..",
+  "og_title": "ASEA ETF란? 동남아 ETF인데 베트남이 없는 이유 — ASEAN 5개국과 FTSE 시장 등급",
+  "post_id": "690",
+  "published_time": "2026-10-16T00:38:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "ASEA ETF란? 동남아 ETF인데 베트남이 없는 이유 — ASEAN 5개국과 FTSE 시장 등급",
+  "url": "https://mystock-note.tistory.com/690"
+}
