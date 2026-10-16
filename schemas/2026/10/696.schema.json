@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "국제 인터넷 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "지수 편입 자격"
+    },
+    {
+      "@type": "Thing",
+      "name": "VIE 구조"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-17",
+  "datePublished": "2026-10-17",
+  "description": "FDNI는 미국 제외 전 세계 인터넷 기업 40종목을 담는다. 편입 자격 다섯 가지 중 둘은 특정 국가에만 적용된다. 중국 기업은 A주면 안 되고 인도 기업은 선진 시장 거래소에 상장돼 있어야 한다. 산업이 아니라 접근 경로를 묻는 조건이다.",
+  "headline": "FDNI ETF란? 중국은 A주 제외, 인도는 선진시장 상장 필수 — 나라마다 다른 편입 조건",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/696",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

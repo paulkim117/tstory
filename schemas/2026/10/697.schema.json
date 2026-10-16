@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "금속·광업 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "지수 배제 규칙"
+    },
+    {
+      "@type": "Thing",
+      "name": "산업용 금속"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-17",
+  "datePublished": "2026-10-17",
+  "description": "PICK의 기초지수는 금·은을 매출 비중 같은 속성으로 거르지 않는다. MSCI 금광 지수와 은광 지수에 포함된 기업을 통째로 제외한다. 배제 기준이 기업의 성질이 아니라 다른 지수의 명단이며, 남는 것은 철강·알루미늄 등 산업용 금속이다.",
+  "headline": "PICK ETF란? 금과 은을 빼는 방법 — 속성이 아니라 다른 지수의 명단을 뺀다",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/697",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

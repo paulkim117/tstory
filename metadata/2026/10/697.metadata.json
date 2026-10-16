@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-16",
+  "body_html_length": 5387,
+  "canonical_url": "https://mystock-note.tistory.com/697",
+  "content_hash": "fbbf55ce97d67742c48a460892cd4367e51e3bc49d52be8027e3d3de77fd0c20",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: PICK(iShares MSCI Global Metals & Mining Producers ETF)은 이름 그대로 금속·광업 기업을 담습니다. 다만 금과 은은 뺍니다. 흥미로운 것은 빼는 방법입니다. \"금 매출이 몇 퍼센트 이상이면 제외\"처럼 속성으로 거르지 않습니다. 대신 MSCI의 금광 지수와 은광 지수에 이미 들어 있는 회사를 통째로 제외합니다. 즉 배제 기준이 기업의 성질이 아니라 다른 지수의 명단입니다. 이 글은 그 뺄셈 구조를 SEC 제출서류 원문으로 정리합니다.PICK은 어떤 ETF인가요?[사실] PICK은 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Cboe BZX입니다. 기초지수는 MSCI ACWI Select Metals & ..",
+  "modified_time": "2026-10-17T03:04:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/697\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/697\",\"headline\":\"PICK ETF란? 금과 은을 빼는 방법 — 속성이 아니라 다른 지수의 명단을 뺀다\",\"description\":\"핵심 요약: PICK(iShares MSCI Global Metals & Mining Producers ETF)은 이름 그대로 금속·광업 기업을 담습니다. 다만 금과 은은 뺍니다. 흥미로운 것은 빼는 방법입니다. \"금 매출이 몇 퍼센트 이상이면 제외\"처럼 속성으로 거르지 않습니다. 대신 MSCI의 금광 지수와 은광 지수에 이미 들어 있는 회사를 통째로 제외합니다. 즉 배제 기준이 기업의 성질이 아니라 다른 지수의 명단입니다. 이 글은 그 뺄셈 구조를 SEC 제출서류 원문으로 정리합니다.PICK은 어떤 ETF인가요?[사실] PICK은 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Cboe BZX입니다. 기초지수는 MSCI ACWI Select Metals & ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-17T03:03:04+09:00\",\"dateModified\":\"2026-10-17T03:04:01+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: PICK(iShares MSCI Global Metals & Mining Producers ETF)은 이름 그대로 금속·광업 기업을 담습니다. 다만 금과 은은 뺍니다. 흥미로운 것은 빼는 방법입니다. \"금 매출이 몇 퍼센트 이상이면 제외\"처럼 속성으로 거르지 않습니다. 대신 MSCI의 금광 지수와 은광 지수에 이미 들어 있는 회사를 통째로 제외합니다. 즉 배제 기준이 기업의 성질이 아니라 다른 지수의 명단입니다. 이 글은 그 뺄셈 구조를 SEC 제출서류 원문으로 정리합니다.PICK은 어떤 ETF인가요?[사실] PICK은 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Cboe BZX입니다. 기초지수는 MSCI ACWI Select Metals & ..",
+  "og_title": "PICK ETF란? 금과 은을 빼는 방법 — 속성이 아니라 다른 지수의 명단을 뺀다",
+  "post_id": "697",
+  "published_time": "2026-10-17T03:03:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PICK ETF란? 금과 은을 빼는 방법 — 속성이 아니라 다른 지수의 명단을 뺀다",
+  "url": "https://mystock-note.tistory.com/697"
+}

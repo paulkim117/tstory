@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-17T01:43:00+09:00",
+    "datePublished": "2026-10-17T01:42:41+09:00",
+    "description": "핵심 요약: VCRB(Vanguard Core Bond ETF)는 추종하는 지수가 없습니다. 액티브 운용이기 때문입니다. 그런데 미국 ETF에는 '자산의 80% 이상을 이름이 시사하는 대상에 투자하라'는 요구가 붙습니다. 지수가 없으면 그 80%는 무엇에 걸릴까요. 이 상품의 답은 '채권(bonds)'이라는 자산군 자체이고, 요약설명서는 그 '채권'이 무엇인지를 직접 열거해 정의합니다. 그리고 '코어'라는 이름의 실질적 내용은 투자등급 미만 5% 상한이라는 한 줄에 들어 있습니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.VCRB는 어떤 ETF인가요?[사실] VCRB는 Vanguard가 운용하는 미국 상장 액티브 채권 ETF입니다. 거래소는 Nasdaq이며, 요약설명서는 펀드가 다양한 만기..",
+    "headline": "VCRB ETF란? 지수가 없으면 80% 규칙은 무엇에 거는가 — 그리고 '코어'는 5%다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/695",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/695"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "액티브 채권 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "80% 투자 정책"
+      },
+      {
+        "@type": "Thing",
+        "name": "코어 채권"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-17",
+    "datePublished": "2026-10-17",
+    "description": "VCRB는 액티브 채권 ETF로 추종 지수가 없다. 80% 정책은 지수 구성 증권이 아니라 '채권'이라는 자산군에 걸리며, 요약설명서가 그 범위를 직접 열거한다. '코어'의 실질 내용은 투자등급 미만 5% 상한이고, 평균 만기 4~12년은 조건부로 이탈할 수 있다.",
+    "headline": "VCRB ETF란? 지수가 없으면 80% 규칙은 무엇에 거는가 — 그리고 '코어'는 5%다",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/695",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

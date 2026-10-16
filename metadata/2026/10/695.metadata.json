@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-16",
+  "body_html_length": 5030,
+  "canonical_url": "https://mystock-note.tistory.com/695",
+  "content_hash": "3a0bb69b9a0f17f3bde141e6f8ab7fd7ad3ba09bacb341e99e885bd953032b20",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: VCRB(Vanguard Core Bond ETF)는 추종하는 지수가 없습니다. 액티브 운용이기 때문입니다. 그런데 미국 ETF에는 '자산의 80% 이상을 이름이 시사하는 대상에 투자하라'는 요구가 붙습니다. 지수가 없으면 그 80%는 무엇에 걸릴까요. 이 상품의 답은 '채권(bonds)'이라는 자산군 자체이고, 요약설명서는 그 '채권'이 무엇인지를 직접 열거해 정의합니다. 그리고 '코어'라는 이름의 실질적 내용은 투자등급 미만 5% 상한이라는 한 줄에 들어 있습니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.VCRB는 어떤 ETF인가요?[사실] VCRB는 Vanguard가 운용하는 미국 상장 액티브 채권 ETF입니다. 거래소는 Nasdaq이며, 요약설명서는 펀드가 다양한 만기..",
+  "modified_time": "2026-10-17T01:43:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: VCRB(Vanguard Core Bond ETF)는 추종하는 지수가 없습니다. 액티브 운용이기 때문입니다. 그런데 미국 ETF에는 '자산의 80% 이상을 이름이 시사하는 대상에 투자하라'는 요구가 붙습니다. 지수가 없으면 그 80%는 무엇에 걸릴까요. 이 상품의 답은 '채권(bonds)'이라는 자산군 자체이고, 요약설명서는 그 '채권'이 무엇인지를 직접 열거해 정의합니다. 그리고 '코어'라는 이름의 실질적 내용은 투자등급 미만 5% 상한이라는 한 줄에 들어 있습니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.VCRB는 어떤 ETF인가요?[사실] VCRB는 Vanguard가 운용하는 미국 상장 액티브 채권 ETF입니다. 거래소는 Nasdaq이며, 요약설명서는 펀드가 다양한 만기..",
+  "og_title": "VCRB ETF란? 지수가 없으면 80% 규칙은 무엇에 거는가 — 그리고 '코어'는 5%다",
+  "post_id": "695",
+  "published_time": "2026-10-17T01:42:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VCRB ETF란? 지수가 없으면 80% 규칙은 무엇에 거는가 — 그리고 '코어'는 5%다",
+  "url": "https://mystock-note.tistory.com/695"
+}

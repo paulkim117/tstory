@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-17T00:43:00+09:00",
+    "datePublished": "2026-10-17T00:42:09+09:00",
+    "description": "핵심 요약: QUS(State Street SPDR MSCI USA StrategicFactors ETF)가 추종하는 지수는 종목을 고르지 않습니다. 대신 이미 완성된 MSCI 지수 세 개를 각각 3분의 1씩 합쳐 하나로 만듭니다. 가치·퀄리티·최소변동성 지수가 그 재료입니다. 종목의 최종 비중은 각 재료 지수 안에서의 비중 × 그 재료 지수의 몫(3분의 1)으로 결정됩니다. 그리고 재료를 쓰는 구조이기 때문에 재료 하나를 못 쓰게 될 경우를 대비한 교체 조항이 규칙에 들어 있습니다. 이 글은 그 조립 구조를 SEC 제출서류 원문으로 정리합니다.QUS는 어떤 ETF인가요?[사실] QUS는 SSGA Funds Management, Inc.가 운용하는 미국 상장 ETF로, MSCI USA Factor Mix..",
+    "headline": "QUS ETF란? 종목이 아니라 지수 3개를 재료로 쓴다 — 그리고 부품 교체 조항",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/694",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/694"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "멀티팩터 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "합성 지수"
+      },
+      {
+        "@type": "Thing",
+        "name": "MSCI Factor Mix"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-17",
+    "datePublished": "2026-10-17",
+    "description": "QUS의 기초지수는 종목을 고르지 않는다. MSCI 가치·퀄리티·최소변동성 지수 세 개를 각 3분의 1씩 결합한 합성 지수이며, 각 구성 지수의 전 종목이 포함된다. 최소변동성 지수가 이용 불가해지면 Risk Weighted 지수로 교체하는 조항이 규칙에 들어 있다.",
+    "headline": "QUS ETF란? 종목이 아니라 지수 3개를 재료로 쓴다 — 그리고 부품 교체 조항",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/694",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

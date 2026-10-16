@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-16",
+  "body_html_length": 5926,
+  "canonical_url": "https://mystock-note.tistory.com/696",
+  "content_hash": "89209b1d89c7d8c980cb42f4eef7c877207ac5cfa01dd05f7b4beee5c7363cd7",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: FDNI(First Trust Dow Jones International Internet ETF)는 미국을 뺀 전 세계 인터넷 기업 40곳을 담습니다. 그런데 편입 자격을 읽어 보면 모든 나라에 같은 잣대를 대지 않습니다. 중국 기업은 A주면 안 되고, 인도 기업은 선진 시장에 있는 거래소에 상장돼 있어야 합니다. 다른 나라에는 이런 조건이 없습니다. 왜 두 나라만 따로 언급될까요. 답은 \"살 수 있는가\"에 있습니다. 이 글은 그 국가별 차등 조건을 SEC 제출서류 원문으로 정리합니다.FDNI는 어떤 ETF인가요?[사실] FDNI는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 S&P Dow Jones Indices LLC가 개발·유지·후원하며,..",
+  "modified_time": "2026-10-17T02:03:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/696\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/696\",\"headline\":\"FDNI ETF란? 중국은 A주 제외, 인도는 선진시장 상장 필수 — 나라마다 다른 편입 조건\",\"description\":\"핵심 요약: FDNI(First Trust Dow Jones International Internet ETF)는 미국을 뺀 전 세계 인터넷 기업 40곳을 담습니다. 그런데 편입 자격을 읽어 보면 모든 나라에 같은 잣대를 대지 않습니다. 중국 기업은 A주면 안 되고, 인도 기업은 선진 시장에 있는 거래소에 상장돼 있어야 합니다. 다른 나라에는 이런 조건이 없습니다. 왜 두 나라만 따로 언급될까요. 답은 \"살 수 있는가\"에 있습니다. 이 글은 그 국가별 차등 조건을 SEC 제출서류 원문으로 정리합니다.FDNI는 어떤 ETF인가요?[사실] FDNI는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 S&P Dow Jones Indices LLC가 개발·유지·후원하며,..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-17T02:02:14+09:00\",\"dateModified\":\"2026-10-17T02:03:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: FDNI(First Trust Dow Jones International Internet ETF)는 미국을 뺀 전 세계 인터넷 기업 40곳을 담습니다. 그런데 편입 자격을 읽어 보면 모든 나라에 같은 잣대를 대지 않습니다. 중국 기업은 A주면 안 되고, 인도 기업은 선진 시장에 있는 거래소에 상장돼 있어야 합니다. 다른 나라에는 이런 조건이 없습니다. 왜 두 나라만 따로 언급될까요. 답은 \"살 수 있는가\"에 있습니다. 이 글은 그 국가별 차등 조건을 SEC 제출서류 원문으로 정리합니다.FDNI는 어떤 ETF인가요?[사실] FDNI는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 S&P Dow Jones Indices LLC가 개발·유지·후원하며,..",
+  "og_title": "FDNI ETF란? 중국은 A주 제외, 인도는 선진시장 상장 필수 — 나라마다 다른 편입 조건",
+  "post_id": "696",
+  "published_time": "2026-10-17T02:02:14+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FDNI ETF란? 중국은 A주 제외, 인도는 선진시장 상장 필수 — 나라마다 다른 편입 조건",
+  "url": "https://mystock-note.tistory.com/696"
+}
