@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-18T01:05:00+09:00",
+    "datePublished": "2026-10-18T01:04:06+09:00",
+    "description": "핵심 요약: FICS(First Trust International Developed Capital Strength ETF)는 미국 제외 선진국 기업 50곳을 담습니다. 그런데 여기서 '선진국'을 정하는 것은 MSCI도 FTSE도 아닙니다. 지수 제공자인 Nasdaq이 자체 기준으로 판정하고, 그 기준에는 1인당 국민총소득 2만 달러 이상 3년 연속 같은 거시경제 지표가 들어갑니다. 시장 규모나 유동성만이 아니라 그 나라 국민의 소득 수준이 편입 자격의 일부인 셈입니다. 이 글은 그 판정 기준과 'Capital Strength'의 실체를 SEC 제출서류 원문으로 정리합니다.FICS는 어떤 ETF인가요?[사실] FICS는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기..",
+    "headline": "FICS ETF란? '선진국'을 국민소득 2만 달러로 정한다 — 지수사가 만든 자체 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/699",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/699"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "선진국 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "시장 분류 기준"
+      },
+      {
+        "@type": "Thing",
+        "name": "재무 건전성 선별"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-18",
+    "datePublished": "2026-10-18",
+    "description": "FICS의 기초지수는 MSCI나 FTSE의 선진국 명단을 쓰지 않는다. 지수 제공자 Nasdaq이 1인당 국민총소득 2만 달러 이상 3년 연속을 포함한 정량 기준 다섯 가지로 직접 판정한다. 'Capital Strength'는 현금 5억 달러·부채비율 30%·ROE 15% 등 네 개 배제 조건이다.",
+    "headline": "FICS ETF란? '선진국'을 국민소득 2만 달러로 정한다 — 지수사가 만든 자체 기준",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/699",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

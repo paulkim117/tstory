@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-18T03:31:00+09:00",
+    "datePublished": "2026-10-18T03:30:35+09:00",
+    "description": "핵심 요약: INDZ(VanEck India Select ETF)는 액티브 ETF입니다. 특이한 것은 포트폴리오를 두 개의 층으로 나눈다는 점입니다. 코어에는 확신이 높은 대형주를 두어 중심을 잡고, 위성에는 중소형주와 기회 종목을 둡니다. 즉 모든 종목이 같은 역할을 하지 않습니다. 종목을 빼는 기준도 특이합니다. 시장이나 동종업계와 비교하는 것이 아니라 그 회사 자신의 최근 밸류에이션 이력과 비교해 높으면 축소 대상이 됩니다. 이 글은 그 2층 구조를 SEC 제출서류 원문으로 정리합니다.INDZ는 어떤 ETF인가요?[사실] INDZ는 Van Eck Associates Corporation이 운용하는 액티브 ETF로, 주요 상장 거래소는 NYSE Arca입니다. 요약설명서는 이 펀드가 신규 설정되어 회..",
+    "headline": "INDZ ETF란? 한 상품 안에 코어와 위성 두 층 — 그리고 자기 과거와 비교하는 배제 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/701",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/701"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "인도 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "코어-위성 전략"
+      },
+      {
+        "@type": "Thing",
+        "name": "액티브 ETF"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-18",
+    "datePublished": "2026-10-18",
+    "description": "INDZ는 액티브 인도 ETF로 포트폴리오를 코어와 위성 두 층으로 나눈다. 코어는 확신 높은 대형주가 중심을 잡고 위성은 중소형주가 맡는다. 배제 기준은 ROE·ROIC 하락 전망과 그 기업 자신의 최근 밸류에이션 이력 대비 고평가다.",
+    "headline": "INDZ ETF란? 한 상품 안에 코어와 위성 두 층 — 그리고 자기 과거와 비교하는 배제 기준",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/701",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

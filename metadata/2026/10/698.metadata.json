@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-17",
+  "body_html_length": 5161,
+  "canonical_url": "https://mystock-note.tistory.com/698",
+  "content_hash": "2028b1639ef85446c15270a29c5abbb8297f7078d599152211f080d215619060",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: TCHI(iShares MSCI China Multisector Tech ETF)의 이름에 붙은 'Multisector'는 이 상품의 구조를 그대로 말해 줍니다. 기초지수는 기술 섹터에서 종목을 고르지 않습니다. 대신 GICS 분류에서 기술 관련 하위산업 24개를 지정하고, 그 하위산업들이 흩어져 있는 여섯 개 섹터에서 종목을 끌어옵니다. 그 여섯에는 금융과 헬스케어도 들어갑니다. 즉 이 지수에서는 금융회사나 제약회사도 '기술 기업'이 될 수 있습니다. 이 글은 그 재조립 구조를 SEC 제출서류 원문으로 정리합니다.TCHI는 어떤 ETF인가요?[사실] TCHI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 MSCI..",
+  "modified_time": "2026-10-18T00:04:05+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: TCHI(iShares MSCI China Multisector Tech ETF)의 이름에 붙은 'Multisector'는 이 상품의 구조를 그대로 말해 줍니다. 기초지수는 기술 섹터에서 종목을 고르지 않습니다. 대신 GICS 분류에서 기술 관련 하위산업 24개를 지정하고, 그 하위산업들이 흩어져 있는 여섯 개 섹터에서 종목을 끌어옵니다. 그 여섯에는 금융과 헬스케어도 들어갑니다. 즉 이 지수에서는 금융회사나 제약회사도 '기술 기업'이 될 수 있습니다. 이 글은 그 재조립 구조를 SEC 제출서류 원문으로 정리합니다.TCHI는 어떤 ETF인가요?[사실] TCHI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 MSCI..",
+  "og_title": "TCHI ETF란? 기술을 섹터가 아니라 하위산업 24개로 고른다 — 금융·헬스케어까지",
+  "post_id": "698",
+  "published_time": "2026-10-18T00:03:36+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "TCHI ETF란? 기술을 섹터가 아니라 하위산업 24개로 고른다 — 금융·헬스케어까지",
+  "url": "https://mystock-note.tistory.com/698"
+}

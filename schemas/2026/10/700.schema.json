@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "액티브 배당 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "벤치마크와 편입 목록"
+    },
+    {
+      "@type": "Thing",
+      "name": "MSCI ACWI"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-18",
+  "datePublished": "2026-10-18",
+  "description": "JDIV는 액티브 ETF로 MSCI ACWI 지수가 등장하지만 편입 목록이 아니라 비교·판정 기준이다. '배당 리더'는 지수 구성 기업 대비 상대 개념이며, 배당 성장 능력과 높은 배당성향 유지 능력 중 하나만 충족해도 된다. 판정은 운용사가 한다.",
+  "headline": "JDIV ETF란? 지수를 담지 않고 지수로 잰다 — '배당 리더'는 상대 개념이다",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/700",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

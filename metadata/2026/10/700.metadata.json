@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-17",
+  "body_html_length": 5296,
+  "canonical_url": "https://mystock-note.tistory.com/700",
+  "content_hash": "e73671fa07c5c7a9206fc7d921c398d4a4ae15872028d7d2a58de7c731a17801",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: JDIV(JPMorgan Dividend Leaders ETF)는 액티브 ETF입니다. 그런데 지수가 없는 것은 아닙니다. MSCI ACWI 지수가 있습니다. 다만 그 지수는 무엇을 살지를 알려주는 목록이 아닙니다. 운용사는 이 지수를 '리더'인지 아닌지를 재는 자로 씁니다. 요약설명서는 배당을 키우거나 높은 배당성향을 유지하는 능력이 \"지수에 포함된 기업들 대비(relative to)\" 뛰어난 기업을 리더로 본다고 규정합니다. 그리고 펀드는 지수에 구속되지 않는다고 명시합니다. 이 글은 그 관계를 SEC 제출서류 원문으로 정리합니다.JDIV는 어떤 ETF인가요?[사실] JDIV는 J.P. Morgan Exchange-Traded Fund Trust 소속 액티브 ETF입니다. 운용사는 통상적..",
+  "modified_time": "2026-10-18T02:05:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/700\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/700\",\"headline\":\"JDIV ETF란? 지수를 담지 않고 지수로 잰다 — '배당 리더'는 상대 개념이다\",\"description\":\"핵심 요약: JDIV(JPMorgan Dividend Leaders ETF)는 액티브 ETF입니다. 그런데 지수가 없는 것은 아닙니다. MSCI ACWI 지수가 있습니다. 다만 그 지수는 무엇을 살지를 알려주는 목록이 아닙니다. 운용사는 이 지수를 '리더'인지 아닌지를 재는 자로 씁니다. 요약설명서는 배당을 키우거나 높은 배당성향을 유지하는 능력이 \"지수에 포함된 기업들 대비(relative to)\" 뛰어난 기업을 리더로 본다고 규정합니다. 그리고 펀드는 지수에 구속되지 않는다고 명시합니다. 이 글은 그 관계를 SEC 제출서류 원문으로 정리합니다.JDIV는 어떤 ETF인가요?[사실] JDIV는 J.P. Morgan Exchange-Traded Fund Trust 소속 액티브 ETF입니다. 운용사는 통상적..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-18T02:04:39+09:00\",\"dateModified\":\"2026-10-18T02:05:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: JDIV(JPMorgan Dividend Leaders ETF)는 액티브 ETF입니다. 그런데 지수가 없는 것은 아닙니다. MSCI ACWI 지수가 있습니다. 다만 그 지수는 무엇을 살지를 알려주는 목록이 아닙니다. 운용사는 이 지수를 '리더'인지 아닌지를 재는 자로 씁니다. 요약설명서는 배당을 키우거나 높은 배당성향을 유지하는 능력이 \"지수에 포함된 기업들 대비(relative to)\" 뛰어난 기업을 리더로 본다고 규정합니다. 그리고 펀드는 지수에 구속되지 않는다고 명시합니다. 이 글은 그 관계를 SEC 제출서류 원문으로 정리합니다.JDIV는 어떤 ETF인가요?[사실] JDIV는 J.P. Morgan Exchange-Traded Fund Trust 소속 액티브 ETF입니다. 운용사는 통상적..",
+  "og_title": "JDIV ETF란? 지수를 담지 않고 지수로 잰다 — '배당 리더'는 상대 개념이다",
+  "post_id": "700",
+  "published_time": "2026-10-18T02:04:39+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "JDIV ETF란? 지수를 담지 않고 지수로 잰다 — '배당 리더'는 상대 개념이다",
+  "url": "https://mystock-note.tistory.com/700"
+}

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-17",
+  "body_html_length": 6597,
+  "canonical_url": "https://mystock-note.tistory.com/699",
+  "content_hash": "938441b886ade19f0ae5a47d3d3baf03c29ca0b27b004a7e48ea0083d3123ab7",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: FICS(First Trust International Developed Capital Strength ETF)는 미국 제외 선진국 기업 50곳을 담습니다. 그런데 여기서 '선진국'을 정하는 것은 MSCI도 FTSE도 아닙니다. 지수 제공자인 Nasdaq이 자체 기준으로 판정하고, 그 기준에는 1인당 국민총소득 2만 달러 이상 3년 연속 같은 거시경제 지표가 들어갑니다. 시장 규모나 유동성만이 아니라 그 나라 국민의 소득 수준이 편입 자격의 일부인 셈입니다. 이 글은 그 판정 기준과 'Capital Strength'의 실체를 SEC 제출서류 원문으로 정리합니다.FICS는 어떤 ETF인가요?[사실] FICS는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기..",
+  "modified_time": "2026-10-18T01:05:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: FICS(First Trust International Developed Capital Strength ETF)는 미국 제외 선진국 기업 50곳을 담습니다. 그런데 여기서 '선진국'을 정하는 것은 MSCI도 FTSE도 아닙니다. 지수 제공자인 Nasdaq이 자체 기준으로 판정하고, 그 기준에는 1인당 국민총소득 2만 달러 이상 3년 연속 같은 거시경제 지표가 들어갑니다. 시장 규모나 유동성만이 아니라 그 나라 국민의 소득 수준이 편입 자격의 일부인 셈입니다. 이 글은 그 판정 기준과 'Capital Strength'의 실체를 SEC 제출서류 원문으로 정리합니다.FICS는 어떤 ETF인가요?[사실] FICS는 First Trust가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기..",
+  "og_title": "FICS ETF란? '선진국'을 국민소득 2만 달러로 정한다 — 지수사가 만든 자체 기준",
+  "post_id": "699",
+  "published_time": "2026-10-18T01:04:06+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FICS ETF란? '선진국'을 국민소득 2만 달러로 정한다 — 지수사가 만든 자체 기준",
+  "url": "https://mystock-note.tistory.com/699"
+}

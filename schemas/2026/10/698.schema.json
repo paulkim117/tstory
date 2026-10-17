@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-18T00:04:05+09:00",
+    "datePublished": "2026-10-18T00:03:36+09:00",
+    "description": "핵심 요약: TCHI(iShares MSCI China Multisector Tech ETF)의 이름에 붙은 'Multisector'는 이 상품의 구조를 그대로 말해 줍니다. 기초지수는 기술 섹터에서 종목을 고르지 않습니다. 대신 GICS 분류에서 기술 관련 하위산업 24개를 지정하고, 그 하위산업들이 흩어져 있는 여섯 개 섹터에서 종목을 끌어옵니다. 그 여섯에는 금융과 헬스케어도 들어갑니다. 즉 이 지수에서는 금융회사나 제약회사도 '기술 기업'이 될 수 있습니다. 이 글은 그 재조립 구조를 SEC 제출서류 원문으로 정리합니다.TCHI는 어떤 ETF인가요?[사실] TCHI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 Nasdaq입니다. 기초지수는 MSCI..",
+    "headline": "TCHI ETF란? 기술을 섹터가 아니라 하위산업 24개로 고른다 — 금융·헬스케어까지",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/698",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/698"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "중국 기술 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "GICS 하위산업"
+      },
+      {
+        "@type": "Thing",
+        "name": "MSCI China Index"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-18",
+    "datePublished": "2026-10-18",
+    "description": "TCHI의 기초지수는 기술 섹터에서 종목을 고르지 않는다. 기술 관련 GICS 하위산업 24개를 지정해 커뮤니케이션 서비스·임의소비재·금융·헬스케어·산업재·정보기술 여섯 섹터에서 종목을 끌어온다. 가중은 외국인이 접근 가능한 부동주 기준이다.",
+    "headline": "TCHI ETF란? 기술을 섹터가 아니라 하위산업 24개로 고른다 — 금융·헬스케어까지",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/698",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]
