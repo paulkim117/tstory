@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-18",
+  "body_html_length": 5953,
+  "canonical_url": "https://mystock-note.tistory.com/702",
+  "content_hash": "61d12b0a62edb0461ec81bf4c1c9ed8c01ea906e93494355d4dc1cc3d6aa7477",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Invesco의 S&P 500 동일가중 섹터 ETF 11종은 RSP(S&P 500 전체 동일가중)와 XLK 같은 섹터 ETF 사이에 놓인 상품군입니다. 차이는 순서에 있습니다. RSP는 500종목을 먼저 동일가중해서 섹터 비중이 종목 수에 따라 저절로 정해집니다. 이 11종은 섹터로 먼저 나눈 뒤 각 섹터 안에서 동일가중하므로, 섹터 비중을 투자자가 직접 정합니다. 그리고 11종이 같은 규칙을 쓰는 것도 아닙니다. 세 종목에만 최소 22종목 조항이 붙어 있습니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.이 11종은 어떤 상품군인가요?[사실] Invesco가 운용하는 S&P 500 동일가중 섹터 ETF 11종입니다. 각 상품은 S&P 500 구성종목 중 GICS 기준으로 해당 ..",
+  "modified_time": "2026-10-19T00:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Invesco의 S&P 500 동일가중 섹터 ETF 11종은 RSP(S&P 500 전체 동일가중)와 XLK 같은 섹터 ETF 사이에 놓인 상품군입니다. 차이는 순서에 있습니다. RSP는 500종목을 먼저 동일가중해서 섹터 비중이 종목 수에 따라 저절로 정해집니다. 이 11종은 섹터로 먼저 나눈 뒤 각 섹터 안에서 동일가중하므로, 섹터 비중을 투자자가 직접 정합니다. 그리고 11종이 같은 규칙을 쓰는 것도 아닙니다. 세 종목에만 최소 22종목 조항이 붙어 있습니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.이 11종은 어떤 상품군인가요?[사실] Invesco가 운용하는 S&P 500 동일가중 섹터 ETF 11종입니다. 각 상품은 S&P 500 구성종목 중 GICS 기준으로 해당 ..",
+  "og_title": "S&P500 동일가중 섹터 ETF 11종 비교 — RSPT·RSPF·RSPC, RSP와 무엇이 다른가",
+  "post_id": "702",
+  "published_time": "2026-10-19T00:31:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P500 동일가중 섹터 ETF 11종 비교 — RSPT·RSPF·RSPC, RSP와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/702"
+}

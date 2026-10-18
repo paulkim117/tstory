@@ -1,0 +1,82 @@
+<!--
+source: https://mystock-note.tistory.com/704
+backup_date: 2026-10-18
+post_id: 704
+-->
+<p data-ke-size="size16"><b>핵심 요약:</b> RXI(iShares Global Consumer Discretionary ETF)는 전 세계 임의소비재 기업을 담습니다. 구조에서 눈여겨볼 것은 <b>비중 상한이 두 개의 선으로 되어 있다</b>는 점입니다. 지수가 지켜야 하는 <b>목표선은 「개별 5% 초과 종목들의 합계 25%」</b>인데, 실제 조정은 <b>「개별 4.5% 초과 종목들의 합계 22.5%」</b>라는 <b>더 엄격한 선</b>에서 이뤄집니다. 목표선에 닿기 전에 미리 조이는 설계입니다. 그리고 그 목표선이 정기 리뷰 사이에 뚫리면 <b>그날 장 마감에 곧바로 리밸런싱</b>합니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.</p>
+
+<h2 data-ke-size="size26">RXI는 어떤 ETF인가요?</h2>
+
+<p data-ke-size="size16">[사실] RXI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 NYSE Arca입니다. 기초지수는 <b>S&amp;P Global 1200 Consumer Discretionary (Sector) Capped Index</b>이며, 지수 제공자는 <b>S&amp;P Dow Jones Indices LLC</b>로 펀드·운용사와 독립돼 있습니다. [사실: SEC 497K 요약설명서 2026-07-31]</p>
+
+<figure><table data-ke-align="alignLeft">
+<caption>표1. RXI 기본 구조 (출처: SEC 497K 2026-07-31 / 확인일 2026-10-19)</caption>
+<thead>
+<tr><th scope="col">항목</th><th scope="col">내용</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">정식 명칭</th><td>iShares Global Consumer Discretionary ETF</td></tr>
+<tr><th scope="row">기초지수</th><td>S&amp;P Global 1200 Consumer Discretionary (Sector) Capped Index</td></tr>
+<tr><th scope="row">모지수</th><td><b>S&amp;P Global 1200</b> — 주요 글로벌 시장의 <b>대형주</b></td></tr>
+<tr><th scope="row">상한 목표선</th><td>개별 <b>5% 초과</b> 발행인들의 합계 <b>25%</b> 이하</td></tr>
+<tr><th scope="row">상한 작동선</th><td>개별 <b>4.50% 초과</b> 발행인들의 합계 <b>22.50%</b> 이하</td></tr>
+<tr><th scope="row">80% 정책</th><td>순자산 + 차입금 — <b>이사회가 60일 통지로 변경 가능</b></td></tr>
+<tr><th scope="row">복제 방식</th><td>표본추출 — 전 종목 보유하지 않을 수 있음</td></tr>
+<tr><th scope="row">증권대여</th><td>총자산의 <b>3분의 1</b>까지</td></tr>
+</tbody>
+</table></figure>
+
+<p data-ke-size="size16"><b>해석:</b> 네 번째와 다섯 번째 줄이 이 글의 주제입니다. 상한이 하나가 아니라 <b>두 개</b>이고, 실제로 작동하는 쪽은 <b>더 낮은 선</b>입니다.</p>
+
+
+
+<h2 data-ke-size="size26">왜 상한이 두 개인가요?</h2>
+
+<p data-ke-size="size16">[사실] 요약설명서의 문언 순서가 그대로 답입니다. 먼저 캡핑 방법론이 <b>개별적으로 지수 비중의 5%를 넘는 모든 발행인 증권의 비중 합계를 최대 25%로 제한</b>한다고 규정합니다. 그리고 이어서 <b>"이 캡핑 방법론을 구현하기 위해"</b> 지수가 분기 리밸런싱에서 <b>개별적으로 4.50%를 넘는 모든 발행인의 합계 비중을 최대 22.50%로 제한</b>한다고 기술합니다.</p>
+
+<figure><table data-ke-align="alignLeft">
+<caption>표2. 두 선의 역할 (출처: SEC 497K 2026-07-31)</caption>
+<thead>
+<tr><th scope="col">구분</th><th scope="col">기준</th><th scope="col">성격</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row"><b>목표선</b></th><td>개별 5% 초과 → 합계 25%</td><td><b>지켜야 하는 한계</b></td></tr>
+<tr><th scope="row"><b>작동선</b></th><td>개별 4.50% 초과 → 합계 22.50%</td><td><b>분기마다 실제로 맞추는 값</b></td></tr>
+</tbody>
+</table></figure>
+
+<p data-ke-size="size16"><b>해석:</b> 두 선의 차이가 <b>여유분</b>입니다. 분기 리밸런싱 직후 지수는 22.5%에 맞춰져 있습니다. 그 뒤 3개월 동안 주가가 움직이면서 이 값은 올라갈 수 있는데, <b>25%에 닿기까지 2.5%포인트의 완충 구간</b>이 있습니다.</p>
+
+<p data-ke-size="size16">[판단] 정확히 목표선에 맞춰 조정하면 어떻게 될지를 생각하면 설계 의도가 보입니다. 25%에 딱 맞춰 두면 <b>다음 날 주가가 조금만 올라도 바로 위반</b>입니다. 그때마다 리밸런싱하면 거래가 끝없이 발생합니다. 미리 낮게 조여 두면 <b>대부분의 기간을 조정 없이 넘길 수 있습니다.</b></p>
+
+
+
+<h2 data-ke-size="size26">완충 구간이 뚫리면 어떻게 되나요?</h2>
+
+<p data-ke-size="size16">[사실] 요약설명서는 이 경우를 별도로 규정합니다. <b>정기 분기 리뷰 사이라도</b>, 개별적으로 지수 비중의 5%를 넘는 발행인들이 합계로 25%를 넘게 되면, <b>그날 종료 시점에 지수가 리밸런싱</b>됩니다.</p>
+
+<p data-ke-size="size16"><b>해석:</b> 즉 이 지수에는 <b>정기 일정과 별개로 작동하는 감시 장치</b>가 있습니다. 분기마다 정해진 날에만 손보는 것이 아니라, <b>목표선이 뚫리는 날에 즉시</b> 조정합니다.</p>
+
+<p data-ke-size="size16">[판단] 여기서 두 선의 관계가 완성됩니다. <b>작동선(4.5/22.5)은 평상시의 조정값이고, 목표선(5/25)은 비상 발동 조건</b>입니다. 하나는 정기적으로 맞추는 값, 다른 하나는 넘으면 안 되는 값입니다. 상한을 하나의 숫자로만 이해하면 이 구조가 보이지 않습니다.</p>
+
+<h2 data-ke-size="size26">이런 상한이 왜 필요한가요?</h2>
+
+<p data-ke-size="size16">[판단] 임의소비재 섹터의 성격 때문입니다. 이 섹터에는 전 세계적으로 규모가 매우 큰 기업들이 소수 존재합니다. 시가총액 가중을 그대로 적용하면 <b>몇 개 기업이 지수의 상당 부분을 차지합니다.</b></p>
+
+<p data-ke-size="size16"><b>해석:</b> 상한이 없으면 '글로벌 임의소비재 ETF'가 사실상 <b>소수 대형주에 대한 투자</b>가 됩니다. 지역과 산업을 넓게 담는다는 상품의 취지와 실제 노출이 어긋납니다. 미국 시장 안에서도 임의소비재 섹터가 소수 대형주에 집중되는 구조는 <a href="https://mystock-note.tistory.com/434">XLY가 담는 임의소비재의 구조를 정리한 글</a>에서 다뤘습니다.</p>
+
+<p data-ke-size="size16">[사실] 캡핑을 적용할 때 지수 제공자는 <b>공통 지배에 관한 합리적 증거가 있으면 둘 이상의 회사를 같은 발행인으로 간주</b>할 수 있습니다.</p>
+
+<p data-ke-size="size16"><b>해석:</b> 이 조항은 상한을 <b>우회하지 못하게</b> 합니다. 한 기업집단이 여러 상장사로 나뉘어 있으면 회사 단위 상한만으로는 실질 집중도가 관리되지 않기 때문입니다.</p>
+
+<h2 data-ke-size="size26">어느 나라 기업이 담기나요?</h2>
+
+<p data-ke-size="size16">[사실] 2026년 3월 31일 기준 기초지수는 다음 국가·지역 기업으로 구성됐습니다. <b>호주, 캐나다, 칠레, 중국, 덴마크, 프랑스, 독일, 이탈리아, 일본, 네덜란드, 한국, 스페인, 스웨덴, 스위스, 영국, 미국</b>입니다.</p>
+
+<p data-ke-size="size16"><b>해석:</b> 목록에 <b>한국이 포함</b>돼 있다는 점을 확인해야 합니다. 국내 투자자가 이미 국내 주식을 보유한 상태에서 이 상품을 담으면 <b>같은 시장에 대한 노출이 겹칩니다.</b> '글로벌'이라는 이름이 자국을 제외한다는 뜻은 아닙니다. 자국 중복 문제와 그 판단 기준은 <a href="https://mystock-note.tistory.com/423">VEA에 한국이 포함되는 구조를 정리한 글</a>과 <a href="https://mystock-note.tistory.com/368">VWO·IEMG의 한국 분류 차이를 비교한 글</a>에서 다뤘습니다.</p>
+
+<p data-ke-size="size16">[사실] 요약설명서는 <b>구성종목이 시간이 지나면서 바뀔 가능성이 크다</b>고 명시합니다.</p>
+
+<div style="border:1px solid #dde2e7;border-radius:8px;padding:16px;margin:24px 0;">
+<p data-ke-size="size16" style="margin:0 0 12px 0;"><b>RXI 확인 우선순위</b></p>
+<div style="margin-bottom:10px;"><span style="display:inline-block;width:205px;">두 상한선의 구조</span><span style="display:inline-block;height:14px;width:100%;max-width:235px;background:#2f6fb0;vertical-align:middle;"></span> <b>1순위</b>

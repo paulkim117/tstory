@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-19T02:32:00+09:00",
+    "datePublished": "2026-10-19T02:31:56+09:00",
+    "description": "핵심 요약: RXI(iShares Global Consumer Discretionary ETF)는 전 세계 임의소비재 기업을 담습니다. 구조에서 눈여겨볼 것은 비중 상한이 두 개의 선으로 되어 있다는 점입니다. 지수가 지켜야 하는 목표선은 「개별 5% 초과 종목들의 합계 25%」인데, 실제 조정은 「개별 4.5% 초과 종목들의 합계 22.5%」라는 더 엄격한 선에서 이뤄집니다. 목표선에 닿기 전에 미리 조이는 설계입니다. 그리고 그 목표선이 정기 리뷰 사이에 뚫리면 그날 장 마감에 곧바로 리밸런싱합니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.RXI는 어떤 ETF인가요?[사실] RXI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 NYSE ..",
+    "headline": "RXI ETF란? 상한이 두 개다 — 5%/25%를 지키려고 4.5%/22.5%에서 미리 조인다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/704",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/704"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "글로벌 섹터 ETF"
+      },
+      {
+        "@type": "Thing",
+        "name": "지수 캡핑 방법론"
+      },
+      {
+        "@type": "Thing",
+        "name": "임의소비재"
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Stock Memo"
+    },
+    "dateModified": "2026-10-19",
+    "datePublished": "2026-10-19",
+    "description": "RXI의 기초지수는 개별 5% 초과 종목 합계 25%라는 목표선을 지키기 위해, 분기 리밸런싱에서는 개별 4.50% 초과 종목 합계 22.50%라는 더 엄격한 선에 맞춘다. 정기 리뷰 사이에 목표선이 뚫리면 그날 종료 시점에 즉시 리밸런싱된다.",
+    "headline": "RXI ETF란? 상한이 두 개다 — 5%/25%를 지키려고 4.5%/22.5%에서 미리 조인다",
+    "inLanguage": "ko-KR",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/704",
+      "@type": "WebPage"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Stock Memo"
+    }
+  }
+]

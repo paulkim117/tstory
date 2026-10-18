@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-18",
+  "body_html_length": 6206,
+  "canonical_url": "https://mystock-note.tistory.com/705",
+  "content_hash": "8459e840c82e3061318aa1a7436473c73026e7635bf09c2d7b9a7fd677a93e24",
+  "json_ld_count": 1,
+  "meta_description": "핵심 요약: BBEM(JPMorgan BetaBuilders Emerging Markets Equity ETF)은 2026년 6월 19일부터 두 가지를 동시에 바꿉니다. 첫째, 지금까지 분산형이던 펀드가 비분산형으로 운영될 수 있게 됩니다. 둘째, 표본추출에서 완전복제로 전략을 바꿉니다. 두 변경은 따로가 아닙니다. 요약설명서 보충서는 \"기초지수의 구성을 근사하기 위해 필요한 범위에서\" 분산 요건을 넘어설 수 있게 한다고 명시합니다. 즉 지수를 정확히 따라가기 위해 규제상 분산 지위를 내놓는 구조입니다. 이 글은 그 전환을 SEC 제출서류 원문으로 정리합니다.BBEM은 어떤 ETF인가요?[사실] BBEM은 J.P. Morgan Exchange-Traded Fund Trust 소속 패시브 ETF로, 기초지..",
+  "modified_time": "2026-10-19T03:33:11+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/705\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/705\",\"headline\":\"BBEM ETF란? 지수를 그대로 담으려고 분산형을 내놓았다 — 2026년 6월 전략 변경\",\"description\":\"핵심 요약: BBEM(JPMorgan BetaBuilders Emerging Markets Equity ETF)은 2026년 6월 19일부터 두 가지를 동시에 바꿉니다. 첫째, 지금까지 분산형이던 펀드가 비분산형으로 운영될 수 있게 됩니다. 둘째, 표본추출에서 완전복제로 전략을 바꿉니다. 두 변경은 따로가 아닙니다. 요약설명서 보충서는 \"기초지수의 구성을 근사하기 위해 필요한 범위에서\" 분산 요건을 넘어설 수 있게 한다고 명시합니다. 즉 지수를 정확히 따라가기 위해 규제상 분산 지위를 내놓는 구조입니다. 이 글은 그 전환을 SEC 제출서류 원문으로 정리합니다.BBEM은 어떤 ETF인가요?[사실] BBEM은 J.P. Morgan Exchange-Traded Fund Trust 소속 패시브 ETF로, 기초지..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-19T03:32:31+09:00\",\"dateModified\":\"2026-10-19T03:33:11+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "핵심 요약: BBEM(JPMorgan BetaBuilders Emerging Markets Equity ETF)은 2026년 6월 19일부터 두 가지를 동시에 바꿉니다. 첫째, 지금까지 분산형이던 펀드가 비분산형으로 운영될 수 있게 됩니다. 둘째, 표본추출에서 완전복제로 전략을 바꿉니다. 두 변경은 따로가 아닙니다. 요약설명서 보충서는 \"기초지수의 구성을 근사하기 위해 필요한 범위에서\" 분산 요건을 넘어설 수 있게 한다고 명시합니다. 즉 지수를 정확히 따라가기 위해 규제상 분산 지위를 내놓는 구조입니다. 이 글은 그 전환을 SEC 제출서류 원문으로 정리합니다.BBEM은 어떤 ETF인가요?[사실] BBEM은 J.P. Morgan Exchange-Traded Fund Trust 소속 패시브 ETF로, 기초지..",
+  "og_title": "BBEM ETF란? 지수를 그대로 담으려고 분산형을 내놓았다 — 2026년 6월 전략 변경",
+  "post_id": "705",
+  "published_time": "2026-10-19T03:32:31+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BBEM ETF란? 지수를 그대로 담으려고 분산형을 내놓았다 — 2026년 6월 전략 변경",
+  "url": "https://mystock-note.tistory.com/705"
+}

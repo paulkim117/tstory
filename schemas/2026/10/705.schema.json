@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "신흥국 ETF"
+    },
+    {
+      "@type": "Thing",
+      "name": "분산형과 비분산형"
+    },
+    {
+      "@type": "Thing",
+      "name": "복제 방식"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Stock Memo"
+  },
+  "dateModified": "2026-10-19",
+  "datePublished": "2026-10-19",
+  "description": "BBEM은 2026년 6월 19일 발효로 표본추출에서 완전복제로, 분산형에서 비분산형 운영 가능으로 전략을 동시에 바꿨다. 보충서는 기초지수의 구성을 근사하기 위해 필요한 범위라고 명시한다. 향후 지위가 바뀌어도 주주 승인을 구하지 않는다.",
+  "headline": "BBEM ETF란? 지수를 그대로 담으려고 분산형을 내놓았다 — 2026년 6월 전략 변경",
+  "inLanguage": "ko-KR",
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": {
+    "@id": "https://mystock-note.tistory.com/705",
+    "@type": "WebPage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stock Memo"
+  }
+}

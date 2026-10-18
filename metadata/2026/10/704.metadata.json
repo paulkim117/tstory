@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-18",
+  "body_html_length": 5106,
+  "canonical_url": "https://mystock-note.tistory.com/704",
+  "content_hash": "d341f2ce3331f617f34debd3e139eff3712c1d803d464e373fcb5a1844d74139",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: RXI(iShares Global Consumer Discretionary ETF)는 전 세계 임의소비재 기업을 담습니다. 구조에서 눈여겨볼 것은 비중 상한이 두 개의 선으로 되어 있다는 점입니다. 지수가 지켜야 하는 목표선은 「개별 5% 초과 종목들의 합계 25%」인데, 실제 조정은 「개별 4.5% 초과 종목들의 합계 22.5%」라는 더 엄격한 선에서 이뤄집니다. 목표선에 닿기 전에 미리 조이는 설계입니다. 그리고 그 목표선이 정기 리뷰 사이에 뚫리면 그날 장 마감에 곧바로 리밸런싱합니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.RXI는 어떤 ETF인가요?[사실] RXI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 NYSE ..",
+  "modified_time": "2026-10-19T02:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: RXI(iShares Global Consumer Discretionary ETF)는 전 세계 임의소비재 기업을 담습니다. 구조에서 눈여겨볼 것은 비중 상한이 두 개의 선으로 되어 있다는 점입니다. 지수가 지켜야 하는 목표선은 「개별 5% 초과 종목들의 합계 25%」인데, 실제 조정은 「개별 4.5% 초과 종목들의 합계 22.5%」라는 더 엄격한 선에서 이뤄집니다. 목표선에 닿기 전에 미리 조이는 설계입니다. 그리고 그 목표선이 정기 리뷰 사이에 뚫리면 그날 장 마감에 곧바로 리밸런싱합니다. 이 글은 그 구조를 SEC 제출서류 원문으로 정리합니다.RXI는 어떤 ETF인가요?[사실] RXI는 BlackRock Fund Advisors(BFA)가 운용하는 미국 상장 ETF로, 거래소는 NYSE ..",
+  "og_title": "RXI ETF란? 상한이 두 개다 — 5%/25%를 지키려고 4.5%/22.5%에서 미리 조인다",
+  "post_id": "704",
+  "published_time": "2026-10-19T02:31:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "RXI ETF란? 상한이 두 개다 — 5%/25%를 지키려고 4.5%/22.5%에서 미리 조인다",
+  "url": "https://mystock-note.tistory.com/704"
+}

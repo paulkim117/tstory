@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-18",
+  "body_html_length": 6178,
+  "canonical_url": "https://mystock-note.tistory.com/703",
+  "content_hash": "b0108a600c3d64ad0ed025474123f915073a7cf05f596221ffc5e51eba8910a8",
+  "json_ld_count": 2,
+  "meta_description": "핵심 요약: Invesco의 S&P 중소형 팩터 ETF 10종은 같은 모지수(S&P MidCap 400 · SmallCap 600)에 팩터를 하나씩 얹은 라인업입니다. 그런데 공통점은 모지수뿐입니다. 가중 방식이 10종 모두 다릅니다. 저변동성은 변동성의 역수로, 매출은 매출액으로, 고배당은 배당수익률로, 퀄리티는 퀄리티 점수와 시가총액의 곱으로 가중합니다. 즉 이 상품군에서 팩터는 종목을 고르는 데만 쓰이는 것이 아니라 비중을 정하는 자이기도 합니다. 이 글은 10종의 선정·가중 규칙을 SEC 제출서류 원문으로 정리합니다.이 10종은 어떤 상품군인가요?[사실] 모두 Invesco가 운용하고 S&P Dow Jones Indices LLC가 지수를 산출하며, 각 펀드는 총자산의 90% 이상을 기초지수 구성..",
+  "modified_time": "2026-10-19T01:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "핵심 요약: Invesco의 S&P 중소형 팩터 ETF 10종은 같은 모지수(S&P MidCap 400 · SmallCap 600)에 팩터를 하나씩 얹은 라인업입니다. 그런데 공통점은 모지수뿐입니다. 가중 방식이 10종 모두 다릅니다. 저변동성은 변동성의 역수로, 매출은 매출액으로, 고배당은 배당수익률로, 퀄리티는 퀄리티 점수와 시가총액의 곱으로 가중합니다. 즉 이 상품군에서 팩터는 종목을 고르는 데만 쓰이는 것이 아니라 비중을 정하는 자이기도 합니다. 이 글은 10종의 선정·가중 규칙을 SEC 제출서류 원문으로 정리합니다.이 10종은 어떤 상품군인가요?[사실] 모두 Invesco가 운용하고 S&P Dow Jones Indices LLC가 지수를 산출하며, 각 펀드는 총자산의 90% 이상을 기초지수 구성..",
+  "og_title": "S&P 중소형 팩터 ETF 10종 비교 — XSVM·XSMO·XSHQ, 팩터가 가중까지 정한다",
+  "post_id": "703",
+  "published_time": "2026-10-19T01:31:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P 중소형 팩터 ETF 10종 비교 — XSVM·XSMO·XSHQ, 팩터가 가중까지 정한다",
+  "url": "https://mystock-note.tistory.com/703"
+}
