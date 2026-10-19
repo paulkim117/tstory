@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-20T00:51:00+09:00",
+    "datePublished": "2026-10-20T00:50:33+09:00",
+    "description": "IDEF는 iShares(블랙록)가 운용하는 액티브 방산 ETF다. 핵심은 이름이 아니라 투자정책의 측정 단위에 있다. 80% 정책이 방산·관련 산업재 기업과 기술 기업의 '합'으로 측정되기 때문에, 어느 한쪽만 보면 80%에 미달할 수 있다. 대신 항공우주·방산 산업 최소 50%라는 별도 조항이 붙는다. ITA·PPA 같은 지수형 방산 ETF와 어디가 다른지, 2026년 8월 예정된 명칭·전략 변경이 무엇인지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.IDEF는 어떤 ETF인가?IDEF는 글로벌 국방·안보 지출 증가로 수혜를 볼 것으로 운용역이 판단하는 기업에 투자해 총수익 극대화를 목표로 하는 액티브 ETF다. [사실..",
+    "headline": "IDEF ETF란? ITA와 차이, 방산+기술 합산 80% 정책과 항공우주·방산 최소 50% 조항 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/706",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/706"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/706/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/706/#etf-idef"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-20",
+        "datePublished": "2026-10-20",
+        "description": "IDEF는 iShares 액티브 방산 ETF다. 80% 정책이 방산·산업재와 기술의 합으로 측정되는 구조, 항공우주·방산 최소 50% 조항, ITA·PPA와의 차이를 SEC 원문 기준으로 정리한다.",
+        "headline": "IDEF ETF란? ITA와 차이, 방산+기술 합산 80% 정책과 항공우주·방산 최소 50% 조항 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/706"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/706/#etf-idef",
+        "@type": "Thing",
+        "description": "글로벌 국방·안보 지출 증가 수혜 기업에 투자하는 iShares의 액티브 ETF. 80% 투자정책이 방산·관련 산업재 기업과 기술 기업의 합으로 측정되며, 항공우주·방산 산업에 순자산 최소 50%를 유지할 의도를 밝히고 있다. 비분산형으로 분류된다.",
+        "name": "iShares Defense Industrials Active ETF (IDEF)"
+      }
+    ]
+  }
+]

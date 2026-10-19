@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-20T01:51:00+09:00",
+    "datePublished": "2026-10-20T01:50:55+09:00",
+    "description": "PFIG는 Invesco가 운용하는 미국 투자등급 회사채 ETF다. 다른 회사채 ETF와 갈리는 지점은 담는 대상이 아니라 비중을 정하는 기준에 있다. 통상의 회사채 지수는 발행잔액이 클수록 비중이 커지지만, PFIG가 추종하는 지수는 발행 기업의 회계 4지표(자산 장부가·총매출·총배당·현금흐름)로 비중을 계산한다. 그리고 그 계산값이 음수인 기업은 아예 편입되지 않는다. 즉 가중 계산이 선정까지 결정한다. LQD 같은 표준형 투자등급 회사채 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.PFIG는 어떤 ETF인가?PFIG는 RAFI® Bonds U.S. Investment Grade 1-10 Inde..",
+    "headline": "PFIG ETF란? LQD와 차이 — 회사채 비중을 발행잔액이 아니라 기업 회계 4지표로 정하는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/707",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/707"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/707/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/707/#etf-pfig"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-20",
+        "datePublished": "2026-10-20",
+        "description": "PFIG는 RAFI Bonds U.S. Investment Grade 1-10 지수를 추종한다. 회사채 비중을 발행잔액이 아니라 자산 장부가·매출·배당·현금흐름 4지표로 정하고 그 값이 음수면 편입이 배제되는 구조를 SEC 원문으로 정리한다.",
+        "headline": "PFIG ETF란? LQD와 차이 — 회사채 비중을 발행잔액이 아니라 기업 회계 4지표로 정하는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/707"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/707/#etf-pfig",
+        "@type": "Thing",
+        "description": "RAFI Bonds U.S. Investment Grade 1-10 Index를 추종하는 미국 투자등급 회사채 ETF. 자산 장부가·총매출·총배당·현금흐름 네 가지 기업 회계 변수로 비중을 산출하며, 복합 가중치가 음수인 기업은 편입 자격을 잃는다. 발행인당 최대 2종목, 매월 재구성·연 1회 가중 구조.",
+        "name": "Invesco Fundamental Investment Grade Corporate Bond ETF (PFIG)"
+      }
+    ]
+  }
+]

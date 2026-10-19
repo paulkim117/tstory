@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-19",
+  "body_html_length": 13340,
+  "canonical_url": "https://mystock-note.tistory.com/708",
+  "content_hash": "48b7406f674d6289383dcf817359f63f3977ddb78591b5b5d997d0f668d6e1db",
+  "json_ld_count": 2,
+  "meta_description": "NANR은 State Street(SPDR)가 운용하는 북미 천연자원 주식 ETF다. 원자재 선물이 아니라 미국·캐나다에 상장된 기업 주식을 담는다. 구조의 핵심은 구성이 아니라 비중을 정하는 주체에 있다. 이 상품이 추종하는 지수는 에너지·금속광업·농업 세 범주의 합산 비중을 분기마다 45%·35%·20%로 배정하고, 시가총액 가중은 각 범주 안에서만 작동시킨다. 즉 범주 사이의 비중은 시장이 정하지 않는다. XLE 같은 섹터 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.NANR은 어떤 ETF인가?NANR은 S&P BMI North American Natural Resources Index의 성과를..",
+  "modified_time": "2026-10-20T02:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "NANR은 State Street(SPDR)가 운용하는 북미 천연자원 주식 ETF다. 원자재 선물이 아니라 미국·캐나다에 상장된 기업 주식을 담는다. 구조의 핵심은 구성이 아니라 비중을 정하는 주체에 있다. 이 상품이 추종하는 지수는 에너지·금속광업·농업 세 범주의 합산 비중을 분기마다 45%·35%·20%로 배정하고, 시가총액 가중은 각 범주 안에서만 작동시킨다. 즉 범주 사이의 비중은 시장이 정하지 않는다. XLE 같은 섹터 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.NANR은 어떤 ETF인가?NANR은 S&P BMI North American Natural Resources Index의 성과를..",
+  "og_title": "NANR ETF란? XLE와 차이 — 에너지·금속광업·농업 비중을 45:35:20으로 고정하는 구조 확인",
+  "post_id": "708",
+  "published_time": "2026-10-20T02:51:17+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NANR ETF란? XLE와 차이 — 에너지·금속광업·농업 비중을 45:35:20으로 고정하는 구조 확인",
+  "url": "https://mystock-note.tistory.com/708"
+}

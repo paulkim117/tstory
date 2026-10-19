@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-19",
+  "body_html_length": 12360,
+  "canonical_url": "https://mystock-note.tistory.com/709",
+  "content_hash": "dea594a40b8574e35b9281dfd6e28ef086db12c5ee2ff602f0d25e86e0f838c7",
+  "json_ld_count": 2,
+  "meta_description": "IEV는 iShares(블랙록)가 운용하는 유럽 대형주 ETF다. 대부분의 광역 지수는 시가총액 순위나 누적 비율 같은 기계적 컷오프로 종목을 정한다. IEV가 추종하는 S&P Europe 350은 다르다. 지수사업자가 시장 규모·유동성·산업군 대표성·지리적 다양성 네 가지 기준으로 종목을 고른다. 뒤의 두 기준은 종목 자체의 속성이 아니라 지수 전체의 구성 균형에 관한 것이다. 즉 어떤 기업의 편입 여부가 다른 기업들과의 관계에 달려 있다. VGK 같은 전 규모(All Cap) 유럽 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.IEV는 어떤 ETF인가?IEV는 S&P Europe 350의 투자 성과..",
+  "modified_time": "2026-10-20T03:52:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IEV는 iShares(블랙록)가 운용하는 유럽 대형주 ETF다. 대부분의 광역 지수는 시가총액 순위나 누적 비율 같은 기계적 컷오프로 종목을 정한다. IEV가 추종하는 S&P Europe 350은 다르다. 지수사업자가 시장 규모·유동성·산업군 대표성·지리적 다양성 네 가지 기준으로 종목을 고른다. 뒤의 두 기준은 종목 자체의 속성이 아니라 지수 전체의 구성 균형에 관한 것이다. 즉 어떤 기업의 편입 여부가 다른 기업들과의 관계에 달려 있다. VGK 같은 전 규모(All Cap) 유럽 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.IEV는 어떤 ETF인가?IEV는 S&P Europe 350의 투자 성과..",
+  "og_title": "IEV ETF란? VGK와 차이 — 유럽 350종목을 지수사업자가 4개 기준으로 '고르는' 구조 확인",
+  "post_id": "709",
+  "published_time": "2026-10-20T03:51:39+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IEV ETF란? VGK와 차이 — 유럽 350종목을 지수사업자가 4개 기준으로 '고르는' 구조 확인",
+  "url": "https://mystock-note.tistory.com/709"
+}

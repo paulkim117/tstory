@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-20T03:52:00+09:00",
+    "datePublished": "2026-10-20T03:51:39+09:00",
+    "description": "IEV는 iShares(블랙록)가 운용하는 유럽 대형주 ETF다. 대부분의 광역 지수는 시가총액 순위나 누적 비율 같은 기계적 컷오프로 종목을 정한다. IEV가 추종하는 S&P Europe 350은 다르다. 지수사업자가 시장 규모·유동성·산업군 대표성·지리적 다양성 네 가지 기준으로 종목을 고른다. 뒤의 두 기준은 종목 자체의 속성이 아니라 지수 전체의 구성 균형에 관한 것이다. 즉 어떤 기업의 편입 여부가 다른 기업들과의 관계에 달려 있다. VGK 같은 전 규모(All Cap) 유럽 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.IEV는 어떤 ETF인가?IEV는 S&P Europe 350의 투자 성과..",
+    "headline": "IEV ETF란? VGK와 차이 — 유럽 350종목을 지수사업자가 4개 기준으로 '고르는' 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/709",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/709"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/709/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/709/#etf-iev"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-20",
+        "datePublished": "2026-10-20",
+        "description": "IEV는 S&P Europe 350을 추종한다. 종목이 시장 규모·유동성·산업군 대표성·지리적 다양성 네 기준으로 선정되는 구조와 EU 경계와 어긋나는 16개국 명단을 SEC 원문으로 정리한다.",
+        "headline": "IEV ETF란? VGK와 차이 — 유럽 350종목을 지수사업자가 4개 기준으로 '고르는' 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/709"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/709/#etf-iev",
+        "@type": "Thing",
+        "description": "S&P Europe 350을 대표표본추출로 추종하는 유럽 대형주 ETF. 종목은 시장 규모, 유동성, 산업군 대표성, 지리적 다양성을 위해 S&P Dow Jones Indices가 선정하며, 대상 국가는 오스트리아부터 영국까지 16개국 명단으로 정의된다. S&P Global 1200의 부분집합이다.",
+        "name": "iShares Europe ETF (IEV)"
+      }
+    ]
+  }
+]
