@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-21T02:38:00+09:00",
+    "datePublished": "2026-10-21T02:37:17+09:00",
+    "description": "BMED는 iShares(블랙록)가 운용하는 헬스케어 혁신 액티브 ETF다. 이 상품에서 확인해야 할 것은 종목 선정 능력이 아니라 '헬스케어'의 경계를 누가 긋는가다. 원문은 편입 판정을 두 단계로 나눈다. 제3자 산업 분류 체계가 해당 기업을 건강과학 산업군으로 분류하면 그대로 인정하고, 그 체계가 어떤 산업으로도 분류하지 않은 경우에만 운용사가 판단한다. 즉 운용사의 재량에 발동 조건이 걸려 있다. 또 하나, 이 상품의 '건강과학'에는 사람뿐 아니라 작물·가축·반려동물이 포함된다. XLV 같은 섹터 지수형 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.BMED는 어떤 ETF인가?BMED는 추종 지수..",
+    "headline": "BMED ETF란? XLV와 차이 — '헬스케어'의 경계를 외부 분류 체계가 먼저 긋는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/712",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/712"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/712/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/712/#etf-bmed"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-21",
+        "datePublished": "2026-10-21",
+        "description": "BMED는 iShares의 헬스케어 혁신 액티브 ETF다. 편입 판정이 제3자 분류 체계 우선이고 운용사는 미분류 시에만 개입하는 구조, 작물·반려동물까지 포함되는 범위를 SEC 원문으로 정리한다.",
+        "headline": "BMED ETF란? XLV와 차이 — '헬스케어'의 경계를 외부 분류 체계가 먼저 긋는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/712"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/712/#etf-bmed",
+        "@type": "Thing",
+        "description": "건강과학 산업군의 혁신·신흥 기업에 투자하는 iShares의 액티브 ETF. 편입 판정은 제3자 산업 분류 체계를 우선하고 그 체계가 어떤 산업으로도 분류하지 않은 경우에만 운용사가 판단한다. 범위에 작물·가축·반려동물 건강 관련 기업이 포함되며 중·소형주에 집중한다.",
+        "name": "iShares Health Innovation Active ETF (BMED)"
+      }
+    ]
+  }
+]

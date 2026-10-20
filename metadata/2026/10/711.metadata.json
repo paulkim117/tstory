@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-20",
+  "body_html_length": 14123,
+  "canonical_url": "https://mystock-note.tistory.com/711",
+  "content_hash": "50d7dfcd2108a7d1a07d72787cc0f4fe7e71ef3358eebdf5c8ca899963b2b494",
+  "json_ld_count": 2,
+  "meta_description": "QLTA는 iShares(블랙록)가 운용하는 미국 투자등급 회사채 ETF다. 투자등급 안에서 다시 상위 구간(Aaa~A)만 담는다는 점이 표면적 특징이지만, 구조를 결정하는 것은 그 등급을 어떻게 정하는가다. 이 상품이 추종하는 지수는 신용평가사가 몇 곳에서 등급을 매겼는지에 따라 판정 규칙 자체를 바꾼다. 세 곳이면 중앙값, 두 곳이면 낮은 쪽, 한 곳이면 그 등급이다. 같은 채권이라도 평가사 수가 달라지면 편입 여부가 달라질 수 있다. LQD 같은 투자등급 전 구간 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.QLTA는 어떤 ETF인가?QLTA는 Bloomberg U.S. Corporate Aaa ..",
+  "modified_time": "2026-10-21T01:37:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QLTA는 iShares(블랙록)가 운용하는 미국 투자등급 회사채 ETF다. 투자등급 안에서 다시 상위 구간(Aaa~A)만 담는다는 점이 표면적 특징이지만, 구조를 결정하는 것은 그 등급을 어떻게 정하는가다. 이 상품이 추종하는 지수는 신용평가사가 몇 곳에서 등급을 매겼는지에 따라 판정 규칙 자체를 바꾼다. 세 곳이면 중앙값, 두 곳이면 낮은 쪽, 한 곳이면 그 등급이다. 같은 채권이라도 평가사 수가 달라지면 편입 여부가 달라질 수 있다. LQD 같은 투자등급 전 구간 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.QLTA는 어떤 ETF인가?QLTA는 Bloomberg U.S. Corporate Aaa ..",
+  "og_title": "QLTA ETF란? LQD와 차이 — 신용등급을 평가사 '개수'에 따라 다르게 정하는 구조 확인",
+  "post_id": "711",
+  "published_time": "2026-10-21T01:36:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QLTA ETF란? LQD와 차이 — 신용등급을 평가사 '개수'에 따라 다르게 정하는 구조 확인",
+  "url": "https://mystock-note.tistory.com/711"
+}

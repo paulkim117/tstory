@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-21T01:37:01+09:00",
+    "datePublished": "2026-10-21T01:36:42+09:00",
+    "description": "QLTA는 iShares(블랙록)가 운용하는 미국 투자등급 회사채 ETF다. 투자등급 안에서 다시 상위 구간(Aaa~A)만 담는다는 점이 표면적 특징이지만, 구조를 결정하는 것은 그 등급을 어떻게 정하는가다. 이 상품이 추종하는 지수는 신용평가사가 몇 곳에서 등급을 매겼는지에 따라 판정 규칙 자체를 바꾼다. 세 곳이면 중앙값, 두 곳이면 낮은 쪽, 한 곳이면 그 등급이다. 같은 채권이라도 평가사 수가 달라지면 편입 여부가 달라질 수 있다. LQD 같은 투자등급 전 구간 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.QLTA는 어떤 ETF인가?QLTA는 Bloomberg U.S. Corporate Aaa ..",
+    "headline": "QLTA ETF란? LQD와 차이 — 신용등급을 평가사 '개수'에 따라 다르게 정하는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/711",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/711"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/711/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/711/#etf-qlta"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-21",
+        "datePublished": "2026-10-21",
+        "description": "QLTA는 Bloomberg U.S. Corporate Aaa - A Capped 지수를 추종한다. 평가사가 3곳이면 중앙값, 2곳이면 낮은 쪽으로 등급을 판정하는 구조와 BBB 구간 제외, 발행인 3% 상한을 SEC 원문으로 정리한다.",
+        "headline": "QLTA ETF란? LQD와 차이 — 신용등급을 평가사 '개수'에 따라 다르게 정하는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/711"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/711/#etf-qlta",
+        "@type": "Thing",
+        "description": "Bloomberg U.S. Corporate Aaa - A Capped Index를 대표표본추출로 추종하는 미국 투자등급 회사채 ETF. 신용등급 판정 시 평가사가 세 곳이면 중앙값, 두 곳이면 낮은 쪽, 한 곳이면 해당 등급을 사용한다. 시가총액 가중에 발행인당 3% 상한을 적용하고 초과분은 나머지 발행인에게 비례 배분한다.",
+        "name": "iShares Aaa - A Rated Corporate Bond ETF (QLTA)"
+      }
+    ]
+  }
+]

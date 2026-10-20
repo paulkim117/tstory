@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-21T03:38:00+09:00",
+    "datePublished": "2026-10-21T03:37:42+09:00",
+    "description": "GTOQ는 Invesco가 운용하는 미국 하이일드 채권 액티브 ETF다. 80% 정책의 대상은 투자등급 미만 채권이다. 그런데 이 상품에는 신용평가사 등급이 없는 채권도 들어갈 수 있고, 그 경우 부운용사가 직접 등급을 매겨 80% 정책에 산입한다. 투자설명서는 여기에 단서를 붙인다. 부운용사의 신용 분석이 신용평가사의 분석 절차와 일관되거나 비교 가능하다는 보장이 없으며, 그것을 의도하지도 않는다는 문장이다. 즉 규제상 투자정책의 판정 근거 일부를 운용사가 직접 만들면서, 그것이 외부 기준과 같지 않다고 스스로 밝힌다. HYG 같은 지수형 하이일드 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.GTOQ..",
+    "headline": "GTOQ ETF란? HYG와 차이 — 운용사가 직접 매긴 등급이 80% 정책에 들어가는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/713",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/713"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/713/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/713/#etf-gtoq"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-21",
+        "datePublished": "2026-10-21",
+        "description": "GTOQ는 Invesco의 하이일드 액티브 ETF다. 무등급 채권에 부운용사가 내부 등급을 부여해 80% 정책에 산입하면서 외부 기준과의 정합성을 부인하는 구조를 SEC 원문으로 정리한다.",
+        "headline": "GTOQ ETF란? HYG와 차이 — 운용사가 직접 매긴 등급이 80% 정책에 들어가는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/713"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/713/#etf-gtoq",
+        "@type": "Thing",
+        "description": "투자등급 미만 채권에 순자산의 80% 이상을 투자하는 Invesco의 액티브 ETF. 무등급 증권에 대해 부운용사가 내부 등급을 부여해 80% 정책에 산입하며, 그 분석이 공인 신용평가기관 절차와 일관되거나 비교 가능하다는 보장이 없다고 명시한다. 2026년 2월 구 명칭 Invesco High Yield Bond Factor ETF(IHYF)에서 현재 명칭·티커로 변경됐다.",
+        "name": "Invesco High Yield Systematic Bond ETF (GTOQ)"
+      }
+    ]
+  }
+]

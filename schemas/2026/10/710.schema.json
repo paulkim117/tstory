@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/710/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/710/#etf-lgds"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-10-21",
+      "datePublished": "2026-10-21",
+      "description": "LGDS는 신규 설정이 아니라 JPMorgan U.S. GARP Equity Fund가 2026년 7월 ETF로 전환된 상품이다. 목적과 성과 이력은 승계되고 전략·운용팀·80% 정책은 교체된 구조를 SEC 원문으로 정리한다.",
+      "headline": "LGDS ETF란? VUG와 차이 — 뮤추얼펀드가 옮겨온 ETF, 성과는 이어지고 전략은 바뀐 구조 확인",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/710"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "AUTHOR_NAME_PLACEHOLDER",
+      "url": "AUTHOR_URL_PLACEHOLDER"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/710/#etf-lgds",
+      "@type": "Thing",
+      "description": "JPMorgan U.S. GARP Equity Fund가 2026년 7월 10일 비과세 재편으로 전환된 미국 대형 성장주 액티브 ETF. 자산의 80% 이상을 대형 성장 기업 지분에 투자하며, 대형은 Russell 1000 Growth Index 유니버스와 유사한 시가총액으로 정의된다. 비분산형으로 분류된다.",
+      "name": "JPMorgan Fundamental Data Science Large Growth ETF (LGDS)"
+    }
+  ]
+}
