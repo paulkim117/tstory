@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-22T01:39:00+09:00",
+    "datePublished": "2026-10-22T01:38:31+09:00",
+    "description": "BRAZ는 Global X가 운용하는 브라질 주식 액티브 ETF다. 브라질 단일국 ETF는 이미 EWZ가 대표 상품으로 자리잡고 있는데, BRAZ는 지수를 따르지 않는다. 구조를 결정하는 것은 편입 요건이 두 겹이라는 점이다. 브라질 기업이라는 조건만으로는 부족하고, 운용사가 그 기업을 시장 점유율 또는 시가총액 측면에서 '현재 또는 미래의' 선도적 지위에 있다고 판단해야 한다. '미래'가 요건에 들어가 있다는 점이 이 상품의 성격을 규정한다. EWZ 같은 지수형 단일국 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.BRAZ는 어떤 ETF인가?BRAZ는 추종 지수가 없는 액티브 ETF다. 정상적 상황에서..",
+    "headline": "BRAZ ETF란? EWZ와 차이 — 브라질 기업이라는 것만으로는 편입되지 않는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/715",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/715"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/715/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/715/#etf-braz"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-22",
+        "datePublished": "2026-10-22",
+        "description": "BRAZ는 Global X의 브라질 액티브 ETF다. 국적 요건 위에 '현재 또는 미래의 선도적 지위' 요건이 얹히는 2층 구조와 운용사 자체 분석으로 판정되는 시장 점유율을 SEC 원문으로 정리한다.",
+        "headline": "BRAZ ETF란? EWZ와 차이 — 브라질 기업이라는 것만으로는 편입되지 않는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/715"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/715/#etf-braz",
+        "@type": "Thing",
+        "description": "브라질에 소재하거나 경제적으로 연결된 기업 중 운용사가 현재 또는 미래의 선도적 지위를 갖는다고 판단하는 기업에 투자하는 액티브 ETF. 시가총액은 공표 분류 체계 순위를 참조하고 시장 점유율은 운용사 자체 분석으로 판정한다. MSCI Brazil Index는 추종 대상이 아니라 기업 정의 경로와 섹터 비중 한도의 기준으로 사용된다.",
+        "name": "Global X Brazil Active ETF (BRAZ)"
+      }
+    ]
+  }
+]

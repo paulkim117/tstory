@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-21",
+  "body_html_length": 12541,
+  "canonical_url": "https://mystock-note.tistory.com/714",
+  "content_hash": "0fe874bab933be1f3e8318fb5536db264a7f50f90d533b74bde4a5ca0b1a0be6",
+  "json_ld_count": 1,
+  "meta_description": "FBCG는 Fidelity가 운용하는 미국 대형 성장주 액티브 ETF다. 이 상품에서 먼저 확인해야 할 것은 종목 구성이 아니라 보유내역을 공개하지 않는다는 사실이다. 요약투자설명서 첫머리에 이렇게 적혀 있다. \"이 ETF는 전통적인 ETF와 다르다. 전통적 ETF는 매일 어떤 자산을 보유하는지 공개한다. 이 ETF는 그렇게 하지 않는다.\" 대신 실제 포트폴리오가 아닌 Tracking Basket을 매일 공개한다. 그리고 2025년 12월 11일부터 '블루칩'의 정의가 바뀌었다. XLV나 VUG 같은 전면 공개형 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.FBCG는 어떤 ETF인가?FBCG는 추종 지..",
+  "modified_time": "2026-10-22T00:39:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/714\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/714\",\"headline\":\"FBCG ETF란? 보유종목을 매일 공개하지 않는 ETF — Tracking Basket 구조와 '블루칩' 정의 확인\",\"description\":\"FBCG는 Fidelity가 운용하는 미국 대형 성장주 액티브 ETF다. 이 상품에서 먼저 확인해야 할 것은 종목 구성이 아니라 보유내역을 공개하지 않는다는 사실이다. 요약투자설명서 첫머리에 이렇게 적혀 있다. \"이 ETF는 전통적인 ETF와 다르다. 전통적 ETF는 매일 어떤 자산을 보유하는지 공개한다. 이 ETF는 그렇게 하지 않는다.\" 대신 실제 포트폴리오가 아닌 Tracking Basket을 매일 공개한다. 그리고 2025년 12월 11일부터 '블루칩'의 정의가 바뀌었다. XLV나 VUG 같은 전면 공개형 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.FBCG는 어떤 ETF인가?FBCG는 추종 지..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-22T00:38:07+09:00\",\"dateModified\":\"2026-10-22T00:39:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "FBCG는 Fidelity가 운용하는 미국 대형 성장주 액티브 ETF다. 이 상품에서 먼저 확인해야 할 것은 종목 구성이 아니라 보유내역을 공개하지 않는다는 사실이다. 요약투자설명서 첫머리에 이렇게 적혀 있다. \"이 ETF는 전통적인 ETF와 다르다. 전통적 ETF는 매일 어떤 자산을 보유하는지 공개한다. 이 ETF는 그렇게 하지 않는다.\" 대신 실제 포트폴리오가 아닌 Tracking Basket을 매일 공개한다. 그리고 2025년 12월 11일부터 '블루칩'의 정의가 바뀌었다. XLV나 VUG 같은 전면 공개형 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.FBCG는 어떤 ETF인가?FBCG는 추종 지..",
+  "og_title": "FBCG ETF란? 보유종목을 매일 공개하지 않는 ETF — Tracking Basket 구조와 '블루칩' 정의 확인",
+  "post_id": "714",
+  "published_time": "2026-10-22T00:38:07+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FBCG ETF란? 보유종목을 매일 공개하지 않는 ETF — Tracking Basket 구조와 '블루칩' 정의 확인",
+  "url": "https://mystock-note.tistory.com/714"
+}

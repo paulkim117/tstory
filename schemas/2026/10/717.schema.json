@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-22T03:36:00+09:00",
+    "datePublished": "2026-10-22T03:35:59+09:00",
+    "description": "EIRL은 iShares(블랙록)가 운용하는 아일랜드 단일국 ETF다. 아일랜드 주식시장은 상장 기업 수가 많지 않다. 그래서 이 상품이 추종하는 지수에는 다른 단일국 지수에서 보기 어려운 조항이 있다. 지수가 목표로 하는 최소 종목 수(25종목·20발행인)를 채우지 못하면 편입 기준이 한 단계 더 열린다. 아일랜드로 분류되지 않고 본사도 상장지도 아일랜드가 아닌 기업까지, 매출의 10%만 아일랜드에서 나오면 편입 대상이 된다. 즉 종목 수가 모자라면 규칙이 움직인다. 다른 단일국 ETF와 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.EIRL은 어떤 ETF인가?EIRL은 MSCI All Ireland Capp..",
+    "headline": "EIRL ETF란? 아일랜드 단일국 투자 — 종목 수가 모자라면 편입 기준이 열리는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/717",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/717"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/717/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/717/#etf-eirl"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-22",
+        "datePublished": "2026-10-22",
+        "description": "EIRL은 MSCI All Ireland Capped Index를 추종한다. 최소 25종목·20발행인 목표를 못 채우면 아일랜드 매출 10% 초과 기업까지 편입하는 3단계 구조와 캡핑 예외 조항을 SEC 원문으로 정리한다.",
+        "headline": "EIRL ETF란? 아일랜드 단일국 투자 — 종목 수가 모자라면 편입 기준이 열리는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/717"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/717/#etf-eirl",
+        "@type": "Thing",
+        "description": "MSCI All Ireland Capped Index를 대표표본추출로 추종하는 아일랜드 단일국 ETF. 지수는 최소 25종목·20발행인을 목표로 하며, 아일랜드로 분류된 기업과 본사·상장 및 상당한 연계가 있는 기업으로 목표를 채우지 못하면 아일랜드 매출 비중 10%를 초과하는 기업까지 편입한다. 경제적 노출로 편입된 종목의 비중은 일반적으로 각 1%로 제한된다.",
+        "name": "iShares MSCI Ireland ETF (EIRL)"
+      }
+    ]
+  }
+]

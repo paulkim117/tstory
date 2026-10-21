@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-22T02:36:00+09:00",
+    "datePublished": "2026-10-22T02:35:30+09:00",
+    "description": "IGLB는 iShares(블랙록)가 운용하는 미국 장기 투자등급 회사채 ETF다. 잔존만기 10년 이상만 담는다는 점이 표면적 특징이지만, 구조를 결정하는 것은 무엇을 빼느냐다. 이 상품이 추종하는 지수는 달러표시 투자등급 회사채 중에서도 미국 국내시장에서 발행되지 않은 달러채(유로달러채)를 제외하고, 미국 세법상 배당금수취공제 대상 증권도 제외한다. 즉 통화와 등급만 맞으면 되는 것이 아니라 발행 시장과 세법상 지위까지 조건이다. 여기에 등급 판정도 다르다. 같은 발행사의 투자등급 회사채 상품끼리도 세부가 갈리는 지점을 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.IGLB는 어떤 ETF인가?IGLB는 ICE BofA 10..",
+    "headline": "IGLB ETF란? 장기 투자등급 회사채 — '달러표시'만으로는 편입되지 않는 배제 목록 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/716",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/716"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/716/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/716/#etf-iglb"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-22",
+        "datePublished": "2026-10-22",
+        "description": "IGLB는 ICE BofA 10+ Year US Corporate Index를 추종한다. 유로달러채와 배당금수취공제 적격 증권을 배제하는 구조, 세 평가사 평균으로 등급을 판정하는 방식을 SEC 원문으로 정리한다.",
+        "headline": "IGLB ETF란? 장기 투자등급 회사채 — '달러표시'만으로는 편입되지 않는 배제 목록 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/716"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/716/#etf-iglb",
+        "@type": "Thing",
+        "description": "ICE BofA 10+ Year US Corporate Index를 대표표본추출로 추종하는 미국 장기 투자등급 회사채 ETF. 잔존만기 10년 이상 달러표시 회사채를 담되 유로달러채, 배당금수취공제 적격 증권, 법적 디폴트 상태 증권 등을 배제한다. 투자등급 판정은 Fitch·Moody's·S&P의 평균 등급을 기준으로 한다.",
+        "name": "iShares 10+ Year Investment Grade Corporate Bond ETF (IGLB)"
+      }
+    ]
+  }
+]

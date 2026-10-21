@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/714/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/714/#etf-fbcg"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#author"
+      },
+      "dateModified": "2026-10-22",
+      "datePublished": "2026-10-22",
+      "description": "FBCG는 SEC 면제명령에 따라 보유내역을 매일 공개하지 않는 Fidelity의 액티브 성장주 ETF다. Tracking Basket 구조와 그 대가로 넓어지는 호가 스프레드, 2025년 12월 바뀐 '블루칩' 정의를 SEC 원문으로 정리한다.",
+      "headline": "FBCG ETF란? 보유종목을 매일 공개하지 않는 ETF — Tracking Basket 구조와 '블루칩' 정의 확인",
+      "inLanguage": "ko-KR",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "url": "https://mystock-note.tistory.com/714"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#author",
+      "@type": "Person",
+      "name": "AUTHOR_NAME_PLACEHOLDER",
+      "url": "AUTHOR_URL_PLACEHOLDER"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/714/#etf-fbcg",
+      "@type": "Thing",
+      "description": "SEC 면제명령에 따라 매 영업일 전체 보유내역을 공개하지 않는 Fidelity의 액티브 성장주 ETF. 실제 포트폴리오 대신 Tracking Basket과 비중 중첩률을 공개한다. 자산의 80% 이상을 블루칩 성장 기업에 투자하며, 블루칩은 S&P 500·Russell 1000·다우존스 산업평균지수 중 어느 하나의 최저 시가총액 기업보다 큰 기업으로 정의된다.",
+      "name": "Fidelity Blue Chip Growth ETF (FBCG)"
+    }
+  ]
+}
