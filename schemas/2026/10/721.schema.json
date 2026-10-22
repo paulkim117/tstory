@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-23T03:52:00+09:00",
+    "datePublished": "2026-10-23T03:51:29+09:00",
+    "description": "미국 배당 ETF 대부분은 「몇 종목을 담을지」를 먼저 정한다. 상위 100종, 상위 75종처럼 목표 수를 두고 그 수를 채우는 방식이다. QDIV(Global X S&P 500® Quality Dividend ETF)는 그 숫자를 정하지 않는다. S&P 500 안에서 퀄리티 점수 상위 200과 배당수익률 상위 200에 양쪽 모두 드는 종목만 담고, 그렇게 남는 만큼이 곧 구성 종목이 된다. 이 글은 QDIV의 선정·가중·변경 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리하고, 같은 「배당+α」 구조인 SPHD와 무엇이 구조적으로 다른지 비교한다.QDIV는 어떤 지수를 따르나요?[사실] QDIV의 기초지수는 S&P 500® Quality High Dividend Index이며, 지수 제공자는 ..",
+    "headline": "QDIV ETF란? S&P500 퀄리티+고배당 교집합 선별과 종목 수가 정해지지 않는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/721",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/721"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Global X S&P 500 Quality Dividend ETF",
+          "description": "퀄리티 점수 상위 200과 배당수익률 상위 200에 모두 드는 종목만 동일가중으로 담아 구성 종목 수가 사전에 정해지지 않는 ETF",
+          "name": "QDIV"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "QDIV는 S&P 500에서 퀄리티 점수 상위 200과 배당수익률 상위 200에 모두 드는 종목만 담는다. 목표 종목 수가 없어 구성 수가 설계로 정해지지 않는 구조와 SPHD식 순차 선별과의 차이를 정리했다.",
+        "headline": "QDIV ETF란? S&P500 퀄리티+고배당 교집합 선별과 종목 수가 정해지지 않는 구조",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "QDIV, 퀄리티 배당 교집합, S&P 500 Quality High Dividend, 동일가중, 섹터 캡핑, 종목 수 미고정, Global X, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

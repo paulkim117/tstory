@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-23T00:38:00+09:00",
+    "datePublished": "2026-10-23T00:37:05+09:00",
+    "description": "SMLF는 iShares(블랙록)가 운용하는 미국 소형주 다중팩터 ETF다. 모멘텀·퀄리티·밸류·저변동성 네 팩터에 대한 노출을 최적화로 극대화한다. 상품명에도 투자정책에도 ESG는 없다. 그런데 이 상품이 추종하는 지수의 '퀄리티' 점수를 구성하는 여섯 신호 중 둘이 탄소배출 집약도와 온실가스 감축 목표다. ESG가 별도 배제 스크린으로 붙은 것이 아니라 팩터의 정의 안으로 들어와 있다. QUAL 같은 퀄리티 팩터 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.SMLF는 어떤 ETF인가?SMLF는 STOXX U.S. Small-Cap Equity Factor Index를 추종한다. STOXX Ltd.가..",
+    "headline": "SMLF ETF란? 미국 소형주 다중팩터 — '퀄리티' 안에 탄소배출이 들어 있는 구조 확인",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/718",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/718"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/718/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/718/#etf-smlf"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-23",
+        "datePublished": "2026-10-23",
+        "description": "SMLF는 STOXX U.S. Small-Cap Equity Factor Index를 추종한다. 퀄리티 점수 여섯 신호 중 둘이 탄소배출 집약도와 온실가스 감축 목표인 구조, 최적화 제약과 2023년 지수 교체를 SEC 원문으로 정리한다.",
+        "headline": "SMLF ETF란? 미국 소형주 다중팩터 — '퀄리티' 안에 탄소배출이 들어 있는 구조 확인",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/718"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/718/#etf-smlf",
+        "@type": "Thing",
+        "description": "STOXX U.S. Small-Cap Equity Factor Index를 추종하는 미국 소형주 다중팩터 ETF. 모멘텀·퀄리티·밸류·저변동성 네 팩터에 대한 노출을 최적화로 극대화하며, 퀄리티 점수는 총이익률·주식 희석·발생액·순영업자산 변동에 더해 탄소배출 집약도와 온실가스 감축 목표를 신호로 사용한다.",
+        "name": "iShares U.S. Small-Cap Equity Factor ETF (SMLF)"
+      }
+    ]
+  }
+]

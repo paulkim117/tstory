@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-23T02:39:00+09:00",
+    "datePublished": "2026-10-23T02:38:00+09:00",
+    "description": "HYLS는 First Trust가 운용하는 미국 하이일드 채권 액티브 ETF다. 다른 하이일드 상품과 갈리는 지점은 담는 채권이 아니라 포지션의 방향에 있다. 이 펀드는 정상적인 시장 상황에서 롱과 숏을 동시에 유지하며, 롱 포지션은 순자산의 최대 130%, 숏 포지션은 0~30%다. 공매도로 받은 대금은 다시 롱 포지션을 사는 데 쓰이므로 레버리지를 쓰는 형태가 된다. 시장 중립을 목표로 하는 롱숏이 아니라 순노출을 유지한 채 양방향 판단을 반영하는 구조다. HYG 같은 지수형 하이일드 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.HYLS는 어떤 ETF인가?HYLS는 추종 지수가 없는 액티브 ETF다..",
+    "headline": "HYLS ETF란? HYG와 차이 — 롱 130%·숏 30%로 레버리지가 발생하는 하이일드 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/720",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/720"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/726/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/726/#etf-hyls"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#author"
+        },
+        "dateModified": "2026-10-23",
+        "datePublished": "2026-10-23",
+        "description": "HYLS는 롱과 숏을 동시에 유지하는 하이일드 액티브 ETF다. 롱 최대 130%·숏 0~30% 구조와 공매도 대금이 레버리지 재원이 되는 방식, 은행대출·부실증권 다층 한도를 SEC 원문으로 정리한다.",
+        "headline": "HYLS ETF란? HYG와 차이 — 롱 130%·숏 30%로 레버리지가 발생하는 하이일드 ETF",
+        "inLanguage": "ko-KR",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "url": "https://mystock-note.tistory.com/726"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#author",
+        "@type": "Person",
+        "name": "AUTHOR_NAME_PLACEHOLDER",
+        "url": "AUTHOR_URL_PLACEHOLDER"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/726/#etf-hyls",
+        "@type": "Thing",
+        "description": "투자등급 미만 채무증권에 순자산의 80% 이상을 투자하는 액티브 ETF. 정상적 시장 상황에서 롱과 숏을 동시에 유지하며 롱은 순자산의 최대 130%, 숏은 0~30% 범위다. 공매도 대금은 추가 롱 포지션 매수에 사용되어 레버리지가 발생한다.",
+        "name": "First Trust Tactical High Yield ETF (HYLS)"
+      }
+    ]
+  }
+]

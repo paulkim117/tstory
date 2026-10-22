@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-22",
+  "body_html_length": 12113,
+  "canonical_url": "https://mystock-note.tistory.com/719",
+  "content_hash": "a47b88b45a450afc93827a404cefc55a2fe2d82aa722b341891d7c47e32ae2be",
+  "json_ld_count": 2,
+  "meta_description": "COLO는 Global X가 운용하는 콜롬비아 단일국 ETF다. 이 상품의 요약투자설명서에는 나란히 붙어 있는 두 문장이 있다. 하나는 80% 투자정책을 바꾸려면 주주에게 60일 전 서면 통지가 필요하다는 것이고, 다른 하나는 투자 목적과 기초지수는 주주 승인 없이 변경될 수 있다는 것이다. 자산의 80%를 어디에 넣을지 바꾸는 데는 통지 절차가 붙는데, 무엇을 추종할지 바꾸는 데는 그런 요건이 기재되어 있지 않다. 절차의 강도가 뒤집혀 있다. EWW 같은 다른 중남미 단일국 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.COLO는 어떤 ETF인가?COLO는 MSCI All Colombia Select ..",
+  "modified_time": "2026-10-23T01:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "COLO는 Global X가 운용하는 콜롬비아 단일국 ETF다. 이 상품의 요약투자설명서에는 나란히 붙어 있는 두 문장이 있다. 하나는 80% 투자정책을 바꾸려면 주주에게 60일 전 서면 통지가 필요하다는 것이고, 다른 하나는 투자 목적과 기초지수는 주주 승인 없이 변경될 수 있다는 것이다. 자산의 80%를 어디에 넣을지 바꾸는 데는 통지 절차가 붙는데, 무엇을 추종할지 바꾸는 데는 그런 요건이 기재되어 있지 않다. 절차의 강도가 뒤집혀 있다. EWW 같은 다른 중남미 단일국 상품과 어디가 다른지 SEC 제출 원문 기준으로 정리한다. 총보수·순자산·수익률처럼 수시로 변하는 수치는 다루지 않고 규정에 고정된 구조만 서술한다.COLO는 어떤 ETF인가?COLO는 MSCI All Colombia Select ..",
+  "og_title": "COLO ETF란? 콜롬비아 단일국 투자 — 추종 지수를 주주 승인 없이 바꿀 수 있는 구조 확인",
+  "post_id": "719",
+  "published_time": "2026-10-23T01:37:30+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "COLO ETF란? 콜롬비아 단일국 투자 — 추종 지수를 주주 승인 없이 바꿀 수 있는 구조 확인",
+  "url": "https://mystock-note.tistory.com/719"
+}
