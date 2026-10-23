@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-24T02:53:00+09:00",
+    "datePublished": "2026-10-24T02:52:41+09:00",
+    "description": "채권 ETF에서 「5-10년」이라는 표기는 보통 편입 채권의 만기를 뜻한다고 읽힌다. IMTB(iShares Core 5-10 Year USD Bond ETF)의 기초지수는 그 상식이 통하지 않는다. 투자설명서는 이 지수에 20년·30년 만기 모기지가 편입된다고 명시하고, 그 이유를 조기상환 때문에 유효 듀레이션이 5~10년 무콜 채권의 듀레이션과 역사적으로 더 일치해왔기 때문이라고 밝힌다. 즉 이 지수가 자르는 기준은 만기 표기가 아니라 금리 민감도다. 이 글은 그 구조와 편입 범위를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.IMTB는 어떤 지수를 따르나요?[사실] IMTB의 기초지수는 Bloomberg U.S. Universal 5-10 Year Index이며, 지수 제공자는 Bloomb..",
+    "headline": "IMTB ETF란? 「5-10년」 지수에 30년 모기지가 들어오는 이유, VCIT·AGG와 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/724",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/724"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Core 5-10 Year USD Bond ETF",
+          "description": "잔존 유효만기를 기준으로 구간을 판정해 조기상환으로 듀레이션이 짧아진 20년·30년 만기 모기지까지 편입하는 종합 채권 ETF",
+          "name": "IMTB"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IMTB의 기초지수는 잔존 유효만기 5~10년 채권을 담는다. 그런데 20년·30년 만기 모기지가 편입된다. 조기상환으로 유효 듀레이션이 5~10년 무콜채와 일치해왔다는 근거다. 만기 표기와 실제 자산의 차이를 1차 출처로 정리했다.",
+        "headline": "IMTB ETF란? 「5-10년」 지수에 30년 모기지가 들어오는 이유, VCIT·AGG와 차이",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IMTB, 유효 듀레이션, MBS 조기상환, 만기 구간 채권 ETF, Bloomberg Universal, 투자등급 하이일드 혼합, iShares, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

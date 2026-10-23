@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-23",
+  "body_html_length": 8104,
+  "canonical_url": "https://mystock-note.tistory.com/725",
+  "content_hash": "3e9229d224e823d7afd8e0550fd52e2aac73477c1e618a67e223a377622ac2b2",
+  "json_ld_count": 2,
+  "meta_description": "「나스닥100」은 이름에 종목 수가 들어 있는 드문 지수다. 그런데 QEW(Invesco QQQ Equal Weight ETF)의 발행 문서는 이 지수의 구성 종목 수가 100을 넘을 수 있다고 명시한다. 2026년 5월 1일 시행된 지수 방법론 변경 때문이다. 신규 상장 기업이 일정 조건을 충족하면 다른 종목을 빼지 않고 편입되며, 그 결과 정원이 일시적으로 초과된다. 이 글은 QEW의 동일가중 구조와 이번 변경의 내용을 1차 출처(SEC 제출 투자설명서 및 보충서) 기준으로 정리한다.QEW는 어떤 지수를 따르나요?[사실] QEW의 기초지수는 Nasdaq-100 Equal Weighted Index이며, 지수 제공자는 Nasdaq, Inc.다. 이 지수는 나스닥100의 동일가중 버전으로, 모지수와 완전..",
+  "modified_time": "2026-10-24T03:54:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "「나스닥100」은 이름에 종목 수가 들어 있는 드문 지수다. 그런데 QEW(Invesco QQQ Equal Weight ETF)의 발행 문서는 이 지수의 구성 종목 수가 100을 넘을 수 있다고 명시한다. 2026년 5월 1일 시행된 지수 방법론 변경 때문이다. 신규 상장 기업이 일정 조건을 충족하면 다른 종목을 빼지 않고 편입되며, 그 결과 정원이 일시적으로 초과된다. 이 글은 QEW의 동일가중 구조와 이번 변경의 내용을 1차 출처(SEC 제출 투자설명서 및 보충서) 기준으로 정리한다.QEW는 어떤 지수를 따르나요?[사실] QEW의 기초지수는 Nasdaq-100 Equal Weighted Index이며, 지수 제공자는 Nasdaq, Inc.다. 이 지수는 나스닥100의 동일가중 버전으로, 모지수와 완전..",
+  "og_title": "QEW ETF란? 100종 지수가 100종이 아닌 이유, 나스닥100 동일가중과 fast entry 조항",
+  "post_id": "725",
+  "published_time": "2026-10-24T03:53:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QEW ETF란? 100종 지수가 100종이 아닌 이유, 나스닥100 동일가중과 fast entry 조항",
+  "url": "https://mystock-note.tistory.com/725"
+}

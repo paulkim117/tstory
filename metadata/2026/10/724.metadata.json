@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-23",
+  "body_html_length": 7461,
+  "canonical_url": "https://mystock-note.tistory.com/724",
+  "content_hash": "c6127c1cc33875d756e7b9aad39be76dc54146d4d15d5f99a6f63434ef543ca6",
+  "json_ld_count": 2,
+  "meta_description": "채권 ETF에서 「5-10년」이라는 표기는 보통 편입 채권의 만기를 뜻한다고 읽힌다. IMTB(iShares Core 5-10 Year USD Bond ETF)의 기초지수는 그 상식이 통하지 않는다. 투자설명서는 이 지수에 20년·30년 만기 모기지가 편입된다고 명시하고, 그 이유를 조기상환 때문에 유효 듀레이션이 5~10년 무콜 채권의 듀레이션과 역사적으로 더 일치해왔기 때문이라고 밝힌다. 즉 이 지수가 자르는 기준은 만기 표기가 아니라 금리 민감도다. 이 글은 그 구조와 편입 범위를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.IMTB는 어떤 지수를 따르나요?[사실] IMTB의 기초지수는 Bloomberg U.S. Universal 5-10 Year Index이며, 지수 제공자는 Bloomb..",
+  "modified_time": "2026-10-24T02:53:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "채권 ETF에서 「5-10년」이라는 표기는 보통 편입 채권의 만기를 뜻한다고 읽힌다. IMTB(iShares Core 5-10 Year USD Bond ETF)의 기초지수는 그 상식이 통하지 않는다. 투자설명서는 이 지수에 20년·30년 만기 모기지가 편입된다고 명시하고, 그 이유를 조기상환 때문에 유효 듀레이션이 5~10년 무콜 채권의 듀레이션과 역사적으로 더 일치해왔기 때문이라고 밝힌다. 즉 이 지수가 자르는 기준은 만기 표기가 아니라 금리 민감도다. 이 글은 그 구조와 편입 범위를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.IMTB는 어떤 지수를 따르나요?[사실] IMTB의 기초지수는 Bloomberg U.S. Universal 5-10 Year Index이며, 지수 제공자는 Bloomb..",
+  "og_title": "IMTB ETF란? 「5-10년」 지수에 30년 모기지가 들어오는 이유, VCIT·AGG와 차이",
+  "post_id": "724",
+  "published_time": "2026-10-24T02:52:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IMTB ETF란? 「5-10년」 지수에 30년 모기지가 들어오는 이유, VCIT·AGG와 차이",
+  "url": "https://mystock-note.tistory.com/724"
+}

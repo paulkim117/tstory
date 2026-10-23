@@ -1,0 +1,94 @@
+<!--
+source: https://mystock-note.tistory.com/724
+backup_date: 2026-10-23
+post_id: 724
+-->
+<p data-ke-size="size16">채권 ETF에서 「5-10년」이라는 표기는 보통 편입 채권의 만기를 뜻한다고 읽힌다. <strong>IMTB(iShares Core 5-10 Year USD Bond ETF)의 기초지수는 그 상식이 통하지 않는다.</strong> 투자설명서는 이 지수에 <strong>20년·30년 만기 모기지가 편입된다</strong>고 명시하고, 그 이유를 조기상환 때문에 <strong>유효 듀레이션</strong>이 5~10년 무콜 채권의 듀레이션과 역사적으로 더 일치해왔기 때문이라고 밝힌다. 즉 이 지수가 자르는 기준은 만기 표기가 아니라 <strong>금리 민감도</strong>다. 이 글은 그 구조와 편입 범위를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.</p>
+
+<h2 style="text-align: justify;" data-ke-size="size26">IMTB는 어떤 지수를 따르나요?</h2>
+<p data-ke-size="size16"><strong>[사실]</strong> IMTB의 기초지수는 <strong>Bloomberg U.S. Universal 5-10 Year Index</strong>이며, 지수 제공자는 Bloomberg Index Services Limited다. 이 지수는 <strong>Bloomberg U.S. Universal Index의 부분집합</strong>이다.</p>
+<p data-ke-size="size16"><strong>[사실]</strong> 대상은 달러 표시 과세 채권 중 <strong>투자등급 또는 하이일드로 평정된</strong>, <strong>잔존 유효만기(remaining effective maturities) 5~10년</strong> 채권이다.</p>
+<figure><table>
+<caption>표1. 기초지수 편입 자산 유형 (투자설명서 기재)</caption>
+<thead><tr><th>구분</th><th>내용</th></tr></thead>
+<tbody>
+<tr><td>국채</td><td>미국 국채</td></tr>
+<tr><td>정부 관련</td><td>미국·비미국 에이전시, 국채(sovereign), 준국채, 국제기구, 지방정부 채무</td></tr>
+<tr><td>회사채</td><td>미국 회사채 — <strong>투자등급과 하이일드 모두</strong></td></tr>
+<tr><td>구조화</td><td>MBS(모기지 pass-through), CMBS, ABS</td></tr>
+<tr><td>국제</td><td>유로달러채(외국 발행자가 미국 밖에서 발행한 달러채), 신흥국 채권</td></tr>
+<tr><td>등록 요건</td><td>SEC 등록채 또는 등록 면제채, Rule 144A 채권(등록청구권 유무 불문)</td></tr>
+</tbody>
+</table></figure>
+<p data-ke-size="size16"><strong>[판단]</strong> 편입 범위가 상당히 넓다. 신용등급으로 자르지 않으므로 투자등급과 하이일드가 한 지수 안에 섞이고, 발행자 국적으로도 자르지 않는다. <strong>자르는 기준이 사실상 통화(달러)와 만기 구간 두 가지뿐</strong>이다.</p>
+
+<h2 style="text-align: justify;" data-ke-size="size26">왜 30년 모기지가 「5-10년」 지수에 들어오나요?</h2>
+<p data-ke-size="size16"><strong>[사실]</strong> 투자설명서 문언은 이렇다. <strong>「지수 편입 자격이 있는 MBS에는 20년 및 30년 모기지가 포함되는데, 이는 조기상환으로 인해 그 유효 듀레이션이 역사적으로 5~10년 무콜(non-callable) 채권의 듀레이션과 더 일치해왔기 때문이다.」</strong></p>
+<p data-ke-size="size16"><strong>[판단]</strong> 이 한 문장에 지수 설계의 핵심이 들어 있다. 만기 구간 지수는 보통 「표기 만기」로 자른다. 그런데 모기지는 차입자가 중도에 상환할 수 있어서 <strong>표기 만기가 실제 현금흐름의 길이를 나타내지 못한다.</strong> 30년 만기라도 상당수 대출이 훨씬 일찍 상환되므로, 금리 변화에 대한 가격 민감도는 30년 국채보다 중기채에 가깝다.</p>
+<figure><table>
+<caption>표2. 만기를 재는 두 가지 자</caption>
+<thead><tr><th>구분</th><th>표기 만기</th><th>유효 듀레이션</th></tr></thead>
+<tbody>
+<tr><td>측정 대상</td><td>계약상 최종 상환일</td><td>금리 1% 변화 시 가격 민감도</td></tr>
+<tr><td>일반 회사채·국채</td><td>둘이 대체로 비례</td><td>만기와 함께 길어짐</td></tr>
+<tr><td><strong>모기지 pass-through</strong></td><td><strong>20~30년</strong></td><td><strong>조기상환으로 크게 짧아짐</strong></td></tr>
+<tr><td>지수의 선택</td><td colspan="2"><strong>유효 듀레이션 기준으로 편입 여부 판단</strong></td></tr>
+</tbody>
+</table></figure>
+<p data-ke-size="size16"><strong>[판단]</strong> 근거의 성격도 짚어둘 만하다. 문서는 「그렇게 정한다」가 아니라 <strong>「역사적으로 더 일치해왔다」</strong>고 쓴다. 즉 <strong>규칙이 아니라 경험적 관찰에 근거한 예외</strong>다. 관찰이 전제이므로, 조기상환 행태가 과거와 달라지면 전제 자체가 흔들릴 수 있다.</p>
+<p data-ke-size="size16"><strong>[판단]</strong> 실무적 함의는 분명하다. 금리가 급등해 차환이 멈추면 모기지의 유효 듀레이션은 <strong>길어진다</strong>(만기연장 위험). 그 국면에서 이 지수는 이름이 표방하는 5~10년보다 <strong>더 긴 금리 민감도</strong>를 가질 수 있다. 반대로 금리가 급락해 차환이 몰리면 예상보다 빨리 원금이 돌아온다. MBS의 조기상환·만기연장 위험 구조는 <a href="https://mystock-note.tistory.com/455">MBB</a> 편에서 별도로 다뤘다.</p>
+<p data-ke-size="size16"><strong>[사실]</strong> 투자설명서는 2026년 2월 28일 기준으로 지수의 상당 부분이 <strong>MBS와 미국 국채</strong>로 구성돼 있다고 기재한다. <strong>[확인 필요]</strong> 구체적 비중은 변동 데이터이므로 본 글에 기재하지 않았다.</p>
+
+<h2 style="text-align: justify;" data-ke-size="size26">자매 상품(1-5년)과 규칙이 같나요?</h2>
+<p data-ke-size="size16"><strong>[사실]</strong> 같은 계열에 <strong>Bloomberg U.S. Universal 1-5 Year Index</strong>를 추종하는 상품이 있다. 발행사·지수 브랜드·지수 산출사가 모두 같고 이름도 구간만 다르다. 그런데 두 지수의 조항은 동일하지 않다.</p>
+<figure><table>
+<caption>표3. 같은 계열 두 지수의 조항 차이 (각 투자설명서 기재)</caption>
+<thead><tr><th>항목</th><th>1-5년 지수</th><th>5-10년 지수(IMTB)</th></tr></thead>
+<tbody>
+<tr><td>MBS 만기 예외 조항</td><td><strong>없음</strong></td><td><strong>20·30년 모기지 편입</strong></td></tr>
+<tr><td>배제 항목 중 특이 사항</td><td><strong>유로화 표시 채권</strong></td><td><strong>물가연동채</strong></td></tr>
+<tr><td>공통 배제</td><td colspan="2">면세 지방채, 스트립 쿠폰, 구조화 노트, 사모(144A 제외)</td></tr>
+</tbody>
+</table></figure>
+<p data-ke-size="size16"><strong>[판단]</strong> MBS 조항의 유무는 구조적으로 설명된다. 조기상환을 감안한 모기지의 유효 듀레이션이 대체로 5~10년대에 놓이므로, 1-5년 구간에서는 그 예외를 둘 이유가 없다. <strong>같은 계열 지수라도 구간마다 편입 논리가 달라진다</strong>는 뜻이다.</p>
+<p data-ke-size="size16"><strong>[판단]</strong> 배제 목록의 차이는 설명이 더 어렵다. 5-10년 지수는 물가연동채를 빼고, 1-5년 지수는 유로화 표시 채권을 뺀다. <strong>[정보부족]</strong> 요약 투자설명서에 각 배제의 사유가 기재돼 있지 않다. 「같은 시리즈니까 같은 규칙일 것」이라는 가정으로 상품을 비교하면 어긋날 수 있다는 점만 확인된다.</p>
+
+<h2 style="text-align: justify;" data-ke-size="size26">펀드는 지수를 어떻게 따라가나요?</h2>
+<p data-ke-size="size16"><strong>[사실]</strong> 운용사(BFA)는 <strong>표본추출(representative sampling)</strong> 방식을 쓴다. 시장가치·업종 비중 같은 투자 특성, 수익률 변동성·듀레이션·만기·신용등급·수익률 같은 펀더멘털 특성, 그리고 유동성 지표가 지수와 유사하도록 종목을 고른다. <strong>펀드는 지수 구성 종목 전부를 보유할 수도, 보유하지 않을 수도 있다.</strong></p>
+<p data-ke-size="size16"><strong>[사실]</strong> 투자 비율은 세 층으로 규정돼 있다.</p>
+<figure><table>
+<caption>표4. 투자 비율 규정 (투자설명서 기재)</caption>
+<thead><tr><th>층</th><th>비율</th><th>대상</th></tr></thead>
+<tbody>
+<tr><td>1</td><td><strong>80% 이상</strong></td><td>지수 구성 증권 + 그와 경제적 성격이 실질적으로 동일한 TBA 거래</td></tr>
+<tr><td>2</td><td><strong>90% 이상</strong></td><td>지수에 포함된 <strong>유형</strong>의 채권 중 지수 추종에 도움이 된다고 판단되는 것</td></tr>
+<tr><td>3</td><td><strong>10% 이하</strong></td><td>선물·옵션·스왑, 그리고 지수에 없는 유형의 채권 중 추종에 도움이 된다고 판단되는 것</td></tr>
+</tbody>
+</table></figure>
+<p data-ke-size="size16"><strong>[판단]</strong> 2층이 중요하다. 90% 규정의 대상은 「지수 구성 증권」이 아니라 「지수에 포함된 <strong>유형</strong>의 채권」이다. 즉 지수에 실제로 들어 있지 않은 개별 채권이라도 <strong>같은 유형이면</strong> 이 규정을 충족한다. 표본추출 방식에서 운용 재량이 작동하는 지점이다.</p>
+<p data-ke-size="size16"><strong>[사실]</strong> TBA 포지션에 결부된 현금·현금성 자산은 해당 포지션의 일부로 보아 비율을 계산한다. 파생 포지션에 결부된 현금도 마찬가지다.</p>
+<p data-ke-size="size16"><strong>[사실]</strong> 펀드는 담보 가치를 포함한 <strong>총자산의 3분의 1까지 증권을 대여</strong>할 수 있다.</p>
+<p data-ke-size="size16"><strong>[사실]</strong> 산업 집중 정책은 지수 연동형이다. 다만 이 한도 계산에서 <strong>미국 정부(기관·기구 포함) 증권, 미국 정부 증권을 담보로 한 환매조건부 계약, 주·지방정부 및 그 하위 정치 단위의 증권은 어떤 산업의 구성원이 발행한 것으로 보지 않는다.</strong></p>
+
+<h2 style="text-align: justify;" data-ke-size="size26">한국 투자자의 세금은 어떻게 되나요?</h2>
+<p data-ke-size="size16"><strong>[사실]</strong> IMTB는 미국 상장 ETF다. 매매차익은 <strong>양도소득세 22%</strong>(지방소득세 포함), 연 <strong>250만 원 기본공제</strong>, <strong>분류과세</strong>가 적용된다. 분배금은 국내에서 배당소득으로 취급되며, 금융소득이 연 2,000만 원을 넘으면 금융소득종합과세 대상이 된다.</p>
+<figure><table>
+<caption>표5. 상장지 기준 과세 구조 (일반계좌 기준)</caption>
+<thead><tr><th>구분</th><th>미국 상장 ETF</th><th>국내 상장 해외 ETF</th></tr></thead>
+<tbody>
+<tr><td>매매차익</td><td>양도소득세 22%, 연 250만 원 공제</td><td>배당소득세 15.4%</td></tr>
+<tr><td>과세 방식</td><td>분류과세(합산 안 됨)</td><td>2,000만 원 초과 시 종합과세</td></tr>
+<tr><td>손익통산</td><td>같은 해 해외주식 간 통산 가능</td><td>제한적</td></tr>
+</tbody>
+</table></figure>
+<p data-ke-size="size16"><strong>[판단]</strong> 채권형 ETF는 분배금이 반복 발생하므로, 매매차익 중심 상품보다 <strong>계좌 배치의 영향이 크다.</strong> 세법은 개정될 수 있으므로 실제 적용 전 국세청·증권사 공식 안내로 재확인해야 한다.</p>
+
+<div style="border:1px solid #ddd; padding:16px; background:#fafafa;">
+<p data-ke-size="size16"><strong>확인 우선순위</strong></p>
+<ol>
+<li data-ke-size="size16"><strong>「5-10년」의 의미</strong> — 표기 만기가 아니라 유효 듀레이션 기준</li>
+<li data-ke-size="size16"><strong>MBS 비중</strong> — 조기상환·만기연장에 따라 실제 금리 민감도가 이동</li>
+<li data-ke-size="size16"><strong>하이일드 포함</strong> — 신용등급으로 자르지 않는 지수</li>
+<li data-ke-size="size16"><strong>중복 보유</strong> — 종합채권 ETF를 이미 갖고 있다면 상당 부분 겹칠 수 있음</li>
+<li data-ke-size="size16"><strong>계좌 배치</strong> — 분배금 반복 발생 상품</li>
+</ol>

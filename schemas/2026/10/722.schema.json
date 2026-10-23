@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-24T00:52:02+09:00",
+    "datePublished": "2026-10-24T00:51:56+09:00",
+    "description": "미국에서 「Dividend」나 「International」 같은 단어를 상품명에 쓰면, 규제상 자산의 80% 이상을 그 이름에 맞는 자산에 넣어야 한다. 이름이 곧 제약이 되는 구조다. BIDD(iShares International Dividend Active ETF)는 그 제약을 지키면서도, 제약이 걸리는 두 단어를 스스로 정의한다. 「배당 지급 기업」은 최근 회계연도 중 한 번이라도 이익 일부를 주주에게 나눈 회사이고, 「국제」는 최소 세 나라에 배분하면 충족된다. 이 글은 BIDD의 편입 기준과 재량 범위를 1차 출처(SEC 제출 투자설명서) 기준으로 정리하고, 같은 국제 배당 상품인 SCHY·NOBL과 기준이 어떻게 다른지 비교한다.BIDD는 어떤 ETF인가요?[사실] BIDD는 지수를 추종하지..",
+    "headline": "BIDD ETF란? 「배당주」를 연 1회 지급으로, 「국제」를 3개국으로 정의하는 액티브 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/722",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/722"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares International Dividend Active ETF",
+          "description": "지수를 추종하지 않고 순자산과 차입금 합계의 80% 이상을 외국 기업의 배당 지급 주식에 투자하며 최소 3개국에 배분하는 액티브 ETF",
+          "name": "BIDD"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "BIDD는 지수를 따르지 않는 국제 배당 액티브 ETF다. 80% 정책이 걸리는 「배당 지급 기업」을 최근 회계연도 1회 이상으로, 국가 분산을 최소 3개국으로 스스로 정의한다. NOBL·SCHY와의 기준 차이를 1차 출처로 정리했다.",
+        "headline": "BIDD ETF란? 「배당주」를 연 1회 지급으로, 「국제」를 3개국으로 정의하는 액티브 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "BIDD, 국제 배당 액티브 ETF, 80% 투자 정책, 배당 지급 기업 정의, 최소 3개국, 외국 증권 판정, iShares, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
