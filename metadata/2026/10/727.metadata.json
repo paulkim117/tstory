@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-24",
+  "body_html_length": 8198,
+  "canonical_url": "https://mystock-note.tistory.com/727",
+  "content_hash": "efb8035a282c67916f2f84051253c59d831b8eca0f8ea6974313e24308a10e81",
+  "json_ld_count": 2,
+  "meta_description": "고배당 ETF의 오래된 문제는 「배당 함정」이다. 주가가 무너져서 배당수익률이 높아 보이는 기업이 지수에 들어오고, 얼마 뒤 배당이 삭감된다. FTDS(First Trust Dividend Strength ETF)의 지수는 이 문제를 특이한 방식으로 다룬다. 편입 요건 중 하나가 장기부채를 시가총액으로 나눈 값이 40% 미만일 것인데, 이 비율의 분모가 주가다. 주가가 내리면 배당수익률은 올라 선정에 유리해지지만, 같은 순간 이 비율도 올라 편입 요건에 걸린다. 두 조건이 같은 변수에 반대로 반응하는 구조다. 이 글은 FTDS의 선별 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.FTDS는 어떤 지수를 따르나요?[사실] 지수의 소유·개발·유지·후원 주체는 Nasdaq, Inc.다. 지수는 ..",
+  "modified_time": "2026-10-25T01:32:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "고배당 ETF의 오래된 문제는 「배당 함정」이다. 주가가 무너져서 배당수익률이 높아 보이는 기업이 지수에 들어오고, 얼마 뒤 배당이 삭감된다. FTDS(First Trust Dividend Strength ETF)의 지수는 이 문제를 특이한 방식으로 다룬다. 편입 요건 중 하나가 장기부채를 시가총액으로 나눈 값이 40% 미만일 것인데, 이 비율의 분모가 주가다. 주가가 내리면 배당수익률은 올라 선정에 유리해지지만, 같은 순간 이 비율도 올라 편입 요건에 걸린다. 두 조건이 같은 변수에 반대로 반응하는 구조다. 이 글은 FTDS의 선별 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.FTDS는 어떤 지수를 따르나요?[사실] 지수의 소유·개발·유지·후원 주체는 Nasdaq, Inc.다. 지수는 ..",
+  "og_title": "FTDS ETF란? 부채를 시가총액으로 재는 고배당 ETF, SCHD·DGRO와 선별 방식 차이",
+  "post_id": "727",
+  "published_time": "2026-10-25T01:31:22+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FTDS ETF란? 부채를 시가총액으로 재는 고배당 ETF, SCHD·DGRO와 선별 방식 차이",
+  "url": "https://mystock-note.tistory.com/727"
+}

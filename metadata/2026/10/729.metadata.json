@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-24",
+  "body_html_length": 7533,
+  "canonical_url": "https://mystock-note.tistory.com/729",
+  "content_hash": "c4b5c9572d9e4c17de3404f6f32c66a9b043c73357880dc1eaa6ff002f81bd1d",
+  "json_ld_count": 2,
+  "meta_description": "채권 ETF의 편입 기준은 보통 발행자(어느 나라 기업인가)나 등급(얼마나 안전한가), 또는 만기다. PICB(Invesco International Corporate Bond ETF)의 기초지수는 다른 것을 본다 — 그 채권이 어떤 통화로 표시돼 있는가다. 미국 달러로 표시된 채권은 발행자가 아무리 외국 기업이어도 들어오지 못한다. 반대로 달러가 아닌 9개 통화 중 하나로 표시돼 있으면 편입 대상이 된다. 여기에 환헤지가 없으므로, 원화 투자자는 원화 → 달러 → 9개 통화로 이어지는 환 구조를 떠안는다. 이 글은 그 구조를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.PICB는 어떤 지수를 따르나요?[사실] 기초지수는 S&P Dow Jones Indices(S&P DJI)가 산출하며, 외국 ..",
+  "modified_time": "2026-10-25T03:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "채권 ETF의 편입 기준은 보통 발행자(어느 나라 기업인가)나 등급(얼마나 안전한가), 또는 만기다. PICB(Invesco International Corporate Bond ETF)의 기초지수는 다른 것을 본다 — 그 채권이 어떤 통화로 표시돼 있는가다. 미국 달러로 표시된 채권은 발행자가 아무리 외국 기업이어도 들어오지 못한다. 반대로 달러가 아닌 9개 통화 중 하나로 표시돼 있으면 편입 대상이 된다. 여기에 환헤지가 없으므로, 원화 투자자는 원화 → 달러 → 9개 통화로 이어지는 환 구조를 떠안는다. 이 글은 그 구조를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.PICB는 어떤 지수를 따르나요?[사실] 기초지수는 S&P Dow Jones Indices(S&P DJI)가 산출하며, 외국 ..",
+  "og_title": "PICB ETF란? 발행자가 아니라 표시 통화로 고르는 채권 ETF, BNDX와 환 구조 차이",
+  "post_id": "729",
+  "published_time": "2026-10-25T03:32:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PICB ETF란? 발행자가 아니라 표시 통화로 고르는 채권 ETF, BNDX와 환 구조 차이",
+  "url": "https://mystock-note.tistory.com/729"
+}

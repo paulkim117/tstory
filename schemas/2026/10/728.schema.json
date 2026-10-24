@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-25T02:32:00+09:00",
+    "datePublished": "2026-10-25T02:31:42+09:00",
+    "description": "대부분의 지수는 달력으로 리밸런싱한다. 분기마다, 반기마다, 월말마다 정해진 날에 구성을 다시 짠다. ISVL(iShares International Developed Small Cap Value Factor ETF)의 기초지수는 다르다. 매달 검토는 하되, 두 가지 조건 중 하나가 충족될 때만 리밸런싱한다. 조건이 걸리지 않으면 구성 종목과 비중이 그대로 유지되고, 투자설명서는 이 지수가 「일정 기간 리밸런싱하지 않을 수 있다」고 명시한다. 여기에 한국 투자자에게 중요한 특징이 하나 더 있다 — 지수명에 한국이 명시적으로 제외돼 있다. 이 글은 두 가지를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.ISVL은 어떤 지수를 따르나요?[사실] 기초지수는 FTSE Developed ex US ex ..",
+    "headline": "ISVL ETF란? 달력이 아니라 이탈도로 리밸런싱하는 지수, 한국이 명시적으로 빠지는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/728",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/728"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares International Developed Small Cap Value Factor ETF",
+          "description": "정해진 날짜가 아니라 기준선 대비 이탈도가 조건을 넘을 때만 리밸런싱하며 한국을 명시적으로 제외하는 국제 선진국 소형 가치 ETF",
+          "name": "ISVL"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "ISVL의 기초지수는 월간 검토를 하되 두 조건 중 하나가 걸릴 때만 리밸런싱한다. 걸리지 않으면 구성이 그대로 유지된다. 지수명에 한국이 명시적으로 제외돼 있는 점과 함께, 3단 배제 스크린과 애널리스트 추정치 조건을 1차 출처로 정리했다.",
+        "headline": "ISVL ETF란? 달력이 아니라 이탈도로 리밸런싱하는 지수, 한국이 명시적으로 빠지는 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "ISVL, 국제 소형 가치, 조건부 리밸런싱, 한국 제외 지수, 배제 스크린, EPS 추정치 조정, FTSE, iShares, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

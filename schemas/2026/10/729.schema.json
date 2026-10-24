@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-25T03:33:00+09:00",
+    "datePublished": "2026-10-25T03:32:41+09:00",
+    "description": "채권 ETF의 편입 기준은 보통 발행자(어느 나라 기업인가)나 등급(얼마나 안전한가), 또는 만기다. PICB(Invesco International Corporate Bond ETF)의 기초지수는 다른 것을 본다 — 그 채권이 어떤 통화로 표시돼 있는가다. 미국 달러로 표시된 채권은 발행자가 아무리 외국 기업이어도 들어오지 못한다. 반대로 달러가 아닌 9개 통화 중 하나로 표시돼 있으면 편입 대상이 된다. 여기에 환헤지가 없으므로, 원화 투자자는 원화 → 달러 → 9개 통화로 이어지는 환 구조를 떠안는다. 이 글은 그 구조를 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.PICB는 어떤 지수를 따르나요?[사실] 기초지수는 S&P Dow Jones Indices(S&P DJI)가 산출하며, 외국 ..",
+    "headline": "PICB ETF란? 발행자가 아니라 표시 통화로 고르는 채권 ETF, BNDX와 환 구조 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/729",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/729"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco International Corporate Bond ETF",
+          "description": "미국 달러를 제외한 9개 통화로 표시된 외국 발행자의 투자등급 회사채를 환헤지 없이 담는 지수형 ETF",
+          "name": "PICB"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "PICB의 기초지수는 발행자 국적이나 상장지가 아니라 표시 통화로 편입을 자른다. 달러를 제외한 9개 통화 표시 투자등급 회사채만 담으며 환헤지가 없다. BNDX와의 환 구조 차이를 1차 출처로 정리했다.",
+        "headline": "PICB ETF란? 발행자가 아니라 표시 통화로 고르는 채권 ETF, BNDX와 환 구조 차이",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "PICB, 국제 회사채 ETF, 표시 통화 기준, 환노출, 투자등급 회사채, 다중 통화, S&P DJI, Invesco, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
