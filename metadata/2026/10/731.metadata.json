@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-25",
+  "body_html_length": 10382,
+  "canonical_url": "https://mystock-note.tistory.com/731",
+  "content_hash": "42ea9f1085051ba4fa11d8345ffd26ea599bee6ebb0c9a1a32a079c3e1cceff2",
+  "json_ld_count": 2,
+  "meta_description": "QEMM(State Street SPDR MSCI Emerging Markets StrategicFactors ETF)은 종목을 고르는 지수가 아니라 완성된 팩터 지수 3개를 합친 지수를 추종하는 미국 상장 신흥국 ETF입니다. 가치·최소변동성·퀄리티 세 지수를 각 1/3씩 합치며, 합성 단계에서 종목을 걸러내지 않고 세 지수의 구성 종목을 전부 담습니다. 이 글은 합성 방식, 개별 종목 비중이 정해지는 2단 구조, 재조정 일정이 재료 지수에 종속되는 점, 중국 A주 접근 경로, 한국 거주자 세금까지 확인 순서대로 정리합니다.QEMM ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국 상장 신흥국 주식 ETF입니다. 아래 값은 모두 2026-01-31자 요약투자설명서에 기재된 내용..",
+  "modified_time": "2026-10-26T01:34:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QEMM(State Street SPDR MSCI Emerging Markets StrategicFactors ETF)은 종목을 고르는 지수가 아니라 완성된 팩터 지수 3개를 합친 지수를 추종하는 미국 상장 신흥국 ETF입니다. 가치·최소변동성·퀄리티 세 지수를 각 1/3씩 합치며, 합성 단계에서 종목을 걸러내지 않고 세 지수의 구성 종목을 전부 담습니다. 이 글은 합성 방식, 개별 종목 비중이 정해지는 2단 구조, 재조정 일정이 재료 지수에 종속되는 점, 중국 A주 접근 경로, 한국 거주자 세금까지 확인 순서대로 정리합니다.QEMM ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국 상장 신흥국 주식 ETF입니다. 아래 값은 모두 2026-01-31자 요약투자설명서에 기재된 내용..",
+  "og_title": "QEMM ETF란? 팩터 지수 3개를 합친 신흥국 ETF, 단일 팩터·시총가중과 차이 확인 기준",
+  "post_id": "731",
+  "published_time": "2026-10-26T01:33:35+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QEMM ETF란? 팩터 지수 3개를 합친 신흥국 ETF, 단일 팩터·시총가중과 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/731"
+}

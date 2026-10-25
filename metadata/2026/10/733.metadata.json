@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-25",
+  "body_html_length": 10618,
+  "canonical_url": "https://mystock-note.tistory.com/733",
+  "content_hash": "fdd94bb3cc93731c0c006229db40ebd0cba0783b45279e08bed4d2fd3bfb993d",
+  "json_ld_count": 1,
+  "meta_description": "뱅가드의 미국 팩터 ETF 3종(VFQY·VFVA·VFMO)은 이름에 \"팩터\"가 붙어 있지만 추종하는 지수가 없는 액티브 상품입니다. 세 상품은 같은 운용팀·같은 유니버스·같은 방식으로 만들어지는데, 2026년 6월 이사회 결정으로 퀄리티와 가치 두 종만 상품명 규제상 80% 투자 정책의 대상어가 바뀌었고 모멘텀은 그대로 남았습니다. 이 글은 세 상품의 구조 차이, 그 규제 문언이 갈린 지점, \"퀄리티\"와 \"가치\"를 누가 정의하는지, 지수형 팩터 ETF와의 결정적 차이, 한국 거주자 세금까지 확인 순서대로 정리합니다.세 상품은 무엇이 같고 무엇이 다른가요?아래는 2026-03-27자 각 상품 요약투자설명서와 2026-06-22자 보충서를 대조한 결과입니다.항목VFQYVFVAVFMO정식 명칭Vanguard..",
+  "modified_time": "2026-10-26T03:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/733\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/733\",\"headline\":\"뱅가드 팩터 ETF 비교: VFQY·VFVA·VFMO, 지수 없는 팩터의 80% 정책 차이\",\"description\":\"뱅가드의 미국 팩터 ETF 3종(VFQY·VFVA·VFMO)은 이름에 \"팩터\"가 붙어 있지만 추종하는 지수가 없는 액티브 상품입니다. 세 상품은 같은 운용팀·같은 유니버스·같은 방식으로 만들어지는데, 2026년 6월 이사회 결정으로 퀄리티와 가치 두 종만 상품명 규제상 80% 투자 정책의 대상어가 바뀌었고 모멘텀은 그대로 남았습니다. 이 글은 세 상품의 구조 차이, 그 규제 문언이 갈린 지점, \"퀄리티\"와 \"가치\"를 누가 정의하는지, 지수형 팩터 ETF와의 결정적 차이, 한국 거주자 세금까지 확인 순서대로 정리합니다.세 상품은 무엇이 같고 무엇이 다른가요?아래는 2026-03-27자 각 상품 요약투자설명서와 2026-06-22자 보충서를 대조한 결과입니다.항목VFQYVFVAVFMO정식 명칭Vanguard..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-26T03:34:26+09:00\",\"dateModified\":\"2026-10-26T03:35:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "뱅가드의 미국 팩터 ETF 3종(VFQY·VFVA·VFMO)은 이름에 \"팩터\"가 붙어 있지만 추종하는 지수가 없는 액티브 상품입니다. 세 상품은 같은 운용팀·같은 유니버스·같은 방식으로 만들어지는데, 2026년 6월 이사회 결정으로 퀄리티와 가치 두 종만 상품명 규제상 80% 투자 정책의 대상어가 바뀌었고 모멘텀은 그대로 남았습니다. 이 글은 세 상품의 구조 차이, 그 규제 문언이 갈린 지점, \"퀄리티\"와 \"가치\"를 누가 정의하는지, 지수형 팩터 ETF와의 결정적 차이, 한국 거주자 세금까지 확인 순서대로 정리합니다.세 상품은 무엇이 같고 무엇이 다른가요?아래는 2026-03-27자 각 상품 요약투자설명서와 2026-06-22자 보충서를 대조한 결과입니다.항목VFQYVFVAVFMO정식 명칭Vanguard..",
+  "og_title": "뱅가드 팩터 ETF 비교: VFQY·VFVA·VFMO, 지수 없는 팩터의 80% 정책 차이",
+  "post_id": "733",
+  "published_time": "2026-10-26T03:34:26+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "뱅가드 팩터 ETF 비교: VFQY·VFVA·VFMO, 지수 없는 팩터의 80% 정책 차이",
+  "url": "https://mystock-note.tistory.com/733"
+}

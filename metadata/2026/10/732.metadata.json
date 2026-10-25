@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-25",
+  "body_html_length": 10800,
+  "canonical_url": "https://mystock-note.tistory.com/732",
+  "content_hash": "1a13af65dfdaa4734bca9aebf3f7065e75a34f0e487dc1832fed2d9bc451d642",
+  "json_ld_count": 2,
+  "meta_description": "GTOC(Invesco Core Fixed Income ETF)는 지수를 추종하지 않는 액티브 투자등급 채권 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 조항은 담는 채권의 종류가 아니라 등급을 읽는 규칙입니다. 두 곳 이상의 신용평가사가 같은 채권에 서로 다른 등급을 매겼을 때, 투자설명서는 가장 높은 등급을 쓴다고 규정합니다. 이 글은 등급 판정 규칙, 무등급 채권의 처리, 지수 없는 상품이 지수 듀레이션을 기준선으로 쓰는 구조, 보수표에 재간접 비용이 잡히는 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.GTOC ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 액티브 채권 ETF입니다. 아래 값은 2026-02-27자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭In..",
+  "modified_time": "2026-10-26T02:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "GTOC(Invesco Core Fixed Income ETF)는 지수를 추종하지 않는 액티브 투자등급 채권 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 조항은 담는 채권의 종류가 아니라 등급을 읽는 규칙입니다. 두 곳 이상의 신용평가사가 같은 채권에 서로 다른 등급을 매겼을 때, 투자설명서는 가장 높은 등급을 쓴다고 규정합니다. 이 글은 등급 판정 규칙, 무등급 채권의 처리, 지수 없는 상품이 지수 듀레이션을 기준선으로 쓰는 구조, 보수표에 재간접 비용이 잡히는 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.GTOC ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 액티브 채권 ETF입니다. 아래 값은 2026-02-27자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭In..",
+  "og_title": "GTOC ETF란? 등급이 갈리면 가장 높은 쪽을 쓴다 — 지수형 투자등급 채권과 차이 확인 기준",
+  "post_id": "732",
+  "published_time": "2026-10-26T02:34:03+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GTOC ETF란? 등급이 갈리면 가장 높은 쪽을 쓴다 — 지수형 투자등급 채권과 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/732"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-26T02:35:00+09:00",
+    "datePublished": "2026-10-26T02:34:03+09:00",
+    "description": "GTOC(Invesco Core Fixed Income ETF)는 지수를 추종하지 않는 액티브 투자등급 채권 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 조항은 담는 채권의 종류가 아니라 등급을 읽는 규칙입니다. 두 곳 이상의 신용평가사가 같은 채권에 서로 다른 등급을 매겼을 때, 투자설명서는 가장 높은 등급을 쓴다고 규정합니다. 이 글은 등급 판정 규칙, 무등급 채권의 처리, 지수 없는 상품이 지수 듀레이션을 기준선으로 쓰는 구조, 보수표에 재간접 비용이 잡히는 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.GTOC ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 액티브 채권 ETF입니다. 아래 값은 2026-02-27자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭In..",
+    "headline": "GTOC ETF란? 등급이 갈리면 가장 높은 쪽을 쓴다 — 지수형 투자등급 채권과 차이 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/732",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/732"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco Core Fixed Income ETF",
+          "description": "추종 지수 없이 투자등급 채권에 순자산·차입의 80% 이상을 투자하는 미국 상장 액티브 채권 ETF",
+          "name": "GTOC"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "Invesco Core Fixed Income ETF(GTOC)의 구조를 1차 출처로 정리했다. 평가사 등급이 불일치할 때 최고 등급을 채택하는 규칙, 무등급 채권의 운용사 자체 판정, 지수 없는 상품이 종합채권 지수 듀레이션 ±2년을 기준선으로 쓰는 구조, 재간접 비용 환급 계약, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+        "headline": "GTOC ETF란? 등급이 갈리면 가장 높은 쪽을 쓴다 — 지수형 투자등급 채권과 차이 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "GTOC, 액티브 채권 ETF, 투자등급, 신용등급 규칙, 무등급 채권, 유효듀레이션, TBA, 비분산형, 재간접 비용, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

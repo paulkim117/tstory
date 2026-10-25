@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-26T00:34:00+09:00",
+    "datePublished": "2026-10-26T00:33:21+09:00",
+    "description": "미국 펀드는 상품명에 특정 투자를 시사하는 단어를 쓰면 자산의 80% 이상을 그 대상에 넣어야 한다. DVVY(Invesco Diversified Dividend Opportunities ETF)의 이름에서 그 규제에 걸리는 단어는 「Dividend」 하나다. 「Diversified」는 규제상 아무것도 요구하지 않는다. 그런데 투자설명서는 「펀드 명칭에 반영된 대로, 부운용사는 배당 지급 보유 종목을 광범위한 시장 섹터에 걸쳐 분산하고자 한다」고 적는다. 요구받지 않은 단어를 스스로 근거로 삼아 운용 방침을 선언한 것이다. 이 글은 DVVY의 선별·매도 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.DVVY는 어떤 ETF인가요?[사실] DVVY는 기초지수를 추종하지 않는 액티브 ETF다. ..",
+    "headline": "DVVY ETF란? 규제가 요구하지 않은 「Diversified」를 스스로 운용 방침으로 삼는 배당 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/730",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/730"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco Diversified Dividend Opportunities ETF",
+          "description": "기초지수 없이 순자산과 차입금 합계의 80% 이상을 배당 지급 기업 보통주에 투자하며, 상품명의 「Diversified」를 근거로 섹터 분산을 추구한다고 명시한 액티브 ETF",
+          "name": "DVVY"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "DVVY의 상품명에서 규제 대상은 「Dividend」뿐인데, 투자설명서는 「명칭에 반영된 대로」 섹터 분산을 추구한다고 적는다. 요구받지 않은 단어를 근거로 삼은 자발적 방침과 매도 규율 3조건을 1차 출처로 정리했다.",
+        "headline": "DVVY ETF란? 규제가 요구하지 않은 「Diversified」를 스스로 운용 방침으로 삼는 배당 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "DVVY, 액티브 배당 ETF, 상품명 규제, 섹터 분산 방침, 자사주 매입, 목표가 매도 규율, 대형주 절대 기준, Invesco, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

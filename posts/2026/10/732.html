@@ -1,0 +1,301 @@
+<!--
+source: https://mystock-note.tistory.com/732
+backup_date: 2026-10-25
+post_id: 732
+-->
+<p data-ke-size="size16"><b>GTOC(Invesco Core Fixed Income ETF)</b>는 지수를 추종하지 않는 액티브 투자등급 채권 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 조항은 담는 채권의 종류가 아니라 <b>등급을 읽는 규칙</b>입니다. 두 곳 이상의 신용평가사가 같은 채권에 서로 다른 등급을 매겼을 때, 투자설명서는 <b>가장 높은 등급을 쓴다</b>고 규정합니다. 이 글은 등급 판정 규칙, 무등급 채권의 처리, 지수 없는 상품이 지수 듀레이션을 기준선으로 쓰는 구조, 보수표에 재간접 비용이 잡히는 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.</p>
+
+<h2 data-ke-size="size26">GTOC ETF는 어떤 상품인가요?</h2>
+<p data-ke-size="size16">Invesco가 운용하는 미국 상장 액티브 채권 ETF입니다. 아래 값은 2026-02-27자 요약투자설명서 기재 내용입니다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>항목</th>
+<th>확인값</th>
+<th>구분</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>Invesco Core Fixed Income ETF</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>운용 방식</td>
+<td>액티브(추종 지수 없음)</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>투자 목적</td>
+<td>총수익(total return)</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>최소 투자 정책</td>
+<td><b>순자산 + 투자 목적 차입</b>의 80% 이상을 투자등급 채권 및 그와 경제적 특성이 유사한 파생상품&middot;수단에 투자</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>듀레이션 제약</td>
+<td>가중평균 유효듀레이션을 Bloomberg U.S. Aggregate Bond Index 듀레이션의 <b>&plusmn;2년</b> 이내로 유지 지향</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>만기 제약</td>
+<td><b>없음</b>(단기&middot;중기&middot;장기 모두 보유 가능)</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>부운용사</td>
+<td>Invesco Advisers, Inc.</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>분산 분류</td>
+<td><b>비분산형(non-diversified)</b></td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>운용 개시</td>
+<td>2025-07-21</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>상장시장</td>
+<td>Cboe BZX Exchange</td>
+<td>[사실]</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>해석</b>: 80% 정책의 대상이 &quot;특정 지수의 구성 증권&quot;이 아니라 <b>&quot;투자등급 채권&quot;이라는 자격 요건</b>입니다. 담을 종목 목록을 밖에서 받아오지 않으므로, <b>무엇이 투자등급인지를 판정하는 규칙 자체가 이 상품의 설계</b>가 됩니다. 액티브와 패시브의 구조적 차이는 <a href="https://mystock-note.tistory.com/502">액티브 ETF와 패시브 ETF의 선택 기준을 정리한 글</a>에서 별도로 다뤘습니다.</p>
+
+
+
+<h2 data-ke-size="size26">신용평가사 등급이 서로 다르면 어느 것을 쓰나요?</h2>
+<p data-ke-size="size16">투자설명서는 투자등급을 S&amp;P Global Ratings 기준 <b>BBB- 이상</b>, Moody&#39;s 기준 <b>Baa3 이상</b>, 또는 다른 공인신용평가기관(NRSRO)의 동등 등급으로 정의합니다. 그리고 다음 문장이 이어집니다.</p>
+<blockquote>
+<p data-ke-size="size16">둘 이상의 NRSRO가 같은 증권에 서로 다른 등급을 부여한 경우, 부운용사는 <b>가장 높은 등급</b>을 사용한다.</p>
+</blockquote>
+<p data-ke-size="size16"><b>해석</b>: 이 한 문장이 상품 성격을 상당 부분 결정합니다. 같은 채권을 두고 한 평가사는 BBB-, 다른 평가사는 BB+를 매긴 경우를 생각해보십시오. 최고 등급을 쓰면 이 채권은 <b>투자등급</b>이 되어 80% 정책 안에 들어옵니다. 최저 등급을 쓰는 규칙이었다면 같은 채권이 투자등급 밖으로 밀려납니다. <b>채권은 그대로인데 규칙이 자격을 바꿉니다.</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>등급 판정 규칙 유형</th>
+<th>같은 채권에 대한 결과</th>
+<th>성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>최고 등급 채택</b>(GTOC)</td>
+<td>가장 관대하게 판정</td>
+<td>편입 가능 범위가 넓어짐</td>
+</tr>
+<tr>
+<td>최저 등급 채택</td>
+<td>가장 보수적으로 판정</td>
+<td>경계선 채권이 배제됨</td>
+</tr>
+<tr>
+<td>평균 등급</td>
+<td>중간값에 수렴</td>
+<td>단일 평가사 편향 완화</td>
+</tr>
+<tr>
+<td>평가사 수 조건부</td>
+<td>평정 개수에 따라 규칙이 달라짐</td>
+<td>커버리지가 얕은 발행자 보정</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">※ 위 표는 확인 범위 내 여러 상품의 투자설명서에서 관찰되는 규칙 유형을 정리한 것입니다. GTOC 행만 이 글의 1차 출처에서 직접 확인한 내용이며, 나머지 행은 유형 대조를 위한 일반화입니다. <b>[판단]</b></p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 투자등급 채권 상품을 비교할 때 &quot;둘 다 투자등급&quot;이라는 서술만 보고 같은 위험이라고 판단하면 안 됩니다. <b>등급 불일치 시 어느 쪽을 쓰는지를 투자설명서에서 확인</b>하십시오. 이 규칙이 다르면 경계선 채권의 편입 여부가 갈립니다.</p>
+
+
+
+<h2 data-ke-size="size26">등급이 아예 없는 채권도 담나요?</h2>
+<p data-ke-size="size16">담을 수 있습니다. 투자설명서는 부운용사가 신용도를 평가한 뒤 <b>투자등급에 상응하는 품질이라고 판단한 무등급 증권</b>에도 투자할 수 있다고 규정합니다. 그리고 곧바로 다음과 같이 덧붙입니다.</p>
+<blockquote>
+<p data-ke-size="size16">부운용사의 신용분석이 NRSRO가 사용하는 신용분석 절차와 <b>일관되거나 비교 가능하다는 보장은 없으며, 그렇게 의도된 것도 아니다.</b></p>
+</blockquote>
+<p data-ke-size="size16"><b>해석</b>: 상품 문서가 자기 판정의 한계를 <b>스스로 명시한</b> 드문 문언입니다. 마케팅 문구가 아니라 면책 조항이지만, 투자자에게는 오히려 정확한 정보입니다. 즉 이 펀드가 말하는 &quot;투자등급 수준&quot;에는 <b>평가사가 매긴 등급</b>과 <b>운용사가 스스로 부여한 등급</b> 두 종류가 섞여 있으며, 후자는 전자와 같은 잣대로 만들어졌다는 보증이 없습니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 무등급 채권 편입 조항이 있는 액티브 채권 상품에서는 <b>&quot;투자등급 80%&quot;라는 표현이 외부 검증된 80%를 뜻하지 않을 수 있습니다.</b> 지수형 상품은 지수사가 정한 등급 규칙을 그대로 따르므로 이 여지가 작습니다. 등급 강등이 지수형 상품에서 어떻게 강제 매도로 이어지는지는 <a href="https://mystock-note.tistory.com/461">등급 강등이 만드는 강제 매도 구조를 정리한 글</a>과 대조해 보면 차이가 뚜렷합니다.</p>
+
+<h2 data-ke-size="size26">지수를 추종하지 않는데 왜 지수 듀레이션이 나오나요?</h2>
+<p data-ke-size="size16">이 상품은 추종 지수가 없지만, 투자설명서는 변동성을 낮추기 위해 <b>가중평균 유효듀레이션을 Bloomberg U.S. Aggregate Bond Index 듀레이션의 &plusmn;2년 이내</b>로 유지하는 것을 지향한다고 규정합니다. 측정은 보유 증권의 유효듀레이션과 각 투자금액을 이용한 달러가중 방식입니다.</p>
+<p data-ke-size="size16">동시에 <b>목표가 항상 충족되지 않을 수 있다</b>는 단서도 함께 붙어 있습니다. 시장 사건이나 금리 변동으로 채권이 예상보다 빠르거나 느리게 상환되는 경우가 명시적 예로 제시됩니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 지수는 <b>담을 종목의 목록</b>이 아니라 <b>금리 민감도의 기준선</b>으로만 쓰입니다. 무엇을 살지는 자유롭고 금리 위험의 크기만 묶는 구조입니다. 다만 &plusmn;2년은 좁은 밴드가 아닙니다. 종합채권 지수의 듀레이션을 기준으로 위아래 2년이면 금리 민감도가 상당히 달라질 수 있는 폭입니다. 기준선이 되는 종합채권 지수 자체의 구조는 <a href="https://mystock-note.tistory.com/397">미국 종합채권 지수의 구성과 국내 대안을 정리한 글</a>에 있습니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 이 상품을 종합채권 ETF의 대체재로 볼 수 있는지는 <b>&plusmn;2년 밴드를 감수할 수 있는지</b>에 달려 있습니다. 금리 민감도를 정확히 맞추고 싶다면 밴드가 없는 지수형이 목적에 맞습니다.</p>
+
+<h2 data-ke-size="size26">어떤 채권을 담을 수 있나요?</h2>
+<p data-ke-size="size16">투자설명서가 열거하는 범주는 다음과 같습니다.</p>
+<ul>
+<li>국내&middot;외국 회사채</li>
+<li>국내&middot;외국 정부 채무(미국 국채 포함 &mdash; 재무부 단기증권&middot;중기채&middot;장기채&middot;물가연동국채)</li>
+<li>모기지 관련 증권(정부기관&middot;정부지원기관 발행 MBS, RMBS, CMO, CMBS)</li>
+<li>자산유동화증권(ABS) &mdash; 부채담보부증권(CDO) 포함</li>
+<li>기타 채무증권, 144A 등 전매 제한&middot;등록 면제 증권, 유동성이 낮거나 거래가 드문 증권</li>
+</ul>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>한도 조항</th>
+<th>상한</th>
+<th>분모</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>사모(비정부기관) ABS &mdash; CMBS&middot;RMBS 포함</td>
+<td>20%</td>
+<td>순자산</td>
+</tr>
+<tr>
+<td>외국 채무증권(선진국&middot;신흥국 정부&middot;기업)</td>
+<td>20%</td>
+<td>순자산</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>해석</b>: 두 개의 20% 한도가 <b>별도로</b> 걸려 있습니다. 합산 한도가 아니므로 이론상 두 범주가 동시에 상당 비중을 차지할 수 있습니다. 모기지 관련 증권에는 별도 상한이 없으며, 정부기관 보증분과 사모분이 구분돼 후자에만 20%가 적용되는 구조입니다. 모기지 채권 특유의 조기상환 위험은 <a href="https://mystock-note.tistory.com/455">모기지 채권의 조기상환 위험과 종합채권 지수 중복 관계를 정리한 글</a>에서 다뤘습니다.</p>
+
+<h2 data-ke-size="size26">TBA&middot;달러롤&middot;공매도 조항은 무엇을 뜻하나요?</h2>
+<p data-ke-size="size16">투자설명서는 발행예정거래(when-issued)&middot;지연인도 거래, 모기지 관련 증권의 선도확약 거래인 <b>TBA 거래</b>를 허용하고, TBA 거래가 <b>달러롤 방식으로 수행될 수 있다</b>고 규정합니다. 더 나아가 <b>보유하지 않은 TBA 모기지에 대한 공매도</b>도 명시적으로 허용됩니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 보유하지 않은 자산의 공매도는 <b>방향성 포지션</b>입니다. 상품 이름의 &quot;Core&quot;가 주는 인상과 달리, 이 펀드는 모기지 시장에 대해 매도 방향으로도 포지션을 취할 수 있습니다. 파생상품 사용도 &quot;수익 증대&quot;와 &quot;위험 관리&quot; 양쪽 목적이 함께 규정돼 있으며, 헤지 목적으로 한정되지 않습니다. 다만 투자설명서는 파생상품 사용이 <b>의무가 아니며 사용하지 않을 수도 있다</b>고 명시합니다.</p>
+
+<h2 data-ke-size="size26">보수표에 재간접 비용이 잡혀 있는데 무슨 뜻인가요?</h2>
+<p data-ke-size="size16">이 상품의 보수표에는 <b>Acquired Fund Fees and Expenses</b>(취득 펀드 보수&middot;비용) 항목이 별도로 계상돼 있습니다. 펀드가 다른 투자회사&mdash;여기서는 주로 머니마켓펀드&mdash;에 투자하면서 간접적으로 부담하는 비용입니다.</p>
+<p data-ke-size="size16">다만 투자설명서는 이에 대응하는 계약을 함께 규정합니다. <b>2027년 8월 31일까지</b>, 운용사는 계열사가 수취하는 순자문보수 중 <b>펀드의 계열 머니마켓펀드 투자에 귀속되는 금액의 100%</b>에 해당하는 운용보수를 면제하기로 계약상 합의했으며, <b>만기 전 임의 중단이 불가</b>합니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 여기서 구분할 것은 <b>&quot;비용이 없다&quot;가 아니라 &quot;계열사 몫만 되돌려준다&quot;</b>는 점입니다. 계열이 아닌 펀드에 투자해 발생한 재간접 비용은 환급 대상이 아닙니다. 또한 <b>기한이 정해진 계약</b>이므로 만료 후 조건은 그 시점에 다시 확인해야 합니다. 구체적 비율은 시점에 따라 변동하므로 이 글에서는 수치를 제시하지 않습니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 채권 액티브 상품을 비교할 때 표기된 운용보수만 보면 <b>재간접 비용이 누락</b>됩니다. 보수표에서 취득 펀드 비용 행의 유무와, 그에 대응하는 면제&middot;환급 계약의 <b>기한</b>을 함께 확인하십시오.</p>
+
+<h2 data-ke-size="size26">비분산형이라는 표기는 무엇을 의미하나요?</h2>
+<p data-ke-size="size16">투자설명서는 이 펀드를 <b>비분산형</b>으로 선언하며, 따라서 1940년 투자회사법상 특정 분산 요건을 충족할 의무가 없다고 규정합니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 어떤 상품은 분산형으로 등록해두고 &quot;지수를 따라가다 벗어날 수 있다&quot;는 예외 문구를 답니다. 이 상품은 그 단계를 건너뛰고 <b>처음부터 비분산형을 선택</b>했습니다. 액티브 운용에서 발행자별 비중을 자유롭게 가져가기 위한 설계로 읽힙니다. 결과적으로 <b>특정 발행자에 대한 노출이 규제상 제한되지 않습니다.</b></p>
+
+<h2 data-ke-size="size26">GTOC를 지수형 채권 ETF 대신 담아도 되나요?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>비교 항목</th>
+<th>GTOC(액티브)</th>
+<th>지수형 종합채권 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>담을 종목 결정</td>
+<td>운용팀(경기순환 분석&middot;섹터 간 상대가치)</td>
+<td>지수 규칙</td>
+</tr>
+<tr>
+<td>등급 판정</td>
+<td>평가사 등급 + <b>운용사 자체 판정</b> 혼합</td>
+<td>지수사 규칙 단일 적용</td>
+</tr>
+<tr>
+<td>금리 민감도</td>
+<td>기준 지수 &plusmn;2년 밴드(목표, 미충족 가능)</td>
+<td>지수 듀레이션에 수렴</td>
+</tr>
+<tr>
+<td>강등 시 처리</td>
+<td>매도 의무 없음(판단)</td>
+<td>지수 규칙에 따라 <b>강제 매도</b> 발생 가능</td>
+</tr>
+<tr>
+<td>분산</td>
+<td>비분산형</td>
+<td>대체로 분산형</td>
+</tr>
+<tr>
+<td>예측 가능성</td>
+<td>낮음</td>
+<td>높음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 두 유형은 대체재가 아니라 <b>다른 도구</b>입니다. 포트폴리오의 채권 파트를 &quot;예측 가능한 금리 노출&quot;로 쓰려면 지수형이 목적에 맞고, &quot;운용팀의 섹터 판단&quot;을 사려면 액티브가 목적에 맞습니다. 액티브를 담는 순간 <b>측정 대상이 금리에서 운용팀으로 바뀐다</b>는 점을 인지해야 합니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 GTOC 세금은 어떻게 적용되나요?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>GTOC(미국 상장 직접투자)</th>
+<th>국내 상장 해외 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4%</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>과세 방식</td>
+<td>분리과세</td>
+<td>금융소득종합과세 대상</td>
+</tr>
+<tr>
+<td>손익통산</td>
+<td>해외주식 양도손익 내 통산 가능</td>
+<td>제한적</td>
+</tr>
+<tr>
+<td>신고</td>
+<td>다음 해 5월 확정신고</td>
+<td>원천징수</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국 원천징수 후 배당소득 과세 체계 적용</td>
+<td>배당소득 15.4%</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>(가상 예시)</b> 해당 연도 해외주식 양도차익 합계가 400만 원이라면, 250만 원 공제 후 150만 원에 22%가 적용되어 33만 원이 산출됩니다. 계산 구조를 보이기 위한 예시이며, 실제 세액은 같은 해 다른 해외주식 손익과의 통산 결과에 따라 달라집니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 채권 상품은 분배금 비중이 큰 편이라 <b>배당소득 쪽 과세가 상대적으로 크게 작동</b>합니다. 매매차익 세율만 비교하면 실제 부담을 과소평가하게 됩니다. 환헤지가 없으므로 원/달러 변동도 성과에 그대로 반영됩니다.</p>
+
+<h2 data-ke-size="size26">연금 계좌에서 살 수 있나요? 국내 대안은 있나요?</h2>
+<p data-ke-size="size16">연금저축계좌&middot;IRP&middot;ISA는 국내 상장 상품만 편입할 수 있으므로 GTOC는 불가합니다. 일반 위탁계좌(해외주식 계좌)로만 접근합니다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>분류</th>
+<th>판정</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>완전 동일 대안</td>
+<td><b>[정보부족]</b></td>
+<td>추종 지수가 없는 상품이므로 &quot;같은 지수&quot; 기준의 대안 자체가 성립하지 않음</td>
+</tr>
+<tr>
+<td>부분 대안</td>
+<td>존재</td>
+<td>국내 상장 미국 종합채권 ETF. 다만 대부분 <b>지수형</b>이므로 액티브 판단 요소가 없음</td>
+</tr>
+<tr>
+<td>성격 차이</td>
+<td>&mdash;</td>
+<td>국내 액티브 채권 ETF는 비교지수 대비 상관계수 규제를 받으므로 이탈 폭이 제한됨</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">※ 국내 브랜드명 변경 이력: KBSTAR &rarr; RISE, KINDEX &rarr; ACE, ARIRANG &rarr; PLUS.</p>
+
+<h2 data-ke-size="size26">GTOC를 검토할 때 어떤 순서로 확인해야 하나요?</h2>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0;">
+<p style="margin: 0 0 12px; font-weight: bold;" data-ke-size="size16">확인 우선순위</p>
+<p style="margin: 6px 0 2px;" data-ke-size="size16">1순위 &middot; 등급 불일치 시 <b>최고 등급을 채택</b>하는 규칙임을 인지</p>
+<div style="background: #eee; height: 10px; border-radius: 5px;">
+<div style="background: #333; width: 100%; height: 10px; border-radius: 5px;">&nbsp;

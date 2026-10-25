@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Vanguard U.S. Quality Factor ETF",
+        "description": "추종 지수 없이 운용사 정량모형으로 재무 기반이 견고한 미국 주식을 고르는 액티브 팩터 ETF",
+        "name": "VFQY"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "뱅가드 미국 팩터 ETF 3종의 구조를 1차 출처로 대조했다. 추종 지수 없는 액티브 구조, 2026년 6월 이사회 개정으로 VFQY·VFVA만 80% 정책 대상어가 팩터어로 바뀐 경위, 팩터 정의를 운용사가 내리는 문제, 지수형 팩터 ETF와의 차이, 한국 투자자 세금까지 정리했다.",
+      "headline": "뱅가드 팩터 ETF 비교: VFQY·VFVA·VFMO, 지수 없는 팩터의 80% 정책 차이",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "VFQY, VFVA, VFMO, 뱅가드 팩터 ETF, 액티브 팩터, 80% 정책, 상품명 규제, 퀄리티 팩터, 가치 팩터, 모멘텀, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard U.S. Value Factor ETF",
+          "name": "VFVA"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard U.S. Momentum Factor ETF",
+          "name": "VFMO"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

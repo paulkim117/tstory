@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-25",
+  "body_html_length": 8761,
+  "canonical_url": "https://mystock-note.tistory.com/730",
+  "content_hash": "2ab2712de9006cd48341a2267701d45f81890ef606c818367648ad9d237c2ec2",
+  "json_ld_count": 2,
+  "meta_description": "미국 펀드는 상품명에 특정 투자를 시사하는 단어를 쓰면 자산의 80% 이상을 그 대상에 넣어야 한다. DVVY(Invesco Diversified Dividend Opportunities ETF)의 이름에서 그 규제에 걸리는 단어는 「Dividend」 하나다. 「Diversified」는 규제상 아무것도 요구하지 않는다. 그런데 투자설명서는 「펀드 명칭에 반영된 대로, 부운용사는 배당 지급 보유 종목을 광범위한 시장 섹터에 걸쳐 분산하고자 한다」고 적는다. 요구받지 않은 단어를 스스로 근거로 삼아 운용 방침을 선언한 것이다. 이 글은 DVVY의 선별·매도 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.DVVY는 어떤 ETF인가요?[사실] DVVY는 기초지수를 추종하지 않는 액티브 ETF다. ..",
+  "modified_time": "2026-10-26T00:34:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 펀드는 상품명에 특정 투자를 시사하는 단어를 쓰면 자산의 80% 이상을 그 대상에 넣어야 한다. DVVY(Invesco Diversified Dividend Opportunities ETF)의 이름에서 그 규제에 걸리는 단어는 「Dividend」 하나다. 「Diversified」는 규제상 아무것도 요구하지 않는다. 그런데 투자설명서는 「펀드 명칭에 반영된 대로, 부운용사는 배당 지급 보유 종목을 광범위한 시장 섹터에 걸쳐 분산하고자 한다」고 적는다. 요구받지 않은 단어를 스스로 근거로 삼아 운용 방침을 선언한 것이다. 이 글은 DVVY의 선별·매도 규칙을 1차 출처(SEC 제출 투자설명서) 기준으로 정리한다.DVVY는 어떤 ETF인가요?[사실] DVVY는 기초지수를 추종하지 않는 액티브 ETF다. ..",
+  "og_title": "DVVY ETF란? 규제가 요구하지 않은 「Diversified」를 스스로 운용 방침으로 삼는 배당 ETF",
+  "post_id": "730",
+  "published_time": "2026-10-26T00:33:21+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DVVY ETF란? 규제가 요구하지 않은 「Diversified」를 스스로 운용 방침으로 삼는 배당 ETF",
+  "url": "https://mystock-note.tistory.com/730"
+}
