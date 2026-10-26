@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-26",
+  "body_html_length": 9923,
+  "canonical_url": "https://mystock-note.tistory.com/737",
+  "content_hash": "3435716fa9e2a710760b6b428c7ecb7c69d5703ef07177266601ac34b3673b6c",
+  "json_ld_count": 2,
+  "meta_description": "QIG(WisdomTree U.S. Corporate Bond Fund)는 미국 투자등급 회사채에 투자하는 ETF지만, 담는 방식이 이 시장의 표준과 다릅니다. 일반적인 회사채 지수는 발행 잔액이 클수록 비중이 커집니다. 즉 빚을 많이 낸 회사가 지수에서 큰 자리를 차지합니다. 이 상품이 추종하는 지수는 그 방식을 명시적으로 버리고, 펀더멘털 점수로 하위 20%를 잘라낸 뒤 소득 점수로 비중을 줍니다. 이 글은 그 2단 구조, 소득 점수에 들어가는 요소, 발행자 상한, 지수 제공사가 운용사의 모회사라는 점, 한국 거주자 세금까지 확인 순서대로 정리합니다.QIG ETF는 어떤 상품인가요?WisdomTree가 운용하는 미국 상장 투자등급 회사채 ETF입니다. 아래 값은 2026-02-12자 요약투자설명서 기..",
+  "modified_time": "2026-10-27T03:34:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "QIG(WisdomTree U.S. Corporate Bond Fund)는 미국 투자등급 회사채에 투자하는 ETF지만, 담는 방식이 이 시장의 표준과 다릅니다. 일반적인 회사채 지수는 발행 잔액이 클수록 비중이 커집니다. 즉 빚을 많이 낸 회사가 지수에서 큰 자리를 차지합니다. 이 상품이 추종하는 지수는 그 방식을 명시적으로 버리고, 펀더멘털 점수로 하위 20%를 잘라낸 뒤 소득 점수로 비중을 줍니다. 이 글은 그 2단 구조, 소득 점수에 들어가는 요소, 발행자 상한, 지수 제공사가 운용사의 모회사라는 점, 한국 거주자 세금까지 확인 순서대로 정리합니다.QIG ETF는 어떤 상품인가요?WisdomTree가 운용하는 미국 상장 투자등급 회사채 ETF입니다. 아래 값은 2026-02-12자 요약투자설명서 기..",
+  "og_title": "QIG ETF란? 회사채를 빚 크기로 담지 않는 지수, 표준 투자등급 회사채와 차이 확인 기준",
+  "post_id": "737",
+  "published_time": "2026-10-27T03:33:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "QIG ETF란? 회사채를 빚 크기로 담지 않는 지수, 표준 투자등급 회사채와 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/737"
+}

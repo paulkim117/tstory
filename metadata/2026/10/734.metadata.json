@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-26",
+  "body_html_length": 10634,
+  "canonical_url": "https://mystock-note.tistory.com/734",
+  "content_hash": "4d2f2f8b7c056690ad7b447bdfa94765a6e65d39ba871748af16bc2751cec0b0",
+  "json_ld_count": 2,
+  "meta_description": "FDD(First Trust STOXX European Select Dividend Index Fund)는 유럽 고배당주 30종을 담는 미국 상장 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 배당수익률의 절대 수준이 아니라 비교 대상입니다. 기초지수는 배당수익률이 가장 높은 30개를 뽑는 것이 아니라, 각 기업의 순배당수익률을 그 기업 자국 시장의 순배당수익률로 나눈 값으로 순위를 매깁니다. 이 글은 그 선별 방식, 한 번 들어간 종목이 빠지는 조건, 순배당수익률 가중과 15% 상한, 90% 투자 정책, 한국 거주자 세금까지 확인 순서대로 정리합니다.FDD ETF는 어떤 상품인가요?First Trust가 운용하는 미국 상장 유럽 고배당 ETF입니다. 아래 값은 2026-02-02자 요약투자설명서 기..",
+  "modified_time": "2026-10-27T00:35:03+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FDD(First Trust STOXX European Select Dividend Index Fund)는 유럽 고배당주 30종을 담는 미국 상장 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 배당수익률의 절대 수준이 아니라 비교 대상입니다. 기초지수는 배당수익률이 가장 높은 30개를 뽑는 것이 아니라, 각 기업의 순배당수익률을 그 기업 자국 시장의 순배당수익률로 나눈 값으로 순위를 매깁니다. 이 글은 그 선별 방식, 한 번 들어간 종목이 빠지는 조건, 순배당수익률 가중과 15% 상한, 90% 투자 정책, 한국 거주자 세금까지 확인 순서대로 정리합니다.FDD ETF는 어떤 상품인가요?First Trust가 운용하는 미국 상장 유럽 고배당 ETF입니다. 아래 값은 2026-02-02자 요약투자설명서 기..",
+  "og_title": "FDD ETF란? 자국 시장 대비 배당으로 고르는 유럽 30종, 고배당 ETF와 차이 확인 기준",
+  "post_id": "734",
+  "published_time": "2026-10-27T00:34:55+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FDD ETF란? 자국 시장 대비 배당으로 고르는 유럽 30종, 고배당 ETF와 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/734"
+}

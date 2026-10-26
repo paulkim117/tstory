@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-27T01:36:00+09:00",
+    "datePublished": "2026-10-27T01:35:25+09:00",
+    "description": "GLIN(VanEck India Growth Leaders ETF)은 인도 주식에 투자하는 미국 상장 ETF지만, 펀드 자신이 인도 주식을 직접 보유하지 않습니다. 투자설명서는 이 펀드가 자산의 대부분을 모리셔스공화국에 있는 100% 자회사에 투자하고, 그 자회사가 다시 인도 주식을 담는다고 규정합니다. 이 글은 그 2단 구조, 80% 투자 규정을 지키는 주체가 누구인지, MarketGrader 채점 방식, 고를 때와 비중을 줄 때 기준이 다른 점, 한국 거주자 세금까지 확인 순서대로 정리합니다.GLIN ETF는 어떤 상품인가요?VanEck이 운용하는 미국 상장 인도 주식 ETF입니다. 아래 값은 2026-05-01자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭VanEck India Growth..",
+    "headline": "GLIN ETF란? 인도 주식을 직접 담지 않는 구조, 대표지수형과 차이 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/735",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/735"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "VanEck India Growth Leaders ETF",
+          "description": "모리셔스 소재 100% 자회사를 통해 인도 주식을 보유하며 지수사의 자체 채점 상위 종목을 담는 미국 상장 ETF",
+          "name": "GLIN"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "VanEck India Growth Leaders ETF(GLIN)의 구조를 1차 출처로 정리했다. 모리셔스 100% 자회사를 거쳐 인도 주식을 보유하는 2단 구조, 80% 규정의 수범자가 자회사인 점, 성장·가치·수익성·현금흐름 4개 특성 채점, 점수로 고르고 시가총액으로 비중을 주는 이중 기준, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+        "headline": "GLIN ETF란? 인도 주식을 직접 담지 않는 구조, 대표지수형과 차이 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "GLIN, 인도 ETF, VanEck, MarketGrader, 모리셔스 자회사, 유동시가총액 가중, 외국인 소유 한도, 신흥국 ETF, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

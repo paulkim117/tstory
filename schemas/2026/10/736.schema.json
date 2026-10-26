@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "State Street SPDR S&P Emerging Markets Small Cap ETF",
+        "description": "총 시가총액 1억~20억 달러의 절대 금액 구간으로 신흥국 소형주를 정의하는 미국 상장 ETF",
+        "name": "EWX"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "State Street SPDR S&P Emerging Markets Small Cap ETF(EWX)의 구조를 1차 출처로 정리했다. 총 시가총액 1억~20억 달러라는 절대 금액으로 소형주를 정의하는 방식, 진입 1억·잔류 7,500만 달러의 비대칭 문턱, 공개 시장 협의를 거치는 국가 분류, 연 1회 재구성, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+      "headline": "EWX ETF란? 소형주를 순위가 아니라 금액으로 자르는 신흥국 ETF, 광역 소형주와 차이 확인 기준",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "EWX, 신흥국 소형주, S&P Global BMI, 절대 금액 기준, 유동조정 시가총액, 문턱 비대칭, 표본추출, 신흥국 ETF, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

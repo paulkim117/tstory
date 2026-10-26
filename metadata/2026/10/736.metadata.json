@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-26",
+  "body_html_length": 10183,
+  "canonical_url": "https://mystock-note.tistory.com/736",
+  "content_hash": "50105afe9deda7cb0580d8cd90d6c1c019262dcd90d0f3c3beab10ff8d04f03b",
+  "json_ld_count": 1,
+  "meta_description": "EWX(State Street SPDR S&P Emerging Markets Small Cap ETF)는 신흥국 소형주에 투자하는 미국 상장 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 \"소형주\"를 무엇으로 정의하는가입니다. 추종 지수의 이름은 S&P Emerging Under USD2 Billion Index이며, 이름에 박힌 금액이 그대로 기준입니다. 시가총액 순위 상위 몇 퍼센트를 자르는 방식이 아니라 총 시가총액 1억~20억 달러라는 절대 금액 구간으로 편입 여부가 정해집니다. 이 글은 그 정의 방식, 진입 문턱과 잔류 문턱이 다른 구조, 국가 자격을 정하는 절차, 한국 거주자 세금까지 확인 순서대로 정리합니다.EWX ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국..",
+  "modified_time": "2026-10-27T02:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/736\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/736\",\"headline\":\"EWX ETF란? 소형주를 순위가 아니라 금액으로 자르는 신흥국 ETF, 광역 소형주와 차이 확인 기준\",\"description\":\"EWX(State Street SPDR S&P Emerging Markets Small Cap ETF)는 신흥국 소형주에 투자하는 미국 상장 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 \"소형주\"를 무엇으로 정의하는가입니다. 추종 지수의 이름은 S&P Emerging Under USD2 Billion Index이며, 이름에 박힌 금액이 그대로 기준입니다. 시가총액 순위 상위 몇 퍼센트를 자르는 방식이 아니라 총 시가총액 1억~20억 달러라는 절대 금액 구간으로 편입 여부가 정해집니다. 이 글은 그 정의 방식, 진입 문턱과 잔류 문턱이 다른 구조, 국가 자격을 정하는 절차, 한국 거주자 세금까지 확인 순서대로 정리합니다.EWX ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-27T02:32:41+09:00\",\"dateModified\":\"2026-10-27T02:33:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "EWX(State Street SPDR S&P Emerging Markets Small Cap ETF)는 신흥국 소형주에 투자하는 미국 상장 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 \"소형주\"를 무엇으로 정의하는가입니다. 추종 지수의 이름은 S&P Emerging Under USD2 Billion Index이며, 이름에 박힌 금액이 그대로 기준입니다. 시가총액 순위 상위 몇 퍼센트를 자르는 방식이 아니라 총 시가총액 1억~20억 달러라는 절대 금액 구간으로 편입 여부가 정해집니다. 이 글은 그 정의 방식, 진입 문턱과 잔류 문턱이 다른 구조, 국가 자격을 정하는 절차, 한국 거주자 세금까지 확인 순서대로 정리합니다.EWX ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국..",
+  "og_title": "EWX ETF란? 소형주를 순위가 아니라 금액으로 자르는 신흥국 ETF, 광역 소형주와 차이 확인 기준",
+  "post_id": "736",
+  "published_time": "2026-10-27T02:32:41+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWX ETF란? 소형주를 순위가 아니라 금액으로 자르는 신흥국 ETF, 광역 소형주와 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/736"
+}

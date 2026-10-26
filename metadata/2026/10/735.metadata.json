@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-26",
+  "body_html_length": 11334,
+  "canonical_url": "https://mystock-note.tistory.com/735",
+  "content_hash": "4ba90d829f586516b8c51e6ef90be54af4558dad6f5902bd97a933abcdb6bbea",
+  "json_ld_count": 2,
+  "meta_description": "GLIN(VanEck India Growth Leaders ETF)은 인도 주식에 투자하는 미국 상장 ETF지만, 펀드 자신이 인도 주식을 직접 보유하지 않습니다. 투자설명서는 이 펀드가 자산의 대부분을 모리셔스공화국에 있는 100% 자회사에 투자하고, 그 자회사가 다시 인도 주식을 담는다고 규정합니다. 이 글은 그 2단 구조, 80% 투자 규정을 지키는 주체가 누구인지, MarketGrader 채점 방식, 고를 때와 비중을 줄 때 기준이 다른 점, 한국 거주자 세금까지 확인 순서대로 정리합니다.GLIN ETF는 어떤 상품인가요?VanEck이 운용하는 미국 상장 인도 주식 ETF입니다. 아래 값은 2026-05-01자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭VanEck India Growth..",
+  "modified_time": "2026-10-27T01:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "GLIN(VanEck India Growth Leaders ETF)은 인도 주식에 투자하는 미국 상장 ETF지만, 펀드 자신이 인도 주식을 직접 보유하지 않습니다. 투자설명서는 이 펀드가 자산의 대부분을 모리셔스공화국에 있는 100% 자회사에 투자하고, 그 자회사가 다시 인도 주식을 담는다고 규정합니다. 이 글은 그 2단 구조, 80% 투자 규정을 지키는 주체가 누구인지, MarketGrader 채점 방식, 고를 때와 비중을 줄 때 기준이 다른 점, 한국 거주자 세금까지 확인 순서대로 정리합니다.GLIN ETF는 어떤 상품인가요?VanEck이 운용하는 미국 상장 인도 주식 ETF입니다. 아래 값은 2026-05-01자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭VanEck India Growth..",
+  "og_title": "GLIN ETF란? 인도 주식을 직접 담지 않는 구조, 대표지수형과 차이 확인 기준",
+  "post_id": "735",
+  "published_time": "2026-10-27T01:35:25+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GLIN ETF란? 인도 주식을 직접 담지 않는 구조, 대표지수형과 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/735"
+}
