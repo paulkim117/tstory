@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-28T01:35:00+09:00",
+    "datePublished": "2026-10-28T01:34:55+09:00",
+    "description": "MMTM(State Street SPDR S&P 1500 Momentum Tilt ETF)은 미국 모멘텀 ETF지만, 같은 이름을 쓰는 다른 상품들과 구조가 반대입니다. 일반적인 모멘텀 ETF는 모지수에서 모멘텀이 강한 종목만 골라 담습니다. 이 상품이 추종하는 지수는 S&P Composite 1500의 구성종목을 하나도 빼지 않고 전부 담은 채, 비중만 재배분합니다. 이 글은 그 재배분 방식, 모멘텀을 11개월로 재는 이유, 시가총액이 같아지도록 20개로 쪼개는 구조, 선별형 모멘텀 ETF와의 차이, 한국 거주자 세금까지 확인 순서대로 정리합니다.MMTM ETF는 어떤 상품인가요?State Street(SPDR)가 운용하는 미국 상장 모멘텀 ETF입니다. 아래 값은 2025-10-31자 요약투자설명서 ..",
+    "headline": "MMTM ETF란? 종목을 고르지 않고 비중만 바꾸는 모멘텀 ETF, 선별형과 차이 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/739",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/739"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "State Street SPDR S&P 1500 Momentum Tilt ETF",
+          "description": "S&P Composite 1500의 구성종목을 전부 유지한 채 모멘텀에 따라 비중만 재배분하는 미국 상장 ETF",
+          "name": "MMTM"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "State Street SPDR S&P 1500 Momentum Tilt ETF(MMTM)의 구조를 1차 출처로 정리했다. 모지수 S&P Composite 1500의 구성종목을 전부 유지한 채 비중만 재배분하는 구조, 11개월 총수익률로 모멘텀을 재는 방식, 시가총액이 같아지도록 20개로 나누는 분할, 비분산형이 기본인 분류, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+        "headline": "MMTM ETF란? 종목을 고르지 않고 비중만 바꾸는 모멘텀 ETF, 선별형과 차이 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "MMTM, 모멘텀 ETF, 틸트, S&P Composite 1500, 대체 가중, 시가총액 가중, 분기 리밸런싱, 비분산형, 팩터 ETF, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

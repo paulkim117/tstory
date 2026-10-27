@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-10-28T03:34:00+09:00",
+    "datePublished": "2026-10-28T03:33:12+09:00",
+    "description": "VCHY(Vanguard U.S. High-Yield Corporate Bond Index ETF)는 미국 달러표시 하이일드 회사채를 담는 지수형 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 담는 채권의 종류가 아니라 한 발행사가 지수에서 차지할 수 있는 최대 비중입니다. 기초지수 이름에 그 규칙이 그대로 박혀 있습니다 — Bloomberg US High Yield 250MM 2% Issuer Capped Index. 발행잔액 2억 5,000만 달러 문턱과 발행자 2% 상한이 지수명에 명시돼 있습니다. 이 글은 그 상한이 하이일드에서 갖는 의미, 세 평가사의 중간 등급으로 판정하는 방식, 국제 달러표시 채권 편입, 한국 거주자 세금까지 확인 순서대로 정리합니다.VCHY ETF는 어떤 상품인가요?Va..",
+    "headline": "VCHY ETF란? 한 발행사가 2%를 넘지 못하는 하이일드 지수, 기존 상품과 차이 확인 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/741",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/741"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Vanguard U.S. High-Yield Corporate Bond Index ETF",
+          "description": "발행잔액 2.5억 달러 이상 달러표시 하이일드 회사채를 담되 발행자 노출을 2%로 제한하는 미국 상장 ETF",
+          "name": "VCHY"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "Vanguard U.S. High-Yield Corporate Bond Index ETF(VCHY)의 구조를 1차 출처로 정리했다. 발행자 2% 상한이 하이일드에서 갖는 의미, 발행잔액 2.5억 달러 문턱, 세 평가사 중간 등급 판정, 국제 달러표시 채권 편입, 운용 이력이 없는 신규 상품이라는 점, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+        "headline": "VCHY ETF란? 한 발행사가 2%를 넘지 못하는 하이일드 지수, 기존 상품과 차이 확인 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "VCHY, 하이일드 ETF, Vanguard, 발행자 상한, Issuer Capped, 신용등급, 중간 등급, 발행잔액, 채권 ETF, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "iShares Morningstar U.S. Equity ETF",
+        "description": "누적 시가총액 상위 90% 구간(Large-Mid Cap)의 블렌드 종목을 담는 미국 상장 ETF",
+        "name": "ILCB"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "iShares 모닝스타 규모·스타일 ETF 9종의 구조를 1차 출처로 대조했다. IL 계열 지수가 대형이 아니라 Large-Mid(상위 90%)여서 IM 계열을 통째로 포함하는 중첩, 누적 시가총액 백분위로 구간을 자르는 방식, 유동성 상위 75% 절삭, 블렌드가 독립된 분류라는 점, 한국 투자자 세금까지 정리했다.",
+      "headline": "모닝스타 스타일박스 ETF 비교: ILCB·IMCB·ISCB 외 9종, 대형이 중형을 포함하는 구조",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "ILCB, ILCV, IMCB, IMCG, IMCV, ISCB, ISCG, ISCV, 모닝스타, 스타일박스, 규모 구간, 백분위, 블렌드, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Value ETF",
+          "name": "ILCV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Mid-Cap ETF",
+          "name": "IMCB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Mid-Cap Growth ETF",
+          "name": "IMCG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Mid-Cap Value ETF",
+          "name": "IMCV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Small-Cap ETF",
+          "name": "ISCB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Small-Cap Growth ETF",
+          "name": "ISCG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Morningstar Small-Cap Value ETF",
+          "name": "ISCV"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

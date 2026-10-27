@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-27",
+  "body_html_length": 9624,
+  "canonical_url": "https://mystock-note.tistory.com/741",
+  "content_hash": "2cb50d7284475c257a9b70541e702b6ccfebf9b0b0938776ba44824f0c88a4bd",
+  "json_ld_count": 2,
+  "meta_description": "VCHY(Vanguard U.S. High-Yield Corporate Bond Index ETF)는 미국 달러표시 하이일드 회사채를 담는 지수형 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 담는 채권의 종류가 아니라 한 발행사가 지수에서 차지할 수 있는 최대 비중입니다. 기초지수 이름에 그 규칙이 그대로 박혀 있습니다 — Bloomberg US High Yield 250MM 2% Issuer Capped Index. 발행잔액 2억 5,000만 달러 문턱과 발행자 2% 상한이 지수명에 명시돼 있습니다. 이 글은 그 상한이 하이일드에서 갖는 의미, 세 평가사의 중간 등급으로 판정하는 방식, 국제 달러표시 채권 편입, 한국 거주자 세금까지 확인 순서대로 정리합니다.VCHY ETF는 어떤 상품인가요?Va..",
+  "modified_time": "2026-10-28T03:34:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VCHY(Vanguard U.S. High-Yield Corporate Bond Index ETF)는 미국 달러표시 하이일드 회사채를 담는 지수형 ETF입니다. 이 상품에서 먼저 확인해야 할 것은 담는 채권의 종류가 아니라 한 발행사가 지수에서 차지할 수 있는 최대 비중입니다. 기초지수 이름에 그 규칙이 그대로 박혀 있습니다 — Bloomberg US High Yield 250MM 2% Issuer Capped Index. 발행잔액 2억 5,000만 달러 문턱과 발행자 2% 상한이 지수명에 명시돼 있습니다. 이 글은 그 상한이 하이일드에서 갖는 의미, 세 평가사의 중간 등급으로 판정하는 방식, 국제 달러표시 채권 편입, 한국 거주자 세금까지 확인 순서대로 정리합니다.VCHY ETF는 어떤 상품인가요?Va..",
+  "og_title": "VCHY ETF란? 한 발행사가 2%를 넘지 못하는 하이일드 지수, 기존 상품과 차이 확인 기준",
+  "post_id": "741",
+  "published_time": "2026-10-28T03:33:12+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VCHY ETF란? 한 발행사가 2%를 넘지 못하는 하이일드 지수, 기존 상품과 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/741"
+}

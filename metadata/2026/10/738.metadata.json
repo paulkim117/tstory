@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-27",
+  "body_html_length": 11770,
+  "canonical_url": "https://mystock-note.tistory.com/738",
+  "content_hash": "c289827ce507e50e5e1112099edf9b794b6156caffd8d390bfa4331c9ac5ca1b",
+  "json_ld_count": 1,
+  "meta_description": "iShares 모닝스타 계열 9종은 티커 앞자리가 IL·IM·IS로 나뉘어 대형·중형·소형 세 구간을 담는 것처럼 보입니다. 그런데 각 상품의 기초지수를 확인하면 다릅니다. IL로 시작하는 세 종목의 지수는 \"Large-Mid Cap\", 즉 시가총액 상위 90% 구간 전체이고, IM으로 시작하는 세 종목의 지수는 70~90% 구간입니다. 두 구간이 겹칩니다. 이 글은 그 중첩 구조, 규모를 백분위로 자르는 방식, \"블렌드\"가 무엇을 뜻하는지, 상품명에서 규모 표기가 사라진 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.아홉 종목은 어떻게 나뉘어 있나요?아래는 2025-08-29자 각 상품 요약투자설명서를 대조한 결과입니다.티커현행 상품명기초지수 규모 구간스타일ILCBiShares Morningst..",
+  "modified_time": "2026-10-28T00:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/738\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/738\",\"headline\":\"모닝스타 스타일박스 ETF 비교: ILCB·IMCB·ISCB 외 9종, 대형이 중형을 포함하는 구조\",\"description\":\"iShares 모닝스타 계열 9종은 티커 앞자리가 IL·IM·IS로 나뉘어 대형·중형·소형 세 구간을 담는 것처럼 보입니다. 그런데 각 상품의 기초지수를 확인하면 다릅니다. IL로 시작하는 세 종목의 지수는 \"Large-Mid Cap\", 즉 시가총액 상위 90% 구간 전체이고, IM으로 시작하는 세 종목의 지수는 70~90% 구간입니다. 두 구간이 겹칩니다. 이 글은 그 중첩 구조, 규모를 백분위로 자르는 방식, \"블렌드\"가 무엇을 뜻하는지, 상품명에서 규모 표기가 사라진 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.아홉 종목은 어떻게 나뉘어 있나요?아래는 2025-08-29자 각 상품 요약투자설명서를 대조한 결과입니다.티커현행 상품명기초지수 규모 구간스타일ILCBiShares Morningst..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-28T00:34:20+09:00\",\"dateModified\":\"2026-10-28T00:35:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "iShares 모닝스타 계열 9종은 티커 앞자리가 IL·IM·IS로 나뉘어 대형·중형·소형 세 구간을 담는 것처럼 보입니다. 그런데 각 상품의 기초지수를 확인하면 다릅니다. IL로 시작하는 세 종목의 지수는 \"Large-Mid Cap\", 즉 시가총액 상위 90% 구간 전체이고, IM으로 시작하는 세 종목의 지수는 70~90% 구간입니다. 두 구간이 겹칩니다. 이 글은 그 중첩 구조, 규모를 백분위로 자르는 방식, \"블렌드\"가 무엇을 뜻하는지, 상품명에서 규모 표기가 사라진 이유, 한국 거주자 세금까지 확인 순서대로 정리합니다.아홉 종목은 어떻게 나뉘어 있나요?아래는 2025-08-29자 각 상품 요약투자설명서를 대조한 결과입니다.티커현행 상품명기초지수 규모 구간스타일ILCBiShares Morningst..",
+  "og_title": "모닝스타 스타일박스 ETF 비교: ILCB·IMCB·ISCB 외 9종, 대형이 중형을 포함하는 구조",
+  "post_id": "738",
+  "published_time": "2026-10-28T00:34:20+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "모닝스타 스타일박스 ETF 비교: ILCB·IMCB·ISCB 외 9종, 대형이 중형을 포함하는 구조",
+  "url": "https://mystock-note.tistory.com/738"
+}
