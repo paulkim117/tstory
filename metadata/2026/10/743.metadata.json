@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-28",
+  "body_html_length": 9328,
+  "canonical_url": "https://mystock-note.tistory.com/743",
+  "content_hash": "9ba004acf981c338103502e734beba6f9c4d44a87ae658693b4733d10dd9e58a",
+  "json_ld_count": 2,
+  "meta_description": "IUSV(iShares Core S&P U.S. Value ETF)는 미국 대형·중형 가치주를 담는 ETF입니다. 이 상품에서 확인할 조항은 종목 선정이 아니라 비중이 한도를 넘었을 때 언제 손을 대는가입니다. 대부분의 지수는 상한을 정기 리밸런싱 시점에만 적용합니다. 이 지수는 그와 별개로, 분기 말 특정 영업일에 비중이 일정 선을 넘으면 정기 일정을 기다리지 않고 재가중을 발동합니다. 이 글은 그 2단 구조, S&P 900이라는 모집단, 가치를 재는 세 지표, 한국 거주자 세금까지 확인 순서대로 정리합니다.IUSV ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 가치주 ETF입니다. 아래 값은 2026-07-31자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭iShares..",
+  "modified_time": "2026-10-29T01:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IUSV(iShares Core S&P U.S. Value ETF)는 미국 대형·중형 가치주를 담는 ETF입니다. 이 상품에서 확인할 조항은 종목 선정이 아니라 비중이 한도를 넘었을 때 언제 손을 대는가입니다. 대부분의 지수는 상한을 정기 리밸런싱 시점에만 적용합니다. 이 지수는 그와 별개로, 분기 말 특정 영업일에 비중이 일정 선을 넘으면 정기 일정을 기다리지 않고 재가중을 발동합니다. 이 글은 그 2단 구조, S&P 900이라는 모집단, 가치를 재는 세 지표, 한국 거주자 세금까지 확인 순서대로 정리합니다.IUSV ETF는 어떤 상품인가요?블랙록(iShares)이 운용하는 미국 상장 가치주 ETF입니다. 아래 값은 2026-07-31자 요약투자설명서 기재 내용입니다.항목확인값구분정식 명칭iShares..",
+  "og_title": "IUSV ETF란? 상한을 넘으면 리밸런싱을 기다리지 않는 가치주 지수, 확인 기준 정리",
+  "post_id": "743",
+  "published_time": "2026-10-29T01:34:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IUSV ETF란? 상한을 넘으면 리밸런싱을 기다리지 않는 가치주 지수, 확인 기준 정리",
+  "url": "https://mystock-note.tistory.com/743"
+}

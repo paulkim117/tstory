@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Schwab International Small-Cap Equity ETF",
+        "description": "미국을 제외한 선진국 소형주를 담으며 지수 변경을 예상한 선행 매매를 허용하는 미국 상장 ETF",
+        "name": "SCHC"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "Schwab International Small-Cap Equity ETF(SCHC)의 구조를 1차 출처로 정리했다. 지수 편출 예상 시 선매도·편입 예상 시 선매수를 허용하는 조항, 소형주를 하위 10%와 유동시총 1억 5,000만 달러로 함께 자르는 혼합 정의, 지수 외 투자 10% 한도, 추적오차 축소 목적의 증권대여, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+      "headline": "SCHC ETF란? 지수 변경을 미리 반영하는 국제 소형주 ETF, 확인 기준 정리",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "SCHC, 국제 소형주, Schwab, FTSE Developed, 선행 매매, 유동성 필터, 표본추출, 증권대여, 선진국 ETF, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

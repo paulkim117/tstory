@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-28",
+  "body_html_length": 9886,
+  "canonical_url": "https://mystock-note.tistory.com/744",
+  "content_hash": "16b835d07ba675b8777e1c58f68cc38683319960c53517ba20fe32d9a91a8a8e",
+  "json_ld_count": 1,
+  "meta_description": "PGHY(Invesco Global ex-US High Yield Corporate Bond ETF)는 미국 밖 발행자의 달러표시 하이일드 회사채를 담는 미국 상장 ETF입니다. 하이일드 상품은 보통 \"투자등급 미만\"이라는 위쪽 경계만 두고 아래쪽에는 제한을 두지 않습니다. 이 상품이 추종하는 지수는 다릅니다. BB1 이하이면서 CCC3 이상이라는 위아래 양쪽 경계를 둡니다. 즉 부도 임박 구간을 편입 대상에서 빼는 규칙이 명시돼 있습니다. 이 글은 그 등급 구간, 발행지가 아닌 \"위험 국가\"로 미국 밖을 정의하는 방식, 만기 요건의 비대칭, 한국 거주자 세금까지 확인 순서대로 정리합니다.PGHY ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 비미국 하이일드 회사채 ETF입니다. 아래 값은..",
+  "modified_time": "2026-10-29T02:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/744\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/744\",\"headline\":\"PGHY ETF란? 하이일드인데 등급에 바닥이 있는 지수, 미국 하이일드와 차이 확인 기준\",\"description\":\"PGHY(Invesco Global ex-US High Yield Corporate Bond ETF)는 미국 밖 발행자의 달러표시 하이일드 회사채를 담는 미국 상장 ETF입니다. 하이일드 상품은 보통 \"투자등급 미만\"이라는 위쪽 경계만 두고 아래쪽에는 제한을 두지 않습니다. 이 상품이 추종하는 지수는 다릅니다. BB1 이하이면서 CCC3 이상이라는 위아래 양쪽 경계를 둡니다. 즉 부도 임박 구간을 편입 대상에서 빼는 규칙이 명시돼 있습니다. 이 글은 그 등급 구간, 발행지가 아닌 \"위험 국가\"로 미국 밖을 정의하는 방식, 만기 요건의 비대칭, 한국 거주자 세금까지 확인 순서대로 정리합니다.PGHY ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 비미국 하이일드 회사채 ETF입니다. 아래 값은..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-29T02:35:04+09:00\",\"dateModified\":\"2026-10-29T02:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "PGHY(Invesco Global ex-US High Yield Corporate Bond ETF)는 미국 밖 발행자의 달러표시 하이일드 회사채를 담는 미국 상장 ETF입니다. 하이일드 상품은 보통 \"투자등급 미만\"이라는 위쪽 경계만 두고 아래쪽에는 제한을 두지 않습니다. 이 상품이 추종하는 지수는 다릅니다. BB1 이하이면서 CCC3 이상이라는 위아래 양쪽 경계를 둡니다. 즉 부도 임박 구간을 편입 대상에서 빼는 규칙이 명시돼 있습니다. 이 글은 그 등급 구간, 발행지가 아닌 \"위험 국가\"로 미국 밖을 정의하는 방식, 만기 요건의 비대칭, 한국 거주자 세금까지 확인 순서대로 정리합니다.PGHY ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 비미국 하이일드 회사채 ETF입니다. 아래 값은..",
+  "og_title": "PGHY ETF란? 하이일드인데 등급에 바닥이 있는 지수, 미국 하이일드와 차이 확인 기준",
+  "post_id": "744",
+  "published_time": "2026-10-29T02:35:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PGHY ETF란? 하이일드인데 등급에 바닥이 있는 지수, 미국 하이일드와 차이 확인 기준",
+  "url": "https://mystock-note.tistory.com/744"
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-28",
+  "body_html_length": 10306,
+  "canonical_url": "https://mystock-note.tistory.com/745",
+  "content_hash": "14f7ed774b64f070ed46271d9b15de2076c6f224d25f62aca9509739343c2525",
+  "json_ld_count": 1,
+  "meta_description": "SHAG(WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund)는 미국 단기 투자등급 채권에 투자하는 지수형 ETF입니다. 이름의 \"Yield Enhanced\"는 수익률을 높인다는 뜻인데, 그 방법이 통념과 다릅니다. 보통은 더 높은 이자를 주는 채권으로 갈아탑니다. 이 지수는 개별 종목을 고르지 않습니다. 대신 종합채권 시장을 국채·정부기관채·크레딧·유동화 네 덩어리로 나눈 뒤, 그 덩어리들의 비중만 다시 배분합니다. 이 글은 그 재가중 구조, 함께 걸린 네 가지 제약, 듀레이션 상한, 한국 거주자 세금까지 확인 순서대로 정리합니다.SHAG ETF는 어떤 상품인가요?WisdomTree가 운용하는 미국 상장 단기 종합채권 ETF입니다. 아래 값은 ..",
+  "modified_time": "2026-10-29T03:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/745\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/745\",\"headline\":\"SHAG ETF란? 종목이 아니라 자산군 비중을 바꿔 수익률을 높이는 단기 채권 ETF\",\"description\":\"SHAG(WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund)는 미국 단기 투자등급 채권에 투자하는 지수형 ETF입니다. 이름의 \"Yield Enhanced\"는 수익률을 높인다는 뜻인데, 그 방법이 통념과 다릅니다. 보통은 더 높은 이자를 주는 채권으로 갈아탑니다. 이 지수는 개별 종목을 고르지 않습니다. 대신 종합채권 시장을 국채·정부기관채·크레딧·유동화 네 덩어리로 나눈 뒤, 그 덩어리들의 비중만 다시 배분합니다. 이 글은 그 재가중 구조, 함께 걸린 네 가지 제약, 듀레이션 상한, 한국 거주자 세금까지 확인 순서대로 정리합니다.SHAG ETF는 어떤 상품인가요?WisdomTree가 운용하는 미국 상장 단기 종합채권 ETF입니다. 아래 값은 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-29T03:35:23+09:00\",\"dateModified\":\"2026-10-29T03:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "SHAG(WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund)는 미국 단기 투자등급 채권에 투자하는 지수형 ETF입니다. 이름의 \"Yield Enhanced\"는 수익률을 높인다는 뜻인데, 그 방법이 통념과 다릅니다. 보통은 더 높은 이자를 주는 채권으로 갈아탑니다. 이 지수는 개별 종목을 고르지 않습니다. 대신 종합채권 시장을 국채·정부기관채·크레딧·유동화 네 덩어리로 나눈 뒤, 그 덩어리들의 비중만 다시 배분합니다. 이 글은 그 재가중 구조, 함께 걸린 네 가지 제약, 듀레이션 상한, 한국 거주자 세금까지 확인 순서대로 정리합니다.SHAG ETF는 어떤 상품인가요?WisdomTree가 운용하는 미국 상장 단기 종합채권 ETF입니다. 아래 값은 ..",
+  "og_title": "SHAG ETF란? 종목이 아니라 자산군 비중을 바꿔 수익률을 높이는 단기 채권 ETF",
+  "post_id": "745",
+  "published_time": "2026-10-29T03:35:23+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SHAG ETF란? 종목이 아니라 자산군 비중을 바꿔 수익률을 높이는 단기 채권 ETF",
+  "url": "https://mystock-note.tistory.com/745"
+}

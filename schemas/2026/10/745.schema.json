@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund",
+        "description": "종합채권 지수의 단기 구간에서 자산군 하위그룹의 비중만 재조정해 수익률을 높이는 미국 상장 ETF",
+        "name": "SHAG"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund(SHAG)의 구조를 1차 출처로 정리했다. 국채·정부기관·크레딧·유동화 네 하위그룹의 비중만 재조정하고 종목은 선별하지 않는 구조, 추적오차·회전율·섹터·듀레이션·신용 다섯 제약, 모집단 대비 +0.5년 단방향 듀레이션 상한, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+      "headline": "SHAG ETF란? 종목이 아니라 자산군 비중을 바꿔 수익률을 높이는 단기 채권 ETF",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "SHAG, 단기채권 ETF, 종합채권, WisdomTree, 재가중, 듀레이션, TBA, 유동화증권, 채권 ETF, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

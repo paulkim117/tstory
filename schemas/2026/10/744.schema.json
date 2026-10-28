@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Invesco Global ex-US High Yield Corporate Bond ETF",
+        "description": "위험 국가가 미국 외인 발행자의 달러표시 하이일드 회사채를 BB1~CCC3 등급 구간으로 담는 미국 상장 ETF",
+        "name": "PGHY"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "Invesco Global ex-US High Yield Corporate Bond ETF(PGHY)의 구조를 1차 출처로 정리했다. BB1 이하·CCC3 이상이라는 양쪽 등급 경계, 발행지가 아닌 위험 국가로 미국 밖을 정의하는 방식, 발행 시 18개월·잔존 1일의 만기 비대칭, 유로달러와 144A 편입, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+      "headline": "PGHY ETF란? 하이일드인데 등급에 바닥이 있는 지수, 미국 하이일드와 차이 확인 기준",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "PGHY, 하이일드 ETF, 비미국 회사채, Invesco, 신용등급, CCC, 위험 국가, 유로달러, 144A, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

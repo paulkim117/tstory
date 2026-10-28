@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-28",
+  "body_html_length": 9167,
+  "canonical_url": "https://mystock-note.tistory.com/742",
+  "content_hash": "a57211b38f696c7b903ca156150c86eb97a01955ed1773d003b3918920357ad3",
+  "json_ld_count": 1,
+  "meta_description": "SCHC(Schwab International Small-Cap Equity ETF)는 미국을 제외한 선진국 소형주를 담는 미국 상장 ETF입니다. 이 상품의 투자설명서에는 인덱스 펀드에서 흔히 보기 어려운 조항이 있습니다. 지수에서 빠질 것으로 예상되는 종목을 미리 팔고, 아직 지수에 없지만 편입될 것으로 예상되는 종목을 미리 살 수 있다는 규정입니다. 즉 \"지수를 그대로 따라간다\"는 통념과 실제 운용 규칙이 다릅니다. 이 글은 그 선행 매매 조항, 소형주를 백분위와 절대금액으로 함께 자르는 구조, 지수 외 투자 10% 한도, 한국 거주자 세금까지 확인 순서대로 정리합니다.SCHC ETF는 어떤 상품인가요?Charles Schwab(Schwab Asset Management)이 운용하는 미국 상장 국제..",
+  "modified_time": "2026-10-29T00:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/742\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/742\",\"headline\":\"SCHC ETF란? 지수 변경을 미리 반영하는 국제 소형주 ETF, 확인 기준 정리\",\"description\":\"SCHC(Schwab International Small-Cap Equity ETF)는 미국을 제외한 선진국 소형주를 담는 미국 상장 ETF입니다. 이 상품의 투자설명서에는 인덱스 펀드에서 흔히 보기 어려운 조항이 있습니다. 지수에서 빠질 것으로 예상되는 종목을 미리 팔고, 아직 지수에 없지만 편입될 것으로 예상되는 종목을 미리 살 수 있다는 규정입니다. 즉 \"지수를 그대로 따라간다\"는 통념과 실제 운용 규칙이 다릅니다. 이 글은 그 선행 매매 조항, 소형주를 백분위와 절대금액으로 함께 자르는 구조, 지수 외 투자 10% 한도, 한국 거주자 세금까지 확인 순서대로 정리합니다.SCHC ETF는 어떤 상품인가요?Charles Schwab(Schwab Asset Management)이 운용하는 미국 상장 국제..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-29T00:34:02+09:00\",\"dateModified\":\"2026-10-29T00:35:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "SCHC(Schwab International Small-Cap Equity ETF)는 미국을 제외한 선진국 소형주를 담는 미국 상장 ETF입니다. 이 상품의 투자설명서에는 인덱스 펀드에서 흔히 보기 어려운 조항이 있습니다. 지수에서 빠질 것으로 예상되는 종목을 미리 팔고, 아직 지수에 없지만 편입될 것으로 예상되는 종목을 미리 살 수 있다는 규정입니다. 즉 \"지수를 그대로 따라간다\"는 통념과 실제 운용 규칙이 다릅니다. 이 글은 그 선행 매매 조항, 소형주를 백분위와 절대금액으로 함께 자르는 구조, 지수 외 투자 10% 한도, 한국 거주자 세금까지 확인 순서대로 정리합니다.SCHC ETF는 어떤 상품인가요?Charles Schwab(Schwab Asset Management)이 운용하는 미국 상장 국제..",
+  "og_title": "SCHC ETF란? 지수 변경을 미리 반영하는 국제 소형주 ETF, 확인 기준 정리",
+  "post_id": "742",
+  "published_time": "2026-10-29T00:34:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SCHC ETF란? 지수 변경을 미리 반영하는 국제 소형주 ETF, 확인 기준 정리",
+  "url": "https://mystock-note.tistory.com/742"
+}
