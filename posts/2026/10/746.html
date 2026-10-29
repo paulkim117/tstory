@@ -1,0 +1,293 @@
+<!--
+source: https://mystock-note.tistory.com/746
+backup_date: 2026-10-29
+post_id: 746
+-->
+<p data-ke-size="size16"><b>GOVI(Invesco Equal Weight 0-30 Year Treasury ETF)</b>는 미국 국채 ETF지만 담는 방식이 다른 국채 상품과 근본적으로 다릅니다. 일반적인 국채 지수는 <b>일정 만기 구간의 모든 국채를 발행잔액 비례로</b> 담습니다. 이 상품의 지수는 <b>1년부터 30년까지 30개의 만기 지점을 정하고, 각 지점에 국채를 한 종목씩 세운 뒤 30칸을 똑같이 나눕니다.</b> 게다가 그 한 종목을 고르는 기준이 <b>&quot;2월에 만기가 오는 국채&quot;</b>입니다. 이 글은 그 사다리 구조, 2월 선정 규칙과 대체 규칙, 빈 칸이 생겼을 때의 처리, 한국 거주자 세금까지 확인 순서대로 정리합니다.</p>
+
+<h2 data-ke-size="size26">GOVI ETF는 어떤 상품인가요?</h2>
+<p data-ke-size="size16">Invesco가 운용하는 미국 상장 국채 ETF입니다. 아래 값은 2025-12-19자 요약투자설명서 기재 내용입니다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>항목</th>
+<th>확인값</th>
+<th>구분</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>정식 명칭</td>
+<td>Invesco Equal Weight 0-30 Year Treasury ETF</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>지수 제공사</td>
+<td>ICE Data Indices, LLC</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>지수 구조</td>
+<td>수익률 곡선 전반의 <b>연간 2월 만기 사다리</b>를 나타내는 <b>최대 30개</b> 국채</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>사다리 칸</td>
+<td><b>1년~30년, 30개 만기 지점(rung)</b></td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>가중</td>
+<td>각 칸을 <b>동일가중</b>. 매년 <b>2월 리밸런싱</b> 시 재설정</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>선정 기준</td>
+<td><b>2월 만기</b> 증권 우선. 없으면 목표에서 <b>6개월 이내</b> 최근접 만기</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>편입 요건</td>
+<td>고정금리 · 발행잔액 <b>10억 달러 이상</b> · 발행 시 만기 <b>18개월 이상</b></td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>최소 투자 정책</td>
+<td><b>총자산</b>의 80% 이상</td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td><b>완전복제(full replication)</b></td>
+<td>[사실]</td>
+</tr>
+<tr>
+<td>상장시장</td>
+<td>Nasdaq</td>
+<td>[사실]</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>해석</b>: 상품명에 &quot;Equal Weight&quot;가 있지만, 동일가중되는 대상이 <b>종목이 아니라 만기 칸</b>입니다. 각 칸에 한 종목씩 들어가므로 결과적으로 종목도 동일가중이 되지만, <b>설계의 출발점은 만기 구조</b>입니다.</p>
+
+
+
+<h2 data-ke-size="size26">&quot;사다리&quot;는 무엇을 뜻하나요?</h2>
+<p data-ke-size="size16">투자설명서의 규정입니다.</p>
+<blockquote>
+<p data-ke-size="size16">기초지수는 <b>30개의 서로 다른 연간 만기 지점, 즉 &quot;칸(rungs)&quot;</b>으로 구성되며, 이들은 <b>매년 2월 리밸런싱에서 동일가중</b>된다. (중략) 1년부터 30년까지 각 칸에 선정된 증권은 동일가중된다.</p>
+</blockquote>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>칸</th>
+<th>담기는 것</th>
+<th>비중</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1년 칸</td>
+<td>2월 만기 국채 1종</td>
+<td rowspan="4">각 칸 동일</td>
+</tr>
+<tr>
+<td>2년 칸</td>
+<td>2월 만기 국채 1종</td>
+</tr>
+<tr>
+<td>&hellip;</td>
+<td>&hellip;</td>
+</tr>
+<tr>
+<td>30년 칸</td>
+<td>2월 만기 국채 1종</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>해석</b>: 일반적인 국채 지수와 결과가 크게 갈립니다. 발행잔액 비례로 담으면 <b>발행량이 많은 만기 구간의 비중이 커집니다.</b> 미국 재무부는 만기별로 발행량이 다르므로, 시장가중 지수는 자연히 특정 구간에 쏠립니다.</p>
+<p data-ke-size="size16">이 지수는 그 쏠림을 없앱니다. <b>1년 국채와 30년 국채가 같은 비중</b>입니다. 결과적으로 <b>장기 구간의 비중이 시장가중 대비 크게 올라갑니다.</b> 30칸 중 절반이 15년 이상이기 때문입니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 이 구조는 <b>듀레이션을 시장과 무관하게 결정</b>합니다. &quot;국채에 분산 투자한다&quot;가 아니라 <b>&quot;만기 곡선 전체에 균등하게 걸친다&quot;</b>는 선택입니다. 금리 민감도가 어느 정도인지는 만기 구간을 나눠 담는 개별 상품들과 비교해 봐야 합니다 &mdash; 초단기는 <a href="https://mystock-note.tistory.com/343">미국 단기국채 파킹 구조를 정리한 글</a>, 단기는 <a href="https://mystock-note.tistory.com/421">1-3년 국채 구간의 자리를 정리한 글</a>, 중기는 <a href="https://mystock-note.tistory.com/416">7-10년 국채 구간을 정리한 글</a>, 장기는 <a href="https://mystock-note.tistory.com/332">미국 장기국채 ETF 비교 글</a>에 있습니다.</p>
+
+
+
+<h2 data-ke-size="size26">왜 하필 2월 만기인가요?</h2>
+<p data-ke-size="size16">투자설명서는 <b>이유를 밝히지 않습니다.</b> <b>[정보부족]</b> 규정된 것은 절차뿐입니다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>단계</th>
+<th>규칙</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>1차 선정</b>(Primary Selection)</td>
+<td>각 칸에 대해 <b>2월 만기</b> 증권을 선정</td>
+</tr>
+<tr>
+<td>잔류</td>
+<td>한 번 선정되면 <b>적격 요건을 계속 충족하는 한 지수에 남음</b></td>
+</tr>
+<tr>
+<td><b>2차 선정</b>(Secondary Selection)</td>
+<td>해당 칸에 2월 만기가 없으면, <b>목표 2월 만기로부터 6개월 이내</b>의 최근접 만기 증권 선정</td>
+</tr>
+<tr>
+<td>결원 처리</td>
+<td>증권을 찾지 못한 칸의 비중은 <b>사다리 양쪽 최근접 칸에 균등 재배분</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>해석 [판단]</b>: 만기월을 하나로 고정하면 <b>리밸런싱 시점과 만기 도래 시점이 매년 같은 달에 정렬</b>됩니다. 사다리가 한 칸씩 아래로 내려오는 흐름이 예측 가능해지고, 매매 시점도 일정해집니다. 다만 이는 추정이며 문서에 근거가 없습니다.</p>
+<p data-ke-size="size16"><b>확인해야 할 것</b>은 <b>2차 선정과 결원 처리가 실제로 자주 발동한다</b>는 점입니다. 미국 재무부가 모든 만기 연도에 2월 만기 채권을 발행하는 것은 아니므로, 30칸이 전부 정확한 2월 만기로 채워지지 않을 수 있습니다. 그 경우 지수는 <b>±6개월 범위의 대체 종목</b>을 쓰거나, 아예 칸을 비우고 <b>이웃 칸에 비중을 넘깁니다.</b></p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: &quot;30개 균등&quot;이라는 설명을 <b>&quot;항상 30종목을 정확히 같은 비중으로&quot;로 읽으면 어긋납니다.</b> 결원이 생기면 이웃 칸의 비중이 커지므로, 실제 만기 분포는 시점에 따라 달라집니다.</p>
+
+<h2 data-ke-size="size26">한 번 뽑힌 종목은 언제까지 남나요?</h2>
+<p data-ke-size="size16">투자설명서는 1차 선정된 증권이 <b>적격 요건을 계속 충족하는 한 지수에 잔류한다</b>고 규정합니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 매년 새로 뽑는 방식이 아닙니다. 한 번 사다리에 오른 국채는 시간이 지나면서 <b>스스로 아래 칸으로 내려갑니다.</b> 오늘 10년 칸에 있던 채권은 1년 뒤 9년 칸에 있게 됩니다.</p>
+<p data-ke-size="size16">따라서 이 지수에서 실제로 교체되는 것은 <b>사다리 맨 위 칸(30년)</b>과, 만기가 도래해 사다리에서 내려가는 <b>맨 아래 칸</b>입니다. 중간 칸들은 종목이 그대로 유지되며 위치만 바뀝니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 이 구조는 <b>회전율을 낮게 유지하는 설계</b>입니다. 매년 만기 구간을 재판정해 대량 교체하는 지수와 달리, 사다리는 자연스럽게 흘러내립니다. 실제 회전율은 시점마다 다르므로 발행사 자료에서 확인해야 합니다.</p>
+
+<h2 data-ke-size="size26">어떤 국채가 편입 대상인가요?</h2>
+<p data-ke-size="size16">미국 정부가 미국 국내시장에서 공모 발행한 달러표시 국채 중 세 요건을 충족해야 합니다.</p>
+<ul>
+<li><b>고정금리 쿠폰</b></li>
+<li><b>발행잔액 10억 달러 이상</b>(연방준비제도 보유분 제외)</li>
+<li><b>발행 시점에 최종 만기까지 18개월 이상</b></li>
+</ul>
+<p data-ke-size="size16"><b>해석</b>: 고정금리 요건 때문에 <b>물가연동국채와 변동금리 국채는 빠집니다.</b> 발행 시 18개월 요건은 재무부 단기증권(T-Bill)을 배제합니다. 즉 이 지수는 <b>중기채(Note)와 장기채(Bond)만</b> 담습니다.</p>
+<p data-ke-size="size16">상품명의 <b>&quot;0-30 Year&quot;</b>가 오해를 부를 수 있습니다. 0년에 가까운 초단기 구간은 <b>만기가 임박한 기존 채권</b>이지, 새로 발행된 단기물이 아닙니다.</p>
+
+<h2 data-ke-size="size26">펀드는 지수를 어떻게 따라가나요?</h2>
+<p data-ke-size="size16"><b>완전복제</b>입니다. 투자설명서는 펀드가 기초지수를 구성하는 <b>모든 증권을 지수 내 비중에 비례해</b> 보유한다고 규정합니다.</p>
+<p data-ke-size="size16"><b>해석</b>: 채권 ETF에서 완전복제는 흔하지 않습니다. 대부분은 표본추출을 씁니다. 이 상품이 완전복제를 쓸 수 있는 이유는 <b>구성 종목이 최대 30개로 매우 적기 때문</b>입니다. 종목 수가 적으면 전량 매수가 현실적이고, <b>지수와의 추적 차이가 줄어듭니다.</b></p>
+<p data-ke-size="size16">최소 투자 정책은 <b>총자산의 80% 이상</b>입니다. 집중 정책은 지수 연동형이나, 미국 국채는 산업 분류 대상이 아니므로 실질적 제약이 되지 않습니다.</p>
+
+<h2 data-ke-size="size26">일반 국채 ETF와 무엇이 다른가요?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>비교 항목</th>
+<th>GOVI</th>
+<th>일반 국채 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>담는 범위</td>
+<td><b>1~30년 전 구간</b></td>
+<td>특정 만기 구간(1-3년 · 7-10년 · 20년+ 등)</td>
+</tr>
+<tr>
+<td>종목 수</td>
+<td><b>최대 30종</b></td>
+<td>구간 내 전 종목(수십~수백)</td>
+</tr>
+<tr>
+<td>가중</td>
+<td><b>만기 칸 동일가중</b></td>
+<td>발행잔액 비례</td>
+</tr>
+<tr>
+<td>듀레이션</td>
+<td>사다리 구조가 결정</td>
+<td>구간이 결정</td>
+</tr>
+<tr>
+<td>복제</td>
+<td><b>완전복제</b></td>
+<td>표본추출이 일반적</td>
+</tr>
+<tr>
+<td>선정</td>
+<td><b>2월 만기 우선</b></td>
+<td>만기 구간 충족 시 전량</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 이 상품은 <b>여러 만기 구간 상품을 직접 조합하는 대신 하나로 해결하려는 용도</b>에 가깝습니다. 다만 조합 비율을 직접 정할 수 없다는 점이 차이입니다. 만기별 상품을 따로 담으면 비중을 원하는 대로 조절할 수 있지만, 이 상품은 <b>균등이라는 하나의 답을 미리 정해 둔 것</b>입니다.</p>
+<p data-ke-size="size16">이미 만기 구간별 국채 상품을 보유하고 있다면 <b>같은 채권이 중복</b>될 수 있습니다. 다만 이 지수는 각 칸에 한 종목씩만 담으므로, 구간 전체를 담는 상품과 겹치는 종목 수는 제한적입니다.</p>
+<p data-ke-size="size16">총보수&middot;순자산&middot;회전율&middot;실제 듀레이션&middot;구성종목&middot;수익률은 시점에 따라 변동하므로 이 글에서는 제시하지 않습니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 GOVI 세금은 어떻게 적용되나요?</h2>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>GOVI(미국 상장 직접투자)</th>
+<th>국내 상장 해외 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4%</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>과세 방식</td>
+<td>분리과세</td>
+<td>금융소득종합과세 대상</td>
+</tr>
+<tr>
+<td>손익통산</td>
+<td>해외주식 양도손익 내 통산 가능</td>
+<td>제한적</td>
+</tr>
+<tr>
+<td>신고</td>
+<td>다음 해 5월 확정신고</td>
+<td>원천징수</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국 원천징수 후 배당소득 과세 체계 적용</td>
+<td>배당소득 15.4%</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>(가상 예시)</b> 해당 연도 해외주식 양도차익 합계가 450만 원이라면, 250만 원 공제 후 200만 원에 22%가 적용되어 44만 원이 산출됩니다. 계산 구조를 보이기 위한 예시이며, 실제 세액은 같은 해 다른 해외주식 손익과의 통산 결과에 따라 달라집니다.</p>
+<p data-ke-size="size16"><b>의사결정 기준</b>: 미국 국채 이자는 <b>미국 주(州) 소득세가 면제</b>되지만 이는 미국 거주자에게 적용되는 혜택이며, <b>한국 거주자에게는 이전되지 않습니다.</b> 한국 투자자에게는 통상의 배당소득 과세 체계가 적용됩니다. 환헤지가 없으므로 원/달러 변동이 그대로 반영되며, 장기 구간 비중이 큰 만큼 금리 변동과 환 변동이 겹치면 진폭이 커집니다.</p>
+
+<h2 data-ke-size="size26">연금 계좌에서 살 수 있나요? 국내 대안은 있나요?</h2>
+<p data-ke-size="size16">연금저축계좌&middot;IRP&middot;ISA는 국내 상장 상품만 편입할 수 있으므로 GOVI는 불가합니다. 일반 위탁계좌(해외주식 계좌)로만 접근합니다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>분류</th>
+<th>판정</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>완전 동일 대안</td>
+<td><b>[정보부족]</b></td>
+<td>확인 범위 내에서 동일한 2월 만기 사다리 지수를 추종하는 국내 상장 ETF를 확인하지 못함</td>
+</tr>
+<tr>
+<td>부분 대안</td>
+<td>존재</td>
+<td>국내 상장 미국채 ETF. 다만 대부분 <b>특정 만기 구간</b> 상품이며 사다리 구조가 아님</td>
+</tr>
+<tr>
+<td>혼동 주의</td>
+<td>&mdash;</td>
+<td>국내 <b>만기매칭형</b> 채권 ETF는 <b>존속기한이 정해져 청산되는 구조</b>로, 매년 재구성되는 이 상품과 성격이 다름</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">※ 국내 브랜드명 변경 이력: KBSTAR &rarr; RISE, KINDEX &rarr; ACE, ARIRANG &rarr; PLUS.</p>
+
+<h2 data-ke-size="size26">GOVI를 검토할 때 어떤 순서로 확인해야 하나요?</h2>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0;">
+<p style="margin: 0 0 12px; font-weight: bold;" data-ke-size="size16">확인 우선순위</p>
+<p style="margin: 6px 0 2px;" data-ke-size="size16">1순위 &middot; 동일가중되는 대상이 <b>종목이 아니라 만기 칸</b>임을 인지</p>
+<div style="background: #eee; height: 10px; border-radius: 5px;">
+<div style="background: #333; width: 100%; height: 10px; border-radius: 5px;">&nbsp;

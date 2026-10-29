@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF",
+        "description": "하이일드·무등급 지방채 70%에 투자등급 30%를 고정 배합한 크로스오버 지수를 추종하는 미국 상장 ETF",
+        "name": "HYMB"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF(HYMB)의 구조를 1차 출처로 정리했다. 하이일드·무등급 70%에 BBB 20%·Single-A 10%를 섞은 크로스오버 지수, 무등급 채권 편입 규칙, 잔존 300만·원발행 1,500만 달러의 낮은 문턱, 두 개의 80% 정책, 면세 혜택이 한국 거주자에게 이전되지 않는 점까지 다룬다.",
+      "headline": "HYMB ETF란? 하이일드 지방채인데 30%가 투자등급인 이유, 한국 투자자 확인 기준",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "HYMB, 하이일드 지방채, 뮤니 ETF, 크로스오버, 무등급 채권, 사모활동채권, AMT, 면세채권, 채권 ETF, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

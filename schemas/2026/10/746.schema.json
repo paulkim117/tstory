@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Invesco Equal Weight 0-30 Year Treasury ETF",
+        "description": "1~30년 30개 만기 칸에 미국 국채를 한 종목씩 배치하고 칸끼리 동일가중하는 사다리형 미국 상장 ETF",
+        "name": "GOVI"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "Invesco Equal Weight 0-30 Year Treasury ETF(GOVI)의 구조를 1차 출처로 정리했다. 1~30년 30개 만기 칸에 국채를 한 종목씩 세우고 칸끼리 동일가중하는 사다리 구조, 2월 만기 우선 선정과 ±6개월 대체 규칙, 빈 칸의 이웃 재배분, 완전복제, 한국 투자자 세금까지 확인 순서대로 다룬다.",
+      "headline": "GOVI ETF란? 국채 30개를 만기 사다리에 한 칸씩 세우는 구조, 일반 국채 ETF와 차이",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "GOVI, 미국국채 ETF, 만기 사다리, 동일가중, Invesco, 듀레이션, 완전복제, 채권 ETF, 국채 투자, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

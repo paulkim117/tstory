@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-29",
+  "body_html_length": 9019,
+  "canonical_url": "https://mystock-note.tistory.com/748",
+  "content_hash": "fa0f17730c5fbd10f59c6fd48040a84ed12feb39d05108b04b29f09a6a93b27a",
+  "json_ld_count": 1,
+  "meta_description": "PVI(Invesco Floating Rate Municipal Income ETF)는 미국 지방채 중 변동금리 수요채권(VRDO)만 담는 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 것은 만기입니다. 지수의 편입 요건이 \"최종 만기까지 최소 1일\"입니다. 사실상 만기 조건이 없다는 뜻입니다. 대신 이 채권들에는 금리가 매일·매주·매월 다시 정해지고, 보유자가 되팔 수 있는 권리가 붙어 있습니다. 이 글은 만기 대신 되팔 권리가 작동하는 구조, 그 권리를 뒷받침하는 재판매 대리인, AMT 배제 규칙, 그리고 면세 혜택이 한국 거주자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.PVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 변동금리 지방채 ETF입니다. 아래 값은 202..",
+  "modified_time": "2026-10-30T03:00:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/748\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/748\",\"headline\":\"PVI ETF란? 만기 대신 되팔 권리로 움직이는 지방채 ETF, 확인 기준 정리\",\"description\":\"PVI(Invesco Floating Rate Municipal Income ETF)는 미국 지방채 중 변동금리 수요채권(VRDO)만 담는 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 것은 만기입니다. 지수의 편입 요건이 \"최종 만기까지 최소 1일\"입니다. 사실상 만기 조건이 없다는 뜻입니다. 대신 이 채권들에는 금리가 매일·매주·매월 다시 정해지고, 보유자가 되팔 수 있는 권리가 붙어 있습니다. 이 글은 만기 대신 되팔 권리가 작동하는 구조, 그 권리를 뒷받침하는 재판매 대리인, AMT 배제 규칙, 그리고 면세 혜택이 한국 거주자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.PVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 변동금리 지방채 ETF입니다. 아래 값은 202..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-30T02:59:33+09:00\",\"dateModified\":\"2026-10-30T03:00:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "PVI(Invesco Floating Rate Municipal Income ETF)는 미국 지방채 중 변동금리 수요채권(VRDO)만 담는 ETF입니다. 이 상품에서 가장 먼저 확인해야 할 것은 만기입니다. 지수의 편입 요건이 \"최종 만기까지 최소 1일\"입니다. 사실상 만기 조건이 없다는 뜻입니다. 대신 이 채권들에는 금리가 매일·매주·매월 다시 정해지고, 보유자가 되팔 수 있는 권리가 붙어 있습니다. 이 글은 만기 대신 되팔 권리가 작동하는 구조, 그 권리를 뒷받침하는 재판매 대리인, AMT 배제 규칙, 그리고 면세 혜택이 한국 거주자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.PVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 변동금리 지방채 ETF입니다. 아래 값은 202..",
+  "og_title": "PVI ETF란? 만기 대신 되팔 권리로 움직이는 지방채 ETF, 확인 기준 정리",
+  "post_id": "748",
+  "published_time": "2026-10-30T02:59:33+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PVI ETF란? 만기 대신 되팔 권리로 움직이는 지방채 ETF, 확인 기준 정리",
+  "url": "https://mystock-note.tistory.com/748"
+}

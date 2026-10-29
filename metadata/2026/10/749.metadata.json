@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-29",
+  "body_html_length": 9415,
+  "canonical_url": "https://mystock-note.tistory.com/749",
+  "content_hash": "2ce20fec3aacbedb43c7c030cd15e6481e6e2ea35901a1d97c3951a00979d71a",
+  "json_ld_count": 2,
+  "meta_description": "FMNY(First Trust New York Municipal High Income ETF)는 이름 그대로 뉴욕주 지방채에 투자하는 ETF입니다. 그런데 투자설명서를 보면 편입 대상에 푸에르토리코·미국령 버진아일랜드·괌이 함께 들어 있습니다. 뉴욕 전용 펀드가 카리브해 채권을 담는 이유가 있습니다. 미국령이 발행한 채권은 어느 주에 살든 그 주의 소득세가 면제되기 때문입니다. 이 글은 그 구조, 연방·주·시 삼중 면세, 대체최저세를 100%까지 허용하는 조항, 부도 상태 채권 10% 허용, 그리고 이 모든 세제 설계가 한국 거주자에게는 작동하지 않는다는 점까지 확인 순서대로 정리합니다.FMNY ETF는 어떤 상품인가요?First Trust가 운용하는 미국 상장 단일 주 지방채 ETF입니다. 아래 값은 ..",
+  "modified_time": "2026-10-30T04:00:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FMNY(First Trust New York Municipal High Income ETF)는 이름 그대로 뉴욕주 지방채에 투자하는 ETF입니다. 그런데 투자설명서를 보면 편입 대상에 푸에르토리코·미국령 버진아일랜드·괌이 함께 들어 있습니다. 뉴욕 전용 펀드가 카리브해 채권을 담는 이유가 있습니다. 미국령이 발행한 채권은 어느 주에 살든 그 주의 소득세가 면제되기 때문입니다. 이 글은 그 구조, 연방·주·시 삼중 면세, 대체최저세를 100%까지 허용하는 조항, 부도 상태 채권 10% 허용, 그리고 이 모든 세제 설계가 한국 거주자에게는 작동하지 않는다는 점까지 확인 순서대로 정리합니다.FMNY ETF는 어떤 상품인가요?First Trust가 운용하는 미국 상장 단일 주 지방채 ETF입니다. 아래 값은 ..",
+  "og_title": "FMNY ETF란? 뉴욕 펀드가 푸에르토리코 채권을 담는 이유, 삼중 면세 구조 확인 기준",
+  "post_id": "749",
+  "published_time": "2026-10-30T03:59:54+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FMNY ETF란? 뉴욕 펀드가 푸에르토리코 채권을 담는 이유, 삼중 면세 구조 확인 기준",
+  "url": "https://mystock-note.tistory.com/749"
+}

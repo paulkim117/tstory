@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-29",
+  "body_html_length": 9816,
+  "canonical_url": "https://mystock-note.tistory.com/747",
+  "content_hash": "58c84cf74894461b2e7e392faca5232ee44705a116146b66d7b3385057defe83",
+  "json_ld_count": 1,
+  "meta_description": "HYMB(State Street SPDR Nuveen ICE High Yield Municipal Bond ETF)는 미국 하이일드 지방채에 투자하는 ETF입니다. 그런데 상품명과 실제 구성이 어긋납니다. 이 상품이 추종하는 지수는 하이일드·무등급 지방채 70%에 투자등급 지방채 30%를 섞어 만든 혼합 지수입니다. 지수 이름의 \"Crossover\"가 그 구조를 가리킵니다. 이 글은 그 70:20:10 배합, 등급이 아예 없는 채권을 담는 규칙, 두 개의 80% 정책, 그리고 면세 혜택이 한국 투자자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.HYMB ETF는 어떤 상품인가요?State Street(SPDR)가 운용하고 Nuveen Asset Management가 부운용을 맡는 미국 상장 하이..",
+  "modified_time": "2026-10-30T02:00:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/747\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/747\",\"headline\":\"HYMB ETF란? 하이일드 지방채인데 30%가 투자등급인 이유, 한국 투자자 확인 기준\",\"description\":\"HYMB(State Street SPDR Nuveen ICE High Yield Municipal Bond ETF)는 미국 하이일드 지방채에 투자하는 ETF입니다. 그런데 상품명과 실제 구성이 어긋납니다. 이 상품이 추종하는 지수는 하이일드·무등급 지방채 70%에 투자등급 지방채 30%를 섞어 만든 혼합 지수입니다. 지수 이름의 \"Crossover\"가 그 구조를 가리킵니다. 이 글은 그 70:20:10 배합, 등급이 아예 없는 채권을 담는 규칙, 두 개의 80% 정책, 그리고 면세 혜택이 한국 투자자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.HYMB ETF는 어떤 상품인가요?State Street(SPDR)가 운용하고 Nuveen Asset Management가 부운용을 맡는 미국 상장 하이..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-30T01:59:12+09:00\",\"dateModified\":\"2026-10-30T02:00:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "HYMB(State Street SPDR Nuveen ICE High Yield Municipal Bond ETF)는 미국 하이일드 지방채에 투자하는 ETF입니다. 그런데 상품명과 실제 구성이 어긋납니다. 이 상품이 추종하는 지수는 하이일드·무등급 지방채 70%에 투자등급 지방채 30%를 섞어 만든 혼합 지수입니다. 지수 이름의 \"Crossover\"가 그 구조를 가리킵니다. 이 글은 그 70:20:10 배합, 등급이 아예 없는 채권을 담는 규칙, 두 개의 80% 정책, 그리고 면세 혜택이 한국 투자자에게 이전되지 않는다는 점까지 확인 순서대로 정리합니다.HYMB ETF는 어떤 상품인가요?State Street(SPDR)가 운용하고 Nuveen Asset Management가 부운용을 맡는 미국 상장 하이..",
+  "og_title": "HYMB ETF란? 하이일드 지방채인데 30%가 투자등급인 이유, 한국 투자자 확인 기준",
+  "post_id": "747",
+  "published_time": "2026-10-30T01:59:12+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HYMB ETF란? 하이일드 지방채인데 30%가 투자등급인 이유, 한국 투자자 확인 기준",
+  "url": "https://mystock-note.tistory.com/747"
+}

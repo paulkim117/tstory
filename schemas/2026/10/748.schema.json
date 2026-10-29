@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Invesco Floating Rate Municipal Income ETF",
+        "description": "금리가 주기적으로 재설정되고 보유자가 되팔 수 있는 면세 변동금리 수요채권만 담는 미국 상장 ETF",
+        "name": "PVI"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "Invesco Floating Rate Municipal Income ETF(PVI)의 구조를 1차 출처로 정리했다. 편입 요건의 만기가 1일뿐인 이유, 금리가 일·주·월 단위로 재설정되고 보유자가 되팔 수 있는 변동금리 수요채권 구조, 재판매 대리인에 걸린 유동성, AMT 배제, 면세 혜택이 한국 거주자에게 이전되지 않는 점까지 다룬다.",
+      "headline": "PVI ETF란? 만기 대신 되팔 권리로 움직이는 지방채 ETF, 확인 기준 정리",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "PVI, 변동금리 지방채, VRDO, 수요채권, 면세채권, AMT, Invesco, 단기 자금 운용, 채권 ETF, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

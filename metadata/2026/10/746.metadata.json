@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-29",
+  "body_html_length": 9289,
+  "canonical_url": "https://mystock-note.tistory.com/746",
+  "content_hash": "97f46edb576211fef0ffcfadf76077fca4dd245c4ff73083251e94f6b2c31d77",
+  "json_ld_count": 1,
+  "meta_description": "GOVI(Invesco Equal Weight 0-30 Year Treasury ETF)는 미국 국채 ETF지만 담는 방식이 다른 국채 상품과 근본적으로 다릅니다. 일반적인 국채 지수는 일정 만기 구간의 모든 국채를 발행잔액 비례로 담습니다. 이 상품의 지수는 1년부터 30년까지 30개의 만기 지점을 정하고, 각 지점에 국채를 한 종목씩 세운 뒤 30칸을 똑같이 나눕니다. 게다가 그 한 종목을 고르는 기준이 \"2월에 만기가 오는 국채\"입니다. 이 글은 그 사다리 구조, 2월 선정 규칙과 대체 규칙, 빈 칸이 생겼을 때의 처리, 한국 거주자 세금까지 확인 순서대로 정리합니다.GOVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 국채 ETF입니다. 아래 값은 2025-12-19자 요약투자설명..",
+  "modified_time": "2026-10-30T00:59:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/746\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/746\",\"headline\":\"GOVI ETF란? 국채 30개를 만기 사다리에 한 칸씩 세우는 구조, 일반 국채 ETF와 차이\",\"description\":\"GOVI(Invesco Equal Weight 0-30 Year Treasury ETF)는 미국 국채 ETF지만 담는 방식이 다른 국채 상품과 근본적으로 다릅니다. 일반적인 국채 지수는 일정 만기 구간의 모든 국채를 발행잔액 비례로 담습니다. 이 상품의 지수는 1년부터 30년까지 30개의 만기 지점을 정하고, 각 지점에 국채를 한 종목씩 세운 뒤 30칸을 똑같이 나눕니다. 게다가 그 한 종목을 고르는 기준이 \"2월에 만기가 오는 국채\"입니다. 이 글은 그 사다리 구조, 2월 선정 규칙과 대체 규칙, 빈 칸이 생겼을 때의 처리, 한국 거주자 세금까지 확인 순서대로 정리합니다.GOVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 국채 ETF입니다. 아래 값은 2025-12-19자 요약투자설명..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-30T00:58:37+09:00\",\"dateModified\":\"2026-10-30T00:59:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "GOVI(Invesco Equal Weight 0-30 Year Treasury ETF)는 미국 국채 ETF지만 담는 방식이 다른 국채 상품과 근본적으로 다릅니다. 일반적인 국채 지수는 일정 만기 구간의 모든 국채를 발행잔액 비례로 담습니다. 이 상품의 지수는 1년부터 30년까지 30개의 만기 지점을 정하고, 각 지점에 국채를 한 종목씩 세운 뒤 30칸을 똑같이 나눕니다. 게다가 그 한 종목을 고르는 기준이 \"2월에 만기가 오는 국채\"입니다. 이 글은 그 사다리 구조, 2월 선정 규칙과 대체 규칙, 빈 칸이 생겼을 때의 처리, 한국 거주자 세금까지 확인 순서대로 정리합니다.GOVI ETF는 어떤 상품인가요?Invesco가 운용하는 미국 상장 국채 ETF입니다. 아래 값은 2025-12-19자 요약투자설명..",
+  "og_title": "GOVI ETF란? 국채 30개를 만기 사다리에 한 칸씩 세우는 구조, 일반 국채 ETF와 차이",
+  "post_id": "746",
+  "published_time": "2026-10-30T00:58:37+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "GOVI ETF란? 국채 30개를 만기 사다리에 한 칸씩 세우는 구조, 일반 국채 ETF와 차이",
+  "url": "https://mystock-note.tistory.com/746"
+}
