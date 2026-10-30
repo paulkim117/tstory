@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "VanEck Preferred Securities ex Financials ETF",
+        "description": "비금융 발행자의 고정·조정금리 우선증권을 담는 미국 상장 ETF",
+        "name": "PFXF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "미국 우선주 ETF는 금융을 빼는 지수와 금융만 담는 지수로 갈린다. PFXF·PGF·SPFF의 편입 규칙을 1차 출처로 대조하고, 두 지수를 합쳐도 빠지는 영역과 확인 순서를 정리했다.",
+      "headline": "미국 우선주 ETF 비교: PFXF·PGF·SPFF, 금융 제외와 금융 전용 중 무엇을 담을까",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "PFXF, PGF, SPFF, FPFD, JPRF, 미국 우선주 ETF, 우선증권, 금융 제외, 금융 전용, 적격배당소득, QDI, 영구채, 고정변동 전환, 액티브 ETF, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Invesco Financial Preferred ETF",
+          "name": "PGF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Global X SuperIncome Preferred ETF",
+          "name": "SPFF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Preferred Securities & Income ETF",
+          "name": "FPFD"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "JPMorgan Preferred and Income Securities ETF",
+          "name": "JPRF"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

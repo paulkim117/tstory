@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "iShares Russell 3000 ETF",
+        "description": "FTSE Russell의 러셀 3000 지수를 대표 표본추출로 추종하는 미국 광의시장 ETF",
+        "name": "IWV"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "IWV는 러셀 3000을 추종하는 미국 전체시장 ETF다. 같은 지수를 담는 VTHR과 운용사 서술이 다르고, CRSP 계열 VTI와는 지수 체계가 갈린다. 1차 출처로 정리했다.",
+      "headline": "IWV ETF란? VTI·VTHR과 차이, 러셀 3000이 3,000종이 아닌 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "IWV, 러셀 3000, Russell 3000, FTSE Russell, 미국 전체시장 ETF, VTHR, VONE, VTWG, VTWV, 대표 표본추출, 완전복제, CRSP, S&P 1500, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard Russell 3000 ETF",
+          "name": "VTHR"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard Russell 1000 ETF",
+          "name": "VONE"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard Russell 2000 Growth ETF",
+          "name": "VTWG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Vanguard Russell 2000 Value ETF",
+          "name": "VTWV"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

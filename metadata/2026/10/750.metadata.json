@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-30",
+  "body_html_length": 14271,
+  "canonical_url": "https://mystock-note.tistory.com/750",
+  "content_hash": "b720a57a182bd29b96df5cdec48d9920549fca46770d7dacf78636a538904715",
+  "json_ld_count": 1,
+  "meta_description": "미국 우선주(preferred securities) ETF는 상품마다 담는 대상이 크게 다르다. 가장 큰 갈림은 \"금융을 빼는가, 금융만 담는가\"다. PFXF는 비금융 발행자만, PGF는 금융 발행자만 담는다. 그런데 이 둘은 서로의 여집합이 아니다. PFXF는 고정금리와 조정금리를 모두 담지만 PGF는 고정금리만 담는다. 즉 두 상품을 합쳐도 우선주 시장 전체가 되지 않는다. 여기에 수익률 상위만 고르는 SPFF, 지수를 쓰지 않는 액티브형 FPFD·JPRF가 다른 축으로 겹친다. 이 글은 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조하고, 확인 순서를 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)우선..",
+  "modified_time": "2026-10-31T00:01:32+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/750\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/750\",\"headline\":\"미국 우선주 ETF 비교: PFXF·PGF·SPFF, 금융 제외와 금융 전용 중 무엇을 담을까\",\"description\":\"미국 우선주(preferred securities) ETF는 상품마다 담는 대상이 크게 다르다. 가장 큰 갈림은 \"금융을 빼는가, 금융만 담는가\"다. PFXF는 비금융 발행자만, PGF는 금융 발행자만 담는다. 그런데 이 둘은 서로의 여집합이 아니다. PFXF는 고정금리와 조정금리를 모두 담지만 PGF는 고정금리만 담는다. 즉 두 상품을 합쳐도 우선주 시장 전체가 되지 않는다. 여기에 수익률 상위만 고르는 SPFF, 지수를 쓰지 않는 액티브형 FPFD·JPRF가 다른 축으로 겹친다. 이 글은 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조하고, 확인 순서를 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)우선..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-31T00:00:40+09:00\",\"dateModified\":\"2026-10-31T00:01:32+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 우선주(preferred securities) ETF는 상품마다 담는 대상이 크게 다르다. 가장 큰 갈림은 \"금융을 빼는가, 금융만 담는가\"다. PFXF는 비금융 발행자만, PGF는 금융 발행자만 담는다. 그런데 이 둘은 서로의 여집합이 아니다. PFXF는 고정금리와 조정금리를 모두 담지만 PGF는 고정금리만 담는다. 즉 두 상품을 합쳐도 우선주 시장 전체가 되지 않는다. 여기에 수익률 상위만 고르는 SPFF, 지수를 쓰지 않는 액티브형 FPFD·JPRF가 다른 축으로 겹친다. 이 글은 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조하고, 확인 순서를 정리한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)우선..",
+  "og_title": "미국 우선주 ETF 비교: PFXF·PGF·SPFF, 금융 제외와 금융 전용 중 무엇을 담을까",
+  "post_id": "750",
+  "published_time": "2026-10-31T00:00:40+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 우선주 ETF 비교: PFXF·PGF·SPFF, 금융 제외와 금융 전용 중 무엇을 담을까",
+  "url": "https://mystock-note.tistory.com/750"
+}

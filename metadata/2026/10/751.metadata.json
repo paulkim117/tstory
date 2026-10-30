@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-30",
+  "body_html_length": 13208,
+  "canonical_url": "https://mystock-note.tistory.com/751",
+  "content_hash": "68a4a1a610e5e1d325760e74aeb07dbab4fe47bb65788d5a49286cd8dadbbd64",
+  "json_ld_count": 1,
+  "meta_description": "POWR(iShares U.S. Power Infrastructure ETF)는 미국 전력 인프라에 관여하는 기업을 담는 ETF다. 핵심은 \"전력\"을 어떻게 정의하는가에 있다. 이 지수는 GICS 같은 표준 산업분류로 섹터를 잘라내지 않고, 기업의 매출이 어디서 나오는지를 기준으로 대상을 고른다. 그리고 대상을 발전·송배전·전기화용 에너지 공급 세 갈래로 나눈 뒤, 각 갈래에 상한을 걸어 한쪽으로 쏠리지 않게 만든다. 여기에 하나 더 있다. 이 펀드는 2025년 10월에 추종 지수가 통째로 바뀌었고, 새 지수는 옛 지수가 담던 대상 상당수를 배제한다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)를 기준으로 지수 구성 규칙과 전환 이력, 유틸리티·인프라 ETF와의 차이를 ..",
+  "modified_time": "2026-10-31T01:19:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/751\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/751\",\"headline\":\"POWR ETF란? XLU·PAVE와 차이, 매출로 나눈 전력 인프라 3분할 구조\",\"description\":\"POWR(iShares U.S. Power Infrastructure ETF)는 미국 전력 인프라에 관여하는 기업을 담는 ETF다. 핵심은 \"전력\"을 어떻게 정의하는가에 있다. 이 지수는 GICS 같은 표준 산업분류로 섹터를 잘라내지 않고, 기업의 매출이 어디서 나오는지를 기준으로 대상을 고른다. 그리고 대상을 발전·송배전·전기화용 에너지 공급 세 갈래로 나눈 뒤, 각 갈래에 상한을 걸어 한쪽으로 쏠리지 않게 만든다. 여기에 하나 더 있다. 이 펀드는 2025년 10월에 추종 지수가 통째로 바뀌었고, 새 지수는 옛 지수가 담던 대상 상당수를 배제한다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)를 기준으로 지수 구성 규칙과 전환 이력, 유틸리티·인프라 ETF와의 차이를 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-10-31T01:18:56+09:00\",\"dateModified\":\"2026-10-31T01:19:01+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "POWR(iShares U.S. Power Infrastructure ETF)는 미국 전력 인프라에 관여하는 기업을 담는 ETF다. 핵심은 \"전력\"을 어떻게 정의하는가에 있다. 이 지수는 GICS 같은 표준 산업분류로 섹터를 잘라내지 않고, 기업의 매출이 어디서 나오는지를 기준으로 대상을 고른다. 그리고 대상을 발전·송배전·전기화용 에너지 공급 세 갈래로 나눈 뒤, 각 갈래에 상한을 걸어 한쪽으로 쏠리지 않게 만든다. 여기에 하나 더 있다. 이 펀드는 2025년 10월에 추종 지수가 통째로 바뀌었고, 새 지수는 옛 지수가 담던 대상 상당수를 배제한다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)를 기준으로 지수 구성 규칙과 전환 이력, 유틸리티·인프라 ETF와의 차이를 ..",
+  "og_title": "POWR ETF란? XLU·PAVE와 차이, 매출로 나눈 전력 인프라 3분할 구조",
+  "post_id": "751",
+  "published_time": "2026-10-31T01:18:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "POWR ETF란? XLU·PAVE와 차이, 매출로 나눈 전력 인프라 3분할 구조",
+  "url": "https://mystock-note.tistory.com/751"
+}

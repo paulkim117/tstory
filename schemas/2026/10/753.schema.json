@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Schwab Core Bond ETF",
+        "description": "지수를 복제하지 않고 매수 시점 기준 투자등급 요건으로 운용하는 액티브 미국 채권 ETF",
+        "name": "SCCR"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "SCCR는 지수를 복제하지 않는 액티브 코어채권 ETF다. 편입 등급이 매수 시점 기준이라 강등 후에도 보유할 수 있고, 만기·듀레이션 제한이 없다. AGG 등 지수형과의 차이를 1차 출처로 정리했다.",
+      "headline": "SCCR ETF란? AGG와 차이, 강등돼도 팔지 않는 액티브 코어채권 구조",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "SCCR, Schwab Core Bond ETF, 액티브 채권 ETF, 매수 시점 등급, 강등, 만기 무제한, 듀레이션, 과세 지방채, AGG, ANGL, 미국 채권 ETF, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Core U.S. Aggregate Bond ETF",
+          "name": "AGG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "VanEck Fallen Angel High Yield Bond ETF",
+          "name": "ANGL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab Short-Term U.S. Treasury ETF",
+          "name": "SCHO"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab Intermediate-Term U.S. Treasury ETF",
+          "name": "SCHR"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab Long-Term U.S. Treasury ETF",
+          "name": "SCHQ"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab 5-10 Year Corporate Bond ETF",
+          "name": "SCHI"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab 1-5 Year Corporate Bond ETF",
+          "name": "SCHJ"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab Municipal Bond ETF",
+          "name": "SCMB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Schwab High Yield Bond ETF",
+          "name": "SCYB"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

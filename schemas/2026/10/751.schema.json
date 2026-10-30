@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "iShares U.S. Power Infrastructure ETF",
+        "description": "매출 기반 사업분류로 미국 전력 인프라 기업을 선별하고 하위 테마별 상한을 적용하는 미국 상장 ETF",
+        "name": "POWR"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "POWR는 미국 전력 인프라 ETF다. GICS 섹터가 아닌 매출 기반 분류로 대상을 정하고 하위 테마별 상한을 둔다. 2025년 10월 지수 교체와 XLU·PAVE와의 차이를 1차 출처로 정리했다.",
+      "headline": "POWR ETF란? XLU·PAVE와 차이, 매출로 나눈 전력 인프라 3분할 구조",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "POWR, 미국 전력 인프라 ETF, S&P U.S. Power Infrastructure Select Index, FactSet RBICS, 매출 기반 분류, 하위 테마 상한, S&P 1500, 지수 교체, 접합 성과, XLU, PAVE, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Utilities Select Sector SPDR Fund",
+          "name": "XLU"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Global X U.S. Infrastructure Development ETF",
+          "name": "PAVE"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Energy Select Sector SPDR Fund",
+          "name": "XLE"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}
