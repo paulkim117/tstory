@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "지수별 배제 규칙에 따라 편입 범위와 종목 수가 달라지는 미국 상장 부동산투자신탁 상장지수펀드",
+        "name": "미국 리츠 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "미국 리츠 ETF는 지수마다 배제 규칙이 다르다. 타워·목재·모기지 리츠를 빼는 곳과 남기는 곳이 갈리고, 그 결과 종목 수가 30~132종으로 벌어진다. 5개 상품을 1차 출처로 대조했다.",
+      "headline": "미국 리츠 ETF 비교: USRT·RWR·ICF·BBRE, 지수마다 빼는 리츠가 다른 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "미국 리츠 ETF, USRT, RWR, ICF, FRI, BBRE, 타워 리츠, 목재 리츠, 모기지 리츠, FTSE Nareit, Dow Jones Select REIT, Cohen & Steers Realty Majors, MSCI US REIT, 분산형 분류, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Select U.S. REIT ETF",
+          "name": "ICF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Core U.S. REIT ETF",
+          "name": "USRT"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "SPDR Dow Jones REIT ETF",
+          "name": "RWR"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "First Trust S&P REIT Index Fund",
+          "name": "FRI"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "JPMorgan BetaBuilders MSCI U.S. REIT ETF",
+          "name": "BBRE"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

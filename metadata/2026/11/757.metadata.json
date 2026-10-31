@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-31",
+  "body_html_length": 10854,
+  "canonical_url": "https://mystock-note.tistory.com/757",
+  "content_hash": "830b5799ae3bd4360b437c3c959674c74b0e72d1ac876b237e3df03287911ffc",
+  "json_ld_count": 2,
+  "meta_description": "PDP(Invesco Dorsey Wright Momentum ETF)는 최근 잘 오른 종목을 담는 모멘텀 ETF다. 여기까지는 다른 모멘텀 상품과 같다. 결정적으로 다른 것은 비중을 정하는 방식이다. 대표적인 미국 모멘텀 ETF인 MTUM은 모멘텀 점수에 시가총액을 곱해 비중을 정하고 한 종목에 5% 상한을 둔다. 반면 PDP는 모멘텀 점수만으로 비중을 정한다. 시가총액이 계산에 아예 들어가지 않는다. 그 결과 점수가 높으면 회사가 작아도 비중이 커지고, 회사가 아무리 커도 점수가 낮으면 비중이 작다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-08-28)를 기준으로 PDP의 선정·가중 규칙을 정리하고 다른 모멘텀 상품과 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 ..",
+  "modified_time": "2026-11-01T03:31:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "PDP(Invesco Dorsey Wright Momentum ETF)는 최근 잘 오른 종목을 담는 모멘텀 ETF다. 여기까지는 다른 모멘텀 상품과 같다. 결정적으로 다른 것은 비중을 정하는 방식이다. 대표적인 미국 모멘텀 ETF인 MTUM은 모멘텀 점수에 시가총액을 곱해 비중을 정하고 한 종목에 5% 상한을 둔다. 반면 PDP는 모멘텀 점수만으로 비중을 정한다. 시가총액이 계산에 아예 들어가지 않는다. 그 결과 점수가 높으면 회사가 작아도 비중이 커지고, 회사가 아무리 커도 점수가 낮으면 비중이 작다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-08-28)를 기준으로 PDP의 선정·가중 규칙을 정리하고 다른 모멘텀 상품과 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 ..",
+  "og_title": "PDP ETF란? MTUM과 차이, 시가총액이 비중에 개입하지 않는 모멘텀 ETF",
+  "post_id": "757",
+  "published_time": "2026-11-01T03:30:08+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PDP ETF란? MTUM과 차이, 시가총액이 비중에 개입하지 않는 모멘텀 ETF",
+  "url": "https://mystock-note.tistory.com/757"
+}

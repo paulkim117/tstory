@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-31",
+  "body_html_length": 15714,
+  "canonical_url": "https://mystock-note.tistory.com/754",
+  "content_hash": "17ff6d17aa95ed1426533e7242d5190740e8e427e80afcbbe508d15abc048925",
+  "json_ld_count": 1,
+  "meta_description": "인프라 ETF를 고를 때 가장 먼저 부딪히는 문제는 \"인프라가 무엇인가\"에 합의된 답이 없다는 것이다. 어떤 상품은 GICS 세부 업종 29개를 목록으로 적어 그 안에 있으면 인프라로 본다. 어떤 상품은 매출이 어디서 나오는지로 판정한다. 어떤 상품은 녹색 매출 비율을 문턱으로 쓴다. 심지어 정의를 외부 지수에 맡기거나, 다른 ETF를 통째로 참조하는 상품도 있다. 담기는 종목이 다를 수밖에 없다. 이 글은 미국 상장 인프라 ETF GII·EMIF·RBLD·IDGT·EFRA·IPAV·BILT·MLPD 여덟 종의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)인프라 ETF는 왜 ..",
+  "modified_time": "2026-11-01T00:20:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/754\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/754\",\"headline\":\"인프라 ETF 비교: GII·RBLD·IPAV·IDGT, 상품마다 담는 게 다른 이유\",\"description\":\"인프라 ETF를 고를 때 가장 먼저 부딪히는 문제는 \"인프라가 무엇인가\"에 합의된 답이 없다는 것이다. 어떤 상품은 GICS 세부 업종 29개를 목록으로 적어 그 안에 있으면 인프라로 본다. 어떤 상품은 매출이 어디서 나오는지로 판정한다. 어떤 상품은 녹색 매출 비율을 문턱으로 쓴다. 심지어 정의를 외부 지수에 맡기거나, 다른 ETF를 통째로 참조하는 상품도 있다. 담기는 종목이 다를 수밖에 없다. 이 글은 미국 상장 인프라 ETF GII·EMIF·RBLD·IDGT·EFRA·IPAV·BILT·MLPD 여덟 종의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)인프라 ETF는 왜 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-01T00:19:59+09:00\",\"dateModified\":\"2026-11-01T00:20:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "인프라 ETF를 고를 때 가장 먼저 부딪히는 문제는 \"인프라가 무엇인가\"에 합의된 답이 없다는 것이다. 어떤 상품은 GICS 세부 업종 29개를 목록으로 적어 그 안에 있으면 인프라로 본다. 어떤 상품은 매출이 어디서 나오는지로 판정한다. 어떤 상품은 녹색 매출 비율을 문턱으로 쓴다. 심지어 정의를 외부 지수에 맡기거나, 다른 ETF를 통째로 참조하는 상품도 있다. 담기는 종목이 다를 수밖에 없다. 이 글은 미국 상장 인프라 ETF GII·EMIF·RBLD·IDGT·EFRA·IPAV·BILT·MLPD 여덟 종의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)인프라 ETF는 왜 ..",
+  "og_title": "인프라 ETF 비교: GII·RBLD·IPAV·IDGT, 상품마다 담는 게 다른 이유",
+  "post_id": "754",
+  "published_time": "2026-11-01T00:19:59+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "인프라 ETF 비교: GII·RBLD·IPAV·IDGT, 상품마다 담는 게 다른 이유",
+  "url": "https://mystock-note.tistory.com/754"
+}

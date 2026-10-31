@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-10-31",
+  "body_html_length": 13944,
+  "canonical_url": "https://mystock-note.tistory.com/755",
+  "content_hash": "5b8a9571b7a5a7853dc5198ef302bdb491c2a646274cb4c7fa174a91da1ebcb6",
+  "json_ld_count": 2,
+  "meta_description": "First Trust의 AlphaDEX 국가 ETF는 이름만 보면 지역별 시장 상품처럼 보인다. FDT(선진국 미국 제외), FEP(유럽), FJP(일본), FGM(독일), FCA(중국), FEM(신흥국)… 그런데 이 상품들은 해당 지역 시장을 담는 상품이 아니다. 아홉 종 모두 같은 선별 규칙(AlphaDEX)을 쓰고, 지역만 바꿔 복제한 구조다. 더 눈여겨볼 것은 시가총액 컷 기준까지 공통이라는 점이다. 독일에도, 중국에도, 일본에도 같은 44.5억 달러 분기점이 적용된다. 그 결과 국가별로 남는 종목 수가 독일 40종에서 선진국 소형 397종까지 벌어진다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-05-01)를 기준으로 아홉 상품의 편입 규칙과 시장 대표 지수와의 차이를 정..",
+  "modified_time": "2026-11-01T01:21:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "First Trust의 AlphaDEX 국가 ETF는 이름만 보면 지역별 시장 상품처럼 보인다. FDT(선진국 미국 제외), FEP(유럽), FJP(일본), FGM(독일), FCA(중국), FEM(신흥국)… 그런데 이 상품들은 해당 지역 시장을 담는 상품이 아니다. 아홉 종 모두 같은 선별 규칙(AlphaDEX)을 쓰고, 지역만 바꿔 복제한 구조다. 더 눈여겨볼 것은 시가총액 컷 기준까지 공통이라는 점이다. 독일에도, 중국에도, 일본에도 같은 44.5억 달러 분기점이 적용된다. 그 결과 국가별로 남는 종목 수가 독일 40종에서 선진국 소형 397종까지 벌어진다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-05-01)를 기준으로 아홉 상품의 편입 규칙과 시장 대표 지수와의 차이를 정..",
+  "og_title": "AlphaDEX 국가 ETF 비교: FDT·FEM·FEP·FJP, 같은 규칙인데 종목 수가 40~397종인 이유",
+  "post_id": "755",
+  "published_time": "2026-11-01T01:20:18+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AlphaDEX 국가 ETF 비교: FDT·FEM·FEP·FJP, 같은 규칙인데 종목 수가 40~397종인 이유",
+  "url": "https://mystock-note.tistory.com/755"
+}

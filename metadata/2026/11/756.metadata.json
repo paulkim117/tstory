@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-10-31",
+  "body_html_length": 13130,
+  "canonical_url": "https://mystock-note.tistory.com/756",
+  "content_hash": "17d9bf71cb5f3652fefb2240d8c6f90a47cd81534b61002853b844f028e01e19",
+  "json_ld_count": 1,
+  "meta_description": "미국 리츠 ETF를 고르다 보면 이상한 일이 생긴다. 모두 \"미국 리츠\"를 담는다는데 담기는 종목 수가 30종에서 132종까지 벌어진다. 이유는 담는 기준이 아니라 빼는 기준에 있다. 어떤 지수는 통신 타워 리츠를 뺀다. 어떤 지수는 목재 리츠를 뺀다. 어떤 지수는 주택건설업체와 부동산 중개업까지 목록으로 적어 제외한다. 반대로 배제 목록 자체를 두지 않는 지수도 있다. 그래서 같은 이름을 달고도 서로 다른 부동산을 담게 된다. 이 글은 ICF·USRT·RWR·FRI·BBRE 다섯 상품의 편입·배제 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)다섯 상품은 각각 무엇을 담나요?지수 ..",
+  "modified_time": "2026-11-01T02:30:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/756\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/756\",\"headline\":\"미국 리츠 ETF 비교: USRT·RWR·ICF·BBRE, 지수마다 빼는 리츠가 다른 이유\",\"description\":\"미국 리츠 ETF를 고르다 보면 이상한 일이 생긴다. 모두 \"미국 리츠\"를 담는다는데 담기는 종목 수가 30종에서 132종까지 벌어진다. 이유는 담는 기준이 아니라 빼는 기준에 있다. 어떤 지수는 통신 타워 리츠를 뺀다. 어떤 지수는 목재 리츠를 뺀다. 어떤 지수는 주택건설업체와 부동산 중개업까지 목록으로 적어 제외한다. 반대로 배제 목록 자체를 두지 않는 지수도 있다. 그래서 같은 이름을 달고도 서로 다른 부동산을 담게 된다. 이 글은 ICF·USRT·RWR·FRI·BBRE 다섯 상품의 편입·배제 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)다섯 상품은 각각 무엇을 담나요?지수 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-01T02:29:44+09:00\",\"dateModified\":\"2026-11-01T02:30:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 리츠 ETF를 고르다 보면 이상한 일이 생긴다. 모두 \"미국 리츠\"를 담는다는데 담기는 종목 수가 30종에서 132종까지 벌어진다. 이유는 담는 기준이 아니라 빼는 기준에 있다. 어떤 지수는 통신 타워 리츠를 뺀다. 어떤 지수는 목재 리츠를 뺀다. 어떤 지수는 주택건설업체와 부동산 중개업까지 목록으로 적어 제외한다. 반대로 배제 목록 자체를 두지 않는 지수도 있다. 그래서 같은 이름을 달고도 서로 다른 부동산을 담게 된다. 이 글은 ICF·USRT·RWR·FRI·BBRE 다섯 상품의 편입·배제 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)다섯 상품은 각각 무엇을 담나요?지수 ..",
+  "og_title": "미국 리츠 ETF 비교: USRT·RWR·ICF·BBRE, 지수마다 빼는 리츠가 다른 이유",
+  "post_id": "756",
+  "published_time": "2026-11-01T02:29:44+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 리츠 ETF 비교: USRT·RWR·ICF·BBRE, 지수마다 빼는 리츠가 다른 이유",
+  "url": "https://mystock-note.tistory.com/756"
+}

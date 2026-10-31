@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "표준 산업분류상 단일 섹터가 아닌 인프라를 각기 다른 규칙으로 정의해 담는 미국 상장 ETF군",
+        "name": "인프라 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "인프라 ETF는 상품마다 담는 대상이 다르다. GICS 열거, 매출 기반 분류, 녹색매출 문턱, 티어 구조 등 정의 방법 자체가 갈리기 때문이다. 8개 상품의 편입 규칙을 1차 출처로 대조했다.",
+      "headline": "인프라 ETF 비교: GII·RBLD·IPAV·IDGT, 상품마다 담는 게 다른 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "인프라 ETF, GII, RBLD, IPAV, IDGT, EFRA, EMIF, BILT, MLPD, S&P Global Infrastructure, GICS 서브인더스트리, RBICS, 녹색매출, 데이터센터 리츠, 커버드콜, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "SPDR S&P Global Infrastructure ETF",
+          "name": "GII"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Emerging Markets Infrastructure ETF",
+          "name": "EMIF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "First Trust Alerian US NextGen Infrastructure ETF",
+          "name": "RBLD"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares U.S. Digital Infrastructure and Real Estate ETF",
+          "name": "IDGT"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Environmental Infrastructure and Industrials ETF",
+          "name": "EFRA"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Global X Infrastructure Development ex-U.S. ETF",
+          "name": "IPAV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Infrastructure Active ETF",
+          "name": "BILT"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Global X MLP & Energy Infrastructure Covered Call ETF",
+          "name": "MLPD"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}
