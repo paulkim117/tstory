@@ -1,0 +1,106 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-02T00:31:01+09:00",
+    "datePublished": "2026-11-02T00:30:29+09:00",
+    "description": "iShares는 미국 ESG ETF를 Aware·Advanced·Leaders·Select Screened 네 갈래로 나눠 판매한다. 이름만 보면 강도 순서처럼 읽힌다. 인식(Aware)보다 고급(Advanced)이, 그보다 선도(Leaders)가 엄격할 것 같다. 그런데 편입 규칙을 보면 그렇지 않다. Aware는 배제 항목이 가장 적지만 매출의 5%만 넘어도 걸러내고, Advanced는 배제 항목이 가장 많지만 매출의 50%를 넘어야 걸러낸다. Leaders는 문턱이 가장 높은 10억 달러다. 즉 층마다 엄격한 지점이 다르다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 네 계층의 편입·배제 규칙을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 ..",
+    "headline": "iShares ESG ETF 비교: Aware·Advanced·Leaders·Screened, 이름이 강도 순서가 아닌 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/758",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/758"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "배제 항목·매출 문턱·등급 문턱이 계층마다 다르게 설계된 iShares의 ESG 상장지수펀드 계열",
+          "name": "iShares ESG ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "iShares ESG ETF는 Aware·Advanced·Leaders·Select Screened로 나뉜다. 이름은 강도 순서처럼 보이지만 배제 항목 수·매출 문턱·등급 문턱이 서로 다른 방향으로 엄격하다. 1차 출처로 대조했다.",
+        "headline": "iShares ESG ETF 비교: Aware·Advanced·Leaders·Screened, 이름이 강도 순서가 아닌 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "ESG ETF, iShares ESG, ESG Aware, ESG Advanced, ESG Leaders, Select Screened, KLD 400, USXF, SUSL, XVV, DSI, ESGD, MSCI ESG 등급, UNGC, 논란 점수, 매출 문턱, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares ESG Advanced MSCI USA ETF",
+            "name": "USXF"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares ESG MSCI USA Leaders ETF",
+            "name": "SUSL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares ESG Select Screened S&P 500 ETF",
+            "name": "XVV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares ESG MSCI KLD 400 ETF",
+            "name": "DSI"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares ESG Aware MSCI EAFE ETF",
+            "name": "ESGD"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

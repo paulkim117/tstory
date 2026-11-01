@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "스타일 판정을 외부 지수에 위임하고 종목 선택만 운용사가 수행하는 미국 대형주 액티브 상장지수펀드 3종",
+        "name": "iShares Large Cap Active ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "iShares Large Cap Active 3종은 성장·코어·가치로 나뉜다. 그런데 무엇이 성장주인지를 외부 지수 3곳에 위임하고 그중 하나만 충족하면 편입한다. 세 상품의 액티브 정도도 다르다.",
+      "headline": "BGRO·BLCR·BLCV 비교: 액티브 대형주인데 '성장주'를 스스로 정의하지 않는다",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "BGRO, BLCR, BLCV, iShares Large Cap Active, 액티브 ETF, 성장주 정의, 가치주 정의, Russell 1000 Growth, S&P Composite 1500 Growth, MSCI World Growth, 추적오차, 비분산, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Large Cap Growth Active ETF",
+          "name": "BGRO"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Large Cap Core Active ETF",
+          "name": "BLCR"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Large Cap Value Active ETF",
+          "name": "BLCV"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

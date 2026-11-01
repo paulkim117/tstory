@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-01",
+  "body_html_length": 11491,
+  "canonical_url": "https://mystock-note.tistory.com/760",
+  "content_hash": "1d1fe49e1713e4eb53ce98fd8b4ada9db6e5661735fb1048fedf01620271497c",
+  "json_ld_count": 2,
+  "meta_description": "미국 지방채(municipal bond) ETF 목록을 보면 특이한 점이 눈에 띈다. 액티브 운용 상품이 유난히 많다. 미국 주식 ETF에서는 지수를 따르는 상품이 압도적인데 지방채에서는 그 비율이 뒤집힌다. 이유는 시장 구조에 있다. 지방채는 발행 주체가 수만 곳이고, 한 번 발행된 채권이 만기까지 거의 거래되지 않는 경우가 많다. 지수를 그대로 복제하려 해도 살 수 있는 채권이 시장에 없다. 그래서 운용사가 직접 고르는 방식이 표준이 됐다. 더 흥미로운 것은 지수형 상품조차 시가총액 가중을 버렸다는 점이다. 이 글은 HIMU·IROC·FMB·FMUB·FMUN 다섯 상품의 운용 방식을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시..",
+  "modified_time": "2026-11-02T02:32:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 지방채(municipal bond) ETF 목록을 보면 특이한 점이 눈에 띈다. 액티브 운용 상품이 유난히 많다. 미국 주식 ETF에서는 지수를 따르는 상품이 압도적인데 지방채에서는 그 비율이 뒤집힌다. 이유는 시장 구조에 있다. 지방채는 발행 주체가 수만 곳이고, 한 번 발행된 채권이 만기까지 거의 거래되지 않는 경우가 많다. 지수를 그대로 복제하려 해도 살 수 있는 채권이 시장에 없다. 그래서 운용사가 직접 고르는 방식이 표준이 됐다. 더 흥미로운 것은 지수형 상품조차 시가총액 가중을 버렸다는 점이다. 이 글은 HIMU·IROC·FMB·FMUB·FMUN 다섯 상품의 운용 방식을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시..",
+  "og_title": "지방채 ETF 비교: HIMU·IROC·FMB·FMUN, 왜 액티브가 표준인가",
+  "post_id": "760",
+  "published_time": "2026-11-02T02:31:07+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "지방채 ETF 비교: HIMU·IROC·FMB·FMUN, 왜 액티브가 표준인가",
+  "url": "https://mystock-note.tistory.com/760"
+}

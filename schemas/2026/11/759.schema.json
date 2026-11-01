@@ -1,0 +1,107 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-02T01:31:00+09:00",
+    "datePublished": "2026-11-02T01:30:47+09:00",
+    "description": "ERET(iShares Environmentally Aware Real Estate ETF)는 선진국 부동산 기업을 담는 ETF다. 특이한 것은 무엇을 재는가다. 대부분의 환경 관련 상품은 기업에 등급을 매기고 낮은 곳을 뺀다. ERET의 기초지수는 그렇게 하지 않는다. 그 회사가 소유한 건물을 잰다. 건물 면적 중 LEED·BREEAM 인증을 받은 비율이 얼마인지, 순임대면적 제곱피트당 전력 사용량이 얼마인지, 임차인 배출까지 포함한 온실가스 배출량이 얼마인지를 본다. 그리고 이 값들을 기준으로 종목을 빼는 대신 비중을 조정한다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2025-08-29)를 기준으로 이 상품의 측정·재가중 구조를 정리하고, 다른 부동산 ETF와 대조한다. (총보수·순..",
+    "headline": "ERET ETF란? 기업이 아니라 건물을 재는 부동산 ETF — LEED 인증·에너지·탄소 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/759",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/759"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Environmentally Aware Real Estate ETF",
+          "description": "보유 건물의 녹색 인증·에너지 사용·탄소 배출 측정치로 구성종목 비중을 조정하는 선진국 부동산 ETF",
+          "name": "ERET"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "ERET는 리츠를 기업 ESG 등급이 아니라 건물의 녹색 인증·에너지 사용·탄소 배출로 재가중한다. 배제가 아닌 비중 조정 방식이며 베타와 국가·섹터 편차에 제약이 걸린다. 1차 출처로 정리했다.",
+        "headline": "ERET ETF란? 기업이 아니라 건물을 재는 부동산 ETF — LEED 인증·에너지·탄소 기준",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "ERET, 부동산 ETF, FTSE EPRA Nareit Green Target, LEED, BREEAM, 녹색 인증, Scope 3, 탄소 배출 강도, 재가중, DTRE, WTRE, IFGL, RWX, FPRO, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Alerian Disruptive Technology Real Estate ETF",
+            "name": "DTRE"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "WisdomTree New Economy Real Estate Fund",
+            "name": "WTRE"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares International Developed Real Estate ETF",
+            "name": "IFGL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "SPDR Dow Jones International Real Estate ETF",
+            "name": "RWX"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Fidelity Real Estate Investment ETF",
+            "name": "FPRO"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

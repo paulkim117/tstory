@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-01",
+  "body_html_length": 11755,
+  "canonical_url": "https://mystock-note.tistory.com/761",
+  "content_hash": "54d25b84efe2cc8a1043539587a491a709b45dedb6afec37ff1f8b130449d2e3",
+  "json_ld_count": 1,
+  "meta_description": "BGRO·BLCR·BLCV는 iShares가 내놓은 미국 대형주 액티브 ETF 세 종이다. 각각 성장(Growth)·코어(Core)·가치(Value)로 나뉜다. 액티브 운용의 강점은 운용역이 상황에 따라 판단할 수 있다는 것인데, 이 상품들은 스타일을 상품명에 미리 박아두었다. 더 흥미로운 것은 그 다음이다. \"무엇이 성장주인가\"를 운용사가 스스로 정의하지 않는다. 요약투자설명서는 편입 요건을 \"외부 성장 지수 세 곳 중 최소 한 곳에 포함될 것\"으로 적는다. 그리고 그 세 지수는 성장을 서로 다르게 잰다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 세 상품의 편입 요건과 운용 방식을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다...",
+  "modified_time": "2026-11-02T03:21:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/761\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/761\",\"headline\":\"BGRO·BLCR·BLCV 비교: 액티브 대형주인데 '성장주'를 스스로 정의하지 않는다\",\"description\":\"BGRO·BLCR·BLCV는 iShares가 내놓은 미국 대형주 액티브 ETF 세 종이다. 각각 성장(Growth)·코어(Core)·가치(Value)로 나뉜다. 액티브 운용의 강점은 운용역이 상황에 따라 판단할 수 있다는 것인데, 이 상품들은 스타일을 상품명에 미리 박아두었다. 더 흥미로운 것은 그 다음이다. \"무엇이 성장주인가\"를 운용사가 스스로 정의하지 않는다. 요약투자설명서는 편입 요건을 \"외부 성장 지수 세 곳 중 최소 한 곳에 포함될 것\"으로 적는다. 그리고 그 세 지수는 성장을 서로 다르게 잰다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 세 상품의 편입 요건과 운용 방식을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다...\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-02T03:20:01+09:00\",\"dateModified\":\"2026-11-02T03:21:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "BGRO·BLCR·BLCV는 iShares가 내놓은 미국 대형주 액티브 ETF 세 종이다. 각각 성장(Growth)·코어(Core)·가치(Value)로 나뉜다. 액티브 운용의 강점은 운용역이 상황에 따라 판단할 수 있다는 것인데, 이 상품들은 스타일을 상품명에 미리 박아두었다. 더 흥미로운 것은 그 다음이다. \"무엇이 성장주인가\"를 운용사가 스스로 정의하지 않는다. 요약투자설명서는 편입 요건을 \"외부 성장 지수 세 곳 중 최소 한 곳에 포함될 것\"으로 적는다. 그리고 그 세 지수는 성장을 서로 다르게 잰다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 세 상품의 편입 요건과 운용 방식을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다...",
+  "og_title": "BGRO·BLCR·BLCV 비교: 액티브 대형주인데 '성장주'를 스스로 정의하지 않는다",
+  "post_id": "761",
+  "published_time": "2026-11-02T03:20:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BGRO·BLCR·BLCV 비교: 액티브 대형주인데 '성장주'를 스스로 정의하지 않는다",
+  "url": "https://mystock-note.tistory.com/761"
+}

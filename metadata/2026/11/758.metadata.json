@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-01",
+  "body_html_length": 13666,
+  "canonical_url": "https://mystock-note.tistory.com/758",
+  "content_hash": "2234e7ada50219d003ecee4291d62bdca164d6bd68d0ee46b289f17ffdf4c476",
+  "json_ld_count": 2,
+  "meta_description": "iShares는 미국 ESG ETF를 Aware·Advanced·Leaders·Select Screened 네 갈래로 나눠 판매한다. 이름만 보면 강도 순서처럼 읽힌다. 인식(Aware)보다 고급(Advanced)이, 그보다 선도(Leaders)가 엄격할 것 같다. 그런데 편입 규칙을 보면 그렇지 않다. Aware는 배제 항목이 가장 적지만 매출의 5%만 넘어도 걸러내고, Advanced는 배제 항목이 가장 많지만 매출의 50%를 넘어야 걸러낸다. Leaders는 문턱이 가장 높은 10억 달러다. 즉 층마다 엄격한 지점이 다르다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 네 계층의 편입·배제 규칙을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 ..",
+  "modified_time": "2026-11-02T00:31:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "iShares는 미국 ESG ETF를 Aware·Advanced·Leaders·Select Screened 네 갈래로 나눠 판매한다. 이름만 보면 강도 순서처럼 읽힌다. 인식(Aware)보다 고급(Advanced)이, 그보다 선도(Leaders)가 엄격할 것 같다. 그런데 편입 규칙을 보면 그렇지 않다. Aware는 배제 항목이 가장 적지만 매출의 5%만 넘어도 걸러내고, Advanced는 배제 항목이 가장 많지만 매출의 50%를 넘어야 걸러낸다. Leaders는 문턱이 가장 높은 10억 달러다. 즉 층마다 엄격한 지점이 다르다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서로 네 계층의 편입·배제 규칙을 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 ..",
+  "og_title": "iShares ESG ETF 비교: Aware·Advanced·Leaders·Screened, 이름이 강도 순서가 아닌 이유",
+  "post_id": "758",
+  "published_time": "2026-11-02T00:30:29+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "iShares ESG ETF 비교: Aware·Advanced·Leaders·Screened, 이름이 강도 순서가 아닌 이유",
+  "url": "https://mystock-note.tistory.com/758"
+}
