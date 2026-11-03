@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "본사 소재지·보증 주체·자산 소재·발행 통화 중 무엇을 기준으로 편입을 정하느냐가 갈리는 미국 상장 회사채 상장지수펀드",
+        "name": "신흥국·유럽 회사채 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "신흥국 채권 지수는 본사 소재지만 보지 않는다. 보증 주체와 자산 소재로도 편입된다. 유로 표시 채권은 통화로만 정해 신흥국 발행자도 들어온다. CEMB·EMHY·BEMB·EUHY·EUIG를 1차 출처로 대조했다.",
+      "headline": "신흥국·유럽 회사채 ETF 비교: CEMB·EMHY·EUIG, '어느 나라 채권'을 무엇으로 정하나",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "신흥국 회사채 ETF, CEMB, EMHY, BEMB, EUHY, EUIG, 유로 표시 회사채, 준국채, 프론티어 시장, CEMBI, EMBI, 환헤지, 하이일드, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares J.P. Morgan EM Corporate Bond ETF",
+          "name": "CEMB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares J.P. Morgan EM High Yield Bond ETF",
+          "name": "EMHY"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF",
+          "name": "BEMB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Euro High Yield Corporate Bond USD Hedged ETF",
+          "name": "EUHY"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Euro Investment Grade Corporate Bond USD Hedged ETF",
+          "name": "EUIG"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

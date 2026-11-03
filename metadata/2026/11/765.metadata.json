@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-03",
+  "body_html_length": 9960,
+  "canonical_url": "https://mystock-note.tistory.com/765",
+  "content_hash": "38429b5d8b2c71f10ced50c1a051f7c8c9dcff2d992f2f632fee13c96faa5b9f",
+  "json_ld_count": 2,
+  "meta_description": "VGMS(Vanguard Multi-Sector Income Bond ETF)는 채권 ETF지만 어떤 채권을 담는지가 고정돼 있지 않다. 국채도, 회사채도, 자산유동화증권도, 신흥국 채권도 담는다. 등급 제한도 없다. 결정적인 것은 이 조항이다. 자산의 최대 65%까지 하이일드(투기등급)를 담을 수 있다. 어느 시점에는 투자등급 중심 상품이고, 다른 시점에는 하이일드 비중이 절반을 넘는 상품이 될 수 있다는 뜻이다. 지수형 채권 ETF가 규칙으로 무엇이 담길지 알려주는 것과 정반대 지점에 있다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-01-28)를 기준으로 이 상품의 재량 범위를 정리한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 ..",
+  "modified_time": "2026-11-03T03:23:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "VGMS(Vanguard Multi-Sector Income Bond ETF)는 채권 ETF지만 어떤 채권을 담는지가 고정돼 있지 않다. 국채도, 회사채도, 자산유동화증권도, 신흥국 채권도 담는다. 등급 제한도 없다. 결정적인 것은 이 조항이다. 자산의 최대 65%까지 하이일드(투기등급)를 담을 수 있다. 어느 시점에는 투자등급 중심 상품이고, 다른 시점에는 하이일드 비중이 절반을 넘는 상품이 될 수 있다는 뜻이다. 지수형 채권 ETF가 규칙으로 무엇이 담길지 알려주는 것과 정반대 지점에 있다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-01-28)를 기준으로 이 상품의 재량 범위를 정리한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 ..",
+  "og_title": "VGMS ETF란? 하이일드를 65%까지 담을 수 있는 멀티섹터 채권 ETF",
+  "post_id": "765",
+  "published_time": "2026-11-03T03:22:08+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VGMS ETF란? 하이일드를 65%까지 담을 수 있는 멀티섹터 채권 ETF",
+  "url": "https://mystock-note.tistory.com/765"
+}

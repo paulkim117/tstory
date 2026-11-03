@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-03",
+  "body_html_length": 12826,
+  "canonical_url": "https://mystock-note.tistory.com/762",
+  "content_hash": "6c075b3744b925b76a97d938aedc9b915f170f929d2608fe96900316295309bd",
+  "json_ld_count": 1,
+  "meta_description": "\"기후 ETF\"라는 이름이 붙은 상품들은 서로 매우 다른 것을 담는다. 어떤 상품은 석유·가스 기업을 광범위하게 빼고, 어떤 상품은 고배출 업종을 그대로 둔 채 그 안에서 상대적으로 나은 기업을 고른다. 어떤 상품은 배출량이 적은 기업의 비중을 늘리기만 하고, 또 어떤 상품은 아예 환경 문제를 해결하는 사업을 하는 기업만 담는다. 놀라운 것은 PABU와 USCL이 같은 MSCI USA를 모지수로 쓴다는 점이다. 출발점이 같은데 결과가 반대 방향으로 간다. 이 글은 PABU·PABD·USCL·CRBN·ERTH 다섯 상품의 지수 설계를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)기후 ETF는 각각..",
+  "modified_time": "2026-11-03T00:21:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/762\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/762\",\"headline\":\"기후 ETF 비교: PABU·USCL·CRBN·ERTH, 같은 '기후'인데 정반대로 담는 이유\",\"description\":\"\"기후 ETF\"라는 이름이 붙은 상품들은 서로 매우 다른 것을 담는다. 어떤 상품은 석유·가스 기업을 광범위하게 빼고, 어떤 상품은 고배출 업종을 그대로 둔 채 그 안에서 상대적으로 나은 기업을 고른다. 어떤 상품은 배출량이 적은 기업의 비중을 늘리기만 하고, 또 어떤 상품은 아예 환경 문제를 해결하는 사업을 하는 기업만 담는다. 놀라운 것은 PABU와 USCL이 같은 MSCI USA를 모지수로 쓴다는 점이다. 출발점이 같은데 결과가 반대 방향으로 간다. 이 글은 PABU·PABD·USCL·CRBN·ERTH 다섯 상품의 지수 설계를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)기후 ETF는 각각..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-03T00:20:18+09:00\",\"dateModified\":\"2026-11-03T00:21:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"기후 ETF\"라는 이름이 붙은 상품들은 서로 매우 다른 것을 담는다. 어떤 상품은 석유·가스 기업을 광범위하게 빼고, 어떤 상품은 고배출 업종을 그대로 둔 채 그 안에서 상대적으로 나은 기업을 고른다. 어떤 상품은 배출량이 적은 기업의 비중을 늘리기만 하고, 또 어떤 상품은 아예 환경 문제를 해결하는 사업을 하는 기업만 담는다. 놀라운 것은 PABU와 USCL이 같은 MSCI USA를 모지수로 쓴다는 점이다. 출발점이 같은데 결과가 반대 방향으로 간다. 이 글은 PABU·PABD·USCL·CRBN·ERTH 다섯 상품의 지수 설계를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)기후 ETF는 각각..",
+  "og_title": "기후 ETF 비교: PABU·USCL·CRBN·ERTH, 같은 '기후'인데 정반대로 담는 이유",
+  "post_id": "762",
+  "published_time": "2026-11-03T00:20:18+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "기후 ETF 비교: PABU·USCL·CRBN·ERTH, 같은 '기후'인데 정반대로 담는 이유",
+  "url": "https://mystock-note.tistory.com/762"
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-03T02:22:00+09:00",
+    "datePublished": "2026-11-03T02:21:52+09:00",
+    "description": "저변동 ETF를 고를 때 흔히 두 가지 방식을 비교한다. 하나는 포트폴리오 전체의 변동성을 최소화하는 최적화 방식이고, 다른 하나는 변동성이 낮은 종목을 순서대로 담는 방식이다. 그런데 LGLV(대형)와 SMLV(소형)는 세 번째 길을 간다. 종목을 먼저 섹터에 배정한 뒤, 각 섹터 안에서 변동성 순위를 매긴다. 단순 순위 방식이 유틸리티나 필수소비재 같은 특정 업종으로 쏠리는 문제를 규칙 단계에서 막는 설계다. 여기에 소형주 저변동이라는 조합도 눈여겨볼 만하다. 소형주는 본래 변동성이 큰 구간인데, 그 안에서 상대적으로 낮은 종목을 고르면 무엇이 남는가. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2025-10-30)를 기준으로 두 상품의 지수 규칙을 정리한다. (총보수·순자산·수익률·구..",
+    "headline": "LGLV·SMLV ETF란? USMV·SPLV와 차이, 섹터 안에서 고르는 저변동",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/764",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/764"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "SPDR US Large Cap Low Volatility Index ETF",
+          "description": "종목을 섹터에 배정한 뒤 섹터 내 변동성 순위로 선별하는 미국 상장 저변동 ETF",
+          "name": "LGLV"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "LGLV·SMLV는 종목을 섹터에 배정한 뒤 각 섹터 안에서 변동성 순위를 매긴다. 단순 순위형의 업종 쏠림을 규칙 단계에서 막는 구조이며, 유니버스가 시총 1~1,000위와 1,001~3,000위로 나뉜다.",
+        "headline": "LGLV·SMLV ETF란? USMV·SPLV와 차이, 섹터 안에서 고르는 저변동",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "LGLV, SMLV, 저변동 ETF, 최소변동성, USMV, SPLV, 섹터 내 순위, 섹터 중립, 소형주 저변동, State Street Low Volatility Index, 팩터 ETF, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "SPDR US Small Cap Low Volatility Index ETF",
+            "name": "SMLV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI USA Min Vol Factor ETF",
+            "name": "USMV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P 500 Low Volatility ETF",
+            "name": "SPLV"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

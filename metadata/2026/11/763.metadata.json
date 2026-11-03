@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-03",
+  "body_html_length": 12797,
+  "canonical_url": "https://mystock-note.tistory.com/763",
+  "content_hash": "64124aa692c73826e1dd6f3b3e654b34922daa279eba2d3c961d1c454a3f1356",
+  "json_ld_count": 1,
+  "meta_description": "\"신흥국 채권 ETF\"를 담을 때 대부분은 어느 나라 기업이 발행했는가를 떠올린다. 그런데 지수 규칙은 그렇게 단순하지 않다. J.P. Morgan 계열 신흥국 채권 지수는 본사 소재지 외에도 두 가지 경로를 더 열어둔다. 신흥국 주체가 100% 보증한 채권이거나, 발행자의 영업자산 100%가 신흥국에 있으면 편입된다. 반대로 유럽 회사채 지수는 소재지를 아예 보지 않는다. 유로로 발행했으면 그만이다. 그 결과 유럽 투자등급 회사채 상품에 신흥국 기업이 들어간다. 그런데 같은 운용사의 유럽 하이일드 상품은 신흥국 발행자를 배제한다. 이 글은 CEMB·EMHY·BEMB·EUHY·EUIG 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레..",
+  "modified_time": "2026-11-03T01:21:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/763\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/763\",\"headline\":\"신흥국·유럽 회사채 ETF 비교: CEMB·EMHY·EUIG, '어느 나라 채권'을 무엇으로 정하나\",\"description\":\"\"신흥국 채권 ETF\"를 담을 때 대부분은 어느 나라 기업이 발행했는가를 떠올린다. 그런데 지수 규칙은 그렇게 단순하지 않다. J.P. Morgan 계열 신흥국 채권 지수는 본사 소재지 외에도 두 가지 경로를 더 열어둔다. 신흥국 주체가 100% 보증한 채권이거나, 발행자의 영업자산 100%가 신흥국에 있으면 편입된다. 반대로 유럽 회사채 지수는 소재지를 아예 보지 않는다. 유로로 발행했으면 그만이다. 그 결과 유럽 투자등급 회사채 상품에 신흥국 기업이 들어간다. 그런데 같은 운용사의 유럽 하이일드 상품은 신흥국 발행자를 배제한다. 이 글은 CEMB·EMHY·BEMB·EUHY·EUIG 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-03T01:20:39+09:00\",\"dateModified\":\"2026-11-03T01:21:02+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"신흥국 채권 ETF\"를 담을 때 대부분은 어느 나라 기업이 발행했는가를 떠올린다. 그런데 지수 규칙은 그렇게 단순하지 않다. J.P. Morgan 계열 신흥국 채권 지수는 본사 소재지 외에도 두 가지 경로를 더 열어둔다. 신흥국 주체가 100% 보증한 채권이거나, 발행자의 영업자산 100%가 신흥국에 있으면 편입된다. 반대로 유럽 회사채 지수는 소재지를 아예 보지 않는다. 유로로 발행했으면 그만이다. 그 결과 유럽 투자등급 회사채 상품에 신흥국 기업이 들어간다. 그런데 같은 운용사의 유럽 하이일드 상품은 신흥국 발행자를 배제한다. 이 글은 CEMB·EMHY·BEMB·EUHY·EUIG 다섯 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레..",
+  "og_title": "신흥국·유럽 회사채 ETF 비교: CEMB·EMHY·EUIG, '어느 나라 채권'을 무엇으로 정하나",
+  "post_id": "763",
+  "published_time": "2026-11-03T01:20:39+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "신흥국·유럽 회사채 ETF 비교: CEMB·EMHY·EUIG, '어느 나라 채권'을 무엇으로 정하나",
+  "url": "https://mystock-note.tistory.com/763"
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "파리협정 정렬·전환 평가·저탄소 목표·환경 테마 등 서로 다른 기준으로 구성되는 미국 상장 기후 관련 상장지수펀드",
+        "name": "기후 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "기후 ETF는 파리협정 경로·동종 대비 전환·절대 탄소량·환경 테마 중 무엇을 묻느냐로 갈린다. 같은 MSCI USA를 써도 하나는 에너지 섹터를 빼고 하나는 유지한다. 1차 출처로 대조했다.",
+      "headline": "기후 ETF 비교: PABU·USCL·CRBN·ERTH, 같은 '기후'인데 정반대로 담는 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "기후 ETF, PABU, PABD, USCL, CRBN, ERTH, 파리협정 정렬 벤치마크, EU 저탄소 벤치마크 규정, 탈탄소 경로, 배출 강도, 화석연료 매장량, 환경 임팩트 테마, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Paris-Aligned Climate Optimized MSCI USA ETF",
+          "name": "PABU"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF",
+          "name": "PABD"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Climate Conscious & Transition MSCI USA ETF",
+          "name": "USCL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares Low Carbon Optimized MSCI ACWI ETF",
+          "name": "CRBN"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Invesco MSCI Sustainable Future ETF",
+          "name": "ERTH"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}
