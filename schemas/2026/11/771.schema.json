@@ -1,0 +1,101 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-05T01:38:00+09:00",
+    "datePublished": "2026-11-05T01:37:27+09:00",
+    "description": "미국 국채를 만기별로 나눠 담으려 할 때 흔히 단기·중기·장기로 생각한다. 그런데 그 구간을 누가 어떻게 나누는지는 상품마다 다르다. ICE는 1~10년을 한 덩어리로 묶고, Bloomberg는 3~10년을 중기로 본다. 경계가 어긋나 있어서 문제가 생긴다. 초단기(TBLL, 12개월 이하), 중기(VGIT, 3~10년), 장기(VGLT, 10년 초과)를 모두 담아도 1~3년 구간이 빈다. 반면 GOVM 하나면 1~10년이 채워진다. 이 글은 네 상품의 구간 정의와 지수가 빼는 것들을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)구간 경계는 누가 정하나요?운용사가 아니라 지수 제공사가 정하고,..",
+    "headline": "국채 만기 ETF 비교: GOVM·TBLL·VGIT·VGLT, 다 담아도 1~3년이 빈다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/771",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/771"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "지수 제공사마다 만기 구간 경계가 달라 조합 시 빈 구간이 생길 수 있는 미국 상장 국채 상장지수펀드",
+          "name": "미국 국채 만기별 ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "국채 만기 구간은 지수 제공사가 정하고 경계가 서로 다르다. ICE는 1-10년, Bloomberg는 3-10년. TBLL·VGIT·VGLT를 다 담아도 1~3년 구간이 빈다. 1차 출처로 대조했다.",
+        "headline": "국채 만기 ETF 비교: GOVM·TBLL·VGIT·VGLT, 다 담아도 1~3년이 빈다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "미국 국채 ETF, GOVM, TBLL, VGIT, VGLT, 만기 구간, ICE 국채 지수, Bloomberg 국채 지수, 평균 만기, 연준 보유분 제외, 현금관리증권, 머니마켓펀드, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares 1-10 Year Treasury Bond ETF",
+            "name": "GOVM"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco Short Term Treasury ETF",
+            "name": "TBLL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Intermediate-Term Treasury ETF",
+            "name": "VGIT"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Long-Term Treasury ETF",
+            "name": "VGLT"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

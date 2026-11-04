@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 11749,
+  "canonical_url": "https://mystock-note.tistory.com/770",
+  "content_hash": "05ca4c6909b84ec3ac04b853ca32e9496f5d173d8d2895481bb661020f1e7e6b",
+  "json_ld_count": 1,
+  "meta_description": "\"국제 소형주 ETF\"를 고를 때 소형이 무엇인지는 이미 정해진 것처럼 보인다. 그런데 상품들의 기초지수를 열어보면 기준이 셋으로 갈린다. MSCI는 각 나라 안에서 하위 10~20%를 소형으로 본다. S&P는 나라와 무관하게 시가총액 20억 달러 미만이라는 하나의 선을 긋는다. WisdomTree는 상위 300개 기업을 먼저 빼고 남은 것의 하위 25%를 쓴다. 결과가 어떻게 달라지는지는 숫자로 확인된다. WisdomTree 지수의 구성종목 시가총액 범위는 5,980만 달러에서 162억 달러다(2026-06-30 기준). S&P 기준으로는 상당수가 소형주가 아니다. 이 글은 WSML·GWX·EEMS·DLS 네 상품의 소형 정의와 편입 범위를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. ..",
+  "modified_time": "2026-11-05T00:38:05+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/770\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/770\",\"headline\":\"국제 소형주 ETF 비교: WSML·GWX·DLS, '소형'을 정의하는 세 가지 방법\",\"description\":\"\"국제 소형주 ETF\"를 고를 때 소형이 무엇인지는 이미 정해진 것처럼 보인다. 그런데 상품들의 기초지수를 열어보면 기준이 셋으로 갈린다. MSCI는 각 나라 안에서 하위 10~20%를 소형으로 본다. S&P는 나라와 무관하게 시가총액 20억 달러 미만이라는 하나의 선을 긋는다. WisdomTree는 상위 300개 기업을 먼저 빼고 남은 것의 하위 25%를 쓴다. 결과가 어떻게 달라지는지는 숫자로 확인된다. WisdomTree 지수의 구성종목 시가총액 범위는 5,980만 달러에서 162억 달러다(2026-06-30 기준). S&P 기준으로는 상당수가 소형주가 아니다. 이 글은 WSML·GWX·EEMS·DLS 네 상품의 소형 정의와 편입 범위를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-05T00:37:19+09:00\",\"dateModified\":\"2026-11-05T00:38:05+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"국제 소형주 ETF\"를 고를 때 소형이 무엇인지는 이미 정해진 것처럼 보인다. 그런데 상품들의 기초지수를 열어보면 기준이 셋으로 갈린다. MSCI는 각 나라 안에서 하위 10~20%를 소형으로 본다. S&P는 나라와 무관하게 시가총액 20억 달러 미만이라는 하나의 선을 긋는다. WisdomTree는 상위 300개 기업을 먼저 빼고 남은 것의 하위 25%를 쓴다. 결과가 어떻게 달라지는지는 숫자로 확인된다. WisdomTree 지수의 구성종목 시가총액 범위는 5,980만 달러에서 162억 달러다(2026-06-30 기준). S&P 기준으로는 상당수가 소형주가 아니다. 이 글은 WSML·GWX·EEMS·DLS 네 상품의 소형 정의와 편입 범위를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. ..",
+  "og_title": "국제 소형주 ETF 비교: WSML·GWX·DLS, '소형'을 정의하는 세 가지 방법",
+  "post_id": "770",
+  "published_time": "2026-11-05T00:37:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "국제 소형주 ETF 비교: WSML·GWX·DLS, '소형'을 정의하는 세 가지 방법",
+  "url": "https://mystock-note.tistory.com/770"
+}

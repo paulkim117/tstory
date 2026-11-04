@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "배당 요건 유무에 따라 후보 집합이 갈리는 WisdomTree의 퀄리티·성장 팩터 상장지수펀드 계열",
+        "name": "WisdomTree 퀄리티 계열 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "WisdomTree 퀄리티 계열은 배당 요건이 있는 것과 없는 것으로 갈린다. 배당형에는 이익수익률이 배당수익률보다 커야 한다는 조건이 붙는다. 1차 출처로 대조했다.",
+      "headline": "WisdomTree 퀄리티 계열 비교: IQDG·EUDG·DNL·QMID, '배당'이 빠지면 무엇이 달라지나",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "WisdomTree, IQDG, EUDG, DNL, QMID, DGRS, 퀄리티 배당성장, 이익수익률, 배당수익률, ROE, ROA, 중기 이익성장 기대치, 국가 편차 제약, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree International Quality Dividend Growth Fund",
+          "name": "IQDG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Europe Quality Dividend Growth Fund",
+          "name": "EUDG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Global ex-U.S. Quality Growth Fund",
+          "name": "DNL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree U.S. MidCap Quality Growth Fund",
+          "name": "QMID"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree U.S. SmallCap Quality Dividend Growth Fund",
+          "name": "DGRS"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

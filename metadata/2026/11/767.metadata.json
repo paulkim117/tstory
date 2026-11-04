@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 11046,
+  "canonical_url": "https://mystock-note.tistory.com/767",
+  "content_hash": "d3b164e6343114e29d7a92e62e68816027966d0b1b510a63f419d84b2bc81882",
+  "json_ld_count": 1,
+  "meta_description": "\"퀄리티 팩터 ETF\"를 두 개 사면 같은 것을 두 번 사는 걸까. 그렇지 않을 수 있다. 팩터의 이름은 같아도 그것을 재는 지표가 다르기 때문이다. Fidelity의 팩터 ETF는 자체 지수를 쓰는데, 퀄리티를 자기자본이익률 같은 회계이익이 아니라 현금흐름으로 잰다. 잉여현금흐름 마진, 투하자본이익률, 그리고 잉여현금흐름의 안정성이 지표다. 모멘텀은 더 특이하다. 주가 수익률만 보는 것이 아니라 실적이 예상을 얼마나 웃돌았는지와 공매도 잔고가 얼마나 적은지까지 점수에 넣는다. 가격 데이터가 아닌 것이 모멘텀 판정에 들어가는 셈이다. 이 글은 FQAL·FVAL·FDMO·FIVA 네 상품의 선정 지표를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 정리한다. (총보수·순자산·수익률·구성종목 비중 등 변..",
+  "modified_time": "2026-11-04T01:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/767\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/767\",\"headline\":\"Fidelity 팩터 ETF 비교: FQAL·FVAL·FDMO·FIVA, 같은 팩터인데 재는 지표가 다르다\",\"description\":\"\"퀄리티 팩터 ETF\"를 두 개 사면 같은 것을 두 번 사는 걸까. 그렇지 않을 수 있다. 팩터의 이름은 같아도 그것을 재는 지표가 다르기 때문이다. Fidelity의 팩터 ETF는 자체 지수를 쓰는데, 퀄리티를 자기자본이익률 같은 회계이익이 아니라 현금흐름으로 잰다. 잉여현금흐름 마진, 투하자본이익률, 그리고 잉여현금흐름의 안정성이 지표다. 모멘텀은 더 특이하다. 주가 수익률만 보는 것이 아니라 실적이 예상을 얼마나 웃돌았는지와 공매도 잔고가 얼마나 적은지까지 점수에 넣는다. 가격 데이터가 아닌 것이 모멘텀 판정에 들어가는 셈이다. 이 글은 FQAL·FVAL·FDMO·FIVA 네 상품의 선정 지표를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 정리한다. (총보수·순자산·수익률·구성종목 비중 등 변..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-04T01:35:55+09:00\",\"dateModified\":\"2026-11-04T01:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"퀄리티 팩터 ETF\"를 두 개 사면 같은 것을 두 번 사는 걸까. 그렇지 않을 수 있다. 팩터의 이름은 같아도 그것을 재는 지표가 다르기 때문이다. Fidelity의 팩터 ETF는 자체 지수를 쓰는데, 퀄리티를 자기자본이익률 같은 회계이익이 아니라 현금흐름으로 잰다. 잉여현금흐름 마진, 투하자본이익률, 그리고 잉여현금흐름의 안정성이 지표다. 모멘텀은 더 특이하다. 주가 수익률만 보는 것이 아니라 실적이 예상을 얼마나 웃돌았는지와 공매도 잔고가 얼마나 적은지까지 점수에 넣는다. 가격 데이터가 아닌 것이 모멘텀 판정에 들어가는 셈이다. 이 글은 FQAL·FVAL·FDMO·FIVA 네 상품의 선정 지표를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 정리한다. (총보수·순자산·수익률·구성종목 비중 등 변..",
+  "og_title": "Fidelity 팩터 ETF 비교: FQAL·FVAL·FDMO·FIVA, 같은 팩터인데 재는 지표가 다르다",
+  "post_id": "767",
+  "published_time": "2026-11-04T01:35:55+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Fidelity 팩터 ETF 비교: FQAL·FVAL·FDMO·FIVA, 같은 팩터인데 재는 지표가 다르다",
+  "url": "https://mystock-note.tistory.com/767"
+}

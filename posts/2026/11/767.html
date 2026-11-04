@@ -1,0 +1,292 @@
+<!--
+source: https://mystock-note.tistory.com/767
+backup_date: 2026-11-04
+post_id: 767
+-->
+<p data-ke-size="size16">"퀄리티 팩터 ETF"를 두 개 사면 같은 것을 두 번 사는 걸까. 그렇지 않을 수 있다. <b>팩터의 이름은 같아도 그것을 재는 지표가 다르기 때문이다.</b> Fidelity의 팩터 ETF는 자체 지수를 쓰는데, 퀄리티를 <b>자기자본이익률 같은 회계이익이 아니라 현금흐름</b>으로 잰다. 잉여현금흐름 마진, 투하자본이익률, 그리고 <b>잉여현금흐름의 안정성</b>이 지표다. 모멘텀은 더 특이하다. 주가 수익률만 보는 것이 아니라 <b>실적이 예상을 얼마나 웃돌았는지</b>와 <b>공매도 잔고가 얼마나 적은지</b>까지 점수에 넣는다. 가격 데이터가 아닌 것이 모멘텀 판정에 들어가는 셈이다. 이 글은 <b>FQAL&middot;FVAL&middot;FDMO&middot;FIVA</b> 네 상품의 선정 지표를 미국 증권거래위원회(SEC) 제출 요약투자설명서로 정리한다. (총보수&middot;순자산&middot;수익률&middot;구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)</p>
+
+<h2 data-ke-size="size26">네 상품의 공통 구조는 무엇인가요?</h2>
+<p data-ke-size="size16"><b>지표만 바꿔 같은 틀을 반복한다.</b> <b>[사실]</b> 네 상품 모두 Fidelity의 자체 규칙 기반 지수를 추종하며, 구성 절차가 동일하다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>대형&middot;중형주를 <b>섹터별로 나눈다</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>각 섹터 안에서 해당 팩터 지표로 <b>복합 점수</b>를 매긴다</td>
+</tr>
+<tr>
+<td>3</td>
+<td>복합 점수를 <b>시가총액으로 조정</b>한다(규모 편향 제거)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>각 섹터에서 점수가 가장 높은 종목을 편입한다</td>
+</tr>
+<tr>
+<td>5</td>
+<td>각 섹터를 광의 시장 대비 <b>중립 가중</b>한다</td>
+</tr>
+<tr>
+<td>6</td>
+<td>섹터 안에서는 <b>시가총액 + 동일한 오버웨이트</b>로 가중한다</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: <b>6단계가 특이하다.</b> 요약투자설명서는 섹터 내 가중을 "광의 시장에서의 시가총액에 <b>해당 섹터 내 모든 구성종목에 동일한 오버웨이트 조정을 더한 값</b>"으로 적는다. 즉 시가총액 가중을 기본으로 하되, <b>모든 종목에 같은 크기의 가산을 얹는다.</b> 시총가중과 동일가중 사이의 절충이며, 작은 종목일수록 가산의 상대적 효과가 크다.</p>
+<p data-ke-size="size16">섹터 중립 구조 자체는 MSCI 계열 팩터 지수도 쓴다. 그 구조는 <a href="/374">퀄리티 팩터 ETF(QUAL)의 선정 지표와 섹터 중립 구조를 정리한 글</a>에서 다뤘다. <b>[사실]</b> 차이는 <b>틀이 아니라 안에 넣는 지표</b>에 있다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 2025년 12월 11일부터 이 상품들의 80% 정책에는 <b>파생상품</b>이 포함된다. 해당 투자에 노출을 제공하거나 관련 시장 위험 요인에 노출되는 파생상품이 80% 계산에 들어간다는 뜻이다. 네 상품 모두 <b>증권 대여</b>로 수익을 얻을 수 있다.</p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">퀄리티를 현금흐름으로 잰다는 게 무슨 뜻인가요?</h2>
+<p data-ke-size="see16"><b>회계상 이익 지표를 쓰지 않는다는 뜻이다.</b> <b>[사실]</b> FQAL의 퀄리티 복합 점수는 세 지표로 만들어진다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>지표</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>높은 잉여현금흐름 마진</b></td>
+<td>매출 대비 실제로 손에 남는 현금의 비율</td>
+</tr>
+<tr>
+<td><b>높은 투하자본이익률(ROIC)</b></td>
+<td>투입한 자본으로 얼마나 벌어들이는가</td>
+</tr>
+<tr>
+<td><b>높은 잉여현금흐름 안정성</b></td>
+<td>그 현금 창출이 <b>얼마나 꾸준한가</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 세 번째 지표가 이 지수의 성격을 보여준다. <b>현금을 많이 버는 것과 꾸준히 버는 것은 다르다.</b> 한 해 크게 벌고 다음 해 부진한 기업과, 매년 비슷하게 버는 기업은 같은 마진이라도 다르게 평가된다.</p>
+<p data-ke-size="size16">MSCI 계열 퀄리티 지수는 자기자본이익률 같은 <b>회계이익 기반 지표</b>를 축으로 삼는다. <b>[사실]</b> 회계이익은 감가상각&middot;충당금&middot;회계 처리 방식에 따라 달라질 수 있는 반면, 현금흐름은 그 영향을 덜 받는다. <b>같은 "퀄리티"를 표방해도 걸러지는 기업이 다를 수 있다.</b> <b>[판단]</b></p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">모멘텀에 왜 어닝 서프라이즈와 공매도 잔고가 들어가나요?</h2>
+<p data-ke-size="size16"><b>가격 추세만으로는 잡히지 않는 신호를 함께 보기 때문이다.</b> <b>[판단]</b> FDMO의 모멘텀 복합 점수는 네 지표로 구성된다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>지표</th>
+<th>성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>높은 총수익률</td>
+<td>가격 데이터</td>
+</tr>
+<tr>
+<td>높은 변동성조정 수익률</td>
+<td>가격 데이터</td>
+</tr>
+<tr>
+<td><b>높은 긍정적 어닝 서프라이즈</b></td>
+<td><b>실적 데이터</b></td>
+</tr>
+<tr>
+<td><b>낮은 평균 공매도 잔고</b></td>
+<td><b>수급 데이터</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 뒤의 두 지표는 성격이 다르다. <b>어닝 서프라이즈</b>는 실적이 시장 예상을 웃돌았는지를 본다. 주가가 아직 반응하지 않았더라도 <b>반응할 근거가 생겼다</b>고 보는 관점이다. <b>공매도 잔고</b>는 그 주식의 하락에 베팅한 물량이다. 이것이 적다는 것은 <b>하락을 예상하는 참여자가 적다</b>는 뜻으로 해석된다.</p>
+<p data-ke-size="size16">위험조정 가격 모멘텀만으로 종목을 고르는 방식은 <a href="/379">미국 모멘텀 팩터 ETF(MTUM)의 선정 방식을 정리한 글</a>에서 다뤘다. 그 방식과 비교하면 FDMO는 <b>가격 이외의 정보를 절반 넣은 셈</b>이다. <b>[판단]</b></p>
+
+<h2 data-ke-size="size26">밸류 지표는 어떻게 다른가요?</h2>
+<p data-ke-size="size16"><b>네 가지를 함께 본다.</b> <b>[사실]</b> FVAL과 FIVA가 같은 지표를 쓴다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>지표</th>
+<th>방향</th>
+<th>성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>잉여현금흐름 수익률</td>
+<td>높을수록</td>
+<td>현금 기준 저평가</td>
+</tr>
+<tr>
+<td>기업가치 &divide; EBITDA</td>
+<td>낮을수록</td>
+<td>부채 포함 기업가치 기준</td>
+</tr>
+<tr>
+<td><b>주가 &divide; 유형자산 장부가</b></td>
+<td>낮을수록</td>
+<td><b>무형자산을 뺀</b> 순자산 기준</td>
+</tr>
+<tr>
+<td>주가 &divide; 미래이익</td>
+<td>낮을수록</td>
+<td>예상 실적 기준</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: <b>유형자산 장부가</b>를 쓴다는 점이 눈에 띈다. 일반적인 주가순자산비율은 영업권&middot;브랜드 같은 무형자산을 포함한 장부가를 쓰는데, 이 지표는 그것을 뺀다. 인수합병으로 영업권이 크게 잡힌 기업은 이 기준에서 더 비싸게 평가된다. <b>기업가치를 실물 자산 중심으로 보겠다</b>는 관점이다.</p>
+<p data-ke-size="size16">MSCI 계열 가치 지수의 지표 구성은 <a href="/484">미국 가치 팩터 ETF(VLUE)의 선정 방식을 정리한 글</a>에서 다뤘다. 두 방식은 <b>선행 주가수익비율에서만 겹치고</b> 나머지는 다르다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">FIVA는 국가까지 함께 묶는다</h3>
+<p data-ke-size="size16">FIVA는 선진 국제 시장을 대상으로 하는데, 그룹화 방식이 한 겹 더 있다. <b>[사실]</b> 종목을 <b>국가와 섹터로 함께 묶고</b>, 섹터와 국가 조합이 작은 경우에는 더 넓은 단위로 합쳐 그룹을 만든다. 각 그룹 안에서 순위를 매기고 점수에서 <b>규모 편향을 제거</b>한다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 요약투자설명서는 이 그룹화의 결과로 <b>국가 비중이 광의 선진 국제 시장과 비슷하지만 정확히 같지는 않다</b>고 기재한다. 섹터는 광의 시장 대비 중립 가중된다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 국가를 그룹 단위로 묶으면 <b>특정 국가에 가치주가 몰려 있어도 그 국가가 지수를 지배하지 않는다.</b> 미국을 제외한 선진국 가치주 지수의 다른 구성 방식은 <a href="/493">미국&middot;캐나다 제외 선진국 가치주 ETF(EFV)를 정리한 글</a>에서 확인할 수 있다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 확인해야 하나요?</h2>
+<p data-ke-size="size16"><b>팩터 이름 &rarr; 실제 지표 &rarr; 지표의 성격(회계이익/현금흐름) &rarr; 기존 보유와의 중복 &rarr; 계좌&middot;과세</b> 순이다. <b>[판단]</b> 팩터 상품에서는 <b>이름이 아니라 지표를 봐야 한다.</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>목적</th>
+<th>대응 유형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>현금흐름 기준 우량주를 원한다</td>
+<td><b>FQAL</b></td>
+</tr>
+<tr>
+<td>회계이익 기준 우량주를 원한다</td>
+<td>MSCI 계열 퀄리티형</td>
+</tr>
+<tr>
+<td>가격 외 신호도 반영한 모멘텀을 원한다</td>
+<td><b>FDMO</b></td>
+</tr>
+<tr>
+<td>순수 가격 모멘텀을 원한다</td>
+<td>MSCI 계열 모멘텀형</td>
+</tr>
+<tr>
+<td>실물 자산 기준 저평가를 찾고 싶다</td>
+<td><b>FVAL</b> &mdash; 유형자산 장부가 사용</td>
+</tr>
+<tr>
+<td>국제 가치주를 국가 편중 없이 담고 싶다</td>
+<td><b>FIVA</b> &mdash; 국가&middot;섹터 그룹화</td>
+</tr>
+<tr>
+<td>세제혜택 계좌를 쓰고 싶다</td>
+<td>국내 상장 상품 내에서 선택</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">팩터 ETF 확인 우선순위</h3>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>순서</th>
+<th>확인 항목</th>
+<th>중요도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>팩터를 재는 <b>실제 지표</b>가 무엇인가</td>
+<td><b>최우선</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>회계이익 기준인지 현금흐름 기준인지</td>
+<td><b>매우 높음</b></td>
+</tr>
+<tr>
+<td>3</td>
+<td>가격 외 데이터가 들어가는지</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>4</td>
+<td>보유 중인 같은 이름 팩터 상품과 중복</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>5</td>
+<td>계좌&middot;과세&middot;환율 영향</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>6</td>
+<td>섹터 중립&middot;가중 방식</td>
+<td>참고</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">팩터 ETF 확인 체크리스트</h3>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>같은 팩터 이름이라도 <b>지표가 다를 수 있음</b>을 이해했는가</li>
+<li>퀄리티가 <b>회계이익</b> 기준인지 <b>현금흐름</b> 기준인지 확인했는가</li>
+<li>모멘텀에 <b>가격 외 데이터</b>가 포함되는지 확인했는가</li>
+<li>밸류가 <b>유형자산 장부가</b>를 쓰는지 확인했는가</li>
+<li>지수 제공사가 <b>운용사 자체</b>인지 외부인지 확인했는가</li>
+<li>섹터 중립 가중이 적용되는지 확인했는가</li>
+<li>섹터 내 가중에 <b>동일 오버웨이트</b>가 더해진다는 점을 이해했는가</li>
+<li>국제 상품이라면 <b>국가 그룹화</b> 방식을 확인했는가</li>
+<li>80% 정책에 <b>파생상품이 포함</b>됨을 인지했는가</li>
+<li><b>증권 대여</b>가 이루어질 수 있음을 확인했는가</li>
+<li>보유 중인 <b>다른 팩터 ETF와 실제 종목이 겹치는지</b> 점검했는가</li>
+<li>환헤지가 없어 <b>환율 변동이 그대로 반영</b>됨을 인지했는가</li>
+<li>매수 계좌가 <b>일반계좌</b>인지(연금&middot;ISA는 미국 상장 편입 불가) 확인했는가</li>
+<li>총보수&middot;순자산&middot;구성 비중은 <b>발행 시점 운용사 자료</b>에서 직접 확인할 것인가</li>
+</ul>
+
+<h2 data-ke-size="size26">자주 묻는 질문</h2>
+<h3 data-ke-size="size23">같은 퀄리티 ETF를 두 개 사면 중복인가요?</h3>
+<p data-ke-size="size16">반드시 그렇지는 않다. 지표가 다르면 걸러지는 기업이 달라진다. 실제 겹침은 구성 자료로 확인해야 한다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">현금흐름 기준이 회계이익 기준보다 나은가요?</h3>
+<p data-ke-size="size16">우열의 문제가 아니다. 현금흐름은 회계 처리의 영향을 덜 받지만, 투자를 많이 하는 성장 기업은 현금흐름이 낮게 나올 수 있다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">공매도 잔고가 적으면 좋은 신호인가요?</h3>
+<p data-ke-size="size16">이 지수는 그렇게 본다. 다만 공매도 잔고가 적다는 것이 상승을 보장하지 않으며, 반대로 공매도가 많은 종목이 급등하는 경우도 있다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">유형자산 장부가를 쓰면 무엇이 달라지나요?</h3>
+<p data-ke-size="size16">영업권 같은 무형자산이 장부가에서 빠진다. 인수합병이 많았던 기업은 이 기준에서 상대적으로 비싸게 평가돼 편입이 어려워질 수 있다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">연금계좌에서 담을 수 있나요?</h3>
+<p data-ke-size="size16">미국 상장 상품은 불가하다. 국내 상장 팩터 관련 ETF 중에서 선택해야 한다. <b>[사실]</b></p>
+
+<h2 data-ke-size="size26">핵심 요약</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>네 상품 모두 <b>Fidelity 자체 규칙 기반 지수</b>를 추종하며 구성 절차가 동일하다. <b>[사실]</b></li>
+<li><b>FQAL</b>의 퀄리티 지표는 <b>잉여현금흐름 마진&middot;투하자본이익률&middot;잉여현금흐름 안정성</b>이다. <b>[사실]</b></li>
+<li><b>FDMO</b>의 모멘텀 지표 네 개 중 둘이 <b>어닝 서프라이즈와 공매도 잔고</b>로, 가격 데이터가 아니다. <b>[사실]</b></li>
+<li><b>FVAL&middot;FIVA</b>의 밸류 지표에는 <b>주가 대비 유형자산 장부가</b>가 들어간다. <b>[사실]</b></li>
+<li>가중은 <b>섹터 중립</b>이며, 섹터 안에서는 <b>시가총액에 동일한 오버웨이트를 더한다.</b> <b>[사실]</b></li>
+<li><b>FIVA</b>는 국가와 섹터로 함께 그룹화해 국가 비중이 광의 시장과 <b>비슷하지만 같지는 않다.</b> <b>[사실]</b></li>
+<li>2025-12-11부터 <b>파생상품이 80% 정책에 포함</b>된다. <b>[사실]</b></li>
+<li>미국 직접 매수는 <b>양도세 22%&middot;250만 원 공제</b>, 분배금은 <b>15.4%</b>다. <b>[사실/판단]</b></li>
+</ul>
+
+<h2 data-ke-size="size26">관련 글</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li><a href="/374">MSCI 계열 퀄리티 팩터의 선정 지표와 섹터 중립 구조를 정리한 QUAL 글</a></li>
+<li><a href="/379">위험조정 가격 모멘텀으로 종목을 고르는 MTUM 글</a></li>
+<li><a href="/484">MSCI 계열 가치 팩터의 지표 구성을 정리한 VLUE 글</a></li>
+<li><a href="/493">미국&middot;캐나다 제외 선진국 가치주 지수 구조를 정리한 EFV 글</a></li>
+</ul>
+
+<h2 data-ke-size="size26">자료 출처</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>Fidelity &mdash; FQAL 요약투자설명서(2025-11-28), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/945908/000094590825000733/filing10088.htm" target="_blank" rel="noopener">sec.gov FQAL 497K</a></li>
+<li>Fidelity &mdash; FVAL 요약투자설명서(2025-11-28), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/945908/000094590825000738/filing10088.htm" target="_blank" rel="noopener">sec.gov FVAL 497K</a></li>
+<li>Fidelity &mdash; FDMO 요약투자설명서(2025-11-28), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/945908/000094590825000721/filing10088.htm" target="_blank" rel="noopener">sec.gov FDMO 497K</a></li>
+<li>Fidelity &mdash; FIVA 요약투자설명서(2026-02-27), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/945908/000094590826000084/filing10958.htm" target="_blank" rel="noopener">sec.gov FIVA 497K</a></li>
+<li>과세 기준: 소득세법(해외주식 양도소득세&middot;배당소득세) / 국세청. 세율&middot;공제는 규정값이며 개인별 적용은 상이하다.</li>
+</ul>
+
+<h2 data-ke-size="size26">위험 고지</h2>
+<p data-ke-size="size16">이 글은 정보 제공 목적이며 특정 상품의 매수&middot;매도를 권유하지 않는다. 팩터 전략은 특정 국면에서 시장 지수보다 장기간 부진할 수 있으며, 과거에 작동한 지표가 앞으로도 초과수익을 낸다는 보장은 없다. 운용사 자체 지수를 쓰는 상품은 지수 제공사와 운용사가 같은 계열이므로 방법론 변경의 독립성을 별도로 확인해야 한다. 섹터 중립 구조는 섹터 쏠림을 줄이는 대신 특정 섹터가 강세일 때 시장 지수보다 부진할 수 있다. 파생상품이 80% 정책에 포함되므로 실제 노출이 보유 주식 목록과 다를 수 있고, 증권 대여는 거래상대방 위험을 수반한다. 국제 상품은 환율&middot;정치&middot;결제 위험이 추가된다. 환헤지가 없어 환율 변동이 성과에 직접 반영된다. 총보수&middot;순자산&middot;구성종목 비중&middot;수익률은 시점에 따라 변동하므로, 투자 판단 전 <b>운용사 공식 자료&middot;지수 방법론&middot;SEC 제출 문서&middot;국세청 등 1차 출처의 발행 시점 최신 정보</b>를 직접 확인해야 한다. 세금은 개인의 소득&middot;계좌&middot;거주지 상황에 따라 달라지며, 구체적 사안은 세무 전문가와 상담이 필요하다. 투자 결과의 책임은 투자자 본인에게 있다.</p>

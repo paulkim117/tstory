@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "절대 금액·국가별 상대 순위·전체 순위 등 서로 다른 기준으로 소형주를 정의하는 미국 상장 해외 소형주 상장지수펀드",
+        "name": "국제 소형주 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "국제 소형주 ETF는 소형의 기준이 다르다. MSCI는 국가별 하위 10~20%, S&P는 시총 20억 달러 미만, WisdomTree는 상위 300개를 뺀 하위 25%를 쓴다. 1차 출처로 대조했다.",
+      "headline": "국제 소형주 ETF 비교: WSML·GWX·DLS, '소형'을 정의하는 세 가지 방법",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "국제 소형주 ETF, WSML, GWX, EEMS, DLS, MSCI World Small Cap, S&P Developed Ex-U.S. Under USD2 Billion, 소형주 정의, 신흥국 소형주, 한국 포함, 배당 요건, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares MSCI World Small-Cap ETF",
+          "name": "WSML"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "SPDR S&P International Small Cap ETF",
+          "name": "GWX"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares MSCI Emerging Markets Small Cap ETF",
+          "name": "EEMS"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree International SmallCap Dividend Fund",
+          "name": "DLS"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

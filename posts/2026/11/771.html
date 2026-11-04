@@ -1,0 +1,319 @@
+<!--
+source: https://mystock-note.tistory.com/771
+backup_date: 2026-11-04
+post_id: 771
+-->
+<p data-ke-size="size16">미국 국채를 만기별로 나눠 담으려 할 때 흔히 <b>단기&middot;중기&middot;장기</b>로 생각한다. 그런데 그 구간을 <b>누가 어떻게 나누는지</b>는 상품마다 다르다. ICE는 <b>1~10년</b>을 한 덩어리로 묶고, Bloomberg는 <b>3~10년</b>을 중기로 본다. 경계가 어긋나 있어서 문제가 생긴다. 초단기(<b>TBLL</b>, 12개월 이하), 중기(<b>VGIT</b>, 3~10년), 장기(<b>VGLT</b>, 10년 초과)를 <b>모두 담아도 1~3년 구간이 빈다.</b> 반면 <b>GOVM</b> 하나면 1~10년이 채워진다. 이 글은 네 상품의 구간 정의와 지수가 빼는 것들을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수&middot;순자산&middot;분배율&middot;수익률&middot;듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)</p>
+
+<h2 data-ke-size="size26">구간 경계는 누가 정하나요?</h2>
+<p data-ke-size="size16"><b>운용사가 아니라 지수 제공사가 정하고, 제공사마다 경계가 다르다.</b> <b>[사실]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>티커</th>
+<th>기초지수</th>
+<th>지수 제공사</th>
+<th>만기 구간</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>TBLL</b></td>
+<td>ICE 미국 국채 12개월 이하</td>
+<td><b>ICE</b></td>
+<td>1개월 초과 ~ <b>12개월 이하</b></td>
+</tr>
+<tr>
+<td><b>GOVM</b></td>
+<td>ICE U.S. Treasury 1-10 Year Bond</td>
+<td><b>ICE</b></td>
+<td><b>1년 ~ 10년</b></td>
+</tr>
+<tr>
+<td><b>VGIT</b></td>
+<td>Bloomberg U.S. Treasury 3-10 Year</td>
+<td><b>Bloomberg</b></td>
+<td><b>3년 ~ 10년</b></td>
+</tr>
+<tr>
+<td><b>VGLT</b></td>
+<td>Bloomberg U.S. Long Treasury</td>
+<td><b>Bloomberg</b></td>
+<td><b>10년 초과</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 같은 "중기 국채"라는 말이 <b>1~10년</b>일 수도 <b>3~10년</b>일 수도 있다. 상품 이름에는 이 차이가 드러나지 않는다. Vanguard의 상품명은 "Intermediate-Term"이고 iShares의 상품명은 "1-10 Year"인데, 앞의 것은 구간을 말하지 않고 뒤의 것은 숫자로 밝힌다.</p>
+<p data-ke-size="size16"><b>[확인 필요]</b> GOVM의 요약투자설명서는 만기 범위를 두 곳에서 서술하는데 표현이 미세하게 다르다. 한 곳은 <b>"1년 초과 10년 이하"</b>로, 다른 곳은 <b>"1년 이상 10년 미만"</b>으로 적는다. 경계값의 정확한 처리는 지수 방법론 문서에서 확인해야 한다.</p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">다 담아도 빈 구간이 생긴다</h2>
+<p data-ke-size="size16"><b>초단기와 중기 사이가 어긋나 1~3년이 빠진다.</b> <b>[사실]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>만기</th>
+<th>TBLL</th>
+<th>VGIT</th>
+<th>VGLT</th>
+<th>세 상품 조합</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~1년</td>
+<td><b>담김</b></td>
+<td>&mdash;</td>
+<td>&mdash;</td>
+<td>담김</td>
+</tr>
+<tr>
+<td><b>1~3년</b></td>
+<td>&mdash;</td>
+<td>&mdash;</td>
+<td>&mdash;</td>
+<td><b>빈다</b></td>
+</tr>
+<tr>
+<td>3~10년</td>
+<td>&mdash;</td>
+<td><b>담김</b></td>
+<td>&mdash;</td>
+<td>담김</td>
+</tr>
+<tr>
+<td>10년~</td>
+<td>&mdash;</td>
+<td>&mdash;</td>
+<td><b>담김</b></td>
+<td>담김</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 이 공백은 실무적으로 중요하다. <b>1~3년 구간은 금리 인하 국면에서 먼저 반응하는 구간</b>이고, 현금성 자산과 중기채 사이의 완충 역할을 한다. 세 상품으로 "만기를 골고루 담았다"고 생각해도 이 부분이 비어 있을 수 있다.</p>
+<p data-ke-size="size16">이 구간을 직접 채우는 상품의 구조는 <a href="/421">미국 1-3년 국채 ETF(SHY)를 정리한 글</a>에서 다뤘다. 7~10년 구간만 담는 상품은 <a href="/416">미국 중기 국채 ETF(IEF)를 정리한 글</a>에서, 장기 구간은 <a href="/332">미국 장기국채 ETF 비교 글</a>에서 확인할 수 있다. <b>[사실]</b></p>
+<p data-ke-size="size16"><b>[판단]</b> 반대로 <b>GOVM 하나로 1~10년을 덮는 방식</b>도 있다. 구간을 잘게 나누면 비중을 정밀하게 조절할 수 있고, 넓게 묶으면 관리가 단순해지는 대신 구간별 조절이 어렵다. 어느 쪽이 낫다기보다 <b>목적이 다르다.</b></p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">국채 지수는 무엇을 빼나요?</h2>
+<p data-ke-size="size16"><b>"미국 국채"라고 해서 모든 국채가 들어가는 것은 아니다.</b> <b>[사실]</b> ICE 계열 두 지수의 배제 목록은 구체적이다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>배제 대상</th>
+<th>GOVM</th>
+<th>TBLL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>물가연동채(TIPS)</td>
+<td>제외</td>
+<td>제외</td>
+</tr>
+<tr>
+<td>원발행 제로쿠폰</td>
+<td>제외</td>
+<td>제외</td>
+</tr>
+<tr>
+<td>정부기관채(보증 여부 무관)</td>
+<td>제외</td>
+<td>제외</td>
+</tr>
+<tr>
+<td><b>소매 투자자 대상 발행&middot;판매 증권</b></td>
+<td><b>제외</b></td>
+<td><b>제외</b></td>
+</tr>
+<tr>
+<td>재무부 단기증권(T-bills)</td>
+<td><b>제외</b></td>
+<td>&mdash;</td>
+</tr>
+<tr>
+<td><b>현금관리증권</b></td>
+<td><b>제외</b></td>
+<td>&mdash;</td>
+</tr>
+<tr>
+<td>이표 분리 스트립(STRIPS)</td>
+<td>제외</td>
+<td>제외</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[사실]</b> <b>소매 투자자를 주 대상으로 발행되거나 판매되는 증권</b>이 제외된다는 조항은 눈여겨볼 만하다. 기관 간 유통 시장에서 거래되지 않는 증권을 걸러내는 장치로 볼 수 있다. <b>[판단]</b></p>
+<p data-ke-size="size16"><b>[사실]</b> 스트립 처리에는 비대칭이 있다. GOVM 지수는 <b>이표에서 분리된 스트립을 편입 대상에서 제외</b>하지만, <b>지수에 편입된 뒤 분리된 부분은 잔액에서 차감하지 않는다.</b> 들어올 때의 기준과 이후의 처리가 다르다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 발행 잔액 요건에도 조항이 있다. GOVM 지수는 최소 잔액 3억 달러를 요구하면서 <b>연방준비제도가 보유한 물량을 제외</b>하고 계산한다. 중앙은행 보유분을 뺀 유통 잔액 기준으로 지수를 만드는 방식이며, 종합채권 지수의 유사한 처리는 <a href="/425">유동주식 조정 지수를 쓰는 BND를 정리한 글</a>에서 다뤘다.</p>
+<h3 data-ke-size="size23">TBLL은 머니마켓펀드가 아니다</h3>
+<p data-ke-size="size16">TBLL의 요약투자설명서는 <b>이 펀드가 머니마켓펀드가 아니며 안정적인 순자산가치를 유지하려 하지 않는다</b>고 명시한다. <b>[사실]</b> 자산의 100%를 현금과 12개월 이하 국채에 투자하지만, 가격이 고정되지 않는다는 뜻이다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 초단기 국채 상품을 <b>예금이나 MMF의 대체재</b>로 생각하기 쉽다. 만기가 짧아 가격 변동이 작은 것은 맞지만 <b>변동이 없는 것은 아니다.</b> 이 문구는 그 오해를 막기 위한 것으로 보인다.</p>
+
+<h2 data-ke-size="size26">평균 만기를 함께 봐야 하는 이유</h2>
+<p data-ke-size="size16"><b>구간 범위와 실제 평균은 다르다.</b> <b>[사실]</b> Vanguard 두 상품은 달러가중 평균만기를 명시한다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>상품</th>
+<th>구간</th>
+<th>달러가중 평균만기<br>(2025-08-31 기준)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>VGIT</b></td>
+<td>3~10년</td>
+<td><b>5.6년</b></td>
+</tr>
+<tr>
+<td><b>VGLT</b></td>
+<td>10년 초과</td>
+<td><b>22년</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: VGLT는 "10년 초과"라는 넓은 구간을 담지만 평균만기가 <b>22년</b>이다. 30년물이 상당 비중을 차지한다는 뜻이며, 금리 민감도가 매우 크다. <b>구간의 하한(10년)만 보고 판단하면 실제 성격을 놓친다.</b></p>
+<p data-ke-size="size16">구성종목 수도 참고가 된다. <b>[사실]</b> GOVM의 기초지수는 2026년 3월 31일 기준 <b>199종</b>, TBLL의 기초지수는 2025년 10월 31일 기준 <b>91종</b>이었다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 확인해야 하나요?</h2>
+<p data-ke-size="size16"><b>구간 경계 &rarr; 조합 시 공백 &rarr; 평균 만기 &rarr; 배제 항목 &rarr; 계좌&middot;과세</b> 순이다. <b>[판단]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>목적</th>
+<th>대응 유형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1~10년을 한 상품으로 덮고 싶다</td>
+<td><b>GOVM</b></td>
+</tr>
+<tr>
+<td>구간별로 비중을 조절하고 싶다</td>
+<td>구간별 상품 조합 &mdash; <b>1~3년 공백 주의</b></td>
+</tr>
+<tr>
+<td>현금성 자산 자리를 원한다</td>
+<td><b>TBLL</b> &mdash; MMF가 아님</td>
+</tr>
+<tr>
+<td>금리 민감도를 크게 가져가고 싶다</td>
+<td><b>VGLT</b> &mdash; 평균만기 22년</td>
+</tr>
+<tr>
+<td>물가연동채를 담고 싶다</td>
+<td><b>부적합</b> &mdash; 네 지수 모두 제외</td>
+</tr>
+<tr>
+<td>세제혜택 계좌를 쓰고 싶다</td>
+<td>국내 상장 국채 ETF 내에서 선택</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">국채 ETF 확인 우선순위</h3>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>순서</th>
+<th>확인 항목</th>
+<th>중요도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>지수의 <b>만기 구간 경계</b></td>
+<td><b>최우선</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>여러 상품 조합 시 <b>빈 구간</b></td>
+<td><b>매우 높음</b></td>
+</tr>
+<tr>
+<td>3</td>
+<td>달러가중 <b>평균 만기</b></td>
+<td><b>매우 높음</b></td>
+</tr>
+<tr>
+<td>4</td>
+<td>계좌&middot;과세&middot;환율 영향</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>5</td>
+<td>배제 항목(TIPS&middot;스트립 등)</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>6</td>
+<td>구성종목 수와 발행 잔액 요건</td>
+<td>참고</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">국채 만기 ETF 확인 체크리스트</h3>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>상품명이 아니라 <b>기초지수의 구간</b>을 확인했는가</li>
+<li>지수 제공사가 <b>ICE인지 Bloomberg인지</b> 확인했는가</li>
+<li>여러 상품을 조합할 때 <b>빈 구간</b>이 생기는지 점검했는가</li>
+<li><b>1~3년 구간</b>이 포트폴리오에 있는지 확인했는가</li>
+<li>구간 하한이 아니라 <b>평균 만기</b>를 확인했는가</li>
+<li><b>물가연동채가 제외</b>됨을 인지했는가</li>
+<li>초단기 상품이 <b>머니마켓펀드가 아님</b>을 이해했는가</li>
+<li>발행 잔액에서 <b>연준 보유분이 제외</b>됨을 확인했는가</li>
+<li><b>소매 대상 증권</b>이 제외됨을 확인했는가</li>
+<li>표본추출 방식이라 <b>지수 전 종목을 담지 않을 수 있음</b>을 확인했는가</li>
+<li>장기채는 <b>금리 변동에 가격이 크게 움직임</b>을 인지했는가</li>
+<li>환헤지가 없어 <b>환율 변동이 그대로 반영</b>됨을 인지했는가</li>
+<li>매수 계좌가 <b>일반계좌</b>인지(연금&middot;ISA는 미국 상장 편입 불가) 확인했는가</li>
+<li>총보수&middot;순자산&middot;듀레이션&middot;평균 만기는 <b>발행 시점 운용사 자료</b>에서 직접 확인할 것인가</li>
+</ul>
+
+<h2 data-ke-size="size26">자주 묻는 질문</h2>
+<h3 data-ke-size="size23">'중기 국채'는 몇 년인가요?</h3>
+<p data-ke-size="size16">지수 제공사마다 다르다. ICE는 1~10년을 한 구간으로 묶고 Bloomberg는 3~10년을 중기로 본다. 상품명만으로는 알 수 없다. <b>[사실]</b></p>
+<h3 data-ke-size="size23">초단기·중기·장기를 다 담으면 완결되나요?</h3>
+<p data-ke-size="size16">아니다. TBLL(12개월 이하)·VGIT(3~10년)·VGLT(10년 초과)를 모두 담아도 <b>1~3년 구간이 빈다.</b> <b>[사실]</b></p>
+<h3 data-ke-size="size23">TBLL을 예금 대신 써도 되나요?</h3>
+<p data-ke-size="size16">요약투자설명서는 이 펀드가 머니마켓펀드가 아니며 안정적 순자산가치를 유지하지 않는다고 명시한다. 가격 변동이 작을 뿐 없는 것은 아니다. <b>[사실]</b></p>
+<h3 data-ke-size="size23">VGLT는 10년 만기 채권 중심인가요?</h3>
+<p data-ke-size="size16">아니다. 구간은 10년 초과지만 달러가중 평균만기가 22년이다(2025-08-31 기준). 장기물 비중이 크다. <b>[사실]</b></p>
+<h3 data-ke-size="size23">연금계좌에서 담을 수 있나요?</h3>
+<p data-ke-size="size16">미국 상장 상품은 불가하다. 국내 상장 미국 국채 ETF 중에서 선택해야 한다. <b>[사실]</b></p>
+
+<h2 data-ke-size="size26">핵심 요약</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>만기 구간은 운용사가 아니라 <b>지수 제공사</b>가 정하며 제공사마다 경계가 다르다. <b>[사실]</b></li>
+<li>ICE는 <b>1~10년</b>을 한 구간으로, Bloomberg는 <b>3~10년</b>을 중기로 본다. <b>[사실]</b></li>
+<li><b>TBLL+VGIT+VGLT를 모두 담아도 1~3년 구간이 빈다.</b> <b>[사실]</b></li>
+<li>네 지수 모두 <b>물가연동채&middot;정부기관채&middot;원발행 제로쿠폰&middot;소매 대상 증권</b>을 제외한다. <b>[사실]</b></li>
+<li>GOVM 지수는 <b>재무부 단기증권과 현금관리증권</b>도 제외하고, <b>연준 보유분을 뺀</b> 잔액으로 요건을 판정한다. <b>[사실]</b></li>
+<li><b>TBLL은 머니마켓펀드가 아니며</b> 안정적 순자산가치를 유지하지 않는다. <b>[사실]</b></li>
+<li><b>VGLT는 구간이 10년 초과지만 평균만기가 22년</b>이다(2025-08-31 기준). <b>[사실]</b></li>
+<li>미국 직접 매수는 <b>양도세 22%&middot;250만 원 공제</b>, 분배금은 <b>15.4%</b>다. <b>[사실/판단]</b></li>
+</ul>
+
+<h2 data-ke-size="size26">관련 글</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li><a href="/421">1~3년 구간을 담는 미국 단기 국채 ETF(SHY) 글</a></li>
+<li><a href="/416">7~10년 구간을 담는 미국 중기 국채 ETF(IEF) 글</a></li>
+<li><a href="/332">미국 장기국채 ETF와 국내 상장 30년국채를 비교한 글</a></li>
+<li><a href="/425">유동주식 조정 지수를 쓰는 종합채권 ETF(BND) 글</a></li>
+</ul>
+
+<h2 data-ke-size="size26">자료 출처</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>iShares (BlackRock) &mdash; GOVM 요약투자설명서(2026-05-12), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1100663/000119312526219146/d150699d497k.htm" target="_blank" rel="noopener">sec.gov GOVM 497K</a></li>
+<li>Invesco &mdash; TBLL 요약투자설명서(2025-12-19), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1378872/000119312525325685/d54028d497k.htm" target="_blank" rel="noopener">sec.gov TBLL 497K</a></li>
+<li>Vanguard &mdash; VGIT 요약투자설명서(2026-06-30), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1021882/000102188226000464/f45475d1.htm" target="_blank" rel="noopener">sec.gov VGIT 497K</a></li>
+<li>Vanguard &mdash; VGLT 요약투자설명서(2026-06-30), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1021882/000102188226000463/f45478d1.htm" target="_blank" rel="noopener">sec.gov VGLT 497K</a></li>
+<li>과세 기준: 소득세법(해외주식 양도소득세&middot;배당소득세) / 국세청. 세율&middot;공제는 규정값이며 개인별 적용은 상이하다.</li>
+</ul>
+
+<h2 data-ke-size="size26">위험 고지</h2>
+<p data-ke-size="size16">이 글은 정보 제공 목적이며 특정 상품의 매수&middot;매도를 권유하지 않는다. 국채는 신용 위험이 낮지만 금리 위험이 있으며, 만기가 길수록 금리 변동에 따른 가격 등락이 크다. 초단기 국채 상품도 머니마켓펀드가 아니므로 순자산가치가 변동할 수 있고 원금이 보장되지 않는다. 구간 경계가 지수 제공사마다 달라 여러 상품을 조합해도 특정 만기 구간이 비거나 겹칠 수 있다. 표본추출 방식은 지수 전 종목을 보유하지 않을 수 있어 추적 차이가 발생할 수 있다. 지수의 배제 항목과 발행 잔액 산정 방식은 지수 제공사가 변경할 수 있다. 환헤지가 없어 환율 변동이 성과에 직접 반영되며, 원화 기준 손익은 달러 채권 가격과 환율 양쪽에 좌우된다. 총보수&middot;순자산&middot;분배금&middot;수익률&middot;듀레이션&middot;평균 만기&middot;구성종목 수는 시점에 따라 변동하므로, 투자 판단 전 <b>운용사 공식 자료&middot;지수 방법론&middot;SEC 제출 문서&middot;국세청 등 1차 출처의 발행 시점 최신 정보</b>를 직접 확인해야 한다. 세금은 개인의 소득&middot;계좌&middot;거주지 상황에 따라 달라지며, 구체적 사안은 세무 전문가와 상담이 필요하다. 투자 결과의 책임은 투자자 본인에게 있다.</p>

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 9914,
+  "canonical_url": "https://mystock-note.tistory.com/772",
+  "content_hash": "dab493a0f4a10069fbcbda053e9b547b7d12d045839ff7b3b5f6fbe4ef917e6c",
+  "json_ld_count": 2,
+  "meta_description": "AQLT(iShares MSCI Global Quality Factor ETF)는 퀄리티 팩터를 전 세계로 확장한 상품이다. 미국 퀄리티 상품, 미국 제외 선진국 퀄리티 상품과 지표는 같지만 담기는 나라가 다르다. 기초지수의 모지수가 MSCI ACWI이므로 신흥국이 포함되고, 그 안에 한국도 들어간다(2025-08-31 기준). 그런데 결과가 예상과 다를 수 있다. 지역을 넓혔는데도 지수에서 큰 비중을 차지하는 것은 기술 업종이다. 퀄리티 기준(높은 자기자본이익률, 안정적 이익 성장, 낮은 재무 레버리지)을 통과하는 기업이 그쪽에 몰려 있기 때문으로 볼 수 있다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2025-12-30)를 기준으로 이 상품의 선별·가중 규칙을 정리한다. (총보수·순자..",
+  "modified_time": "2026-11-05T02:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AQLT(iShares MSCI Global Quality Factor ETF)는 퀄리티 팩터를 전 세계로 확장한 상품이다. 미국 퀄리티 상품, 미국 제외 선진국 퀄리티 상품과 지표는 같지만 담기는 나라가 다르다. 기초지수의 모지수가 MSCI ACWI이므로 신흥국이 포함되고, 그 안에 한국도 들어간다(2025-08-31 기준). 그런데 결과가 예상과 다를 수 있다. 지역을 넓혔는데도 지수에서 큰 비중을 차지하는 것은 기술 업종이다. 퀄리티 기준(높은 자기자본이익률, 안정적 이익 성장, 낮은 재무 레버리지)을 통과하는 기업이 그쪽에 몰려 있기 때문으로 볼 수 있다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2025-12-30)를 기준으로 이 상품의 선별·가중 규칙을 정리한다. (총보수·순자..",
+  "og_title": "AQLT ETF란? QUAL·IQLT와 차이, 신흥국까지 담는 글로벌 퀄리티",
+  "post_id": "772",
+  "published_time": "2026-11-05T02:37:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AQLT ETF란? QUAL·IQLT와 차이, 신흥국까지 담는 글로벌 퀄리티",
+  "url": "https://mystock-note.tistory.com/772"
+}

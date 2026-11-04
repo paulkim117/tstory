@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-05T02:38:00+09:00",
+    "datePublished": "2026-11-05T02:37:56+09:00",
+    "description": "AQLT(iShares MSCI Global Quality Factor ETF)는 퀄리티 팩터를 전 세계로 확장한 상품이다. 미국 퀄리티 상품, 미국 제외 선진국 퀄리티 상품과 지표는 같지만 담기는 나라가 다르다. 기초지수의 모지수가 MSCI ACWI이므로 신흥국이 포함되고, 그 안에 한국도 들어간다(2025-08-31 기준). 그런데 결과가 예상과 다를 수 있다. 지역을 넓혔는데도 지수에서 큰 비중을 차지하는 것은 기술 업종이다. 퀄리티 기준(높은 자기자본이익률, 안정적 이익 성장, 낮은 재무 레버리지)을 통과하는 기업이 그쪽에 몰려 있기 때문으로 볼 수 있다. 이 글은 미국 증권거래위원회(SEC) 제출 요약투자설명서(2025-12-30)를 기준으로 이 상품의 선별·가중 규칙을 정리한다. (총보수·순자..",
+    "headline": "AQLT ETF란? QUAL·IQLT와 차이, 신흥국까지 담는 글로벌 퀄리티",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/772",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/772"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares MSCI Global Quality Factor ETF",
+          "description": "선진국과 신흥국을 포함한 MSCI ACWI에서 퀄리티 점수 상위 종목을 담는 미국 상장 팩터 ETF",
+          "name": "AQLT"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "AQLT는 MSCI ACWI 퀄리티 지수를 추종한다. 미국·국제 퀄리티와 달리 신흥국이 들어오고 한국도 포함된다. 퀄리티 3변수와 버퍼 규칙을 1차 출처로 정리했다.",
+        "headline": "AQLT ETF란? QUAL·IQLT와 차이, 신흥국까지 담는 글로벌 퀄리티",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "AQLT, 글로벌 퀄리티 ETF, MSCI ACWI Quality, 퀄리티 팩터, 자기자본이익률, 부채자본비율, 이익 변동성, 버퍼 규칙, 한국 포함, QUAL, IQLT, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI USA Quality Factor ETF",
+            "name": "QUAL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Intl Quality Factor ETF",
+            "name": "IQLT"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

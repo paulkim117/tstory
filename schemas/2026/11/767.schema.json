@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "description": "운용사 자체 지수로 현금흐름·실적·수급 지표를 결합해 팩터를 측정하는 미국 상장 상장지수펀드 계열",
+        "name": "Fidelity 팩터 ETF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "Fidelity 팩터 ETF는 자체 지수를 쓴다. 퀄리티는 회계이익이 아니라 현금흐름으로, 모멘텀은 가격뿐 아니라 어닝 서프라이즈와 공매도 잔고로 잰다. MSCI 계열과 지표를 대조했다.",
+      "headline": "Fidelity 팩터 ETF 비교: FQAL·FVAL·FDMO·FIVA, 같은 팩터인데 재는 지표가 다르다",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "Fidelity 팩터 ETF, FQAL, FVAL, FDMO, FIVA, 퀄리티 팩터, 가치 팩터, 모멘텀 팩터, 잉여현금흐름, ROIC, 어닝 서프라이즈, 공매도 잔고, 유형자산 장부가, 섹터 중립, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Quality Factor ETF",
+          "name": "FQAL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Value Factor ETF",
+          "name": "FVAL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Momentum Factor ETF",
+          "name": "FDMO"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity International Value Factor ETF",
+          "name": "FIVA"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

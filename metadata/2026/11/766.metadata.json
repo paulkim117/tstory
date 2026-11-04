@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 12521,
+  "canonical_url": "https://mystock-note.tistory.com/766",
+  "content_hash": "de4ca652993f7a30ff21edd4278fbbdad5fa14017dd5882f3a9cc4da1be4f42c",
+  "json_ld_count": 2,
+  "meta_description": "배당 ETF를 고를 때 대부분은 그 회사가 지금까지 배당을 얼마나 줬는가를 본다고 생각한다. 그런데 국제 배당 지수들이 실제로 쓰는 값은 다르다. 표시 연간배당(IAD, indicated annual dividend) 수익률이다. 가장 최근 배당금에 연간 지급 횟수를 곱해 앞으로 1년치를 추정한 뒤 주가로 나눈 값이다. 과거 실적이 아니라 현재 표시된 배당이 기준이다. 더 눈여겨볼 것은 그다음이다. 수익률이 높다고 무조건 좋은 것이 아니다. 이 지수들은 IAD 수익률에 상한을 두고, 그 이상은 잘라낸다. 가중 방식도 특이해서 수익률에 유동시총의 제곱근을 곱한다. 이 글은 DVYA·DVYE·EDIV·FID 네 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·..",
+  "modified_time": "2026-11-04T00:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "배당 ETF를 고를 때 대부분은 그 회사가 지금까지 배당을 얼마나 줬는가를 본다고 생각한다. 그런데 국제 배당 지수들이 실제로 쓰는 값은 다르다. 표시 연간배당(IAD, indicated annual dividend) 수익률이다. 가장 최근 배당금에 연간 지급 횟수를 곱해 앞으로 1년치를 추정한 뒤 주가로 나눈 값이다. 과거 실적이 아니라 현재 표시된 배당이 기준이다. 더 눈여겨볼 것은 그다음이다. 수익률이 높다고 무조건 좋은 것이 아니다. 이 지수들은 IAD 수익률에 상한을 두고, 그 이상은 잘라낸다. 가중 방식도 특이해서 수익률에 유동시총의 제곱근을 곱한다. 이 글은 DVYA·DVYE·EDIV·FID 네 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·..",
+  "og_title": "국제 배당 ETF 비교: DVYA·DVYE·EDIV·FID, '앞으로 줄 배당'으로 고르는 지수",
+  "post_id": "766",
+  "published_time": "2026-11-04T00:35:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "국제 배당 ETF 비교: DVYA·DVYE·EDIV·FID, '앞으로 줄 배당'으로 고르는 지수",
+  "url": "https://mystock-note.tistory.com/766"
+}

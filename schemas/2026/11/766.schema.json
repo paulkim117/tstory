@@ -1,0 +1,101 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-04T00:36:00+09:00",
+    "datePublished": "2026-11-04T00:35:24+09:00",
+    "description": "배당 ETF를 고를 때 대부분은 그 회사가 지금까지 배당을 얼마나 줬는가를 본다고 생각한다. 그런데 국제 배당 지수들이 실제로 쓰는 값은 다르다. 표시 연간배당(IAD, indicated annual dividend) 수익률이다. 가장 최근 배당금에 연간 지급 횟수를 곱해 앞으로 1년치를 추정한 뒤 주가로 나눈 값이다. 과거 실적이 아니라 현재 표시된 배당이 기준이다. 더 눈여겨볼 것은 그다음이다. 수익률이 높다고 무조건 좋은 것이 아니다. 이 지수들은 IAD 수익률에 상한을 두고, 그 이상은 잘라낸다. 가중 방식도 특이해서 수익률에 유동시총의 제곱근을 곱한다. 이 글은 DVYA·DVYE·EDIV·FID 네 상품의 편입 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·..",
+    "headline": "국제 배당 ETF 비교: DVYA·DVYE·EDIV·FID, '앞으로 줄 배당'으로 고르는 지수",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/766",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/766"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "표시 연간배당 수익률을 기준으로 종목을 선별하고 수익률에 상한을 적용하는 미국 상장 해외 배당 상장지수펀드",
+          "name": "국제 배당 ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "국제 배당 ETF는 과거 지급액이 아니라 표시 연간배당(IAD) 수익률로 종목을 고른다. 수익률이 너무 높으면 오히려 배제하고, 가중은 수익률과 유동시총 제곱근을 곱한다. 1차 출처로 대조했다.",
+        "headline": "국제 배당 ETF 비교: DVYA·DVYE·EDIV·FID, '앞으로 줄 배당'으로 고르는 지수",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "국제 배당 ETF, DVYA, DVYE, EDIV, FID, 표시 연간배당, IAD 수익률, 배당 커버리지, 기울인 가중, 제곱근 가중, 배당 아리스토크랏, 증배 연수, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Asia/Pacific Dividend ETF",
+            "name": "DVYA"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Emerging Markets Dividend ETF",
+            "name": "DVYE"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "SPDR S&P Emerging Markets Dividend ETF",
+            "name": "EDIV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust S&P International Dividend Aristocrats ETF",
+            "name": "FID"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

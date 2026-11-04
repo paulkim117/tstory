@@ -1,0 +1,111 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-04T02:37:00+09:00",
+    "datePublished": "2026-11-04T02:36:21+09:00",
+    "description": "유럽을 나라별로 나눠 담으면 분산이 될까. 핀란드·노르웨이·스웨덴·벨기에·오스트리아 ETF를 각각 사면 다섯 나라에 나눠 투자한 것처럼 보인다. 그런데 각 상품의 요약투자설명서를 보면 다섯 나라 모두 「금융」이 지수의 상당 부분을 차지한다고 적혀 있다. 나라는 달라도 담기는 업종은 겹친다. 물론 차이도 있다. 노르웨이는 에너지, 벨기에는 헬스케어, 스웨덴은 통신이 함께 큰 비중을 갖는다. 즉 유럽 소국 ETF를 고르는 일은 나라를 고르는 일인 동시에 업종을 고르는 일이다. 이 글은 EFNL·ENOR·EWD·EWK·EWO·NORW 여섯 상품을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)나라를 고..",
+    "headline": "유럽 소국 ETF 비교: EFNL·ENOR·EWD·EWK·EWO, 나라를 골랐는데 은행이 담긴다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/768",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/768"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "시장 규모가 작아 소수 업종에 집중되고 금융 비중이 공통으로 큰 유럽 단일 국가 상장지수펀드",
+          "name": "유럽 소국 ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "유럽 소국 ETF는 나라마다 쏠린 섹터가 다르다. 노르웨이는 에너지, 벨기에는 헬스케어, 스웨덴은 통신. 그런데 다섯 나라 모두 금융이 공통이다. 1차 출처로 대조했다.",
+        "headline": "유럽 소국 ETF 비교: EFNL·ENOR·EWD·EWK·EWO, 나라를 골랐는데 은행이 담긴다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "유럽 소국 ETF, EFNL, ENOR, EWD, EWK, EWO, NORW, 핀란드 ETF, 노르웨이 ETF, 스웨덴 ETF, 벨기에 ETF, 오스트리아 ETF, MSCI 25/50, 그룹 실체, IMI, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Finland ETF",
+            "name": "EFNL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Norway ETF",
+            "name": "ENOR"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Sweden ETF",
+            "name": "EWD"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Belgium ETF",
+            "name": "EWK"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Austria ETF",
+            "name": "EWO"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Global X MSCI Norway ETF",
+            "name": "NORW"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

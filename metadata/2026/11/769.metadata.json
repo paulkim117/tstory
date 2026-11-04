@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 11991,
+  "canonical_url": "https://mystock-note.tistory.com/769",
+  "content_hash": "581c3e36c7323ae22e1d90ab0e7b7c97e36116f83d8f8d94a3fb6bdf871074a2",
+  "json_ld_count": 1,
+  "meta_description": "\"투자등급 채권 ETF\"라는 말은 명확해 보인다. 신용평가사가 BBB- 이상을 매긴 채권만 담는다는 뜻이니까. 그런데 문제가 하나 있다. 평가사마다 등급이 다를 때는 어떻게 하는가. 무디스는 Baa3(투자등급)인데 S&P는 BB+(투기등급)라면 그 채권은 어느 쪽인가. 상품들의 답이 정반대다. 어떤 상품은 낮은 쪽을 택하고, 어떤 상품은 가장 높은 등급을 택한다. 결과적으로 똑같은 채권이 한 상품에서는 투자등급으로, 다른 상품에서는 투기등급으로 분류된다. 이 글은 FCOR·GXIG·FTCB·QHY·IHY 다섯 상품의 등급 판정 규칙과 선별 방식을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)등..",
+  "modified_time": "2026-11-04T03:37:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/769\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/769\",\"headline\":\"투자등급 채권 ETF 비교: GXIG·FTCB·FCOR·QHY·IHY, 같은 채권인데 등급이 갈린다\",\"description\":\"\"투자등급 채권 ETF\"라는 말은 명확해 보인다. 신용평가사가 BBB- 이상을 매긴 채권만 담는다는 뜻이니까. 그런데 문제가 하나 있다. 평가사마다 등급이 다를 때는 어떻게 하는가. 무디스는 Baa3(투자등급)인데 S&P는 BB+(투기등급)라면 그 채권은 어느 쪽인가. 상품들의 답이 정반대다. 어떤 상품은 낮은 쪽을 택하고, 어떤 상품은 가장 높은 등급을 택한다. 결과적으로 똑같은 채권이 한 상품에서는 투자등급으로, 다른 상품에서는 투기등급으로 분류된다. 이 글은 FCOR·GXIG·FTCB·QHY·IHY 다섯 상품의 등급 판정 규칙과 선별 방식을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)등..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-04T03:36:47+09:00\",\"dateModified\":\"2026-11-04T03:37:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "\"투자등급 채권 ETF\"라는 말은 명확해 보인다. 신용평가사가 BBB- 이상을 매긴 채권만 담는다는 뜻이니까. 그런데 문제가 하나 있다. 평가사마다 등급이 다를 때는 어떻게 하는가. 무디스는 Baa3(투자등급)인데 S&P는 BB+(투기등급)라면 그 채권은 어느 쪽인가. 상품들의 답이 정반대다. 어떤 상품은 낮은 쪽을 택하고, 어떤 상품은 가장 높은 등급을 택한다. 결과적으로 똑같은 채권이 한 상품에서는 투자등급으로, 다른 상품에서는 투기등급으로 분류된다. 이 글은 FCOR·GXIG·FTCB·QHY·IHY 다섯 상품의 등급 판정 규칙과 선별 방식을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)등..",
+  "og_title": "투자등급 채권 ETF 비교: GXIG·FTCB·FCOR·QHY·IHY, 같은 채권인데 등급이 갈린다",
+  "post_id": "769",
+  "published_time": "2026-11-04T03:36:47+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "투자등급 채권 ETF 비교: GXIG·FTCB·FCOR·QHY·IHY, 같은 채권인데 등급이 갈린다",
+  "url": "https://mystock-note.tistory.com/769"
+}

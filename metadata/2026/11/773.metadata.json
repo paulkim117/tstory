@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-04",
+  "body_html_length": 11226,
+  "canonical_url": "https://mystock-note.tistory.com/773",
+  "content_hash": "663bedc70d3337bb9c6a69a84c33c9a05bb527683a3db263cc183f6e201557be",
+  "json_ld_count": 1,
+  "meta_description": "WisdomTree의 퀄리티 계열 상품은 이름이 비슷해 보인다. Quality Dividend Growth와 Quality Growth. 한 단어 차이인데 편입 규칙이 근본적으로 갈린다. 배당이 붙은 상품(IQDG·EUDG·DGRS)은 배당을 지급하는 기업만 후보로 삼고, 여기에 특이한 조건이 하나 더 붙는다. \"이익수익률이 배당수익률보다 커야 한다\"는 것이다. 버는 것보다 많이 나눠주는 기업을 걸러내는 장치다. 반면 배당이 빠진 상품(DNL·QMID)에는 배당 요건이 아예 없다. 퀄리티와 성장만 본다. 이 글은 다섯 상품의 선별 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기..",
+  "modified_time": "2026-11-05T03:39:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/773\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/773\",\"headline\":\"WisdomTree 퀄리티 계열 비교: IQDG·EUDG·DNL·QMID, '배당'이 빠지면 무엇이 달라지나\",\"description\":\"WisdomTree의 퀄리티 계열 상품은 이름이 비슷해 보인다. Quality Dividend Growth와 Quality Growth. 한 단어 차이인데 편입 규칙이 근본적으로 갈린다. 배당이 붙은 상품(IQDG·EUDG·DGRS)은 배당을 지급하는 기업만 후보로 삼고, 여기에 특이한 조건이 하나 더 붙는다. \"이익수익률이 배당수익률보다 커야 한다\"는 것이다. 버는 것보다 많이 나눠주는 기업을 걸러내는 장치다. 반면 배당이 빠진 상품(DNL·QMID)에는 배당 요건이 아예 없다. 퀄리티와 성장만 본다. 이 글은 다섯 상품의 선별 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-05T03:38:22+09:00\",\"dateModified\":\"2026-11-05T03:39:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "WisdomTree의 퀄리티 계열 상품은 이름이 비슷해 보인다. Quality Dividend Growth와 Quality Growth. 한 단어 차이인데 편입 규칙이 근본적으로 갈린다. 배당이 붙은 상품(IQDG·EUDG·DGRS)은 배당을 지급하는 기업만 후보로 삼고, 여기에 특이한 조건이 하나 더 붙는다. \"이익수익률이 배당수익률보다 커야 한다\"는 것이다. 버는 것보다 많이 나눠주는 기업을 걸러내는 장치다. 반면 배당이 빠진 상품(DNL·QMID)에는 배당 요건이 아예 없다. 퀄리티와 성장만 본다. 이 글은 다섯 상품의 선별 규칙을 미국 증권거래위원회(SEC) 제출 요약투자설명서(2026-07-31)로 대조한다. (총보수·순자산·분배율·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기..",
+  "og_title": "WisdomTree 퀄리티 계열 비교: IQDG·EUDG·DNL·QMID, '배당'이 빠지면 무엇이 달라지나",
+  "post_id": "773",
+  "published_time": "2026-11-05T03:38:22+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "WisdomTree 퀄리티 계열 비교: IQDG·EUDG·DNL·QMID, '배당'이 빠지면 무엇이 달라지나",
+  "url": "https://mystock-note.tistory.com/773"
+}

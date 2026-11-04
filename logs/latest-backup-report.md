@@ -1,12 +1,12 @@
 # Tistory Backup Report
 
-- Run date: 2026-11-03
+- Run date: 2026-11-04
 - Source: sitemap.xml
-- Total URLs found: 745
-- Numeric post URLs: 728
-- Successfully backed up: 728
-- Skipped unchanged: 723
-- Updated: 5
+- Total URLs found: 753
+- Numeric post URLs: 736
+- Successfully backed up: 736
+- Skipped unchanged: 727
+- Updated: 9
 - Failed: 0
 
 ## Failed URLs
