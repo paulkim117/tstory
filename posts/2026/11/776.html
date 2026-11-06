@@ -1,0 +1,267 @@
+<!--
+source: https://mystock-note.tistory.com/776
+backup_date: 2026-11-05
+post_id: 776
+-->
+<p data-ke-size="size16">소형주에 팩터를 적용한 ETF는 대형주 팩터 상품과 구조가 다르다. 팩터 지표를 보기 <b>전에</b> 걸러내는 단계가 따로 있기 때문이다. <b>SVAL</b>은 가치 지표를 계산하기 앞서 세 번 자른다. <b>거래가 적은 하위 20%</b>를 빼고, <b>변동성이 큰 상위 20%</b>를 빼고, <b>빚이 많은 상위 20%</b>를 뺀다. 그러고도 하나가 더 남는다. 애널리스트가 <b>이익 전망을 올린 횟수보다 내린 횟수가 많은 기업</b>도 제외한다. 그 뒤에야 주가순자산비율 같은 가치 지표로 순위를 매긴다. 리밸런싱 방식도 특이해서, <b>정해진 날짜에 하는 것이 아니라 조건이 충족될 때만</b> 한다. 이 글은 <b>SVAL&middot;SMMV&middot;SQLT</b> 세 상품을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수&middot;순자산&middot;수익률&middot;구성종목 비중 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)</p>
+
+<h2 data-ke-size="size26">팩터를 보기 전에 세 번 걸러낸다</h2>
+<p data-ke-size="size16"><b>SVAL의 지수 구성은 배제로 시작한다.</b> <b>[사실]</b> 러셀 2000에서 출발해 순서대로 잘라낸다.</p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>단계</th>
+<th>제외 대상</th>
+<th>기준</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><b>유동성 하위 20%</b><br>(약 391종)</td>
+<td>60일 평균 거래대금</td>
+</tr>
+<tr>
+<td>2</td>
+<td><b>변동성 상위 20%</b></td>
+<td>12개월 실현 변동성</td>
+</tr>
+<tr>
+<td>3</td>
+<td><b>레버리지 상위 20%</b></td>
+<td>총부채 &divide; 총자산</td>
+</tr>
+<tr>
+<td>4</td>
+<td><b>부정적 센티먼트</b> 기업</td>
+<td>EPS 전망 <b>하향 &gt; 상향</b></td>
+</tr>
+<tr>
+<td>5</td>
+<td>&mdash;</td>
+<td>남은 기업을 가치 지표로 순위</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 소형주에서 <b>싼 주식</b>을 찾으면 함정에 빠지기 쉽다. 주가가 싼 데는 이유가 있는 경우가 많다. 거래가 안 되거나, 등락이 심하거나, 빚이 많거나, 실적 전망이 계속 내려가고 있거나. 이 지수는 <b>그 네 가지를 먼저 제거한 뒤에</b> 가치를 잰다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 4단계의 <b>센티먼트 점수</b>는 애널리스트의 주당순이익 전망 조정 횟수로 계산된다. 당해 회계연도와 다음 회계연도에 대해 <b>상향 조정 건수와 하향 조정 건수</b>를 세고, 하향이 상향보다 많으면 부정적 점수를 받아 제외된다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 이는 <b>가격이 아니라 전망의 방향</b>을 보는 장치다. 가치 지표는 현재 주가와 재무 수치의 관계만 보여주는데, 그 재무 수치가 앞으로 나빠질 것으로 예상되는 중이라면 지금 싸 보이는 것이 의미가 없다.</p>
+<p data-ke-size="size16">소형 가치 지수가 수익성 스크린으로 비슷한 문제를 다루는 방식은 <a href="/472">S&amp;P 소형 가치 ETF(IJS)를 정리한 글</a>에서 확인할 수 있다. <b>[사실]</b></p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">리밸런싱을 날짜가 아니라 조건으로 한다</h2>
+<p data-ke-size="size16"><b>SVAL의 지수는 매월 검토하되, 조건이 충족될 때만 재조정한다.</b> <b>[사실]</b></p>
+<p data-ke-size="size16">먼저 가치 복합 점수 상위 <b>250종</b>을 <b>동일가중</b>으로 담아 목표 구성(Target Index)을 만든다. 산업 노출은 <b>목표 구성과 모지수의 차이가 5% 미만</b>이 되도록 제한한다. 이후 매월 다음을 확인한다. <b>[사실]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>리밸런싱 발동 조건 (하나라도 충족 시)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>산업 비중이 모지수 대비 <b>10% 넘게</b> 벌어졌을 때</td>
+</tr>
+<tr>
+<td>지수의 복합 점수가 <b>목표 구성의 90% 미만</b>으로 떨어졌을 때</td>
+</tr>
+<tr>
+<td>구성종목이 <b>200종 미만</b>이 됐을 때</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16"><b>[사실]</b> 어느 조건도 충족되지 않으면 <b>구성종목과 비중을 그대로 둔다.</b> 요약투자설명서는 이 지수가 <b>250종보다 적은 종목을 담을 수 있고, 상당 기간 리밸런싱하지 않을 수 있다</b>고 명시한다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 정기 리밸런싱은 시장이 조용해도 정해진 날에 매매를 발생시킨다. 조건부 방식은 <b>필요할 때만</b> 움직이므로 회전율과 거래비용이 낮아질 수 있다. 대신 <b>구성이 목표에서 벗어난 상태로 오래 유지</b>될 수 있다. 특히 동일가중으로 시작했더라도 시간이 지나면 <b>오른 종목의 비중이 커진 상태</b>가 된다.</p>
+<p></p>
+[애드센스 본문 중간 광고 코드 삽입]
+
+<h2 data-ke-size="size26">최소변동성과 퀄리티는 어떻게 다른가요?</h2>
+<p data-ke-size="size16"><b>SMMV와 SQLT는 MSCI 계열이며 방식이 각각 다르다.</b> <b>[사실]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>구분</th>
+<th>SMMV</th>
+<th>SQLT</th>
+<th>SVAL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수 제공사</td>
+<td>MSCI</td>
+<td>MSCI</td>
+<td><b>FTSE Russell</b></td>
+</tr>
+<tr>
+<td>모지수</td>
+<td colspan="2">MSCI USA Small Cap<br>(미국 유동시총의 <b>약 14%</b>)</td>
+<td>Russell 2000</td>
+</tr>
+<tr>
+<td>구성 방식</td>
+<td><b>최적화</b></td>
+<td>점수 &times; 모지수 비중</td>
+<td><b>동일가중</b></td>
+</tr>
+<tr>
+<td>점검 주기</td>
+<td>분기</td>
+<td>반기</td>
+<td><b>월간 검토&middot;조건부</b></td>
+</tr>
+<tr>
+<td>개별 상한</td>
+<td>제약 조건으로 관리</td>
+<td><b>5%</b></td>
+<td>동일가중</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">SMMV &mdash; 회전율에 상한이 걸려 있다</h3>
+<p data-ke-size="size16">SMMV의 기초지수는 모지수를 <b>최적화</b>해 절대 변동성이 가장 낮은 포트폴리오를 만든다. <b>[사실]</b> 이때 회전율, 개별 종목과 섹터의 최소&middot;최대 비중, 유동성과 재무 레버리지 같은 팩터 제약이 함께 적용된다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 특히 <b>분기 재구성 때마다 단방향 회전율이 5%로 제한</b>된다. 한 번에 포트폴리오의 5%까지만 교체할 수 있다는 뜻이다.</p>
+<p data-ke-size="size16"><b>[판단]</b> 해석: 소형주는 거래 비용이 크다. 최적화 결과가 매 분기 크게 달라지면 그 비용이 성과를 갉아먹는다. 회전율 상한은 <b>최적화의 이상적 결과를 일부 포기하고 거래비용을 잡는</b> 절충이다. 최소변동성 최적화의 원리와 한계는 <a href="/370">최소변동성 ETF(USMV)를 정리한 글</a>에서 다뤘다.</p>
+<h3 data-ke-size="size23">SQLT &mdash; 대형주와 같은 3변수</h3>
+<p data-ke-size="size16">SQLT의 퀄리티 3변수는 <b>높은 자기자본이익률, 낮은 이익 변동성, 낮은 레버리지</b>다. <b>[사실]</b> 같은 GICS 섹터 안의 동종 기업과 비교해 점수를 매기고, 점수에 모지수 비중을 곱한 뒤 <b>섹터 비중이 모지수와 같아지도록 정규화</b>한다. 개별 발행자는 <b>5%</b>로 제한되며 <b>반기</b>마다 리밸런싱한다. 2026년 2월 24일 기준 구성종목은 <b>490종</b>이었다.</p>
+<p data-ke-size="size16"><b>[사실]</b> 이 3변수는 대형주 퀄리티 지수와 동일하다. 그 구조는 <a href="/374">미국 퀄리티 팩터 ETF(QUAL)를 정리한 글</a>에서 다뤘다. <b>즉 SQLT는 같은 잣대를 소형주 구간에 적용한 것</b>이며, SVAL처럼 사전 스크린을 따로 두지는 않는다. <b>[판단]</b></p>
+
+<h2 data-ke-size="size26">어떤 순서로 확인해야 하나요?</h2>
+<p data-ke-size="size16"><b>사전 스크린 유무 &rarr; 리밸런싱 방식 &rarr; 가중 방식 &rarr; 기존 보유와의 중복 &rarr; 계좌&middot;과세</b> 순이다. <b>[판단]</b></p>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>목적</th>
+<th>대응 유형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>소형 가치의 함정을 피하고 싶다</td>
+<td><b>SVAL</b> &mdash; 유동성&middot;변동성&middot;레버리지 사전 배제</td>
+</tr>
+<tr>
+<td>변동성 자체를 낮추고 싶다</td>
+<td><b>SMMV</b> &mdash; 최적화</td>
+</tr>
+<tr>
+<td>재무 건전성 기준으로 고르고 싶다</td>
+<td><b>SQLT</b> &mdash; 대형주와 같은 3변수</td>
+</tr>
+<tr>
+<td>정기적인 재조정을 원한다</td>
+<td><b>SMMV&middot;SQLT</b> &mdash; SVAL은 조건부</td>
+</tr>
+<tr>
+<td>동일가중을 원한다</td>
+<td><b>SVAL</b></td>
+</tr>
+<tr>
+<td>세제혜택 계좌를 쓰고 싶다</td>
+<td>국내 상장 상품 내에서 선택</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">소형주 팩터 ETF 확인 우선순위</h3>
+<table data-ke-align="alignLeft">
+<thead>
+<tr>
+<th>순서</th>
+<th>확인 항목</th>
+<th>중요도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>팩터 이전의 <b>사전 스크린</b> 유무</td>
+<td><b>최우선</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>리밸런싱이 <b>정기인지 조건부인지</b></td>
+<td><b>매우 높음</b></td>
+</tr>
+<tr>
+<td>3</td>
+<td>가중 방식(동일가중&middot;점수&middot;최적화)</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>4</td>
+<td>보유 중인 소형주 ETF와 중복</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>5</td>
+<td>계좌&middot;과세&middot;환율 영향</td>
+<td>높음</td>
+</tr>
+<tr>
+<td>6</td>
+<td>회전율 상한과 산업 노출 제약</td>
+<td>참고</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">확인 체크리스트</h3>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>팩터 지표 <b>이전에 걸러내는 단계</b>가 있는지 확인했는가</li>
+<li><b>유동성&middot;변동성&middot;레버리지</b> 스크린이 적용되는지 확인했는가</li>
+<li><b>센티먼트(EPS 전망 조정)</b>가 반영되는지 확인했는가</li>
+<li>리밸런싱이 <b>조건부</b>여서 오래 유지될 수 있음을 이해했는가</li>
+<li>동일가중으로 시작해도 <b>시간이 지나면 비중이 달라진다</b>는 점을 인지했는가</li>
+<li>구성종목이 <b>목표 수보다 적을 수 있음</b>을 확인했는가</li>
+<li><b>회전율 상한</b>이 최적화 결과를 제한할 수 있음을 이해했는가</li>
+<li>퀄리티 3변수가 <b>대형주와 동일</b>한지 확인했는가</li>
+<li>소형주가 미국 유동시총의 <b>약 14%</b> 구간임을 인지했는가</li>
+<li>소형주는 <b>거래비용과 유동성 위험</b>이 크다는 점을 확인했는가</li>
+<li>보유 중인 <b>소형주&middot;팩터 ETF와 중복</b>되는지 점검했는가</li>
+<li>환헤지가 없어 <b>환율 변동이 그대로 반영</b>됨을 인지했는가</li>
+<li>매수 계좌가 <b>일반계좌</b>인지(연금&middot;ISA는 미국 상장 편입 불가) 확인했는가</li>
+<li>총보수&middot;순자산&middot;구성 비중&middot;종목 수는 <b>발행 시점 운용사 자료</b>에서 직접 확인할 것인가</li>
+</ul>
+
+<h2 data-ke-size="size26">자주 묻는 질문</h2>
+<h3 data-ke-size="size23">소형주 팩터는 대형주 팩터와 다른가요?</h3>
+<p data-ke-size="size16">지표는 같을 수 있지만 사전 스크린이 다르다. SVAL은 가치 지표를 보기 전에 유동성&middot;변동성&middot;레버리지 상위 구간을 제외한다. <b>[사실]</b></p>
+<h3 data-ke-size="size23">애널리스트 전망 조정을 왜 보나요?</h3>
+<p data-ke-size="size16">지금 싸 보여도 실적 전망이 계속 내려가는 중이면 의미가 없기 때문이다. 하향 조정이 상향보다 많은 기업은 제외된다. <b>[사실/판단]</b></p>
+<h3 data-ke-size="size23">조건부 리밸런싱은 장점인가요?</h3>
+<p data-ke-size="size16">회전율과 거래비용을 낮출 수 있다. 다만 구성이 목표에서 벗어난 상태로 오래 유지될 수 있고, 동일가중이 무너진 채로 남을 수 있다. <b>[판단]</b></p>
+<h3 data-ke-size="size23">회전율 상한 5%는 무엇을 뜻하나요?</h3>
+<p data-ke-size="size16">분기 재구성 때 포트폴리오의 5%까지만 교체한다는 뜻이다. 최적화 결과를 일부 포기하고 거래비용을 줄이는 절충이다. <b>[사실/판단]</b></p>
+<h3 data-ke-size="size23">연금계좌에서 담을 수 있나요?</h3>
+<p data-ke-size="size16">미국 상장 상품은 불가하다. 국내 상장 소형주 관련 ETF 중에서 선택해야 한다. <b>[사실]</b></p>
+
+<h2 data-ke-size="size26">핵심 요약</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li><b>SVAL</b>은 가치 지표 이전에 <b>유동성&middot;변동성&middot;레버리지 상위 20%씩</b>을 제외한다. <b>[사실]</b></li>
+<li>여기에 <b>EPS 전망 하향이 상향보다 많은 기업</b>도 센티먼트 점수로 배제한다. <b>[사실]</b></li>
+<li>가치 3지표는 <b>주가순자산비율&middot;주가수익비율&middot;주가 대비 영업현금흐름</b>이며 상위 <b>250종을 동일가중</b>한다. <b>[사실]</b></li>
+<li>리밸런싱은 <b>월간 검토 후 세 조건 중 하나가 충족될 때만</b> 이뤄지며, 아니면 그대로 유지된다. <b>[사실]</b></li>
+<li><b>SMMV</b>는 최적화 방식이며 분기마다 <b>단방향 회전율 5% 상한</b>이 적용된다. <b>[사실]</b></li>
+<li><b>SQLT</b>의 퀄리티 3변수는 대형주 퀄리티 지수와 <b>동일</b>하며 2026-02-24 기준 <b>490종</b>이었다. <b>[사실]</b></li>
+<li>MSCI 소형주 모지수는 미국 유동시총의 <b>약 14%</b>를 차지한다. <b>[사실]</b></li>
+<li>미국 직접 매수는 <b>양도세 22%&middot;250만 원 공제</b>, 분배금은 <b>15.4%</b>다. <b>[사실/판단]</b></li>
+</ul>
+
+<h2 data-ke-size="size26">관련 글</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li><a href="/370">최소변동성 최적화의 원리와 한계를 정리한 USMV 글</a></li>
+<li><a href="/374">퀄리티 팩터 3변수와 섹터 중립 구조를 정리한 QUAL 글</a></li>
+<li><a href="/472">수익성 스크린을 적용한 S&amp;P 소형 가치 ETF(IJS) 글</a></li>
+<li><a href="/501">미국 소형주 ETF의 지수 방식과 선별 기준 차이를 비교한 글</a></li>
+</ul>
+
+<h2 data-ke-size="size26">자료 출처</h2>
+<ul style="list-style-type: disc;" data-ke-list-type="disc">
+<li>iShares (BlackRock) &mdash; SVAL 요약투자설명서(2026-07-31), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1100663/000119312526327897/d10006d497k.htm" target="_blank" rel="noopener">sec.gov SVAL 497K</a></li>
+<li>iShares (BlackRock) &mdash; SMMV 요약투자설명서(2025-11-28), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1100663/000119312525302140/d81047d497k.htm" target="_blank" rel="noopener">sec.gov SMMV 497K</a></li>
+<li>iShares (BlackRock) &mdash; SQLT 요약투자설명서(2026-03-31), SEC EDGAR 제출본: <a href="https://www.sec.gov/Archives/edgar/data/1100663/000119312526134106/d149901d497k.htm" target="_blank" rel="noopener">sec.gov SQLT 497K</a></li>
+<li>과세 기준: 소득세법(해외주식 양도소득세&middot;배당소득세) / 국세청. 세율&middot;공제는 규정값이며 개인별 적용은 상이하다.</li>
+</ul>
+
+<h2 data-ke-size="size26">위험 고지</h2>
+<p data-ke-size="size16">이 글은 정보 제공 목적이며 특정 상품의 매수&middot;매도를 권유하지 않는다. 소형주는 대형주보다 변동성이 크고 유동성이 낮아 시장 스트레스 국면에서 거래 조건이 불리해질 수 있으며, 개별 기업의 사업 기반이 취약해 실적 악화 시 하락 폭이 클 수 있다. 팩터 전략은 특정 국면에서 시장 지수보다 장기간 부진할 수 있고, 사전 스크린이 손실을 막아주지는 않는다. 애널리스트 전망 조정은 예측이며 실제 실적과 다를 수 있다. 조건부 리밸런싱 구조에서는 구성이 목표에서 벗어난 상태로 오래 유지될 수 있고, 동일가중이 시간이 지나면서 무너질 수 있으며, 구성종목 수가 목표보다 적을 수 있다. 회전율 상한은 최적화 결과를 제한할 수 있다. 표본추출 방식은 지수 전 종목을 보유하지 않을 수 있어 추적 차이가 발생할 수 있다. 환헤지가 없어 환율 변동이 성과에 직접 반영된다. 총보수&middot;순자산&middot;구성종목 비중&middot;수익률&middot;종목 수는 시점에 따라 변동하므로, 투자 판단 전 <b>운용사 공식 자료&middot;지수 방법론&middot;SEC 제출 문서&middot;국세청 등 1차 출처의 발행 시점 최신 정보</b>를 직접 확인해야 한다. 세금은 개인의 소득&middot;계좌&middot;거주지 상황에 따라 달라지며, 구체적 사안은 세무 전문가와 상담이 필요하다. 투자 결과의 책임은 투자자 본인에게 있다.</p>

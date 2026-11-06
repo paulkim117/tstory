@@ -1,0 +1,91 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-06T03:35:00+09:00",
+    "datePublished": "2026-11-06T03:34:17+09:00",
+    "description": "FSMB는 지수를 따르지 않는 미국 단기 지방채 ETF다. 가중평균 듀레이션 1~3년을 목표로 하고, 최소 10개 주 이상의 발행자에 투자하며, 인구가 늘고 고용이 건전한 주를 우선한다고 요약투자설명서에 적혀 있다. 지수형 대표 상품인 MUB와 무엇이 다른지 1차 출처로 대조했다.FSMB는 어떤 ETF인가요?액티브 운용 상품이다. 추종하는 기초지수가 없다. 운용사 First Trust Advisors L.P.가 직접 종목을 고른다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund III, CIK 0001424212) 기준으로 확인한 기본 골격은 아래와 같다. 확인일은 2026년 11월 8일이다.항목내용운용 방식액티브. 기초지수 없음80% 정..",
+    "headline": "FSMB ETF란? MUB와 차이, 인구·고용을 보는 단기 지방채 선정 기준",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/777",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/777"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-fsmb"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "FSMB는 지수를 따르지 않는 미국 단기 지방채 ETF다. 듀레이션 1~3년 목표, 최소 10개 주 분산, 인구 증가·고용 추세를 선정 기준에 넣는다. MUB와 무엇이 다른지 1차 출처로 대조했다.",
+        "headline": "FSMB ETF란? MUB와 차이, 인구·고용을 보는 단기 지방채 선정 기준",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-mub"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-fsmb",
+        "@type": "Thing",
+        "description": "기초지수 없이 운용되는 미국 단기 지방채 ETF. 가중평균 듀레이션 1~3년을 목표로 하며, 최소 10개 주 이상의 발행자에 투자하고 하이일드를 순자산의 35%까지 담을 수 있다. NYSE Arca 상장, 2018년 11월 1일 설정.",
+        "name": "First Trust Short Duration Managed Municipal ETF (FSMB)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-mub",
+        "@type": "Thing",
+        "description": "ICE AMT-Free US National Municipal Index를 추종하는 미국 지방채 ETF. 지수가 AMT 대상 채권을 배제하며 최소 발행잔액 1,500만 달러 요건을 둔다.",
+        "name": "iShares National Muni Bond ETF (MUB)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-05",
+  "body_html_length": 8398,
+  "canonical_url": "https://mystock-note.tistory.com/777",
+  "content_hash": "821e937182dd08d63fa59ab9b964d19dccf6ca8d26e5b4bdf824870c1d8808ca",
+  "json_ld_count": 2,
+  "meta_description": "FSMB는 지수를 따르지 않는 미국 단기 지방채 ETF다. 가중평균 듀레이션 1~3년을 목표로 하고, 최소 10개 주 이상의 발행자에 투자하며, 인구가 늘고 고용이 건전한 주를 우선한다고 요약투자설명서에 적혀 있다. 지수형 대표 상품인 MUB와 무엇이 다른지 1차 출처로 대조했다.FSMB는 어떤 ETF인가요?액티브 운용 상품이다. 추종하는 기초지수가 없다. 운용사 First Trust Advisors L.P.가 직접 종목을 고른다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund III, CIK 0001424212) 기준으로 확인한 기본 골격은 아래와 같다. 확인일은 2026년 11월 8일이다.항목내용운용 방식액티브. 기초지수 없음80% 정..",
+  "modified_time": "2026-11-06T03:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "FSMB는 지수를 따르지 않는 미국 단기 지방채 ETF다. 가중평균 듀레이션 1~3년을 목표로 하고, 최소 10개 주 이상의 발행자에 투자하며, 인구가 늘고 고용이 건전한 주를 우선한다고 요약투자설명서에 적혀 있다. 지수형 대표 상품인 MUB와 무엇이 다른지 1차 출처로 대조했다.FSMB는 어떤 ETF인가요?액티브 운용 상품이다. 추종하는 기초지수가 없다. 운용사 First Trust Advisors L.P.가 직접 종목을 고른다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund III, CIK 0001424212) 기준으로 확인한 기본 골격은 아래와 같다. 확인일은 2026년 11월 8일이다.항목내용운용 방식액티브. 기초지수 없음80% 정..",
+  "og_title": "FSMB ETF란? MUB와 차이, 인구·고용을 보는 단기 지방채 선정 기준",
+  "post_id": "777",
+  "published_time": "2026-11-06T03:34:17+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FSMB ETF란? MUB와 차이, 인구·고용을 보는 단기 지방채 선정 기준",
+  "url": "https://mystock-note.tistory.com/777"
+}

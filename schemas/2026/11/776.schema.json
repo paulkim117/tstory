@@ -1,0 +1,96 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-06T02:34:00+09:00",
+    "datePublished": "2026-11-06T02:33:57+09:00",
+    "description": "소형주에 팩터를 적용한 ETF는 대형주 팩터 상품과 구조가 다르다. 팩터 지표를 보기 전에 걸러내는 단계가 따로 있기 때문이다. SVAL은 가치 지표를 계산하기 앞서 세 번 자른다. 거래가 적은 하위 20%를 빼고, 변동성이 큰 상위 20%를 빼고, 빚이 많은 상위 20%를 뺀다. 그러고도 하나가 더 남는다. 애널리스트가 이익 전망을 올린 횟수보다 내린 횟수가 많은 기업도 제외한다. 그 뒤에야 주가순자산비율 같은 가치 지표로 순위를 매긴다. 리밸런싱 방식도 특이해서, 정해진 날짜에 하는 것이 아니라 조건이 충족될 때만 한다. 이 글은 SVAL·SMMV·SQLT 세 상품을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·수익률·구성종목 비중 등 변동 수치는 시점에 따라 달라지므..",
+    "headline": "소형주 팩터 ETF 비교: SVAL·SMMV·SQLT, 팩터를 보기 전에 세 번 걸러낸다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/776",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/776"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "팩터 지표 적용 이전에 유동성·변동성·레버리지·전망 조정으로 사전 배제하는 미국 소형주 팩터 상장지수펀드",
+          "name": "소형주 팩터 ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "소형주 팩터 지수는 팩터 지표만 보지 않는다. SVAL은 유동성·변동성·레버리지 상위 20%씩을 먼저 제외하고 애널리스트 하향 조정 기업도 뺀다. 리밸런싱도 조건부다.",
+        "headline": "소형주 팩터 ETF 비교: SVAL·SMMV·SQLT, 팩터를 보기 전에 세 번 걸러낸다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "소형주 팩터 ETF, SVAL, SMMV, SQLT, Russell 2000 Focused Value, 센티먼트 점수, 조건부 리밸런싱, 회전율 상한, 최소변동성, 퀄리티 팩터, 동일가중, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares US Small Cap Value Factor ETF",
+            "name": "SVAL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI USA Small-Cap Min Vol Factor ETF",
+            "name": "SMMV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI USA Small-Cap Quality Factor ETF",
+            "name": "SQLT"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

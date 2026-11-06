@@ -1,0 +1,101 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-06T01:40:00+09:00",
+    "datePublished": "2026-11-06T01:39:14+09:00",
+    "description": "회사채 ETF를 고를 때 만기와 신용등급을 보는 것은 당연하다. 그런데 그 둘만 보면 놓치는 것이 있다. 지수가 요구하는 발행 규모다. 0~5년 구간의 두 상품을 비교하면 이상한 일이 보인다. 하이일드를 담는 SHYG는 채권 한 종목당 3억 5천만 달러면 편입한다. 반면 투자등급을 담는 SLQD는 발행자의 총 발행 잔액 10억 달러 이상에 더해 채권 한 종목당 5억 달러를 요구한다. 신용이 좋은 쪽의 문턱이 오히려 더 높다. 이 글은 SHYG·SLQD·IGIB·QSIG 네 상품의 편입 요건을 미국 증권거래위원회(SEC) 제출 요약투자설명서로 대조한다. (총보수·순자산·분배율·수익률·듀레이션 등 변동 수치는 시점에 따라 달라지므로 기재하지 않는다.)발행 규모 요건이 등급과 반대로 간다같은 0~5년 구간인데..",
+    "headline": "단기 회사채 ETF 비교: SHYG·SLQD·IGIB·QSIG, 투자등급이 더 까다롭다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/775",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/775"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "등급과 반대 방향으로 작동하는 발행 규모 요건과 발행자 캡을 적용하는 미국 상장 회사채 상장지수펀드",
+          "name": "단기 회사채 ETF"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "0-5년 회사채 지수는 하이일드가 3.5억 달러, 투자등급이 발행자 10억·종목 5억을 요구한다. 신용이 좋은 쪽 문턱이 더 높다. 4개 상품을 1차 출처로 대조했다.",
+        "headline": "단기 회사채 ETF 비교: SHYG·SLQD·IGIB·QSIG, 투자등급이 더 까다롭다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "단기 회사채 ETF, SHYG, SLQD, IGIB, QSIG, 발행 규모 요건, 발행자 캡, 유동성 스크린, 유로달러채, 배당수취공제, 스크린 앤 틸트, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares 0-5 Year High Yield Corporate Bond ETF",
+            "name": "SHYG"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares 0-5 Year Investment Grade Corporate Bond ETF",
+            "name": "SLQD"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+            "name": "IGIB"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "WisdomTree U.S. Short Term Corporate Bond Fund",
+            "name": "QSIG"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
