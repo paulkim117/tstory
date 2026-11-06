@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-06",
+  "body_html_length": 6647,
+  "canonical_url": "https://mystock-note.tistory.com/781",
+  "content_hash": "f2cc86721ce6c5d6524941dd27d0f30872c12ac99c36bbc6885e1d5b4b2497cc",
+  "json_ld_count": 1,
+  "meta_description": "CMDY는 원자재 실물을 사지 않는다. 선물로만 노출을 만들고, 그 선물을 만기마다 갈아타는 과정에서 손익이 따로 발생한다. 이 상품의 기초지수는 백워데이션이 크고 콘탱고가 작은 계약월을 골라 그 손익을 관리한다. 금 실물 ETF와 무엇이 다른지 1차 출처로 정리했다.CMDY는 어떤 ETF인가요?광의 원자재 선물 지수를 추종하는 ETF다. 원자재를 직접 보유하지 않는다. 요약투자설명서는 이 점을 문면에 못 박아 두었다.\"펀드는 자회사를 통해 원자재에 대한 노출을 제공하는 금융상품에 투자하며, 실물 원자재 자체에는 투자하지 않는다.\"2026년 5월 29일자 요약투자설명서(SEC 497K, iShares U.S. ETF Trust, CIK 0001524513)에서 확인한 값이다. 확인일은 2026년 11월 ..",
+  "modified_time": "2026-11-07T03:46:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/781\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/781\",\"headline\":\"CMDY ETF란? 금 실물 ETF와 차이, 선물 롤오버가 수익률을 바꾸는 구조\",\"description\":\"CMDY는 원자재 실물을 사지 않는다. 선물로만 노출을 만들고, 그 선물을 만기마다 갈아타는 과정에서 손익이 따로 발생한다. 이 상품의 기초지수는 백워데이션이 크고 콘탱고가 작은 계약월을 골라 그 손익을 관리한다. 금 실물 ETF와 무엇이 다른지 1차 출처로 정리했다.CMDY는 어떤 ETF인가요?광의 원자재 선물 지수를 추종하는 ETF다. 원자재를 직접 보유하지 않는다. 요약투자설명서는 이 점을 문면에 못 박아 두었다.\"펀드는 자회사를 통해 원자재에 대한 노출을 제공하는 금융상품에 투자하며, 실물 원자재 자체에는 투자하지 않는다.\"2026년 5월 29일자 요약투자설명서(SEC 497K, iShares U.S. ETF Trust, CIK 0001524513)에서 확인한 값이다. 확인일은 2026년 11월 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-07T03:45:19+09:00\",\"dateModified\":\"2026-11-07T03:46:01+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "CMDY는 원자재 실물을 사지 않는다. 선물로만 노출을 만들고, 그 선물을 만기마다 갈아타는 과정에서 손익이 따로 발생한다. 이 상품의 기초지수는 백워데이션이 크고 콘탱고가 작은 계약월을 골라 그 손익을 관리한다. 금 실물 ETF와 무엇이 다른지 1차 출처로 정리했다.CMDY는 어떤 ETF인가요?광의 원자재 선물 지수를 추종하는 ETF다. 원자재를 직접 보유하지 않는다. 요약투자설명서는 이 점을 문면에 못 박아 두었다.\"펀드는 자회사를 통해 원자재에 대한 노출을 제공하는 금융상품에 투자하며, 실물 원자재 자체에는 투자하지 않는다.\"2026년 5월 29일자 요약투자설명서(SEC 497K, iShares U.S. ETF Trust, CIK 0001524513)에서 확인한 값이다. 확인일은 2026년 11월 ..",
+  "og_title": "CMDY ETF란? 금 실물 ETF와 차이, 선물 롤오버가 수익률을 바꾸는 구조",
+  "post_id": "781",
+  "published_time": "2026-11-07T03:45:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CMDY ETF란? 금 실물 ETF와 차이, 선물 롤오버가 수익률을 바꾸는 구조",
+  "url": "https://mystock-note.tistory.com/781"
+}

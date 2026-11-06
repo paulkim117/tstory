@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-rdvy"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "dateModified": "[발행일 YYYY-MM-DD]",
+      "datePublished": "[발행일 YYYY-MM-DD]",
+      "description": "RDVY는 배당 증가를 '몇 년 연속'이 아니라 3년 전·5년 전 두 시점과 대조해 판정한다. 산업 상한도 비중이 아니라 종목 수 15개로 건다. NOBL과 무엇이 다른지 1차 출처로 정리했다.",
+      "headline": "RDVY ETF란? NOBL과 차이, 배당 증가를 3년·5년 두 시점으로 재는 방식",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "url": "https://mystock-note.tistory.com/[POST_ID]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#organization",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-rdvy",
+      "@type": "Thing",
+      "description": "Nasdaq US Rising Dividend Achievers Index를 추종하는 미국 배당주 ETF. 최근 12개월 배당이 3년 전·5년 전 기간보다 많을 것, 주당순이익 흑자이며 3년 전보다 증가할 것, 현금 대 부채 비율 50% 초과, 배당성향 65% 이하를 편입 요건으로 한다. 산업당 최대 15종목, 하위 포트폴리오당 최대 50종목이며 그중 대형주 최소 33종목이다. 네 개의 하위 포트폴리오를 분기마다 재구성하고 매년 3월 리밸런싱에서 각 25%로 되돌린다. 하위 포트폴리오 내 동일 가중이며 순자산의 90% 이상을 지수 구성증권에 투자한다. ICB 분류상 리츠와 모기지 리츠는 배제한다. Nasdaq 상장.",
+      "name": "First Trust Rising Dividend Achievers ETF (RDVY)"
+    }
+  ]
+}

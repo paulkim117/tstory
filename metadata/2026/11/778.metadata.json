@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-06",
+  "body_html_length": 7803,
+  "canonical_url": "https://mystock-note.tistory.com/778",
+  "content_hash": "bb33751451a84efc9f320e1f551d3dfac2a945b0acb5e4bf6008b633684b5c05",
+  "json_ld_count": 1,
+  "meta_description": "SPDR Portfolio 채권 ETF는 저비용을 묶은 시리즈지 지수 계보를 묶은 시리즈가 아니다. 투자등급 4종(SPBO·SPSB·SPIB·SPLB)은 Bloomberg 지수를 쓰는데 하이일드 SPHY만 ICE BofA 지수를 쓴다. 같은 운용사의 또 다른 하이일드 ETF인 JNK는 다시 Bloomberg다. 요약투자설명서 6건을 대조해 어디서 갈리는지 정리했다.SPDR Portfolio 채권 ETF는 무엇을 묶은 시리즈인가요?상품명 앞에 붙은 \"Portfolio\"는 저비용 코어 상품군을 가리키는 브랜드 라벨이다. 어떤 지수를 쓰는지, 어느 회사가 그 지수를 만드는지는 이 라벨이 정하지 않는다.회사채 라인은 다섯 개다. 아래는 각 상품의 요약투자설명서(SEC 497K, SPDR Series Trust,..",
+  "modified_time": "2026-11-07T00:35:04+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/778\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/778\",\"headline\":\"SPDR Portfolio 채권 ETF 비교: SPBO·SPSB·SPIB·SPLB·SPHY 지수사가 갈리는 지점\",\"description\":\"SPDR Portfolio 채권 ETF는 저비용을 묶은 시리즈지 지수 계보를 묶은 시리즈가 아니다. 투자등급 4종(SPBO·SPSB·SPIB·SPLB)은 Bloomberg 지수를 쓰는데 하이일드 SPHY만 ICE BofA 지수를 쓴다. 같은 운용사의 또 다른 하이일드 ETF인 JNK는 다시 Bloomberg다. 요약투자설명서 6건을 대조해 어디서 갈리는지 정리했다.SPDR Portfolio 채권 ETF는 무엇을 묶은 시리즈인가요?상품명 앞에 붙은 \"Portfolio\"는 저비용 코어 상품군을 가리키는 브랜드 라벨이다. 어떤 지수를 쓰는지, 어느 회사가 그 지수를 만드는지는 이 라벨이 정하지 않는다.회사채 라인은 다섯 개다. 아래는 각 상품의 요약투자설명서(SEC 497K, SPDR Series Trust,..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-07T00:34:42+09:00\",\"dateModified\":\"2026-11-07T00:35:04+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "SPDR Portfolio 채권 ETF는 저비용을 묶은 시리즈지 지수 계보를 묶은 시리즈가 아니다. 투자등급 4종(SPBO·SPSB·SPIB·SPLB)은 Bloomberg 지수를 쓰는데 하이일드 SPHY만 ICE BofA 지수를 쓴다. 같은 운용사의 또 다른 하이일드 ETF인 JNK는 다시 Bloomberg다. 요약투자설명서 6건을 대조해 어디서 갈리는지 정리했다.SPDR Portfolio 채권 ETF는 무엇을 묶은 시리즈인가요?상품명 앞에 붙은 \"Portfolio\"는 저비용 코어 상품군을 가리키는 브랜드 라벨이다. 어떤 지수를 쓰는지, 어느 회사가 그 지수를 만드는지는 이 라벨이 정하지 않는다.회사채 라인은 다섯 개다. 아래는 각 상품의 요약투자설명서(SEC 497K, SPDR Series Trust,..",
+  "og_title": "SPDR Portfolio 채권 ETF 비교: SPBO·SPSB·SPIB·SPLB·SPHY 지수사가 갈리는 지점",
+  "post_id": "778",
+  "published_time": "2026-11-07T00:34:42+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPDR Portfolio 채권 ETF 비교: SPBO·SPSB·SPIB·SPLB·SPHY 지수사가 갈리는 지점",
+  "url": "https://mystock-note.tistory.com/778"
+}

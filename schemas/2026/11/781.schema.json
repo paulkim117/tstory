@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-cmdy"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "dateModified": "[발행일 YYYY-MM-DD]",
+      "datePublished": "[발행일 YYYY-MM-DD]",
+      "description": "CMDY는 원자재 실물을 사지 않는다. 선물로만 노출을 만들고, 백워데이션이 크고 콘탱고가 작은 계약월을 골라 담는다. 롤오버가 왜 수익률을 바꾸는지, 실물 ETF와 무엇이 다른지 1차 출처로 정리했다.",
+      "headline": "CMDY ETF란? 금 실물 ETF와 차이, 선물 롤오버가 수익률을 바꾸는 구조",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "url": "https://mystock-note.tistory.com/[POST_ID]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#organization",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-cmdy",
+      "@type": "Thing",
+      "description": "Bloomberg Roll Select Commodity Total Return Index를 추종하는 광의 원자재 ETF. 23개 원자재에 대한 25개 선물 계약으로 구성되며 실물 원자재는 보유하지 않는다. 기초지수는 백워데이션 정도가 크고 콘탱고 정도가 작은 계약월을 우선하는 양의 캐리 전략을 쓴다. 미국 세법상 투자회사의 원자재 직접 투자 제한 때문에 케이맨 제도 소재 100% 자회사를 통해 보유하며 한도는 총자산의 25%다. 담보로 현금·현금등가물·단기 정부채·단기 투자등급 채권을 보유하고 지수는 연 1회 리밸런싱한다.",
+      "name": "iShares Bloomberg Roll Select Commodity Strategy ETF (CMDY)"
+    }
+  ]
+}

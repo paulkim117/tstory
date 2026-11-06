@@ -1,0 +1,118 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-07T01:36:00+09:00",
+    "datePublished": "2026-11-07T01:35:08+09:00",
+    "description": "JPMorgan BetaBuilders 국가·지역 ETF 네 종목은 운용사가 펀드 운영비를 대신 내는 통합 보수 구조다. 예외 목록에 취득펀드 보수가 들어 있는데, 그 예외에 다시 예외가 붙는다. 자사·계열 펀드에서 나온 보수는 운용사가 도로 부담한다. 요약투자설명서 4건을 대조해 이 구조와 각 상품의 국가 범위를 정리했다.BetaBuilders는 어떤 시리즈인가요?JPMorgan이 만든 저비용 지수 추종 상품군이다. 국가·지역 라인은 아래 네 종목이다.각 상품의 요약투자설명서(SEC 497K, J.P. Morgan Exchange-Traded Fund Trust, CIK 0001485894)에서 직접 확인한 값이다. 확인일은 2026년 11월 8일이다.티커기초지수대상 시장BBCAMorningstar C..",
+    "headline": "BetaBuilders ETF 비교: BBCA·BBJP·BBEU·BBAX 통합 보수와 선진국 범위 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/779",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/779"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-betabuilders"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "JPMorgan BetaBuilders 4종은 운용사가 펀드 비용을 떠안는 통합 보수 구조다. 다만 취득펀드 보수는 예외이고, 그 예외에 다시 예외가 있다. 국가 범위도 지수 제공사 분류를 따른다. 요약투자설명서 4건을 대조했다.",
+        "headline": "BetaBuilders ETF 비교: BBCA·BBJP·BBEU·BBAX 통합 보수와 선진국 범위 차이",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbca"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbjp"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbeu"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbax"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-betabuilders",
+        "@type": "Thing",
+        "description": "Morningstar Target Market Exposure 지수를 추종하는 JPMorgan의 저비용 지수 상품군. 운용사가 펀드 운영비를 부담하는 통합 보수 구조를 쓰며, 취득펀드 보수는 예외이되 운용사·계열사가 운용하는 펀드의 보수는 다시 운용사가 부담한다. 각 지수는 대상 시장 시가총액의 85%를 목표로 하고 유동주식 조정 시가총액으로 가중하며 분기마다 리밸런싱한다.",
+        "name": "JPMorgan BetaBuilders 국가·지역 ETF 시리즈"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbca",
+        "@type": "Thing",
+        "description": "Morningstar Canada Target Market Exposure Index 추종. 토론토 증권거래소 상장 주식을 대상으로 하는 단일 국가 상품.",
+        "name": "JPMorgan BetaBuilders Canada ETF (BBCA)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbjp",
+        "@type": "Thing",
+        "description": "Morningstar Japan Target Market Exposure Index 추종. 일본 단일 국가 상품이다.",
+        "name": "JPMorgan BetaBuilders Japan ETF (BBJP)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbeu",
+        "@type": "Thing",
+        "description": "Morningstar Developed Europe Target Market Exposure Index 추종. 오스트리아·벨기에·덴마크·핀란드·프랑스·독일·아일랜드·이탈리아·네덜란드·노르웨이·폴란드·포르투갈·스페인·스웨덴·스위스·영국 16개국이 대상이다.",
+        "name": "JPMorgan BetaBuilders Europe ETF (BBEU)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-bbax",
+        "@type": "Thing",
+        "description": "Morningstar Developed Asia Pacific ex-Japan Target Market Exposure Index 추종. 호주·홍콩·뉴질랜드·싱가포르가 대상이다.",
+        "name": "JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF (BBAX)"
+      }
+    ]
+  }
+]

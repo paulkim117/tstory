@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-spdr-portfolio-bond"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "dateModified": "[발행일 YYYY-MM-DD]",
+      "datePublished": "[발행일 YYYY-MM-DD]",
+      "description": "SPDR Portfolio 채권 ETF는 저비용을 묶은 시리즈지 지수 계보를 묶은 시리즈가 아니다. 투자등급 4종은 Bloomberg, 하이일드 SPHY만 ICE BofA 지수를 쓴다. 요약투자설명서 6건을 대조했다.",
+      "headline": "SPDR Portfolio 채권 ETF 비교: SPBO·SPSB·SPIB·SPLB·SPHY 지수사가 갈리는 지점",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "mentions": [
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spbo"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spsb"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spib"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-splb"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-sphy"
+        },
+        {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-jnk"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "url": "https://mystock-note.tistory.com/[POST_ID]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#organization",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-spdr-portfolio-bond",
+      "@type": "Thing",
+      "description": "State Street의 저비용 코어 채권 ETF 라인. 투자등급 4종은 Bloomberg Index Services Limited의 지수를, 하이일드 1종은 ICE Data Indices의 지수를 추종한다. 다섯 상품 모두 표본추출 방식이며 총자산의 최소 80%를 지수 구성증권에 투자한다.",
+      "name": "SPDR Portfolio 채권 ETF 시리즈"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spbo",
+      "@type": "Thing",
+      "description": "Bloomberg U.S. Corporate Bond Index 추종. 잔존만기 1년 이상 상한 없음, 최소 발행잔액 3억 달러, 등급은 3개사 중간 등급으로 Baa3/BBB- 이상.",
+      "name": "State Street SPDR Portfolio Corporate Bond ETF (SPBO)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spsb",
+      "@type": "Thing",
+      "description": "Bloomberg U.S. 1-3 Year Corporate Bond Index 추종. 잔존만기 1년 이상 3년 미만, 최소 발행잔액 3억 달러, 등급은 3개사 중간 등급으로 Baa3/BBB- 이상.",
+      "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF (SPSB)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-spib",
+      "@type": "Thing",
+      "description": "Bloomberg U.S. Intermediate Corporate Bond Index 추종. 잔존만기 1년 이상 10년 미만으로 SPSB 구간을 포함한다. 최소 발행잔액 3억 달러.",
+      "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF (SPIB)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-splb",
+      "@type": "Thing",
+      "description": "Bloomberg U.S. Long Term Corporate Bond Index 추종. 잔존만기 10년 이상, 최소 발행잔액 3억 달러, 144A 등록권부 증권 편입 가능.",
+      "name": "State Street SPDR Portfolio Long Term Corporate Bond ETF (SPLB)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-sphy",
+      "@type": "Thing",
+      "description": "ICE BofA US High Yield Index 추종. 시리즈 내 유일하게 ICE Data Indices 지수를 쓴다. 등급은 3개사 평균으로 투자등급 미만, 최소 발행잔액 2억 5,000만 달러, 발행 시 18개월 이상 잔존.",
+      "name": "State Street SPDR Portfolio High Yield Bond ETF (SPHY)"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-jnk",
+      "@type": "Thing",
+      "description": "Bloomberg High Yield Very Liquid Index 추종. 최소 발행잔액 5억 달러, 만기 15년 상한, 평균 이상 유동성 요구, 발행자당 2% 상한. 등급은 3개사 중간 등급으로 Ba1/BB+ 이하.",
+      "name": "State Street SPDR Bloomberg High Yield Bond ETF (JNK)"
+    }
+  ]
+}

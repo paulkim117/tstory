@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-06",
+  "body_html_length": 7261,
+  "canonical_url": "https://mystock-note.tistory.com/780",
+  "content_hash": "26f03a7302dd153d1d359704f768cb569afd15327b76998d6f0daa944bd95d17",
+  "json_ld_count": 1,
+  "meta_description": "RDVY는 배당이 늘었는지를 \"몇 년 연속\"으로 세지 않는다. 최근 12개월 배당을 3년 전·5년 전 두 시점과 각각 대조한다. 포트폴리오 통제도 비중이 아니라 개수로 한다. 산업당 최대 15종목, 하위 포트폴리오당 최대 50종목, 그중 대형주 최소 33종목이다. 연속 배당 증가 기업을 담는 NOBL과 어디서 갈리는지 1차 출처로 정리했다.RDVY는 어떤 ETF인가요?Nasdaq US Rising Dividend Achievers Index를 추종하는 미국 배당주 ETF다. 지수 제공사는 Nasdaq, Inc.이고 운용사는 First Trust Advisors L.P.다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 000..",
+  "modified_time": "2026-11-07T02:36:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/780\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/780\",\"headline\":\"RDVY ETF란? NOBL과 차이, 배당 증가를 3년·5년 두 시점으로 재는 방식\",\"description\":\"RDVY는 배당이 늘었는지를 \"몇 년 연속\"으로 세지 않는다. 최근 12개월 배당을 3년 전·5년 전 두 시점과 각각 대조한다. 포트폴리오 통제도 비중이 아니라 개수로 한다. 산업당 최대 15종목, 하위 포트폴리오당 최대 50종목, 그중 대형주 최소 33종목이다. 연속 배당 증가 기업을 담는 NOBL과 어디서 갈리는지 1차 출처로 정리했다.RDVY는 어떤 ETF인가요?Nasdaq US Rising Dividend Achievers Index를 추종하는 미국 배당주 ETF다. 지수 제공사는 Nasdaq, Inc.이고 운용사는 First Trust Advisors L.P.다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 000..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-07T02:35:30+09:00\",\"dateModified\":\"2026-11-07T02:36:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "RDVY는 배당이 늘었는지를 \"몇 년 연속\"으로 세지 않는다. 최근 12개월 배당을 3년 전·5년 전 두 시점과 각각 대조한다. 포트폴리오 통제도 비중이 아니라 개수로 한다. 산업당 최대 15종목, 하위 포트폴리오당 최대 50종목, 그중 대형주 최소 33종목이다. 연속 배당 증가 기업을 담는 NOBL과 어디서 갈리는지 1차 출처로 정리했다.RDVY는 어떤 ETF인가요?Nasdaq US Rising Dividend Achievers Index를 추종하는 미국 배당주 ETF다. 지수 제공사는 Nasdaq, Inc.이고 운용사는 First Trust Advisors L.P.다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 000..",
+  "og_title": "RDVY ETF란? NOBL과 차이, 배당 증가를 3년·5년 두 시점으로 재는 방식",
+  "post_id": "780",
+  "published_time": "2026-11-07T02:35:30+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "RDVY ETF란? NOBL과 차이, 배당 증가를 3년·5년 두 시점으로 재는 방식",
+  "url": "https://mystock-note.tistory.com/780"
+}
