@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-07",
+  "body_html_length": 6679,
+  "canonical_url": "https://mystock-note.tistory.com/782",
+  "content_hash": "e8913ed49eb45949c94b64241604bd39de2826486e84f0d0dcf5f1636bae38fd",
+  "json_ld_count": 2,
+  "meta_description": "EVMT의 기준 지수는 금속 비중을 시가총액이나 생산량으로 정하지 않는다. 대표적인 전기차 한 대 안에서 각 금속이 차지하는 상대적 사용량으로 정한다. 다만 유동성 조정이 붙고, 펀드 자체는 그 지수를 추종하지도 않는다. 리튬·배터리 기업 주식 ETF와 무엇이 다른지 1차 출처로 정리했다.EVMT는 어떤 ETF인가요?전기차에 쓰이는 금속의 선물에 투자하는 액티브 ETF다. 기준으로 삼는 지수는 있지만 그 지수를 따라가는 상품은 아니다.2026년 2월 27일자 요약투자설명서(SEC 497K, Invesco Actively Managed Exchange-Traded Commodity Fund Trust, CIK 0001595386)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용운용 방식액티..",
+  "modified_time": "2026-11-08T00:46:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "EVMT의 기준 지수는 금속 비중을 시가총액이나 생산량으로 정하지 않는다. 대표적인 전기차 한 대 안에서 각 금속이 차지하는 상대적 사용량으로 정한다. 다만 유동성 조정이 붙고, 펀드 자체는 그 지수를 추종하지도 않는다. 리튬·배터리 기업 주식 ETF와 무엇이 다른지 1차 출처로 정리했다.EVMT는 어떤 ETF인가요?전기차에 쓰이는 금속의 선물에 투자하는 액티브 ETF다. 기준으로 삼는 지수는 있지만 그 지수를 따라가는 상품은 아니다.2026년 2월 27일자 요약투자설명서(SEC 497K, Invesco Actively Managed Exchange-Traded Commodity Fund Trust, CIK 0001595386)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용운용 방식액티..",
+  "og_title": "EVMT ETF란? LIT와 차이, 전기차 1대의 금속 사용량으로 비중을 정하는 구조",
+  "post_id": "782",
+  "published_time": "2026-11-08T00:45:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EVMT ETF란? LIT와 차이, 전기차 1대의 금속 사용량으로 비중을 정하는 구조",
+  "url": "https://mystock-note.tistory.com/782"
+}

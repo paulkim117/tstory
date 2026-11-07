@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-07",
+  "body_html_length": 6846,
+  "canonical_url": "https://mystock-note.tistory.com/783",
+  "content_hash": "a5c6322674ad666ec0e4f5874596e528e831cda512d3d13b9b7cefbf7cc30a82",
+  "json_ld_count": 2,
+  "meta_description": "AFGR은 2026년 6월에 이름이 바뀐 상품이다. 그런데 바뀐 것이 이름만이 아니다. 티커가 바뀌었고, 종목을 고르던 외부 운용사 두 곳이 빠졌으며, 80% 정책이 가리키는 대상도 좁아졌다. 변경 전후의 요약투자설명서 두 건과 변경 보충서를 대조해 정리했다.AFGR은 어떤 ETF인가요?미국 대형 성장주에 투자하는 액티브 ETF다. 기초지수는 없고 운용사가 정량 모형으로 종목을 고른다.2026년 6월 5일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VIII, CIK 0001667919)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용상품명First Trust Active Factor Large Cap Growth ETF운용 방식액티브. 멀..",
+  "modified_time": "2026-11-08T01:47:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AFGR은 2026년 6월에 이름이 바뀐 상품이다. 그런데 바뀐 것이 이름만이 아니다. 티커가 바뀌었고, 종목을 고르던 외부 운용사 두 곳이 빠졌으며, 80% 정책이 가리키는 대상도 좁아졌다. 변경 전후의 요약투자설명서 두 건과 변경 보충서를 대조해 정리했다.AFGR은 어떤 ETF인가요?미국 대형 성장주에 투자하는 액티브 ETF다. 기초지수는 없고 운용사가 정량 모형으로 종목을 고른다.2026년 6월 5일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VIII, CIK 0001667919)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용상품명First Trust Active Factor Large Cap Growth ETF운용 방식액티브. 멀..",
+  "og_title": "AFGR ETF란? 구 MMLG와 차이, 부운용사 2곳이 사라진 구조 변경",
+  "post_id": "783",
+  "published_time": "2026-11-08T01:46:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AFGR ETF란? 구 MMLG와 차이, 부운용사 2곳이 사라진 구조 변경",
+  "url": "https://mystock-note.tistory.com/783"
+}

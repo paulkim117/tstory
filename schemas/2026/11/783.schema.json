@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-08T01:47:00+09:00",
+    "datePublished": "2026-11-08T01:46:11+09:00",
+    "description": "AFGR은 2026년 6월에 이름이 바뀐 상품이다. 그런데 바뀐 것이 이름만이 아니다. 티커가 바뀌었고, 종목을 고르던 외부 운용사 두 곳이 빠졌으며, 80% 정책이 가리키는 대상도 좁아졌다. 변경 전후의 요약투자설명서 두 건과 변경 보충서를 대조해 정리했다.AFGR은 어떤 ETF인가요?미국 대형 성장주에 투자하는 액티브 ETF다. 기초지수는 없고 운용사가 정량 모형으로 종목을 고른다.2026년 6월 5일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VIII, CIK 0001667919)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용상품명First Trust Active Factor Large Cap Growth ETF운용 방식액티브. 멀..",
+    "headline": "AFGR ETF란? 구 MMLG와 차이, 부운용사 2곳이 사라진 구조 변경",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/783",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/783"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-afgr"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "AFGR은 2026년 6월 First Trust Multi-Manager Large Growth ETF에서 이름이 바뀌었다. 티커도 MMLG에서 바뀌었고, 부운용사 두 곳이 빠지면서 종목을 고르는 주체 자체가 교체됐다. 80% 정책의 대상어도 좁아졌다.",
+        "headline": "AFGR ETF란? 구 MMLG와 차이, 부운용사 2곳이 사라진 구조 변경",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-afgr",
+        "@type": "Thing",
+        "description": "미국 대형 성장주에 투자하는 액티브 ETF. 2026년 6월 5일경 First Trust Multi-Manager Large Growth ETF에서 명칭과 티커가 변경됐으며, 같은 시점에 Wellington Management와 Sands Capital 두 부운용사에 자산을 균등 배분하던 멀티매니저 구조가 폐지되고 운용사가 직접 운용하는 체제로 바뀌었다. 모멘텀·퀄리티·성장 팩터를 쓰는 멀티팩터 정량 모형과 액티브 리스크 관리를 사용하며 팩터 비중은 시장 환경에 따라 주기적으로 조정된다. 80% 정책의 대상은 대형주에서 대형 성장주로 좁아졌다. NYSE Arca 상장, 2020년 7월 21일 설정.",
+        "name": "First Trust Active Factor Large Cap Growth ETF (AFGR)"
+      }
+    ]
+  }
+]

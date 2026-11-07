@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-08T03:48:00+09:00",
+    "datePublished": "2026-11-08T03:47:01+09:00",
+    "description": "AIVL은 가치주를 재무제표만 보고 고르지 않는다. 보도자료와 뉴스 기사 같은 글로 된 자료까지 모델 입력에 넣는다. 그리고 그 모델을 만든 곳은 운용사가 아니라 부운용사다. 지표로 가치를 정의하는 지수형 상품과 무엇이 다른지 1차 출처로 정리했다.AIVL은 어떤 ETF인가요?미국 가치주에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고, 부운용사가 만든 모델이 종목을 고른다.2026년 7월 31일자 요약투자설명서(SEC 497K, WisdomTree Trust, CIK 0001350487)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음운용사WisdomTree Asset Management부운용사Voya Investment Management Co. ..",
+    "headline": "AIVL ETF란? VLUE와 차이, 뉴스 기사까지 읽는 가치 판정 모델",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/785",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/785"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-aivl"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "AIVL은 가치주를 재무제표만으로 고르지 않는다. 보도자료와 뉴스 기사 같은 비구조화 데이터까지 모델 입력에 넣는다. 모델을 만든 곳은 운용사가 아니라 부운용사다. 지표로 가치를 정의하는 지수형 상품과 무엇이 다른지 정리했다.",
+        "headline": "AIVL ETF란? VLUE와 차이, 뉴스 기사까지 읽는 가치 판정 모델",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-aivl",
+        "@type": "Thing",
+        "description": "기초지수 없이 운용되는 미국 가치주 액티브 ETF. 운용사는 WisdomTree Asset Management이며 부운용사 Voya Investment Management Co. LLC가 개발한 독자 AI 모델이 종목을 고른다. 모델은 재무제표 등 구조화 데이터와 보도자료·뉴스 기사 등 비구조화 데이터를 함께 분석해 지속적 패턴을 스스로 식별한다. 가치 판정 기준은 낮은 주가순자산비율, 낮은 주가수익비율, 높은 잉여현금흐름, 또는 제3자 가치 지수 편입 여부다. 모집단은 미국 상장 기업 중 시가총액 1억 달러 이상, 일평균 거래대금 10만 달러 이상, 6개월 누적 일평균 거래량 25만 주 이상이다. 60~190종목을 보유하며 모델 점수로 가중하고 개별 종목은 6%를 상한으로 한다. 월 1회 리밸런싱하며 비분산형으로 분류된다. NYSE Arca 상장.",
+        "name": "WisdomTree U.S. AI Enhanced Value Fund (AIVL)"
+      }
+    ]
+  }
+]

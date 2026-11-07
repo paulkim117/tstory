@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-07",
+  "body_html_length": 6564,
+  "canonical_url": "https://mystock-note.tistory.com/785",
+  "content_hash": "15ea04358cc60be15c587669398a46ccc63a0c64edd4a82c11c2850ec79ccf0e",
+  "json_ld_count": 2,
+  "meta_description": "AIVL은 가치주를 재무제표만 보고 고르지 않는다. 보도자료와 뉴스 기사 같은 글로 된 자료까지 모델 입력에 넣는다. 그리고 그 모델을 만든 곳은 운용사가 아니라 부운용사다. 지표로 가치를 정의하는 지수형 상품과 무엇이 다른지 1차 출처로 정리했다.AIVL은 어떤 ETF인가요?미국 가치주에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고, 부운용사가 만든 모델이 종목을 고른다.2026년 7월 31일자 요약투자설명서(SEC 497K, WisdomTree Trust, CIK 0001350487)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음운용사WisdomTree Asset Management부운용사Voya Investment Management Co. ..",
+  "modified_time": "2026-11-08T03:48:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "AIVL은 가치주를 재무제표만 보고 고르지 않는다. 보도자료와 뉴스 기사 같은 글로 된 자료까지 모델 입력에 넣는다. 그리고 그 모델을 만든 곳은 운용사가 아니라 부운용사다. 지표로 가치를 정의하는 지수형 상품과 무엇이 다른지 1차 출처로 정리했다.AIVL은 어떤 ETF인가요?미국 가치주에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고, 부운용사가 만든 모델이 종목을 고른다.2026년 7월 31일자 요약투자설명서(SEC 497K, WisdomTree Trust, CIK 0001350487)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음운용사WisdomTree Asset Management부운용사Voya Investment Management Co. ..",
+  "og_title": "AIVL ETF란? VLUE와 차이, 뉴스 기사까지 읽는 가치 판정 모델",
+  "post_id": "785",
+  "published_time": "2026-11-08T03:47:01+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AIVL ETF란? VLUE와 차이, 뉴스 기사까지 읽는 가치 판정 모델",
+  "url": "https://mystock-note.tistory.com/785"
+}

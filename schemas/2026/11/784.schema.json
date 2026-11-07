@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-08T02:47:00+09:00",
+    "datePublished": "2026-11-08T02:46:38+09:00",
+    "description": "JMSI는 지방채의 지속가능성을 발행자가 아니라 그 돈이 어디에 쓰이는가로 판정한다. 저렴주택·의료·상하수도·교육·대중교통·녹색채권 여섯 범주다. 다만 판정 시점은 매수할 때이고 실제 자금 사용은 달라질 수 있다고 요약투자설명서가 직접 적어 두었다. 미국 지방채 대표 상품과 무엇이 다른지 1차 출처로 정리했다.JMSI는 어떤 ETF인가요?미국 지방채에 투자하는 액티브 ETF다. 추종하는 기초지수는 없고 운용사가 개별 종목과 시장 섹터를 보고 매매한다.2026년 6월 23일자 요약투자설명서(SEC 497K, J.P. Morgan Exchange-Traded Fund Trust, CIK 0001485894)에서 확인한 값이다. 확인일은 2026년 11월 9일이다.항목내용운용 방식액티브. 기초지수 없음핵심 정..",
+    "headline": "JMSI ETF란? MUB와 차이, 지방채의 지속가능성을 자금 용도로 재는 방식",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/784",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/784"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-jmsi"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "JMSI는 지방채의 지속가능성을 발행자가 아니라 자금의 용도로 판정한다. 저렴주택·의료·상하수도·교육·대중교통·녹색채권 여섯 범주다. 다만 판정은 매수 시점이고 실제 사용은 달라질 수 있다고 문서가 직접 적었다.",
+        "headline": "JMSI ETF란? MUB와 차이, 지방채의 지속가능성을 자금 용도로 재는 방식",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-jmsi",
+        "@type": "Thing",
+        "description": "미국 지방채에 투자하는 액티브 ETF. 기초지수 없이 운용사가 매매하며, 순자산(투자차입 포함)의 80% 이상을 지속가능 지방채에 투자하는 Sustainable 80% Policy를 둔다. 지속가능성은 발행자가 아니라 자금의 용도로 판정하며 저렴주택·의료·지방자치 상하수도·교육·대중교통·발행자 지정 녹색채권 여섯 범주를 대상으로 한다. 판정은 매수 시점에 이뤄지고 발행자의 실제 자금 사용은 시간이 지나면서 달라질 수 있다고 명시한다. 듀레이션은 Bloomberg US Municipal Index 듀레이션 ±2년, 투자등급 미만은 총자산의 20%까지, AMT 대상 증권은 순자산의 25%까지 담을 수 있다. 단일 산업과 동일 주·준주·속령 발행자에 각각 총자산의 25%를 넘기지 않으나 지방채 주택당국 채무에는 25%를 초과해 투자한다. NYSE Arca 상장.",
+        "name": "JPMorgan Sustainable Municipal Income ETF (JMSI)"
+      }
+    ]
+  }
+]
