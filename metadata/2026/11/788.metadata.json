@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-08",
+  "body_html_length": 6174,
+  "canonical_url": "https://mystock-note.tistory.com/788",
+  "content_hash": "a91d5b62438f96fba429d3984fde7f56d3984c73b5da5dc4209d179b078d5e3c",
+  "json_ld_count": 1,
+  "meta_description": "VCRM의 요약투자설명서는 만기를 8~20년으로 적어 두었다. 그런데 바로 뒤에 \"개별 종목의 만기에는 제한이 없다\"는 문장이 붙는다. 범위가 걸리는 대상은 개별 채권이 아니라 포트폴리오 평균이다. 만기 구간을 이름에 넣은 상품과 무엇이 다른지 1차 출처로 정리했다.VCRM은 어떤 ETF인가요?미국 지방채에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고 벤치마크도 전략 조항에 명시돼 있지 않다.2026년 2월 27일자 요약투자설명서(SEC 497K, Vanguard Municipal Bond Funds, CIK 0000225997)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음80% 정책순자산(투자차입 포함)의 80% 이상을 연방소득세와 연방 대체최..",
+  "modified_time": "2026-11-09T02:14:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/788\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/788\",\"headline\":\"VCRM ETF란? MUB와 차이, 만기 8~20년이 개별 채권 얘기가 아닌 이유\",\"description\":\"VCRM의 요약투자설명서는 만기를 8~20년으로 적어 두었다. 그런데 바로 뒤에 \"개별 종목의 만기에는 제한이 없다\"는 문장이 붙는다. 범위가 걸리는 대상은 개별 채권이 아니라 포트폴리오 평균이다. 만기 구간을 이름에 넣은 상품과 무엇이 다른지 1차 출처로 정리했다.VCRM은 어떤 ETF인가요?미국 지방채에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고 벤치마크도 전략 조항에 명시돼 있지 않다.2026년 2월 27일자 요약투자설명서(SEC 497K, Vanguard Municipal Bond Funds, CIK 0000225997)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음80% 정책순자산(투자차입 포함)의 80% 이상을 연방소득세와 연방 대체최..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-09T02:13:48+09:00\",\"dateModified\":\"2026-11-09T02:14:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "VCRM의 요약투자설명서는 만기를 8~20년으로 적어 두었다. 그런데 바로 뒤에 \"개별 종목의 만기에는 제한이 없다\"는 문장이 붙는다. 범위가 걸리는 대상은 개별 채권이 아니라 포트폴리오 평균이다. 만기 구간을 이름에 넣은 상품과 무엇이 다른지 1차 출처로 정리했다.VCRM은 어떤 ETF인가요?미국 지방채에 투자하는 액티브 ETF다. 추종하는 기초지수가 없고 벤치마크도 전략 조항에 명시돼 있지 않다.2026년 2월 27일자 요약투자설명서(SEC 497K, Vanguard Municipal Bond Funds, CIK 0000225997)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용운용 방식액티브. 기초지수 없음80% 정책순자산(투자차입 포함)의 80% 이상을 연방소득세와 연방 대체최..",
+  "og_title": "VCRM ETF란? MUB와 차이, 만기 8~20년이 개별 채권 얘기가 아닌 이유",
+  "post_id": "788",
+  "published_time": "2026-11-09T02:13:48+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "VCRM ETF란? MUB와 차이, 만기 8~20년이 개별 채권 얘기가 아닌 이유",
+  "url": "https://mystock-note.tistory.com/788"
+}

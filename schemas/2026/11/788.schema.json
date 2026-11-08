@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+      "@type": "BlogPosting",
+      "about": {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-vcrm"
+      },
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "dateModified": "[발행일 YYYY-MM-DD]",
+      "datePublished": "[발행일 YYYY-MM-DD]",
+      "description": "VCRM의 만기 8~20년은 포트폴리오 평균에 걸리는 조건이다. 개별 채권의 만기에는 제한이 없다고 요약투자설명서가 명시한다. 만기 구간을 이름에 넣은 상품과 무엇이 다른지 1차 출처로 정리했다.",
+      "headline": "VCRM ETF란? MUB와 차이, 만기 8~20년이 개별 채권 얘기가 아닌 이유",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#organization"
+      },
+      "url": "https://mystock-note.tistory.com/[POST_ID]"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#organization",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-vcrm",
+      "@type": "Thing",
+      "description": "기초지수 없이 운용되는 미국 지방채 액티브 ETF. 순자산(투자차입 포함)의 80% 이상을 미국 주·지방정부·기관이 주로 발행하고 이자가 연방소득세와 연방 대체최저세에서 모두 면제되는 채무증권에 투자한다. 통상적인 시장 상황에서 달러가중 평균만기 8년에서 20년을 유지할 것으로 예상하되 개별 종목의 만기에는 제한을 두지 않는다. 어떤 품질의 지방채에도 투자할 수 있으나 통상 자산의 과반을 투자등급에 투자하며, 투자등급 미만은 자산의 20%를 넘지 않는다. 비분산형이며 Mathew M. Kiselak과 Stephen M. McFee가 설정 이후 공동 운용한다. Cboe BZX 상장, 2024년 11월 19일 설정.",
+      "name": "Vanguard Core Tax-Exempt Bond ETF (VCRM)"
+    }
+  ]
+}

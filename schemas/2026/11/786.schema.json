@@ -1,0 +1,109 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-09T00:13:00+09:00",
+    "datePublished": "2026-11-09T00:12:32+09:00",
+    "description": "DVOL·DDIV·DVLU 세 상품은 같은 뼈대를 쓴다. 모멘텀으로 후보를 거른 뒤 저변동·배당·가치 중 하나로 50종목을 고르고, 그 두 번째 팩터 점수만으로 비중을 정한다. 모멘텀은 비중 계산에 전혀 개입하지 않는다. 요약투자설명서 3건을 대조해 정리했다.세 상품은 어떤 구조인가요?전부 Nasdaq, Inc.가 만든 Dorsey Wright 계열 지수를 추종한다. 출발점과 절차가 동일하고 두 번째 팩터만 다르다.2026년 2월 2일자 요약투자설명서 3건(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.티커기초지수두 번째 팩터DVOLDorsey Wright Momentum Plus ..",
+    "headline": "Dorsey Wright 모멘텀 조합 ETF 비교: DVOL·DDIV·DVLU, 두 팩터가 하는 일이 다르다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/786",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/786"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-dorseywright-plus"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "DVOL·DDIV·DVLU는 모멘텀으로 후보를 거른 뒤 저변동·배당·가치로 50종목을 고르고 그 점수로 비중을 정한다. 모멘텀은 비중 계산에 전혀 개입하지 않는다. 요약투자설명서 3건을 대조했다.",
+        "headline": "Dorsey Wright 모멘텀 조합 ETF 비교: DVOL·DDIV·DVLU, 두 팩터가 하는 일이 다르다",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "mentions": [
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvol"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-ddiv"
+          },
+          {
+            "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvlu"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#series-dorseywright-plus",
+        "@type": "Thing",
+        "description": "Nasdaq, Inc.가 소유·개발한 Dorsey Wright Momentum Plus 계열 지수를 추종하는 First Trust ETF 3종. Nasdaq US Large Mid Cap Index를 모집단으로 삼아 독자 상대강도(모멘텀) 측정치로 적격 종목을 정한 뒤, 두 번째 팩터로 50종목을 선정하고 그 팩터 점수로 비중을 결정한다. 모멘텀 점수는 가중 공식에 포함되지 않는다. 분기마다 재구성·리밸런싱하며 각 펀드는 순자산(투자차입 포함)의 90% 이상을 지수 구성증권에 투자한다.",
+        "name": "Dorsey Wright Momentum Plus 지수 계열 ETF"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvol",
+        "@type": "Thing",
+        "description": "Dorsey Wright Momentum Plus Low Volatility Index 추종. 적격 종목에 최근 1년 일간 등락률 기반 변동성 점수를 부여해 점수가 가장 낮은 50종목을 선정한다. 비중은 각 종목 변동성 점수의 역수를 전체 역수 합으로 나눠 결정한다.",
+        "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF (DVOL)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-ddiv",
+        "@type": "Thing",
+        "description": "Dorsey Wright Momentum Plus Dividend Yield Index 추종. 상대강도 분석으로 정한 적격 종목을 현재 배당수익률로 순위 매겨 상위 50종목을 선정한다. 비중은 각 종목 배당수익률을 전체 배당수익률 합으로 나눠 결정한다.",
+        "name": "First Trust Dorsey Wright Momentum & Dividend ETF (DDIV)"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvlu",
+        "@type": "Thing",
+        "description": "Dorsey Wright Momentum Plus Value Index 추종. 적격 종목을 주가매출비율·주가순자산비율·주가수익비율·주가현금흐름비율 네 지표의 백분위 점수 평균으로 순위 매겨 상위 50종목을 선정한다. 네 비율 중 최소 3개가 있어야 자격이 생긴다. 비중은 각 종목 가치 점수를 전체 가치 점수 합으로 나눠 결정한다.",
+        "name": "First Trust Dorsey Wright Momentum & Value ETF (DVLU)"
+      }
+    ]
+  }
+]

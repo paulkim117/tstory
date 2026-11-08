@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-08",
+  "body_html_length": 6678,
+  "canonical_url": "https://mystock-note.tistory.com/786",
+  "content_hash": "343948073eaf110980a057b78afba60b5a4c5420606edae1321aedd629e4fedc",
+  "json_ld_count": 2,
+  "meta_description": "DVOL·DDIV·DVLU 세 상품은 같은 뼈대를 쓴다. 모멘텀으로 후보를 거른 뒤 저변동·배당·가치 중 하나로 50종목을 고르고, 그 두 번째 팩터 점수만으로 비중을 정한다. 모멘텀은 비중 계산에 전혀 개입하지 않는다. 요약투자설명서 3건을 대조해 정리했다.세 상품은 어떤 구조인가요?전부 Nasdaq, Inc.가 만든 Dorsey Wright 계열 지수를 추종한다. 출발점과 절차가 동일하고 두 번째 팩터만 다르다.2026년 2월 2일자 요약투자설명서 3건(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.티커기초지수두 번째 팩터DVOLDorsey Wright Momentum Plus ..",
+  "modified_time": "2026-11-09T00:13:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "DVOL·DDIV·DVLU 세 상품은 같은 뼈대를 쓴다. 모멘텀으로 후보를 거른 뒤 저변동·배당·가치 중 하나로 50종목을 고르고, 그 두 번째 팩터 점수만으로 비중을 정한다. 모멘텀은 비중 계산에 전혀 개입하지 않는다. 요약투자설명서 3건을 대조해 정리했다.세 상품은 어떤 구조인가요?전부 Nasdaq, Inc.가 만든 Dorsey Wright 계열 지수를 추종한다. 출발점과 절차가 동일하고 두 번째 팩터만 다르다.2026년 2월 2일자 요약투자설명서 3건(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.티커기초지수두 번째 팩터DVOLDorsey Wright Momentum Plus ..",
+  "og_title": "Dorsey Wright 모멘텀 조합 ETF 비교: DVOL·DDIV·DVLU, 두 팩터가 하는 일이 다르다",
+  "post_id": "786",
+  "published_time": "2026-11-09T00:12:32+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "Dorsey Wright 모멘텀 조합 ETF 비교: DVOL·DDIV·DVLU, 두 팩터가 하는 일이 다르다",
+  "url": "https://mystock-note.tistory.com/786"
+}

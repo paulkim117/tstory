@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-08",
+  "body_html_length": 6215,
+  "canonical_url": "https://mystock-note.tistory.com/787",
+  "content_hash": "604020f7b11781d17f62727238fc9faad4bea2833a2261a2a39206738404cec2",
+  "json_ld_count": 2,
+  "meta_description": "DVOL은 이름에 두 팩터를 나란히 달고 있지만 둘이 하는 일이 다르다. 모멘텀은 후보를 거르는 데만 쓰이고, 최종 비중은 변동성 하나가 정한다. 가중 공식 어디에도 모멘텀 점수가 없다. 저변동만 보는 상품과 무엇이 다른지 1차 출처로 정리했다.DVOL은 어떤 ETF인가요?모멘텀과 저변동을 결합한 미국 중대형주 ETF다. Nasdaq, Inc.가 소유·개발한 지수를 추종한다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용기초지수Dorsey Wright Momentum Plus Low Volatility Index지수 제공사Nasdaq, I..",
+  "modified_time": "2026-11-09T01:14:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "DVOL은 이름에 두 팩터를 나란히 달고 있지만 둘이 하는 일이 다르다. 모멘텀은 후보를 거르는 데만 쓰이고, 최종 비중은 변동성 하나가 정한다. 가중 공식 어디에도 모멘텀 점수가 없다. 저변동만 보는 상품과 무엇이 다른지 1차 출처로 정리했다.DVOL은 어떤 ETF인가요?모멘텀과 저변동을 결합한 미국 중대형주 ETF다. Nasdaq, Inc.가 소유·개발한 지수를 추종한다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용기초지수Dorsey Wright Momentum Plus Low Volatility Index지수 제공사Nasdaq, I..",
+  "og_title": "DVOL ETF란? 모멘텀으로 거르고 변동성으로 담는 구조",
+  "post_id": "787",
+  "published_time": "2026-11-09T01:13:02+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DVOL ETF란? 모멘텀으로 거르고 변동성으로 담는 구조",
+  "url": "https://mystock-note.tistory.com/787"
+}

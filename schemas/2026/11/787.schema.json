@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-09T01:14:00+09:00",
+    "datePublished": "2026-11-09T01:13:02+09:00",
+    "description": "DVOL은 이름에 두 팩터를 나란히 달고 있지만 둘이 하는 일이 다르다. 모멘텀은 후보를 거르는 데만 쓰이고, 최종 비중은 변동성 하나가 정한다. 가중 공식 어디에도 모멘텀 점수가 없다. 저변동만 보는 상품과 무엇이 다른지 1차 출처로 정리했다.DVOL은 어떤 ETF인가요?모멘텀과 저변동을 결합한 미국 중대형주 ETF다. Nasdaq, Inc.가 소유·개발한 지수를 추종한다.2026년 2월 2일자 요약투자설명서(SEC 497K, First Trust Exchange-Traded Fund VI, CIK 0001552740)에서 확인한 값이다. 확인일은 2026년 11월 10일이다.항목내용기초지수Dorsey Wright Momentum Plus Low Volatility Index지수 제공사Nasdaq, I..",
+    "headline": "DVOL ETF란? 모멘텀으로 거르고 변동성으로 담는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/787",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/787"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#blogposting",
+        "@type": "BlogPosting",
+        "about": {
+          "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvol"
+        },
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "dateModified": "[발행일 YYYY-MM-DD]",
+        "datePublished": "[발행일 YYYY-MM-DD]",
+        "description": "DVOL은 모멘텀으로 후보를 거른 뒤 변동성이 가장 낮은 50종목을 고른다. 비중은 변동성 점수의 역수로 정하며 모멘텀 점수는 가중에 전혀 개입하지 않는다. 저변동만 보는 상품과 무엇이 다른지 1차 출처로 정리했다.",
+        "headline": "DVOL ETF란? 모멘텀으로 거르고 변동성으로 담는 구조",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#organization"
+        },
+        "url": "https://mystock-note.tistory.com/[POST_ID]"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#organization",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/[POST_ID]/#etf-dvol",
+        "@type": "Thing",
+        "description": "Nasdaq, Inc.가 소유·개발한 Dorsey Wright Momentum Plus Low Volatility Index를 추종하는 미국 중대형주 ETF. Nasdaq US Large Mid Cap Index를 모집단으로 삼고 유동성 요건을 적용한 뒤, 독자 상대강도(모멘텀) 측정치로 편입 자격을 정한다. 자격을 얻은 종목에 최근 1년 일간 등락률 기반 변동성 점수를 부여해 점수가 가장 낮은 50종목을 선정한다. 비중은 각 종목 변동성 점수의 역수를 전체 역수 합으로 나누어 결정하며 모멘텀 점수는 가중 공식에 포함되지 않는다. 분기마다 재구성·리밸런싱하고 순자산(투자차입 포함)의 90% 이상을 지수 구성증권에 투자한다.",
+        "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF (DVOL)"
+      }
+    ]
+  }
+]
