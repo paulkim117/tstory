@@ -1,0 +1,102 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-11T03:38:01+09:00",
+    "datePublished": "2026-11-11T03:37:06+09:00",
+    "description": "iShares 러셀 계열 ETF 5종을 1차 출처로 비교합니다. 러셀의 스타일 분류는 배타적이지 않아 성장 지수와 가치 지수의 시가총액 합이 모지수를 넘습니다. 규모대에 따라 어느 쪽이 큰지도 뒤집힙니다.성장주 상품과 가치주 상품을 반씩 사면 시장 전체가 될 것 같습니다. 러셀 계열에서는 그렇게 되지 않습니다. 두 지수의 시가총액을 더하면 원래 지수보다 커집니다. 왜 그런지가 이 글의 주제입니다.이 5종은 어떻게 나뉘나요?두 개의 모지수와 그 아래 스타일 지수로 구성됩니다 [사실].표1. 상품별 추종 지수와 모지수티커추종 지수모지수IWLRussell Top 200Russell 3000IWYRussell Top 200 GrowthRussell Top 200IWXRussell Top 200 ValueRuss..",
+    "headline": "iShares 러셀 스타일 ETF 5종 비교: IWL·IWX·IWY·IWP·IWS, 성장과 가치를 더하면 모지수를 넘는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/797",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/797"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Russell Top 200 ETF",
+          "description": "Russell 3000의 부분집합인 상위 약 200 발행자로 구성된 유동조정 시가총액 가중 지수를 추종하는 ETF",
+          "name": "IWL"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "iShares 러셀 계열 ETF 5종을 1차 출처로 비교한다. 러셀의 스타일 분류는 배타적이지 않아 성장 지수와 가치 지수의 시가총액 합이 모지수를 넘는다. 규모대에 따라 어느 쪽이 큰지도 뒤집힌다.",
+        "headline": "iShares 러셀 스타일 ETF 5종 비교: IWL·IWX·IWY·IWP·IWS, 성장과 가치를 더하면 모지수를 넘는 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IWL, IWX, IWY, IWP, IWS, 러셀 지수, Russell Top 200, Russell Midcap, 성장주, 가치주, 스타일 분류, 주가순자산비율, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Russell Top 200 Growth ETF",
+            "name": "IWY"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Russell Top 200 Value ETF",
+            "name": "IWX"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Russell Mid-Cap Growth ETF",
+            "name": "IWP"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Russell Mid-Cap Value ETF",
+            "name": "IWS"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

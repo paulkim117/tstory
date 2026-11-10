@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-10",
+  "body_html_length": 7491,
+  "canonical_url": "https://mystock-note.tistory.com/797",
+  "content_hash": "7c15583f2acd92564f7ed4b3b89a1d45dccd91409339bd8b89f46cbe0638c60c",
+  "json_ld_count": 2,
+  "meta_description": "iShares 러셀 계열 ETF 5종을 1차 출처로 비교합니다. 러셀의 스타일 분류는 배타적이지 않아 성장 지수와 가치 지수의 시가총액 합이 모지수를 넘습니다. 규모대에 따라 어느 쪽이 큰지도 뒤집힙니다.성장주 상품과 가치주 상품을 반씩 사면 시장 전체가 될 것 같습니다. 러셀 계열에서는 그렇게 되지 않습니다. 두 지수의 시가총액을 더하면 원래 지수보다 커집니다. 왜 그런지가 이 글의 주제입니다.이 5종은 어떻게 나뉘나요?두 개의 모지수와 그 아래 스타일 지수로 구성됩니다 [사실].표1. 상품별 추종 지수와 모지수티커추종 지수모지수IWLRussell Top 200Russell 3000IWYRussell Top 200 GrowthRussell Top 200IWXRussell Top 200 ValueRuss..",
+  "modified_time": "2026-11-11T03:38:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "iShares 러셀 계열 ETF 5종을 1차 출처로 비교합니다. 러셀의 스타일 분류는 배타적이지 않아 성장 지수와 가치 지수의 시가총액 합이 모지수를 넘습니다. 규모대에 따라 어느 쪽이 큰지도 뒤집힙니다.성장주 상품과 가치주 상품을 반씩 사면 시장 전체가 될 것 같습니다. 러셀 계열에서는 그렇게 되지 않습니다. 두 지수의 시가총액을 더하면 원래 지수보다 커집니다. 왜 그런지가 이 글의 주제입니다.이 5종은 어떻게 나뉘나요?두 개의 모지수와 그 아래 스타일 지수로 구성됩니다 [사실].표1. 상품별 추종 지수와 모지수티커추종 지수모지수IWLRussell Top 200Russell 3000IWYRussell Top 200 GrowthRussell Top 200IWXRussell Top 200 ValueRuss..",
+  "og_title": "iShares 러셀 스타일 ETF 5종 비교: IWL·IWX·IWY·IWP·IWS, 성장과 가치를 더하면 모지수를 넘는 이유",
+  "post_id": "797",
+  "published_time": "2026-11-11T03:37:06+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "iShares 러셀 스타일 ETF 5종 비교: IWL·IWX·IWY·IWP·IWS, 성장과 가치를 더하면 모지수를 넘는 이유",
+  "url": "https://mystock-note.tistory.com/797"
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-11T00:47:00+09:00",
+    "datePublished": "2026-11-11T00:46:16+09:00",
+    "description": "JPMorgan BetaBuilders 채권 ETF 6종을 1차 출처로 비교합니다. 다섯 상품은 성과표에 규제상 비교지수와 실제 추종 지수를 함께 싣고, BBAG만 둘이 일치합니다. 국채 3종에서는 네 가지 증권이 배제됩니다.채권 ETF의 성과표를 열면 보통 지수가 하나 보입니다. 이 시리즈에서는 두 개가 나란히 실립니다. 둘 중 어느 쪽을 기준으로 읽어야 하는지, 그리고 왜 둘이 필요한지가 이 글의 주제입니다.이 6종은 무엇을 추종하나요?채권시장을 여섯 구획으로 나눠 각각을 담습니다. 다만 지수 제공사가 둘로 갈립니다 [사실].표1. 각 상품의 추종 지수와 지수 제공사티커추종 지수지수 제공사BBAGBloomberg US Aggregate IndexBloomberg Index ServicesBBSBICE..",
+    "headline": "BetaBuilders 채권 ETF 6종 비교: 성과표에 지수가 둘 실리는 이유와 '국채'에서 빠지는 네 가지",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/794",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/794"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "JPMorgan BetaBuilders U.S. Aggregate Bond ETF",
+          "description": "Bloomberg US Aggregate Index를 추종하며, 시리즈 내 유일하게 규제 지수와 기초 지수가 일치하는 채권 ETF",
+          "name": "BBAG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "JPMorgan BetaBuilders 채권 ETF 6종을 1차 출처로 비교한다. 다섯 상품은 성과표에 규제상 비교지수와 실제 추종 지수를 함께 싣고, BBAG만 둘이 일치한다. 국채 3종에서는 네 가지 증권이 배제된다.",
+        "headline": "BetaBuilders 채권 ETF 6종 비교: 성과표에 지수가 둘 실리는 이유와 '국채'에서 빠지는 네 가지",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "BBAG, BBSB, BBIB, BBLB, BBCB, BBHY, BetaBuilders, 규제 지수, 기초 지수, 미국 국채 ETF, 투자등급 회사채, 하이일드, 대표표본, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF",
+            "name": "BBSB"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan BetaBuilders U.S. Treasury Bond 3-10 Year ETF",
+            "name": "BBIB"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF",
+            "name": "BBLB"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF",
+            "name": "BBCB"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan BetaBuilders USD High Yield Corporate Bond ETF",
+            "name": "BBHY"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

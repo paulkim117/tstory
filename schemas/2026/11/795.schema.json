@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-11T01:47:00+09:00",
+    "datePublished": "2026-11-11T01:46:39+09:00",
+    "description": "Achievers 계열 ETF 4종을 1차 출처로 비교합니다. Achievers는 발행사 브랜드가 아니라 나스닥의 지수 상표이며, 같은 상표가 붙은 지수라도 배당 증액 자격이 10년·5년·3년으로 갈립니다.상품명에 같은 단어가 들어 있으면 같은 기준으로 고른 것이라고 읽기 쉽습니다. 이 계열은 그렇지 않습니다. 운용사가 둘이고, 그 둘이 사 온 지수가 서로 다른 문턱을 씁니다. 이름이 같은 이유는 따로 있습니다.Achievers는 누구의 이름인가요?나스닥의 것입니다. Invesco의 문서는 나스닥이 자체 선정 방법론에 따라 'Dividend Achievers' 유니버스를 식별한다고 적으며, 이 표현에 상표 기호를 붙입니다 [사실].First Trust의 문서도 같은 구조입니다. 지수를 나스닥이 개발·소유..",
+    "headline": "배당 Achievers ETF 4종 비교: PFM·PID·IDVY·SDVY, 같은 상표인데 자격 연수가 다른 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/795",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/795"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco Dividend Achievers ETF",
+          "description": "10년 연속 배당 증액 기업으로 구성된 나스닥 Dividend Achievers 지수를 완전복제로 추종하는 ETF",
+          "name": "PFM"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "Achievers 계열 ETF 4종을 1차 출처로 비교한다. Achievers는 발행사 브랜드가 아니라 나스닥의 지수 상표이며, 같은 상표가 붙은 지수라도 배당 증액 자격이 10년·5년·3년으로 갈린다.",
+        "headline": "배당 Achievers ETF 4종 비교: PFM·PID·IDVY·SDVY, 같은 상표인데 자격 연수가 다른 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "PFM, PID, IDVY, SDVY, Dividend Achievers, 나스닥 지수, 배당 증액, 배당성장 ETF, 서브포트폴리오, 투자 정책 비율, 예탁증서, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco International Dividend Achievers ETF",
+            "name": "PID"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust International Rising Dividend Achievers ETF",
+            "name": "IDVY"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust SMID Cap Rising Dividend Achievers ETF",
+            "name": "SDVY"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
