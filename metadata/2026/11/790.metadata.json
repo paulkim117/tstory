@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-10",
+  "body_html_length": 8831,
+  "canonical_url": "https://mystock-note.tistory.com/790",
+  "content_hash": "97df577f923d30989d6e4ca3219cb72160a9b1099a21dd53ab2168b4f4d74a59",
+  "json_ld_count": 2,
+  "meta_description": "iShares 통화헤지 ETF 4종(HEFA·HSCZ·HEEM·HEWJ)을 1차 출처로 비교합니다. 헤지는 월 1회만 리셋돼 월중에는 과대·과소헤지가 되고, 보수 면제 산식과 소속 법인은 4종이 서로 다릅니다.환헤지형을 고를지 말지는 이미 다룬 주제입니다. 이 글은 그 다음 질문을 다룹니다. 헤지하기로 정했을 때, 그 헤지가 실제로 어떤 규칙으로 걸리는가입니다. 상품명에 붙은 '100% 헤지'라는 말이 언제 참인지부터 확인합니다.이 4종은 무엇이 다른가요?담는 시장이 다릅니다. 네 상품 모두 MSCI가 만든 '100% Hedged to USD' 계열 지수를 추종하며, 대상 시장만 갈립니다 [사실].표1. iShares 통화헤지 4종의 기초지수와 대상 시장티커기초지수대상HEFAMSCI EAFE 100% H..",
+  "modified_time": "2026-11-10T00:15:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "iShares 통화헤지 ETF 4종(HEFA·HSCZ·HEEM·HEWJ)을 1차 출처로 비교합니다. 헤지는 월 1회만 리셋돼 월중에는 과대·과소헤지가 되고, 보수 면제 산식과 소속 법인은 4종이 서로 다릅니다.환헤지형을 고를지 말지는 이미 다룬 주제입니다. 이 글은 그 다음 질문을 다룹니다. 헤지하기로 정했을 때, 그 헤지가 실제로 어떤 규칙으로 걸리는가입니다. 상품명에 붙은 '100% 헤지'라는 말이 언제 참인지부터 확인합니다.이 4종은 무엇이 다른가요?담는 시장이 다릅니다. 네 상품 모두 MSCI가 만든 '100% Hedged to USD' 계열 지수를 추종하며, 대상 시장만 갈립니다 [사실].표1. iShares 통화헤지 4종의 기초지수와 대상 시장티커기초지수대상HEFAMSCI EAFE 100% H..",
+  "og_title": "iShares 환헤지 ETF 비교: HEFA·HSCZ·HEEM·HEWJ, 100% 헤지가 성립하는 시점과 보수 면제 차이",
+  "post_id": "790",
+  "published_time": "2026-11-10T00:14:29+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "iShares 환헤지 ETF 비교: HEFA·HSCZ·HEEM·HEWJ, 100% 헤지가 성립하는 시점과 보수 면제 차이",
+  "url": "https://mystock-note.tistory.com/790"
+}

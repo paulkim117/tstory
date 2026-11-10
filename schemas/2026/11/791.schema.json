@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Fidelity Enhanced Large Cap Core ETF",
+        "description": "80% 투자 정책이 S&P 500 편입 보통주를 지목하는 액티브 운용 미국 대형주 ETF",
+        "name": "FELC"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "피델리티 Enhanced ETF 9종을 1차 출처로 비교한다. 액티브 운용인데 80% 정책이 특정 지수 구성종목으로 유니버스를 닫고, 그 지수는 규모·스타일 좌표마다 다르다. 중형·소형 코어는 2026년 5월 명칭이 바뀌었다.",
+      "headline": "피델리티 인핸스드 ETF 9종 비교: FELC·FELG·FELV, 액티브인데 유니버스가 지수로 닫히는 구조",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "FELC, FELG, FELV, FMDE, FEMG, FEMV, FESM, FSEG, FSEV, 피델리티 ETF, 액티브 ETF, 80% 정책, 러셀 지수, S&P 500, 규모 스타일 격자, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Large Cap Growth ETF",
+          "name": "FELG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Large Cap Value ETF",
+          "name": "FELV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Mid Cap Core ETF",
+          "name": "FMDE"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Mid Cap Growth ETF",
+          "name": "FEMG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Mid Cap Value ETF",
+          "name": "FEMV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Small Cap Core ETF",
+          "name": "FESM"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Small Cap Growth ETF",
+          "name": "FSEG"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity Enhanced Small Cap Value ETF",
+          "name": "FSEV"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

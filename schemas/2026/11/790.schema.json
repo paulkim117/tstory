@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-10T00:15:02+09:00",
+    "datePublished": "2026-11-10T00:14:29+09:00",
+    "description": "iShares 통화헤지 ETF 4종(HEFA·HSCZ·HEEM·HEWJ)을 1차 출처로 비교합니다. 헤지는 월 1회만 리셋돼 월중에는 과대·과소헤지가 되고, 보수 면제 산식과 소속 법인은 4종이 서로 다릅니다.환헤지형을 고를지 말지는 이미 다룬 주제입니다. 이 글은 그 다음 질문을 다룹니다. 헤지하기로 정했을 때, 그 헤지가 실제로 어떤 규칙으로 걸리는가입니다. 상품명에 붙은 '100% 헤지'라는 말이 언제 참인지부터 확인합니다.이 4종은 무엇이 다른가요?담는 시장이 다릅니다. 네 상품 모두 MSCI가 만든 '100% Hedged to USD' 계열 지수를 추종하며, 대상 시장만 갈립니다 [사실].표1. iShares 통화헤지 4종의 기초지수와 대상 시장티커기초지수대상HEFAMSCI EAFE 100% H..",
+    "headline": "iShares 환헤지 ETF 비교: HEFA·HSCZ·HEEM·HEWJ, 100% 헤지가 성립하는 시점과 보수 면제 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/790",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/790"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Currency Hedged MSCI EAFE ETF",
+          "description": "MSCI EAFE 100% Hedged to USD 지수를 추종하며 모펀드 편입 위에 월 단위 리셋 통화선도를 얹는 구조의 통화헤지 ETF",
+          "name": "HEFA"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "iShares 통화헤지 ETF 4종(HEFA·HSCZ·HEEM·HEWJ)을 1차 출처로 비교한다. 헤지는 월 1회만 리셋돼 월중에는 과대·과소헤지가 되고, 보수 면제 산식과 소속 법인은 4종이 서로 다르다.",
+        "headline": "iShares 환헤지 ETF 비교: HEFA·HSCZ·HEEM·HEWJ, 100% 헤지가 성립하는 시점과 보수 면제 차이",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "HEFA, HSCZ, HEEM, HEWJ, 환헤지 ETF, 통화헤지, MSCI 100% Hedged, 월말 리셋, 과대헤지, 통화선도, 모펀드 편입, 취득펀드보수, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Currency Hedged MSCI EAFE Small-Cap ETF",
+            "name": "HSCZ"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Currency Hedged MSCI Emerging Markets ETF",
+            "name": "HEEM"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares Currency Hedged MSCI Japan ETF",
+            "name": "HEWJ"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "First Trust Bloomberg Nuclear Power ETF",
+        "description": "블룸버그 인텔리전스의 매출·테마 2축 평가로 골드 티어를 선별하는 원자력 테마 ETF",
+        "name": "RCTR"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "First Trust Bloomberg Nuclear Power ETF(RCTR)의 구조를 1차 출처로 정리한다. 편입 자격을 정하는 것은 정량 필터가 아니라 블룸버그 인텔리전스 애널리스트의 2축 평가이며, 매출 기준은 현재가 아니라 향후 3~5년 예상이다.",
+      "headline": "RCTR ETF란? 원자력 지수를 애널리스트가 고르는 구조 — 골드 티어 선별과 우라늄형과 차이",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "RCTR, 원자력 ETF, 블룸버그 인텔리전스, 골드 티어, 매출 평가, 테마 평가, 우라늄, 원전 유틸리티, 트래킹 스톡, 비분산, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

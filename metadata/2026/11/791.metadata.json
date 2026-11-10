@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-10",
+  "body_html_length": 8578,
+  "canonical_url": "https://mystock-note.tistory.com/791",
+  "content_hash": "03c9bd85f1f3138ca4b0f0fe382d7d27cac0ac28b9a751476496890b28e73fa4",
+  "json_ld_count": 1,
+  "meta_description": "피델리티 Enhanced ETF 9종을 1차 출처로 비교합니다. 액티브 운용인데 80% 정책이 특정 지수 구성종목으로 유니버스를 닫고, 그 지수는 규모·스타일 좌표마다 다릅니다. 중형·소형 코어는 2026년 5월 명칭이 바뀌었습니다.액티브 ETF를 볼 때 흔히 묻는 것은 \"누가 고르는가\"입니다. 이 시리즈에서 먼저 확인해야 할 것은 다른 질문입니다. 고를 수 있는 범위가 어디까지 열려 있는가입니다. 요약투자설명서가 그 범위를 지수 이름으로 못 박아두고 있습니다.이 9종은 어떻게 나뉘나요?규모 3단계와 스타일 3단계를 곱한 격자입니다. 대형·중형·소형 각각에 코어·성장·가치가 놓입니다 [사실].표1. 규모×스타일 9칸 배치규모코어성장가치대형FELCFELGFELV중형FMDEFEMGFEMV소형FESMFSEGF..",
+  "modified_time": "2026-11-10T01:46:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/791\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/791\",\"headline\":\"피델리티 인핸스드 ETF 9종 비교: FELC·FELG·FELV, 액티브인데 유니버스가 지수로 닫히는 구조\",\"description\":\"피델리티 Enhanced ETF 9종을 1차 출처로 비교합니다. 액티브 운용인데 80% 정책이 특정 지수 구성종목으로 유니버스를 닫고, 그 지수는 규모·스타일 좌표마다 다릅니다. 중형·소형 코어는 2026년 5월 명칭이 바뀌었습니다.액티브 ETF를 볼 때 흔히 묻는 것은 \"누가 고르는가\"입니다. 이 시리즈에서 먼저 확인해야 할 것은 다른 질문입니다. 고를 수 있는 범위가 어디까지 열려 있는가입니다. 요약투자설명서가 그 범위를 지수 이름으로 못 박아두고 있습니다.이 9종은 어떻게 나뉘나요?규모 3단계와 스타일 3단계를 곱한 격자입니다. 대형·중형·소형 각각에 코어·성장·가치가 놓입니다 [사실].표1. 규모×스타일 9칸 배치규모코어성장가치대형FELCFELGFELV중형FMDEFEMGFEMV소형FESMFSEGF..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-10T01:45:17+09:00\",\"dateModified\":\"2026-11-10T01:46:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "피델리티 Enhanced ETF 9종을 1차 출처로 비교합니다. 액티브 운용인데 80% 정책이 특정 지수 구성종목으로 유니버스를 닫고, 그 지수는 규모·스타일 좌표마다 다릅니다. 중형·소형 코어는 2026년 5월 명칭이 바뀌었습니다.액티브 ETF를 볼 때 흔히 묻는 것은 \"누가 고르는가\"입니다. 이 시리즈에서 먼저 확인해야 할 것은 다른 질문입니다. 고를 수 있는 범위가 어디까지 열려 있는가입니다. 요약투자설명서가 그 범위를 지수 이름으로 못 박아두고 있습니다.이 9종은 어떻게 나뉘나요?규모 3단계와 스타일 3단계를 곱한 격자입니다. 대형·중형·소형 각각에 코어·성장·가치가 놓입니다 [사실].표1. 규모×스타일 9칸 배치규모코어성장가치대형FELCFELGFELV중형FMDEFEMGFEMV소형FESMFSEGF..",
+  "og_title": "피델리티 인핸스드 ETF 9종 비교: FELC·FELG·FELV, 액티브인데 유니버스가 지수로 닫히는 구조",
+  "post_id": "791",
+  "published_time": "2026-11-10T01:45:17+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "피델리티 인핸스드 ETF 9종 비교: FELC·FELG·FELV, 액티브인데 유니버스가 지수로 닫히는 구조",
+  "url": "https://mystock-note.tistory.com/791"
+}
