@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "JPMorgan Municipal ETF",
+        "description": "연방소득세 면제 지방채에 근본적 80% 정책으로 투자하며 AMT 대상 증권을 자산의 25%까지 담을 수 있는 ETF",
+        "name": "JMUB"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "미국 지방채 ETF 4종을 1차 출처로 비교한다. 대체최소세(AMT) 대상 증권 편입 한도가 25%인 상품과 무제한인 상품이 나뉜다. 하이일드 뮤니는 순자산의 절반 이상을 투자등급 미만에 담아야 한다.",
+      "headline": "뮤니 ETF 비교: JMUB·JMHI·FMHI·MFLX, 대체최소세 노출이 0%에서 무제한까지 갈리는 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "JMUB, JMHI, FMHI, MFLX, 미국 지방채, 뮤니 ETF, 대체최소세, AMT, 하이일드 뮤니, 사모활동채, 역변동금리증권, 근본적 정책, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "JPMorgan High Yield Municipal ETF",
+          "name": "JMHI"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "First Trust Municipal High Income ETF",
+          "name": "FMHI"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "First Trust Flexible Municipal High Income ETF",
+          "name": "MFLX"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 6809,
+  "canonical_url": "https://mystock-note.tistory.com/799",
+  "content_hash": "eebaebc497cf9b2fef306099ae61c79a57145de37da0462f215ee71709f28832",
+  "json_ld_count": 1,
+  "meta_description": "WisdomTree 배당 ETF 5종을 1차 출처로 비교합니다. 국제형 지수는 적격 국가를 문서에 열거하며 그 목록에 한국은 없습니다. 규모 구간은 상위 300개 기업을 제거한 뒤 누적 시총으로 나눕니다.\"미국 제외 선진국\"이라는 말은 상품마다 다른 나라 집합을 가리킵니다. 대부분은 지수 방법론 문서를 따로 찾아야 확인되지만, 이 시리즈는 요약투자설명서에 나라 이름을 직접 적어둡니다. 그 목록부터 읽는 것이 이 상품군을 보는 순서입니다.이 5종은 어떻게 나뉘나요?지역과 규모 두 축으로 갈립니다 [사실].표1. 상품별 대상 범위티커대상모지수DHS미국 고배당WisdomTree U.S. Total Dividend IndexDTH미국·캐나다 제외 선진국 고배당WisdomTree International Equi..",
+  "modified_time": "2026-11-12T01:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/799\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/799\",\"headline\":\"WisdomTree 배당 ETF 5종 비교: DHS·DTH·DEW·DFE·DIM, '국제'가 가리키는 나라가 문서에 적혀 있다\",\"description\":\"WisdomTree 배당 ETF 5종을 1차 출처로 비교합니다. 국제형 지수는 적격 국가를 문서에 열거하며 그 목록에 한국은 없습니다. 규모 구간은 상위 300개 기업을 제거한 뒤 누적 시총으로 나눕니다.\"미국 제외 선진국\"이라는 말은 상품마다 다른 나라 집합을 가리킵니다. 대부분은 지수 방법론 문서를 따로 찾아야 확인되지만, 이 시리즈는 요약투자설명서에 나라 이름을 직접 적어둡니다. 그 목록부터 읽는 것이 이 상품군을 보는 순서입니다.이 5종은 어떻게 나뉘나요?지역과 규모 두 축으로 갈립니다 [사실].표1. 상품별 대상 범위티커대상모지수DHS미국 고배당WisdomTree U.S. Total Dividend IndexDTH미국·캐나다 제외 선진국 고배당WisdomTree International Equi..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-12T01:37:51+09:00\",\"dateModified\":\"2026-11-12T01:38:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "WisdomTree 배당 ETF 5종을 1차 출처로 비교합니다. 국제형 지수는 적격 국가를 문서에 열거하며 그 목록에 한국은 없습니다. 규모 구간은 상위 300개 기업을 제거한 뒤 누적 시총으로 나눕니다.\"미국 제외 선진국\"이라는 말은 상품마다 다른 나라 집합을 가리킵니다. 대부분은 지수 방법론 문서를 따로 찾아야 확인되지만, 이 시리즈는 요약투자설명서에 나라 이름을 직접 적어둡니다. 그 목록부터 읽는 것이 이 상품군을 보는 순서입니다.이 5종은 어떻게 나뉘나요?지역과 규모 두 축으로 갈립니다 [사실].표1. 상품별 대상 범위티커대상모지수DHS미국 고배당WisdomTree U.S. Total Dividend IndexDTH미국·캐나다 제외 선진국 고배당WisdomTree International Equi..",
+  "og_title": "WisdomTree 배당 ETF 5종 비교: DHS·DTH·DEW·DFE·DIM, '국제'가 가리키는 나라가 문서에 적혀 있다",
+  "post_id": "799",
+  "published_time": "2026-11-12T01:37:51+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "WisdomTree 배당 ETF 5종 비교: DHS·DTH·DEW·DFE·DIM, '국제'가 가리키는 나라가 문서에 적혀 있다",
+  "url": "https://mystock-note.tistory.com/799"
+}

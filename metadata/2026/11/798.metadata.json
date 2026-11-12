@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 7048,
+  "canonical_url": "https://mystock-note.tistory.com/798",
+  "content_hash": "fc71e307033142c17f46ebc9510a2513c0293a75e3c70bcf0beb0a64a6945a13",
+  "json_ld_count": 2,
+  "meta_description": "S&P SmallCap 600 스타일 ETF 4종을 1차 출처로 비교합니다. SPDR과 뱅가드가 같은 지수를 추종하지만 복제 방식은 표본추출과 완전복제로, 투자 정책 기준은 총자산과 순자산으로 갈립니다.기초지수가 같으면 상품도 같다고 보기 쉽습니다. 그래서 비교의 초점이 보수와 규모로 넘어갑니다. 그런데 요약투자설명서를 열면 담는 방법 자체가 다릅니다. 이 글은 그 차이를 정리합니다.이 4종은 어떤 관계인가요?두 개의 지수를 두 발행사가 각각 추종하는 구조입니다 [사실].표1. 지수와 발행사의 조합기초지수SPDR뱅가드S&P SmallCap 600 GrowthSLYGVIOGS&P SmallCap 600 ValueSLYVVIOV가로로 읽으면 기초지수가 완전히 같은 두 상품이고, 세로로 읽으면 같은 발행사의 ..",
+  "modified_time": "2026-11-12T00:38:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "S&P SmallCap 600 스타일 ETF 4종을 1차 출처로 비교합니다. SPDR과 뱅가드가 같은 지수를 추종하지만 복제 방식은 표본추출과 완전복제로, 투자 정책 기준은 총자산과 순자산으로 갈립니다.기초지수가 같으면 상품도 같다고 보기 쉽습니다. 그래서 비교의 초점이 보수와 규모로 넘어갑니다. 그런데 요약투자설명서를 열면 담는 방법 자체가 다릅니다. 이 글은 그 차이를 정리합니다.이 4종은 어떤 관계인가요?두 개의 지수를 두 발행사가 각각 추종하는 구조입니다 [사실].표1. 지수와 발행사의 조합기초지수SPDR뱅가드S&P SmallCap 600 GrowthSLYGVIOGS&P SmallCap 600 ValueSLYVVIOV가로로 읽으면 기초지수가 완전히 같은 두 상품이고, 세로로 읽으면 같은 발행사의 ..",
+  "og_title": "S&P 600 스타일 ETF 비교: SLYG·VIOG·SLYV·VIOV, 같은 지수인데 담는 방법이 다른 이유",
+  "post_id": "798",
+  "published_time": "2026-11-12T00:37:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "S&P 600 스타일 ETF 비교: SLYG·VIOG·SLYV·VIOV, 같은 지수인데 담는 방법이 다른 이유",
+  "url": "https://mystock-note.tistory.com/798"
+}

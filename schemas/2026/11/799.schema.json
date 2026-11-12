@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "WisdomTree International High Dividend Fund",
+        "description": "적격 국가를 문서에 열거하는 미국·캐나다 제외 선진국 고배당 지수를 추종하는 ETF",
+        "name": "DTH"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "WisdomTree 배당 ETF 5종을 1차 출처로 비교한다. 국제형 지수는 적격 국가를 문서에 열거하며 그 목록에 한국은 없다. 규모 구간은 상위 300개 기업을 제거한 뒤 누적 시총으로 나눈다.",
+      "headline": "WisdomTree 배당 ETF 5종 비교: DHS·DTH·DEW·DFE·DIM, '국제'가 가리키는 나라가 문서에 적혀 있다",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "DHS, DTH, DEW, DFE, DIM, WisdomTree, 고배당 ETF, 적격 국가, 자체 지수, 규모 구간, 유럽 소형주, 국제 중형주, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree U.S. High Dividend Fund",
+          "name": "DHS"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Global High Dividend Fund",
+          "name": "DEW"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Europe SmallCap Dividend Fund",
+          "name": "DFE"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "WisdomTree International MidCap Dividend Fund",
+          "name": "DIM"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

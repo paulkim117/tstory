@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-12T00:38:00+09:00",
+    "datePublished": "2026-11-12T00:37:27+09:00",
+    "description": "S&P SmallCap 600 스타일 ETF 4종을 1차 출처로 비교합니다. SPDR과 뱅가드가 같은 지수를 추종하지만 복제 방식은 표본추출과 완전복제로, 투자 정책 기준은 총자산과 순자산으로 갈립니다.기초지수가 같으면 상품도 같다고 보기 쉽습니다. 그래서 비교의 초점이 보수와 규모로 넘어갑니다. 그런데 요약투자설명서를 열면 담는 방법 자체가 다릅니다. 이 글은 그 차이를 정리합니다.이 4종은 어떤 관계인가요?두 개의 지수를 두 발행사가 각각 추종하는 구조입니다 [사실].표1. 지수와 발행사의 조합기초지수SPDR뱅가드S&P SmallCap 600 GrowthSLYGVIOGS&P SmallCap 600 ValueSLYVVIOV가로로 읽으면 기초지수가 완전히 같은 두 상품이고, 세로로 읽으면 같은 발행사의 ..",
+    "headline": "S&P 600 스타일 ETF 비교: SLYG·VIOG·SLYV·VIOV, 같은 지수인데 담는 방법이 다른 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/798",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/798"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "SPDR S&P 600 Small Cap Growth ETF",
+          "description": "S&P SmallCap 600 Growth 지수를 표본추출 방식으로 추종하며 총자산 기준 투자 정책을 두는 미국 소형 성장주 ETF",
+          "name": "SLYG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "S&P SmallCap 600 스타일 ETF 4종을 1차 출처로 비교한다. SPDR과 뱅가드가 같은 지수를 추종하지만 복제 방식은 표본추출과 완전복제로, 투자 정책 기준은 총자산과 순자산으로 갈린다.",
+        "headline": "S&P 600 스타일 ETF 비교: SLYG·VIOG·SLYV·VIOV, 같은 지수인데 담는 방법이 다른 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "SLYG, VIOG, SLYV, VIOV, S&P SmallCap 600, 미국 소형주, 표본추출, 완전복제, 투자 정책 기준, 총자산, 순자산, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard S&P Small-Cap 600 Growth ETF",
+            "name": "VIOG"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "SPDR S&P 600 Small Cap Value ETF",
+            "name": "SLYV"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard S&P Small-Cap 600 Value ETF",
+            "name": "VIOV"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

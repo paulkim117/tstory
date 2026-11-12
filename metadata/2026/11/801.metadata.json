@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 7770,
+  "canonical_url": "https://mystock-note.tistory.com/801",
+  "content_hash": "ca5e6eaeb72f4da579a77ba2b5d0012aebeb12f4d0be0a0bf806991344cc7c34",
+  "json_ld_count": 2,
+  "meta_description": "SPDR Portfolio 계열 ETF 6종을 1차 출처로 비교합니다. 같은 시리즈 이름을 쓰지만 소속 신탁이 둘로 갈리고, 가중 방식은 시총과 동일가중으로, 리밸런스 주기는 분기와 반기로 나뉩니다.상품명 앞부분이 같으면 같은 규칙으로 만들어졌다고 읽기 쉽습니다. 이 계열에서는 그 전제가 성립하지 않습니다. 여섯 상품의 요약투자설명서를 나란히 놓으면 공통점보다 차이가 먼저 눈에 들어옵니다.이 6종은 무엇을 담나요?지역형 넷과 미국형 둘로 나뉩니다 [사실].표1. 상품별 대상 범위티커대상SPDW미국 외 선진국 소재 상장기업SPEM신흥국 소재 상장기업SPEU서유럽 상장기업SPGM선진국과 신흥국을 결합한 글로벌 주식시장SPMD미국 중형주SPYDS&P 500 내 고배당 80종여기까지는 예상 가능한 구획입니다. ..",
+  "modified_time": "2026-11-12T03:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "SPDR Portfolio 계열 ETF 6종을 1차 출처로 비교합니다. 같은 시리즈 이름을 쓰지만 소속 신탁이 둘로 갈리고, 가중 방식은 시총과 동일가중으로, 리밸런스 주기는 분기와 반기로 나뉩니다.상품명 앞부분이 같으면 같은 규칙으로 만들어졌다고 읽기 쉽습니다. 이 계열에서는 그 전제가 성립하지 않습니다. 여섯 상품의 요약투자설명서를 나란히 놓으면 공통점보다 차이가 먼저 눈에 들어옵니다.이 6종은 무엇을 담나요?지역형 넷과 미국형 둘로 나뉩니다 [사실].표1. 상품별 대상 범위티커대상SPDW미국 외 선진국 소재 상장기업SPEM신흥국 소재 상장기업SPEU서유럽 상장기업SPGM선진국과 신흥국을 결합한 글로벌 주식시장SPMD미국 중형주SPYDS&P 500 내 고배당 80종여기까지는 예상 가능한 구획입니다. ..",
+  "og_title": "SPDR Portfolio ETF 6종 비교: SPDW·SPEM·SPEU·SPGM·SPMD·SPYD, 같은 이름인데 규칙이 제각각인 이유",
+  "post_id": "801",
+  "published_time": "2026-11-12T03:39:39+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "SPDR Portfolio ETF 6종 비교: SPDW·SPEM·SPEU·SPGM·SPMD·SPYD, 같은 이름인데 규칙이 제각각인 이유",
+  "url": "https://mystock-note.tistory.com/801"
+}

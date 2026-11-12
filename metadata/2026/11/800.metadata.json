@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 7726,
+  "canonical_url": "https://mystock-note.tistory.com/800",
+  "content_hash": "eab2fe93ea50ea378a71446510ec0e5f1634e6435d33b0fff730f40e218ccfdd",
+  "json_ld_count": 1,
+  "meta_description": "미국 지방채 ETF 4종을 1차 출처로 비교합니다. 대체최소세(AMT) 대상 증권 편입 한도가 25%인 상품과 무제한인 상품이 나뉩니다. 하이일드 뮤니는 순자산의 절반 이상을 투자등급 미만에 담아야 합니다.지방채 ETF는 \"면세채권\"이라는 한 단어로 묶이기 쉽습니다. 그런데 문서를 열면 같은 면세채권 안에서도 담을 수 있는 것의 범위가 크게 다릅니다. 그 범위를 가르는 축 두 개가 대체최소세와 신용등급입니다.이 4종은 무엇이 다른가요?네 상품 모두 연방소득세가 면제되는 지방채에 투자합니다 [사실]. 갈리는 지점은 그 안에서 무엇까지 담느냐입니다.표1. 상품별 성격티커운용사성격JMUBJPMorgan일반 지방채JMHIJPMorgan하이일드 지방채FMHIFirst Trust하이일드 지방채MFLXFirst Tr..",
+  "modified_time": "2026-11-12T02:39:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/800\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/800\",\"headline\":\"뮤니 ETF 비교: JMUB·JMHI·FMHI·MFLX, 대체최소세 노출이 0%에서 무제한까지 갈리는 이유\",\"description\":\"미국 지방채 ETF 4종을 1차 출처로 비교합니다. 대체최소세(AMT) 대상 증권 편입 한도가 25%인 상품과 무제한인 상품이 나뉩니다. 하이일드 뮤니는 순자산의 절반 이상을 투자등급 미만에 담아야 합니다.지방채 ETF는 \"면세채권\"이라는 한 단어로 묶이기 쉽습니다. 그런데 문서를 열면 같은 면세채권 안에서도 담을 수 있는 것의 범위가 크게 다릅니다. 그 범위를 가르는 축 두 개가 대체최소세와 신용등급입니다.이 4종은 무엇이 다른가요?네 상품 모두 연방소득세가 면제되는 지방채에 투자합니다 [사실]. 갈리는 지점은 그 안에서 무엇까지 담느냐입니다.표1. 상품별 성격티커운용사성격JMUBJPMorgan일반 지방채JMHIJPMorgan하이일드 지방채FMHIFirst Trust하이일드 지방채MFLXFirst Tr..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-12T02:38:11+09:00\",\"dateModified\":\"2026-11-12T02:39:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "미국 지방채 ETF 4종을 1차 출처로 비교합니다. 대체최소세(AMT) 대상 증권 편입 한도가 25%인 상품과 무제한인 상품이 나뉩니다. 하이일드 뮤니는 순자산의 절반 이상을 투자등급 미만에 담아야 합니다.지방채 ETF는 \"면세채권\"이라는 한 단어로 묶이기 쉽습니다. 그런데 문서를 열면 같은 면세채권 안에서도 담을 수 있는 것의 범위가 크게 다릅니다. 그 범위를 가르는 축 두 개가 대체최소세와 신용등급입니다.이 4종은 무엇이 다른가요?네 상품 모두 연방소득세가 면제되는 지방채에 투자합니다 [사실]. 갈리는 지점은 그 안에서 무엇까지 담느냐입니다.표1. 상품별 성격티커운용사성격JMUBJPMorgan일반 지방채JMHIJPMorgan하이일드 지방채FMHIFirst Trust하이일드 지방채MFLXFirst Tr..",
+  "og_title": "뮤니 ETF 비교: JMUB·JMHI·FMHI·MFLX, 대체최소세 노출이 0%에서 무제한까지 갈리는 이유",
+  "post_id": "800",
+  "published_time": "2026-11-12T02:38:11+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "뮤니 ETF 비교: JMUB·JMHI·FMHI·MFLX, 대체최소세 노출이 0%에서 무제한까지 갈리는 이유",
+  "url": "https://mystock-note.tistory.com/800"
+}
