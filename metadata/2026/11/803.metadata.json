@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 7473,
+  "canonical_url": "https://mystock-note.tistory.com/803",
+  "content_hash": "ca1e1bebbfd83e32695d2bd9426ca4367cdb0799070a3b3e261368dd4312ab82",
+  "json_ld_count": 2,
+  "meta_description": "IDLV는 미국을 뺀 선진국 주식 중에서 가격 등락이 가장 작았던 200종목을 담는 ETF입니다. 방식만 보면 미국 저변동 상품과 같은 계열이지만, 대상이 여러 나라로 넓어지면서 미국판에는 없던 문제가 하나 생깁니다.지수에 섹터 상한도 국가 상한도 없다는 점입니다. 그 결과 요약투자설명서는 특정 국가에 대한 투자 위험을 별도 항목으로 따로 등재합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·구성 비중·회전율 같은 변동 수치는 제외했습니다.IDLV는 어떤 ETF인가?정식 명칭은 Invesco S&P International Developed Low Volatility ETF이고 NYSE Arca에 상장돼 있습니다. 지수 산출은 S&P Dow Jones Indices가 맡습..",
+  "modified_time": "2026-11-13T01:41:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IDLV는 미국을 뺀 선진국 주식 중에서 가격 등락이 가장 작았던 200종목을 담는 ETF입니다. 방식만 보면 미국 저변동 상품과 같은 계열이지만, 대상이 여러 나라로 넓어지면서 미국판에는 없던 문제가 하나 생깁니다.지수에 섹터 상한도 국가 상한도 없다는 점입니다. 그 결과 요약투자설명서는 특정 국가에 대한 투자 위험을 별도 항목으로 따로 등재합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·구성 비중·회전율 같은 변동 수치는 제외했습니다.IDLV는 어떤 ETF인가?정식 명칭은 Invesco S&P International Developed Low Volatility ETF이고 NYSE Arca에 상장돼 있습니다. 지수 산출은 S&P Dow Jones Indices가 맡습..",
+  "og_title": "IDLV ETF란? 상한 없는 국제 저변동 지수, 쏠림 축이 섹터에서 국가로 늘어나는 구조",
+  "post_id": "803",
+  "published_time": "2026-11-13T01:40:34+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IDLV ETF란? 상한 없는 국제 저변동 지수, 쏠림 축이 섹터에서 국가로 늘어나는 구조",
+  "url": "https://mystock-note.tistory.com/803"
+}

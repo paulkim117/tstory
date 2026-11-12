@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "iShares ESG Aware U.S. Aggregate Bond ETF",
+        "description": "국채·MBS·CMBS·ABS를 모지수 비중대로 복제해 ESG 최적화 대상에서 제외하는 미국 종합채권 ESG ETF",
+        "name": "EAGG"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "iShares ESG ETF 15종은 ESG 심사의 범위·시점·주체가 서로 다르다. EAGG는 국채·MBS를 심사 대상에서 빼고, 심사 주기는 월간부터 연 1회까지 갈린다. SEC 문서로 대조했다.",
+      "headline": "iShares ESG ETF 비교: EAGG·ESGE·XJH·LDEM, ESG 심사가 닿지 않는 구간이 문서에 적혀 있다",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "ESG ETF, EAGG, ESGE, XJH, LDEM, HYXF, SUSC, 지수 리뷰 주기, ESG 평가사, MSCI Solutions, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware MSCI EM ETF",
+          "name": "ESGE"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Advanced MSCI EM ETF",
+          "name": "EMXF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG MSCI EM Leaders ETF",
+          "name": "LDEM"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Advanced MSCI EAFE ETF",
+          "name": "DMXF"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Optimized MSCI USA ETF",
+          "name": "SUSA"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Optimized MSCI USA Min Vol Factor ETF",
+          "name": "ESMV"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware MSCI USA Growth ETF",
+          "name": "EGUS"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware MSCI USA Value ETF",
+          "name": "EVUS"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "name": "ESML"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Select Screened S&P Mid-Cap ETF",
+          "name": "XJH"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Select Screened S&P Small-Cap ETF",
+          "name": "XJR"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware USD Corporate Bond ETF",
+          "name": "SUSC"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Aware 1-5 Year USD Corporate Bond ETF",
+          "name": "SUSB"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "iShares ESG Advanced High Yield Corporate Bond ETF",
+          "name": "HYXF"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

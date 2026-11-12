@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-13T02:42:00+09:00",
+    "datePublished": "2026-11-13T02:41:05+09:00",
+    "description": "JIG와 JIVE는 미국을 뺀 해외 주식에 투자하는 액티브 ETF입니다. 하나는 이름에 성장(Growth)이, 다른 하나는 가치(Value)가 붙어 있습니다. 그런데 그 단어에 대응하는 명문 규칙은 최근에야 생겼습니다.두 상품의 요약투자설명서를 연도별로 대조하면, 자산의 80% 이상을 성장 기업 또는 가치 기업에 투자한다는 조항이 2026년 6월 1일부로 신설됐습니다. 그 이전 판에는 없던 문장입니다. 이 글은 그 변화와, 성장·가치를 누가 어떤 기준으로 판정하는지를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 제외했습니다.두 상품은 무엇을 담는 ETF인가?둘 다 J.P. Morgan Exchange-Traded Fund Trust 소속의 액티브 ETF입니다. 지수를..",
+    "headline": "JIG·JIVE 비교: 국제 액티브 성장·가치 ETF, 이름의 '성장'과 '가치'가 2026년에야 규칙이 된 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/804",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/804"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "JPMorgan International Growth ETF",
+          "description": "2026년 6월 1일부로 자산 80% 이상을 성장 기업에 투자하는 조항이 신설된 국제 액티브 성장주 ETF",
+          "name": "JIG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "JIG·JIVE는 상품명에 성장·가치를 달고 있었지만, 자산 80%를 해당 기업에 투자한다는 조항은 2026년 6월 1일 신설됐다. 정의는 운용역이 지표 중 하나 이상으로 판정한다.",
+        "headline": "JIG·JIVE 비교: 국제 액티브 성장·가치 ETF, 이름의 '성장'과 '가치'가 2026년에야 규칙이 된 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "JIG, JIVE, 액티브 ETF, 국제 주식, 성장주, 가치주, 80% 투자 정책, 국가 귀속 판정, JPMorgan, 해외 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan International Value ETF",
+            "name": "JIVE"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 7956,
+  "canonical_url": "https://mystock-note.tistory.com/805",
+  "content_hash": "9121586c175da23fd537676fc3ee4fc0041d0f048a785bbb7b9d9edd30d62509",
+  "json_ld_count": 2,
+  "meta_description": "DFJ는 일본 소형주를 담는 ETF입니다. 그런데 요약투자설명서를 열어 보면 '소형'이라는 단어가 편입 규칙의 첫 단계가 아닙니다. 시가총액으로 줄을 세우기 전에 통과해야 할 문턱이 네 개 먼저 있습니다.그중 두 개가 거래에 관한 조건이고, 더 나아가 거래량은 편입 자격뿐 아니라 개별 종목의 비중을 다시 조정하는 변수로 한 번 더 등장합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위·섹터 비중 같은 변동 수치는 제외했습니다.DFJ는 어떤 ETF인가?정식 명칭은 WisdomTree Japan SmallCap Dividend Fund이고 NYSE Arca에 상장돼 있습니다. 지수를 추종하는 패시브 상품이며, 지수 전 종목을 담는 대신 대표표본추출 방식으로 일부를..",
+  "modified_time": "2026-11-13T03:42:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "DFJ는 일본 소형주를 담는 ETF입니다. 그런데 요약투자설명서를 열어 보면 '소형'이라는 단어가 편입 규칙의 첫 단계가 아닙니다. 시가총액으로 줄을 세우기 전에 통과해야 할 문턱이 네 개 먼저 있습니다.그중 두 개가 거래에 관한 조건이고, 더 나아가 거래량은 편입 자격뿐 아니라 개별 종목의 비중을 다시 조정하는 변수로 한 번 더 등장합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위·섹터 비중 같은 변동 수치는 제외했습니다.DFJ는 어떤 ETF인가?정식 명칭은 WisdomTree Japan SmallCap Dividend Fund이고 NYSE Arca에 상장돼 있습니다. 지수를 추종하는 패시브 상품이며, 지수 전 종목을 담는 대신 대표표본추출 방식으로 일부를..",
+  "og_title": "DFJ ETF란? 일본 소형주 ETF의 편입 문턱 4개와, 거래량이 비중까지 바꾸는 구조",
+  "post_id": "805",
+  "published_time": "2026-11-13T03:41:28+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DFJ ETF란? 일본 소형주 ETF의 편입 문턱 4개와, 거래량이 비중까지 바꾸는 구조",
+  "url": "https://mystock-note.tistory.com/805"
+}

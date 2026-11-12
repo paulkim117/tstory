@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-13T01:41:00+09:00",
+    "datePublished": "2026-11-13T01:40:34+09:00",
+    "description": "IDLV는 미국을 뺀 선진국 주식 중에서 가격 등락이 가장 작았던 200종목을 담는 ETF입니다. 방식만 보면 미국 저변동 상품과 같은 계열이지만, 대상이 여러 나라로 넓어지면서 미국판에는 없던 문제가 하나 생깁니다.지수에 섹터 상한도 국가 상한도 없다는 점입니다. 그 결과 요약투자설명서는 특정 국가에 대한 투자 위험을 별도 항목으로 따로 등재합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·구성 비중·회전율 같은 변동 수치는 제외했습니다.IDLV는 어떤 ETF인가?정식 명칭은 Invesco S&P International Developed Low Volatility ETF이고 NYSE Arca에 상장돼 있습니다. 지수 산출은 S&P Dow Jones Indices가 맡습..",
+    "headline": "IDLV ETF란? 상한 없는 국제 저변동 지수, 쏠림 축이 섹터에서 국가로 늘어나는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/803",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/803"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco S&P International Developed Low Volatility ETF",
+          "description": "S&P World ex-U.S. Index에서 실현 변동성이 가장 낮은 200종목을 역변동성 가중으로 담는 국제 선진국 저변동 ETF",
+          "name": "IDLV"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IDLV는 S&P World ex-U.S.에서 실현 변동성이 가장 낮은 200종목을 담는다. 섹터·국가 상한이 없어 쏠림이 국가 단위로 확장되고, 문서는 특정 국가 투자 위험을 별도 항목으로 등재한다.",
+        "headline": "IDLV ETF란? 상한 없는 국제 저변동 지수, 쏠림 축이 섹터에서 국가로 늘어나는 구조",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IDLV, 국제 저변동, 저변동 팩터, S&P World ex-U.S., 역변동성 가중, 국가 쏠림, 선진국 ETF, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

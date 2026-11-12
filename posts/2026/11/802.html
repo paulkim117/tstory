@@ -1,0 +1,392 @@
+<!--
+source: https://mystock-note.tistory.com/802
+backup_date: 2026-11-12
+post_id: 802
+-->
+<p data-ke-size="size16">상품명에 ESG가 붙은 ETF를 고를 때 대개 "무엇을 빼는가"를 먼저 봅니다. 담배를 빼는지, 화석연료를 빼는지 같은 것들입니다. 그런데 같은 발행사의 ESG ETF 15종을 1차 출처로 나란히 놓고 보면, 배제 목록보다 앞서 갈리는 것이 따로 있습니다.</p>
+<p data-ke-size="size16"><b>ESG 심사가 어디까지 닿고, 언제 이뤄지며, 누가 하는가</b>입니다. 어떤 상품은 보유 자산의 상당 부분을 애초에 심사 대상에서 빼고, 심사 주기는 월 1회부터 연 1회까지 벌어집니다. 이 글은 그 세 가지를 SEC 제출 문서로 대조합니다. 총보수&middot;순자산&middot;수익률&middot;구성종목 수 같은 변동 수치는 전부 제외했습니다.</p>
+
+<h2 data-ke-size="size26">ESG ETF가 담은 자산은 전부 심사를 거치나?</h2>
+<p data-ke-size="size16">아닙니다. 적어도 한 상품은 문서에 명시적으로 아니라고 적혀 있습니다.</p>
+<p data-ke-size="size16">미국 종합채권을 담는 <b>EAGG</b>의 요약투자설명서를 보면, 지수 제공사는 모지수의 <b>미국 국채&middot;MBS&middot;CMBS&middot;ABS 노출을 그대로 복제</b>합니다. 그리고 이 부분은 <b>최적화 대상이 아니라고</b> 명시합니다 [사실 &middot; Form 497K]. 배제 스크린과 ESG 최적화가 적용되는 것은 <b>나머지 구성분, 즉 회사채와 정부관련채</b>뿐입니다.</p>
+<table data-ke-align="alignLeft"><caption>EAGG에서 ESG 심사가 닿는 구간과 닿지 않는 구간</caption>
+<thead>
+<tr>
+<th>자산 구분</th>
+<th>ESG 배제&middot;최적화</th>
+<th>비중 결정 방식</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>미국 국채</td>
+<td><b>적용 안 함</b></td>
+<td>모지수 비중 그대로</td>
+</tr>
+<tr>
+<td>MBS&middot;CMBS&middot;ABS</td>
+<td><b>적용 안 함</b></td>
+<td>모지수 비중 그대로</td>
+</tr>
+<tr>
+<td>회사채</td>
+<td>적용</td>
+<td>배제 후 최적화</td>
+</tr>
+<tr>
+<td>정부관련채</td>
+<td>적용</td>
+<td>배제 후 최적화</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 이 구조는 결함이 아니라 설계입니다. 국채와 증권화채권은 발행 주체가 기업이 아니어서 기업 단위 ESG 등급을 매길 대상이 아니고, 이들을 빼면 모지수와의 위험&middot;수익 유사성이 깨집니다. 다만 <b>결과적으로 "ESG 채권 ETF"라는 이름과 실제 심사 범위 사이에 간격이 생깁니다.</b> 이 간격의 크기는 모지수인 미국 종합채권 지수에서 국채와 증권화채권이 차지하는 비중만큼입니다 [판단].</p>
+<p data-ke-size="size16">종합채권 지수 자체가 무엇을 담는지는 <a href="https://mystock-note.tistory.com/397">미국 종합채권 지수의 구성과 편입 범위를 정리한 글</a>에서 따로 다뤘습니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">다른 채권 ESG ETF도 같은 구조인가?</h2>
+<p data-ke-size="size16">다릅니다. 같은 발행사의 채권 ESG ETF 4종 중에서 이 구조를 갖는 것은 EAGG 하나입니다.</p>
+<table data-ke-align="alignLeft"><caption>채권 ESG ETF 4종의 심사 범위</caption>
+<thead>
+<tr>
+<th>티커</th>
+<th>담는 자산</th>
+<th>심사에서 빠지는 구간</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EAGG</td>
+<td>미국 종합채권(국채+회사채+증권화채)</td>
+<td><b>있음 &mdash; 국채&middot;MBS&middot;CMBS&middot;ABS</b></td>
+</tr>
+<tr>
+<td>SUSC</td>
+<td>미국 투자등급 회사채</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>SUSB</td>
+<td>미국 투자등급 회사채(잔존 1&ndash;5년)</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>HYXF</td>
+<td>미국 하이일드 회사채</td>
+<td>없음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 회사채만 담는 세 상품은 보유 자산 전체가 기업 발행분이므로 심사 범위와 보유 범위가 일치합니다. <b>즉 "ESG 심사가 닿지 않는 구간"은 상품이 국채나 증권화채권을 담는지 여부에서 생깁니다.</b> 종합형이면 생기고, 회사채 전용이면 생기지 않습니다.</p>
+<p data-ke-size="size16">주식 ESG ETF 11종에는 이 문제가 없습니다. 담는 것이 전부 기업 주식이라 모든 편입 후보가 등급 평가 대상입니다. <b>범위 축은 사실상 채권형에서만 작동하는 구분입니다</b> [판단].</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">ESG 기준은 언제 확인되나?</h2>
+<p data-ke-size="size16">상시가 아니라 <b>지수 리뷰나 리밸런싱 시점에만</b> 확인됩니다. 15종 전부의 요약투자설명서에 같은 문언이 들어 있습니다 [사실 &middot; Form 497K].</p>
+<blockquote><p data-ke-size="size16">지수 제공사는 종목 단위 ESG 데이터를 지수 리뷰 또는 리밸런싱 시점에만 평가할 수 있다. 지수에 편입된 종목이 ESG 기준을 더 이상 충족하지 않게 되더라도 다음 리뷰 또는 리밸런싱까지 지수와 펀드에 남을 수 있다. 그 결과 일부 종목 또는 지수 전체가 항상 ESG 목표를 충족하지는 않을 수 있다.</p></blockquote>
+<p data-ke-size="size16">해석: 이 문언은 위험 고지 형식을 띠고 있지만 실제로는 <b>운영 방식의 설명</b>입니다. ESG ETF는 편입 종목을 실시간으로 감시해 기준 미달 시 즉시 교체하는 구조가 아닙니다. 기준 위반 사건이 리뷰 직후에 발생하면 <b>다음 리뷰까지 그 종목을 계속 보유합니다.</b></p>
+<p data-ke-size="size16">따라서 "이 ETF는 ESG 기준을 충족하는 종목만 담는다"는 이해는 정확하지 않습니다. 정확한 이해는 <b>"가장 최근 리뷰 시점에 기준을 충족했던 종목을 담고 있다"</b>입니다. 두 문장의 차이는 리뷰 주기만큼입니다.</p>
+
+<h2 data-ke-size="size26">심사 주기는 상품마다 얼마나 다른가?</h2>
+<p data-ke-size="size16">최대 12배 차이가 납니다. 월 1회부터 연 1회까지 벌어집니다.</p>
+<table data-ke-align="alignLeft"><caption>지수 리뷰&middot;리밸런싱 주기 (문서 명시분)</caption>
+<thead>
+<tr>
+<th>주기</th>
+<th>해당 상품</th>
+<th>문서 표현</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>월간</td>
+<td><b>HYXF</b></td>
+<td>매월 마지막 영업일 리밸런싱</td>
+</tr>
+<tr>
+<td>분기</td>
+<td>ESGE&middot;ESML&middot;EGUS&middot;EVUS&middot;SUSA&middot;EAGG&middot;EMXF&middot;DMXF 등</td>
+<td>분기 리뷰</td>
+</tr>
+<tr>
+<td>분기</td>
+<td><b>XJH&middot;XJR</b></td>
+<td>3&middot;6&middot;9&middot;12월 셋째 금요일 종가 후</td>
+</tr>
+<tr>
+<td>연 1회</td>
+<td><b>LDEM</b></td>
+<td>매년 5월 리뷰(모지수 반기 리뷰에 맞춤)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 앞 항목의 "다음 리뷰까지 잔존" 문언과 이 표를 겹쳐 읽어야 의미가 드러납니다. <b>HYXF에서 기준 이탈 종목의 최대 잔존 기간은 한 달이지만, LDEM에서는 최대 1년입니다.</b> 같은 발행사의 같은 계열 상품인데 ESG 기준의 실효 지연이 12배 차이 납니다 [판단].</p>
+<h3 data-ke-size="size23">기준일과 적용일이 어긋나는 경우</h3>
+<p data-ke-size="size16">XJH&middot;XJR은 한 단계가 더 있습니다. 지수 리밸런싱은 3&middot;6&middot;9&middot;12월 셋째 금요일 종가 후에 효력이 생기지만, <b>배제 여부를 판정하는 기준일은 2&middot;5&middot;8&middot;11월 셋째 금요일</b>입니다 [사실 &middot; Form 497K].</p>
+<p data-ke-size="size16">즉 판정 시점과 반영 시점 사이에 <b>약 한 달의 시차</b>가 존재합니다. 판정 기준일 다음 날에 배제 사유가 생긴 기업은 그 분기 리밸런싱에 반영되지 않고, 다음 분기까지 기다립니다. 앞의 리뷰 주기(3개월)에 이 시차(1개월)가 더해지는 구조입니다.</p>
+
+<h2 data-ke-size="size26">ESG 등급을 매기는 주체는 누구인가?</h2>
+<p data-ke-size="size16">지수를 만드는 회사와 ESG를 평가하는 회사가 같지 않은 경우가 있습니다. 15종은 이 기준으로 세 갈래로 나뉩니다 [사실 &middot; Form 497K].</p>
+<table data-ke-align="alignLeft"><caption>지수 산출 주체와 ESG 평가 주체</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>지수 산출</th>
+<th>ESG 평가</th>
+<th>해당 상품</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동일 주체</td>
+<td>MSCI Inc.</td>
+<td>MSCI Inc.</td>
+<td>ESGE&middot;ESML&middot;EGUS&middot;EVUS&middot;SUSA&middot;ESMV</td>
+</tr>
+<tr>
+<td>법인 분리</td>
+<td>MSCI Inc.</td>
+<td><b>MSCI Solutions LLC</b></td>
+<td>EMXF&middot;DMXF&middot;LDEM</td>
+</tr>
+<tr>
+<td>회사 분리</td>
+<td><b>Bloomberg</b></td>
+<td><b>MSCI Solutions LLC</b></td>
+<td>EAGG&middot;SUSB&middot;SUSC&middot;HYXF</td>
+</tr>
+<tr>
+<td>외부 데이터 위탁</td>
+<td><b>S&amp;P Dow Jones Indices</b></td>
+<td>외부 데이터 제공사 복수</td>
+<td>XJH&middot;XJR</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">채권 4종은 지수를 Bloomberg가 산출하고 ESG 등급 입력값은 MSCI Solutions LLC가 제공합니다. 문서는 이를 <b>MSCI Solutions와 Bloomberg Index Services Limited 사이의 계약에 따른 것</b>이라고 적습니다. 즉 두 회사의 계약 관계가 지수 구성의 전제입니다.</p>
+<h3 data-ke-size="size23">S&amp;P 계열은 데이터 제공사를 나열한다</h3>
+<p data-ke-size="size16">XJH&middot;XJR은 구조가 또 다릅니다. S&amp;P Dow Jones Indices가 판정 주체이되, 판정에 쓰는 데이터를 <b>여러 외부 제공사에서 받아옵니다.</b> 2026년 7월 31일자 문서는 Trucost, S&amp;P Global Business Involvement Screens, Sustainalytics, S&amp;P Global Sustainable1을 열거합니다 [사실 &middot; Form 497K].</p>
+<p data-ke-size="size16">주목할 점은 이 <b>목록 자체가 바뀐다</b>는 것입니다. 2025년 8월 1일자 문서에는 RepRisk와 SAM ESG Research가 들어 있었으나, 2026년 7월 31일자 문서에서는 S&amp;P Global Sustainable1로 정리됐습니다. <b>같은 지수, 같은 배제 항목인데 판정 근거 데이터의 출처가 교체된 것입니다</b> [사실].</p>
+<p data-ke-size="size16">해석: 평가 주체가 분리돼 있거나 외부에 위탁돼 있으면, 투자자가 확인해야 할 문서가 하나 더 늘어납니다. 운용사 자료만으로는 등급 산정 방식을 확인할 수 없고, 평가사 방법론까지 따라가야 합니다 [판단].</p>
+
+<h2 data-ke-size="size26">15종은 이 세 축으로 어떻게 나뉘나?</h2>
+<table data-ke-align="alignLeft"><caption>범위&middot;시점&middot;주체 종합 (15종)</caption>
+<thead>
+<tr>
+<th>티커</th>
+<th>담는 것</th>
+<th>심사 제외 구간</th>
+<th>주기</th>
+<th>평가 주체</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ESGE</td>
+<td>신흥국 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>EMXF</td>
+<td>신흥국 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>LDEM</td>
+<td>신흥국 주식</td>
+<td>없음</td>
+<td><b>연 1회</b></td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>DMXF</td>
+<td>선진국(미국&middot;캐나다 제외) 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>SUSA</td>
+<td>미국 대형&middot;중형 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>ESMV</td>
+<td>미국 최소변동성 주식</td>
+<td>없음</td>
+<td>리밸런싱 시</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>EGUS</td>
+<td>미국 성장 스타일 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>EVUS</td>
+<td>미국 가치 스타일 주식</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>ESML</td>
+<td>미국 소형주</td>
+<td>없음</td>
+<td>분기</td>
+<td>MSCI Inc.</td>
+</tr>
+<tr>
+<td>XJH</td>
+<td>미국 중형주</td>
+<td>없음</td>
+<td>분기(기준일 시차)</td>
+<td>S&amp;P DJI + 외부</td>
+</tr>
+<tr>
+<td>XJR</td>
+<td>미국 소형주</td>
+<td>없음</td>
+<td>분기(기준일 시차)</td>
+<td>S&amp;P DJI + 외부</td>
+</tr>
+<tr>
+<td>EAGG</td>
+<td>미국 종합채권</td>
+<td><b>국채&middot;MBS&middot;CMBS&middot;ABS</b></td>
+<td>분기</td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>SUSC</td>
+<td>미국 IG 회사채</td>
+<td>없음</td>
+<td>지수 리뷰 시</td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>SUSB</td>
+<td>미국 IG 회사채(1&ndash;5년)</td>
+<td>없음</td>
+<td>지수 리뷰 시</td>
+<td>MSCI Solutions</td>
+</tr>
+<tr>
+<td>HYXF</td>
+<td>미국 하이일드 회사채</td>
+<td>없음</td>
+<td><b>월간</b></td>
+<td>MSCI Solutions</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 상품명만으로는 이 표의 어느 칸도 알 수 없습니다. 이름은 담는 자산과 등급어를 알려줄 뿐, <b>심사가 닿는 범위와 확인 주기와 평가 주체는 전부 문서에만 적혀 있습니다</b> [판단]. 상품명에 같은 문자열이 들어갔다고 같은 심사를 받는 것이 아닙니다.</p>
+<p data-ke-size="size16">지수 이름이 비슷할 때 어떤 항목을 대조해야 하는지는 <a href="https://mystock-note.tistory.com/545">이름이 겹치는 지수를 네 개 항목으로 갈라 보는 방법을 정리한 글</a>에 정리해 뒀습니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>미국 상장 직접투자</th>
+<th>국내 상장 유사 상품</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<td>기본공제</td>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<td>과세 방식</td>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<td>종합과세</td>
+<td>해당 없음</td>
+<td>연 2,000만 원 초과 시 가능</td>
+</tr>
+<tr>
+<td>연금계좌 매수</td>
+<td>불가</td>
+<td>가능(상품별 확인)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">위 15종은 전부 미국 상장이므로 연금저축&middot;IRP 계좌에서 직접 매수할 수 없습니다. 동일 지수를 추종하는 국내 상장 대안이 있는지는 상품별로 다르며, 이 글에서는 확인되지 않았습니다 <code>[정보부족]</code>. 없다고 단정하기 전에 거래 증권사와 거래소 상장 목록에서 직접 확인하시기 바랍니다.</p>
+
+<h2 data-ke-size="size26">확인 순서는 어떻게 잡나?</h2>
+<table data-ke-align="alignLeft"><caption>ESG ETF 확인 순서</caption>
+<thead>
+<tr>
+<th>순서</th>
+<th>확인할 것</th>
+<th>드러나는 것</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>담는 자산에 국채&middot;증권화채권이 있는가</td>
+<td>심사에서 빠지는 구간의 존재</td>
+</tr>
+<tr>
+<td>2</td>
+<td>지수 리뷰&middot;리밸런싱 주기</td>
+<td>기준 이탈 종목의 최대 잔존 기간</td>
+</tr>
+<tr>
+<td>3</td>
+<td>판정 기준일과 적용일이 같은가</td>
+<td>추가 시차의 유무</td>
+</tr>
+<tr>
+<td>4</td>
+<td>지수 산출사와 ESG 평가사가 같은가</td>
+<td>확인해야 할 방법론 문서의 수</td>
+</tr>
+<tr>
+<td>5</td>
+<td>평가에 쓰이는 외부 데이터 제공사 목록</td>
+<td>판정 근거의 교체 가능성</td>
+</tr>
+<tr>
+<td>6</td>
+<td>국내 대안 존재 여부</td>
+<td>계좌&middot;세제 선택지</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1번과 2번만 확인해도 상품 성격의 상당 부분이 드러납니다. 반대로 이 둘을 건너뛰고 배제 목록만 비교하면, <b>같은 배제 목록을 가진 두 상품이 실제로는 전혀 다른 강도로 운영되는 상황</b>을 놓치게 됩니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">심사에서 빠지는 자산 구간이 있는가</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">리뷰&middot;리밸런싱 주기</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">지수 산출사와 ESG 평가사의 동일 여부</p>
+<progress value="76" max="100"></progress>
+<p data-ke-size="size16">판정 기준일과 적용일의 시차</p>
+<progress value="62" max="100"></progress>
+<p data-ke-size="size16">외부 데이터 제공사 목록과 변경 이력</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">국내 대안과 계좌 선택</p>
+<progress value="40" max="100"></progress>

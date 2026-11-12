@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-12",
+  "body_html_length": 10814,
+  "canonical_url": "https://mystock-note.tistory.com/802",
+  "content_hash": "8a6410e4f6e93ae7e724886b2e60e2f4ea62b3fccba2db93ced011332786ec27",
+  "json_ld_count": 1,
+  "meta_description": "상품명에 ESG가 붙은 ETF를 고를 때 대개 \"무엇을 빼는가\"를 먼저 봅니다. 담배를 빼는지, 화석연료를 빼는지 같은 것들입니다. 그런데 같은 발행사의 ESG ETF 15종을 1차 출처로 나란히 놓고 보면, 배제 목록보다 앞서 갈리는 것이 따로 있습니다.ESG 심사가 어디까지 닿고, 언제 이뤄지며, 누가 하는가입니다. 어떤 상품은 보유 자산의 상당 부분을 애초에 심사 대상에서 빼고, 심사 주기는 월 1회부터 연 1회까지 벌어집니다. 이 글은 그 세 가지를 SEC 제출 문서로 대조합니다. 총보수·순자산·수익률·구성종목 수 같은 변동 수치는 전부 제외했습니다.ESG ETF가 담은 자산은 전부 심사를 거치나?아닙니다. 적어도 한 상품은 문서에 명시적으로 아니라고 적혀 있습니다.미국 종합채권을 담는 EAGG의..",
+  "modified_time": "2026-11-13T00:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/802\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/802\",\"headline\":\"iShares ESG ETF 비교: EAGG·ESGE·XJH·LDEM, ESG 심사가 닿지 않는 구간이 문서에 적혀 있다\",\"description\":\"상품명에 ESG가 붙은 ETF를 고를 때 대개 \"무엇을 빼는가\"를 먼저 봅니다. 담배를 빼는지, 화석연료를 빼는지 같은 것들입니다. 그런데 같은 발행사의 ESG ETF 15종을 1차 출처로 나란히 놓고 보면, 배제 목록보다 앞서 갈리는 것이 따로 있습니다.ESG 심사가 어디까지 닿고, 언제 이뤄지며, 누가 하는가입니다. 어떤 상품은 보유 자산의 상당 부분을 애초에 심사 대상에서 빼고, 심사 주기는 월 1회부터 연 1회까지 벌어집니다. 이 글은 그 세 가지를 SEC 제출 문서로 대조합니다. 총보수·순자산·수익률·구성종목 수 같은 변동 수치는 전부 제외했습니다.ESG ETF가 담은 자산은 전부 심사를 거치나?아닙니다. 적어도 한 상품은 문서에 명시적으로 아니라고 적혀 있습니다.미국 종합채권을 담는 EAGG의..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-13T00:39:58+09:00\",\"dateModified\":\"2026-11-13T00:40:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "상품명에 ESG가 붙은 ETF를 고를 때 대개 \"무엇을 빼는가\"를 먼저 봅니다. 담배를 빼는지, 화석연료를 빼는지 같은 것들입니다. 그런데 같은 발행사의 ESG ETF 15종을 1차 출처로 나란히 놓고 보면, 배제 목록보다 앞서 갈리는 것이 따로 있습니다.ESG 심사가 어디까지 닿고, 언제 이뤄지며, 누가 하는가입니다. 어떤 상품은 보유 자산의 상당 부분을 애초에 심사 대상에서 빼고, 심사 주기는 월 1회부터 연 1회까지 벌어집니다. 이 글은 그 세 가지를 SEC 제출 문서로 대조합니다. 총보수·순자산·수익률·구성종목 수 같은 변동 수치는 전부 제외했습니다.ESG ETF가 담은 자산은 전부 심사를 거치나?아닙니다. 적어도 한 상품은 문서에 명시적으로 아니라고 적혀 있습니다.미국 종합채권을 담는 EAGG의..",
+  "og_title": "iShares ESG ETF 비교: EAGG·ESGE·XJH·LDEM, ESG 심사가 닿지 않는 구간이 문서에 적혀 있다",
+  "post_id": "802",
+  "published_time": "2026-11-13T00:39:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "iShares ESG ETF 비교: EAGG·ESGE·XJH·LDEM, ESG 심사가 닿지 않는 구간이 문서에 적혀 있다",
+  "url": "https://mystock-note.tistory.com/802"
+}
