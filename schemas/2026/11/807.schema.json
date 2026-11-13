@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-14T01:40:00+09:00",
+    "datePublished": "2026-11-14T01:39:35+09:00",
+    "description": "가치주를 고르는 상품은 대개 주가가 싼지를 봅니다. 주가를 순자산으로 나누거나 이익으로 나눠서 낮은 쪽을 담습니다. WTV는 그렇게 하지 않습니다.이 상품이 보는 것은 주주에게 실제로 돌아간 현금의 총량입니다. 배당과 자사주매입을 합친 총주주수익률로 재고, 여기에 ROE·ROA 같은 수익성 지표를 덧대 거릅니다. 지수를 따라가는 상품도 아니어서, 이 판단은 운용사의 모델이 합니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 제외했습니다.WTV는 무엇을 기준으로 종목을 고르나?문서는 이 상품을 모델 기반 액티브로 규정합니다. 추종하는 지수가 없고, 운용사가 정해 둔 규칙을 모델로 돌려 종목을 고릅니다 [사실 · Form 497K].WTV 선정 구조..",
+    "headline": "WTV ETF란? 가치를 주가가 아니라 '주주 환원 총량'으로 재는 액티브 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/807",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/807"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree U.S. Value Fund",
+          "description": "배당과 자사주매입을 합한 총주주수익률로 가치를 판정하고 ROE·ROA 수익성 필터를 덧대는 미국 주식 모델 기반 액티브 ETF",
+          "name": "WTV"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "WTV는 가치를 주가 대비 지표가 아니라 총주주수익률로 잰다. 배당과 자사주매입을 합산해 주주에게 실제로 돌아간 현금을 보고, 여기에 ROE·ROA 수익성 필터를 덧댄 모델 기반 액티브 상품이다.",
+        "headline": "WTV ETF란? 가치를 주가가 아니라 '주주 환원 총량'으로 재는 액티브 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "WTV, 총주주수익률, 자사주매입, 주주환원, 가치주 ETF, 액티브 ETF, ROE, ROA, WisdomTree, 해외 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

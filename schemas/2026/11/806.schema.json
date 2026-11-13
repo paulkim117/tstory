@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "First Trust Active Global Quality Income ETF",
+        "description": "First Trust가 판매하고 Janus Henderson Investors US LLC가 하위운용사로 종목을 선정하는 글로벌 액티브 배당 ETF",
+        "name": "AGQI"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "AGQI는 First Trust 상품이지만 종목 선정은 하위운용사 Janus Henderson이 맡는다. 순자산 40% 이상을 미국 외에 투자하고, 폐쇄형 유럽 펀드를 재편해 만들어져 과거 이력을 승계한다.",
+      "headline": "AGQI ETF란? 이름과 운용 주체가 다른 하위운용사 구조, 40% 해외 조항과 승계된 이력",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "AGQI, 액티브 ETF, 하위운용사, 서브어드바이저, 글로벌 배당 ETF, 퀄리티 인컴, 폐쇄형 펀드 전환, 비분산, First Trust, Janus Henderson, 해외 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

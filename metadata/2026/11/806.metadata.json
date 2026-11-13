@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-13",
+  "body_html_length": 8102,
+  "canonical_url": "https://mystock-note.tistory.com/806",
+  "content_hash": "2a4a722bc794f194bc68031f8901e61fc43ad12f2f6e289d83e4001ab7985ed0",
+  "json_ld_count": 1,
+  "meta_description": "AGQI는 First Trust가 판매하는 글로벌 인컴 ETF입니다. 그런데 요약투자설명서를 열어 보면 종목을 고르는 회사가 First Trust가 아닙니다. Janus Henderson Investors US LLC가 하위운용사로 지정돼 실제 운용을 맡습니다.패시브 ETF에서는 \"지수를 누가 만드는가\"를 확인합니다. 액티브 ETF에는 지수가 없으므로 대신 확인해야 할 것이 있습니다. \"종목을 실제로 누가 고르는가\"입니다. 이 글은 AGQI의 운용 주체 구조와 투자 범위 조항을 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·지역 비중 같은 변동 수치는 제외했습니다.운용사와 하위운용사는 어떻게 나뉘나?문서는 두 주체를 분명히 구분해 기재합니다 [사실 · Form 497K].AGQI 운용 주체..",
+  "modified_time": "2026-11-14T00:40:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/806\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/806\",\"headline\":\"AGQI ETF란? 이름과 운용 주체가 다른 하위운용사 구조, 40% 해외 조항과 승계된 이력\",\"description\":\"AGQI는 First Trust가 판매하는 글로벌 인컴 ETF입니다. 그런데 요약투자설명서를 열어 보면 종목을 고르는 회사가 First Trust가 아닙니다. Janus Henderson Investors US LLC가 하위운용사로 지정돼 실제 운용을 맡습니다.패시브 ETF에서는 \"지수를 누가 만드는가\"를 확인합니다. 액티브 ETF에는 지수가 없으므로 대신 확인해야 할 것이 있습니다. \"종목을 실제로 누가 고르는가\"입니다. 이 글은 AGQI의 운용 주체 구조와 투자 범위 조항을 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·지역 비중 같은 변동 수치는 제외했습니다.운용사와 하위운용사는 어떻게 나뉘나?문서는 두 주체를 분명히 구분해 기재합니다 [사실 · Form 497K].AGQI 운용 주체..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-14T00:39:14+09:00\",\"dateModified\":\"2026-11-14T00:40:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "AGQI는 First Trust가 판매하는 글로벌 인컴 ETF입니다. 그런데 요약투자설명서를 열어 보면 종목을 고르는 회사가 First Trust가 아닙니다. Janus Henderson Investors US LLC가 하위운용사로 지정돼 실제 운용을 맡습니다.패시브 ETF에서는 \"지수를 누가 만드는가\"를 확인합니다. 액티브 ETF에는 지수가 없으므로 대신 확인해야 할 것이 있습니다. \"종목을 실제로 누가 고르는가\"입니다. 이 글은 AGQI의 운용 주체 구조와 투자 범위 조항을 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·지역 비중 같은 변동 수치는 제외했습니다.운용사와 하위운용사는 어떻게 나뉘나?문서는 두 주체를 분명히 구분해 기재합니다 [사실 · Form 497K].AGQI 운용 주체..",
+  "og_title": "AGQI ETF란? 이름과 운용 주체가 다른 하위운용사 구조, 40% 해외 조항과 승계된 이력",
+  "post_id": "806",
+  "published_time": "2026-11-14T00:39:14+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "AGQI ETF란? 이름과 운용 주체가 다른 하위운용사 구조, 40% 해외 조항과 승계된 이력",
+  "url": "https://mystock-note.tistory.com/806"
+}

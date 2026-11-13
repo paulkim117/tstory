@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-14T02:40:00+09:00",
+    "datePublished": "2026-11-14T02:39:55+09:00",
+    "description": "QSML은 미국 소형주 중에서 성장성과 수익성이 좋은 기업을 담는 ETF입니다. 두 가지를 점수로 매겨 상위 30%만 고릅니다. 여기까지는 흔한 팩터 상품입니다.특이한 것은 그다음입니다. 점수로 뽑아 놓고, 담을 때는 그 점수를 쓰지 않습니다. 비중은 시가총액으로 정합니다. 즉 점수가 가장 높은 기업이 비중이 가장 큰 것이 아닙니다. 이 글은 그 구조와, 점수를 만드는 가중치가 문서에 어디까지 공개돼 있는지를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위·섹터 비중 같은 변동 수치는 제외했습니다.QSML은 어떻게 종목을 고르나?지수를 추종하는 패시브 상품이며, 지수 전 종목 대신 대표표본추출로 일부를 담습니다. 선정은 다음 순서로 이뤄집니다 [사실 · Form 497K].QSML 선..",
+    "headline": "QSML ETF란? 성장·퀄리티 점수로 뽑고 시가총액으로 담는다, 선별과 가중이 어긋나는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/808",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/808"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree U.S. SmallCap Quality Growth Fund",
+          "description": "성장·퀄리티 복합점수로 미국 소형주 상위 30%를 선별한 뒤 시가총액으로 가중하는 ETF",
+          "name": "QSML"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "QSML은 성장·퀄리티 복합점수 상위 30%를 골라 담는다. 그런데 비중은 점수가 아니라 시가총액으로 정한다. 점수의 내부 가중치는 문서에 숫자로 전부 공개돼 있다.",
+        "headline": "QSML ETF란? 성장·퀄리티 점수로 뽑고 시가총액으로 담는다, 선별과 가중이 어긋나는 구조",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "QSML, 미국 소형주 ETF, 퀄리티 성장, 복합점수, 시가총액 가중, 팩터 결합, 반기 리밸런싱, WisdomTree, 해외 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
