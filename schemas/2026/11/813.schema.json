@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-15T03:45:00+09:00",
+    "datePublished": "2026-11-15T03:44:04+09:00",
+    "description": "IDHQ와 IDMO는 미국을 뺀 선진국 주식에 팩터를 얹은 ETF입니다. 발행사가 같고, 지수를 만든 회사도 같습니다. 팩터만 다릅니다. 하나는 퀄리티, 다른 하나는 모멘텀입니다.그런데 두 상품이 출발하는 모지수가 서로 다릅니다. 그 결과 한국이 한쪽에만 들어갑니다. 팩터 차이 때문이 아니라 모지수 차이 때문에 생긴 일입니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위 같은 변동 수치는 제외했습니다.두 상품의 모지수는 무엇인가?각 상품의 요약투자설명서에 모지수 이름이 명시돼 있습니다 [사실 · Form 497K].모지수 대조구분IDHQIDMO팩터퀄리티모멘텀모지수S&P Developed ex-U.S. LargeMidCapS&P World Ex-U.S.모지수 범위..",
+    "headline": "IDHQ·IDMO 비교: 같은 지수사, 같은 국제 팩터인데 한쪽에만 한국이 들어간다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/813",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/813"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco S&P International Developed Quality ETF",
+          "description": "S&P Developed ex-U.S. LargeMidCap에서 ROE·발생액 비율·재무레버리지 복합점수 상위 20%를 골라 점수 가중하는 국제 퀄리티 ETF",
+          "name": "IDHQ"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IDHQ와 IDMO는 같은 발행사가 같은 지수사에 맡긴 국제 선진국 팩터 상품이다. 그런데 모지수가 서로 달라 한국이 퀄리티 쪽에만 들어간다. MSCI 계열 두 상품은 모지수가 같다.",
+        "headline": "IDHQ·IDMO 비교: 같은 지수사, 같은 국제 팩터인데 한쪽에만 한국이 들어간다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IDHQ, IDMO, 국제 팩터 ETF, 선진국 ex-US, 모지수, 한국 분류, 퀄리티 팩터, 모멘텀 팩터, 발생액 비율, S&P Dow Jones Indices, 해외 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P International Developed Momentum ETF",
+            "name": "IDMO"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

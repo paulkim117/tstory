@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-15T01:43:00+09:00",
+    "datePublished": "2026-11-15T01:42:13+09:00",
+    "description": "한 운용사가 미국 주식을 대형·중형·소형으로 나눠 세 개 상품을 냈다면, 셋을 다 담으면 미국 시장 전체가 될 것 같습니다. 실제로는 그렇지 않습니다.세 지수의 순위 구간을 나란히 놓으면 구간이 서로 물려 있고, 아래쪽은 비어 있습니다. 셋을 함께 담으면 어떤 종목은 두 번 계산되고, 어떤 종목은 한 번도 담기지 않습니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·구성종목 수 같은 변동 수치는 제외했습니다.세 상품의 순위 구간은 어디까지인가?세 상품 모두 다우존스 미국 전체주식시장 지수(Dow Jones U.S. Total Stock Market Index)를 모지수로 삼고, 그 안에서 순위 구간을 잘라 씁니다. 구간은 각 상품의 요약투자설명서에 숫자로 적혀 있습니다 [사..",
+    "headline": "SCHX·SCHM·SCHA 비교: 대형·중형·소형을 다 담아도 시장 전체가 되지 않는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/811",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/811"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Schwab U.S. Mid-Cap ETF",
+          "description": "다우존스 미국 전체주식시장 지수의 501~1,000위 구간을 담아 대형·소형 상품과 순위가 겹치는 미국 중형주 ETF",
+          "name": "SCHM"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "Schwab의 대형·중형·소형 ETF는 순위 구간이 1~750위, 501~1,000위, 751~2,500위다. 구간이 서로 물려 셋을 함께 담으면 500위 구간이 이중으로 실리고, 2,501위 아래는 빠진다.",
+        "headline": "SCHX·SCHM·SCHA 비교: 대형·중형·소형을 다 담아도 시장 전체가 되지 않는 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "SCHX, SCHM, SCHA, 다우존스 전체주식시장 지수, 규모 구간, 순위 구간 중복, 유동주식 조정, 미국 대형주, 미국 중형주, 미국 소형주, 해외 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Schwab U.S. Large-Cap ETF",
+            "name": "SCHX"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Schwab U.S. Small-Cap ETF",
+            "name": "SCHA"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

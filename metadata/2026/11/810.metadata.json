@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-14",
+  "body_html_length": 6957,
+  "canonical_url": "https://mystock-note.tistory.com/810",
+  "content_hash": "c804e79d654fd309d63e8aa91e0f8ac62fc27b07c57f12cea962516ebafe95a1",
+  "json_ld_count": 2,
+  "meta_description": "DDLS는 미국과 캐나다를 뺀 선진국 소형주를 담는 ETF입니다. 그런데 이 상품에는 이름과 실제가 어긋나는 지점이 하나 있습니다.2025년에 펀드 이름과 지수 이름에서 '환헤지'라는 말이 빠졌습니다. 그런데 지수는 여전히 통화를 헤지합니다. 게다가 그 헤지는 켜고 끄는 방식이 아니라 0%에서 100% 사이를 매달 오가는 방식입니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·시가총액 범위 같은 변동 수치는 제외했습니다.이름에서 무엇이 빠졌나?요약투자설명서 첫 줄에 변경 전 명칭이 병기돼 있습니다 [사실 · Form 497K].명칭 변경 (문서 병기 사항)구분변경 전변경 후펀드명WisdomTree Dynamic Currency Hedged International S..",
+  "modified_time": "2026-11-15T00:41:04+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "DDLS는 미국과 캐나다를 뺀 선진국 소형주를 담는 ETF입니다. 그런데 이 상품에는 이름과 실제가 어긋나는 지점이 하나 있습니다.2025년에 펀드 이름과 지수 이름에서 '환헤지'라는 말이 빠졌습니다. 그런데 지수는 여전히 통화를 헤지합니다. 게다가 그 헤지는 켜고 끄는 방식이 아니라 0%에서 100% 사이를 매달 오가는 방식입니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·시가총액 범위 같은 변동 수치는 제외했습니다.이름에서 무엇이 빠졌나?요약투자설명서 첫 줄에 변경 전 명칭이 병기돼 있습니다 [사실 · Form 497K].명칭 변경 (문서 병기 사항)구분변경 전변경 후펀드명WisdomTree Dynamic Currency Hedged International S..",
+  "og_title": "DDLS ETF란? 이름에서 '환헤지'가 사라졌는데 헤지는 남아 있다, 네 신호가 매달 정하는 헤지 비율",
+  "post_id": "810",
+  "published_time": "2026-11-15T00:40:37+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DDLS ETF란? 이름에서 '환헤지'가 사라졌는데 헤지는 남아 있다, 네 신호가 매달 정하는 헤지 비율",
+  "url": "https://mystock-note.tistory.com/810"
+}

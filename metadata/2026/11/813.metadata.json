@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-14",
+  "body_html_length": 6799,
+  "canonical_url": "https://mystock-note.tistory.com/813",
+  "content_hash": "af5d8b069710b87be4e7b22e2c88e68293337cb02db46401d8965927b62789d2",
+  "json_ld_count": 2,
+  "meta_description": "IDHQ와 IDMO는 미국을 뺀 선진국 주식에 팩터를 얹은 ETF입니다. 발행사가 같고, 지수를 만든 회사도 같습니다. 팩터만 다릅니다. 하나는 퀄리티, 다른 하나는 모멘텀입니다.그런데 두 상품이 출발하는 모지수가 서로 다릅니다. 그 결과 한국이 한쪽에만 들어갑니다. 팩터 차이 때문이 아니라 모지수 차이 때문에 생긴 일입니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위 같은 변동 수치는 제외했습니다.두 상품의 모지수는 무엇인가?각 상품의 요약투자설명서에 모지수 이름이 명시돼 있습니다 [사실 · Form 497K].모지수 대조구분IDHQIDMO팩터퀄리티모멘텀모지수S&P Developed ex-U.S. LargeMidCapS&P World Ex-U.S.모지수 범위..",
+  "modified_time": "2026-11-15T03:45:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "IDHQ와 IDMO는 미국을 뺀 선진국 주식에 팩터를 얹은 ETF입니다. 발행사가 같고, 지수를 만든 회사도 같습니다. 팩터만 다릅니다. 하나는 퀄리티, 다른 하나는 모멘텀입니다.그런데 두 상품이 출발하는 모지수가 서로 다릅니다. 그 결과 한국이 한쪽에만 들어갑니다. 팩터 차이 때문이 아니라 모지수 차이 때문에 생긴 일입니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·시가총액 범위 같은 변동 수치는 제외했습니다.두 상품의 모지수는 무엇인가?각 상품의 요약투자설명서에 모지수 이름이 명시돼 있습니다 [사실 · Form 497K].모지수 대조구분IDHQIDMO팩터퀄리티모멘텀모지수S&P Developed ex-U.S. LargeMidCapS&P World Ex-U.S.모지수 범위..",
+  "og_title": "IDHQ·IDMO 비교: 같은 지수사, 같은 국제 팩터인데 한쪽에만 한국이 들어간다",
+  "post_id": "813",
+  "published_time": "2026-11-15T03:44:04+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IDHQ·IDMO 비교: 같은 지수사, 같은 국제 팩터인데 한쪽에만 한국이 들어간다",
+  "url": "https://mystock-note.tistory.com/813"
+}
