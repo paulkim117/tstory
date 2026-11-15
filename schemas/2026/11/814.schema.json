@@ -1,0 +1,102 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-16T00:45:00+09:00",
+    "datePublished": "2026-11-16T00:44:24+09:00",
+    "description": "커버드콜 ETF를 비교할 때 대개 행사가를 봅니다. 등가격인지 외가격인지, 몇 퍼센트 위에서 파는지를 따집니다. 그런데 그보다 앞서 갈리는 항목이 있습니다.포트폴리오의 얼마만큼에 콜을 파는가입니다. 여기 다섯 상품은 그 비율을 정하는 방식이 서로 다릅니다. 지수가 절반으로 못 박아 둔 것, 파는 동시에 풋을 사는 것, 운용사가 그때그때 비율을 정하는 것으로 나뉩니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·분배율 같은 변동 수치는 제외했습니다.다섯 상품은 무엇이 다른가?매도 비율을 정하는 방식 (문서 기재 사항)티커대상콜 매도 비율비율을 정하는 주체QYLG나스닥100약 50%지수 규칙DYLG다우30약 50%지수 규칙TYLG정보기술 섹터약 50%지수 규칙QCLR나스닥100..",
+    "headline": "QYLG·DYLG·TYLG·QCLR·EDGQ 비교: 커버드콜에서 진짜 변수는 '얼마나 파는가'다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/814",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/814"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Global X Nasdaq 100 Covered Call & Growth ETF",
+          "description": "나스닥100 포트폴리오 가치의 약 50%에만 1개월 등가격 콜을 매도하는 부분 커버드콜 ETF",
+          "name": "QYLG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "커버드콜 ETF를 가를 때 보통 행사가를 본다. 이 다섯 상품은 매도 비율에서 갈린다. 지수가 약 50%로 고정한 것, 풋을 함께 사는 칼라, 운용사가 비율을 정하는 액티브로 나뉜다.",
+        "headline": "QYLG·DYLG·TYLG·QCLR·EDGQ 비교: 커버드콜에서 진짜 변수는 얼마나 파는가다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "QYLG, DYLG, TYLG, QCLR, EDGQ, 커버드콜, 부분 커버드콜, 칼라, FLEX 옵션, 목표 분배율, 자본의 반환, Global X, 해외 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Global X Dow 30 Covered Call & Growth ETF",
+            "name": "DYLG"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Global X Information Technology Covered Call & Growth ETF",
+            "name": "TYLG"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Global X NASDAQ 100 Collar 95-110 ETF",
+            "name": "QCLR"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Global X Nasdaq-100 Income Edge ETF",
+            "name": "EDGQ"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

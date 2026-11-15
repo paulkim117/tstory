@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-15",
+  "body_html_length": 7014,
+  "canonical_url": "https://mystock-note.tistory.com/816",
+  "content_hash": "805ac2766c61970de9d69b6f67b6e0af682da652434541e8d43ace19bf4d428b",
+  "json_ld_count": 1,
+  "meta_description": "지방채 ETF의 요약투자설명서를 열면 어느 상품이든 \"자산의 80% 이상\"이라는 문장이 나옵니다. 숫자가 같으니 같은 조항으로 읽기 쉽습니다.그렇지 않습니다. 무엇에 대한 80%인지가 다르고, 무엇의 80%인지도 다릅니다. 어떤 상품은 80% 조항이 두 개이고, 어떤 상품은 그 조항 밖에서 하이일드를 담을 수 있습니다. 이 글은 네 상품의 조항을 문장 단위로 대조합니다. 총보수·순자산·수익률·분배율 같은 변동 수치는 제외했습니다.네 상품의 80% 조항은 어떻게 다른가?80% 조항 대조 (문서 기재 그대로)티커조항 ① 대상조항 ① 분모조항 ② 존재 여부FIMU연방소득세 면세 지방채자산없음INTM연방소득세 면세 소득순자산 + 투자 목적 차입있음 — 투자등급(순자산 80%)MBND연방소득세 면세 지방채순자산 ..",
+  "modified_time": "2026-11-16T02:33:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/816\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/816\",\"headline\":\"FIMU·INTM·MBND·TFI 비교: 지방채 ETF의 '80%'는 하나가 아니다\",\"description\":\"지방채 ETF의 요약투자설명서를 열면 어느 상품이든 \"자산의 80% 이상\"이라는 문장이 나옵니다. 숫자가 같으니 같은 조항으로 읽기 쉽습니다.그렇지 않습니다. 무엇에 대한 80%인지가 다르고, 무엇의 80%인지도 다릅니다. 어떤 상품은 80% 조항이 두 개이고, 어떤 상품은 그 조항 밖에서 하이일드를 담을 수 있습니다. 이 글은 네 상품의 조항을 문장 단위로 대조합니다. 총보수·순자산·수익률·분배율 같은 변동 수치는 제외했습니다.네 상품의 80% 조항은 어떻게 다른가?80% 조항 대조 (문서 기재 그대로)티커조항 ① 대상조항 ① 분모조항 ② 존재 여부FIMU연방소득세 면세 지방채자산없음INTM연방소득세 면세 소득순자산 + 투자 목적 차입있음 — 투자등급(순자산 80%)MBND연방소득세 면세 지방채순자산 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-16T02:32:56+09:00\",\"dateModified\":\"2026-11-16T02:33:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "지방채 ETF의 요약투자설명서를 열면 어느 상품이든 \"자산의 80% 이상\"이라는 문장이 나옵니다. 숫자가 같으니 같은 조항으로 읽기 쉽습니다.그렇지 않습니다. 무엇에 대한 80%인지가 다르고, 무엇의 80%인지도 다릅니다. 어떤 상품은 80% 조항이 두 개이고, 어떤 상품은 그 조항 밖에서 하이일드를 담을 수 있습니다. 이 글은 네 상품의 조항을 문장 단위로 대조합니다. 총보수·순자산·수익률·분배율 같은 변동 수치는 제외했습니다.네 상품의 80% 조항은 어떻게 다른가?80% 조항 대조 (문서 기재 그대로)티커조항 ① 대상조항 ① 분모조항 ② 존재 여부FIMU연방소득세 면세 지방채자산없음INTM연방소득세 면세 소득순자산 + 투자 목적 차입있음 — 투자등급(순자산 80%)MBND연방소득세 면세 지방채순자산 ..",
+  "og_title": "FIMU·INTM·MBND·TFI 비교: 지방채 ETF의 '80%'는 하나가 아니다",
+  "post_id": "816",
+  "published_time": "2026-11-16T02:32:56+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FIMU·INTM·MBND·TFI 비교: 지방채 ETF의 '80%'는 하나가 아니다",
+  "url": "https://mystock-note.tistory.com/816"
+}

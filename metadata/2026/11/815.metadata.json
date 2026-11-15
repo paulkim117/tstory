@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-15",
+  "body_html_length": 7424,
+  "canonical_url": "https://mystock-note.tistory.com/815",
+  "content_hash": "31c3993d5560519849b81252b9547cfd4d988ca4af91308cb90510bdb9feb73b",
+  "json_ld_count": 2,
+  "meta_description": "커버드콜 ETF는 보통 주식 바구니를 직접 담고 그 위에 콜을 팝니다. 이 세 상품은 다릅니다. 담는 것이 다른 ETF입니다.그리고 한 가지가 더 갈립니다. 어떤 상품은 ETF를 담고 지수에 콜을 팔고, 어떤 상품은 담은 그 ETF에 그대로 팝니다. 보유 대상과 옵션 대상이 같은지 다른지에 따라 확인해야 할 항목이 달라집니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·분배율 같은 변동 수치는 제외했습니다.무엇을 담고 무엇에 파나?보유 대상과 옵션 대상 (문서 기재 사항)티커담는 것콜을 파는 대상일치 여부IVVWS&P500 추종 ETFS&P500 지수불일치HYGW하이일드 회사채 ETF담은 그 ETF일치LQDW투자등급 회사채 ETF담은 그 ETF일치세 상품 모두 Cbo..",
+  "modified_time": "2026-11-16T01:45:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "커버드콜 ETF는 보통 주식 바구니를 직접 담고 그 위에 콜을 팝니다. 이 세 상품은 다릅니다. 담는 것이 다른 ETF입니다.그리고 한 가지가 더 갈립니다. 어떤 상품은 ETF를 담고 지수에 콜을 팔고, 어떤 상품은 담은 그 ETF에 그대로 팝니다. 보유 대상과 옵션 대상이 같은지 다른지에 따라 확인해야 할 항목이 달라집니다. 이 글은 그 구조를 SEC 제출 문서로 확인합니다. 총보수·순자산·수익률·회전율·분배율 같은 변동 수치는 제외했습니다.무엇을 담고 무엇에 파나?보유 대상과 옵션 대상 (문서 기재 사항)티커담는 것콜을 파는 대상일치 여부IVVWS&P500 추종 ETFS&P500 지수불일치HYGW하이일드 회사채 ETF담은 그 ETF일치LQDW투자등급 회사채 ETF담은 그 ETF일치세 상품 모두 Cbo..",
+  "og_title": "IVVW·HYGW·LQDW 비교: 담는 것은 ETF인데, 콜은 어디에 파는가",
+  "post_id": "815",
+  "published_time": "2026-11-16T01:44:43+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "IVVW·HYGW·LQDW 비교: 담는 것은 ETF인데, 콜은 어디에 파는가",
+  "url": "https://mystock-note.tistory.com/815"
+}
