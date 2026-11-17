@@ -1,0 +1,261 @@
+<!--
+source: https://mystock-note.tistory.com/821
+backup_date: 2026-11-17
+post_id: 821
+-->
+<p data-ke-size="size16">커버드콜 상품을 볼 때 대개 "얼마나 파는가", "무엇에 파는가"를 따집니다. PBP는 그 앞에 놓인 질문 하나를 드러내는 상품입니다. <b>커버드콜 전략을 지수로 만든다는 것이 무슨 뜻인가</b>입니다.</p>
+<p data-ke-size="size16">PBP가 추종하는 지수는 어떤 펀드의 운용 실적이 아닙니다. 정해진 규칙대로 주식을 사고 콜을 팔았다면 이런 성과가 나왔을 것이라는 <b>가상의 계산치</b>입니다. 요약투자설명서가 이 지수를 "가상의 바이라이트 전략의 성과를 추적하도록 설계된 총수익 벤치마크 지수"라고 직접 규정합니다.</p>
+<p data-ke-size="size16">이 글은 그 구조가 무엇을 뜻하는지, 지수 규칙이 시점을 어떻게 고정하는지, 그리고 같은 지수를 추종하는 다른 상품과 왜 결과가 갈릴 수 있는지를 정리합니다. 총보수&middot;순자산&middot;분배율&middot;수익률 같은 변동 수치는 다루지 않습니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">PBP는 무엇을 추종하나?</h2>
+<p data-ke-size="size16">Invesco S&amp;P 500 BuyWrite ETF이며 Cboe BZX 거래소에 상장돼 있습니다. 추종 지수는 <b>CBOE S&amp;P 500 BuyWrite Index</b>이고, 이 지수를 편성&middot;산출&middot;유지하는 곳은 <b>시카고옵션거래소(CBOE)</b>입니다. 자체 가이드라인과 규정된 절차에 엄격히 따라 산출한다고 기재돼 있습니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>PBP 기본 구조 (1차 출처: 2026-08-28자 요약투자설명서)</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기초지수</td>
+<td>CBOE S&amp;P 500 BuyWrite Index</td>
+</tr>
+<tr>
+<td>지수 성격</td>
+<td><b>총수익 벤치마크 지수</b> &mdash; 가상 전략의 성과 추적</td>
+</tr>
+<tr>
+<td>지수 제공자</td>
+<td>시카고옵션거래소(CBOE)</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>완전복제</td>
+</tr>
+<tr>
+<td>투자 정책</td>
+<td>순자산 + 차입액의 최소 80%</td>
+</tr>
+<tr>
+<td>집중도 정책</td>
+<td>총자산 25% 이상 집중은 지수가 집중한 범위 내에서만</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 번째 줄과 세 번째 줄을 붙여 읽는 것이 이 글의 출발점입니다. <b>옵션이 거래되는 거래소가 그 옵션 전략의 벤치마크를 만들고</b>, 운용사는 그 벤치마크를 실물로 재현하려 합니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">'가상의 전략을 추적하는 지수'란 무슨 뜻인가?</h2>
+<p data-ke-size="size16">일반적인 주식 ETF에서 지수는 <b>담을 목록</b>입니다. 어떤 종목을 얼마씩 담을지 적어 놓은 명세서이고, 상품은 그대로 사면 됩니다.</p>
+<p data-ke-size="size16">바이라이트 지수는 성격이 다릅니다. 지수 자체가 무엇을 보유하고 있는 것이 아니라, <b>정해진 규칙대로 매매했다면 나왔을 수익률을 계산해 누적한 숫자</b>입니다. 지수는 (1) S&amp;P 500 주식 포트폴리오를 매수하고 (2) 근월 S&amp;P 500 지수 커버드콜을 매도한다는 두 동작을 가정합니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>지수의 두 성격</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">일반 주식 지수</th>
+<th scope="col">바이라이트 지수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수의 내용</td>
+<td>종목과 비중의 목록</td>
+<td><b>매매 규칙과 그 계산 결과</b></td>
+</tr>
+<tr>
+<td>상품이 하는 일</td>
+<td>목록대로 산다</td>
+<td>규칙대로 <b>실제로 체결한다</b></td>
+</tr>
+<tr>
+<td>차이의 원천</td>
+<td>비용 &middot; 배당 처리</td>
+<td>비용 + <b>체결 조건</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">차이는 마지막 줄에서 갈립니다. 목록을 사는 상품은 목록과 어긋날 여지가 적습니다. 반면 규칙을 실행하는 상품은 <b>계산상의 가격과 실제 체결 가격이 다를 수 있습니다.</b> 지수는 옵션을 특정 시점의 어떤 가격으로 팔았다고 계산하지만, 실제 시장에서는 그 가격에 상대방이 있어야 합니다.</p>
+<p data-ke-size="size16">그래서 이런 상품에서 지수와 성과가 벌어지는 것은 <b>비용만의 문제가 아닙니다.</b> 가정과 체결 사이의 간극이 구조적으로 존재합니다. 운용 실패의 신호로 읽기 전에 이 구조를 먼저 확인해야 합니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">언제 파는지는 누가 정하나?</h2>
+<p data-ke-size="size16">지수 규칙이 정합니다. 매도 대상은 <b>근월</b> 옵션이고, 매도 시점은 <b>일반적으로 매월 셋째 금요일</b>입니다 [사실].</p>
+<p data-ke-size="size16">이 두 가지가 고정돼 있다는 것이 이 상품의 성격을 결정합니다. 변동성이 높아 프리미엄이 두툼한 날이 따로 있어도 그날을 골라 팔 수 없고, 시장이 급변해도 만기를 늘리거나 줄일 수 없습니다. <b>달력이 판단을 대신합니다.</b></p>
+<table data-ke-align="alignLeft"><caption>고정된 것과 열려 있는 것</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">상태</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매도 시점</td>
+<td>매월 셋째 금요일 &mdash; <b>고정</b></td>
+</tr>
+<tr>
+<td>대상 만기</td>
+<td>근월 &mdash; <b>고정</b></td>
+</tr>
+<tr>
+<td>거래 장소</td>
+<td>국가 증권거래소 상장 옵션으로 <b>한정</b></td>
+</tr>
+<tr>
+<td>체결 가격</td>
+<td>시장에서 결정 &mdash; <b>열려 있음</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">규칙이 시점을 고정하면 예측 가능성이 생깁니다. 언제 무엇을 팔지 미리 알 수 있습니다. 대신 <b>그날의 시장 상태를 이용할 방법이 없습니다.</b> 판단을 배제한 대가로 얻는 것과 잃는 것이 동시에 있습니다.</p>
+
+<h2 data-ke-size="size26">파는 콜옵션은 어떤 것인가?</h2>
+<p data-ke-size="size16">개별 종목 콜이 아니라 <b>S&amp;P 500 지수</b> 콜입니다. 프리미엄을 받는 대가로, 만기일에 지수 값이 행사가보다 높으면 <b>그 차액을 현금으로 지급할 의무</b>를 집니다 [사실].</p>
+<p data-ke-size="size16">현금으로 결제된다는 점이 실무적으로 중요합니다. 주식이 인도되지 않으므로 보유 주식을 넘겨줄 일이 없고, 대신 <b>현금이 나갑니다.</b> 상승분을 포기한다는 표현은 비유가 아니라 실제 현금 유출을 뜻합니다.</p>
+<p data-ke-size="size16">반대 방향의 효과도 문서에 적혀 있습니다. 커버드콜은 <b>받은 프리미엄만큼</b> 주가 하락을 부분적으로 방어합니다 [사실]. 방어의 크기가 프리미엄으로 한정된다는 점이 요지입니다. 프리미엄이 하락 폭보다 작으면 손실이 그대로 남습니다. 이 구조 자체는 <a href="https://mystock-note.tistory.com/205">커버드콜의 기본 구조를 다룬 글</a>에서 정리했습니다.</p>
+
+<h2 data-ke-size="size26">같은 지수를 쓰는 다른 상품이 있는데 왜 다른가?</h2>
+<p data-ke-size="size16">있습니다. <a href="https://mystock-note.tistory.com/406">S&amp;P500 커버드콜 상품으로 널리 알려진 XYLD</a> 역시 요약투자설명서상 기초지수가 Cboe S&amp;P 500 BuyWrite Index로 <b>동일</b>합니다 [사실]. 운용사가 다를 뿐 목표로 삼는 계산치는 같습니다.</p>
+<p data-ke-size="size16">그렇다면 무엇이 갈리는가. 지수가 같으므로 <b>지수 규칙에서는 갈리지 않습니다.</b> 갈리는 지점은 그 뒤입니다.</p>
+<table data-ke-align="alignLeft"><caption>같은 지수, 갈리는 지점</caption>
+<thead>
+<tr>
+<th scope="col">단계</th>
+<th scope="col">같은가</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매도 대상&middot;시점 규칙</td>
+<td>같음(지수가 정함)</td>
+</tr>
+<tr>
+<td>실제 체결 가격</td>
+<td><b>다를 수 있음</b></td>
+</tr>
+<tr>
+<td>주식 부분의 보유 방식</td>
+<td>상품별 확인 필요</td>
+</tr>
+<tr>
+<td>비용 구조</td>
+<td>상품별 확인 필요</td>
+</tr>
+<tr>
+<td>분배 정책</td>
+<td>상품별 확인 필요</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">즉 두 상품을 비교할 때 지수 방법론을 대조하는 것은 의미가 없습니다. 이미 같습니다. <b>재현 방식과 비용, 분배 정책을 봐야 합니다</b> `[판단]`. 이 항목들은 각 상품의 최신 투자설명서에서 개별 확인이 필요합니다 <code>[확인 필요]</code>.</p>
+
+<h2 data-ke-size="size26">분산 요건은 어떻게 규정돼 있나?</h2>
+<p data-ke-size="size16">상품은 지수가 분산돼 있는 한도에서 1940년 투자회사법상 '분산'을 유지하려 합니다. 다만 구성 종목의 상대 시가총액이나 지수 내 비중이 변한 것<b>만으로</b> '비분산'이 되는 경우, 그 전환에 <b>주주 승인을 받지 않습니다</b> [사실].</p>
+<p data-ke-size="size16">비분산이 되면 소수 발행자에 더 큰 비중을 둘 수 있게 됩니다. 상품 성격이 조용히 달라질 수 있는 경로이므로, 정기보고서에서 상태를 확인할 항목으로 기억해 두면 됩니다.</p>
+
+<h2 data-ke-size="size26">S&amp;P500 원본과는 무엇이 다른가?</h2>
+<p data-ke-size="size16">주식 부분은 같은 지수를 담습니다. 차이는 얹혀 있는 콜 매도입니다. 상승장에서는 행사가 위의 상승을 포기하게 되고, 하락장에서는 프리미엄만큼만 완충됩니다.</p>
+<p data-ke-size="size16">따라서 <a href="https://mystock-note.tistory.com/338">S&amp;P500을 그대로 담는 상품</a>과 나란히 보유하는 것은 <b>같은 주식을 두 번 담으면서 한쪽에만 상승 제한을 거는</b> 구성이 됩니다. 코어로 쓸 것인지 인컴 목적의 위성으로 쓸 것인지를 먼저 정해야 합니다. 커버드콜 상품 간 선택 기준은 <a href="https://mystock-note.tistory.com/469">비교 기준을 정리한 글</a>을 함께 보면 됩니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 대조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">미국 상장 직접투자</th>
+<th scope="col">국내 상장 커버드콜 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매매차익</th>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<th scope="row">기본공제</th>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<th scope="row">분배금</th>
+<td>미국에서 원천징수 후 지급</td>
+<td>배당소득 과세</td>
+</tr>
+<tr>
+<th scope="row">과세 방식</th>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<th scope="row">연금&middot;ISA</th>
+<td>매수 불가</td>
+<td>매수 가능(상품별 확인)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">미국 자료에서 옵션 관련 세제 혜택이 강조되는 경우가 있으나 그것은 미국 납세자 기준입니다. 한국 거주자에게는 위 표의 구조가 적용됩니다. 국내 상장 S&amp;P500 커버드콜 상품은 매도 방식이 지수 규칙과 다른 경우가 많으므로 동일 상품으로 간주할 수 없습니다 <code>[정보부족]</code>. 세율과 제도는 개정될 수 있습니다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 판단하면 되나?</h2>
+<table data-ke-align="alignLeft"><caption>확인 순서</caption>
+<thead>
+<tr>
+<th scope="col">순서</th>
+<th scope="col">질문</th>
+<th scope="col">갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S&amp;P500 상품을 이미 갖고 있는가</td>
+<td>중복 및 상승 제한 범위</td>
+</tr>
+<tr>
+<td>2</td>
+<td>지수가 가상 계산치임을 이해했는가</td>
+<td>지수와의 성과 차이 해석</td>
+</tr>
+<tr>
+<td>3</td>
+<td>시점 고정 구조를 감당할 수 있는가</td>
+<td>변동성 국면에서의 기대치</td>
+</tr>
+<tr>
+<td>4</td>
+<td>같은 지수 상품과 무엇을 비교할 것인가</td>
+<td>재현 방식&middot;비용&middot;분배 정책</td>
+</tr>
+<tr>
+<td>5</td>
+<td>코어인가 위성인가</td>
+<td>편입 비중</td>
+</tr>
+<tr>
+<td>6</td>
+<td>어느 계좌에 담을 것인가</td>
+<td>세제&middot;연금 활용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">2번을 건너뛰면 지수와의 차이를 전부 운용 문제로 오해하게 되고, 4번을 건너뛰면 <b>이미 같은 지수인 상품끼리 지수를 비교하는</b> 헛수고를 하게 됩니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">지수가 <b>가상 전략의 계산치</b>라는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">근월물&middot;셋째 금요일 시점 고정 구조</p>
+<progress value="88" max="100"></progress>
+<p data-ke-size="size16">같은 지수를 쓰는 상품과 갈리는 지점</p>
+<progress value="80" max="100"></progress>
+<p data-ke-size="size16">현금결제 지수옵션이라는 점</p>
+<progress value="66" max="100"></progress>
+<p data-ke-size="size16">비분산 전환 시 주주 승인 불요 조항</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">계좌 배치와 세제</p>
+<progress value="40" max="100"></progress>

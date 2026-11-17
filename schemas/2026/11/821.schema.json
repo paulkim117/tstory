@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Invesco S&P 500 BuyWrite ETF",
+        "description": "CBOE S&P 500 BuyWrite Index를 완전복제로 추종하는 ETF. 해당 지수는 가상의 바이라이트 전략 성과를 계산한 총수익 벤치마크 지수다",
+        "name": "PBP"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "PBP가 추종하는 CBOE S&P 500 BuyWrite Index는 실제 운용 결과가 아니라 규칙대로 굴렸다고 가정한 계산치다. 근월물·셋째 금요일 고정 구조와, 같은 지수를 쓰는 XYLD와 결과가 갈리는 이유를 1차 출처로 정리했다.",
+      "headline": "PBP ETF란? S&P500 커버드콜 지수 구조, XYLD와 같은 지수인데 왜 다른가",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "PBP, 커버드콜 ETF, 바이라이트, CBOE S&P 500 BuyWrite Index, XYLD, 지수옵션, 현금결제, 근월물, 셋째 금요일, 벤치마크 지수, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Global X S&P 500 Covered Call ETF",
+          "name": "XYLD"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

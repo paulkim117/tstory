@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-17",
+  "body_html_length": 11408,
+  "canonical_url": "https://mystock-note.tistory.com/818",
+  "content_hash": "7fa018d0580552a9effc5161856c9dcd4459221f6acad39110f9b3226dd2252e",
+  "json_ld_count": 1,
+  "meta_description": "국채 ETF를 고를 때 대부분 \"몇 년짜리를 살 것인가\"부터 정합니다. 그런데 그 '몇 년'을 누가, 무엇을 기준으로 자르는지는 잘 확인하지 않습니다.SPDR의 국채 라인업 다섯 종은 구간이 겹치지 않게 깔끔하게 나뉘어 있습니다. 1–3년, 3–10년, 10년 이상, 그리고 전체와 물가채입니다. 그런데 다섯 개를 전부 합쳐도 담기지 않는 구간이 하나 있습니다.이 글은 다섯 상품의 요약투자설명서(SEC 제출본)를 기준으로 지수 편입 규칙만 비교합니다. 순자산·총보수·수익률·분배율 같은 변동 수치는 다루지 않고, 구간을 정하는 규칙과 그 규칙에서 빠지는 것들만 정리합니다.다섯 상품은 국채 시장을 어떻게 나누나?먼저 각 상품이 추종하는 지수와 편입 요건을 한 표에 놓습니다. 모두 Bloomberg Index ..",
+  "modified_time": "2026-11-17T00:35:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/818\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/818\",\"headline\":\"미국 국채 ETF 비교: SPTS·SPTI·SPTL·SPTB·SPIP, 만기 구간 편입 기준과 빠지는 구간\",\"description\":\"국채 ETF를 고를 때 대부분 \"몇 년짜리를 살 것인가\"부터 정합니다. 그런데 그 '몇 년'을 누가, 무엇을 기준으로 자르는지는 잘 확인하지 않습니다.SPDR의 국채 라인업 다섯 종은 구간이 겹치지 않게 깔끔하게 나뉘어 있습니다. 1–3년, 3–10년, 10년 이상, 그리고 전체와 물가채입니다. 그런데 다섯 개를 전부 합쳐도 담기지 않는 구간이 하나 있습니다.이 글은 다섯 상품의 요약투자설명서(SEC 제출본)를 기준으로 지수 편입 규칙만 비교합니다. 순자산·총보수·수익률·분배율 같은 변동 수치는 다루지 않고, 구간을 정하는 규칙과 그 규칙에서 빠지는 것들만 정리합니다.다섯 상품은 국채 시장을 어떻게 나누나?먼저 각 상품이 추종하는 지수와 편입 요건을 한 표에 놓습니다. 모두 Bloomberg Index ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-17T00:34:05+09:00\",\"dateModified\":\"2026-11-17T00:35:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "국채 ETF를 고를 때 대부분 \"몇 년짜리를 살 것인가\"부터 정합니다. 그런데 그 '몇 년'을 누가, 무엇을 기준으로 자르는지는 잘 확인하지 않습니다.SPDR의 국채 라인업 다섯 종은 구간이 겹치지 않게 깔끔하게 나뉘어 있습니다. 1–3년, 3–10년, 10년 이상, 그리고 전체와 물가채입니다. 그런데 다섯 개를 전부 합쳐도 담기지 않는 구간이 하나 있습니다.이 글은 다섯 상품의 요약투자설명서(SEC 제출본)를 기준으로 지수 편입 규칙만 비교합니다. 순자산·총보수·수익률·분배율 같은 변동 수치는 다루지 않고, 구간을 정하는 규칙과 그 규칙에서 빠지는 것들만 정리합니다.다섯 상품은 국채 시장을 어떻게 나누나?먼저 각 상품이 추종하는 지수와 편입 요건을 한 표에 놓습니다. 모두 Bloomberg Index ..",
+  "og_title": "미국 국채 ETF 비교: SPTS·SPTI·SPTL·SPTB·SPIP, 만기 구간 편입 기준과 빠지는 구간",
+  "post_id": "818",
+  "published_time": "2026-11-17T00:34:05+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 국채 ETF 비교: SPTS·SPTI·SPTL·SPTB·SPIP, 만기 구간 편입 기준과 빠지는 구간",
+  "url": "https://mystock-note.tistory.com/818"
+}

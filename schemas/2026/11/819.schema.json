@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-17T01:35:00+09:00",
+    "datePublished": "2026-11-17T01:34:26+09:00",
+    "description": "2026년 7월 말, 뱅가드의 규모·스타일 ETF 열 종의 이름이 한꺼번에 바뀌었습니다. 상품명에 Morningstar가 들어갔고, 추종하는 지수 이름도 함께 바뀌었습니다.ETF 이름이 바뀌면 대개 운용 방식이 바뀐 것을 의심합니다. 그런데 이번 건은 다릅니다. 원인은 상품 내부가 아니라 지수를 만드는 회사가 팔렸다는 외부 사건이었고, 투자 목적·전략·정책은 변경되지 않았다고 문서에 명시돼 있습니다.이 글은 네 상품(VOE·VOT·VBR·VBK)의 요약투자설명서와 명칭 변경 보충서를 근거로, 무엇이 바뀌었고 무엇이 그대로인지, 그리고 이 변화가 상품을 고를 때 어떤 함정을 만드는지 정리합니다. 총보수·순자산·수익률 같은 변동 수치는 다루지 않습니다.네 상품은 시장을 어떻게 나누고 있나?규모 두 칸(중형·..",
+    "headline": "뱅가드 규모·스타일 ETF 비교: VOE·VOT·VBR·VBK, 이름이 Morningstar로 바뀐 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/819",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/819"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Vanguard Morningstar Mid-Cap Value ETF",
+          "description": "미국 중형 가치주 지수를 복제 방식으로 추종하는 패시브 ETF. 2026년 7월 지수사 인수로 상품명과 지수명이 변경됨",
+          "name": "VOE"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "VOE·VOT·VBR·VBK 네 상품의 이름이 2026년 7월 Morningstar로 바뀐 경위를 1차 출처로 정리한다. 원인은 지수사 인수이며, 투자 목적과 전략은 변경되지 않았다. 이름으로 방법론을 추론하면 안 되는 이유.",
+        "headline": "뱅가드 규모·스타일 ETF 비교: VOE·VOT·VBR·VBK, 이름이 Morningstar로 바뀐 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "VOE, VOT, VBR, VBK, 뱅가드 ETF, Morningstar, CRSP, 지수사 인수, ETF 명칭 변경, 중형주, 소형주, 가치주, 성장주, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Morningstar Mid-Cap Growth ETF",
+            "name": "VOT"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Morningstar Small-Cap Value ETF",
+            "name": "VBR"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Morningstar Small-Cap Growth ETF",
+            "name": "VBK"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

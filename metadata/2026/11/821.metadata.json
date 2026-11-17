@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-17",
+  "body_html_length": 8314,
+  "canonical_url": "https://mystock-note.tistory.com/821",
+  "content_hash": "b407a0bb2e3e4c7402ee90f55c2d03b38b5e02c054141a2a7212284da24169f5",
+  "json_ld_count": 1,
+  "meta_description": "커버드콜 상품을 볼 때 대개 \"얼마나 파는가\", \"무엇에 파는가\"를 따집니다. PBP는 그 앞에 놓인 질문 하나를 드러내는 상품입니다. 커버드콜 전략을 지수로 만든다는 것이 무슨 뜻인가입니다.PBP가 추종하는 지수는 어떤 펀드의 운용 실적이 아닙니다. 정해진 규칙대로 주식을 사고 콜을 팔았다면 이런 성과가 나왔을 것이라는 가상의 계산치입니다. 요약투자설명서가 이 지수를 \"가상의 바이라이트 전략의 성과를 추적하도록 설계된 총수익 벤치마크 지수\"라고 직접 규정합니다.이 글은 그 구조가 무엇을 뜻하는지, 지수 규칙이 시점을 어떻게 고정하는지, 그리고 같은 지수를 추종하는 다른 상품과 왜 결과가 갈릴 수 있는지를 정리합니다. 총보수·순자산·분배율·수익률 같은 변동 수치는 다루지 않습니다.PBP는 무엇을 추종하나..",
+  "modified_time": "2026-11-17T03:21:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/821\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/821\",\"headline\":\"PBP ETF란? S&P500 커버드콜 지수 구조, XYLD와 같은 지수인데 왜 다른가\",\"description\":\"커버드콜 상품을 볼 때 대개 \"얼마나 파는가\", \"무엇에 파는가\"를 따집니다. PBP는 그 앞에 놓인 질문 하나를 드러내는 상품입니다. 커버드콜 전략을 지수로 만든다는 것이 무슨 뜻인가입니다.PBP가 추종하는 지수는 어떤 펀드의 운용 실적이 아닙니다. 정해진 규칙대로 주식을 사고 콜을 팔았다면 이런 성과가 나왔을 것이라는 가상의 계산치입니다. 요약투자설명서가 이 지수를 \"가상의 바이라이트 전략의 성과를 추적하도록 설계된 총수익 벤치마크 지수\"라고 직접 규정합니다.이 글은 그 구조가 무엇을 뜻하는지, 지수 규칙이 시점을 어떻게 고정하는지, 그리고 같은 지수를 추종하는 다른 상품과 왜 결과가 갈릴 수 있는지를 정리합니다. 총보수·순자산·분배율·수익률 같은 변동 수치는 다루지 않습니다.PBP는 무엇을 추종하나..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-17T03:20:49+09:00\",\"dateModified\":\"2026-11-17T03:21:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "커버드콜 상품을 볼 때 대개 \"얼마나 파는가\", \"무엇에 파는가\"를 따집니다. PBP는 그 앞에 놓인 질문 하나를 드러내는 상품입니다. 커버드콜 전략을 지수로 만든다는 것이 무슨 뜻인가입니다.PBP가 추종하는 지수는 어떤 펀드의 운용 실적이 아닙니다. 정해진 규칙대로 주식을 사고 콜을 팔았다면 이런 성과가 나왔을 것이라는 가상의 계산치입니다. 요약투자설명서가 이 지수를 \"가상의 바이라이트 전략의 성과를 추적하도록 설계된 총수익 벤치마크 지수\"라고 직접 규정합니다.이 글은 그 구조가 무엇을 뜻하는지, 지수 규칙이 시점을 어떻게 고정하는지, 그리고 같은 지수를 추종하는 다른 상품과 왜 결과가 갈릴 수 있는지를 정리합니다. 총보수·순자산·분배율·수익률 같은 변동 수치는 다루지 않습니다.PBP는 무엇을 추종하나..",
+  "og_title": "PBP ETF란? S&P500 커버드콜 지수 구조, XYLD와 같은 지수인데 왜 다른가",
+  "post_id": "821",
+  "published_time": "2026-11-17T03:20:49+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "PBP ETF란? S&P500 커버드콜 지수 구조, XYLD와 같은 지수인데 왜 다른가",
+  "url": "https://mystock-note.tistory.com/821"
+}

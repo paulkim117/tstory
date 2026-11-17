@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "State Street SPDR Portfolio Treasury ETF",
+        "description": "잔존만기 1년 이상 미국 국채를 만기 상한 없이 담는 시가총액 가중 패시브 ETF",
+        "name": "SPTB"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "SPTS·SPTI·SPTL·SPTB·SPIP 다섯 국채 ETF의 지수 편입 기준을 1차 출처로 비교한다. 구간을 자르는 것은 잔존만기이며, 다섯 상품을 모두 합쳐도 1년 미만 국채는 담기지 않는다.",
+      "headline": "미국 국채 ETF 비교: SPTS·SPTI·SPTL·SPTB·SPIP, 만기 구간 편입 기준과 빠지는 구간",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "SPTS, SPTI, SPTL, SPTB, SPIP, 미국 국채 ETF, 잔존만기, 만기 구간, 물가연동국채, TIPS, 표본추출, 80% 투자 정책, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "State Street SPDR Portfolio Short Term Treasury ETF",
+          "name": "SPTS"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+          "name": "SPTI"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "State Street SPDR Portfolio Long Term Treasury ETF",
+          "name": "SPTL"
+        },
+        {
+          "@type": "Thing",
+          "alternateName": "State Street SPDR Portfolio TIPS ETF",
+          "name": "SPIP"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

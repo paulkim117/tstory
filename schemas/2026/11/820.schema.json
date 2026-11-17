@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "WisdomTree Asia Defense Fund",
+        "description": "아시아 10개국 방산 기업을 담는 패시브 ETF. 정부 대상 매출 비중 10% 이상을 편입 요건으로 하고, 그 비중에 따라 개별 종목 비중 상한을 차등 적용한다",
+        "name": "WDAF"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "WDAF는 아시아 10개국 방산 기업을 담는 미국 상장 ETF다. 방산 매출은 정부 대상 판매액으로만 인정되며, 그 비중에 따라 편입 여부와 비중 상한이 달라진다. ITA·국내 방산 ETF와의 중복 확인 기준까지 정리했다.",
+      "headline": "WDAF ETF란? 아시아 방산 지수 구성, ITA·K방산과 무엇이 다른가",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "WDAF, 아시아 방산 ETF, WisdomTree, 방산 매출, 노출 점수, 비중 상한, 편입 국가, ITA, K방산, 자국 중복, 산업재 집중, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}
