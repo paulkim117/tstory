@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-18T02:22:00+09:00",
+    "datePublished": "2026-11-18T02:21:49+09:00",
+    "description": "ETF가 지수를 못 따라가면 대개 비용 탓으로 봅니다. 총보수가 높아서, 거래 비용이 붙어서라고 설명합니다. 그런데 해외 주식을 담는 상품에는 비용과 무관한 원인이 하나 더 있습니다.지수 수익률 자체가 세금을 이미 뺀 값이라는 점입니다. 그리고 지수가 뺀 세금과 펀드가 실제로 낸 세금이 같다는 보장이 없습니다.이 글은 영국 소형주를 담는 EWUS의 요약투자설명서를 근거로, 지수가 어떤 세금 가정을 깔고 있는지, 성과 비교 기준이 왜 둘인지, 그리고 이 상품을 고를 때 확인할 순서를 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.EWUS는 무엇을 담나?iShares MSCI United Kingdom Small-Cap ETF이며 Cboe BZX 거래소에 상장돼 있습니다. 추..",
+    "headline": "EWUS ETF란? 영국 소형주 투자, 지수 수익률에 이미 들어간 세금과 추적오차",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/824",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/824"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares MSCI United Kingdom Small-Cap ETF",
+          "description": "영국 소형주 지수를 표본추출로 추종하는 미국 상장 ETF. 비교 지수가 비거주자 최대 원천징수세를 차감한 Net 판본이며, 그 세금 가정과 펀드 실제 부담의 차이가 추적오차 요인으로 명시돼 있다",
+          "name": "EWUS"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "EWUS가 비교 기준으로 쓰는 지수는 각국 비거주자 최대 원천징수세를 뺀 뒤 배당이 재투자된다고 가정한 값이다. 그 가정과 펀드의 실제 세부담이 다르면 추적오차가 된다. 영국 소형주 상품의 확인 순서를 정리했다.",
+        "headline": "EWUS ETF란? 영국 소형주 투자, 지수 수익률에 이미 들어간 세금과 추적오차",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "EWUS, 영국 소형주 ETF, MSCI United Kingdom Small Cap, iShares, Net 지수, 원천징수, 추적오차, MSCI ACWI ex USA, 브렉시트, 표본추출, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

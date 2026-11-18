@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-18",
+  "body_html_length": 8100,
+  "canonical_url": "https://mystock-note.tistory.com/823",
+  "content_hash": "389eb8e25010b61b5f3daeadd782acca9c356b9cffdb969de76ba478181f0fa5",
+  "json_ld_count": 2,
+  "meta_description": "S&P500 섹터 ETF를 직접 고르다 보면 같은 질문에 부딪힙니다. 지금 어느 섹터를 늘려야 하나. XLSR은 그 판단을 대신 하겠다는 상품입니다.그런데 요약투자설명서를 읽으면 「대신 한다」는 말이 한 겹이 아닙니다. 모델이 섹터별 기대수익을 계산해 목표 배분을 만들고, 운용사가 그 결과를 완전히 이행하지 않을 수 있으며, 그렇게 정해진 배분을 실제로 사는 방식은 또 다른 절차가 정합니다.이 글은 그 결정 구조를 층별로 분해하고, 섹터 ETF를 직접 고르는 것과 무엇이 다른지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.XLSR은 무엇을 담나?State Street US Sector Rotation ETF이며 뉴욕증권거래소에 상장돼 있습니다. 운용사는 SSGA Fund..",
+  "modified_time": "2026-11-18T01:22:01+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "S&P500 섹터 ETF를 직접 고르다 보면 같은 질문에 부딪힙니다. 지금 어느 섹터를 늘려야 하나. XLSR은 그 판단을 대신 하겠다는 상품입니다.그런데 요약투자설명서를 읽으면 「대신 한다」는 말이 한 겹이 아닙니다. 모델이 섹터별 기대수익을 계산해 목표 배분을 만들고, 운용사가 그 결과를 완전히 이행하지 않을 수 있으며, 그렇게 정해진 배분을 실제로 사는 방식은 또 다른 절차가 정합니다.이 글은 그 결정 구조를 층별로 분해하고, 섹터 ETF를 직접 고르는 것과 무엇이 다른지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.XLSR은 무엇을 담나?State Street US Sector Rotation ETF이며 뉴욕증권거래소에 상장돼 있습니다. 운용사는 SSGA Fund..",
+  "og_title": "XLSR ETF란? S&P500 섹터를 대신 골라주는 액티브 ETF, 정하는 것은 모델인가 사람인가",
+  "post_id": "823",
+  "published_time": "2026-11-18T01:21:29+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XLSR ETF란? S&P500 섹터를 대신 골라주는 액티브 ETF, 정하는 것은 모델인가 사람인가",
+  "url": "https://mystock-note.tistory.com/823"
+}

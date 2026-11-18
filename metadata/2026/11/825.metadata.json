@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-18",
+  "body_html_length": 9060,
+  "canonical_url": "https://mystock-note.tistory.com/825",
+  "content_hash": "f694b6dcd7cd5e738db81e4ef50823efface480fdc232c324d9b235b187a604d",
+  "json_ld_count": 2,
+  "meta_description": "액티브 ETF의 설명은 대개 짧습니다. 「지수를 그대로 따르지 않고 운용사가 판단해 담는다」입니다. 그러면 지수는 무관한 것처럼 들립니다.BREM의 요약투자설명서를 읽으면 그렇지 않습니다. 이 상품은 지수를 복제하지 않는다고 명시하면서도, 지수가 세 번 등장합니다. 무엇이 신흥국인지 정의할 때, 얼마나 벗어났는지 잴 때, 그리고 얼마나 벗어날 수 있는지를 스스로 제한한다고 고지할 때입니다.이 글은 그 세 역할을 순서대로 분해하고, 지수를 추종하는 신흥국 채권 상품과 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·분배율·국가별 비중 같은 변동 수치는 다루지 않습니다.BREM은 무엇을 담나?iShares Emerging Markets Bond Active ETF이며 나스닥에 상장돼 있습니다. 담는 것은 ..",
+  "modified_time": "2026-11-18T03:23:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "액티브 ETF의 설명은 대개 짧습니다. 「지수를 그대로 따르지 않고 운용사가 판단해 담는다」입니다. 그러면 지수는 무관한 것처럼 들립니다.BREM의 요약투자설명서를 읽으면 그렇지 않습니다. 이 상품은 지수를 복제하지 않는다고 명시하면서도, 지수가 세 번 등장합니다. 무엇이 신흥국인지 정의할 때, 얼마나 벗어났는지 잴 때, 그리고 얼마나 벗어날 수 있는지를 스스로 제한한다고 고지할 때입니다.이 글은 그 세 역할을 순서대로 분해하고, 지수를 추종하는 신흥국 채권 상품과 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·분배율·국가별 비중 같은 변동 수치는 다루지 않습니다.BREM은 무엇을 담나?iShares Emerging Markets Bond Active ETF이며 나스닥에 상장돼 있습니다. 담는 것은 ..",
+  "og_title": "BREM ETF란? 지수를 안 따르는 신흥국 채권 액티브 ETF가 지수를 계속 보는 이유",
+  "post_id": "825",
+  "published_time": "2026-11-18T03:22:08+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BREM ETF란? 지수를 안 따르는 신흥국 채권 액티브 ETF가 지수를 계속 보는 이유",
+  "url": "https://mystock-note.tistory.com/825"
+}

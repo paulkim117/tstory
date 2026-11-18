@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-18T00:22:00+09:00",
+    "datePublished": "2026-11-18T00:21:10+09:00",
+    "description": "채권 사다리는 오래된 방법입니다. 만기가 1년씩 어긋나는 채권을 여러 장 사 두고, 매년 하나가 만기 상환되면 그 돈으로 가장 긴 채권을 새로 삽니다. 원금을 정해진 날짜에 확정적으로 돌려받는다는 점이 이 방법의 핵심입니다.이름에 「사다리」가 붙은 ETF가 셋 있습니다. SLDR·MLDR·LLDR입니다. 칸을 나누는 방식은 실제로 사다리와 같습니다. 그런데 채권이 빠지는 방식이 다릅니다. 만기까지 기다리지 않고, 매년 짧아진 쪽을 팔아서 뺍니다.이 글은 세 상품의 요약투자설명서를 근거로 칸 구조, 리밸런스 규칙, 편입 요건을 정리하고, 직접 짜는 사다리와 무엇이 같고 무엇이 다른지 비교합니다. 총보수·순자산·수익률·분배율 같은 변동 수치는 다루지 않습니다.세 상품은 만기를 어떻게 나누나?세 상품 모두 F..",
+    "headline": "미국 국채 사다리 ETF 비교: SLDR·MLDR·LLDR, 직접 짜는 사다리와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/822",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/822"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Global X Intermediate-Term Treasury Ladder ETF",
+          "description": "잔존 3~10년 미국 국채를 1년 단위 7개 칸에 균등 배분하는 사다리형 지수를 추종하는 ETF. 만기 보유가 아니라 연 1회 리밸런스에서 짧아진 증권을 매도한다",
+          "name": "MLDR"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "SLDR·MLDR·LLDR은 만기를 1년 단위 칸으로 나눠 균등 배분하는 국채 ETF다. 다만 채권을 만기까지 보유하지 않고 매년 짧은 쪽을 매도한다. 직접 짜는 사다리와 무엇이 같고 무엇이 다른지 1차 출처로 정리했다.",
+        "headline": "미국 국채 사다리 ETF 비교: SLDR·MLDR·LLDR, 직접 짜는 사다리와 무엇이 다른가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "SLDR, MLDR, LLDR, 국채 사다리 ETF, 채권 래더링, FTSE Russell, 칸 균등 배분, 연 1회 리밸런스, 유통 가능 물량, 연준 보유분 제외, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Global X Short-Term Treasury Ladder ETF",
+            "name": "SLDR"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Global X Long-Term Treasury Ladder ETF",
+            "name": "LLDR"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

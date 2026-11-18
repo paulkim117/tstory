@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-18",
+  "body_html_length": 8983,
+  "canonical_url": "https://mystock-note.tistory.com/824",
+  "content_hash": "5d456ac8b1eb62f1791d27182f4446db424fba0b0479116eeb7c85c2fb562a97",
+  "json_ld_count": 2,
+  "meta_description": "ETF가 지수를 못 따라가면 대개 비용 탓으로 봅니다. 총보수가 높아서, 거래 비용이 붙어서라고 설명합니다. 그런데 해외 주식을 담는 상품에는 비용과 무관한 원인이 하나 더 있습니다.지수 수익률 자체가 세금을 이미 뺀 값이라는 점입니다. 그리고 지수가 뺀 세금과 펀드가 실제로 낸 세금이 같다는 보장이 없습니다.이 글은 영국 소형주를 담는 EWUS의 요약투자설명서를 근거로, 지수가 어떤 세금 가정을 깔고 있는지, 성과 비교 기준이 왜 둘인지, 그리고 이 상품을 고를 때 확인할 순서를 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.EWUS는 무엇을 담나?iShares MSCI United Kingdom Small-Cap ETF이며 Cboe BZX 거래소에 상장돼 있습니다. 추..",
+  "modified_time": "2026-11-18T02:22:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ETF가 지수를 못 따라가면 대개 비용 탓으로 봅니다. 총보수가 높아서, 거래 비용이 붙어서라고 설명합니다. 그런데 해외 주식을 담는 상품에는 비용과 무관한 원인이 하나 더 있습니다.지수 수익률 자체가 세금을 이미 뺀 값이라는 점입니다. 그리고 지수가 뺀 세금과 펀드가 실제로 낸 세금이 같다는 보장이 없습니다.이 글은 영국 소형주를 담는 EWUS의 요약투자설명서를 근거로, 지수가 어떤 세금 가정을 깔고 있는지, 성과 비교 기준이 왜 둘인지, 그리고 이 상품을 고를 때 확인할 순서를 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.EWUS는 무엇을 담나?iShares MSCI United Kingdom Small-Cap ETF이며 Cboe BZX 거래소에 상장돼 있습니다. 추..",
+  "og_title": "EWUS ETF란? 영국 소형주 투자, 지수 수익률에 이미 들어간 세금과 추적오차",
+  "post_id": "824",
+  "published_time": "2026-11-18T02:21:49+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "EWUS ETF란? 영국 소형주 투자, 지수 수익률에 이미 들어간 세금과 추적오차",
+  "url": "https://mystock-note.tistory.com/824"
+}

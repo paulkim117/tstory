@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-18T01:22:01+09:00",
+    "datePublished": "2026-11-18T01:21:29+09:00",
+    "description": "S&P500 섹터 ETF를 직접 고르다 보면 같은 질문에 부딪힙니다. 지금 어느 섹터를 늘려야 하나. XLSR은 그 판단을 대신 하겠다는 상품입니다.그런데 요약투자설명서를 읽으면 「대신 한다」는 말이 한 겹이 아닙니다. 모델이 섹터별 기대수익을 계산해 목표 배분을 만들고, 운용사가 그 결과를 완전히 이행하지 않을 수 있으며, 그렇게 정해진 배분을 실제로 사는 방식은 또 다른 절차가 정합니다.이 글은 그 결정 구조를 층별로 분해하고, 섹터 ETF를 직접 고르는 것과 무엇이 다른지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.XLSR은 무엇을 담나?State Street US Sector Rotation ETF이며 뉴욕증권거래소에 상장돼 있습니다. 운용사는 SSGA Fund..",
+    "headline": "XLSR ETF란? S&P500 섹터를 대신 골라주는 액티브 ETF, 정하는 것은 모델인가 사람인가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/823",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/823"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "State Street US Sector Rotation ETF",
+          "description": "S&P500의 GICS 11개 섹터 비중을 독자 모델로 배분하는 액티브 ETF. 섹터 ETF와 개별 주식을 함께 담으며, 운용사는 모델 결과를 완전히 이행하지 않을 수 있다",
+          "name": "XLSR"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "XLSR은 S&P500 11개 섹터의 비중을 매달 조정하는 액티브 ETF다. 모델이 목표 배분을 산출하지만 운용사가 그 결과를 완전히 이행하지 않을 수 있다고 명시돼 있다. 결정 주체 3단 구조와 확인 기준을 정리했다.",
+        "headline": "XLSR ETF란? S&P500 섹터를 대신 골라주는 액티브 ETF, 정하는 것은 모델인가 사람인가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "XLSR, 섹터 로테이션, 액티브 ETF, State Street, GICS, 섹터 선정 모델, 목표 섹터 배분, 회전율, 월 리밸런스, 섹터 중복, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

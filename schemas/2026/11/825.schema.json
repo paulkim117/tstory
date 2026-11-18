@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-18T03:23:00+09:00",
+    "datePublished": "2026-11-18T03:22:08+09:00",
+    "description": "액티브 ETF의 설명은 대개 짧습니다. 「지수를 그대로 따르지 않고 운용사가 판단해 담는다」입니다. 그러면 지수는 무관한 것처럼 들립니다.BREM의 요약투자설명서를 읽으면 그렇지 않습니다. 이 상품은 지수를 복제하지 않는다고 명시하면서도, 지수가 세 번 등장합니다. 무엇이 신흥국인지 정의할 때, 얼마나 벗어났는지 잴 때, 그리고 얼마나 벗어날 수 있는지를 스스로 제한한다고 고지할 때입니다.이 글은 그 세 역할을 순서대로 분해하고, 지수를 추종하는 신흥국 채권 상품과 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·분배율·국가별 비중 같은 변동 수치는 다루지 않습니다.BREM은 무엇을 담나?iShares Emerging Markets Bond Active ETF이며 나스닥에 상장돼 있습니다. 담는 것은 ..",
+    "headline": "BREM ETF란? 지수를 안 따르는 신흥국 채권 액티브 ETF가 지수를 계속 보는 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/825",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/825"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Emerging Markets Bond Active ETF",
+          "description": "하드커런시 표시 신흥국 채권을 담는 액티브 ETF. 지수를 복제하지 않으나 지수가 국가 정의·이탈 측정·이탈 폭 제한의 세 역할을 한다",
+          "name": "BREM"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "BREM은 지수를 복제하지 않는 신흥국 채권 액티브 ETF다. 그런데 문서에서 지수가 세 번 등장한다. 투자 범위를 정의하고, 이탈 정도를 재고, 결국 이탈 폭을 제한한다. 액티브 상품의 자유가 어디까지인지 정리했다.",
+        "headline": "BREM ETF란? 지수를 안 따르는 신흥국 채권 액티브 ETF가 지수를 계속 보는 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "BREM, 신흥국 채권 ETF, 액티브 ETF, iShares, EMBI Global Diversified, 액티브 위험, 하드커런시, 듀레이션, 파생상품, 레버리지 위험, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

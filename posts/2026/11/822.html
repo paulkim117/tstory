@@ -1,0 +1,350 @@
+<!--
+source: https://mystock-note.tistory.com/822
+backup_date: 2026-11-18
+post_id: 822
+-->
+<p data-ke-size="size16">채권 사다리는 오래된 방법입니다. 만기가 1년씩 어긋나는 채권을 여러 장 사 두고, 매년 하나가 만기 상환되면 그 돈으로 가장 긴 채권을 새로 삽니다. 원금을 정해진 날짜에 확정적으로 돌려받는다는 점이 이 방법의 핵심입니다.</p>
+<p data-ke-size="size16">이름에 「사다리」가 붙은 ETF가 셋 있습니다. SLDR&middot;MLDR&middot;LLDR입니다. 칸을 나누는 방식은 실제로 사다리와 같습니다. 그런데 <b>채권이 빠지는 방식이 다릅니다.</b> 만기까지 기다리지 않고, 매년 짧아진 쪽을 <b>팔아서</b> 뺍니다.</p>
+<p data-ke-size="size16">이 글은 세 상품의 요약투자설명서를 근거로 칸 구조, 리밸런스 규칙, 편입 요건을 정리하고, 직접 짜는 사다리와 무엇이 같고 무엇이 다른지 비교합니다. 총보수&middot;순자산&middot;수익률&middot;분배율 같은 변동 수치는 다루지 않습니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">세 상품은 만기를 어떻게 나누나?</h2>
+<p data-ke-size="size16">세 상품 모두 FTSE Russell이 산출하는 사다리형 국채 지수를 추종합니다. 각 지수는 만기 구간을 <b>1년짜리 칸</b>으로 쪼개고, 보유를 그 칸들에 <b>균등하게 배분</b>합니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>세 상품의 구간과 칸 수 (1차 출처: 2026-03-31자 요약투자설명서)</caption>
+<thead>
+<tr>
+<th scope="col">티커</th>
+<th scope="col">추종 지수</th>
+<th scope="col">만기 구간</th>
+<th scope="col">칸 수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">SLDR</th>
+<td>FTSE US Treasury 1-3 Years Laddered Bond Index</td>
+<td>1&ndash;3년</td>
+<td>2</td>
+</tr>
+<tr>
+<th scope="row">MLDR</th>
+<td>FTSE US Treasury 3-10 Years Laddered Bond Index</td>
+<td>3&ndash;10년</td>
+<td>7</td>
+</tr>
+<tr>
+<th scope="row">LLDR</th>
+<td>FTSE US Treasury 10-30 Years Laddered Bond Index</td>
+<td>10&ndash;30년</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">예를 들어 MLDR의 첫 칸은 리밸런스일 기준 만기가 3&ndash;4년 남은 채권, 마지막 칸은 9&ndash;10년 남은 채권입니다 [사실]. 칸 하나가 1년을 덮으므로 구간 폭이 칸 수를 그대로 결정합니다.</p>
+<p data-ke-size="size16">가중은 두 층으로 이뤄집니다. <b>칸 사이는 균등</b>이고, <b>칸 안에서는 시가총액에 비례</b>합니다 [사실]. 이 구조가 왜 중요한지는 다음 절에서 봅니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">칸을 균등하게 나누면 무엇이 달라지나?</h2>
+<p data-ke-size="size16">일반적인 만기 구간 국채 지수는 구간 안의 채권을 <b>통째로 시가총액 가중</b>합니다. 그러면 재무부가 그해에 많이 발행한 만기에 비중이 쏠립니다. 발행 스케줄이 곧 포트폴리오 구성이 됩니다.</p>
+<p data-ke-size="size16">사다리 지수는 그 앞에 칸을 하나 더 놓습니다. 어느 해에 발행이 몰렸든 <b>칸마다 같은 몫</b>을 배정하고, 그 몫 안에서만 시가총액을 따집니다.</p>
+<table data-ke-align="alignLeft"><caption>같은 구간, 다른 배분</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">일반 만기 구간 지수</th>
+<th scope="col">사다리 지수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>연도별 비중</td>
+<td>발행량에 따라 <b>달라짐</b></td>
+<td>칸마다 <b>동일</b></td>
+</tr>
+<tr>
+<td>가중 층</td>
+<td>1층(시총)</td>
+<td><b>2층</b>(칸 균등 &rarr; 칸 내 시총)</td>
+</tr>
+<tr>
+<td>영향받는 것</td>
+<td>재무부 발행 스케줄</td>
+<td>칸 구조가 흡수</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">즉 사다리 구조가 하는 일은 <b>발행 스케줄의 영향을 지우는 것</b>입니다 `[판단]`. 만기 분포가 해마다 들쭉날쭉해지는 것을 막는 장치입니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">채권은 언제, 어떻게 빠지나?</h2>
+<p data-ke-size="size16">여기가 이 상품의 성격을 결정하는 지점입니다. 리밸런스는 <b>연 1회, 매년 2월 마지막 영업일</b> 기준으로 이뤄집니다 [사실].</p>
+<p data-ke-size="size16">리밸런스 때 일어나는 일은 세 가지입니다 [사실].</p>
+<ul>
+<li data-ke-size="size16">긴 칸의 구성 증권이 <b>한 칸 아래로 내려갑니다.</b> 예컨대 9&ndash;10년 칸의 채권은 8&ndash;9년 칸이 됩니다.</li>
+<li data-ke-size="size16">만기가 가장 짧아진 쪽의 구성 증권이 <b>지수에서 제거</b>됩니다.</li>
+<li data-ke-size="size16">가장 긴 만기 칸에 <b>새 증권이 선정</b>되어 사다리 구조가 유지됩니다.</li>
+</ul>
+<p data-ke-size="size16">두 번째 항목이 핵심입니다. 채권은 <b>만기가 되어 상환되는 것이 아니라, 만기 전에 지수에서 빠집니다.</b> 지수를 추종하는 상품은 그 채권을 <b>시장에 팔아야</b> 합니다.</p>
+<h3 data-ke-size="size23">직접 짜는 사다리와의 차이</h3>
+<table data-ke-align="alignLeft"><caption>같은 것과 다른 것</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">직접 짜는 사다리</th>
+<th scope="col">사다리 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>칸 구조</td>
+<td>1년 간격</td>
+<td>1년 간격 &mdash; <b>같음</b></td>
+</tr>
+<tr>
+<td>매년 하는 일</td>
+<td>맨 아래 칸이 <b>만기 상환</b></td>
+<td>맨 아래 쪽을 <b>매도</b></td>
+</tr>
+<tr>
+<td>회수 금액</td>
+<td><b>액면가로 확정</b></td>
+<td><b>그날의 시장가격</b></td>
+</tr>
+<tr>
+<td>금리 상승 시</td>
+<td>만기까지 기다리면 액면 회수</td>
+<td>하락한 가격에 매도</td>
+</tr>
+<tr>
+<td>재투자 결정</td>
+<td>투자자가 함</td>
+<td>지수 규칙이 함</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">직접 짜는 사다리를 쓰는 이유는 대개 <b>정해진 날짜에 원금이 확정적으로 들어온다</b>는 점 때문입니다. 사다리 ETF에는 그 성질이 없습니다. 만기 보유가 아니므로 <b>원금 확정 효과는 얻을 수 없습니다.</b></p>
+<p data-ke-size="size16">그렇다면 무엇을 얻는가. 칸 구조를 유지하는 <b>수고를 대신</b> 해 줍니다. 매년 종목을 고르고 재투자하는 작업이 자동화되고, 소액으로도 여러 칸을 동시에 가질 수 있습니다. 사다리를 <b>운용 편의</b>로 쓸 것인지 <b>원금 확정</b>으로 쓸 것인지에 따라 답이 갈립니다. 채권을 만기와 신용 두 축으로 배치하는 방법은 <a href="https://mystock-note.tistory.com/444">채권 ETF 조합을 다룬 글</a>에서 별도로 정리했습니다.</p>
+
+<h2 data-ke-size="size26">편입 문턱이 특이하다는데?</h2>
+<p data-ke-size="size16">편입 요건 중 하나가 눈에 띕니다. 각 채권은 <b>일반 대중이 매입할 수 있는 발행분이 50억 달러 이상</b>이어야 합니다. 그리고 이 판단에서 <b>연방준비제도가 보유한 물량은 제외</b>됩니다 [사실].</p>
+<p data-ke-size="size16">보통 채권 지수의 발행잔액 요건은 <b>총 발행액</b>을 봅니다. 여기서는 총액이 아니라 <b>실제로 시장에서 거래될 수 있는 물량</b>을 봅니다. 중앙은행이 대량 매입해 시장에 남은 물량이 줄어든 종목은 문턱을 넘지 못할 수 있습니다.</p>
+<table data-ke-align="alignLeft"><caption>발행잔액 요건을 재는 두 방식</caption>
+<thead>
+<tr>
+<th scope="col">방식</th>
+<th scope="col">기준</th>
+<th scope="col">반영되는 것</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>총 발행액</td>
+<td>발행된 전체 금액</td>
+<td>발행 규모</td>
+</tr>
+<tr>
+<td><b>유통 가능 물량</b></td>
+<td>대중이 매입 가능한 금액</td>
+<td>발행 규모 + <b>중앙은행 보유</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이 기준은 통화정책이 지수 구성에 직접 반영되는 통로가 됩니다 `[판단]`. 중앙은행이 국채를 사들이면 유통 물량이 줄고, 줄어든 종목은 편입 자격을 잃을 수 있습니다. 문턱 자체가 50억 달러로 높게 설정돼 있어 그 영향이 작지 않습니다.</p>
+
+<h2 data-ke-size="size26">지수에서 빠지는 채권은 무엇인가?</h2>
+<p data-ke-size="size16">세 지수 모두 동일한 배제 목록을 씁니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>배제 항목</caption>
+<thead>
+<tr>
+<th scope="col">배제 대상</th>
+<th scope="col">성격</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>변동금리 &middot; 고정후변동금리</td>
+<td>쿠폰이 재설정됨</td>
+</tr>
+<tr>
+<td>물가연동채</td>
+<td>원금이 지수에 연동</td>
+</tr>
+<tr>
+<td>단기국채(T-Bill)</td>
+<td>만기 1년 이하</td>
+</tr>
+<tr>
+<td>이표 분리 무이표채</td>
+<td>원채권에서 떼어낸 증권</td>
+</tr>
+<tr>
+<td>리테일 전용 &middot; 저축채권</td>
+<td>일반 시장 유통 아님</td>
+</tr>
+<tr>
+<td>전환사채 &middot; 사모 &middot; 이중통화</td>
+<td>구조가 표준과 다름</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">배제 목록이 긴 이유는 사다리 구조 때문입니다 `[판단]`. 칸에 균등 배분하려면 각 칸의 채권이 <b>서로 비교 가능한 표준형</b>이어야 합니다. 쿠폰 방식이나 원금 조정 방식이 다른 채권이 섞이면 칸의 성격이 흐트러집니다.</p>
+
+<h2 data-ke-size="size26">갱신 주기가 둘이라는 건 무슨 뜻인가?</h2>
+<p data-ke-size="size16">주기가 둘로 나뉘어 있습니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>두 개의 주기</caption>
+<thead>
+<tr>
+<th scope="col">주기</th>
+<th scope="col">시점</th>
+<th scope="col">하는 일</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>리밸런스</td>
+<td><b>연 1회</b>(2월 말)</td>
+<td>칸 이동 &middot; 짧은 쪽 제거 &middot; 긴 칸 신규 선정</td>
+</tr>
+<tr>
+<td>재구성</td>
+<td><b>월 1회</b></td>
+<td>신규 발행 증권 편입</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">칸 구조 자체는 1년에 한 번만 바뀌고, 새로 발행된 국채는 매달 반영됩니다. 즉 <b>구조는 느리게, 종목은 빠르게</b> 갱신됩니다. 만기 구간 지수 대부분이 월 단위로 구간을 재판정하는 것과 다른 점입니다.</p>
+
+<h2 data-ke-size="size26">투자 정책은 어떻게 규정돼 있나?</h2>
+<p data-ke-size="size16"><b>총자산</b>과 투자 목적 차입액을 더한 금액의 최소 80%를 지수 구성 증권 및 경제적 성격이 실질적으로 동일하다고 운용사가 판단한 증권에 투자합니다. 이 80% 정책은 <b>비근본적</b>이며, 변경하려면 주주에게 60일 전 서면 통지가 필요합니다 [사실].</p>
+<p data-ke-size="size16">추가로 지수에 없는 채권, 현금&middot;현금성 자산, 환매조건부채권&middot;머니마켓펀드 같은 단기금융상품에도 투자할 수 있습니다 [사실]. 지수를 그대로 복제한다는 뜻이 아니라는 점을 확인해 두면 됩니다.</p>
+
+<h2 data-ke-size="size26">비슷한 구간의 일반 국채 상품과 어떻게 고르나?</h2>
+<p data-ke-size="size16">세 상품의 구간은 널리 쓰이는 일반 국채 상품과 상당 부분 겹칩니다.</p>
+<table data-ke-align="alignLeft"><caption>구간 대응</caption>
+<thead>
+<tr>
+<th scope="col">사다리형</th>
+<th scope="col">구간</th>
+<th scope="col">일반형 대응</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SLDR</td>
+<td>1&ndash;3년</td>
+<td><a href="https://mystock-note.tistory.com/421">동일 구간 상품</a>과 범위 일치</td>
+</tr>
+<tr>
+<td>MLDR</td>
+<td>3&ndash;10년</td>
+<td><a href="https://mystock-note.tistory.com/416">7&ndash;10년 상품</a>을 포함하는 더 넓은 범위</td>
+</tr>
+<tr>
+<td>LLDR</td>
+<td>10&ndash;30년</td>
+<td><a href="https://mystock-note.tistory.com/332">장기국채 상품</a>과 부분 중첩</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">구간이 같다면 남는 차이는 <b>연도별 비중을 균등하게 유지하는가</b>입니다. 만기 분포를 고르게 가져가고 싶다면 사다리형, 시장 규모를 그대로 반영하고 싶다면 일반형입니다. 사다리형이라고 해서 원금 확정이 되는 것은 아니므로, 그 기대로 고르면 어긋납니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 대조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">미국 상장 직접투자</th>
+<th scope="col">국내 상장 미국채 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매매차익</th>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<th scope="row">기본공제</th>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<th scope="row">분배금</th>
+<td>미국에서 원천징수 후 지급</td>
+<td>배당소득 과세</td>
+</tr>
+<tr>
+<th scope="row">과세 방식</th>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<th scope="row">연금&middot;ISA</th>
+<td>매수 불가</td>
+<td>매수 가능(상품별 확인)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">국내에 사다리 구조를 그대로 쓰는 미국채 상품이 있는지는 확인되지 않습니다 <code>[정보부족]</code>. 만기 구간형은 있으나 칸 균등 배분 방식인지는 상품별로 기초지수 명칭을 직접 확인해야 합니다. 세율과 제도는 개정될 수 있습니다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 판단하면 되나?</h2>
+<table data-ke-align="alignLeft"><caption>확인 순서</caption>
+<thead>
+<tr>
+<th scope="col">순서</th>
+<th scope="col">질문</th>
+<th scope="col">갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>원금 확정을 원하는가</td>
+<td>원한다면 <b>이 상품군이 아니다</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>만기 분포를 고르게 가져갈 이유가 있는가</td>
+<td>사다리형 vs 일반형</td>
+</tr>
+<tr>
+<td>3</td>
+<td>어느 구간이 필요한가</td>
+<td>SLDR &middot; MLDR &middot; LLDR</td>
+</tr>
+<tr>
+<td>4</td>
+<td>같은 구간 일반형을 이미 갖고 있는가</td>
+<td>중복 점검</td>
+</tr>
+<tr>
+<td>5</td>
+<td>연 1회 리밸런스 주기를 감안했는가</td>
+<td>구조 변화 시점</td>
+</tr>
+<tr>
+<td>6</td>
+<td>어느 계좌에 담을 것인가</td>
+<td>세제&middot;연금 활용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1번에서 대부분 갈립니다. 「사다리」라는 이름 때문에 만기 상환을 기대하고 들어오면 <b>기대와 상품이 어긋납니다.</b></p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">만기까지 보유하지 않고 <b>매도</b>한다는 사실</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">칸 균등 &rarr; 칸 내 시총의 2층 가중 구조</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">연준 보유분을 제외한 유통 물량 50억 달러 문턱</p>
+<progress value="78" max="100"></progress>
+<p data-ke-size="size16">리밸런스 연 1회 &middot; 재구성 월 1회의 2주기</p>
+<progress value="64" max="100"></progress>
+<p data-ke-size="size16">같은 구간 일반형과의 중복</p>
+<progress value="52" max="100"></progress>
+<p data-ke-size="size16">계좌 배치와 세제</p>
+<progress value="40" max="100"></progress>
