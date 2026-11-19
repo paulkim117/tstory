@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-19T02:18:00+09:00",
+    "datePublished": "2026-11-19T02:17:50+09:00",
+    "description": "국채 ETF에서 「10–20년」 같은 표기는 명확해 보입니다. 그런데 실제로 몇 년짜리부터 몇 년짜리까지 들어가는지는 부등호 하나에 달려 있습니다. 10년 이상인지 10년 초과인지, 20년 미만인지 20년 이하인지입니다.TLH의 요약투자설명서를 읽으면 이 부등호가 한 문서 안에서 두 번 다르게 적혀 있습니다. 지수를 소개하는 문장과 편입 규칙을 적은 문장이 서로 어긋납니다.이 글은 그 불일치를 확인하고, 지수가 무엇을 빼는지, 그리고 「편입된 뒤 쪼개진 채권」을 어떻게 세는지를 1차 출처로 정리합니다. 총보수·순자산·수익률·보유 종목 수 같은 변동 수치는 다루지 않습니다.TLH는 무엇을 추종하나?iShares 10-20 Year Treasury Bond ETF이며 NYSE Arca에 상장돼 있습니다. 추..",
+    "headline": "TLH ETF란? 미국 10-20년 국채, 구간의 경계를 어디서 끊는가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/828",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/828"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares 10-20 Year Treasury Bond ETF",
+          "description": "잔존 10~20년 미국 국채를 시장가치 가중으로 담는 ETF. 요약투자설명서 안에서 구간 경계 부등호가 두 번 다르게 서술되며, 편입 후 스트립된 부분은 발행잔액에서 차감하지 않는다",
+          "name": "TLH"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "TLH는 잔존 10~20년 미국 국채를 담는다. 그런데 같은 요약투자설명서가 구간의 양 끝을 두 번 다르게 적는다. 경계 부등호 문제와 편입 후 스트립 처리 규칙을 1차 출처로 확인하고, 인접 구간 상품과 비교했다.",
+        "headline": "TLH ETF란? 미국 10-20년 국채, 구간의 경계를 어디서 끊는가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "TLH, 미국 국채 ETF, 10-20년, 잔존만기 경계, ICE U.S. Treasury 10-20 Year Bond Index, 스트립, 무이표채, 현금관리 단기채, 표본추출, 듀레이션, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

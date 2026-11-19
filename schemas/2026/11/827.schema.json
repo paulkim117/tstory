@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-19T01:18:00+09:00",
+    "datePublished": "2026-11-19T01:17:31+09:00",
+    "description": "유럽 ETF를 고를 때 흔히 따지는 것은 「영국이 들어가느냐」입니다. HEDJ는 그 질문 앞에 다른 질문을 하나 더 놓습니다. 이 회사가 유럽에서 돈을 버느냐입니다.그리고 답이 뒤집혀 있습니다. 유럽에서 버는 회사는 빠집니다. 편입 요건에 「매출의 50% 이상을 유럽 밖 국가에서 창출할 것」이 들어 있기 때문입니다.이 글은 HEDJ의 요약투자설명서를 근거로, 왜 환헤지 상품이 종목 선별에까지 통화 논리를 적용하는지, 어떤 회사가 남고 어떤 회사가 빠지는지, 그리고 일반 유럽 ETF와 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.HEDJ는 무엇을 하려는 상품인가?WisdomTree Europe Hedged Equity Fund이며 NYSE Arca에 상장돼..",
+    "headline": "HEDJ ETF란? 유럽 ETF인데 유럽에서 버는 회사는 빠진다 — 환헤지가 종목까지 고르는 구조",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/827",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/827"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Europe Hedged Equity Fund",
+          "description": "유로화 사용 10개국 배당 지급 기업 중 매출의 50% 이상을 유럽 밖에서 얻는 기업만 담고, 유로 대비 달러 노출을 헤지하는 ETF",
+          "name": "HEDJ"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "HEDJ는 유로/달러 환헤지 유럽 주식 ETF다. 그런데 편입 요건에 「매출의 50% 이상을 유럽 밖에서 창출」이 들어 있다. 환헤지가 포트폴리오에 그치지 않고 종목 선별까지 내려오는 구조를 1차 출처로 정리했다.",
+        "headline": "HEDJ ETF란? 유럽 ETF인데 유럽에서 버는 회사는 빠진다 — 환헤지가 종목까지 고르는 구조",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "HEDJ, 유럽 ETF, 환헤지, WisdomTree, 유로존 10개국, 유럽 밖 매출 50%, 수출 기업, 배당 지급 기업, 유로화 거래, 원달러 미헤지, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-19",
+  "body_html_length": 8579,
+  "canonical_url": "https://mystock-note.tistory.com/829",
+  "content_hash": "804e1d775028a7698ada0d9b80d012eaf14908fec47e6c2faaa2d1dc14d441cd",
+  "json_ld_count": 2,
+  "meta_description": "ETF를 고를 때 어느 거래소에 상장돼 있는지를 확인하는 사람은 많지 않습니다. 티커와 지수, 보수를 보면 충분해 보입니다.그런데 상장 거래소는 바뀝니다. BBMC와 BBSC는 2026년 4월 16일부로 NYSE Arca에서 Cboe BZX로 옮겼습니다. 같은 날 같은 운용사의 다른 열두 개 상품도 함께 움직였고, 방향은 셋으로 갈렸습니다.더 확인해 둘 것이 있습니다. 이 변경은 요약투자설명서 본문에 없습니다. 본문은 여전히 옛 거래소를 적고 있고, 별도로 제출된 보충서가 그것을 덮습니다. 이 글은 두 상품의 구조와 함께, 이런 변경을 어디서 확인해야 하는지를 정리합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.두 상품은 무엇을 담나?JPMorgan BetaBuilders 계열..",
+  "modified_time": "2026-11-19T03:19:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "ETF를 고를 때 어느 거래소에 상장돼 있는지를 확인하는 사람은 많지 않습니다. 티커와 지수, 보수를 보면 충분해 보입니다.그런데 상장 거래소는 바뀝니다. BBMC와 BBSC는 2026년 4월 16일부로 NYSE Arca에서 Cboe BZX로 옮겼습니다. 같은 날 같은 운용사의 다른 열두 개 상품도 함께 움직였고, 방향은 셋으로 갈렸습니다.더 확인해 둘 것이 있습니다. 이 변경은 요약투자설명서 본문에 없습니다. 본문은 여전히 옛 거래소를 적고 있고, 별도로 제출된 보충서가 그것을 덮습니다. 이 글은 두 상품의 구조와 함께, 이런 변경을 어디서 확인해야 하는지를 정리합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.두 상품은 무엇을 담나?JPMorgan BetaBuilders 계열..",
+  "og_title": "BBMC·BBSC 비교: 미국 중형·소형 패시브 ETF, 상장 거래소가 바뀌면 무엇이 달라지나",
+  "post_id": "829",
+  "published_time": "2026-11-19T03:18:09+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "BBMC·BBSC 비교: 미국 중형·소형 패시브 ETF, 상장 거래소가 바뀌면 무엇이 달라지나",
+  "url": "https://mystock-note.tistory.com/829"
+}

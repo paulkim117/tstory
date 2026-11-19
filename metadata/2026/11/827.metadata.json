@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-19",
+  "body_html_length": 8833,
+  "canonical_url": "https://mystock-note.tistory.com/827",
+  "content_hash": "71c2a99a4fe6849ae8e143affa7a60f9be6348c0157f2301757a3e0eb1f8c330",
+  "json_ld_count": 2,
+  "meta_description": "유럽 ETF를 고를 때 흔히 따지는 것은 「영국이 들어가느냐」입니다. HEDJ는 그 질문 앞에 다른 질문을 하나 더 놓습니다. 이 회사가 유럽에서 돈을 버느냐입니다.그리고 답이 뒤집혀 있습니다. 유럽에서 버는 회사는 빠집니다. 편입 요건에 「매출의 50% 이상을 유럽 밖 국가에서 창출할 것」이 들어 있기 때문입니다.이 글은 HEDJ의 요약투자설명서를 근거로, 왜 환헤지 상품이 종목 선별에까지 통화 논리를 적용하는지, 어떤 회사가 남고 어떤 회사가 빠지는지, 그리고 일반 유럽 ETF와 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.HEDJ는 무엇을 하려는 상품인가?WisdomTree Europe Hedged Equity Fund이며 NYSE Arca에 상장돼..",
+  "modified_time": "2026-11-19T01:18:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "유럽 ETF를 고를 때 흔히 따지는 것은 「영국이 들어가느냐」입니다. HEDJ는 그 질문 앞에 다른 질문을 하나 더 놓습니다. 이 회사가 유럽에서 돈을 버느냐입니다.그리고 답이 뒤집혀 있습니다. 유럽에서 버는 회사는 빠집니다. 편입 요건에 「매출의 50% 이상을 유럽 밖 국가에서 창출할 것」이 들어 있기 때문입니다.이 글은 HEDJ의 요약투자설명서를 근거로, 왜 환헤지 상품이 종목 선별에까지 통화 논리를 적용하는지, 어떤 회사가 남고 어떤 회사가 빠지는지, 그리고 일반 유럽 ETF와 무엇이 갈리는지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.HEDJ는 무엇을 하려는 상품인가?WisdomTree Europe Hedged Equity Fund이며 NYSE Arca에 상장돼..",
+  "og_title": "HEDJ ETF란? 유럽 ETF인데 유럽에서 버는 회사는 빠진다 — 환헤지가 종목까지 고르는 구조",
+  "post_id": "827",
+  "published_time": "2026-11-19T01:17:31+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HEDJ ETF란? 유럽 ETF인데 유럽에서 버는 회사는 빠진다 — 환헤지가 종목까지 고르는 구조",
+  "url": "https://mystock-note.tistory.com/827"
+}

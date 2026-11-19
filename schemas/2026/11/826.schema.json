@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-19T00:18:11+09:00",
+    "datePublished": "2026-11-19T00:17:04+09:00",
+    "description": "금광주 ETF를 고를 때 대개 「어떤 회사를 담느냐」를 봅니다. 그런데 PMTL은 그 앞에 질문이 하나 더 있습니다. 그 회사를 무엇으로 평가하느냐입니다.이 상품이 추종하는 지수는 종목을 고를 때 품질 점수를 매깁니다. 재료는 자기자본이익률과 부채비율입니다. 여기까지는 흔한 품질 팩터입니다. 그런데 금과 은을 캐는 회사에는 지표가 하나 더 붙습니다. 총유지원가입니다.이 글은 PMTL의 요약투자설명서를 근거로 담는 금속의 범위, 품질 점수의 구성, 두 단으로 작동하는 비중 상한을 정리하고, 시가총액으로만 담는 금광주 상품과 무엇이 갈리는지 비교합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.PMTL은 무엇을 담나?First Trust Indxx Quality Precious Me..",
+    "headline": "PMTL ETF란? 귀금속 채굴 기업의 품질을 재는 지수, GDX와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/826",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/826"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "First Trust Indxx Quality Precious Metals Miners ETF",
+          "description": "귀금속 7종을 채굴·생산·정련하는 기업을 담는 수정 시가총액 가중 ETF. 품질 점수에 금·은 채굴사만 총유지원가가 추가되고, 비중 상한이 2단으로 작동한다",
+          "name": "PMTL"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "PMTL은 금·은·백금 등 7종 귀금속 채굴 기업을 담는다. 선정 점수에 ROE와 부채비율이 들어가는데, 금·은 채굴사에는 총유지원가가 하나 더 붙는다. 같은 지수 안에서 종목마다 채점표가 다른 구조를 정리했다.",
+        "headline": "PMTL ETF란? 귀금속 채굴 기업의 품질을 재는 지수, GDX와 무엇이 다른가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "PMTL, 귀금속 채굴 ETF, Indxx, 복합 품질 점수, 총유지원가, AISC, 자기자본이익률, 부채비율, 2단 비중 상한, 백금족, GDX, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
