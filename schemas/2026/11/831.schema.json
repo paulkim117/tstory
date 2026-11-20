@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-20T01:13:00+09:00",
+    "datePublished": "2026-11-20T01:12:24+09:00",
+    "description": "인도 주식에 투자하는 상품을 고를 때 대개 지수 이름부터 봅니다. Nifty50인지, 다른 지수인지를 확인합니다.그런데 그 앞에 놓인 질문이 하나 있습니다. 인도의 어느 거래소에 상장된 주식인가입니다. 인도에는 주요 증권거래소가 둘이고, INDH가 추종하는 지수는 그중 하나만 편입 요건으로 지정합니다.이 글은 INDH의 요약투자설명서를 근거로 편입 요건, 종목 선정 방식, 루피 헤지 구조를 정리하고, 국내에서 흔히 쓰이는 인도 상품과 무엇이 갈리는지 비교합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.INDH는 무엇을 담나?WisdomTree India Hedged Equity Fund이며 나스닥에 상장돼 있습니다. 지수를 만든 곳은 WisdomTree, Inc.으로, 운용사의..",
+    "headline": "INDH ETF란? 인도 환헤지 ETF, 왜 봄베이 거래소 상장만 담나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/831",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/831"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree India Hedged Equity Fund",
+          "description": "인도에서 설립되고 봄베이 증권거래소에 상장된 기업 중 자유유통 시가총액 상위 75종을 담고, 루피 대비 달러 노출을 헤지하는 ETF",
+          "name": "INDH"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "INDH는 인도에서 설립되고 봄베이 증권거래소에 상장된 기업만 담는다. 인도에는 주요 거래소가 둘인데 하나만 지정한 것이다. 자유유통 시총 상위 75종 선정과 루피 헤지 구조까지 1차 출처로 정리했다.",
+        "headline": "INDH ETF란? 인도 환헤지 ETF, 왜 봄베이 거래소 상장만 담나",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "INDH, 인도 ETF, 환헤지, WisdomTree, 봄베이 증권거래소, 설립지 기준, 자유유통 시가총액, 상위 75종, 루피 1개월 선도환율, 연 1회 리밸런스, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

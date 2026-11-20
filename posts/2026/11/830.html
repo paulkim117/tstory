@@ -1,0 +1,301 @@
+<!--
+source: https://mystock-note.tistory.com/830
+backup_date: 2026-11-20
+post_id: 830
+-->
+<p data-ke-size="size16">지수가 여러 지표로 종목을 고른다고 할 때, 잘 다뤄지지 않는 문제가 하나 있습니다. <b>그 지표 중 하나가 없는 회사는 어떻게 하느냐</b>입니다.</p>
+<p data-ke-size="size16">적자 기업은 주가수익비율이 계산되지 않습니다. 자산 구조가 특이한 회사는 주가순자산비율이 의미를 잃습니다. 지수가 네 개 지표를 평균한다면, 세 개만 가진 회사를 <b>빼야 하는지 넣어야 하는지, 넣는다면 불이익을 줘야 하는지</b>를 규칙으로 정해야 합니다.</p>
+<p data-ke-size="size16">DVLU의 요약투자설명서는 이 문제를 명시적으로 다룹니다. 그리고 자매 상품인 DDIV는 지표가 하나뿐이라 같은 문제가 생기지 않습니다. 이 글은 두 상품의 구조를 대조하면서, 지표 개수가 규칙을 어떻게 바꾸는지 정리합니다. 총보수&middot;순자산&middot;수익률&middot;섹터 비중 같은 변동 수치는 다루지 않습니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">두 상품은 어디까지 같은가?</h2>
+<p data-ke-size="size16">1단계가 완전히 같습니다. 두 지수 모두 Nasdaq, Inc.이 소유하고 개발했으며, 같은 모집단에서 출발해 같은 방식으로 순위를 매깁니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>공통 구조 (1차 출처: 2026-02-02자 요약투자설명서 2건)</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>지수 소유&middot;개발</td>
+<td>Nasdaq, Inc.</td>
+</tr>
+<tr>
+<td>모집단</td>
+<td>Nasdaq US Large Mid Cap Index 편입 + 유동성 요건 충족</td>
+</tr>
+<tr>
+<td>1단계</td>
+<td>전 종목을 <b>독자 상대강도(모멘텀) 측정치</b>로 순위</td>
+</tr>
+<tr>
+<td>최종 종목 수</td>
+<td>각 50종</td>
+</tr>
+<tr>
+<td>투자 정책</td>
+<td>순자산(투자 차입 포함)의 <b>90% 이상</b>을 지수 구성 증권에</td>
+</tr>
+<tr>
+<td>정기변경</td>
+<td>분기 재구성&middot;리밸런스</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">모멘텀 측정치는 <b>대표 시장 벤치마크 대비 중기&middot;장기 가격 움직임</b>을 기반으로 산출됩니다. 문서는 모멘텀을 「가격이 가속하는 속도」로 정의하고, 최근 오르거나 내린 종목이 그 추세를 이어간다는 원리에 기반한 전략이라고 설명합니다 [사실]. 모멘텀 팩터를 단독으로 쓰는 상품의 구조는 <a href="https://mystock-note.tistory.com/379">미국 모멘텀 팩터 ETF를 다룬 글</a>에 정리돼 있습니다.</p>
+<p data-ke-size="size16">여기까지가 공통입니다. 갈리는 것은 그다음입니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">2단계에서 무엇이 갈리나?</h2>
+<table data-ke-align="alignLeft"><caption>선별 지표와 가중</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">DDIV</th>
+<th scope="col">DVLU</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2단계 지표</td>
+<td><b>현재 배당수익률</b> 1개</td>
+<td><b>가치 지표 4개</b></td>
+</tr>
+<tr>
+<td>지표 내역</td>
+<td>&mdash;</td>
+<td>주가매출비율 &middot; 주가순자산비율 &middot; 주가수익비율 &middot; 주가현금흐름비율</td>
+</tr>
+<tr>
+<td>점수 산출</td>
+<td>수익률 값 그대로</td>
+<td>각 지표 <b>백분위 점수</b> &rarr; 평균</td>
+</tr>
+<tr>
+<td>선발</td>
+<td>수익률 상위 50종</td>
+<td>결합 점수 상위 50종</td>
+</tr>
+<tr>
+<td>가중</td>
+<td>각 종목 배당수익률 &divide; 전체 합</td>
+<td>각 종목 가치 점수 &divide; 전체 합</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">둘 다 <b>선발에 쓴 점수를 그대로 비중으로 씁니다.</b> 점수가 높으면 많이 담기는 구조입니다.</p>
+<p data-ke-size="size16">DDIV는 계산이 단순합니다. 배당수익률이라는 하나의 숫자가 통과 여부와 비중을 동시에 정합니다. DVLU는 네 개를 합쳐야 하므로 <b>합치는 방법</b>을 정해야 하고, 여기서 결측 문제가 생깁니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">지표가 하나 없으면 어떻게 되나?</h2>
+<p data-ke-size="size16">DVLU 지수의 규칙은 세 문장으로 정리됩니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>결측 지표 처리 규칙</caption>
+<thead>
+<tr>
+<th scope="col">보유 지표 수</th>
+<th scope="col">처리</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4개</td>
+<td>4개 백분위 점수를 평균</td>
+</tr>
+<tr>
+<td><b>3개</b></td>
+<td><b>3개를 평균. 불이익 없음</b></td>
+</tr>
+<tr>
+<td>2개 이하</td>
+<td>지수에서 <b>제외</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">「불이익을 주지 않는다」가 문서에 명시된 문구입니다. 즉 세 개로 낸 평균과 네 개로 낸 평균이 <b>같은 척도 위에서 비교</b>됩니다.</p>
+<h3 data-ke-size="size23">이 규칙이 만드는 것</h3>
+<p data-ke-size="size16">가치 지표가 계산되지 않는 상황은 대체로 정해져 있습니다. 이익이 나지 않으면 주가수익비율이 없고, 현금흐름이 마이너스면 주가현금흐름비율이 없습니다. 즉 <b>없는 지표는 대개 그 회사에 불리했을 지표</b>입니다 `[판단]`.</p>
+<p data-ke-size="size16">그 지표를 빼고 나머지 셋만 평균하면 어떻게 될까요 <b>(가상 예시)</b>.</p>
+<table data-ke-align="alignLeft"><caption>같은 회사, 지표 유무에 따른 결과 (가상 예시)</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">PSR</th>
+<th scope="col">PBR</th>
+<th scope="col">PER</th>
+<th scope="col">P/CF</th>
+<th scope="col">평균</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A사(4개 보유)</td>
+<td>80</td>
+<td>75</td>
+<td>20</td>
+<td>70</td>
+<td>61.3</td>
+</tr>
+<tr>
+<td>B사(적자, PER 없음)</td>
+<td>80</td>
+<td>75</td>
+<td>&mdash;</td>
+<td>70</td>
+<td><b>75.0</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">나머지 세 지표가 동일한데도 <b>적자 기업 쪽 점수가 높게 나옵니다.</b> 불리했을 항목이 평균에서 빠졌기 때문입니다. 「불이익 없음」이라는 규칙은 중립처럼 보이지만, 실제로는 <b>결측 자체가 이점이 되는 방향</b>으로 작동할 수 있습니다.</p>
+<p data-ke-size="size16">다만 1단계 모멘텀 순위를 먼저 통과해야 하므로, 주가가 크게 밀린 부실 기업이 그대로 들어오는 구조는 아닙니다. 이 점은 다지표 선정을 쓰는 다른 상품과 비교해 보면 분명해집니다. <a href="https://mystock-note.tistory.com/374">퀄리티 팩터 지수가 세 지표를 쓰는 방식</a>이나 <a href="https://mystock-note.tistory.com/389">밸류에 수익성 스크린을 결합하는 방식</a>과 대조하면, 각 지수가 이 문제를 다르게 처리하고 있음을 알 수 있습니다.</p>
+
+<h2 data-ke-size="size26">DDIV에는 왜 같은 문제가 없나?</h2>
+<p data-ke-size="size16">지표가 하나이기 때문입니다. 배당수익률이 없다는 것은 <b>배당을 주지 않는다</b>는 뜻이고, 그러면 배당수익률 순위에서 자동으로 밀립니다. 별도 규칙이 필요 없습니다.</p>
+<p data-ke-size="size16">대신 다른 성격이 생깁니다. 단일 지표로 뽑고 그 지표로 가중하므로, <b>배당수익률이 높은 종목이 곧 비중이 큰 종목</b>이 됩니다. 배당수익률은 주가가 내려도 올라가는 값이므로, 주가가 부진한 종목의 비중이 커질 수 있습니다 `[판단]`.</p>
+<p data-ke-size="size16">여기서도 1단계 모멘텀이 완충 역할을 합니다. 주가 추세가 나쁜 종목은 그 앞에서 걸러지기 때문입니다. 배당 상품에서 스크린을 어떻게 거는지는 <a href="https://mystock-note.tistory.com/380">배당 ETF의 품질 스크린을 비교한 글</a>에 정리했습니다.</p>
+<p data-ke-size="size16">DDIV는 다양한 시가총액의 기업과 부동산투자신탁에도 투자할 수 있습니다 [사실].</p>
+
+<h2 data-ke-size="size26">지수사는 규칙 밖에서 개입할 수 있나?</h2>
+<p data-ke-size="size16">할 수 있습니다. 두 문서 모두 같은 조항을 담고 있습니다 [사실].</p>
+<ul>
+<li data-ke-size="size16">지수사는 <b>지수의 무결성을 확보하기 위해</b> 수시로 합리적 재량을 행사할 수 있으며, 여기에는 정량적 편입 기준이 포함되나 이에 한정되지 않는다.</li>
+<li data-ke-size="size16">특수한 사정으로 필수적이라고 판단되면, 지수 구성과 산출의 높은 품질을 확보&middot;유지하기 위해 <b>재량적 조정</b>을 적용할 수 있다.</li>
+</ul>
+<p data-ke-size="size16">규칙 기반 지수라는 표현과 이 조항은 함께 읽어야 합니다. 규칙이 결과를 확정하는 것이 아니라, <b>규칙이 원칙이고 예외가 열려 있는</b> 구조입니다.</p>
+
+<h2 data-ke-size="size26">분기마다 갈아엎으면 무엇이 생기나?</h2>
+<p data-ke-size="size16">두 지수 모두 <b>분기</b>로 재구성&middot;리밸런스되며, 상품은 지수 변경이 공표된 직후 포트폴리오를 맞춥니다. 문서는 이 일정이 <b>회전율을 높일 수 있다</b>고 명시합니다 [사실].</p>
+<p data-ke-size="size16">모멘텀 전략은 성격상 회전이 잦습니다. 가격 추세는 계속 바뀌고, 순위가 바뀌면 명단이 바뀝니다. 여기에 2단계 지표까지 분기마다 재계산되므로 변동 요인이 둘입니다.</p>
+<p data-ke-size="size16">회전율이 높으면 펀드 내부 거래 비용이 늘고 실현 손익이 자주 발생합니다. 다만 그 비용이 전략의 성과보다 큰지는 사후에만 알 수 있습니다.</p>
+
+<h2 data-ke-size="size26">두 상품을 함께 담아도 되나?</h2>
+<p data-ke-size="size16">1단계 모집단이 같으므로 <b>같은 종목이 양쪽에 들어갈 수 있습니다.</b> 고배당이면서 저평가 지표까지 좋은 회사라면 두 지수 모두에 편입될 수 있습니다.</p>
+<table data-ke-align="alignLeft"><caption>조합할 때 확인할 것</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">확인 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>종목 중복</td>
+<td>둘 다 50종이며 모집단이 동일</td>
+</tr>
+<tr>
+<td>섹터 편중</td>
+<td>고배당과 저평가는 특정 섹터에 몰리는 경향</td>
+</tr>
+<tr>
+<td>모멘텀 노출</td>
+<td>두 상품 모두 1단계가 같아 <b>같은 방향으로 움직일 수 있음</b></td>
+</tr>
+<tr>
+<td>기존 보유</td>
+<td>대형&middot;중형 광역 상품과의 중복</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">「배당형 하나, 가치형 하나」로 분산했다고 보기 어렵습니다. <b>분산되는 것은 2단계뿐이고 1단계는 공유</b>합니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 대조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">미국 상장 직접투자</th>
+<th scope="col">국내 상장 미국 주식형 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매매차익</th>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<th scope="row">기본공제</th>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<th scope="row">분배금</th>
+<td>미국에서 원천징수 후 지급</td>
+<td>배당소득 과세</td>
+</tr>
+<tr>
+<th scope="row">과세 방식</th>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<th scope="row">연금&middot;ISA</th>
+<td>매수 불가</td>
+<td>매수 가능(상품별 확인)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">DDIV는 배당 성격이 강해 분배금 과세가 먼저 체감됩니다. 국내에 같은 2단 구조를 쓰는 대응 상품이 있는지는 확인되지 않으므로 거래 증권사와 거래소 상장 목록에서 직접 확인해야 합니다 <code>[정보부족]</code>. 세율과 제도는 개정될 수 있습니다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 판단하면 되나?</h2>
+<table data-ke-align="alignLeft"><caption>확인 순서</caption>
+<thead>
+<tr>
+<th scope="col">순서</th>
+<th scope="col">질문</th>
+<th scope="col">갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>모멘텀 노출을 원하는가</td>
+<td>원하지 않으면 두 상품 모두 해당 없음</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2단계를 배당으로 할 것인가 가치로 할 것인가</td>
+<td>DDIV vs DVLU</td>
+</tr>
+<tr>
+<td>3</td>
+<td>결측 지표 처리 규칙을 확인했는가</td>
+<td>DVLU에서 실제로 무엇이 뽑히는지</td>
+</tr>
+<tr>
+<td>4</td>
+<td>둘 다 담을 이유가 있는가</td>
+<td>1단계를 공유한다는 점</td>
+</tr>
+<tr>
+<td>5</td>
+<td>분기 회전율을 감당할 수 있는가</td>
+<td>거래 비용&middot;실현 손익</td>
+</tr>
+<tr>
+<td>6</td>
+<td>어느 계좌에 담을 것인가</td>
+<td>세제&middot;연금 활용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">3번을 건너뛰면 「가치주 ETF인데 왜 적자 기업이 있나」라는 의문이 풀리지 않습니다. 규칙이 그렇게 설계돼 있습니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">DVLU가 <b>네 지표 중 셋만 있어도 감점 없이</b> 평균한다는 규칙</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">지표 개수가 결측 처리 규칙을 강제한다는 점</p>
+<progress value="88" max="100"></progress>
+<p data-ke-size="size16">두 상품이 1단계 모멘텀 순위를 <b>공유</b>한다는 점</p>
+<progress value="76" max="100"></progress>
+<p data-ke-size="size16">선발 점수를 그대로 비중으로 쓴다는 점</p>
+<progress value="62" max="100"></progress>
+<p data-ke-size="size16">지수사의 재량적 조정 조항과 분기 회전율</p>
+<progress value="48" max="100"></progress>
+<p data-ke-size="size16">계좌 배치와 세제</p>
+<progress value="36" max="100"></progress>

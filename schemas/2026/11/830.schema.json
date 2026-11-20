@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-20T00:19:00+09:00",
+    "datePublished": "2026-11-20T00:18:40+09:00",
+    "description": "지수가 여러 지표로 종목을 고른다고 할 때, 잘 다뤄지지 않는 문제가 하나 있습니다. 그 지표 중 하나가 없는 회사는 어떻게 하느냐입니다.적자 기업은 주가수익비율이 계산되지 않습니다. 자산 구조가 특이한 회사는 주가순자산비율이 의미를 잃습니다. 지수가 네 개 지표를 평균한다면, 세 개만 가진 회사를 빼야 하는지 넣어야 하는지, 넣는다면 불이익을 줘야 하는지를 규칙으로 정해야 합니다.DVLU의 요약투자설명서는 이 문제를 명시적으로 다룹니다. 그리고 자매 상품인 DDIV는 지표가 하나뿐이라 같은 문제가 생기지 않습니다. 이 글은 두 상품의 구조를 대조하면서, 지표 개수가 규칙을 어떻게 바꾸는지 정리합니다. 총보수·순자산·수익률·섹터 비중 같은 변동 수치는 다루지 않습니다.두 상품은 어디까지 같은가?1단계가 ..",
+    "headline": "모멘텀 ETF 비교: DDIV·DVLU, 지표가 없는 회사는 어떻게 세는가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/830",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/830"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "First Trust Dorsey Wright Momentum & Value ETF",
+          "description": "모멘텀 순위를 거친 뒤 네 가치 지표의 백분위 점수를 평균해 상위 50종을 담는 ETF. 네 지표 중 셋만 있어도 불이익 없이 편입되고, 둘 이하면 제외된다",
+          "name": "DVLU"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "DDIV와 DVLU는 같은 모멘텀 순위를 거친 뒤 배당수익률과 밸류로 갈린다. DVLU는 네 가치 지표 중 셋만 있어도 편입되고 감점도 없다. 지표 개수가 결측 처리 규칙을 어떻게 강제하는지 1차 출처로 정리했다.",
+        "headline": "모멘텀 ETF 비교: DDIV·DVLU, 지표가 없는 회사는 어떻게 세는가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "DDIV, DVLU, 모멘텀 ETF, 상대강도, 밸류 팩터, 배당수익률 가중, 백분위 점수, 결측 지표 처리, Nasdaq US Large Mid Cap, 분기 리밸런스, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Dorsey Wright Momentum & Dividend ETF",
+            "name": "DDIV"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
