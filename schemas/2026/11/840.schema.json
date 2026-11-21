@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-22T02:14:00+09:00",
+    "datePublished": "2026-11-22T02:13:55+09:00",
+    "description": "미국 섹터 ETF를 고를 때는 대개 11개 중 하나를 고른다. GICS 분류가 시장을 11개 섹터로 나누고, 대형주 섹터 시리즈는 그 11개를 그대로 상품으로 만든다.소형주 쪽은 다르다. Invesco의 S&P SmallCap 섹터 시리즈는 9종뿐이다. 부동산 섹터 상품이 없고, 유틸리티와 커뮤니케이션 서비스는 한 상품 안에 같이 들어 있다. 이 글은 왜 그렇게 되는지, 그리고 그 사실이 소형주 섹터 투자에 무엇을 의미하는지를 요약투자설명서 기준으로 정리한다.9종은 무엇이고 무엇이 빠졌나?GICS 11개 섹터를 기준으로 보면 하나가 없고 둘이 합쳐져 있다.표 1. GICS 11개 섹터와 소형주 시리즈의 대응GICS 섹터소형주 시리즈정보기술PSCT헬스케어PSCH금융PSCF산업재PSCI임의소비재PSCD필수소..",
+    "headline": "소형주 섹터 ETF 비교: Invesco S&P SmallCap 9종, GICS 11개 섹터가 9개로 줄어든 이유",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/840",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/840"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco S&P SmallCap Utilities & Communication Services ETF",
+          "description": "유틸리티와 커뮤니케이션 서비스 두 GICS 섹터를 하나의 지수로 통합해 담는 미국 소형주 섹터 ETF",
+          "name": "PSCU"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "Invesco의 미국 소형주 섹터 ETF는 9종뿐이다. GICS 섹터는 11개인데 부동산 상품이 없고 유틸리티와 커뮤니케이션 서비스가 하나로 묶여 있다. 소형주 구간에서 섹터 지수가 성립하지 않는 구조를 정리했다.",
+        "headline": "소형주 섹터 ETF 비교: Invesco S&P SmallCap 9종, GICS 11개 섹터가 9개로 줄어든 이유",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "PSCU, PSCT, PSCH, 미국 소형주 섹터 ETF, S&P SmallCap 600, GICS, 섹터 통합, 완전복제, 비분산형, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P SmallCap Information Technology ETF",
+            "name": "PSCT"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P SmallCap Health Care ETF",
+            "name": "PSCH"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P SmallCap Financials ETF",
+            "name": "PSCF"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

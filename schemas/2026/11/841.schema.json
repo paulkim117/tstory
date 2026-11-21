@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-22T03:26:00+09:00",
+    "datePublished": "2026-11-22T03:25:57+09:00",
+    "description": "섹터 ETF를 볼 때 가장 먼저 확인하는 것은 어느 분류 체계를 쓰느냐다. GICS인지, ICB인지, 지수사 자체 분류인지에 따라 같은 회사가 다른 섹터로 들어간다.VanEck의 TruSector 8종에는 그 질문이 성립하지 않는다. 추종하는 지수가 없기 때문이다. 이 상품군의 요약투자설명서는 자산의 80% 이상을 해당 섹터 관련 기업에 투자한다고 적으면서, 그 판정을 운용사가 한다고 명시한다. 이 글은 그 구조가 지수형 섹터 ETF와 무엇을 바꾸는지, 그리고 무엇을 확인해야 하는지를 1차 출처 기준으로 정리한다.TruSector 8종은 무엇인가?지수를 추종하지 않는 액티브 ETF다. 이것이 모든 차이의 출발점이다.표 1. 8종 구성티커섹터티커섹터TRUT기술TRUD임의소비재TRUC커뮤니케이션 서비스TRU..",
+    "headline": "액티브 섹터 ETF 비교: VanEck TruSector 8종, 섹터의 경계를 지수가 아니라 운용사가 정한다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/841",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/841"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "VanEck Utilities TruSector ETF",
+          "description": "추종 지수 없이 운용사가 섹터 해당 여부를 판정하는 액티브 유틸리티 섹터 ETF",
+          "name": "TRUU"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "VanEck TruSector 8종은 추종 지수가 없는 액티브 섹터 ETF다. 80% 정책의 대상인 '섹터 관련 기업'을 운용사가 판단한다고 문서가 명시한다. 지수형 섹터 ETF와 갈리는 지점과 확인 기준을 정리했다.",
+        "headline": "액티브 섹터 ETF 비교: VanEck TruSector 8종, 섹터의 경계를 지수가 아니라 운용사가 정한다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "TruSector, TRUU, TRUT, 액티브 섹터 ETF, 추종 지수 없음, 80% 정책, 비분산형, 총수익스왑, GICS, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "VanEck Technology TruSector ETF",
+            "name": "TRUT"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "VanEck Communication Services TruSector ETF",
+            "name": "TRUC"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "VanEck Energy TruSector ETF",
+            "name": "TRUN"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

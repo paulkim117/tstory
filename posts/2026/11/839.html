@@ -1,0 +1,228 @@
+<!--
+source: https://mystock-note.tistory.com/839
+backup_date: 2026-11-21
+post_id: 839
+-->
+<p data-ke-size="size16">커버드콜 ETF를 비교할 때 쓰는 표는 대체로 정해져 있다. 매도 비중이 몇 퍼센트인지, 행사가가 등가격인지 2% 외가격인지, 만기가 월간인지 주간인지. 이 세 칸을 채우면 상품 성격이 대략 잡힌다.</p>
+<p data-ke-size="size16">State Street의 섹터별 프리미엄 인컴 ETF 11종은 그 표의 두 번째 칸이 비어 있다. <b>행사가를 고정된 비율로 정하지 않기 때문이다.</b> 이 상품군은 옵션의 델타를 보고 행사가를 정하고, 롤 시점도 달력이 아니라 델타가 정한다. 이 글은 그 구조와 재간접 층, 그리고 모지수에 걸린 세법 제약까지 요약투자설명서 기준으로 정리한다.</p>
+
+<h2 data-ke-size="size26">이 11종은 무엇을 담나?</h2>
+<p data-ke-size="size16">각각 대응하는 섹터 SPDR ETF를 담고, 그 ETF에 콜옵션을 판다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 섹터별 구성</caption>
+<thead>
+<tr>
+<th>티커</th>
+<th>섹터</th>
+<th>티커</th>
+<th>섹터</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>XLKI</td><td>정보기술</td><td>XLFI</td><td>금융</td></tr>
+<tr><td>XLVI</td><td>헬스케어</td><td>XLYI</td><td>임의소비재</td></tr>
+<tr><td>XLSI</td><td>필수소비재</td><td>XLII</td><td>산업재</td></tr>
+<tr><td>XLEI</td><td>에너지</td><td>XLBI</td><td>소재</td></tr>
+<tr><td>XLUI</td><td>유틸리티</td><td>XLRI</td><td>부동산</td></tr>
+<tr><td>XLCI</td><td>커뮤니케이션 서비스</td><td>&mdash;</td><td>&mdash;</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">출처: SEC EDGAR, Select Sector SPDR Trust 497K. <b>[사실]</b></p>
+<p data-ke-size="size16">구조는 두 단계다. 첫째, 해당 섹터의 <b>Select Sector SPDR ETF 주식을 보유</b>한다. 둘째, <b>그 보유한 ETF에 대해 콜옵션을 매도</b>한다. 필요하면 섹터 기업 주식을 직접 보유할 수도 있고, 선물을 투자 목적으로 쓸 수도 있다고 적혀 있다.</p>
+<p data-ke-size="size16">여기서 먼저 짚을 것이 80% 정책의 문언이다. 설명서는 순자산의 80% 이상을 <b>「해당 섹터 기업의 증권과 프리미엄 인컴을 만들어내는 투자의 조합」</b>에 투자한다고 적는다. 주식이 80%이고 옵션이 부수적인 구조가 아니라, <b>옵션이 80% 정책 안에 대등한 구성요소로 들어가 있다</b>. 이 정책은 60일 사전 통지로 변경될 수 있다. <b>[사실]</b></p>
+
+
+
+<h2 data-ke-size="size26">행사가는 어떻게 정해지나?</h2>
+<p data-ke-size="size16">비율이 아니라 <b>델타</b>다. 이것이 이 상품군의 핵심이다.</p>
+<p data-ke-size="size16">설명서의 표현은 이렇다. 펀드는 <b>가격&middot;시간&middot;변동성의 변화에 대한 옵션 가치의 민감도, 즉 델타에 근거해 행사가를 설정</b>함으로써 콜옵션 사용에서 얻는 성과를 최적화하고자 한다. 행사가를 정할 때 <b>옵션 프리미엄으로 얻는 인컴과 보유 주식의 가격 상승 여지 사이의 균형</b>을 추구한다고 덧붙인다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 행사가 결정 방식의 세 유형</caption>
+<thead>
+<tr>
+<th>유형</th>
+<th>행사가를 정하는 것</th>
+<th>사전 재현 가능성</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>고정 비율형</td>
+<td>기초 가격의 일정 % (예: 등가격, 2% 외가격)</td>
+<td>가능</td>
+</tr>
+<tr>
+<td>조건부 비율형</td>
+<td>기본 비율 + 프리미엄 하한 미달 시 대체 규칙</td>
+<td>가능(조건 포함)</td>
+</tr>
+<tr>
+<td><b>델타 기준형(이 상품군)</b></td>
+<td>옵션의 델타</td>
+<td><b>불가</b> &mdash; 목표 델타 값이 공개되지 않음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 비율형에서는 기초 가격만 알면 행사가를 계산할 수 있다. 델타 기준형에서는 그렇지 않다. 델타는 변동성에 따라 달라지므로, <b>같은 가격이라도 시장 상황에 따라 행사가가 달라진다</b>. 그리고 설명서는 목표 델타 수준을 숫자로 적지 않는다. <b>[판단]</b></p>
+<p data-ke-size="size16">의사결정 기준: 「상승 여지를 몇 퍼센트 남기는 상품인가」라는 질문에 이 상품군은 답을 주지 않는다. 그 질문이 중요하다면 <a href="/552">행사가를 2% 외가격으로 고정한 상품의 구조를 분해한 글</a>처럼 비율이 명시된 상품을 봐야 한다.</p>
+
+
+
+<h2 data-ke-size="size26">롤은 언제 하나?</h2>
+<p data-ke-size="size16">만기일이 아니다. 여기서도 델타가 기준이다.</p>
+<p data-ke-size="size16">설명서는 세 가지를 적는다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 옵션 운용 방식</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>만기</td>
+<td>1년 미만, 통상 1~2개월 내외</td>
+</tr>
+<tr>
+<td>계약 종류</td>
+<td>상장 옵션 또는 FLEX 옵션. FLEX는 행사가&middot;행사 방식&middot;만기를 맞춤 설정할 수 있고 결제는 청산기관이 보증</td>
+</tr>
+<tr>
+<td>롤 시점</td>
+<td>대개 <b>만기 전</b>에 시장 상황과 유동성 여건을 고려해 실시</td>
+</tr>
+<tr>
+<td>동시 보유</td>
+<td><b>서로 다른 행사가의 옵션을 동시에 보유할 수 있음</b></td>
+</tr>
+<tr>
+<td>롤 판단</td>
+<td>각 옵션의 델타를 관찰해 다음 계약으로 넘어갈 시점을 결정</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 네 번째와 다섯 번째 행이 함께 읽혀야 한다. 이 펀드는 <b>하나의 옵션 포지션을 굴리는 것이 아니라 여러 개를 동시에 들고 각각을 따로 관리</b>할 수 있다. 만기 주기가 상품 성격을 결정한다는 통상의 기준이 여기서는 적용되지 않는다. <b>[판단]</b></p>
+<p data-ke-size="size16">이 점은 만기를 극단적으로 짧게 고정해 규칙성을 확보한 상품과 정반대 방향이다. 그 대조는 <a href="/543">만기 주기를 하루 단위로 가져가는 커버드콜 구조를 정리한 글</a>에서 확인할 수 있다.</p>
+<p data-ke-size="size16">즉 이 상품군은 이름에 「인덱스」가 없다. 추종하는 옵션 지수가 존재하지 않고, <b>옵션 부분은 운용사의 재량으로 운용된다</b>. 주식 부분만 지수를 따르는 반쪽 구조다.</p>
+
+<h2 data-ke-size="size26">기초가 되는 섹터 지수는 어떻게 만들어지나?</h2>
+<p data-ke-size="size16">S&amp;P 500의 부분집합이고, 가중 방식에 세법이 개입한다.</p>
+<p data-ke-size="size16">각 펀드가 보유하는 Select Sector SPDR ETF는 대응하는 Select Sector Index를 추종한다. 설명서는 이 지수 계열의 기준을 두 가지로 적는다. <b>첫째, 구성종목은 전부 S&amp;P 500 구성종목이어야 한다. 둘째, 지수는 「수정 시가총액」 방식으로 산출된다.</b></p>
+<p data-ke-size="size16">두 번째가 중요하다. 여기서 「수정」이 무엇을 뜻하는지 설명서가 밝힌다. <b>단일 종목 집중분의 시가총액 가중치를 내국세법 요건에 맞추기 위해 수정할 수 있다</b>는 것이다.</p>
+<table data-ke-align="alignLeft"><caption>표 4. 가중 방식의 결정 요인</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기본</td>
+<td>시가총액 가중</td>
+</tr>
+<tr>
+<td>수정 사유</td>
+<td>단일 종목 집중을 세법 요건에 맞추기 위함</td>
+</tr>
+<tr>
+<td>결과</td>
+<td>대형주 비중이 시가총액 비례보다 낮아질 수 있음</td>
+</tr>
+<tr>
+<td>산출 주체</td>
+<td>S&amp;P DJI. 지수 구성&middot;가중을 정하는 산출 대리인이자 지수 제공자이며 운용사와 비계열</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">해석: 지수의 상한이 투자 논리에서 나온 것이 아니라 <b>세법 요건에서 나왔다</b>. 특정 종목 쏠림이 큰 섹터일수록 이 수정의 영향이 커진다. 같은 섹터 지수라도 산출기관과 상한 규칙이 다르면 결과가 갈리는데, 그 차이는 <a href="/424">S&amp;P 500 IT 섹터만 담는 상품의 편입 기준을 정리한 글</a>에서 따로 다뤘다.</p>
+<p data-ke-size="size16">덧붙여 각 펀드는 기초 ETF가 추종하는 지수가 특정 산업에 집중되는 만큼 <b>직접적으로든 간접적으로든 자산의 25%를 초과해 그 산업에 집중할 수 있다</b>고 명시한다. 섹터 상품이므로 당연하지만, 분산 상품으로 오해하면 안 된다.</p>
+
+<h2 data-ke-size="size26">2025년 명칭 변경은 무엇을 바꿨나?</h2>
+<p data-ke-size="size16">아무것도 바꾸지 않았다. 그 사실이 문서에 명시돼 있다.</p>
+<p data-ke-size="size16">2025년 12월 1일부로 11종 전부의 명칭이 바뀌었다. 변경 내용은 기존 이름 앞에 <b>운용사 브랜드가 붙고 「Fund」가 「ETF」로 바뀐 것</b>이다. 보충서는 <b>이 변경이 펀드의 투자 목적&middot;주요 투자전략&middot;주요 위험에 어떠한 변경도 초래하지 않는다</b>고 적는다. <b>[사실]</b></p>
+<p data-ke-size="size16">해석: 명칭 변경은 실질 변경을 동반하는 경우와 그렇지 않은 경우가 있다. 이 건은 후자이고 문서가 그것을 명시한다. 상품 이름이 바뀌었다는 소식만 보고 전략 변경을 추정하면 안 된다는 사례다.</p>
+
+<h2 data-ke-size="size26">이 11종을 어떻게 비교해야 하나?</h2>
+<p data-ke-size="size16">옵션 설계가 11종 모두 동일하므로, 갈리는 것은 <b>기초 섹터</b>뿐이다.</p>
+<table data-ke-align="alignLeft"><caption>표 5. 확인 순서</caption>
+<thead>
+<tr>
+<th>순서</th>
+<th>질문</th>
+<th>갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>커버드콜로 상승을 포기해도 되는 섹터인가</td>
+<td>성장성이 큰 섹터일수록 포기 비용이 커짐</td>
+</tr>
+<tr>
+<td>2</td>
+<td>해당 섹터 SPDR을 이미 보유하고 있는가</td>
+<td>보유 중이면 같은 기초자산이 중복됨</td>
+</tr>
+<tr>
+<td>3</td>
+<td>행사가가 사전에 정해지지 않아도 되는가</td>
+<td>필요하다면 비율 고정형 상품이 적합</td>
+</tr>
+<tr>
+<td>4</td>
+<td>재간접 구조의 비용 층을 감수할 것인가</td>
+<td>기초 ETF 비용이 별도로 발생</td>
+</tr>
+<tr>
+<td>5</td>
+<td>어느 계좌에 담을 것인가</td>
+<td>분배금 비중이 커 과세 구조가 결정적</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">2번을 놓치기 쉽다. 이 상품은 <b>대응 섹터 SPDR을 그대로 담는다</b>. 해당 섹터 ETF를 이미 들고 있다면 새로운 노출이 아니라 같은 노출에 옵션 매도를 얹는 것이다. 같은 발행사의 섹터 시리즈가 서로 어떻게 다른지는 <a href="/551">SPDR 산업 시리즈가 같은 규칙에서 다른 결과를 내는 구조를 정리한 글</a>이 참고가 된다.</p>
+
+<h2 data-ke-size="size26">국내 대응 상품과 세금은?</h2>
+<p data-ke-size="size16">동일 구조의 국내 상장 상품은 확인되지 않는다. 부재로 단정하지 않고 <b>[정보부족]</b>으로 둔다.</p>
+<p data-ke-size="size16">국내에도 커버드콜 ETF는 다수 있으나 대부분 광역 지수(미국 대표지수&middot;나스닥100) 기반이고, <b>11개 섹터로 나눈 커버드콜 시리즈</b>는 확인되지 않는다. 또한 국내 상품은 매도 비중을 명시하는 경우가 많아, 행사가와 롤을 재량으로 정하는 이 구조와 설계 사상이 다르다.</p>
+<table data-ke-align="alignLeft"><caption>표 6. 계좌별 과세 구조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>일반 계좌</th>
+<th>연금저축&middot;IRP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>해외주식 양도소득세, 연 250만원 기본공제 후 신고</td>
+<td>미국 상장 ETF 직접 매수 불가</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국에서 원천징수 후 배당소득</td>
+<td>해당 없음</td>
+</tr>
+<tr>
+<td>종합과세</td>
+<td>금융소득 합산 기준 초과 시 대상</td>
+<td>해당 없음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">인컴형 상품은 분배금 비중이 커 배당소득 쪽 부담이 먼저 발생한다. 세율&middot;공제&middot;한도는 제도 개정 대상이므로 매수 시점에 국세청 등 1차 출처를 확인해야 한다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">행사가가 비율이 아니라 델타로 정해진다는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">롤 시점과 동시 보유 옵션 수가 재량이라는 점</p>
+<progress value="88" max="100"></progress>
+<p data-ke-size="size16">기초 섹터 ETF와의 중복 보유 여부</p>
+<progress value="76" max="100"></progress>
+<p data-ke-size="size16">80% 정책에 옵션이 포함된다는 문언</p>
+<progress value="62" max="100"></progress>
+<p data-ke-size="size16">모지수의 세법 기반 가중 수정</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">재간접 비용 층과 계좌별 과세</p>
+<progress value="38" max="100"></progress>

@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-22T00:14:00+09:00",
+    "datePublished": "2026-11-22T00:13:20+09:00",
+    "description": "커버드콜 ETF를 비교할 때 가장 먼저 보는 숫자가 행사가다. 등가격이면 프리미엄이 크고 상승 여지가 없다. 외가격이면 프리미엄이 작고 상승 여지가 남는다. 그래서 지수 이름에 「2% OTM」이 박혀 있으면 그 상품의 성격이 정해졌다고 읽는다.IWMW는 그렇게 읽으면 안 된다. 이 지수는 조건이 충족되지 않으면 스스로 행사가를 등가격으로 내린다. 그리고 그 조건은 시장 전망이나 수익 최적화가 아니라 거래비용이다. 이 글은 그 규칙과, 이 상품이 왜 세 개의 서로 다른 대상 위에 얹혀 있는지, 그리고 2026년에 예정된 변경까지 1차 출처 기준으로 정리한다.IWMW는 무엇을 담고 무엇에 콜을 파나?담는 것과 파는 것이 다르다. 이 구분이 이 상품 이해의 출발점이다.표 1. 세 개의 층층대상역할펀드가 추종하..",
+    "headline": "IWMW ETF란? '2% 외가격'이 지켜지지 않는 조건과 TLTW·RYLD와의 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/838",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/838"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Russell 2000 BuyWrite ETF",
+          "description": "소형주 ETF를 보유하고 러셀2000 지수에 콜을 매도하는 재간접 커버드콜 ETF",
+          "name": "IWMW"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IWMW는 IWM을 보유하고 러셀2000 지수에 콜을 파는 커버드콜 ETF다. 지수명에 박힌 '2% 외가격'은 조건부이며, 프리미엄이 5bp에 못 미치면 등가격으로 내려간다. TLTW·RYLD와의 차이와 2026년 변경 예정 사항을 정리했다.",
+        "headline": "IWMW ETF란? '2% 외가격'이 지켜지지 않는 조건과 TLTW·RYLD와의 차이",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IWMW, 러셀2000 커버드콜, IWM, 2% 외가격, 조건부 행사가, 버라이트, FLEX 옵션, 자본 환급, 재간접 ETF, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

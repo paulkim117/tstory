@@ -1,0 +1,97 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-22T01:14:00+09:00",
+    "datePublished": "2026-11-22T01:13:39+09:00",
+    "description": "커버드콜 ETF를 비교할 때 쓰는 표는 대체로 정해져 있다. 매도 비중이 몇 퍼센트인지, 행사가가 등가격인지 2% 외가격인지, 만기가 월간인지 주간인지. 이 세 칸을 채우면 상품 성격이 대략 잡힌다.State Street의 섹터별 프리미엄 인컴 ETF 11종은 그 표의 두 번째 칸이 비어 있다. 행사가를 고정된 비율로 정하지 않기 때문이다. 이 상품군은 옵션의 델타를 보고 행사가를 정하고, 롤 시점도 달력이 아니라 델타가 정한다. 이 글은 그 구조와 재간접 층, 그리고 모지수에 걸린 세법 제약까지 요약투자설명서 기준으로 정리한다.이 11종은 무엇을 담나?각각 대응하는 섹터 SPDR ETF를 담고, 그 ETF에 콜옵션을 판다.표 1. 섹터별 구성티커섹터티커섹터XLKI정보기술XLFI금융XLVI헬스케어XLYI..",
+    "headline": "섹터 커버드콜 ETF 비교: State Street Premium Income 11종, 행사가를 '%'가 아니라 델타로 정한다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/839",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/839"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "State Street Technology Select Sector SPDR Premium Income ETF",
+          "description": "기술 섹터 SPDR ETF를 보유하고 그 ETF에 델타 기준으로 콜옵션을 매도하는 커버드콜 ETF",
+          "name": "XLKI"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "State Street의 섹터별 커버드콜 ETF 11종은 대응 섹터 SPDR을 보유하고 그 ETF에 콜을 판다. 행사가와 롤 시점을 고정 비율이 아니라 옵션 델타로 정한다는 점이 규칙형 커버드콜과 갈리는 지점이다.",
+        "headline": "섹터 커버드콜 ETF 비교: State Street Premium Income 11종, 행사가를 '%'가 아니라 델타로 정한다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "XLKI, XLFI, XLVI, 섹터 커버드콜 ETF, 프리미엄 인컴, 델타, 행사가, FLEX 옵션, Select Sector, 재간접 ETF",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "State Street Financial Select Sector SPDR Premium Income ETF",
+            "name": "XLFI"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "State Street Health Care Select Sector SPDR Premium Income ETF",
+            "name": "XLVI"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "State Street Energy Select Sector SPDR Premium Income ETF",
+            "name": "XLEI"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
