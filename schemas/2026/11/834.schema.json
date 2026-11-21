@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-21T00:15:01+09:00",
+    "datePublished": "2026-11-21T00:14:01+09:00",
+    "description": "ETF를 고를 때 우리는 지금의 상품을 봅니다. 어떤 지수를 따르고 무엇을 담는지 확인하고 매수합니다.그런데 JPMB에는 이미 다음 상품이 공시돼 있습니다. 2026년 12월 2일 무렵부터 이름도, 투자정책도, 운용 방식도, 비교 기준도, 운용역도 바뀔 예정입니다. 지수를 따라가던 상품이 운용역이 판단해 담는 상품이 됩니다.이 글은 현행 요약투자설명서와 2026년 8월 17일자 보충서를 대조해, 무엇이 어떻게 바뀌는지, 전환 비용을 누가 부담하는지, 그리고 이런 공시를 만났을 때 어떤 순서로 확인해야 하는지를 정리합니다. 총보수·순자산·수익률·회전율 같은 변동 수치는 다루지 않습니다.지금 JPMB는 무엇을 담나?현재는 지수 추종 상품입니다. 추종 지수는 `JPMorgan Emerging Markets R..",
+    "headline": "JPMB ETF란? 석 달 뒤 다른 상품이 된다 — 지수 추종에서 액티브로 바뀌는 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/834",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/834"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "JPMorgan USD Emerging Markets Sovereign Bond ETF",
+          "description": "달러 표시 신흥국 국가채·준국가채 지수를 추종하는 ETF. 2026년 12월 2일 무렵 명칭·투자정책·전략·벤치마크가 변경되어 액티브 운용으로 전환될 예정이다",
+          "name": "JPMB"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "JPMB는 2026년 12월 2일부로 이름·투자정책·전략·벤치마크·운용역이 한꺼번에 바뀔 예정이다. 지수 추종에서 액티브로 전환된다. 아직 발효되지 않은 변경을 어떻게 읽고 무엇을 확인해야 하는지 1차 출처로 정리했다.",
+        "headline": "JPMB ETF란? 석 달 뒤 다른 상품이 된다 — 지수 추종에서 액티브로 바뀌는 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "JPMB, 신흥국 채권 ETF, JPMorgan, 액티브 전환, EMBI Global Diversified, Risk-Aware Bond Index, 벤치마크 변경, 보충서, 전환 비용, 자본이득 분배, 준국가채, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

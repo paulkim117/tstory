@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-21T01:16:02+09:00",
+    "datePublished": "2026-11-21T01:15:22+09:00",
+    "description": "한 상품 안에 주식과 채권이 함께 들어 있으면 대개 같은 나라의 자산입니다. 미국 주식과 미국 채권, 국내 주식과 국내 채권처럼 짝을 맞춥니다.NTSI는 그렇지 않습니다. 주식은 미국과 캐나다를 뺀 선진국에서 가져오고, 채권 노출은 미국 국채 선물로 만듭니다. 한 상품 안에서 자산군마다 나라가 다릅니다.이 글은 NTSI의 요약투자설명서를 근거로 이 구조가 무엇을 뜻하는지, 채권 노출을 어떻게 만드는지, 그리고 언제 원래 비율로 되돌리는지를 정리합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.NTSI는 무엇을 담나?WisdomTree International Efficient Core Fund이며 NYSE Arca에 상장돼 있습니다. 문서는 이 펀드가 모델 기반 접근으로 액티브 ..",
+    "headline": "NTSI ETF란? 주식은 미국 밖, 국채는 미국 — 자산군마다 나라가 다른 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/835",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/835"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree International Efficient Core Fund",
+          "description": "미국·캐나다를 제외한 선진국 주식에 순자산의 약 90%를 배분하고, 만기 2~30년 미국 국채 선물로 목표 듀레이션 3~8년의 금리 노출을 명목 60% 규모로 얹는 모델 기반 액티브 ETF",
+          "name": "NTSI"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "NTSI는 미국·캐나다를 뺀 선진국 주식을 담고, 그 위에 미국 국채 선물을 얹는다. 주식과 채권의 나라가 다르다. 목표 듀레이션 3~8년을 2~30년 선물로 만드는 방식과 분기에만 되돌리는 구조를 정리했다.",
+        "headline": "NTSI ETF란? 주식은 미국 밖, 국채는 미국 — 자산군마다 나라가 다른 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "NTSI, WisdomTree, 자본효율, 국제 주식, 미국 국채 선물, 목표 듀레이션, 분기 리밸런스, 모델 기반 액티브, 명목 노출, 환노출, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

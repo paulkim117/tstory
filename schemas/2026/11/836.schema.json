@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "Fidelity High Dividend ETF",
+        "description": "섹터 내 배당 3지표 복합점수로 선별하고 시가총액에 동일 가산을 더해 가중하는 미국 고배당 ETF",
+        "name": "FDVV"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "피델리티 고배당 ETF FDVV와 FIDI를 요약투자설명서 원문으로 대조했다. 배당수익률·배당성향·배당성장 3지표는 같지만 규모 편향을 한쪽은 반영하고 한쪽은 제거한다. 선별 그룹과 가중 방식까지 확인 기준을 정리했다.",
+      "headline": "FDVV·FIDI ETF 비교: 같은 배당 3지표인데 규모 처리가 정반대인 이유",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "FDVV, FIDI, 미국 고배당 ETF, 해외 고배당 ETF, 배당성향, 배당성장, 복합점수, 규모 편향, 섹터 기울임, 미국 ETF 세금",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "Fidelity International High Dividend ETF",
+          "name": "FIDI"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

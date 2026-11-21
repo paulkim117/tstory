@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-20",
+  "body_html_length": 7965,
+  "canonical_url": "https://mystock-note.tistory.com/835",
+  "content_hash": "7290f68e05a16b45f830e777da77487a467c6f27d4eede79a86f45f13630d968",
+  "json_ld_count": 2,
+  "meta_description": "한 상품 안에 주식과 채권이 함께 들어 있으면 대개 같은 나라의 자산입니다. 미국 주식과 미국 채권, 국내 주식과 국내 채권처럼 짝을 맞춥니다.NTSI는 그렇지 않습니다. 주식은 미국과 캐나다를 뺀 선진국에서 가져오고, 채권 노출은 미국 국채 선물로 만듭니다. 한 상품 안에서 자산군마다 나라가 다릅니다.이 글은 NTSI의 요약투자설명서를 근거로 이 구조가 무엇을 뜻하는지, 채권 노출을 어떻게 만드는지, 그리고 언제 원래 비율로 되돌리는지를 정리합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.NTSI는 무엇을 담나?WisdomTree International Efficient Core Fund이며 NYSE Arca에 상장돼 있습니다. 문서는 이 펀드가 모델 기반 접근으로 액티브 ..",
+  "modified_time": "2026-11-21T01:16:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "한 상품 안에 주식과 채권이 함께 들어 있으면 대개 같은 나라의 자산입니다. 미국 주식과 미국 채권, 국내 주식과 국내 채권처럼 짝을 맞춥니다.NTSI는 그렇지 않습니다. 주식은 미국과 캐나다를 뺀 선진국에서 가져오고, 채권 노출은 미국 국채 선물로 만듭니다. 한 상품 안에서 자산군마다 나라가 다릅니다.이 글은 NTSI의 요약투자설명서를 근거로 이 구조가 무엇을 뜻하는지, 채권 노출을 어떻게 만드는지, 그리고 언제 원래 비율로 되돌리는지를 정리합니다. 총보수·순자산·수익률·구성 비중 같은 변동 수치는 다루지 않습니다.NTSI는 무엇을 담나?WisdomTree International Efficient Core Fund이며 NYSE Arca에 상장돼 있습니다. 문서는 이 펀드가 모델 기반 접근으로 액티브 ..",
+  "og_title": "NTSI ETF란? 주식은 미국 밖, 국채는 미국 — 자산군마다 나라가 다른 ETF",
+  "post_id": "835",
+  "published_time": "2026-11-21T01:15:22+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "NTSI ETF란? 주식은 미국 밖, 국채는 미국 — 자산군마다 나라가 다른 ETF",
+  "url": "https://mystock-note.tistory.com/835"
+}

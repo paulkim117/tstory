@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-20",
+  "body_html_length": 8660,
+  "canonical_url": "https://mystock-note.tistory.com/837",
+  "content_hash": "207babcfeaea8cb72fced4ee9cdf553dd06f90b22af77908281e05135242be79",
+  "json_ld_count": 1,
+  "meta_description": "신흥국 채권 ETF를 고르다 보면 \"이 상품이 말하는 신흥국이 어디까지인가\"라는 질문에 막힌다. 대개는 지수 산출기관이 정한 신흥국 목록을 따르겠거니 하고 넘어간다.HYEM이 추종하는 지수는 그 목록을 제시하지 않는다. 대신 선진국을 열거하고, 거기에 해당하지 않는 곳을 전부 신흥국으로 본다. 게다가 어느 나라 발행자인지를 회사의 설립지가 아니라 위험 노출로 판정한다. 이 글은 그 정의 방식이 무엇을 바꾸는지, 그리고 EMB·EMLC·미국 하이일드와 어떤 자리에서 갈라지는지를 요약투자설명서 원문 기준으로 정리한다.HYEM은 무엇을 담나?신흥국의 정부가 아닌 발행자가 미국 달러로 발행한 투자등급 미만 채권이다.추종 지수는 ICE BofA Diversified High Yield US Emerging Mar..",
+  "modified_time": "2026-11-21T03:13:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/837\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/837\",\"headline\":\"HYEM ETF란? EMB·HYG와 차이, 신흥국을 '빼고 남은 나라'로 정의하는 지수 구조\",\"description\":\"신흥국 채권 ETF를 고르다 보면 \"이 상품이 말하는 신흥국이 어디까지인가\"라는 질문에 막힌다. 대개는 지수 산출기관이 정한 신흥국 목록을 따르겠거니 하고 넘어간다.HYEM이 추종하는 지수는 그 목록을 제시하지 않는다. 대신 선진국을 열거하고, 거기에 해당하지 않는 곳을 전부 신흥국으로 본다. 게다가 어느 나라 발행자인지를 회사의 설립지가 아니라 위험 노출로 판정한다. 이 글은 그 정의 방식이 무엇을 바꾸는지, 그리고 EMB·EMLC·미국 하이일드와 어떤 자리에서 갈라지는지를 요약투자설명서 원문 기준으로 정리한다.HYEM은 무엇을 담나?신흥국의 정부가 아닌 발행자가 미국 달러로 발행한 투자등급 미만 채권이다.추종 지수는 ICE BofA Diversified High Yield US Emerging Mar..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-21T03:12:58+09:00\",\"dateModified\":\"2026-11-21T03:13:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "신흥국 채권 ETF를 고르다 보면 \"이 상품이 말하는 신흥국이 어디까지인가\"라는 질문에 막힌다. 대개는 지수 산출기관이 정한 신흥국 목록을 따르겠거니 하고 넘어간다.HYEM이 추종하는 지수는 그 목록을 제시하지 않는다. 대신 선진국을 열거하고, 거기에 해당하지 않는 곳을 전부 신흥국으로 본다. 게다가 어느 나라 발행자인지를 회사의 설립지가 아니라 위험 노출로 판정한다. 이 글은 그 정의 방식이 무엇을 바꾸는지, 그리고 EMB·EMLC·미국 하이일드와 어떤 자리에서 갈라지는지를 요약투자설명서 원문 기준으로 정리한다.HYEM은 무엇을 담나?신흥국의 정부가 아닌 발행자가 미국 달러로 발행한 투자등급 미만 채권이다.추종 지수는 ICE BofA Diversified High Yield US Emerging Mar..",
+  "og_title": "HYEM ETF란? EMB·HYG와 차이, 신흥국을 '빼고 남은 나라'로 정의하는 지수 구조",
+  "post_id": "837",
+  "published_time": "2026-11-21T03:12:58+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "HYEM ETF란? EMB·HYG와 차이, 신흥국을 '빼고 남은 나라'로 정의하는 지수 구조",
+  "url": "https://mystock-note.tistory.com/837"
+}

@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-20",
+  "body_html_length": 8109,
+  "canonical_url": "https://mystock-note.tistory.com/836",
+  "content_hash": "7d5e0f8908273b7b6c11cc85dd807d11cb3ddcd54662ae3f957887feaa3fbb48",
+  "json_ld_count": 1,
+  "meta_description": "고배당 ETF를 고를 때 같은 운용사의 미국판과 해외판이 나란히 있으면 대개 \"담는 지역만 다르겠지\"라고 넘어간다. 피델리티의 두 상품은 그렇지 않다.FDVV와 FIDI는 같은 이름의 방법론, 같은 세 가지 지표, 같은 가중식을 쓴다. 그런데 요약투자설명서를 나란히 놓고 읽으면 한 문장이 정반대로 적혀 있다. 미국판은 점수를 시가총액에 근거해 조정하고, 해외판은 시가총액 편향을 제거한다. 이 글은 그 한 문장이 무엇을 바꾸는지, 그리고 두 상품을 고를 때 무엇을 확인해야 하는지를 원문 기준으로 정리한다.FDVV와 FIDI는 같은 방법론인가?골격은 같고 두 곳이 갈린다.두 상품 모두 피델리티가 자체 규칙으로 산출하는 지수를 추종하며, 정상적으로 자산의 최소 80%를 해당 지수 구성종목과 그 종목을 표시하는..",
+  "modified_time": "2026-11-21T02:13:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/836\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/836\",\"headline\":\"FDVV·FIDI ETF 비교: 같은 배당 3지표인데 규모 처리가 정반대인 이유\",\"description\":\"고배당 ETF를 고를 때 같은 운용사의 미국판과 해외판이 나란히 있으면 대개 \"담는 지역만 다르겠지\"라고 넘어간다. 피델리티의 두 상품은 그렇지 않다.FDVV와 FIDI는 같은 이름의 방법론, 같은 세 가지 지표, 같은 가중식을 쓴다. 그런데 요약투자설명서를 나란히 놓고 읽으면 한 문장이 정반대로 적혀 있다. 미국판은 점수를 시가총액에 근거해 조정하고, 해외판은 시가총액 편향을 제거한다. 이 글은 그 한 문장이 무엇을 바꾸는지, 그리고 두 상품을 고를 때 무엇을 확인해야 하는지를 원문 기준으로 정리한다.FDVV와 FIDI는 같은 방법론인가?골격은 같고 두 곳이 갈린다.두 상품 모두 피델리티가 자체 규칙으로 산출하는 지수를 추종하며, 정상적으로 자산의 최소 80%를 해당 지수 구성종목과 그 종목을 표시하는..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-21T02:12:37+09:00\",\"dateModified\":\"2026-11-21T02:13:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "고배당 ETF를 고를 때 같은 운용사의 미국판과 해외판이 나란히 있으면 대개 \"담는 지역만 다르겠지\"라고 넘어간다. 피델리티의 두 상품은 그렇지 않다.FDVV와 FIDI는 같은 이름의 방법론, 같은 세 가지 지표, 같은 가중식을 쓴다. 그런데 요약투자설명서를 나란히 놓고 읽으면 한 문장이 정반대로 적혀 있다. 미국판은 점수를 시가총액에 근거해 조정하고, 해외판은 시가총액 편향을 제거한다. 이 글은 그 한 문장이 무엇을 바꾸는지, 그리고 두 상품을 고를 때 무엇을 확인해야 하는지를 원문 기준으로 정리한다.FDVV와 FIDI는 같은 방법론인가?골격은 같고 두 곳이 갈린다.두 상품 모두 피델리티가 자체 규칙으로 산출하는 지수를 추종하며, 정상적으로 자산의 최소 80%를 해당 지수 구성종목과 그 종목을 표시하는..",
+  "og_title": "FDVV·FIDI ETF 비교: 같은 배당 3지표인데 규모 처리가 정반대인 이유",
+  "post_id": "836",
+  "published_time": "2026-11-21T02:12:37+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "FDVV·FIDI ETF 비교: 같은 배당 3지표인데 규모 처리가 정반대인 이유",
+  "url": "https://mystock-note.tistory.com/836"
+}

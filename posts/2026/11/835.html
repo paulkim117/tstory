@@ -1,0 +1,263 @@
+<!--
+source: https://mystock-note.tistory.com/835
+backup_date: 2026-11-20
+post_id: 835
+-->
+<p data-ke-size="size16">한 상품 안에 주식과 채권이 함께 들어 있으면 대개 <b>같은 나라</b>의 자산입니다. 미국 주식과 미국 채권, 국내 주식과 국내 채권처럼 짝을 맞춥니다.</p>
+<p data-ke-size="size16">NTSI는 그렇지 않습니다. 주식은 <b>미국과 캐나다를 뺀 선진국</b>에서 가져오고, 채권 노출은 <b>미국 국채 선물</b>로 만듭니다. 한 상품 안에서 자산군마다 나라가 다릅니다.</p>
+<p data-ke-size="size16">이 글은 NTSI의 요약투자설명서를 근거로 이 구조가 무엇을 뜻하는지, 채권 노출을 어떻게 만드는지, 그리고 언제 원래 비율로 되돌리는지를 정리합니다. 총보수&middot;순자산&middot;수익률&middot;구성 비중 같은 변동 수치는 다루지 않습니다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">NTSI는 무엇을 담나?</h2>
+<p data-ke-size="size16">WisdomTree International Efficient Core Fund이며 NYSE Arca에 상장돼 있습니다. 문서는 이 펀드가 <b>모델 기반 접근으로 액티브 운용</b>된다고 명시합니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>NTSI 기본 구조 (1차 출처: 2025-11-01자 요약투자설명서)</caption>
+<thead>
+<tr>
+<th scope="col">구성</th>
+<th scope="col">내용</th>
+<th scope="col">비중</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주식</td>
+<td><b>미국&middot;캐나다를 제외한 선진국</b> 주식의 대표 바스켓, 일반적으로 시가총액 가중</td>
+<td>순자산의 약 90%</td>
+</tr>
+<tr>
+<td>현금성 자산</td>
+<td>미 국채 선물의 <b>담보</b> 역할</td>
+<td>나머지</td>
+</tr>
+<tr>
+<td>미 국채 선물</td>
+<td>만기 <b>2&sim;30년</b> 계약을 조합</td>
+<td>명목 기준 순자산의 약 60%</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 명목 기준이란 선물 계약의 규모에 기초 국채의 선도 인도 시장가격을 곱한 값을 말합니다 [사실]. 실제로 투입된 현금이 아니라 <b>선물로 만들어 낸 노출의 크기</b>입니다.</p>
+<p data-ke-size="size16">이 방식은 같은 자산으로 두 가지 노출을 동시에 만드는 구조이며, 미국 주식을 쓰는 상품에서 먼저 나왔습니다. 구조 자체의 성질은 그쪽에서 다루고, 이 글은 <b>국제판이기 때문에 생기는 차이</b>에 집중합니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">주식과 채권의 나라가 다르면 무엇이 생기나?</h2>
+<p data-ke-size="size16">이 상품에서 주식은 유럽&middot;일본&middot;호주 같은 미국 밖 선진국에서 나오고, 금리 노출은 <b>미국 금리</b>에서 나옵니다.</p>
+<table data-ke-align="alignLeft"><caption>한 상품 안의 두 나라</caption>
+<thead>
+<tr>
+<th scope="col">구성</th>
+<th scope="col">어느 나라 위험인가</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주식 90%</td>
+<td>미국 밖 선진국의 <b>주가</b>와 <b>통화</b></td>
+</tr>
+<tr>
+<td>국채 선물 명목 60%</td>
+<td><b>미국 금리</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">보통 주식과 채권을 섞는 이유는 주가가 내릴 때 채권이 완충해 주기를 기대하기 때문입니다. 그 완충이 작동하려면 <b>두 자산이 같은 충격에 반대로 반응</b>해야 합니다.</p>
+<p data-ke-size="size16">그런데 여기서는 주식과 채권이 서로 다른 나라의 사건에 반응합니다. 유럽 경기가 나빠졌는데 미국 금리가 오르는 상황이라면, <b>양쪽이 함께 손실</b>일 수 있습니다 `[판단]`. 반대로 미국발 충격이 전 세계 주가를 끌어내릴 때는 미국 국채가 완충 역할을 할 수 있습니다.</p>
+<p data-ke-size="size16">즉 이 구조에서 완충 효과는 <b>충격이 어디서 오느냐에 따라 달라집니다.</b> 국내판 상품처럼 「주식과 채권을 함께 담았으니 분산됐다」로 읽으면 안 됩니다. 주식 부분만 따로 담는 상품과의 관계는 <a href="https://mystock-note.tistory.com/423">미국 제외 선진국 ETF를 다룬 글</a>에서 확인할 수 있습니다.</p>
+<h3 data-ke-size="size23">통화는 어디에 붙나</h3>
+<p data-ke-size="size16">주식 부분에는 유로&middot;엔 같은 <b>현지 통화 노출</b>이 그대로 있고, 상품 자체는 달러로 거래됩니다. 여기에 한국 거주자에게는 <b>원&middot;달러</b>가 한 겹 더 붙습니다. 문서에 통화 헤지 조항은 기재돼 있지 않습니다. 환 노출을 어떻게 다룰지의 판단 기준은 <a href="https://mystock-note.tistory.com/496">환헤지와 환노출을 고르는 글</a>에 정리돼 있습니다.</p>
+
+<p>[애드센스 본문 중간 광고 코드 삽입]</p>
+
+<h2 data-ke-size="size26">채권 노출은 어떻게 만드나?</h2>
+<p data-ke-size="size16">단일 만기를 쓰지 않습니다. <b>2년물부터 30년물까지</b> 여러 만기의 선물을 섞어, <b>목표 듀레이션 3&sim;8년</b>을 달성하도록 계약을 고릅니다 [사실].</p>
+<p data-ke-size="size16">문서는 듀레이션을 「금리 변화에 대한 포트폴리오의 민감도를 재는 척도이며, 듀레이션이 길수록 금리 변화에 더 민감하다」고 정의합니다 [사실]. 그리고 운용사가 이 국채 선물 포지션이 제공하는 금리 위험 수준을 <b>중기 채권과 같은 수준</b>으로 설정하고 유지할 것으로 예상한다고 적습니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>채권 노출을 만드는 방식</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>도구</td>
+<td>만기 2&sim;30년 미 국채 선물</td>
+</tr>
+<tr>
+<td>목표</td>
+<td>듀레이션 <b>3&sim;8년</b></td>
+</tr>
+<tr>
+<td>조정 방법</td>
+<td>만기 지점별 <b>포지션 규모</b>를 바꿈</td>
+</tr>
+<tr>
+<td>만기 도래 시</td>
+<td>신규 계약으로 <b>롤</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">확인해 둘 점은 <b>목표가 범위</b>라는 것입니다. 3년과 8년은 금리 민감도가 상당히 다릅니다. 같은 상품이라도 시점에 따라 금리 반응 크기가 달라질 수 있습니다. 특정 만기 구간을 직접 담는 상품과 비교하려면 이 점을 감안해야 합니다. 중기 구간 상품의 구조는 <a href="https://mystock-note.tistory.com/416">7&ndash;10년 국채 상품 글</a>에서 볼 수 있습니다.</p>
+
+<h2 data-ke-size="size26">비율이 틀어지면 언제 되돌리나?</h2>
+<p data-ke-size="size16"><b>분기에 한 번</b>입니다. 문서는 포트폴리오가 모델의 결과를 반영해 분기 단위로 리밸런스된다고 적습니다 [사실].</p>
+<p data-ke-size="size16">그리고 그 결과를 명시적으로 밝힙니다. <b>분기 리밸런스 사이에는</b> 주식과 국채 선물 배분이 목표 90%/60%에서 벗어날 수 있고, 채권 부분의 목표 듀레이션과 금리 위험 수준도 목표에서 벗어날 수 있습니다 [사실].</p>
+<table data-ke-align="alignLeft"><caption>분기 사이에 벗어날 수 있는 것</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">상태</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주식 비중</td>
+<td>목표에서 이탈 가능</td>
+</tr>
+<tr>
+<td>선물 명목 비중</td>
+<td>목표에서 이탈 가능</td>
+</tr>
+<tr>
+<td>목표 듀레이션</td>
+<td><b>이탈 가능</b></td>
+</tr>
+<tr>
+<td>금리 위험 수준</td>
+<td><b>이탈 가능</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이것이 이 상품을 볼 때 가장 실질적인 항목입니다 `[판단]`. 주가가 크게 오르거나 내린 분기, 금리가 크게 움직인 분기에는 <b>내가 산 비율과 실제 보유 비율이 최대 석 달까지 어긋난 채</b> 유지될 수 있습니다.</p>
+<p data-ke-size="size16">비율을 상시로 감시해 일정 폭을 넘으면 되돌리는 방식과는 성격이 다릅니다. 되돌리는 <b>시점이 달력으로 고정</b>돼 있기 때문에, 시장이 크게 움직인 직후에도 다음 분기까지 기다립니다.</p>
+
+<h2 data-ke-size="size26">선물을 쓴다는 것은 무엇을 뜻하나?</h2>
+<p data-ke-size="size16">현금을 다 쓰지 않고도 채권 노출을 만들 수 있다는 뜻입니다. 그래서 주식에 90%를 쓰고도 채권 노출을 얹을 수 있습니다.</p>
+<p data-ke-size="size16">대신 확인할 것이 생깁니다.</p>
+<table data-ke-align="alignLeft"><caption>선물을 쓸 때 따라오는 항목</caption>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>담보</td>
+<td>현금&middot;현금성 자산이 증거금으로 묶임</td>
+</tr>
+<tr>
+<td>롤</td>
+<td>만기마다 신규 계약으로 교체</td>
+</tr>
+<tr>
+<td>노출 합계</td>
+<td>주식 90% + 선물 명목 60% &mdash; <b>순자산을 넘는 노출</b></td>
+</tr>
+<tr>
+<td>변동</td>
+<td>주가와 금리가 <b>동시에</b> 성과에 반영</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">마지막 줄이 핵심입니다. 주식만 담는 상품보다 움직임이 클 수 있고, 그 방향이 주가와 금리 중 어느 쪽에서 왔는지 구분하기 어렵습니다. 채권을 만기와 신용 두 축으로 직접 배치하는 방법은 <a href="https://mystock-note.tistory.com/444">채권 조합 글</a>에 정리돼 있습니다.</p>
+
+<h2 data-ke-size="size26">한국 투자자에게 세금은 어떻게 붙나?</h2>
+<table data-ke-align="alignLeft"><caption>과세 구조 대조 (한국 거주자 기준)</caption>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">미국 상장 직접투자</th>
+<th scope="col">국내 상장 자산배분형 ETF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매매차익</th>
+<td>양도소득세 22%(지방소득세 포함)</td>
+<td>배당소득 15.4% 원천징수</td>
+</tr>
+<tr>
+<th scope="row">기본공제</th>
+<td>연 250만 원</td>
+<td>없음</td>
+</tr>
+<tr>
+<th scope="row">분배금</th>
+<td>미국에서 원천징수 후 지급</td>
+<td>배당소득 과세</td>
+</tr>
+<tr>
+<th scope="row">과세 방식</th>
+<td>분류과세</td>
+<td>금융소득 합산 대상</td>
+</tr>
+<tr>
+<th scope="row">연금&middot;ISA</th>
+<td>매수 불가</td>
+<td>매수 가능(상품별 확인)</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">국내에 미국 밖 선진국 주식과 미국 국채 선물을 결합한 대응 상품이 있는지는 확인되지 않습니다 <code>[정보부족]</code>. 거래 증권사와 거래소 상장 목록에서 직접 확인해야 합니다. 세율과 제도는 개정될 수 있습니다.</p>
+
+<h2 data-ke-size="size26">어떤 순서로 판단하면 되나?</h2>
+<table data-ke-align="alignLeft"><caption>확인 순서</caption>
+<thead>
+<tr>
+<th scope="col">순서</th>
+<th scope="col">질문</th>
+<th scope="col">갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>주식과 채권의 나라가 다르다는 점을 받아들이는가</td>
+<td><b>여기서 대부분 갈림</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>미국 금리 노출을 원하는가</td>
+<td>원하지 않으면 주식 단독 상품</td>
+</tr>
+<tr>
+<td>3</td>
+<td>목표 듀레이션이 3&sim;8년 <b>범위</b>라는 점을 감안했는가</td>
+<td>금리 반응 크기의 변동</td>
+</tr>
+<tr>
+<td>4</td>
+<td>분기 사이 이탈을 견딜 수 있는가</td>
+<td>최대 석 달의 비율 어긋남</td>
+</tr>
+<tr>
+<td>5</td>
+<td>이미 가진 선진국 주식&middot;미국 채권 상품과 겹치는가</td>
+<td>중복 점검</td>
+</tr>
+<tr>
+<td>6</td>
+<td>어느 계좌에 담을 것인가</td>
+<td>세제&middot;연금 활용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">5번에서 실수가 잦습니다. 미국 채권 상품을 이미 갖고 있다면 <b>금리 노출이 두 겹</b>이 되고, 그 크기는 선물의 명목 기준까지 합해서 봐야 합니다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">주식은 미국 밖, 금리 노출은 <b>미국</b>이라는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">분기 사이에는 목표 비율&middot;듀레이션에서 <b>벗어난 채</b> 유지된다는 점</p>
+<progress value="90" max="100"></progress>
+<p data-ke-size="size16">목표 듀레이션이 <b>3&sim;8년 범위</b>라는 점</p>
+<progress value="78" max="100"></progress>
+<p data-ke-size="size16">주식의 현지 통화 노출과 원&middot;달러가 함께 붙는다는 점</p>
+<progress value="64" max="100"></progress>
+<p data-ke-size="size16">기존 미국 채권 상품과 금리 노출이 겹칠 수 있다는 점</p>
+<progress value="50" max="100"></progress>
+<p data-ke-size="size16">계좌 배치와 세제</p>
+<progress value="38" max="100"></progress>
