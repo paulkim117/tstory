@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-23T00:27:00+09:00",
+    "datePublished": "2026-11-23T00:26:25+09:00",
+    "description": "미국 종합채권 ETF를 고를 때는 대개 두 상품 중 하나를 고른다. 둘 다 「미국 채권시장 전체」를 표방하고, 실제 차이는 지수 산출기관과 유동주식 조정 방식 정도다.IUSB는 그 두 상품보다 넓다. 추종 지수의 이름이 「Aggregate」가 아니라 「Universal」이고, 그 차이는 마케팅 표현이 아니라 편입 요건의 차이다. 투자등급만 담는다는 전제와 미국 채권만 담는다는 전제가 둘 다 없다. 이 글은 그 구조를 요약투자설명서 기준으로 정리한다.Universal 지수는 무엇을 담나?달러로 표시된 과세 채권이면 등급과 발행국을 가리지 않는다.설명서는 이 지수를 투자등급 또는 하이일드로 평가되는 달러 표시 과세 채권의 성과를 측정하는 지수로 규정한다. 「또는」이 핵심이다. 등급이 편입 여부를 가르지 않는..",
+    "headline": "IUSB ETF란? AGG·BND와 차이, '종합'보다 넓은 Universal 지수가 담는 것",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/842",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/842"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Core Universal USD Bond ETF",
+          "description": "투자등급과 하이일드를 함께 담는 달러 표시 채권 지수를 표본추출로 추종하는 ETF",
+          "name": "IUSB"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IUSB가 추종하는 Bloomberg U.S. Universal Index는 종합채권 지수의 상위 집합이다. 투자등급과 하이일드를 한 지수에 담고 발행국을 제한하지 않는다. AGG·BND와 갈리는 지점과 확인 기준을 원문으로 정리했다.",
+        "headline": "IUSB ETF란? AGG·BND와 차이, '종합'보다 넓은 Universal 지수가 담는 것",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IUSB, 미국 종합채권, Universal 지수, 하이일드, 달러표시 신흥국 채권, 144A, 표본추출, TBA, AGG 차이, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-23T02:29:00+09:00",
+    "datePublished": "2026-11-23T02:28:31+09:00",
+    "description": "신흥국 지수에는 정부가 대주주인 기업이 적지 않다. 국영 에너지, 국영 은행, 국영 통신이 지수 상위에 올라 있는 나라가 여럿이다. 이들을 빼겠다는 상품이 XSOE와 XC다.문제는 「국영기업」이 법률 용어가 아니라는 점이다. 어디까지가 국영인가. 두 상품의 요약투자설명서는 그 선을 정부 지분 20% 초과라는 숫자 하나로 긋는다. 그리고 빼고 나서 생긴 국가·업종 왜곡을 규칙으로 되돌리되 끝까지 되돌리지는 않는다. 이 글은 그 두 장치를 원문 기준으로 정리한다.「국영기업」을 어떻게 정의하나?지수 제공자가 숫자로 정의한다.두 상품의 설명서는 동일한 문장을 쓴다. 지수 제공자는 국영기업을 정부 지분이 20%를 넘는 회사로 정의한다. 지배력이나 경영 개입 여부가 아니라 지분율 한 줄이다. [사실]표 1. 판정의..",
+    "headline": "신흥국 ETF 비교: XSOE·XC, '국영기업 제외'는 무엇을 빼고 무엇을 남기나",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/844",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/844"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "WisdomTree Emerging Markets ex-State-Owned Enterprises Fund",
+          "description": "정부 지분 20% 초과 기업을 제외하고 국가·섹터 비중을 규칙으로 보정하는 신흥국 주식 ETF",
+          "name": "XSOE"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "XSOE와 XC는 정부 지분 20% 초과 기업을 신흥국 지수에서 뺀다. 그리고 빼면서 생긴 국가·섹터 왜곡을 규칙으로 되돌리되 끝까지 되돌리지는 않는다. 두 상품의 차이와 확인 기준을 정리했다.",
+        "headline": "신흥국 ETF 비교: XSOE·XC, '국영기업 제외'는 무엇을 빼고 무엇을 남기나",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "XSOE, XC, 국영기업 제외, 신흥국 ETF, 정부 지분, ex-China, 사전 스크리닝, 국가 비중 보정, 표본추출, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "WisdomTree True Emerging Markets Fund",
+            "name": "XC"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]
