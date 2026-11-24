@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-24T03:25:00+09:00",
+    "datePublished": "2026-11-24T03:24:22+09:00",
+    "description": "팩터 ETF를 고를 때 우리가 실제로 고르는 것은 팩터의 정의다. 어떤 상품은 가치를 PBR로 재고, 어떤 상품은 세 가지 비율로 잰다. 정의가 다르면 담기는 종목이 달라진다.AFLG는 그 앞 단계가 열려 있다. 이 상품의 요약투자설명서는 가치·모멘텀·퀄리티·저변동 네 가지를 「고려할 수 있다」고 적고, 곧이어 그 팩터 목록 자체를 바꿀 수 있다고 명시한다. 바꾸는 사유에는 시장 상황뿐 아니라 새로 나온 학술 연구가 들어간다. 이 글은 그 구조가 무엇을 뜻하는지를 원문 기준으로 정리한다.AFLG는 무엇을 담나?미국 상장 대형주에 투자하는 액티브 ETF다. 추종 지수는 없다.설명서는 정상적인 시장 여건에서 순자산(투자 목적 차입 포함)의 80% 이상을 미국에 상장된 대형주 주식에 투자한다고 적는다. 운용은..",
+    "headline": "AFLG ETF란? 팩터 목록 자체를 바꿀 수 있는 상품 — 고정 팩터 ETF와 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/849",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/849"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "First Trust Active Factor Large Cap ETF",
+          "description": "사용하는 팩터 목록 자체를 변경할 수 있다고 명시한 액티브 다중 팩터 대형주 ETF",
+          "name": "AFLG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "AFLG는 가치·모멘텀·퀄리티·저변동을 쓴다고 적으면서 그 팩터 목록을 바꿀 수 있다고 명시한다. 변경 사유에 새 학술 연구까지 들어간다. 고정 팩터 ETF와 갈리는 지점을 원문으로 정리했다.",
+        "headline": "AFLG ETF란? 팩터 목록 자체를 바꿀 수 있는 상품 — 고정 팩터 ETF와 무엇이 다른가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "AFLG, 액티브 팩터 ETF, 멀티팩터, 가치, 모멘텀, 퀄리티, 저변동, 추종 지수 없음, 대형주 정의, 미국 ETF 세금",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

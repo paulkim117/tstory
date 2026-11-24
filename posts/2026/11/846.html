@@ -1,0 +1,171 @@
+<!--
+source: https://mystock-note.tistory.com/846
+backup_date: 2026-11-24
+post_id: 846
+-->
+<p data-ke-size="size16">액티브 ETF를 볼 때 벤치마크는 보통 <b>성과 비교용 잣대</b>로 이해된다. 지수를 추종하지 않으니 벤치마크는 나중에 잘했는지 못했는지 재는 도구일 뿐이라는 것이다.</p>
+<p data-ke-size="size16">LCDS와 SCDS는 그렇지 않다. 이 두 상품의 요약투자설명서에서 벤치마크는 <b>운용 규칙을 세 곳에서 직접 정한다</b>. 무엇이 「대형」이고 무엇이 「소형」인지, 포트폴리오가 어떤 스타일을 가져야 하는지, 한 산업에 얼마까지 담을 수 있는지가 모두 벤치마크에 연동돼 있다. 이 글은 그 구조와 상품명에 붙은 「데이터 사이언스」가 문서에서 무엇으로 정의되는지를 정리한다.</p>
+
+<h2 data-ke-size="size26">두 상품은 무엇인가?</h2>
+<p data-ke-size="size16">추종 지수가 없는 액티브 ETF이고, 시총 구간만 다르다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 두 상품의 구분</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>LCDS</th>
+<th>SCDS</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>대상</td><td>대형 우량 기업</td><td>소형 기업</td></tr>
+<tr><td>벤치마크</td><td>S&amp;P 500</td><td>Russell 2000</td></tr>
+<tr><td>스타일</td><td colspan="2">성장&middot;가치 어느 쪽에도 치우치지 않는 <b>코어</b></td></tr>
+<tr><td>분산 지위</td><td><b>비분산형</b> 명시</td><td>해당 문언 없음</td></tr>
+<tr><td>비중이 큰 업종</td><td>기술 기업 또는 기술 발전에 크게 의존하는 기업</td><td>금융&middot;산업재&middot;헬스케어</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">출처: SEC EDGAR, J.P. Morgan Exchange-Traded Fund Trust 요약투자설명서(497K). <b>[사실]</b></p>
+<p data-ke-size="size16">네 번째 행은 확인이 필요하다. 대형판에는 비분산형이라는 분류가 명시돼 있고 소형판에는 그 문언이 없다. 같은 방법론을 쓰는 두 상품인데 <b>분산 지위가 다르게 기재된다</b>. 벤치마크의 집중도가 다르기 때문으로 보이나 문서가 이유를 적지는 않는다. <b>[판단]</b></p>
+
+
+
+<h2 data-ke-size="size26">벤치마크가 정하는 세 가지</h2>
+<p data-ke-size="size16">추종 대상이 아닌데도 벤치마크가 규칙의 준거로 세 번 등장한다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 벤치마크 연동 조항</caption>
+<thead>
+<tr>
+<th>규칙</th>
+<th>문서의 서술</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>80% 정책의 대상 정의</td>
+<td>「대형」「소형」은 <b>매수 시점에 벤치마크 유니버스의 시가총액과 유사한</b> 기업을 뜻한다</td>
+</tr>
+<tr>
+<td>스타일 목표</td>
+<td>포트폴리오 전체가 <b>벤치마크와 유사한 성장&middot;가치 특성</b>을 갖도록 종목을 고른다</td>
+</tr>
+<tr>
+<td>산업 집중 한도</td>
+<td>동일 산업 25% 초과 금지. 단 <b>그 산업이 벤치마크의 20% 이상이면 35%까지</b> 허용</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">세 번째 행이 특히 눈에 띈다. 집중 한도가 고정값이 아니라 <b>벤치마크의 구성에 따라 늘어난다</b>. 특정 산업이 지수에서 커지면 이 펀드가 담을 수 있는 한도도 함께 커진다. 지수를 추종하지 않는 상품인데 <b>지수가 커지는 쪽으로 운신의 폭이 열리는 구조</b>다. <b>[사실]</b></p>
+<p data-ke-size="size16">해석: 이 상품군에서 벤치마크는 성과 비교용이 아니라 <b>운용 제약의 좌표계</b>다. 「액티브니까 지수와 무관하다」고 읽으면 어긋난다. 종목 선택은 자유롭되 <b>크기&middot;스타일&middot;산업 편중의 범위는 지수가 그어둔 선 안</b>에 있다. <b>[판단]</b></p>
+<p data-ke-size="size16">기초지수와 비교지수가 어떻게 다른 역할을 하는지는 <a href="/545">기초지수와 비교지수의 차이를 정리한 글</a>에서 다뤘다. 추종 지수가 없는 상품을 어떤 순서로 확인해야 하는지는 <a href="/538">추종 지수가 없는 상품의 확인 방법을 다룬 글</a>이 참고가 된다.</p>
+
+
+
+<h2 data-ke-size="size26">「데이터 사이언스」는 무엇을 뜻하나?</h2>
+<p data-ke-size="size16">문서가 정의를 직접 적는다. 이 점이 드물다.</p>
+<p data-ke-size="size16">설명서는 운용사가 <b>데이터 사이언스를 「정보의 집합으로부터 유용한 통찰을 추출하는 분야」로 정의한다</b>고 명시하고, 그 통찰을 투자 과정의 <b>일부</b>로 활용한다고 적는다. 상품명에 들어간 용어를 문서 안에서 규정하는 방식이다. <b>[사실]</b></p>
+<table data-ke-align="alignLeft"><caption>표 3. 투자 과정의 구성</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>입력</td>
+<td>운용사의 <b>수십 년에 걸친 자체 펀더멘털 리서치 이력</b>, 기업 재무제표, 그 밖에 펀더멘털 분석에 유의미하다고 판단한 데이터</td>
+</tr>
+<tr>
+<td>처리</td>
+<td>자체 기법으로 다양한 데이터 원천을 처리&middot;분석&middot;결합</td>
+</tr>
+<tr>
+<td>산출</td>
+<td>개별 종목의 재무 전망 예측 &mdash; 문서는 이를 <b>펀더멘털 분석</b>이라 부른다</td>
+</tr>
+<tr>
+<td>활용</td>
+<td>운용팀이 <b>자체 통찰과 나란히</b> 사용해 위험 대비 저평가된 종목을 식별</td>
+</tr>
+<tr>
+<td>구성</td>
+<td>기대 성과를 최대화하되 주요 위험을 통제하는 포트폴리오 구성</td>
+</tr>
+<tr>
+<td>점검</td>
+<td>데이터 원천의 유효성을 정기 평가하고 새 원천을 탐색. 모델과 가정의 타당성을 재검증</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">첫 행이 이 상품군의 특징이다. 입력 데이터가 외부에서 사온 대체 데이터가 아니라 <b>운용사 자신이 과거에 축적한 리서치</b>를 포함한다. 데이터 사이언스가 펀더멘털 분석을 대체하는 것이 아니라, <b>과거의 펀더멘털 분석이 데이터가 되어 다시 투입되는</b> 구조다. <b>[판단]</b></p>
+<p data-ke-size="size16">따라서 이 방식은 외부에서 재현하기 어렵다. 데이터 원천이 공개돼 있지 않고, 원천 자체가 <b>그 운용사에만 존재하는 이력</b>이기 때문이다. 액티브 상품을 고를 때 무엇을 근거로 판단할 수 있는지는 <a href="/502">액티브 ETF와 패시브 ETF의 선택 기준을 정리한 글</a>에서 다뤘다.</p>
+<p data-ke-size="size16">주요 위험의 평가 항목도 적혀 있다. 거시 여건 변화에 대한 민감도, 기존 기업과 신규 진입자로부터의 경쟁 위험, 사업 모델과 관련된 운영 위험 등이다. 아울러 투자 대상 유니버스의 다수 발행자에 대해 ESG 요소의 영향을 평가하되, <b>그 평가가 결론적이지 않을 수 있다</b>고 명시한다.</p>
+
+<h2 data-ke-size="size26">파생상품은 어떻게 쓰나?</h2>
+<p data-ke-size="size16">역할이 좁게 한정돼 있다.</p>
+<p data-ke-size="size16">설명서는 파생상품을 <b>펀드가 투자할 수 있는 증권의 대체물</b>로 쓸 수 있다고 하면서, 실제로는 주로 <b>선물계약을 사용해 현금 포지션에서 목표한 주식 노출을 더 효과적으로 확보</b>한다고 적는다. 두 상품 모두 같은 문언이다.</p>
+<p data-ke-size="size16">해석: 레버리지나 방향성 베팅이 아니라 <b>현금이 놀지 않게 하는 용도</b>로 규정돼 있다. 액티브 상품에서 파생 문언은 범위가 넓게 적히는 경우가 많은데, 여기서는 주된 용도를 문서가 좁혀둔다. <b>[판단]</b></p>
+
+<h2 data-ke-size="size26">두 상품을 어떻게 비교해야 하나?</h2>
+<table data-ke-align="alignLeft"><caption>표 4. 확인 순서</caption>
+<thead>
+<tr>
+<th>순서</th>
+<th>질문</th>
+<th>갈라지는 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>어느 시총 구간이 필요한가</td><td>벤치마크가 S&amp;P 500이냐 Russell 2000이냐로 갈림</td></tr>
+<tr><td>2</td><td>스타일 기울임을 원하는가</td><td>둘 다 코어여서 성장&middot;가치 어느 쪽도 강조하지 않음</td></tr>
+<tr><td>3</td><td>업종 편중을 감수할 수 있는가</td><td>대형판은 기술, 소형판은 금융&middot;산업재&middot;헬스케어에 쏠림</td></tr>
+<tr><td>4</td><td>산업 한도가 벤치마크에 연동되는 것을 받아들이는가</td><td>벤치마크에서 커진 산업은 35%까지 담길 수 있음</td></tr>
+<tr><td>5</td><td>재현 불가능한 운용 방식을 감수하는가</td><td>데이터 원천이 운용사 고유 이력을 포함</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">3번은 두 상품이 실제로 갈리는 지점이다. 문서가 각각 <b>어느 업종에 종목이 몰릴 것인지를 미리 적어둔다</b>. 벤치마크 구성에서 따라 나오는 결과이므로, 소형주 상품이라고 해서 대형주 상품의 축소판이 되지 않는다. 소형주 지수 자체의 구성은 <a href="/407">러셀2000 소형주 지수의 구성 방식을 정리한 글</a>에서 확인할 수 있다.</p>
+
+<h2 data-ke-size="size26">국내 대응 상품과 세금은?</h2>
+<p data-ke-size="size16">동일 구조의 국내 상장 상품은 확인되지 않는다. 부재로 단정하지 않고 <b>[정보부족]</b>으로 둔다.</p>
+<p data-ke-size="size16">국내 액티브 ETF는 비교지수를 두고 <b>상관계수 요건</b>을 충족해야 하는 반면, 이 상품군의 벤치마크 연동은 상관계수가 아니라 <b>크기&middot;스타일&middot;집중 한도라는 세 항목</b>에 걸린다. 같은 「벤치마크」라는 말이 양쪽에서 다른 것을 뜻한다.</p>
+<table data-ke-align="alignLeft"><caption>표 5. 계좌별 과세 구조</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>일반 계좌</th>
+<th>연금저축&middot;IRP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>매매차익</td>
+<td>해외주식 양도소득세, 연 250만원 기본공제 후 신고</td>
+<td>미국 상장 ETF 직접 매수 불가</td>
+</tr>
+<tr>
+<td>분배금</td>
+<td>미국에서 원천징수 후 배당소득</td>
+<td>해당 없음</td>
+</tr>
+<tr>
+<td>종합과세</td>
+<td>금융소득 합산 기준 초과 시 대상</td>
+<td>해당 없음</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">세율&middot;공제&middot;한도는 제도 개정 대상이므로 매수 시점에 국세청 등 1차 출처를 확인해야 한다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">벤치마크가 추종 대상이 아니라 규칙의 준거라는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">산업 집중 한도가 벤치마크에 연동돼 늘어난다는 점</p>
+<progress value="88" max="100"></progress>
+<p data-ke-size="size16">대형&middot;소형의 정의가 벤치마크 시총 범위라는 점</p>
+<progress value="76" max="100"></progress>
+<p data-ke-size="size16">데이터 원천에 운용사 고유 리서치 이력이 포함된다는 점</p>
+<progress value="62" max="100"></progress>
+<p data-ke-size="size16">두 상품의 업종 쏠림이 서로 다르다는 점</p>
+<progress value="48" max="100"></progress>
+<p data-ke-size="size16">계좌별 과세와 분배금 처리</p>
+<progress value="36" max="100"></progress>

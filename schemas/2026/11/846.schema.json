@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-24T00:24:00+09:00",
+    "datePublished": "2026-11-24T00:23:26+09:00",
+    "description": "액티브 ETF를 볼 때 벤치마크는 보통 성과 비교용 잣대로 이해된다. 지수를 추종하지 않으니 벤치마크는 나중에 잘했는지 못했는지 재는 도구일 뿐이라는 것이다.LCDS와 SCDS는 그렇지 않다. 이 두 상품의 요약투자설명서에서 벤치마크는 운용 규칙을 세 곳에서 직접 정한다. 무엇이 「대형」이고 무엇이 「소형」인지, 포트폴리오가 어떤 스타일을 가져야 하는지, 한 산업에 얼마까지 담을 수 있는지가 모두 벤치마크에 연동돼 있다. 이 글은 그 구조와 상품명에 붙은 「데이터 사이언스」가 문서에서 무엇으로 정의되는지를 정리한다.두 상품은 무엇인가?추종 지수가 없는 액티브 ETF이고, 시총 구간만 다르다.표 1. 두 상품의 구분항목LCDSSCDS대상대형 우량 기업소형 기업벤치마크S&P 500Russell 2000스타일..",
+    "headline": "LCDS·SCDS 비교: 지수를 안 따라가는데 벤치마크가 규칙을 정하는 액티브 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/846",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/846"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "JPMorgan Fundamental Data Science Large Core ETF",
+          "description": "지수를 추종하지 않되 크기·스타일·산업 한도를 벤치마크에 연동하는 액티브 대형주 ETF",
+          "name": "LCDS"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "LCDS와 SCDS는 지수를 추종하지 않는 액티브 ETF다. 그런데 대형·소형의 정의, 성장·가치 목표, 산업 집중 한도를 모두 벤치마크가 정한다. 데이터 사이언스의 정의와 입력까지 원문으로 정리했다.",
+        "headline": "LCDS·SCDS 비교: 지수를 안 따라가는데 벤치마크가 규칙을 정하는 액티브 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "LCDS, SCDS, 액티브 ETF, 벤치마크, 데이터 사이언스, 코어 포트폴리오, 산업 집중 한도, 비분산형, Russell 2000, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "JPMorgan Fundamental Data Science Small Core ETF",
+            "name": "SCDS"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

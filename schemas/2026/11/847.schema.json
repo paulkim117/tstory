@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-24T01:24:02+09:00",
+    "datePublished": "2026-11-24T01:23:45+09:00",
+    "description": "팩터를 두 개 쓰는 ETF는 흔하다. 문제는 상품명만으로 두 팩터가 어떻게 결합되는지 알 수 없다는 것이다. 점수를 더하는지, 각각 통과시키는지, 하나로 거른 뒤 다른 하나로 다시 거르는지에 따라 결과가 전혀 달라진다.XSVM과 XMVM의 이름에는 「Value with Momentum」이라고 적혀 있다. 「and」가 아니라 「with」다. 그리고 요약투자설명서를 읽으면 그 전치사가 정확한 표현이었음이 드러난다. 두 팩터의 역할이 다르고, 지위도 대등하지 않다. 이 글은 그 3단계 구조를 원문 기준으로 정리한다.두 상품은 무엇을 담나?각각 소형주와 중형주 모지수에서 정해진 수의 종목을 뽑는다.표 1. 두 상품의 구성항목XSVMXMVM모지수S&P SmallCap 600S&P MidCap 4001차 통과(가치..",
+    "headline": "XSVM·XMVM 비교: 'Value with Momentum'의 with는 무슨 뜻인가 — 두 팩터의 역할 분담",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/847",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/847"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Invesco S&P SmallCap Value with Momentum ETF",
+          "description": "가치 점수로 후보를 자른 뒤 모멘텀 순위로 최종 선별하고 가치 점수로 가중하는 소형주 ETF",
+          "name": "XSVM"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "XSVM과 XMVM은 가치와 모멘텀을 함께 쓰지만 대등하게 쓰지 않는다. 가치가 후보를 자르고 모멘텀이 최종 순위를 매기며 비중은 다시 가치가 정한다. 두 상품의 3단계 구조를 원문으로 정리했다.",
+        "headline": "XSVM·XMVM 비교: 'Value with Momentum'의 with는 무슨 뜻인가 — 두 팩터의 역할 분담",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "XSVM, XMVM, 가치 팩터, 모멘텀 팩터, 순차 선별, S&P SmallCap 600, S&P MidCap 400, 완전복제, 고정 종목 수, 미국 ETF 세금",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco S&P MidCap Value with Momentum ETF",
+            "name": "XMVM"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

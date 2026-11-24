@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-24",
+  "body_html_length": 6902,
+  "canonical_url": "https://mystock-note.tistory.com/847",
+  "content_hash": "816fd1f912e73a205ead813a506e2ecb8297bbd4ee9b2e9d34930b84d909145f",
+  "json_ld_count": 2,
+  "meta_description": "팩터를 두 개 쓰는 ETF는 흔하다. 문제는 상품명만으로 두 팩터가 어떻게 결합되는지 알 수 없다는 것이다. 점수를 더하는지, 각각 통과시키는지, 하나로 거른 뒤 다른 하나로 다시 거르는지에 따라 결과가 전혀 달라진다.XSVM과 XMVM의 이름에는 「Value with Momentum」이라고 적혀 있다. 「and」가 아니라 「with」다. 그리고 요약투자설명서를 읽으면 그 전치사가 정확한 표현이었음이 드러난다. 두 팩터의 역할이 다르고, 지위도 대등하지 않다. 이 글은 그 3단계 구조를 원문 기준으로 정리한다.두 상품은 무엇을 담나?각각 소형주와 중형주 모지수에서 정해진 수의 종목을 뽑는다.표 1. 두 상품의 구성항목XSVMXMVM모지수S&P SmallCap 600S&P MidCap 4001차 통과(가치..",
+  "modified_time": "2026-11-24T01:24:02+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "팩터를 두 개 쓰는 ETF는 흔하다. 문제는 상품명만으로 두 팩터가 어떻게 결합되는지 알 수 없다는 것이다. 점수를 더하는지, 각각 통과시키는지, 하나로 거른 뒤 다른 하나로 다시 거르는지에 따라 결과가 전혀 달라진다.XSVM과 XMVM의 이름에는 「Value with Momentum」이라고 적혀 있다. 「and」가 아니라 「with」다. 그리고 요약투자설명서를 읽으면 그 전치사가 정확한 표현이었음이 드러난다. 두 팩터의 역할이 다르고, 지위도 대등하지 않다. 이 글은 그 3단계 구조를 원문 기준으로 정리한다.두 상품은 무엇을 담나?각각 소형주와 중형주 모지수에서 정해진 수의 종목을 뽑는다.표 1. 두 상품의 구성항목XSVMXMVM모지수S&P SmallCap 600S&P MidCap 4001차 통과(가치..",
+  "og_title": "XSVM·XMVM 비교: 'Value with Momentum'의 with는 무슨 뜻인가 — 두 팩터의 역할 분담",
+  "post_id": "847",
+  "published_time": "2026-11-24T01:23:45+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "XSVM·XMVM 비교: 'Value with Momentum'의 with는 무슨 뜻인가 — 두 팩터의 역할 분담",
+  "url": "https://mystock-note.tistory.com/847"
+}
