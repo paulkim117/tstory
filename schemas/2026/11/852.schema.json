@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-25T02:11:00+09:00",
+    "datePublished": "2026-11-25T02:10:49+09:00",
+    "description": "인도, 중국, 일본의 소형주에 각각 투자하는 ETF가 있다. 셋 다 같은 운용사가 굴리고, 셋 다 MSCI 지수를 따라가며, 상품명도 같은 틀로 붙어 있다. 그런데 세 문서를 나란히 놓으면 '소형'을 정의하는 문장이 서로 다르다.일본은 숫자로 정한다. 중국은 어떤 주식을 담는지 나열한다. 인도는 정의하지 않는다. 이 차이가 어디서 오고, 그것이 실제 상품 구조에서 무엇을 갈랐는지 정리한다.세 상품은 무엇이 같고 무엇이 다른가?먼저 겉모습부터 정리한다.표 1. 3종의 기본 구조구분SMINECNSSCJ대상인도 소형주중국 소형주일본 소형주추종 지수MSCI India Small CapMSCI China Small CapMSCI Japan Small Cap등록 법인iShares TrustiShares, Inc.시..",
+    "headline": "단일국 소형주 ETF 비교: SMIN·ECNS·SCJ, 같은 MSCI인데 '소형'의 뜻이 다르다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/852",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/852"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares MSCI India Small-Cap ETF",
+          "description": "MSCI India Small Cap 지수를 추종하며 창출·환매를 전량 현금으로 처리하는 인도 소형주 ETF",
+          "name": "SMIN"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "인도(SMIN)·중국(ECNS)·일본(SCJ) 소형주 ETF는 같은 MSCI 지수를 쓰지만 '소형'을 정의하는 방식이 다르다. 일본은 비율로, 중국은 모집단으로 정하고 인도는 정의하지 않는다. 창출 방식과 위험 항목 차이까지 정리했다.",
+        "headline": "단일국 소형주 ETF 비교: SMIN·ECNS·SCJ, 같은 MSCI인데 '소형'의 뜻이 다르다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "SMIN, ECNS, SCJ, 단일국 소형주 ETF, MSCI 소형주 지수, 인도 ETF, 중국 소형주, 일본 소형주, 현금 창출 환매, 레드칩, P칩, 표본추출",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI China Small-Cap ETF",
+            "name": "ECNS"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "iShares MSCI Japan Small-Cap ETF",
+            "name": "SCJ"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

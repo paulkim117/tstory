@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "VanEck Merk Gold ETF",
+        "description": "주주가 주식을 반납하고 실물 금을 인도받을 수 있는 청구권이 규정된 미국 상장 금 신탁",
+        "name": "OUNZ"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "VanEck Merk Gold ETF(OUNZ)는 주주가 주식을 반납하고 실물 금을 받을 수 있는 금 신탁이다. 인도 신청 절차와 최소 1온스 요건, 런던바와 코인의 인도 경로 차이, GLD와의 구조 차이를 SEC 제출 문서로 정리했다.",
+      "headline": "OUNZ ETF란? 주식을 실물 금으로 바꾸는 인도 청구권, GLD와 무엇이 다른가",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "OUNZ, 실물 인도 금 ETF, 그랜터 트러스트, 금 현물 ETF, 인도 신청인, 런던 규격 금괴, 아메리칸 골드 이글, 수집품 세율, 미국 ETF 세금",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

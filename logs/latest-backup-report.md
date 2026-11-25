@@ -1,16 +1,15 @@
 # Tistory Backup Report
 
-- Run date: 2026-11-24
+- Run date: 2026-11-25
 - Source: sitemap.xml
-- Total URLs found: 829
-- Numeric post URLs: 812
-- Successfully backed up: 811
-- Skipped unchanged: 795
+- Total URLs found: 833
+- Numeric post URLs: 816
+- Successfully backed up: 816
+- Skipped unchanged: 800
 - Updated: 16
-- Failed: 1
+- Failed: 0
 
 ## Failed URLs
 
 | URL | Status | Reason |
 |---|---:|---|
-| https://mystock-note.tistory.com/745 | N/A | <urlopen error timed out> |

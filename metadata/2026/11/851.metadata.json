@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-25",
+  "body_html_length": 9056,
+  "canonical_url": "https://mystock-note.tistory.com/851",
+  "content_hash": "eea50f325993f47fa6bb562b600cf1d8252b007b61f28668c831ac203359ba25",
+  "json_ld_count": 1,
+  "meta_description": "금 ETF는 대개 금을 보관하는 신탁의 지분이다. 지분을 팔면 현금이 나온다. 그런데 이 상품은 하나가 더 있다. 주식을 반납하고 금 자체를 받아올 수 있다.다만 \"받을 수 있다\"와 \"받기 쉽다\"는 다르다. 문서는 청구권을 인정하면서 동시에 세 개의 문턱을 세워두고, 받는 금의 규격이 신탁이 보관 중인 금과 다를 수 있다고 적는다. 이 글은 그 절차와 조건, 그리고 대표 금 ETF와의 구조 차이를 정리한다.OUNZ는 다른 금 ETF와 무엇이 다른가?차이는 하나다. 일반 투자자가 실물 금을 청구할 수 있는 경로가 문서에 규정돼 있다.보통 금 신탁에서 금과 주식을 교환할 수 있는 주체는 지정참가회사뿐이다. 이들은 5만 주 단위의 묶음을 금과 맞바꾼다. 개인 투자자는 이 경로에 접근할 수 없고, 시장에서 주식..",
+  "modified_time": "2026-11-25T01:11:04+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/851\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/851\",\"headline\":\"OUNZ ETF란? 주식을 실물 금으로 바꾸는 인도 청구권, GLD와 무엇이 다른가\",\"description\":\"금 ETF는 대개 금을 보관하는 신탁의 지분이다. 지분을 팔면 현금이 나온다. 그런데 이 상품은 하나가 더 있다. 주식을 반납하고 금 자체를 받아올 수 있다.다만 \"받을 수 있다\"와 \"받기 쉽다\"는 다르다. 문서는 청구권을 인정하면서 동시에 세 개의 문턱을 세워두고, 받는 금의 규격이 신탁이 보관 중인 금과 다를 수 있다고 적는다. 이 글은 그 절차와 조건, 그리고 대표 금 ETF와의 구조 차이를 정리한다.OUNZ는 다른 금 ETF와 무엇이 다른가?차이는 하나다. 일반 투자자가 실물 금을 청구할 수 있는 경로가 문서에 규정돼 있다.보통 금 신탁에서 금과 주식을 교환할 수 있는 주체는 지정참가회사뿐이다. 이들은 5만 주 단위의 묶음을 금과 맞바꾼다. 개인 투자자는 이 경로에 접근할 수 없고, 시장에서 주식..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-25T01:10:08+09:00\",\"dateModified\":\"2026-11-25T01:11:04+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "금 ETF는 대개 금을 보관하는 신탁의 지분이다. 지분을 팔면 현금이 나온다. 그런데 이 상품은 하나가 더 있다. 주식을 반납하고 금 자체를 받아올 수 있다.다만 \"받을 수 있다\"와 \"받기 쉽다\"는 다르다. 문서는 청구권을 인정하면서 동시에 세 개의 문턱을 세워두고, 받는 금의 규격이 신탁이 보관 중인 금과 다를 수 있다고 적는다. 이 글은 그 절차와 조건, 그리고 대표 금 ETF와의 구조 차이를 정리한다.OUNZ는 다른 금 ETF와 무엇이 다른가?차이는 하나다. 일반 투자자가 실물 금을 청구할 수 있는 경로가 문서에 규정돼 있다.보통 금 신탁에서 금과 주식을 교환할 수 있는 주체는 지정참가회사뿐이다. 이들은 5만 주 단위의 묶음을 금과 맞바꾼다. 개인 투자자는 이 경로에 접근할 수 없고, 시장에서 주식..",
+  "og_title": "OUNZ ETF란? 주식을 실물 금으로 바꾸는 인도 청구권, GLD와 무엇이 다른가",
+  "post_id": "851",
+  "published_time": "2026-11-25T01:10:08+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "OUNZ ETF란? 주식을 실물 금으로 바꾸는 인도 청구권, GLD와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/851"
+}
