@@ -1,0 +1,224 @@
+<!--
+source: https://mystock-note.tistory.com/854
+backup_date: 2026-11-26
+post_id: 854
+-->
+<p data-ke-size="size16">고배당 ETF를 고를 때 가장 먼저 보게 되는 것은 배당수익률이다. 그런데 수익률이 높다는 것은 배당이 많다는 뜻이기도 하지만 <b>주가가 많이 떨어졌다는 뜻이기도 하다.</b> 이 문제를 어떻게 처리하느냐가 고배당 지수마다 다르다.</p>
+<p data-ke-size="size16">이 상품이 쓰는 방식은 특이하다. 배당수익률은 네 개의 관문 중 하나일 뿐이고, <b>나머지 세 관문은 배당과 직접 관련이 없다.</b> 그중 하나는 회사가 부도까지 얼마나 떨어져 있는지를 재는 지표다. 선별 구조를 문서 그대로 따라간다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">DURA는 어떤 종목을 담나?</h2>
+<p data-ke-size="size16">문서의 한 문장이 성격을 요약한다. 지수는 <b>높은 배당수익률, 튼튼한 재무 건전성, 그리고 매력적인 불확실성 조정 밸류에이션</b>을 갖춘 기업으로 구성된다고 적는다.</p>
+<p data-ke-size="size16">세 가지가 병렬이다. 배당은 그중 하나다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 기본 구조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>추종 지수</td>
+<td>Morningstar US Dividend Valuation Index</td>
+</tr>
+<tr>
+<td>모지수</td>
+<td>Morningstar US Market Index &mdash; 미국 시가총액의 <b>97%</b>를 대표</td>
+</tr>
+<tr>
+<td>선정 주체</td>
+<td>Morningstar(지수 제공사)</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>지수를 <b>그대로 복제</b> &mdash; 표본추출이 아님</td>
+</tr>
+<tr>
+<td>재구성 주기</td>
+<td>반기</td>
+</tr>
+<tr>
+<td>상장 거래소</td>
+<td>Cboe BZX</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 번째 행이 출발점이다. 모지수가 미국 시장의 97%를 담으므로 <b>후보군에서 빠지는 것은 거의 없다.</b> 걸러내는 일은 전부 그다음 단계에서 일어난다.</p>
+
+
+
+
+<h2 data-ke-size="size26">네 개의 관문은 무엇인가?</h2>
+<p data-ke-size="size16">문서는 네 기준을 제시하고 <b>각각이 독립 기준이며 모두를 충족해야 편입 자격을 얻는다</b>고 명시한다. 하나라도 걸리면 탈락이다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 편입 자격 4기준</caption>
+<thead>
+<tr>
+<th>#</th>
+<th>기준</th>
+<th>통과선</th>
+<th>방향</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>후행 12개월 배당수익률</td>
+<td>상위 50%</td>
+<td>상위 통과</td>
+</tr>
+<tr>
+<td>2</td>
+<td><b>부도까지의 거리</b> 점수</td>
+<td><b>섹터 동종그룹 내</b> 상위 50%</td>
+<td>상위 통과</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Morningstar 별점 지표</td>
+<td>상위 70%</td>
+<td>상위 통과</td>
+</tr>
+<tr>
+<td>4</td>
+<td>12개월 총수익 모멘텀</td>
+<td>최하위 30%</td>
+<td><b>하위 배제</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">네 번째가 방향이 다르다. 앞의 셋은 "잘하는 쪽을 고르는" 기준이고, 마지막은 <b>"못하는 쪽을 빼는" 기준</b>이다. 모멘텀이 좋은 종목을 우대하는 것이 아니라 12개월 수익률이 가장 나쁜 30%를 제거한다.</p>
+<p data-ke-size="size16">두 번째 기준의 비교 범위도 다르다. 배당수익률과 별점은 전체를 대상으로 순위를 매기지만, <b>부도까지의 거리는 같은 섹터 안에서만 비교한다.</b> 업종마다 부채 구조가 다르므로 유틸리티와 소프트웨어를 같은 줄에 세우지 않겠다는 설계다.</p>
+<h3 data-ke-size="size23">버퍼가 문턱을 무르게 만든다</h3>
+<p data-ke-size="size16">문서는 <b>회전율을 줄이기 위해 목표 문턱 주변에 버퍼를 적용한다</b>고 적는다. 상위 50%라는 선이 딱 떨어지는 경계가 아니라는 뜻이다.</p>
+<p data-ke-size="size16">버퍼가 없으면 순위가 50%선을 오갈 때마다 종목이 들어왔다 나갔다 반복한다. 매매가 늘면 비용이 늘고 그 비용은 투자자가 부담한다. 다만 <a href="https://mystock-note.tistory.com/480">2단계 선별을 쓰는 다른 고배당 지수와 마찬가지로</a>, 버퍼의 폭이 요약본에 수치로 적혀 있지는 않다.</p>
+
+
+
+
+<h2 data-ke-size="size26">'부도까지의 거리'란 무엇인가?</h2>
+<p data-ke-size="size16">문서의 정의는 이렇다. <b>최근 시장 데이터와 재무회계 보고서를 근거로 산정하는 기업의 재무 안정성 척도</b>다.</p>
+<p data-ke-size="size16">이름이 직관적이다. 회사가 부도 상태에서 얼마나 떨어져 있는지를 거리로 표현한다. 거리가 멀수록 안전하고 가까울수록 위험하다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 이 지표가 다른 재무 지표와 다른 점</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>일반적인 재무 지표</th>
+<th>부도까지의 거리</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>입력 데이터</td>
+<td>재무제표</td>
+<td>재무제표 <b>+ 최근 시장 데이터</b></td>
+</tr>
+<tr>
+<td>갱신 시점</td>
+<td>분기 공시 시점</td>
+<td>시장 데이터가 반영되므로 <b>더 자주 움직인다</b></td>
+</tr>
+<tr>
+<td>측정 대상</td>
+<td>수익성, 부채 수준 등 상태</td>
+<td>부도라는 <b>사건까지의 여유</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 번째 행이 중요하다. 주가가 급락하면 재무제표가 그대로여도 이 점수는 나빠진다. <b>시장이 그 회사를 어떻게 보는지가 지표에 들어가 있다.</b></p>
+<p data-ke-size="size16">고배당 전략에 이 지표를 붙인 이유는 짐작할 수 있다. 배당수익률이 높은 종목 중에는 주가가 무너지고 있는 회사가 섞인다. 그런 회사는 <b>배당을 줄이거나 없앨 가능성이 높다.</b> 부도까지의 거리는 그 위험을 미리 거르는 장치다.</p>
+<p data-ke-size="size16">다만 문서는 산식을 공개하지 않는다. <span>지수 제공사가 산정한다고만 적혀 있으며, 계산 방법과 임계값은 요약본에서 확인할 수 없다.</span></p>
+
+<h2 data-ke-size="size26">'별점'이 왜 편입 기준인가?</h2>
+<p data-ke-size="size16">세 번째 기준의 정체가 이것이다. 문서는 별점 지표를 <b>불확실성 조정 밸류에이션</b>이라고 정의하고, 그것이 <b>기업의 시장 가격과 적정가치의 관계</b>를 반영한다고 적는다. 적정가치는 <b>지수 제공사의 표준화된 독자 평가 모형</b>으로 산정된다.</p>
+<p data-ke-size="size16">여기서 두 가지가 함께 들어간다.</p>
+<ul>
+<li data-ke-size="size16"><b>적정가치 대비 가격</b> &mdash; 싼지 비싼지</li>
+<li data-ke-size="size16"><b>불확실성 조정</b> &mdash; 그 적정가치 추정이 얼마나 믿을 만한지</li>
+</ul>
+<p data-ke-size="size16">즉 단순히 싼 종목이 통과하는 것이 아니다. 추정의 신뢰도가 낮으면 같은 할인율이라도 평가가 달라진다. <a href="https://mystock-note.tistory.com/447">같은 지수 제공사가 애널리스트 판단을 지수에 넣는 다른 상품</a>과 계보가 같으며, 그 상품에서와 마찬가지로 <b>외부에서 재현할 수 없는 값이 편입 여부를 가른다.</b></p>
+<p data-ke-size="size16">이 점은 장단이 갈린다. 정량 규칙만으로는 잡히지 않는 판단이 들어간다는 것이 장점이고, 투자자가 결과를 검증할 수 없다는 것이 단점이다.</p>
+
+<h2 data-ke-size="size26">다른 고배당 ETF와 무엇이 다른가?</h2>
+<p data-ke-size="size16">고배당 지수는 대개 배당의 성질을 다루는 방식으로 갈린다.</p>
+<table data-ke-align="alignLeft"><caption>표 4. 고배당 지수의 접근 방식 비교</caption>
+<thead>
+<tr>
+<th>접근</th>
+<th>거르는 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>배당 이력형</td>
+<td>몇 년 연속 배당을 늘렸는지로 거른다</td>
+</tr>
+<tr>
+<td>수익률 + 변동성형</td>
+<td>수익률 상위를 뽑은 뒤 변동성이 큰 종목을 뺀다</td>
+</tr>
+<tr>
+<td>퀄리티 지표형</td>
+<td>수익성&middot;부채비율 등 재무 지표로 거른다</td>
+</tr>
+<tr>
+<td><b>DURA 방식</b></td>
+<td><b>부도 확률 모형 + 적정가치 평가 + 모멘텀 하위 배제</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">앞의 세 방식은 모두 <b>과거에 일어난 일이나 현재 재무 상태</b>를 본다. <a href="https://mystock-note.tistory.com/422">연속 증배 연수를 세는 방식</a>이 대표적이다. 이 상품은 거기에 더해 <b>앞으로 부도로 갈 여지가 얼마나 남았는지</b>를 계산에 넣는다.</p>
+<p data-ke-size="size16">방향을 요약하면 이렇다. <b>배당을 많이 주는 회사를 고르는 것이 아니라, 배당을 못 끊을 회사를 고르는 설계다.</b> 상품명의 '지속 가능한'이라는 말이 그 뜻이다.</p>
+<p data-ke-size="size16">그 대가도 있다. 문턱이 넷이면 통과하는 종목 수가 줄어든다. <a href="https://mystock-note.tistory.com/350">수익률 기준 위주로 폭넓게 담는 상품</a>보다 구성 종목이 적고 특정 섹터로 기울 수 있다. 문서도 특정 섹터가 상당 부분을 차지한다고 밝힌다.</p>
+
+<h2 data-ke-size="size26">그 밖에 확인할 조항이 있나?</h2>
+<table data-ke-align="alignLeft"><caption>표 5. 정책 조항</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>80% 정책</td>
+<td>총자산의 최소 80%를 벤치마크 지수 구성 종목에 투자</td>
+</tr>
+<tr>
+<td>자산의 정의</td>
+<td>순자산 <b>+ 투자 목적 차입금</b></td>
+</tr>
+<tr>
+<td>정책 변경 요건</td>
+<td><b>비근본적</b> &mdash; 주주 승인 없이 60일 사전 서면통지로 변경 가능</td>
+</tr>
+<tr>
+<td>분산 지위</td>
+<td>지수 구성 종목의 시총&middot;비중 변화만으로 <b>비분산으로 전환될 수 있음</b></td>
+</tr>
+<tr>
+<td>전환 절차</td>
+<td>해당 전환에 <b>주주 승인을 구하지 않음</b></td>
+</tr>
+<tr>
+<td>집중 정책</td>
+<td>지수가 특정 산업에 집중된 정도만큼 집중</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 번째 행을 놓치기 쉽다. 80% 계산의 분모가 순자산이 아니라 <b>순자산에 차입금을 더한 값</b>이다. 차입을 하면 분모가 커지므로 같은 80%라도 실제 금액이 달라진다.</p>
+<p data-ke-size="size16">세 번째와 다섯 번째는 같은 성격이다. 상품의 핵심 정책이 바뀌거나 분산 지위가 달라져도 <b>투자자 동의 절차가 없다.</b> 하나는 통지만 하면 되고, 하나는 통지 요건도 없다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">네 기준이 모두 충족돼야 한다는 구조</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">부도까지의 거리가 섹터 내 상대 평가라는 점</p>
+<progress value="85" max="100"></progress>
+<p data-ke-size="size16">별점 산정이 외부 재현 불가라는 점</p>
+<progress value="72" max="100"></progress>
+<p data-ke-size="size16">80% 정책의 분모와 변경 절차</p>
+<progress value="58" max="100"></progress>
+<p data-ke-size="size16">계좌별 매수 가능 여부와 배당 과세</p>
+<progress value="46" max="100"></progress>

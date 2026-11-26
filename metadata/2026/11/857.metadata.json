@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-26",
+  "body_html_length": 5965,
+  "canonical_url": "https://mystock-note.tistory.com/857",
+  "content_hash": "c13e042401b94a63152c323f727d6b0f4a2ff74aa50f116ffa2045e587bce45b",
+  "json_ld_count": 1,
+  "meta_description": "원자재 ETF에는 주식 ETF에 없는 문제가 하나 있다. 원자재를 창고에 쌓아둘 수 없으니 대부분 선물로 담는데, 선물에는 만기가 있어서 만기가 오기 전에 다음 계약으로 갈아타야 한다. 이 갈아타기를 롤이라고 부른다.롤을 어떻게 하느냐가 원자재 ETF의 성과를 크게 가른다. 그래서 상품마다 \"어느 만기로 갈아탈 것인가\"를 두고 서로 다른 규칙을 둔다. 그런데 이 상품이 따라가는 지수는 접근이 다르다. 어느 만기를 고를지 정하지 않는다.만기를 고르지 않으면 어떻게 하나?문서의 규정은 두 문장으로 요약된다.표 1. 이 지수의 만기 구조항목내용보유 계약원자재 하나마다 여러 만기의 선물을 동시에 보유만기 범위3개월부터 최대 약 3년까지전제 조건각 만기의 선물에 충분한 유동성이 있을 것교체 방식짧은 만기 계약의 ..",
+  "modified_time": "2026-11-26T03:01:07+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/857\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/857\",\"headline\":\"CMCI ETF란? 원자재 선물의 만기를 고르지 않는 지수 — DBC와 무엇이 다른가\",\"description\":\"원자재 ETF에는 주식 ETF에 없는 문제가 하나 있다. 원자재를 창고에 쌓아둘 수 없으니 대부분 선물로 담는데, 선물에는 만기가 있어서 만기가 오기 전에 다음 계약으로 갈아타야 한다. 이 갈아타기를 롤이라고 부른다.롤을 어떻게 하느냐가 원자재 ETF의 성과를 크게 가른다. 그래서 상품마다 \"어느 만기로 갈아탈 것인가\"를 두고 서로 다른 규칙을 둔다. 그런데 이 상품이 따라가는 지수는 접근이 다르다. 어느 만기를 고를지 정하지 않는다.만기를 고르지 않으면 어떻게 하나?문서의 규정은 두 문장으로 요약된다.표 1. 이 지수의 만기 구조항목내용보유 계약원자재 하나마다 여러 만기의 선물을 동시에 보유만기 범위3개월부터 최대 약 3년까지전제 조건각 만기의 선물에 충분한 유동성이 있을 것교체 방식짧은 만기 계약의 ..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-26T03:00:24+09:00\",\"dateModified\":\"2026-11-26T03:01:07+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "원자재 ETF에는 주식 ETF에 없는 문제가 하나 있다. 원자재를 창고에 쌓아둘 수 없으니 대부분 선물로 담는데, 선물에는 만기가 있어서 만기가 오기 전에 다음 계약으로 갈아타야 한다. 이 갈아타기를 롤이라고 부른다.롤을 어떻게 하느냐가 원자재 ETF의 성과를 크게 가른다. 그래서 상품마다 \"어느 만기로 갈아탈 것인가\"를 두고 서로 다른 규칙을 둔다. 그런데 이 상품이 따라가는 지수는 접근이 다르다. 어느 만기를 고를지 정하지 않는다.만기를 고르지 않으면 어떻게 하나?문서의 규정은 두 문장으로 요약된다.표 1. 이 지수의 만기 구조항목내용보유 계약원자재 하나마다 여러 만기의 선물을 동시에 보유만기 범위3개월부터 최대 약 3년까지전제 조건각 만기의 선물에 충분한 유동성이 있을 것교체 방식짧은 만기 계약의 ..",
+  "og_title": "CMCI ETF란? 원자재 선물의 만기를 고르지 않는 지수 — DBC와 무엇이 다른가",
+  "post_id": "857",
+  "published_time": "2026-11-26T03:00:24+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "CMCI ETF란? 원자재 선물의 만기를 고르지 않는 지수 — DBC와 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/857"
+}

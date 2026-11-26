@@ -1,0 +1,194 @@
+<!--
+source: https://mystock-note.tistory.com/857
+backup_date: 2026-11-26
+post_id: 857
+-->
+<p data-ke-size="size16">원자재 ETF에는 주식 ETF에 없는 문제가 하나 있다. 원자재를 창고에 쌓아둘 수 없으니 대부분 선물로 담는데, <b>선물에는 만기가 있어서 만기가 오기 전에 다음 계약으로 갈아타야 한다.</b> 이 갈아타기를 롤이라고 부른다.</p>
+<p data-ke-size="size16">롤을 어떻게 하느냐가 원자재 ETF의 성과를 크게 가른다. 그래서 상품마다 "어느 만기로 갈아탈 것인가"를 두고 서로 다른 규칙을 둔다. 그런데 이 상품이 따라가는 지수는 접근이 다르다. <b>어느 만기를 고를지 정하지 않는다.</b></p>
+
+<p></p>
+
+<h2 data-ke-size="size26">만기를 고르지 않으면 어떻게 하나?</h2>
+<p data-ke-size="size16">문서의 규정은 두 문장으로 요약된다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 이 지수의 만기 구조</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>보유 계약</td>
+<td>원자재 <b>하나마다 여러 만기의 선물을 동시에</b> 보유</td>
+</tr>
+<tr>
+<td>만기 범위</td>
+<td><b>3개월부터 최대 약 3년까지</b></td>
+</tr>
+<tr>
+<td>전제 조건</td>
+<td>각 만기의 선물에 <b>충분한 유동성이 있을 것</b></td>
+</tr>
+<tr>
+<td>교체 방식</td>
+<td>짧은 만기 계약의 가중 비율을 <b>매일</b> 긴 만기 계약으로 교체</td>
+</tr>
+<tr>
+<td>목표</td>
+<td>각 원자재의 만기를 <b>사전에 정한 시간 간격에 항상 고정</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">마지막 두 행이 이 구조의 핵심이다. 만기가 다가올 때 한꺼번에 갈아타는 것이 아니라 <b>매일 조금씩 밀어서 평균 만기를 늘 같은 자리에 붙들어둔다.</b></p>
+<p data-ke-size="size16">비유하자면 이렇다. 계단을 한 칸씩 뛰어오르는 대신 에스컬레이터를 타는 것과 비슷하다. 발이 어느 칸에 놓이는지는 계속 바뀌지만 지면으로부터의 높이는 일정하게 유지된다.</p>
+
+
+
+
+<h2 data-ke-size="size26">일반적인 롤 방식과 무엇이 다른가?</h2>
+<p data-ke-size="size16">원자재 지수가 롤을 다루는 방식은 크게 갈린다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 롤 방식의 세 갈래</caption>
+<thead>
+<tr>
+<th>방식</th>
+<th>어느 만기를 담나</th>
+<th>언제 갈아타나</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>최근월 고정형</td>
+<td>가장 가까운 만기 하나</td>
+<td>만기 직전, 정해진 날에</td>
+</tr>
+<tr>
+<td>만기 선택형</td>
+<td>규칙에 따라 <b>고른</b> 만기 하나</td>
+<td>정해진 주기에</td>
+</tr>
+<tr>
+<td><b>상수만기형</b></td>
+<td><b>구간 전체를 동시에</b></td>
+<td><b>매일 조금씩</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">앞의 두 방식은 결국 <b>한 시점에 하나의 만기</b>에 노출된다. <a href="https://mystock-note.tistory.com/555">특정 만기에 몰려 있으면 그 만기 구간에서 벌어지는 일에 상품이 통째로 끌려간다</a>는 점이 2020년 원유 시장에서 드러난 바 있다.</p>
+<p data-ke-size="size16">세 번째 방식은 그 집중을 해소한다. 특정 만기에 문제가 생겨도 보유 계약의 일부만 그 만기에 걸려 있다.</p>
+<h3 data-ke-size="size23">롤 날짜가 사라진다</h3>
+<p data-ke-size="size16">두 번째 열도 중요하다. 갈아타는 날이 정해져 있으면 <b>시장 참여자들이 그날을 안다.</b> 큰 자금이 같은 방향으로 움직일 것이 예측되면 그 앞뒤로 가격이 밀린다.</p>
+<p data-ke-size="size16">매일 조금씩 굴리는 방식에서는 그런 날이 없다. 거래가 잘게 쪼개져 상시로 분산된다. 대신 <b>매일 거래해야 하므로 거래 자체는 끊이지 않는다.</b></p>
+
+
+
+
+<h2 data-ke-size="size26">지수는 무엇을 담고 어떻게 비중을 정하나?</h2>
+<p data-ke-size="size16">구성은 다섯 개 부문으로 나뉜다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 지수의 부문 구성</caption>
+<thead>
+<tr>
+<th>부문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>에너지</td>
+</tr>
+<tr>
+<td>귀금속</td>
+</tr>
+<tr>
+<td>산업금속</td>
+</tr>
+<tr>
+<td>농산물</td>
+</tr>
+<tr>
+<td>축산물</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">비중을 정하는 기준이 특이하다. 문서는 구성 요소의 선정과 상대 비중이 각 원자재의 <b>경제적 중요성과 시장 유동성</b>을 반영하도록 설계됐다고 적는다.</p>
+<table data-ke-align="alignLeft"><caption>표 4. 비중 결정에 들어가는 입력</caption>
+<thead>
+<tr>
+<th>구분</th>
+<th>사용하는 자료</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>경제 지표</td>
+<td>국내총생산, 소비자물가지수, 생산자물가지수 등</td>
+</tr>
+<tr>
+<td>실물 수요</td>
+<td><b>세계 소비 데이터</b></td>
+</tr>
+<tr>
+<td>시장</td>
+<td>유동성 고려</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 드러나는 성격이 있다. <b>비중이 선물 시장의 거래 규모만으로 정해지지 않는다.</b> 실제 경제에서 얼마나 소비되는지가 함께 들어간다. 금융시장에서 많이 거래된다는 이유만으로 비중이 커지지 않게 하려는 설계다.</p>
+<h3 data-ke-size="size23">거래소도 자격을 심사받는다</h3>
+<p data-ke-size="size16">편입 요건에는 유동성 조건과 함께 거래소 조건이 있다. 문서는 적격 거래소를 <b>지수 제공사가 적절한 법·규제 체계를 갖췄다고 판단한 국가</b>의 거래소로 규정한다.</p>
+<p data-ke-size="size16">유동성 판정에는 미결제약정과 거래대금이 쓰인다. 미결제약정은 시장 참여자들이 들고 있는 계약의 총 가치이고, 거래대금은 실제로 오간 금액이다. 그리고 <b>일일 정산가격이 공개돼야 한다</b>는 조건도 붙는다.</p>
+
+<h2 data-ke-size="size26">이 노출은 어떻게 만들어지나?</h2>
+<p data-ke-size="size16">지수 구조와 별개로, 펀드가 그 지수를 따라가는 방법에 확인할 지점이 있다.</p>
+<p data-ke-size="size16">펀드는 주로 <b>스왑 계약</b>으로 지수 수익률을 확보한다. 그런데 문서에 이런 문장이 있다.</p>
+<table data-ke-align="alignLeft"><caption>표 5. 노출 확보 수단</caption>
+<thead>
+<tr>
+<th>수단</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>스왑 계약</td>
+<td>주된 수단. <b>이 문서 작성 시점 기준으로 계약 가능한 거래상대방이 한 곳뿐</b></td>
+</tr>
+<tr>
+<td>원자재 지수 연계 채권</td>
+<td>추가로 활용 가능</td>
+</tr>
+<tr>
+<td>선물 계약</td>
+<td>지수를 구성하는 개별 원자재 선물에 직접 투자 가능</td>
+</tr>
+<tr>
+<td>채권&middot;고정수익 상품</td>
+<td>미국 공공&middot;민간 발행 채권 보유</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">첫 행이 중요하다. <b>이 지수에 대한 스왑을 제공하는 거래상대방이 하나밖에 없다.</b> 지수를 만든 곳과 스왑을 제공하는 곳이 같은 금융그룹이기 때문이다.</p>
+<p data-ke-size="size16">스왑은 상대방이 약속을 지켜야 성립하는 계약이다. <a href="https://mystock-note.tistory.com/517">합성 복제 방식에서 거래상대방 위험이 핵심 확인 항목인 이유</a>가 여기 있다. 상대가 여럿이면 위험이 나뉘지만, 하나면 그렇지 않다.</p>
+<h3 data-ke-size="size23">세제 구조 때문에 자회사가 있다</h3>
+<p data-ke-size="size16">문서에는 자회사 관련 서술이 반복해서 나온다. 원자재 파생상품에서 나오는 소득이 펀드의 세제 자격에 영향을 주지 않도록 <b>케이맨 제도에 자회사를 두고 그 아래에서 파생 포지션을 잡는 구조</b>다. <a href="https://mystock-note.tistory.com/556">규제를 통과하기 위해 별도 법인을 세우는 방식</a>은 원자재 상품에서 흔히 쓰인다.</p>
+
+<h2 data-ke-size="size26">한국 투자자는 무엇을 확인해야 하나?</h2>
+<ul>
+<li data-ke-size="size16"><b>롤 방식이 다르면 다른 상품이다.</b> 같은 원자재 바스켓이라도 만기 구조가 다르면 성과가 갈린다. <a href="https://mystock-note.tistory.com/589">최적 만기를 고르는 방식</a>과 구간 전체를 갖는 방식은 서로 다른 선택이다.</li>
+<li data-ke-size="size16"><b>거래상대방이 하나라는 점을 감안한다.</b> 스왑 상대가 단일하면 그 기관의 신용 상태가 상품에 직접 연결된다.</li>
+<li data-ke-size="size16"><b>비용 구조를 직접 확인한다.</b> 이 유형은 자회사와 파생 포지션이 얽혀 있어 표면 보수 외에 비용이 붙을 수 있고, 면제 약정에 만료일이 있는 경우가 많다. 최신 공시에서 확인해야 한다.</li>
+<li data-ke-size="size16"><b>원자재는 이자도 배당도 없다.</b> 수익은 가격 변동과 롤에서만 나온다. 기다리면 쌓이는 것이 없다는 점이 주식·채권과 다르다.</li>
+<li data-ke-size="size16"><b>계좌 제약</b> &mdash; 연금저축과 IRP에서는 미국 상장 ETF를 직접 매수할 수 없다.</li>
+</ul>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">만기를 하나 고르지 않는 구조라는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">스왑 거래상대방이 단일하다는 점</p>
+<progress value="86" max="100"></progress>
+<p data-ke-size="size16">비중에 실물 소비 데이터가 들어간다는 점</p>
+<progress value="70" max="100"></progress>
+<p data-ke-size="size16">자회사를 경유하는 세제 구조</p>
+<progress value="56" max="100"></progress>
+<p data-ke-size="size16">표면 보수 외 비용과 면제 약정</p>
+<progress value="44" max="100"></progress>

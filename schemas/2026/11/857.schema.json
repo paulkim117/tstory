@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "VanEck CMCI Commodity Strategy ETF",
+        "description": "원자재마다 3개월~3년의 복수 만기 선물을 동시에 보유하고 매일 연속 롤로 평균 만기를 고정하는 원자재 ETF",
+        "name": "CMCI"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "VanEck CMCI Commodity Strategy ETF는 원자재마다 3개월에서 3년까지 여러 만기를 동시에 보유하고, 매일 조금씩 교체해 평균 만기를 고정한다. 롤 방식과 단일 거래상대방 구조를 SEC 문서로 정리했다.",
+      "headline": "CMCI ETF란? 원자재 선물의 만기를 고르지 않는 지수 — DBC와 무엇이 다른가",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "CMCI, 원자재 ETF, 상수만기, 연속 롤, 롤오버, 콘탱고, 스왑, 거래상대방 위험, 역외 자회사, 원자재 지수",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}
