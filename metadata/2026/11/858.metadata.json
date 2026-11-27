@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-27",
+  "body_html_length": 5660,
+  "canonical_url": "https://mystock-note.tistory.com/858",
+  "content_hash": "330391ca0818c634881827dd271013d397f5c6bcfea20c113bc0c655037f2f90",
+  "json_ld_count": 1,
+  "meta_description": "회사가 주주에게 돈을 돌려주는 방법은 둘이다. 배당을 주거나 자기 주식을 사들이거나. 배당은 현금이 통장에 들어오고, 자사주매입은 주식 수가 줄어 남은 주식의 몫이 커진다. 둘 다 주주에게 자본을 돌려주는 행위지만 대부분의 배당 ETF는 앞의 것만 센다.이 상품이 따라가는 지수는 둘을 함께 센다. 그리고 여기서 더 나아가, 가장 많이 돌려주는 회사들을 오히려 걸러낸다. 선별 절차를 문서 그대로 따라간다.무엇을 기준으로 고르나?기준이 되는 개념은 총주주환원 수익률이다. 문서의 정의는 이렇다.표 1. 총주주환원 수익률의 구성구성 요소내용배당수익률최근 지급한 배당을 주가로 나눈 값순자사주매입 수익률사들인 자기 주식에서 새로 발행한 주식을 뺀 값두 번째 행에 \"순\"이 붙은 것이 중요하다. 자사주를 사들이면서 동..",
+  "modified_time": "2026-11-27T00:01:08+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/858\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/858\",\"headline\":\"DIVB ETF란? 배당만 세지 않는 배당 ETF — 자사주매입 합산과 상위 5% 제거\",\"description\":\"회사가 주주에게 돈을 돌려주는 방법은 둘이다. 배당을 주거나 자기 주식을 사들이거나. 배당은 현금이 통장에 들어오고, 자사주매입은 주식 수가 줄어 남은 주식의 몫이 커진다. 둘 다 주주에게 자본을 돌려주는 행위지만 대부분의 배당 ETF는 앞의 것만 센다.이 상품이 따라가는 지수는 둘을 함께 센다. 그리고 여기서 더 나아가, 가장 많이 돌려주는 회사들을 오히려 걸러낸다. 선별 절차를 문서 그대로 따라간다.무엇을 기준으로 고르나?기준이 되는 개념은 총주주환원 수익률이다. 문서의 정의는 이렇다.표 1. 총주주환원 수익률의 구성구성 요소내용배당수익률최근 지급한 배당을 주가로 나눈 값순자사주매입 수익률사들인 자기 주식에서 새로 발행한 주식을 뺀 값두 번째 행에 \"순\"이 붙은 것이 중요하다. 자사주를 사들이면서 동..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-27T00:00:50+09:00\",\"dateModified\":\"2026-11-27T00:01:08+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "회사가 주주에게 돈을 돌려주는 방법은 둘이다. 배당을 주거나 자기 주식을 사들이거나. 배당은 현금이 통장에 들어오고, 자사주매입은 주식 수가 줄어 남은 주식의 몫이 커진다. 둘 다 주주에게 자본을 돌려주는 행위지만 대부분의 배당 ETF는 앞의 것만 센다.이 상품이 따라가는 지수는 둘을 함께 센다. 그리고 여기서 더 나아가, 가장 많이 돌려주는 회사들을 오히려 걸러낸다. 선별 절차를 문서 그대로 따라간다.무엇을 기준으로 고르나?기준이 되는 개념은 총주주환원 수익률이다. 문서의 정의는 이렇다.표 1. 총주주환원 수익률의 구성구성 요소내용배당수익률최근 지급한 배당을 주가로 나눈 값순자사주매입 수익률사들인 자기 주식에서 새로 발행한 주식을 뺀 값두 번째 행에 \"순\"이 붙은 것이 중요하다. 자사주를 사들이면서 동..",
+  "og_title": "DIVB ETF란? 배당만 세지 않는 배당 ETF — 자사주매입 합산과 상위 5% 제거",
+  "post_id": "858",
+  "published_time": "2026-11-27T00:00:50+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "DIVB ETF란? 배당만 세지 않는 배당 ETF — 자사주매입 합산과 상위 5% 제거",
+  "url": "https://mystock-note.tistory.com/858"
+}

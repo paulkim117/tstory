@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "iShares Core Dividend ETF",
+        "description": "배당과 순자사주매입을 합산한 총주주환원 수익률로 종목을 고르고 최상위 5%를 제거하는 미국 배당 ETF",
+        "name": "DIVB"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "iShares Core Dividend ETF(DIVB)는 배당수익률만으로 고르지 않는다. 자사주매입을 합산한 총주주환원으로 순위를 매기고, 최상위 5%는 제거하며, 종목 수가 아니라 지급액 절반에 도달할 때까지 담는다.",
+      "headline": "DIVB ETF란? 배당만 세지 않는 배당 ETF — 자사주매입 합산과 상위 5% 제거",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "DIVB, 배당 ETF, 총주주환원, 자사주매입, 순자사주매입 수익률, 지급액 커버리지, 섹터 제약, Morningstar 지수, 미국 ETF",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

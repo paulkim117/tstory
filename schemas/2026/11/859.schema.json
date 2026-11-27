@@ -1,0 +1,101 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-27T01:02:00+09:00",
+    "datePublished": "2026-11-27T01:01:19+09:00",
+    "description": "미국 에너지 섹터에 투자하려고 상품을 찾으면 여러 개가 나온다. 이름은 모두 에너지고, 담는 산업도 같아 보인다. 그런데 실제 구성과 움직임은 서로 다르다.차이가 어디서 오는지는 상품 이름에 드러나지 않는다. 발행사마다 섹터 상품을 만드는 계열이 따로 있고, 그 계열이 모집단과 복제 방식을 결정한다. 세 계열의 문서를 나란히 놓고 무엇이 갈리는지 짚는다.섹터 ETF 계열은 몇 갈래인가?미국 대형 발행사 세 곳의 섹터 계열을 정리하면 이렇다.표 1. 세 계열의 기본 구조구분SPDR Select SectorVanguard 섹터Fidelity MSCI 섹터모집단S&P 500미국 전체시장(IMI)포함 규모대형주대형·중형·소형분류 기준GICS 섹터상품 수11611첫 두 행이 가장 큰 갈림이다. S&P 500에서 ..",
+    "headline": "미국 섹터 ETF 3계열 비교: SPDR·Vanguard·Fidelity, 같은 섹터인데 무엇이 다른가",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/859",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/859"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "description": "SPDR Select Sector·Vanguard 섹터·Fidelity MSCI 섹터 세 계열이 모집단과 복제 방식에서 갈리는 구조",
+          "name": "미국 섹터 ETF 계열"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "미국 섹터 ETF는 발행사마다 계열이 다르다. SPDR은 S&P500에서, Vanguard와 Fidelity는 전체시장에서 뽑는다. 같은 MSCI 지수를 써도 복제 방식과 80% 정책의 분모가 갈린다. SEC 문서로 대조했다.",
+        "headline": "미국 섹터 ETF 3계열 비교: SPDR·Vanguard·Fidelity, 같은 섹터인데 무엇이 다른가",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "섹터 ETF, VDE, FENY, VPU, FUTY, GICS, MSCI IMI, 25/50 캡, 완전복제, 표본추출, 80% 정책, 미국 ETF",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Energy ETF",
+            "name": "VDE"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Utilities ETF",
+            "name": "VPU"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Fidelity MSCI Energy Index ETF",
+            "name": "FENY"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Fidelity MSCI Utilities Index ETF",
+            "name": "FUTY"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

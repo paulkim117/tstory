@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-11-27",
+  "body_html_length": 5881,
+  "canonical_url": "https://mystock-note.tistory.com/859",
+  "content_hash": "b600a6f7d40f7fb8804bb7bbfed638fd7323452e1e05ea395c962b3329acffea",
+  "json_ld_count": 2,
+  "meta_description": "미국 에너지 섹터에 투자하려고 상품을 찾으면 여러 개가 나온다. 이름은 모두 에너지고, 담는 산업도 같아 보인다. 그런데 실제 구성과 움직임은 서로 다르다.차이가 어디서 오는지는 상품 이름에 드러나지 않는다. 발행사마다 섹터 상품을 만드는 계열이 따로 있고, 그 계열이 모집단과 복제 방식을 결정한다. 세 계열의 문서를 나란히 놓고 무엇이 갈리는지 짚는다.섹터 ETF 계열은 몇 갈래인가?미국 대형 발행사 세 곳의 섹터 계열을 정리하면 이렇다.표 1. 세 계열의 기본 구조구분SPDR Select SectorVanguard 섹터Fidelity MSCI 섹터모집단S&P 500미국 전체시장(IMI)포함 규모대형주대형·중형·소형분류 기준GICS 섹터상품 수11611첫 두 행이 가장 큰 갈림이다. S&P 500에서 ..",
+  "modified_time": "2026-11-27T01:02:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>"
+  ],
+  "og_description": "미국 에너지 섹터에 투자하려고 상품을 찾으면 여러 개가 나온다. 이름은 모두 에너지고, 담는 산업도 같아 보인다. 그런데 실제 구성과 움직임은 서로 다르다.차이가 어디서 오는지는 상품 이름에 드러나지 않는다. 발행사마다 섹터 상품을 만드는 계열이 따로 있고, 그 계열이 모집단과 복제 방식을 결정한다. 세 계열의 문서를 나란히 놓고 무엇이 갈리는지 짚는다.섹터 ETF 계열은 몇 갈래인가?미국 대형 발행사 세 곳의 섹터 계열을 정리하면 이렇다.표 1. 세 계열의 기본 구조구분SPDR Select SectorVanguard 섹터Fidelity MSCI 섹터모집단S&P 500미국 전체시장(IMI)포함 규모대형주대형·중형·소형분류 기준GICS 섹터상품 수11611첫 두 행이 가장 큰 갈림이다. S&P 500에서 ..",
+  "og_title": "미국 섹터 ETF 3계열 비교: SPDR·Vanguard·Fidelity, 같은 섹터인데 무엇이 다른가",
+  "post_id": "859",
+  "published_time": "2026-11-27T01:01:19+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "미국 섹터 ETF 3계열 비교: SPDR·Vanguard·Fidelity, 같은 섹터인데 무엇이 다른가",
+  "url": "https://mystock-note.tistory.com/859"
+}

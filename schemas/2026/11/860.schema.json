@@ -1,0 +1,102 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-27T02:02:02+09:00",
+    "datePublished": "2026-11-27T02:01:44+09:00",
+    "description": "섹터 ETF 대부분은 해당 섹터의 종목을 시가총액 비중대로 담는다. 그런데 섹터 안에서 다시 종목을 골라내는 상품도 있다. 같은 헬스케어라도 어떤 회사는 담고 어떤 회사는 빼는 방식이다.이 계열이 그렇다. 골라내는 방법에 특이한 지점이 셋 있다. 성장과 가치를 둘 다 재고, 몇 종목을 담을지를 두 기준 중 큰 쪽으로 정하며, 그 종목 수를 지수사가 언제든 바꿀 수 있다고 문서에 적혀 있다.어디서 뽑아 오나?출발점은 러셀1000이다.표 1. 모집단 구조단계내용러셀3000투자 가능한 미국 주식시장의 약 98%를 대표하도록 구성러셀1000그중 가장 큰 약 1,000종목선정 유니버스러셀1000 중 지수사의 주식 클래스 스크린과 유동성 스크린을 통과한 종목여기서 성격이 정해진다. 대형주와 중형주 위주이고 소형주는..",
+    "headline": "AlphaDEX 섹터 ETF 5종 비교: 상위 75%와 40종목 중 큰 쪽을 담는 지수",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/860",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/860"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "First Trust Health Care AlphaDEX Fund",
+          "description": "러셀1000에서 성장·가치 중 더 나은 점수로 선별하고 5분위 계층 가중을 적용하는 섹터 ETF",
+          "name": "FXH"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "First Trust AlphaDEX 섹터 ETF 5종은 러셀1000에서 성장과 가치 순위를 둘 다 매긴 뒤 더 나은 점수를 쓴다. 선정 종목 수는 상위 75%와 40종목 중 큰 쪽이며, 5분위로 나눠 상위에 더 큰 비중을 준다.",
+        "headline": "AlphaDEX 섹터 ETF 5종 비교: 상위 75%와 40종목 중 큰 쪽을 담는 지수",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "AlphaDEX, FXH, FXL, FXN, FXU, FXZ, 섹터 ETF, 러셀1000, 5분위 가중, 선정 점수, StrataQuant, 90% 정책",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Technology AlphaDEX Fund",
+            "name": "FXL"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Energy AlphaDEX Fund",
+            "name": "FXN"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Utilities AlphaDEX Fund",
+            "name": "FXU"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Materials AlphaDEX Fund",
+            "name": "FXZ"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-27T03:53:00+09:00",
+    "datePublished": "2026-11-27T03:52:59+09:00",
+    "description": "지수를 그대로 따라가는 ETF는 편입 대상을 고민할 필요가 없다. 지수가 정해주기 때문이다. 그런데 액티브 ETF는 지수를 따라가지 않는다. 운용역이 직접 고른다.그렇다고 아무거나 담을 수는 없다. 상품 이름에 '신흥국 채권'이라고 적혀 있으면 무엇이 신흥국 채권인지를 문서에 규정해야 한다. 액티브 3종의 문서를 열어보면 그 답이 서로 다르다. 하나는 자기가 따라가지도 않는 지수를 근거로 삼는다.'신흥국'을 각자 어떻게 정하나?세 문서의 규정 방식이 완전히 갈린다.표 1. 신흥국 판정 근거상품문서가 적은 근거EMBD주요 신흥국 국채 지수 또는 신흥국 회사채 지수를 구성할 목적으로 신흥국으로 분류된 국가EMBX별도의 정의 절 없음FEMB서술적 정의 + 세계은행 소득 분류 + 선진국 25개국 배제 목록따라가..",
+    "headline": "신흥국 채권 액티브 ETF 비교: EMBD·EMBX·FEMB, '신흥국'을 각자 다르게 정한다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/861",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/861"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "Global X Emerging Markets Bond ETF",
+          "description": "추종하지 않는 지수를 편입 자격 정의에 참조하는 액티브 신흥국 채권 ETF",
+          "name": "EMBD"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "액티브 신흥국 채권 ETF 3종은 지수를 따라가지 않지만 무엇이 신흥국인지는 정해야 한다. 하나는 지수에서 정의를 빌려오고, 하나는 25개국을 빼며, 하나는 통화로도 자격을 준다. SEC 문서로 대조했다.",
+        "headline": "신흥국 채권 액티브 ETF 비교: EMBD·EMBX·FEMB, '신흥국'을 각자 다르게 정한다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "EMBD, EMBX, FEMB, 신흥국 채권, 액티브 ETF, 현지통화, 교차 헤지, 글로벌 예탁 노트, 세계은행 소득 분류, 국가 상한",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "VanEck Emerging Markets Bond ETF",
+            "name": "EMBX"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "First Trust Emerging Markets Local Currency Bond ETF",
+            "name": "FEMB"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

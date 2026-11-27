@@ -1,0 +1,224 @@
+<!--
+source: https://mystock-note.tistory.com/860
+backup_date: 2026-11-27
+post_id: 860
+-->
+<p data-ke-size="size16">섹터 ETF 대부분은 해당 섹터의 종목을 시가총액 비중대로 담는다. 그런데 <b>섹터 안에서 다시 종목을 골라내는 상품</b>도 있다. 같은 헬스케어라도 어떤 회사는 담고 어떤 회사는 빼는 방식이다.</p>
+<p data-ke-size="size16">이 계열이 그렇다. 골라내는 방법에 특이한 지점이 셋 있다. <b>성장과 가치를 둘 다 재고, 몇 종목을 담을지를 두 기준 중 큰 쪽으로 정하며, 그 종목 수를 지수사가 언제든 바꿀 수 있다고 문서에 적혀 있다.</b></p>
+
+<p></p>
+
+<h2 data-ke-size="size26">어디서 뽑아 오나?</h2>
+<p data-ke-size="size16">출발점은 러셀1000이다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. 모집단 구조</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>러셀3000</td>
+<td>투자 가능한 미국 주식시장의 약 <b>98%</b>를 대표하도록 구성</td>
+</tr>
+<tr>
+<td>러셀1000</td>
+<td>그중 <b>가장 큰 약 1,000종목</b></td>
+</tr>
+<tr>
+<td>선정 유니버스</td>
+<td>러셀1000 중 지수사의 <b>주식 클래스 스크린과 유동성 스크린</b>을 통과한 종목</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여기서 성격이 정해진다. <b>대형주와 중형주 위주이고 소형주는 들어오지 않는다.</b> <a href="https://mystock-note.tistory.com/551">전체시장에서 하위산업 단위로 뽑아 소형주까지 담는 계열</a>과는 출발점이 다르다.</p>
+<p data-ke-size="size16">지수는 <b>StrataQuant 시리즈</b>라는 계열에 속한다. 문서는 이를 지수 제공사가 개발·유지·소유하는 맞춤형 강화 지수 계열이라고 적는다. 섹터 구분도 <b>지수 제공사가 정의한 섹터</b>를 쓴다. 널리 쓰이는 표준 분류를 그대로 가져온다고는 적혀 있지 않다.</p>
+
+
+
+
+<h2 data-ke-size="size26">종목은 어떻게 고르나?</h2>
+<p data-ke-size="size16">문서가 네 단계로 적어둔 절차를 따라가면 이렇다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 선정 4단계</caption>
+<thead>
+<tr>
+<th>단계</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>러셀1000에서 클래스&middot;유동성 스크린을 통과한 종목으로 유니버스 구성</td>
+</tr>
+<tr>
+<td>2</td>
+<td><b>성장 요인과 가치 요인 양쪽으로 순위를 매긴다</b></td>
+</tr>
+<tr>
+<td>3</td>
+<td>유니버스를 지수사가 정의한 섹터로 나누고, 해당 섹터 안에서 점수 순으로 줄 세운다</td>
+</tr>
+<tr>
+<td>4</td>
+<td><b>상위 75%와 40종목 중 큰 쪽</b>을 선정하고, 5분위로 나눠 상위 분위에 더 큰 비중을 준다</td>
+</tr>
+</tbody>
+</table>
+<h3 data-ke-size="size23">성장이냐 가치냐를 고르지 않는다</h3>
+<p data-ke-size="size16">2단계가 이 방법론의 핵심이다. 문서의 규정은 이렇다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 종목 분류별 선정 점수</caption>
+<thead>
+<tr>
+<th>분류</th>
+<th>선정 점수로 쓰는 값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>가치주로 분류</td>
+<td>가치 순위</td>
+</tr>
+<tr>
+<td>성장주로 분류</td>
+<td>성장 순위</td>
+</tr>
+<tr>
+<td><b>둘의 조합으로 분류</b></td>
+<td><b>두 점수 중 더 나은 쪽</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">일반적인 스타일 지수는 종목을 성장이나 가치 한쪽으로 밀어넣는다. <a href="https://mystock-note.tistory.com/501">스타일 구분이 상품의 성격을 정하는 구조</a>가 그렇다. 여기서는 다르다. <b>어느 쪽으로든 잘하기만 하면 통과한다.</b></p>
+<p data-ke-size="size16">이 설계에는 방향이 있다. 성장 팩터가 잘 듣는 국면이든 가치 팩터가 잘 듣는 국면이든, 각 국면에서 상위에 있는 종목을 잡으려는 것이다. 다만 반대급부도 있다. <b>어느 한 스타일에 집중하려는 목적에는 맞지 않는다.</b> 두 성격이 섞여 들어온다.</p>
+
+
+
+
+<h2 data-ke-size="size26">왜 종목 수를 두 기준 중 큰 쪽으로 정하나?</h2>
+<p data-ke-size="size16">4단계의 표현이 특이하다. <b>상위 75%와 40종목 중 큰 쪽</b>이다. 비율 하나로도 아니고 개수 하나로도 아니다.</p>
+<table data-ke-align="alignLeft"><caption>표 4. 섹터 규모에 따라 어느 기준이 작동하나 (가상 예시)</caption>
+<thead>
+<tr>
+<th>섹터 내 유니버스 종목 수</th>
+<th>상위 75%</th>
+<th>적용되는 값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>200</td>
+<td>150</td>
+<td><b>150</b> (비율이 크다)</td>
+</tr>
+<tr>
+<td>60</td>
+<td>45</td>
+<td><b>45</b> (비율이 크다)</td>
+</tr>
+<tr>
+<td>40</td>
+<td>30</td>
+<td><b>40</b> (하한이 크다)</td>
+</tr>
+<tr>
+<td>25</td>
+<td>19</td>
+<td><b>40</b> &mdash; 유니버스보다 큰 값</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">비율만 쓰면 문제가 생긴다. 섹터마다 상장 기업 수가 크게 다르기 때문이다. 종목이 많은 섹터에서는 75%가 넉넉하지만, <b>종목이 적은 섹터에서는 75%를 뽑아도 종목 수가 지나치게 적어진다.</b> 40종목이라는 하한이 그 바닥을 받친다.</p>
+<p data-ke-size="size16">반대로 개수만 쓰면 큰 섹터에서 선별 효과가 사라진다. 200종목 중 40개만 뽑으면 선별이 되지만, 그 경우 <b>규칙의 성격이 섹터마다 달라진다.</b> 두 기준을 병용해 어느 쪽이든 무너지지 않게 한 설계다.</p>
+<p data-ke-size="size16">한 가지 짚어둘 점이 있다. 섹터 유니버스 자체가 40종목보다 적으면 하한이 유니버스를 넘어선다. 그 경우 어떻게 처리하는지는 요약설명서에 적혀 있지 않다.</p>
+<h3 data-ke-size="size23">비중은 5분위로 계단을 만든다</h3>
+<p data-ke-size="size16">선정된 종목을 점수 순으로 <b>다섯 덩어리로 나누고, 점수가 높은 덩어리에 더 큰 비중</b>을 준다. 지수 자체는 수정 동일달러 가중으로 규정돼 있다.</p>
+<p data-ke-size="size16">시가총액 가중과 다른 결과가 나온다. <b>회사가 크다고 비중이 커지지 않는다.</b> 점수가 높으면 작은 회사도 큰 비중을 받는다. 대신 같은 덩어리 안에서는 서로 비슷한 비중을 갖는다.</p>
+
+<h2 data-ke-size="size26">그 밖에 확인할 조항이 있나?</h2>
+<table data-ke-align="alignLeft"><caption>표 5. 정책 조항</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>최소 투자 정책</td>
+<td>순자산(투자 목적 차입금 포함)의 최소 <b>90%</b>를 지수 구성 종목에</td>
+</tr>
+<tr>
+<td>복제 방식</td>
+<td>지수를 <b>복제</b>하려 시도</td>
+</tr>
+<tr>
+<td>재구성 주기</td>
+<td><b>분기</b> 재구성&middot;재조정</td>
+</tr>
+<tr>
+<td>회전율</td>
+<td>문서가 <b>회전율이 높아질 수 있다</b>고 직접 명시</td>
+</tr>
+<tr>
+<td>집중 정책</td>
+<td>지수가 집중된 정도만큼 집중</td>
+</tr>
+<tr>
+<td><b>지수사 재량</b></td>
+<td><b>지수의 종목 수를 언제든 늘리거나 줄이거나, 종목을 다른 종목으로 대체할 수 있다</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">첫 행이 일반적이지 않다. 대부분의 지수형 상품은 80% 정책을 쓴다. <b>여기는 90%다.</b> 지수 밖 투자에 쓸 여지가 그만큼 좁다.</p>
+<p data-ke-size="size16">마지막 행은 더 눈여겨볼 만하다. 문서는 지수 제공사가 <b>지수의 품질이나 성격을 유지하기 위해 필요하거나 적절하다고 재량으로 판단하면</b> 종목을 더하거나 빼거나 바꿀 수 있다고 적는다.</p>
+<p data-ke-size="size16">즉 앞서 본 4단계 절차가 결과를 완전히 결정하지 않는다. <b>규칙 기반 지수이면서도 재량이 명문화돼 있다.</b> 이 조항은 다른 지수에도 있지만, 문서에 명시적으로 적혀 있는지는 상품마다 다르므로 확인 대상이다.</p>
+
+<h2 data-ke-size="size26">5종은 서로 무엇이 다른가?</h2>
+<p data-ke-size="size16">담는 섹터가 다르고 그 외 규칙은 같다.</p>
+<table data-ke-align="alignLeft"><caption>표 6. 계열 5종</caption>
+<thead>
+<tr>
+<th>티커</th>
+<th>섹터</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FXH</td>
+<td>헬스케어</td>
+</tr>
+<tr>
+<td>FXL</td>
+<td>기술</td>
+</tr>
+<tr>
+<td>FXN</td>
+<td>에너지</td>
+</tr>
+<tr>
+<td>FXU</td>
+<td>유틸리티</td>
+</tr>
+<tr>
+<td>FXZ</td>
+<td>소재</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">문서의 절차 서술이 <b>"펀드 이름에 해당하는 섹터"</b>라는 일반 표현을 쓴다. 계열 전체가 같은 문형을 공유한다는 뜻이다.</p>
+<p data-ke-size="size16">다만 결과는 섹터마다 크게 갈릴 수 있다. <b>선정 기준이 상위 75%와 40종목 중 큰 쪽이므로, 섹터 유니버스가 크면 선별이 완만하고 작으면 사실상 대부분을 담게 된다.</b> 같은 규칙이 섹터에 따라 다른 강도로 작동한다.</p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">성장과 가치 중 더 나은 점수를 쓴다는 점</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">선정 수가 비율과 하한 중 큰 쪽이라는 점</p>
+<progress value="86" max="100"></progress>
+<p data-ke-size="size16">지수사에게 종목 교체 재량이 있다는 점</p>
+<progress value="72" max="100"></progress>
+<p data-ke-size="size16">모집단이 러셀1000이라 소형주가 없다는 점</p>
+<progress value="58" max="100"></progress>
+<p data-ke-size="size16">분기 재구성에 따른 회전율</p>
+<progress value="46" max="100"></progress>
