@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "about": {
+        "@type": "Thing",
+        "alternateName": "WisdomTree Enhanced Commodity Strategy Fund",
+        "description": "최대 내재 수익률 계약으로 월간 롤하며 순자산 10%까지 비트코인 관련 자산을 편입할 수 있는 액티브 원자재 ETF",
+        "name": "GCC"
+      },
+      "articleSection": "미국 ETF",
+      "author": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "description": "COMT와 GCC는 둘 다 롤 방식을 이름에 넣었지만 요약설명서가 밝히는 정도가 다르다. GCC는 최대 내재 수익률 계약으로 월간 롤한다고 적고 비트코인 10% 편입도 규정한다. SEC 문서로 대조했다.",
+      "headline": "원자재 ETF의 '롤' 전략 비교: COMT·GCC, 이름은 같은데 문서가 밝히는 정도가 다르다",
+      "inLanguage": "ko",
+      "isPartOf": {
+        "@id": "https://mystock-note.tistory.com/#website"
+      },
+      "keywords": "COMT, GCC, 원자재 ETF, 강화된 롤, 다이내믹 롤, 콘탱고, 백워데이션, 내재 수익률, 케이맨 자회사, 비트코인 ETP",
+      "mentions": [
+        {
+          "@type": "Thing",
+          "alternateName": "iShares GSCI Commodity Dynamic Roll Strategy ETF",
+          "name": "COMT"
+        }
+      ],
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      }
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#website",
+      "@type": "WebSite",
+      "inLanguage": "ko",
+      "name": "Stock Memo",
+      "publisher": {
+        "@id": "https://mystock-note.tistory.com/#org"
+      },
+      "url": "https://mystock-note.tistory.com/"
+    },
+    {
+      "@id": "https://mystock-note.tistory.com/#org",
+      "@type": "Organization",
+      "name": "Stock Memo",
+      "url": "https://mystock-note.tistory.com/"
+    }
+  ]
+}

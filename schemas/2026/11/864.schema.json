@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-28T02:55:00+09:00",
+    "datePublished": "2026-11-28T02:54:19+09:00",
+    "description": "채권 ETF를 고를 때 대개 두 가지를 본다. 어떤 채권을 담는지, 그리고 환위험을 어떻게 처리하는지다. 그런데 문서를 열어보면 그보다 앞선 질문이 있다. 무엇이 지수 안에 들어 있고, 무엇을 펀드가 따로 하느냐다.두 상품을 나란히 놓으면 그 차이가 극단적으로 드러난다. 한쪽은 환헤지 계약 자체가 지수의 구성요소다. 다른 쪽은 지수가 아예 없고 모형이 그 자리를 대신하는데, 그 모형을 따르지 않을 수 있다고 문서에 적혀 있다.환헤지가 지수 안에 들어 있다IAGG가 추종하는 지수는 미국 달러 외 통화로 발행된 투자등급 채권을 담는다. 그런데 문서의 한 문장이 구조를 바꾼다.지수의 구성요소에는 채권과 함께 외환 선도계약이 포함된다고 적혀 있다.표 1. 헤지를 누가 하느냐구조헤지의 위치결과펀드가 헤지지수는 헤..",
+    "headline": "IAGG·FISR 비교: 환헤지가 지수 안에 있는 채권 ETF와, 지수 없이 모형이 고르는 채권 ETF",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/864",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/864"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Core International Aggregate Bond ETF",
+          "description": "외환 선도계약이 지수의 구성요소로 포함된 미국 외 통화 표시 투자등급 채권 ETF",
+          "name": "IAGG"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IAGG는 환헤지 선도환이 지수의 구성요소로 들어 있고, FISR은 지수 없이 자체 모형으로 채권 9개 섹터를 배분한다. 배제 목록, 차액결제 선도환, 모형 이탈 재량까지 SEC 문서로 대조했다.",
+        "headline": "IAGG·FISR 비교: 환헤지가 지수 안에 있는 채권 ETF와, 지수 없이 모형이 고르는 채권 ETF",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IAGG, FISR, 국제 채권 ETF, 환헤지, 차액결제 선도환, NDF, 조건부자본증권, 펀드 오브 펀드, 채권 섹터 로테이션, 듀레이션 제약",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "State Street Fixed Income Sector Rotation ETF",
+            "name": "FISR"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

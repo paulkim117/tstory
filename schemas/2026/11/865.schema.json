@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-28T03:56:00+09:00",
+    "datePublished": "2026-11-28T03:55:15+09:00",
+    "description": "에너지 ETF를 고를 때 대개 유가와의 관계를 먼저 본다. 그런데 문서를 열어보면 그 전에 갈리는 것이 있다. 무엇을 에너지로 볼 것이냐, 그리고 어디까지를 대상으로 볼 것이냐다.두 상품이 그 질문에 서로 다르게 답한다. 하나는 미국을 넘어 16개국으로 범위를 넓히고, 다른 하나는 미국 안에 머물면서 에너지라는 말 자체를 넓혀 태양광과 풍력까지 담는다.'에너지'에 무엇까지 들어가나?PXI 문서는 에너지 섹터 기업을 이렇게 정의한다.표 1. PXI 문서의 에너지 섹터 정의범주내용탐사·생산석유와 가스를 찾고 뽑아내는 사업정제원유를 가공하는 사업오일 서비스시추와 생산에 필요한 장비·서비스를 제공하는 사업파이프라인운송·저장 인프라비석유 기반 에너지태양광, 풍력 등마지막 행이 이 상품의 성격을 바꾼다. 신재생 에..",
+    "headline": "에너지 ETF 비교: IXC·PXI, 하나는 국경을 넓히고 하나는 에너지의 뜻을 넓힌다",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/865",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/865"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares Global Energy ETF",
+          "description": "16개국 에너지 대형주를 담는 글로벌 에너지 섹터 ETF",
+          "name": "IXC"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "IXC는 16개국 에너지 대형주를 담고, PXI는 미국 내에서 모멘텀 점수로 고르되 태양광·풍력까지 에너지에 포함한다. 모집단·정의·가중 방식의 차이를 SEC 문서로 대조했다.",
+        "headline": "에너지 ETF 비교: IXC·PXI, 하나는 국경을 넓히고 하나는 에너지의 뜻을 넓힌다",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IXC, PXI, 에너지 ETF, 글로벌 에너지, 모멘텀, 상대강도, 신재생, 태양광, 풍력, 완전복제, 표본추출",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Invesco Dorsey Wright Energy Momentum ETF",
+            "name": "PXI"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+      "@type": "Person",
+      "logo": null,
+      "name": "Blackshoot"
+    },
+    "dateModified": "2026-11-28T01:54:00+09:00",
+    "datePublished": "2026-11-28T01:53:49+09:00",
+    "description": "미국 부동산에 투자하는 ETF는 여럿이다. 이름도 비슷하고 담는 종목도 상당 부분 겹친다. 그런데 몇 개 종목에 얼마까지 몰릴 수 있는지를 정하는 규칙이 상품마다 다르다.이 상품의 지수에는 상한이 두 겹으로 걸려 있고, 그 위에 정해진 리뷰 날짜가 아니어도 조건이 맞으면 그날 바로 발동하는 장치가 하나 더 있다. 그리고 서로 다른 두 회사를 하나로 묶어 세는 조항도 있다.IYR은 리츠 ETF인가?문서의 표현을 그대로 보면 조금 다르다. 이 지수는 미국 주식시장의 부동산 섹터 성과를 측정한다고 규정돼 있다. 리츠만 담는다고 적혀 있지 않다.문서는 이어서 지수의 상당 부분이 리츠 산업 또는 섹터의 증권으로 구성돼 있다고 밝히면서, 동시에 구성 종목은 시간이 지나면서 바뀔 가능성이 있다고 덧붙인다.표 1. 부..",
+    "headline": "IYR ETF란? 부동산 섹터 지수의 3중 캡과 분기 사이에도 터지는 트리거 — VNQ·XLRE와 차이",
+    "image": {
+      "@type": "ImageObject",
+      "height": "800px",
+      "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+      "width": "800px"
+    },
+    "mainEntityOfPage": {
+      "@id": "https://mystock-note.tistory.com/863",
+      "name": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "height": "800px",
+        "url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png",
+        "width": "800px"
+      },
+      "name": "TISTORY"
+    },
+    "url": "https://mystock-note.tistory.com/863"
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "about": {
+          "@type": "Thing",
+          "alternateName": "iShares U.S. Real Estate ETF",
+          "description": "미국 부동산 섹터를 담으며 이중 상한과 정기 외 리밸런싱 트리거를 함께 두는 ETF",
+          "name": "IYR"
+        },
+        "articleSection": "미국 ETF",
+        "author": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "description": "iShares U.S. Real Estate ETF(IYR)는 단일 종목 10%, 4.5% 초과 종목 합계 22.5%라는 이중 상한에 더해 분기 리뷰 사이에도 발동하는 트리거를 둔다. VNQ·XLRE와의 구조 차이를 SEC 문서로 정리했다.",
+        "headline": "IYR ETF란? 부동산 섹터 지수의 3중 캡과 분기 사이에도 터지는 트리거 — VNQ·XLRE와 차이",
+        "inLanguage": "ko",
+        "isPartOf": {
+          "@id": "https://mystock-note.tistory.com/#website"
+        },
+        "keywords": "IYR, 미국 리츠 ETF, 부동산 섹터, 캡핑, 정기 외 리밸런싱, 공통 지배, S&P 다우존스, VNQ, XLRE, 표본추출",
+        "mentions": [
+          {
+            "@type": "Thing",
+            "alternateName": "Vanguard Real Estate ETF",
+            "name": "VNQ"
+          },
+          {
+            "@type": "Thing",
+            "alternateName": "Real Estate Select Sector SPDR Fund",
+            "name": "XLRE"
+          }
+        ],
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        }
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#website",
+        "@type": "WebSite",
+        "inLanguage": "ko",
+        "name": "Stock Memo",
+        "publisher": {
+          "@id": "https://mystock-note.tistory.com/#org"
+        },
+        "url": "https://mystock-note.tistory.com/"
+      },
+      {
+        "@id": "https://mystock-note.tistory.com/#org",
+        "@type": "Organization",
+        "name": "Stock Memo",
+        "url": "https://mystock-note.tistory.com/"
+      }
+    ]
+  }
+]

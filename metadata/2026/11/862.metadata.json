@@ -1,0 +1,23 @@
+{
+  "backup_date": "2026-11-28",
+  "body_html_length": 5719,
+  "canonical_url": "https://mystock-note.tistory.com/862",
+  "content_hash": "c2169501a9db4c0a6d7dfffc75730d73831417357d5885db62ffc086addae0a6",
+  "json_ld_count": 1,
+  "meta_description": "원자재 ETF는 선물을 사서 만기 전에 다음 계약으로 갈아탄다. 이 갈아타기를 롤이라고 부르고, 어느 계약으로 갈아타느냐가 성과를 크게 가른다. 그래서 상품 이름에 롤 방식을 넣는 경우가 많다.여기 두 상품이 있다. 하나는 이름에 \"다이내믹 롤\"이 들어가고 다른 하나는 \"강화된 롤\"을 쓴다고 밝힌다. 그런데 요약설명서를 열어보면 한쪽에만 절차가 적혀 있다. 그리고 절차를 적은 쪽은 원자재 펀드인데 비트코인을 담을 수 있다고 규정한다.'강화된 롤'은 무엇을 하는 것인가?GCC 문서는 절차를 이렇게 적는다.표 1. GCC가 규정한 롤 절차항목내용주기일반적으로 월간 시행선택 기준해당 원자재에서 최대 내재 수익률을 만드는 계약으로 갈아탄다목표(백워데이션)롤에서 얻는 이득을 최대화목표(콘탱고)롤에서 생기는 손실을..",
+  "modified_time": "2026-11-28T00:54:00+09:00",
+  "notes": [
+    "본문 regex 패턴 선택: <div\\b[^>]*class=[\\\"'][^\\\"']*contents_style[^\\\"']*[\\\"'][^>]*>(.*?)</div>",
+    {
+      "invalid_json_ld_raw": "{\"@context\":\"http://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@id\":\"https://mystock-note.tistory.com/862\",\"name\":null},\"url\":\"https://mystock-note.tistory.com/862\",\"headline\":\"원자재 ETF의 '롤' 전략 비교: COMT·GCC, 이름은 같은데 문서가 밝히는 정도가 다르다\",\"description\":\"원자재 ETF는 선물을 사서 만기 전에 다음 계약으로 갈아탄다. 이 갈아타기를 롤이라고 부르고, 어느 계약으로 갈아타느냐가 성과를 크게 가른다. 그래서 상품 이름에 롤 방식을 넣는 경우가 많다.여기 두 상품이 있다. 하나는 이름에 \"다이내믹 롤\"이 들어가고 다른 하나는 \"강화된 롤\"을 쓴다고 밝힌다. 그런데 요약설명서를 열어보면 한쪽에만 절차가 적혀 있다. 그리고 절차를 적은 쪽은 원자재 펀드인데 비트코인을 담을 수 있다고 규정한다.'강화된 롤'은 무엇을 하는 것인가?GCC 문서는 절차를 이렇게 적는다.표 1. GCC가 규정한 롤 절차항목내용주기일반적으로 월간 시행선택 기준해당 원자재에서 최대 내재 수익률을 만드는 계약으로 갈아탄다목표(백워데이션)롤에서 얻는 이득을 최대화목표(콘탱고)롤에서 생기는 손실을..\",\"author\":{\"@type\":\"Person\",\"name\":\"Blackshoot\",\"logo\":null},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png\",\"width\":\"800px\",\"height\":\"800px\"},\"datePublished\":\"2026-11-28T00:53:27+09:00\",\"dateModified\":\"2026-11-28T00:54:00+09:00\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"TISTORY\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png\",\"width\":\"800px\",\"height\":\"800px\"}}}"
+    }
+  ],
+  "og_description": "원자재 ETF는 선물을 사서 만기 전에 다음 계약으로 갈아탄다. 이 갈아타기를 롤이라고 부르고, 어느 계약으로 갈아타느냐가 성과를 크게 가른다. 그래서 상품 이름에 롤 방식을 넣는 경우가 많다.여기 두 상품이 있다. 하나는 이름에 \"다이내믹 롤\"이 들어가고 다른 하나는 \"강화된 롤\"을 쓴다고 밝힌다. 그런데 요약설명서를 열어보면 한쪽에만 절차가 적혀 있다. 그리고 절차를 적은 쪽은 원자재 펀드인데 비트코인을 담을 수 있다고 규정한다.'강화된 롤'은 무엇을 하는 것인가?GCC 문서는 절차를 이렇게 적는다.표 1. GCC가 규정한 롤 절차항목내용주기일반적으로 월간 시행선택 기준해당 원자재에서 최대 내재 수익률을 만드는 계약으로 갈아탄다목표(백워데이션)롤에서 얻는 이득을 최대화목표(콘탱고)롤에서 생기는 손실을..",
+  "og_title": "원자재 ETF의 '롤' 전략 비교: COMT·GCC, 이름은 같은데 문서가 밝히는 정도가 다르다",
+  "post_id": "862",
+  "published_time": "2026-11-28T00:53:27+09:00",
+  "source": "tistory_public_html",
+  "status": "published",
+  "title": "원자재 ETF의 '롤' 전략 비교: COMT·GCC, 이름은 같은데 문서가 밝히는 정도가 다르다",
+  "url": "https://mystock-note.tistory.com/862"
+}

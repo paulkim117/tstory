@@ -1,0 +1,200 @@
+<!--
+source: https://mystock-note.tistory.com/862
+backup_date: 2026-11-28
+post_id: 862
+-->
+<p data-ke-size="size16">원자재 ETF는 선물을 사서 만기 전에 다음 계약으로 갈아탄다. 이 갈아타기를 롤이라고 부르고, <b>어느 계약으로 갈아타느냐가 성과를 크게 가른다.</b> 그래서 상품 이름에 롤 방식을 넣는 경우가 많다.</p>
+<p data-ke-size="size16">여기 두 상품이 있다. 하나는 이름에 "다이내믹 롤"이 들어가고 다른 하나는 "강화된 롤"을 쓴다고 밝힌다. 그런데 <b>요약설명서를 열어보면 한쪽에만 절차가 적혀 있다.</b> 그리고 절차를 적은 쪽은 원자재 펀드인데 비트코인을 담을 수 있다고 규정한다.</p>
+
+<p></p>
+
+<h2 data-ke-size="size26">'강화된 롤'은 무엇을 하는 것인가?</h2>
+<p data-ke-size="size16">GCC 문서는 절차를 이렇게 적는다.</p>
+<table data-ke-align="alignLeft"><caption>표 1. GCC가 규정한 롤 절차</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주기</td>
+<td>일반적으로 <b>월간</b> 시행</td>
+</tr>
+<tr>
+<td>선택 기준</td>
+<td>해당 원자재에서 <b>최대 내재 수익률을 만드는 계약</b>으로 갈아탄다</td>
+</tr>
+<tr>
+<td>목표(백워데이션)</td>
+<td>롤에서 얻는 이득을 <b>최대화</b></td>
+</tr>
+<tr>
+<td>목표(콘탱고)</td>
+<td>롤에서 생기는 손실을 <b>최소화</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">두 번째 행이 핵심이다. 만기가 다가온 계약을 팔고 다음 계약을 살 때, <b>바로 다음 달 계약으로 가는 것이 아니라 여러 만기를 놓고 계산해 가장 유리한 것을 고른다.</b></p>
+<h3 data-ke-size="size23">왜 계산이 필요한가</h3>
+<p data-ke-size="size16">문서가 그 배경도 함께 적는다.</p>
+<table data-ke-align="alignLeft"><caption>표 2. 선물 곡선의 두 형태</caption>
+<thead>
+<tr>
+<th>형태</th>
+<th>가격 관계</th>
+<th>롤의 결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>콘탱고</td>
+<td>먼 만기가 <b>더 비싸다</b></td>
+<td>비싸게 사게 되므로 <b>손실</b></td>
+</tr>
+<tr>
+<td>백워데이션</td>
+<td>먼 만기가 <b>더 싸다</b></td>
+<td>싸게 사게 되므로 <b>이득</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">문서는 어느 형태가 되느냐를 <b>수급 요인</b>이 결정한다고 적는다. 보관 비용이 드는 원자재는 콘탱고가 잦고, 당장 물건이 부족한 상황에서는 백워데이션이 나타난다.</p>
+<p data-ke-size="size16">중요한 것은 이 형태가 <b>원자재마다 다르고 시기마다 바뀐다</b>는 점이다. 원유는 콘탱고인데 구리는 백워데이션인 상황이 흔하다. 그래서 <b>원자재별로 따로 계산해 각각 가장 유리한 만기를 고른다.</b></p>
+<p data-ke-size="size16">이 방식은 <a href="https://mystock-note.tistory.com/589">최근월 계약을 정해진 날짜에 기계적으로 갈아타는 방식</a>과 다르다. 그 방식은 곡선 형태와 무관하게 늘 같은 자리로 간다.</p>
+
+
+
+
+<h2 data-ke-size="size26">COMT 문서에는 절차가 없다</h2>
+<p data-ke-size="size16">COMT는 지수를 추종하는 상품이고 그 지수 이름에 "다이내믹 롤"이 들어간다. 투자 목적에도 <b>강화된 롤 선택</b>이라는 표현이 나온다.</p>
+<p data-ke-size="size16">그런데 요약설명서의 전략 절에는 <b>그 롤이 어떻게 작동하는지에 대한 설명이 없다.</b> 적혀 있는 것은 지수명, 편입 원자재 목록, 연간 리밸런싱, 자회사 구조다. 롤에 관한 서술은 위험 조항에 일반적인 형태로만 나온다.</p>
+<table data-ke-align="alignLeft"><caption>표 3. 두 문서의 롤 관련 서술 수준</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>COMT</th>
+<th>GCC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>상품&middot;지수명에 롤 방식 표기</td>
+<td>있음</td>
+<td>있음</td>
+</tr>
+<tr>
+<td>롤 주기</td>
+<td>기재 없음</td>
+<td><b>월간</b></td>
+</tr>
+<tr>
+<td>계약 선택 기준</td>
+<td>기재 없음</td>
+<td><b>최대 내재 수익률</b></td>
+</tr>
+<tr>
+<td>콘탱고&middot;백워데이션 설명</td>
+<td>위험 조항에 일반론</td>
+<td><b>전략 절에 목표까지 명시</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이 차이가 상품의 우열을 뜻하지는 않는다. 지수형 상품에서는 상세 규칙이 지수사 방법론 문서에 있고, 요약설명서는 그것을 요약할 의무가 없다. <b>다만 투자자가 요약본만 읽고 알 수 있는 범위가 상품마다 다르다는 사실은 그대로 남는다.</b></p>
+<p data-ke-size="size16">실무적 함의는 하나다. <b>지수형이면 방법론 문서를 따로 찾아야 하고, 액티브면 요약설명서에 적힌 것이 규정의 전부일 수 있다.</b></p>
+
+
+
+
+<h2 data-ke-size="size26">원자재 펀드가 비트코인을 담는다</h2>
+<p data-ke-size="size16">GCC 문서에서 예상 밖의 조항이 나온다. 순자산의 <b>최대 10%</b>를 비트코인 관련 자산에 배분할 수 있다.</p>
+<table data-ke-align="alignLeft"><caption>표 4. GCC의 비트코인 관련 규정</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>한도</td>
+<td>순자산의 <b>10%</b> 이내</td>
+</tr>
+<tr>
+<td>수단</td>
+<td>비트코인을 주로 보유하는 <b>상장 상품</b> 또는 <b>비트코인 선물</b></td>
+</tr>
+<tr>
+<td>선물 제한</td>
+<td><b>현금 결제형</b>이며 시카고상품거래소에 상장된 것만</td>
+</tr>
+<tr>
+<td>상장 상품 제한</td>
+<td>미국 증권거래소 상장분만</td>
+</tr>
+<tr>
+<td>현재 노출 대상</td>
+<td><b>운용사 계열사가 스폰서인 비트코인 상품</b></td>
+</tr>
+<tr>
+<td>직접 보유</td>
+<td>비트코인을 <b>직접 보유하지는 않는다</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">마지막에서 두 번째 행을 짚어둘 만하다. 운용사가 자기 계열사의 상품에 투자하는 구조다. 문서는 이 사실을 그대로 밝힌다.</p>
+<p data-ke-size="size16">또 하나 특이한 서술이 있다. 문서는 <b>원자재와 원자재 연계 파생상품에 관한 설명이 비트코인 관련 간접 투자에도 적용되는 것으로 본다</b>고 적는다. 즉 별도의 설명 체계를 만들지 않고 <b>비트코인을 원자재 설명 틀 안에 넣었다.</b></p>
+<p data-ke-size="size16">이 조항이 있다는 것은 상품의 성격을 바꾼다. 원자재 바스켓만 기대하고 담았다면 <a href="https://mystock-note.tistory.com/556">상품이 규제와 세제 요건을 맞추기 위해 어떤 구조를 쓰는지</a>와 별개로, <b>편입 자산군 자체가 이름보다 넓다.</b></p>
+
+<h2 data-ke-size="size26">비중과 구성은 어떻게 정하나?</h2>
+<p data-ke-size="size16">두 상품의 결정 주체가 다르다.</p>
+<table data-ke-align="alignLeft"><caption>표 5. 구성 결정 방식</caption>
+<thead>
+<tr>
+<th>항목</th>
+<th>COMT</th>
+<th>GCC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운용 방식</td>
+<td>지수 추종</td>
+<td><b>액티브</b></td>
+</tr>
+<tr>
+<td>부문 구분</td>
+<td>지수가 정함</td>
+<td>에너지&middot;농산물&middot;산업금속&middot;귀금속 <b>4부문</b></td>
+</tr>
+<tr>
+<td>비중 기준</td>
+<td>지수가 정함</td>
+<td><b>유동성 중심</b> + 정성적 고려 + 운용사 시장 관점</td>
+</tr>
+<tr>
+<td>구성 변경</td>
+<td>지수 <b>연간</b> 리밸런싱</td>
+<td>일반적으로 <b>연간</b> 결정, 다만 위 요소에 따라 변동</td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">GCC의 비중 기준에서 <b>유동성이 앞에 온다.</b> 거래가 활발한 원자재일수록 비중이 커진다고 문서가 적는다. 여기에 정성적 판단과 시장 관점이 더해진다.</p>
+<p data-ke-size="size16">액티브이므로 <b>규칙이 결과를 결정하지 않는다.</b> 문서에 적힌 것은 판단의 틀이고 실제 선택은 운용사가 한다.</p>
+<h3 data-ke-size="size23">공통 구조: 역외 자회사와 담보</h3>
+<p data-ke-size="size16">두 상품 모두 케이맨 제도에 세운 완전자회사를 경유해 원자재 노출을 만든다. 총자산의 <b>25%</b>를 넘지 못하며, 이는 미국 세법상 펀드 자격을 유지하기 위한 한도다.</p>
+<p data-ke-size="size16">그리고 두 상품 모두 <b>담보로 채권을 보유한다.</b> COMT는 단기 투자등급 채권, 물가연동국채, 비미국 국채, 환매조건부채권, 머니마켓 상품을 열거하고, GCC는 국채와 유동성 높은 단기 투자로 규정한다. <b>원자재 ETF의 자산 대부분은 실은 채권이다.</b></p>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 24px 0;">
+<p data-ke-size="size16"><b>확인 우선순위</b></p>
+<p data-ke-size="size16">롤 절차가 요약본에 적혀 있는지</p>
+<progress value="100" max="100"></progress>
+<p data-ke-size="size16">이름에 없는 자산군이 들어갈 수 있는지</p>
+<progress value="88" max="100"></progress>
+<p data-ke-size="size16">지수형인지 액티브인지</p>
+<progress value="72" max="100"></progress>
+<p data-ke-size="size16">계열사 상품 편입 여부</p>
+<progress value="58" max="100"></progress>
+<p data-ke-size="size16">자회사 구조와 담보 자산의 성격</p>
+<progress value="46" max="100"></progress>
